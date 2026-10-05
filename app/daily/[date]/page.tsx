@@ -4,18 +4,22 @@ import Link from "next/link";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import PuzzleView from "@/components/PuzzleView";
 import { formatLongDate, getDailyPuzzle, isValidDailyDate } from "@/lib/data";
+import { seo } from "@/lib/seo";
 
 type Props = { params: Promise<{ date: string }> };
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { date } = await params;
-  if (!isValidDailyDate(date)) return { title: "Daily puzzle not found" };
+  if (!isValidDailyDate(date)) return { title: { absolute: "Page not found | Words at Rest" }, robots: { index: false } };
   const long = formatLongDate(date);
-  return {
-    title: `Daily Word Search for ${long}`,
-    description: `Play the free daily word search for ${long}. No download, no sign-up, no timer.`,
-    alternates: { canonical: `/daily/${date}` },
-  };
+  const p = getDailyPuzzle(date);
+  const short = new Date(`${date}T00:00:00Z`).toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric", timeZone: "UTC" });
+  return seo({
+    title: `Daily Word Search — ${short}`,
+    description: `The free daily word search for ${long}: “${p.title}”, ${p.words.length} words in a ${p.gridSize}×${p.gridSize} grid. No download, no sign-up, no timer.`,
+    path: `/daily/${date}`,
+    image: "/og/daily.jpg",
+  });
 }
 
 export default async function DailyArchivePage({ params }: Props) {

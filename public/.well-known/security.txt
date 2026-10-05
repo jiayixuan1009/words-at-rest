@@ -1,0 +1,4 @@
+Contact: mailto:hello@wordsatrest.com
+Expires: 2027-10-06T00:00:00.000Z
+Preferred-Languages: en
+Canonical: https://wordsatrest.com/.well-known/security.txt

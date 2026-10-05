@@ -1,0 +1,5 @@
+# Words at Rest — ads.txt template (NOT deployed).
+# When Google AdSense approves the site, copy the single line AdSense shows you
+# (AdSense → Sites → wordsatrest.com → ads.txt snippet) into public/ads.txt and redeploy.
+# Format (replace with YOUR real publisher ID — do not deploy this placeholder):
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0

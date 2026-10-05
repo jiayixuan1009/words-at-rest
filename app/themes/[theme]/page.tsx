@@ -1,10 +1,18 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
+import Link from "next/link";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import PuzzleCard from "@/components/PuzzleCard";
 import AdSlot from "@/components/AdSlot";
-import { getPuzzlesByTheme, getTheme, getThemes } from "@/lib/data";
-import { themeImage } from "@/lib/images";
+import Byline from "@/components/Byline";
+import HubSchema from "@/components/HubSchema";
+import ThemeCard from "@/components/ThemeCard";
+import { getPuzzlesByTheme, getTheme, getThemes, puzzlePath } from "@/lib/data";
+import { themeImage, themeImageAlt, themeOgImage } from "@/lib/images";
+import { THEME_EXTRA } from "@/lib/theme-content";
+import { clamp, seo, themeNoun } from "@/lib/seo";
+import { absoluteUrl } from "@/lib/site";
+import JsonLd from "@/components/JsonLd";
 
 type Props = { params: Promise<{ theme: string }> };
 
@@ -12,20 +20,37 @@ export function generateStaticParams() {
   return getThemes().map((t) => ({ theme: t.slug }));
 }
 
+function themeTitle(name: string): string {
+  const long = `${name} Word Search — Free Online Puzzles`;
+  return long.length <= 43 ? long : `${name} Word Search — Free Puzzles`;
+}
+
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const theme = getTheme((await params).theme);
-  if (!theme) return { title: "Theme not found" };
-  return {
-    title: `${theme.name} Word Search — Free Online Puzzles`,
-    description: theme.description.slice(0, 155).replace(/\s+\S*$/, "") + "…",
-    alternates: { canonical: `/themes/${theme.slug}` },
-  };
+  if (!theme) return { title: "Theme not found", robots: { index: false } };
+  const puzzles = getPuzzlesByTheme(theme.id);
+  const sample = theme.words.slice(0, 3).map((w) => w.toLowerCase()).join(", ");
+  return seo({
+    title: themeTitle(theme.name),
+    description: clamp(
+      `${puzzles.length} free ${themeNoun(theme.name)} word search puzzles for adults — ${sample} and more. Play online, no timer, large print on every grid.`,
+      158,
+    ),
+    path: `/themes/${theme.slug}`,
+    image: themeOgImage(theme.slug),
+    imageAlt: `${theme.name} word search — Words at Rest`,
+  });
 }
 
 export default async function ThemePage({ params }: Props) {
   const theme = getTheme((await params).theme);
   if (!theme) notFound();
   const puzzles = getPuzzlesByTheme(theme.id);
+  const extra = THEME_EXTRA[theme.slug];
+  const all = getThemes();
+  const idx = all.findIndex((t) => t.id === theme.id);
+  const others = [1, 2, 3].map((k) => all[(idx + k) % all.length]);
+  const words = [...theme.words].sort();
   return (
     <>
       <Breadcrumbs
@@ -37,22 +62,97 @@ export default async function ThemePage({ params }: Props) {
       <div className="mb-8 overflow-hidden rounded-sm border border-[#d4cbb8] sm:grid sm:grid-cols-[1.1fr_0.9fr]">
         <div className="flex flex-col justify-center p-6 sm:p-8">
           <h1 className="font-serif text-4xl tracking-tight">{theme.name} Word Search</h1>
+          <Byline />
           <p className="mt-4 max-w-2xl text-lg leading-relaxed text-[var(--ink-soft)]">{theme.description}</p>
         </div>
         {/* eslint-disable-next-line @next/next/no-img-element */}
         <img
           src={themeImage(theme.slug)}
-          alt=""
+          alt={themeImageAlt(theme.slug, theme.name)}
           className="aspect-[16/10] w-full object-cover sm:aspect-auto sm:min-h-full"
         />
       </div>
+
       <h2 className="font-serif text-3xl">{theme.name} puzzles</h2>
       <div className="mt-2 max-w-2xl">
         {puzzles.map((p) => (
           <PuzzleCard key={p.id} puzzle={p} />
         ))}
       </div>
+
+      <div className="mt-12 max-w-3xl space-y-4 text-lg leading-relaxed text-[var(--ink-soft)]">
+        {extra && (
+          <>
+            <h2 className="font-serif text-2xl font-semibold text-[var(--ink)]">
+              What words are in the {themeNoun(theme.name)} word search?
+            </h2>
+            <p>{extra.vocabulary}</p>
+          </>
+        )}
+        <p>
+          The full {themeNoun(theme.name)} word bank has {theme.words.length} words. Each puzzle
+          picks a set from this list, so no two grids are quite the same:
+        </p>
+        <p className="font-sans text-base uppercase tracking-[0.08em] text-[var(--ink)]">
+          {words.join(" · ")}
+        </p>
+        {extra && (
+          <>
+            <h2 className="font-serif text-2xl font-semibold text-[var(--ink)]">
+              Who is this theme good for?
+            </h2>
+            <p>{extra.goodFor}</p>
+            <h2 className="font-serif text-2xl font-semibold text-[var(--ink)]">A solving tip</h2>
+            <p>{extra.tip}</p>
+          </>
+        )}
+        <h2 className="font-serif text-2xl font-semibold text-[var(--ink)]">How these puzzles work</h2>
+        <p>
+          Every puzzle is free and plays in your browser on a phone, tablet or computer. Drag across
+          a word, or tap its first and last letter. Easy grids are 10×10 with words across and down;
+          medium grids are 12×12 and add diagonals; hard grids are 15×15 with words in all eight
+          directions. Press <em>Large print</em> above any grid for bigger letters. Progress is saved
+          on your device, and there is never a timer. New to word searches? Read{" "}
+          <Link href="/how-to-play">how to play</Link>.
+        </p>
+      </div>
+
       <AdSlot slot="theme-hub" />
+
+      <section className="mt-12">
+        <h2 className="font-serif text-2xl">More themes to try</h2>
+        <ul className="mt-6 grid gap-8 sm:grid-cols-3">
+          {others.map((t) => (
+            <li key={t.id}>
+              <ThemeCard theme={t} compact />
+            </li>
+          ))}
+        </ul>
+        <p className="mt-6">
+          <Link href="/themes">Browse all themes →</Link>
+        </p>
+      </section>
+
+      <HubSchema
+        type="CollectionPage"
+        name={`${theme.name} Word Search`}
+        description={theme.description}
+        path={`/themes/${theme.slug}`}
+        image={themeOgImage(theme.slug)}
+      />
+      <JsonLd
+        data={{
+          "@context": "https://schema.org",
+          "@type": "ItemList",
+          name: `${theme.name} word search puzzles`,
+          itemListElement: puzzles.map((p, i) => ({
+            "@type": "ListItem",
+            position: i + 1,
+            name: p.title,
+            url: absoluteUrl(puzzlePath(p)),
+          })),
+        }}
+      />
     </>
   );
 }

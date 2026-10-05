@@ -146,3 +146,9 @@ POST /zones/f9f6b8bea56ad0a4a2595f734af5ad7d/dns_records
 | Email Routing 启用、验证 destination、建 `hello@` 规则、发测试信 | **你**（需选定个人收件箱） |
 | 核对 DNS / Routing 是否已写入 | 我们（API 只读或按你授权写入 TXT） |
 | 改代码里的法务文案、GA 开关、Daily 起始日 | 我们（代码库） |
+
+---
+
+## 审计修复后的待办（2026-10-06）
+
+详见 `AUDIT-FIXES.md`「仍需要你」：GSC 验证 + sitemap、GA4 Measurement ID、AdSense 批准后的 `public/ads.txt`（模板 `docs/ads.txt.example`，不要放假 pub ID）、`SITE.sameAs` 社交主页、About 编辑简介确认、Email Routing。

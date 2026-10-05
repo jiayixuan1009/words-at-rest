@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { getPuzzlesByTheme } from "@/lib/data";
-import { themeImage } from "@/lib/images";
+import { themeImage, themeImageAlt } from "@/lib/images";
 import type { Theme } from "@/lib/types";
 
 export default function ThemeCard({ theme, compact = false }: { theme: Theme; compact?: boolean }) {
@@ -15,7 +15,7 @@ export default function ThemeCard({ theme, compact = false }: { theme: Theme; co
         {/* eslint-disable-next-line @next/next/no-img-element */}
         <img
           src={src}
-          alt=""
+          alt={themeImageAlt(theme.slug, theme.name)}
           className="h-full w-full object-cover transition duration-500 group-hover:scale-[1.03]"
           loading="lazy"
         />
@@ -26,7 +26,7 @@ export default function ThemeCard({ theme, compact = false }: { theme: Theme; co
       </div>
       {!compact && (
         <p className="mt-3 line-clamp-2 text-[0.95rem] leading-relaxed text-[var(--ink-soft)]">
-          {theme.description.slice(0, 110)}…
+          {theme.description.slice(0, 110).replace(/\s+\S*$/, "")}…
         </p>
       )}
       <p className="mt-1 font-sans text-xs uppercase tracking-[0.12em] text-[var(--ink-soft)]">

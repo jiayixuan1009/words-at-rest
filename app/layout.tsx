@@ -4,19 +4,41 @@ import SiteHeader from "@/components/SiteHeader";
 import SiteFooter from "@/components/SiteFooter";
 import Analytics from "@/components/Analytics";
 import CookieConsent from "@/components/CookieConsent";
-import { SITE } from "@/lib/site";
+import JsonLd from "@/components/JsonLd";
+import { absoluteUrl, SITE } from "@/lib/site";
+import { organizationSchema } from "@/lib/seo";
+
+const DEFAULT_TITLE = "Free Large Print & Daily Word Search | Words at Rest";
+const DEFAULT_DESC =
+  "Calm, free word search puzzles for adults and seniors. Large print, daily puzzles and seasonal themes — no download, no sign-up, no timer.";
+const DEFAULT_IMAGE = {
+  url: absoluteUrl(SITE.ogImage),
+  width: 1200,
+  height: 630,
+  alt: "Words at Rest — calm word search puzzles for adults",
+};
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE.url),
   title: {
-    default: "Free Word Search Puzzles Online — Large Print & Daily | Words at Rest",
+    default: DEFAULT_TITLE,
     template: "%s | Words at Rest",
   },
-  description:
-    "Calm, free word search puzzles for adults and seniors. Large print, daily puzzles and seasonal themes — no download, no sign-up, no timer.",
+  description: DEFAULT_DESC,
   applicationName: SITE.name,
-  openGraph: { type: "website", siteName: SITE.name, locale: "en_US" },
-  robots: { index: true, follow: true },
+  authors: [{ name: SITE.editor.name, url: absoluteUrl(SITE.editor.aboutPath) }],
+  creator: SITE.editor.name,
+  publisher: SITE.name,
+  openGraph: {
+    type: "website",
+    siteName: SITE.name,
+    locale: "en_US",
+    title: DEFAULT_TITLE,
+    description: DEFAULT_DESC,
+    images: [DEFAULT_IMAGE],
+  },
+  twitter: { card: "summary_large_image", images: [DEFAULT_IMAGE.url] },
+  icons: { apple: "/apple-touch-icon.png" },
 };
 
 export const viewport: Viewport = {
@@ -39,6 +61,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
         <SiteFooter />
         <CookieConsent />
         <Analytics />
+        <JsonLd data={organizationSchema()} />
       </body>
     </html>
   );

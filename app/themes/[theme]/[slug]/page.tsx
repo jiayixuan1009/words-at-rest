@@ -3,6 +3,9 @@ import { notFound } from "next/navigation";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import PuzzleView from "@/components/PuzzleView";
 import { getPuzzle, getPuzzles, getTheme, puzzlePath } from "@/lib/data";
+import { themeOgImage } from "@/lib/images";
+import { seo } from "@/lib/seo";
+import { puzzleDescription, puzzleSeoTitle } from "@/lib/puzzle-seo";
 
 type Props = { params: Promise<{ theme: string; slug: string }> };
 
@@ -13,12 +16,14 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { theme, slug } = await params;
   const puzzle = getPuzzle(theme, slug);
-  if (!puzzle) return { title: "Puzzle not found" };
-  return {
-    title: `${puzzle.title} — Play Free Online`,
-    description: `Play this free ${puzzle.difficulty} word search online: ${puzzle.words.length} words in a ${puzzle.gridSize}×${puzzle.gridSize} grid. No download, no timer, large print available.`,
-    alternates: { canonical: puzzlePath(puzzle) },
-  };
+  if (!puzzle) return { title: "Puzzle not found", robots: { index: false } };
+  return seo({
+    title: puzzleSeoTitle(puzzle),
+    description: puzzleDescription(puzzle, getTheme(theme)),
+    path: puzzlePath(puzzle),
+    image: themeOgImage(puzzle.themeId),
+    imageAlt: `${puzzle.title} — Words at Rest`,
+  });
 }
 
 export default async function PuzzlePage({ params }: Props) {

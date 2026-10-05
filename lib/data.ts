@@ -53,11 +53,26 @@ export function todayUtc(): string {
   return new Date().toISOString().slice(0, 10);
 }
 
+/**
+ * The date whose puzzle /daily shows as "today".
+ *
+ * Choice (documented in AUDIT-FIXES.md): the daily rotation stays on **UTC** so every
+ * visitor worldwide sees the same puzzle and dated URLs never shift with time zones.
+ * At launch, UTC can lag the operator's Asia/Shanghai calendar by up to 8 hours; rather
+ * than showing a "(preview)" page in that window, we clamp to SITE.dailyStart — i.e. the
+ * launch-day puzzle is live as soon as the site is, and normal UTC rotation takes over
+ * from the first UTC day >= dailyStart.
+ */
+export function currentDailyDate(): string {
+  const t = todayUtc();
+  return t >= SITE.dailyStart ? t : SITE.dailyStart;
+}
+
 export function isValidDailyDate(date: string): boolean {
   if (!DATE_RE.test(date)) return false;
   const d = new Date(`${date}T00:00:00Z`);
   if (Number.isNaN(d.getTime()) || d.toISOString().slice(0, 10) !== date) return false;
-  return date >= SITE.dailyStart && date <= todayUtc();
+  return date >= SITE.dailyStart && date <= currentDailyDate();
 }
 
 export function getDailyPuzzle(date: string): Puzzle {
@@ -71,7 +86,7 @@ export function getDailyPuzzle(date: string): Puzzle {
 export function getDailyArchive(limit = 30): string[] {
   const out: string[] = [];
   const start = new Date(`${SITE.dailyStart}T00:00:00Z`).getTime();
-  let t = new Date(`${todayUtc()}T00:00:00Z`).getTime();
+  let t = new Date(`${currentDailyDate()}T00:00:00Z`).getTime();
   while (t >= start && out.length < limit) {
     out.push(new Date(t).toISOString().slice(0, 10));
     t -= 86400000;

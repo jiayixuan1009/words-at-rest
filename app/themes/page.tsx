@@ -1,24 +1,33 @@
 import type { Metadata } from "next";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import ThemeCard from "@/components/ThemeCard";
-import { getThemes } from "@/lib/data";
+import Link from "next/link";
+import Byline from "@/components/Byline";
+import HubSchema from "@/components/HubSchema";
+import { getPuzzles, getThemes } from "@/lib/data";
+import { seo } from "@/lib/seo";
 
-export const metadata: Metadata = {
+const DESCRIPTION =
+  "Browse free word search puzzles by theme: Halloween, fall, Christmas, animals, ocean, garden, music, space, large print and more. Original word lists, playable online.";
+
+export const metadata: Metadata = seo({
   title: "Word Search Themes — Browse All Puzzles",
-  description:
-    "Browse free word search puzzles by theme: seasonal, animals, large print and more. Original word lists, playable online.",
-  alternates: { canonical: "/themes" },
-};
+  description: DESCRIPTION,
+  path: "/themes",
+});
 
 export default function ThemesPage() {
   const themes = getThemes();
+  const total = getPuzzles().length;
   return (
     <>
       <Breadcrumbs items={[{ name: "Themes", href: "/themes" }]} />
       <h1 className="font-serif text-4xl tracking-tight sm:text-5xl">Word search themes</h1>
+      <Byline />
       <p className="mt-4 max-w-2xl text-lg leading-relaxed text-[var(--ink-soft)]">
-        Every theme has its own original word list and several puzzles across difficulty levels —
-        written for adults, free of licensed characters.
+        {themes.length} themes and {total} free puzzles. Every theme has its own original word list
+        and several puzzles across difficulty levels — written for adults, free of licensed
+        characters.
       </p>
       <ul className="mt-10 grid gap-10 sm:grid-cols-2 lg:grid-cols-3">
         {themes.map((t) => (
@@ -27,6 +36,33 @@ export default function ThemesPage() {
           </li>
         ))}
       </ul>
+      <section className="mt-14 max-w-3xl space-y-4 text-lg leading-relaxed text-[var(--ink-soft)]">
+        <h2 className="font-serif text-2xl font-semibold text-[var(--ink)]">How are the themes organised?</h2>
+        <p>
+          <strong className="text-[var(--ink)]">Seasonal themes</strong> —{" "}
+          <Link href="/themes/halloween">Halloween</Link>, <Link href="/themes/fall">fall</Link> and{" "}
+          <Link href="/themes/christmas">Christmas</Link> — follow the calendar and get new puzzles as
+          each season comes round. <strong className="text-[var(--ink)]">Evergreen themes</strong>{" "}
+          such as animals, food, ocean, garden, travel, music and space work any time of year.{" "}
+          <strong className="text-[var(--ink)]">Packs</strong> group puzzles by how they play rather
+          than by topic: the <Link href="/themes/large-print-pack">Large Print Pack</Link> for
+          comfortable reading and the <Link href="/themes/hard-pack">Hard Pack</Link> for a serious
+          challenge.
+        </p>
+        <h2 className="font-serif text-2xl font-semibold text-[var(--ink)]">Which theme should I choose?</h2>
+        <p>
+          Pick whatever you feel like reading about — a theme is simply the word list. If you want a
+          particular level of challenge, you can also browse by difficulty:{" "}
+          <Link href="/difficulty/easy">easy</Link>, <Link href="/difficulty/medium">medium</Link> or{" "}
+          <Link href="/difficulty/hard">hard</Link>. Not sure where to start? Today’s{" "}
+          <Link href="/daily">daily word search</Link> picks one for you.
+        </p>
+        <p>
+          Have an idea for a new theme? <Link href="/contact">Tell us</Link> — reader suggestions help
+          decide what we make next.
+        </p>
+      </section>
+      <HubSchema type="CollectionPage" name="Word search themes" description={DESCRIPTION} path="/themes" />
     </>
   );
 }
