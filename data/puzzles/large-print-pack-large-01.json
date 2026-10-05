@@ -1,0 +1,173 @@
+{
+  "id": "large-print-pack-large-01",
+  "slug": "large-print-pack-large-01",
+  "themeId": "large-print-pack",
+  "title": "Large Print Word Search: Garden & Home",
+  "primaryKeyword": "large print word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BEACH",
+    "COTTAGE",
+    "PEBBLE",
+    "QUILT",
+    "RAINBOW",
+    "RIVER",
+    "SPRING",
+    "SUMMER"
+  ],
+  "grid": [
+    [
+      "L",
+      "C",
+      "O",
+      "T",
+      "T",
+      "A",
+      "G",
+      "E",
+      "Q"
+    ],
+    [
+      "E",
+      "S",
+      "C",
+      "P",
+      "W",
+      "B",
+      "R",
+      "R",
+      "U"
+    ],
+    [
+      "C",
+      "P",
+      "O",
+      "E",
+      "N",
+      "E",
+      "R",
+      "A",
+      "I"
+    ],
+    [
+      "E",
+      "R",
+      "C",
+      "B",
+      "O",
+      "A",
+      "I",
+      "I",
+      "L"
+    ],
+    [
+      "S",
+      "I",
+      "W",
+      "B",
+      "T",
+      "C",
+      "V",
+      "N",
+      "T"
+    ],
+    [
+      "Y",
+      "N",
+      "V",
+      "L",
+      "K",
+      "H",
+      "E",
+      "B",
+      "W"
+    ],
+    [
+      "J",
+      "G",
+      "P",
+      "E",
+      "X",
+      "S",
+      "R",
+      "O",
+      "C"
+    ],
+    [
+      "D",
+      "B",
+      "G",
+      "D",
+      "R",
+      "T",
+      "W",
+      "W",
+      "P"
+    ],
+    [
+      "A",
+      "F",
+      "Q",
+      "S",
+      "U",
+      "M",
+      "M",
+      "E",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "COTTAGE",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "RAINBOW",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SPRING",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SUMMER",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "PEBBLE",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "BEACH",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "QUILT",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "RIVER",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 3001
+}

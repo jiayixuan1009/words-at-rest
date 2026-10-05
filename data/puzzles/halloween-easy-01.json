@@ -1,0 +1,208 @@
+{
+  "id": "halloween-easy-01",
+  "slug": "halloween-easy-01",
+  "themeId": "halloween",
+  "title": "Easy Halloween Word Search",
+  "primaryKeyword": "halloween word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BAT",
+    "BROOMSTICK",
+    "CANDLE",
+    "GOURD",
+    "MASK",
+    "MOONLIGHT",
+    "OWL",
+    "POTION",
+    "TOMBSTONE",
+    "WEREWOLF"
+  ],
+  "grid": [
+    [
+      "P",
+      "F",
+      "U",
+      "T",
+      "S",
+      "F",
+      "M",
+      "U",
+      "B",
+      "E"
+    ],
+    [
+      "Y",
+      "B",
+      "K",
+      "O",
+      "B",
+      "G",
+      "O",
+      "U",
+      "R",
+      "D"
+    ],
+    [
+      "W",
+      "A",
+      "Z",
+      "M",
+      "C",
+      "O",
+      "O",
+      "P",
+      "O",
+      "M"
+    ],
+    [
+      "E",
+      "T",
+      "E",
+      "B",
+      "A",
+      "T",
+      "N",
+      "O",
+      "O",
+      "D"
+    ],
+    [
+      "R",
+      "R",
+      "H",
+      "S",
+      "N",
+      "Y",
+      "L",
+      "T",
+      "M",
+      "C"
+    ],
+    [
+      "E",
+      "W",
+      "Y",
+      "T",
+      "D",
+      "I",
+      "I",
+      "I",
+      "S",
+      "M"
+    ],
+    [
+      "W",
+      "X",
+      "U",
+      "O",
+      "L",
+      "J",
+      "G",
+      "O",
+      "T",
+      "A"
+    ],
+    [
+      "O",
+      "U",
+      "V",
+      "N",
+      "E",
+      "M",
+      "H",
+      "N",
+      "I",
+      "S"
+    ],
+    [
+      "L",
+      "E",
+      "I",
+      "E",
+      "T",
+      "C",
+      "T",
+      "C",
+      "C",
+      "K"
+    ],
+    [
+      "F",
+      "E",
+      "X",
+      "A",
+      "E",
+      "O",
+      "W",
+      "L",
+      "K",
+      "Q"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BROOMSTICK",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "TOMBSTONE",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "MOONLIGHT",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "WEREWOLF",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CANDLE",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "POTION",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "GOURD",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "MASK",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "BAT",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "OWL",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 1031
+}

@@ -1,0 +1,284 @@
+{
+  "id": "animals-medium-01",
+  "slug": "animals-medium-01",
+  "themeId": "animals",
+  "title": "Medium Animals Word Search",
+  "primaryKeyword": "animals word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BADGER",
+    "BEAR",
+    "BEAVER",
+    "DOLPHIN",
+    "EAGLE",
+    "FALCON",
+    "HERON",
+    "KANGAROO",
+    "KOALA",
+    "MOOSE",
+    "OTTER",
+    "SALMON",
+    "TORTOISE",
+    "WOLF"
+  ],
+  "grid": [
+    [
+      "O",
+      "Z",
+      "F",
+      "A",
+      "L",
+      "C",
+      "O",
+      "N",
+      "J",
+      "U",
+      "O",
+      "F"
+    ],
+    [
+      "K",
+      "O",
+      "A",
+      "L",
+      "A",
+      "X",
+      "T",
+      "D",
+      "L",
+      "O",
+      "S",
+      "W"
+    ],
+    [
+      "A",
+      "P",
+      "N",
+      "B",
+      "E",
+      "A",
+      "V",
+      "E",
+      "R",
+      "G",
+      "I",
+      "U"
+    ],
+    [
+      "N",
+      "Y",
+      "V",
+      "V",
+      "J",
+      "B",
+      "Z",
+      "T",
+      "D",
+      "I",
+      "U",
+      "A"
+    ],
+    [
+      "G",
+      "B",
+      "A",
+      "D",
+      "G",
+      "E",
+      "R",
+      "M",
+      "O",
+      "W",
+      "F",
+      "S"
+    ],
+    [
+      "A",
+      "H",
+      "O",
+      "N",
+      "W",
+      "A",
+      "T",
+      "U",
+      "L",
+      "O",
+      "Z",
+      "A"
+    ],
+    [
+      "R",
+      "W",
+      "T",
+      "M",
+      "X",
+      "R",
+      "K",
+      "C",
+      "P",
+      "L",
+      "V",
+      "L"
+    ],
+    [
+      "O",
+      "S",
+      "T",
+      "X",
+      "B",
+      "T",
+      "O",
+      "O",
+      "H",
+      "F",
+      "L",
+      "M"
+    ],
+    [
+      "O",
+      "H",
+      "E",
+      "T",
+      "O",
+      "R",
+      "T",
+      "O",
+      "I",
+      "S",
+      "E",
+      "O"
+    ],
+    [
+      "K",
+      "G",
+      "R",
+      "M",
+      "N",
+      "D",
+      "J",
+      "Z",
+      "N",
+      "X",
+      "K",
+      "N"
+    ],
+    [
+      "E",
+      "M",
+      "O",
+      "O",
+      "S",
+      "E",
+      "A",
+      "G",
+      "L",
+      "E",
+      "N",
+      "T"
+    ],
+    [
+      "H",
+      "E",
+      "R",
+      "O",
+      "N",
+      "D",
+      "N",
+      "J",
+      "D",
+      "J",
+      "S",
+      "I"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "KANGAROO",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "TORTOISE",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "DOLPHIN",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "BEAVER",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "FALCON",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SALMON",
+      "row": 4,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "BADGER",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "KOALA",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "OTTER",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "EAGLE",
+      "row": 10,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "HERON",
+      "row": 11,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "MOOSE",
+      "row": 10,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "WOLF",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "BEAR",
+      "row": 3,
+      "col": 5,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2002
+}

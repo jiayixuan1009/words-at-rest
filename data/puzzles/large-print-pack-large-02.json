@@ -1,0 +1,173 @@
+{
+  "id": "large-print-pack-large-02",
+  "slug": "large-print-pack-large-02",
+  "themeId": "large-print-pack",
+  "title": "Large Print Word Search: Seasons & Strolls",
+  "primaryKeyword": "large print word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BIRDSONG",
+    "COFFEE",
+    "PEBBLE",
+    "ROSE",
+    "SLIPPERS",
+    "SUMMER",
+    "TEAPOT",
+    "WINTER"
+  ],
+  "grid": [
+    [
+      "B",
+      "S",
+      "L",
+      "I",
+      "P",
+      "P",
+      "E",
+      "R",
+      "S"
+    ],
+    [
+      "T",
+      "T",
+      "U",
+      "K",
+      "K",
+      "L",
+      "A",
+      "H",
+      "S"
+    ],
+    [
+      "O",
+      "C",
+      "C",
+      "O",
+      "F",
+      "F",
+      "E",
+      "E",
+      "U"
+    ],
+    [
+      "W",
+      "I",
+      "N",
+      "T",
+      "E",
+      "R",
+      "L",
+      "C",
+      "M"
+    ],
+    [
+      "P",
+      "E",
+      "B",
+      "B",
+      "L",
+      "E",
+      "X",
+      "U",
+      "M"
+    ],
+    [
+      "G",
+      "G",
+      "G",
+      "T",
+      "Y",
+      "R",
+      "O",
+      "S",
+      "E"
+    ],
+    [
+      "B",
+      "I",
+      "R",
+      "D",
+      "S",
+      "O",
+      "N",
+      "G",
+      "R"
+    ],
+    [
+      "M",
+      "B",
+      "X",
+      "L",
+      "Q",
+      "W",
+      "F",
+      "I",
+      "V"
+    ],
+    [
+      "T",
+      "E",
+      "A",
+      "P",
+      "O",
+      "T",
+      "A",
+      "P",
+      "J"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BIRDSONG",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SLIPPERS",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PEBBLE",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "COFFEE",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SUMMER",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "WINTER",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "TEAPOT",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "ROSE",
+      "row": 5,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 3002
+}

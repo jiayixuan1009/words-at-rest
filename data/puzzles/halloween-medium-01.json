@@ -1,0 +1,284 @@
+{
+  "id": "halloween-medium-01",
+  "slug": "halloween-medium-01",
+  "themeId": "halloween",
+  "title": "Medium Halloween Word Search",
+  "primaryKeyword": "halloween word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "AUTUMN",
+    "BAT",
+    "CANDY",
+    "CAULDRON",
+    "CROW",
+    "GOURD",
+    "HAYRIDE",
+    "LANTERN",
+    "MIDNIGHT",
+    "POTION",
+    "PUMPKIN",
+    "SKELETON",
+    "SPOOKY",
+    "WITCH"
+  ],
+  "grid": [
+    [
+      "L",
+      "A",
+      "N",
+      "T",
+      "E",
+      "R",
+      "N",
+      "S",
+      "U",
+      "P",
+      "N",
+      "O"
+    ],
+    [
+      "S",
+      "V",
+      "L",
+      "P",
+      "O",
+      "T",
+      "I",
+      "O",
+      "N",
+      "O",
+      "G",
+      "E"
+    ],
+    [
+      "O",
+      "N",
+      "V",
+      "C",
+      "S",
+      "B",
+      "A",
+      "C",
+      "R",
+      "E",
+      "D",
+      "S"
+    ],
+    [
+      "S",
+      "G",
+      "P",
+      "D",
+      "P",
+      "E",
+      "F",
+      "D",
+      "O",
+      "I",
+      "K",
+      "P"
+    ],
+    [
+      "K",
+      "O",
+      "C",
+      "P",
+      "D",
+      "U",
+      "L",
+      "Q",
+      "R",
+      "G",
+      "W",
+      "O"
+    ],
+    [
+      "E",
+      "U",
+      "A",
+      "N",
+      "A",
+      "U",
+      "M",
+      "Y",
+      "S",
+      "E",
+      "I",
+      "O"
+    ],
+    [
+      "L",
+      "R",
+      "N",
+      "P",
+      "A",
+      "T",
+      "A",
+      "P",
+      "R",
+      "Y",
+      "T",
+      "K"
+    ],
+    [
+      "E",
+      "D",
+      "D",
+      "C",
+      "B",
+      "H",
+      "B",
+      "Y",
+      "K",
+      "C",
+      "C",
+      "Y"
+    ],
+    [
+      "T",
+      "Z",
+      "Y",
+      "Z",
+      "Q",
+      "U",
+      "O",
+      "A",
+      "A",
+      "I",
+      "H",
+      "N"
+    ],
+    [
+      "O",
+      "M",
+      "I",
+      "D",
+      "N",
+      "I",
+      "G",
+      "H",
+      "T",
+      "M",
+      "N",
+      "K"
+    ],
+    [
+      "N",
+      "S",
+      "A",
+      "U",
+      "T",
+      "U",
+      "M",
+      "N",
+      "A",
+      "S",
+      "X",
+      "I"
+    ],
+    [
+      "S",
+      "L",
+      "C",
+      "R",
+      "O",
+      "W",
+      "R",
+      "I",
+      "U",
+      "H",
+      "B",
+      "U"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CAULDRON",
+      "row": 7,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "MIDNIGHT",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SKELETON",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "HAYRIDE",
+      "row": 7,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "PUMPKIN",
+      "row": 3,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "LANTERN",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SPOOKY",
+      "row": 2,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "AUTUMN",
+      "row": 10,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "POTION",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "GOURD",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "CANDY",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "WITCH",
+      "row": 4,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "CROW",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BAT",
+      "row": 7,
+      "col": 6,
+      "direction": "SE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 1032
+}

@@ -1,0 +1,15 @@
+{
+  "id": "halloween",
+  "slug": "halloween",
+  "name": "Halloween",
+  "season": "fall",
+  "primaryKeyword": "halloween word search",
+  "description": "Settle in with a Halloween word search made for grown-up puzzlers. These free online puzzles gather the classic vocabulary of late October: lanterns, harvest moons, costumes, cobwebs and candlelit porches. Every grid is hand-themed and playable right in your browser with no download or sign-up. Choose an easy puzzle for a gentle warm-up, a medium grid with diagonal words, or a hard puzzle where words can run backwards. There is no timer and no pressure, just a seasonal word list and a quiet few minutes. New Halloween puzzles are added through the season, so check back as the nights draw in.",
+  "words": [
+    "PUMPKIN", "LANTERN", "COSTUME", "CANDLE", "COBWEB", "HARVEST", "MOONLIGHT", "AUTUMN",
+    "CAULDRON", "BROOMSTICK", "GHOST", "SPIDER", "SKELETON", "OWL", "BAT", "CROW",
+    "SCARECROW", "MASK", "SHADOW", "CANDY", "TREAT", "TRICK", "HAUNTED", "LEGEND",
+    "POTION", "WITCH", "GOURD", "HAYRIDE", "PORCH", "OCTOBER", "MIDNIGHT", "FOG",
+    "SPOOKY", "ORCHARD", "CIDER", "MYSTERY", "TOMBSTONE", "WEREWOLF", "VAMPIRE", "PARADE"
+  ]
+}

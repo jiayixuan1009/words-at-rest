@@ -1,0 +1,15 @@
+{
+  "id": "animals",
+  "slug": "animals",
+  "name": "Animals",
+  "season": "evergreen",
+  "primaryKeyword": "animals word search",
+  "description": "Our animals word search puzzles are a relaxing way to spend a few minutes with the natural world. Each free online grid draws on creatures from forests, oceans, grasslands and back gardens, from the patient heron to the busy otter. The word lists are written for adults and older teens who enjoy a calm, focused puzzle rather than flashing games. Start with an easy grid where every word runs across or down, or pick a medium puzzle with diagonals for a little more challenge. Your progress is saved in your browser, so you can step away and finish later. Prefer bigger letters? Switch on large print at any time.",
+  "words": [
+    "ELEPHANT", "GIRAFFE", "HERON", "OTTER", "BADGER", "HEDGEHOG", "FALCON", "TORTOISE",
+    "DOLPHIN", "WALRUS", "PENGUIN", "LEOPARD", "CHEETAH", "MOOSE", "BISON", "BEAVER",
+    "SQUIRREL", "RABBIT", "SPARROW", "ROBIN", "EAGLE", "SALMON", "WHALE", "OCTOPUS",
+    "KANGAROO", "KOALA", "PANDA", "ZEBRA", "CAMEL", "LLAMA", "FOX", "WOLF",
+    "BEAR", "DEER", "HORSE", "PELICAN", "FLAMINGO", "RACCOON", "CHIPMUNK", "MOLE"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "large-print-pack",
+  "slug": "large-print-pack",
+  "name": "Large Print Pack",
+  "season": "evergreen",
+  "primaryKeyword": "large print word search",
+  "description": "The Large Print Pack is a collection of word search puzzles designed to be easy on the eyes. Grids are smaller, letters are bigger, and contrast is high, so you can enjoy a puzzle comfortably on a phone, tablet or desktop screen. Words run across and down only, and the themes stay gentle: gardens, kitchens, seasons, travel and quiet everyday pleasures. These free large print word searches are popular with seniors, readers who prefer bigger type, and anyone who wants a calm, unhurried break. There is no timer, no download and no account needed. Simply tap the first and last letter of a word, or drag across it, to mark it found.",
+  "words": [
+    "GARDEN", "TEAPOT", "SUNSHINE", "MEADOW", "BLANKET", "LETTER", "PICNIC", "RIVER",
+    "BAKERY", "COTTAGE", "VIOLIN", "PIANO", "DAISY", "TULIP", "ROSE", "LILY",
+    "COFFEE", "HONEY", "BREAD", "APPLE", "LEMON", "SUMMER", "WINTER", "SPRING",
+    "BEACH", "HARBOR", "VALLEY", "FOREST", "CANDLE", "SLIPPERS", "BOOKSHELF", "PORCH",
+    "RAINBOW", "BREEZE", "SUNSET", "STROLL", "KETTLE", "QUILT", "BIRDSONG", "PEBBLE"
+  ]
+}

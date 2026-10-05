@@ -1,0 +1,208 @@
+{
+  "id": "animals-easy-01",
+  "slug": "animals-easy-01",
+  "themeId": "animals",
+  "title": "Easy Animals Word Search",
+  "primaryKeyword": "animals word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BISON",
+    "CHEETAH",
+    "DOLPHIN",
+    "ELEPHANT",
+    "FLAMINGO",
+    "HEDGEHOG",
+    "KANGAROO",
+    "LLAMA",
+    "MOLE",
+    "PANDA"
+  ],
+  "grid": [
+    [
+      "Z",
+      "M",
+      "S",
+      "F",
+      "D",
+      "Q",
+      "B",
+      "X",
+      "K",
+      "F"
+    ],
+    [
+      "E",
+      "F",
+      "H",
+      "L",
+      "O",
+      "C",
+      "Q",
+      "O",
+      "A",
+      "S"
+    ],
+    [
+      "L",
+      "V",
+      "E",
+      "A",
+      "L",
+      "H",
+      "Q",
+      "P",
+      "Q",
+      "I"
+    ],
+    [
+      "E",
+      "B",
+      "D",
+      "M",
+      "P",
+      "E",
+      "D",
+      "A",
+      "O",
+      "L"
+    ],
+    [
+      "P",
+      "I",
+      "G",
+      "I",
+      "H",
+      "E",
+      "M",
+      "N",
+      "X",
+      "L"
+    ],
+    [
+      "H",
+      "S",
+      "E",
+      "N",
+      "I",
+      "T",
+      "O",
+      "D",
+      "J",
+      "A"
+    ],
+    [
+      "A",
+      "O",
+      "H",
+      "G",
+      "N",
+      "A",
+      "L",
+      "A",
+      "F",
+      "M"
+    ],
+    [
+      "N",
+      "N",
+      "O",
+      "O",
+      "P",
+      "H",
+      "E",
+      "Q",
+      "Q",
+      "A"
+    ],
+    [
+      "T",
+      "S",
+      "G",
+      "Q",
+      "D",
+      "R",
+      "G",
+      "L",
+      "V",
+      "F"
+    ],
+    [
+      "K",
+      "A",
+      "N",
+      "G",
+      "A",
+      "R",
+      "O",
+      "O",
+      "D",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FLAMINGO",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "KANGAROO",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "ELEPHANT",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "HEDGEHOG",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "DOLPHIN",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "CHEETAH",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "BISON",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "PANDA",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "LLAMA",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "MOLE",
+      "row": 4,
+      "col": 6,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2001
+}
