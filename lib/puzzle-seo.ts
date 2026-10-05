@@ -19,7 +19,8 @@ export function puzzleDescription(p: Puzzle, theme?: Theme): string {
   const rest = p.words.length - picks.length;
   const level = p.largePrint ? "large print" : p.difficulty;
   const note = p.largePrint ? "big letters, words across and down" : LEVEL_NOTE[p.difficulty];
-  const topic = theme ? `${themeNoun(theme.name)} ` : "";
+  // Packs (large-print-pack, hard-pack) describe the format, not a topic — avoid "hard hard pack".
+  const topic = theme && !theme.slug.endsWith("-pack") ? `${themeNoun(theme.name)} ` : "";
   return clamp(
     `Find ${picks.join(", ")} and ${rest} more words in this ${level} ${topic}word search: ${p.gridSize}×${p.gridSize} grid, ${note}. Free online, no timer.`,
     160,
