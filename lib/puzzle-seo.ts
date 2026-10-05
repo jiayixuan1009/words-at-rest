@@ -21,9 +21,8 @@ export function puzzleDescription(p: Puzzle, theme?: Theme): string {
   const note = p.largePrint ? "big letters, words across and down" : LEVEL_NOTE[p.difficulty];
   // Packs (large-print-pack, hard-pack) describe the format, not a topic — avoid "hard hard pack".
   const topic = theme && !theme.slug.endsWith("-pack") ? `${themeNoun(theme.name)} ` : "";
-  return clamp(
-    `Find ${picks.join(", ")} and ${rest} more words in this ${level} ${topic}word search: ${p.gridSize}×${p.gridSize} grid, ${note}. Free online, no timer.`,
-    160,
-  );
+  const base = `Find ${picks.join(", ")} and ${rest} more words in this ${level} ${topic}word search: ${p.gridSize}×${p.gridSize} grid, ${note}.`;
+  const full = `${base} Free online, no timer.`;
+  return clamp(full.length <= 160 ? full : `${base} Free, no timer.`, 160);
 }
 
