@@ -32,6 +32,14 @@ export default function PuzzleGrid({
 }: PuzzleGridProps) {
   const size = grid.length;
   const storageKey = `war:progress:${puzzleId}`;
+  // Prefer placement word list so UI count matches what can actually be found.
+  const targetWords = useMemo(() => {
+    const fromPlacements = placements.map((p) => p.word);
+    if (fromPlacements.length > 0) return fromPlacements;
+    return words.map((w) => w.toUpperCase());
+  }, [placements, words]);
+  const targetCount = targetWords.length;
+
   const [found, setFound] = useState<Set<string>>(() => new Set());
   const [largePrint, setLargePrint] = useState(defaultLargePrint);
   const [dragStart, setDragStart] = useState<Cell | null>(null);
@@ -39,18 +47,23 @@ export default function PuzzleGrid({
   const [pending, setPending] = useState<Cell | null>(null);
   const [message, setMessage] = useState<string>("");
   const gridRef = useRef<HTMLDivElement>(null);
+  const pointerIdRef = useRef<number | null>(null);
 
   // Restore saved progress after hydration.
   useEffect(() => {
     try {
       const raw = localStorage.getItem(storageKey);
-      if (raw) setFound(new Set(JSON.parse(raw) as string[]));
+      if (raw) {
+        const saved = JSON.parse(raw) as string[];
+        const allowed = new Set(targetWords);
+        setFound(new Set(saved.filter((w) => allowed.has(w))));
+      }
       const lp = localStorage.getItem("war:largePrint");
       if (lp !== null && !defaultLargePrint) setLargePrint(lp === "1");
     } catch {
       /* storage unavailable — play without saving */
     }
-  }, [storageKey, defaultLargePrint]);
+  }, [storageKey, defaultLargePrint, targetWords]);
 
   const persist = useCallback(
     (next: Set<string>) => {
@@ -91,35 +104,61 @@ export default function PuzzleGrid({
       const line = lineCells(a, b);
       if (!line) return;
       const sig = line.map(key).join("|");
-      const hit = placementKeys.find((pk) => !found.has(pk.word) && (pk.fwd === sig || pk.rev === sig));
-      if (hit) {
-        const next = new Set(found).add(hit.word);
-        setFound(next);
+      setFound((prev) => {
+        const hit = placementKeys.find(
+          (pk) => !prev.has(pk.word) && (pk.fwd === sig || pk.rev === sig),
+        );
+        if (!hit) return prev;
+        const next = new Set(prev).add(hit.word);
         persist(next);
         setMessage(
-          next.size === words.length ? "Puzzle complete — well done." : `Found ${hit.word}.`,
+          next.size === targetCount ? "Puzzle complete — well done." : `Found ${hit.word}.`,
         );
-      }
+        return next;
+      });
     },
-    [found, placementKeys, persist, words.length],
+    [placementKeys, persist, targetCount],
   );
 
   const cellFromPoint = (x: number, y: number): Cell | null => {
     const el = document.elementFromPoint(x, y) as HTMLElement | null;
-    const r = el?.dataset?.r;
-    const c = el?.dataset?.c;
-    if (r === undefined || c === undefined) return null;
-    return [Number(r), Number(c)];
+    // Walk up in case a child text node / nested element is hit.
+    let node: HTMLElement | null = el;
+    while (node && node !== gridRef.current) {
+      const r = node.dataset?.r;
+      const c = node.dataset?.c;
+      if (r !== undefined && c !== undefined) return [Number(r), Number(c)];
+      node = node.parentElement;
+    }
+    return null;
+  };
+
+  const releasePointer = () => {
+    const id = pointerIdRef.current;
+    if (id !== null && gridRef.current?.hasPointerCapture?.(id)) {
+      try {
+        gridRef.current.releasePointerCapture(id);
+      } catch {
+        /* already released */
+      }
+    }
+    pointerIdRef.current = null;
   };
 
   const onPointerDown = (e: React.PointerEvent, cell: Cell) => {
+    // Avoid scroll/zoom stealing the gesture on mobile.
     e.preventDefault();
     if (pending && key(pending) !== key(cell)) {
       evaluate(pending, cell);
       setPending(null);
       return;
     }
-    gridRef.current?.setPointerCapture?.(e.pointerId);
+    try {
+      gridRef.current?.setPointerCapture?.(e.pointerId);
+      pointerIdRef.current = e.pointerId;
+    } catch {
+      /* capture unsupported */
+    }
     setDragStart(cell);
     setHover(cell);
   };
@@ -131,7 +170,10 @@ export default function PuzzleGrid({
   };
 
   const onPointerUp = () => {
-    if (!dragStart) return;
+    if (!dragStart) {
+      releasePointer();
+      return;
+    }
     if (hover && key(hover) !== key(dragStart)) {
       evaluate(dragStart, hover);
       setPending(null);
@@ -141,12 +183,14 @@ export default function PuzzleGrid({
     }
     setDragStart(null);
     setHover(null);
+    releasePointer();
   };
 
   const reset = () => {
     const empty = new Set<string>();
     setFound(empty);
     persist(empty);
+    setPending(null);
     setMessage("Progress cleared.");
   };
 
@@ -161,7 +205,7 @@ export default function PuzzleGrid({
     });
   };
 
-  const complete = found.size === words.length;
+  const complete = found.size === targetCount && targetCount > 0;
 
   return (
     <section aria-label="Word search puzzle" className="space-y-4">
@@ -182,7 +226,7 @@ export default function PuzzleGrid({
           Reset
         </button>
         <span className="text-[var(--ink-soft)]" aria-live="polite">
-          {found.size} / {words.length} found{message ? ` · ${message}` : ""}
+          {found.size} / {targetCount} found{message ? ` · ${message}` : ""}
         </span>
       </div>
 
@@ -231,7 +275,7 @@ export default function PuzzleGrid({
         <div className="min-w-48">
           <h2 className={`mb-2 font-semibold ${largePrint ? "text-2xl" : "text-lg"}`}>Words to find</h2>
           <ul className={`grid grid-cols-2 gap-x-6 gap-y-1 lg:grid-cols-1 ${largePrint ? "text-2xl" : "text-base"}`}>
-            {words.map((w) => (
+            {targetWords.map((w) => (
               <li
                 key={w}
                 className={found.has(w) ? "text-[#a89880] line-through" : "text-[var(--ink)]"}

@@ -41,9 +41,11 @@ export function puzzlePath(p: Puzzle): string {
 }
 
 // ---- Daily ---------------------------------------------------------------
-// STUB: daily rotation is a deterministic hash of the UTC date over the
-// non-large-print pool. Replace with a committed data/daily.json schedule
-// (date -> puzzleId) once there are enough puzzles, so archive pages never change.
+// Daily rotation: deterministic FNV-ish hash of the UTC date (YYYY-MM-DD) over
+// the non-large-print pool. Archive /sitemap only include dates from
+// SITE.dailyStart (DAILY_START, default 2026-10-06) through today UTC.
+// Pre-launch dates 404 via isValidDailyDate. Later: commit data/daily.json
+// (date -> puzzleId) so archive pages never reshuffle when the pool grows.
 
 export const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
 

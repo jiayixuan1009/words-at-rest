@@ -42,9 +42,9 @@ puzzle pages add WebPage/Game JSON-LD.
 ## Stubbed / TODO
 - `lib/engine.ts`: self-written deterministic placer (mulberry32). Harden or swap to MIT engine (wordfind) — TBD.
 - Daily = FNV hash of UTC date over non-large-print pool → move to committed `data/daily.json` schedule.
-- `DAILY_START` defaults to 2026-10-01; set to real launch date (env var or `lib/site.ts`).
+- `DAILY_START` defaults to **2026-10-06** (launch day); override with env. Pre-launch dates 404 / omitted from sitemap.
 - `hello@wordsatrest.com` placeholder — needs a real inbox (Cloudflare Email Routing works) before AdSense.
-- `AdSlot` reserves space only; no AdSense/GA4/Consent code yet.
+- `AdSlot` reserves space only; GA4 loads only if `NEXT_PUBLIC_GA_ID` is set; cookie banner stub behind `NEXT_PUBLIC_COOKIE_CONSENT=1`.
 - Sitemap is single file; split into index (P1).
 - Only 7 puzzles / 3 themes — launch target is ≥40 puzzles / 15 themes (add specs in `scripts/generate-puzzles.ts`).
 

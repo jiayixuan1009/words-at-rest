@@ -1,11 +1,20 @@
 /**
- * Words at Rest — placeholder word-search engine.
+ * Words at Rest — build-time word-search placement engine.
  *
- * STUB / TBD: this is a small, self-written, deterministic placement engine so the
- * scaffold can pre-generate grids and SSR them. Before launch, either harden it
- * (better fill, word-overlap scoring, no accidental duplicate words) or swap in an
- * MIT-licensed engine (e.g. tcha-tcho/wordfind) behind the same function signature.
- * Keep generation at build/script time and commit the JSON output.
+ * Deterministic (mulberry32 seed). Generation runs in `npm run generate`; committed
+ * JSON is what the site SSRs. Do not regenerate in the request path.
+ *
+ * Known gaps (acceptable for v1; fix before large catalog growth):
+ * - Fill letters can accidentally spell a listed word along another path; the
+ *   player UI only accepts intentional `placements`, so accidental paths do not
+ *   count as “found”, but they can confuse. Mitigated lightly by `scrubAccidentalWords`.
+ * - No overlap-quality scoring; placement is random-fit.
+ * - Backwards words only on hard.
+ *
+ * MIT swap candidate (same pre-generate → JSON workflow):
+ * - `wordfind` (npm; upstream often cited as bunkat/wordfind or forks such as
+ *   tcha-tcho/wordfind). Keep `generateGrid`’s `{ grid, placements, skipped }`
+ *   shape as the adapter boundary.
  */
 import type { Difficulty, Direction, Placement } from "./types.ts";
 
@@ -70,7 +79,7 @@ export function generateGrid(opts: GenerateOptions): GenerateResult {
   const skipped: string[] = [];
   const dirs = DIRECTIONS_BY_DIFFICULTY[difficulty];
 
-  // Longest words first gives a much higher placement rate.
+  // Dedupe + longest first for a higher placement rate.
   const words = [...new Set(opts.words.map(normalizeWord))]
     .filter((w) => w.length >= 3 && w.length <= size)
     .sort((a, b) => b.length - a.length);
@@ -101,8 +110,83 @@ export function generateGrid(opts: GenerateOptions): GenerateResult {
     if (!placed) skipped.push(word);
   }
 
-  const grid = cells.map((r) => r.map((c) => c ?? pick(ALPHABET.split(""))));
+  // Mark cells that belong to intentional placements (must not be scrubbed).
+  const locked = new Set<string>();
+  for (const p of placements) {
+    for (const [r, c] of placementCells(p)) locked.add(`${r},${c}`);
+  }
+
+  let grid = cells.map((r) => r.map((c) => c ?? pick([...ALPHABET])));
+  grid = scrubAccidentalWords(grid, words, placements, dirs, locked, rng);
+
+  // Sanity: every placement must still spell its word.
+  for (const p of placements) {
+    const spelled = placementCells(p)
+      .map(([r, c]) => grid[r][c])
+      .join("");
+    if (spelled !== p.word) {
+      throw new Error(`generateGrid: placement corrupted for ${p.word} (got ${spelled})`);
+    }
+  }
+
   return { grid, placements, skipped };
+}
+
+/**
+ * Light post-fill pass: if a listed word appears on an allowed direction but is
+ * not an intentional placement, re-roll unlocked fill cells on that path.
+ * Bounded attempts; not a perfect guarantee.
+ */
+function scrubAccidentalWords(
+  grid: string[][],
+  words: string[],
+  placements: Placement[],
+  dirs: Direction[],
+  locked: Set<string>,
+  rng: () => number,
+): string[][] {
+  const size = grid.length;
+  const intentional = new Set(
+    placements.map((p) => `${p.word}|${p.row},${p.col}|${p.direction}`),
+  );
+  const pickLetter = () => ALPHABET[Math.floor(rng() * ALPHABET.length)];
+
+  for (let pass = 0; pass < 3; pass++) {
+    let dirty = false;
+    for (const word of words) {
+      for (const direction of dirs) {
+        const [dr, dc] = DIRECTION_VECTORS[direction];
+        for (let row = 0; row < size; row++) {
+          for (let col = 0; col < size; col++) {
+            const endR = row + dr * (word.length - 1);
+            const endC = col + dc * (word.length - 1);
+            if (endR < 0 || endR >= size || endC < 0 || endC >= size) continue;
+            let match = true;
+            for (let i = 0; i < word.length; i++) {
+              if (grid[row + dr * i][col + dc * i] !== word[i]) {
+                match = false;
+                break;
+              }
+            }
+            if (!match) continue;
+            const id = `${word}|${row},${col}|${direction}`;
+            if (intentional.has(id)) continue;
+            // Accidental — re-roll unlocked cells on this path.
+            for (let i = 0; i < word.length; i++) {
+              const r = row + dr * i;
+              const c = col + dc * i;
+              if (!locked.has(`${r},${c}`)) {
+                grid[r][c] = pickLetter();
+                dirty = true;
+              }
+            }
+          }
+        }
+      }
+    }
+    if (!dirty) break;
+  }
+  return grid;
 }
 
 /** Cells covered by a placement, in order. */
