@@ -170,18 +170,18 @@ export default function PuzzleGrid({
           type="button"
           onClick={toggleLargePrint}
           aria-pressed={largePrint}
-          className="rounded-full border border-stone-400 px-4 py-2 font-medium hover:bg-stone-100"
+          className="rounded-full border border-[#b8a990] px-4 py-2 font-medium hover:bg-[#ebe4d6]/60"
         >
           {largePrint ? "Standard print" : "Large print"}
         </button>
         <button
           type="button"
           onClick={reset}
-          className="rounded-full border border-stone-300 px-4 py-2 hover:bg-stone-100"
+          className="rounded-full border border-[#d4cbb8] px-4 py-2 hover:bg-[#ebe4d6]/60"
         >
           Reset
         </button>
-        <span className="text-stone-600" aria-live="polite">
+        <span className="text-[var(--ink-soft)]" aria-live="polite">
           {found.size} / {words.length} found{message ? ` · ${message}` : ""}
         </span>
       </div>
@@ -194,7 +194,7 @@ export default function PuzzleGrid({
           onPointerMove={onPointerMove}
           onPointerUp={onPointerUp}
           onPointerCancel={onPointerUp}
-          className={`grid select-none touch-none rounded-2xl border border-stone-300 bg-white p-2 shadow-sm ${
+          className={`puzzle-board grid select-none touch-none p-1.5 sm:p-2 ${
             largePrint ? "w-full max-w-2xl" : "w-full max-w-xl"
           }`}
           style={{ gridTemplateColumns: `repeat(${size}, minmax(0, 1fr))` }}
@@ -211,14 +211,14 @@ export default function PuzzleGrid({
                   data-r={r}
                   data-c={c}
                   onPointerDown={(e) => onPointerDown(e, [r, c])}
-                  className={`flex aspect-square cursor-pointer items-center justify-center rounded-md font-semibold uppercase transition-colors ${
+                  className={`puzzle-cell flex aspect-square cursor-pointer items-center justify-center uppercase transition-colors ${
                     largePrint ? "text-2xl sm:text-4xl" : "text-base sm:text-xl"
                   } ${
                     isSel
-                      ? "bg-amber-200 text-stone-900"
+                      ? "bg-[var(--highlight)] text-[var(--ink)]"
                       : isFound
-                        ? "bg-emerald-100 text-emerald-900"
-                        : "text-stone-800"
+                        ? "bg-[var(--found)] text-[var(--moss)]"
+                        : "bg-transparent text-[var(--ink)]"
                   }`}
                 >
                   {letter}
@@ -234,20 +234,20 @@ export default function PuzzleGrid({
             {words.map((w) => (
               <li
                 key={w}
-                className={found.has(w) ? "text-stone-400 line-through" : "text-stone-900"}
+                className={found.has(w) ? "text-[#a89880] line-through" : "text-[var(--ink)]"}
               >
                 {w}
               </li>
             ))}
           </ul>
           {complete && (
-            <p className="mt-4 rounded-xl bg-emerald-50 p-3 text-emerald-900" role="status">
+            <p className="mt-4 rounded-sm bg-[var(--found)] p-3 text-[var(--moss)]" role="status">
               All words found. Take a breath, then try another puzzle.
             </p>
           )}
         </div>
       </div>
-      <p className="text-sm text-stone-500">
+      <p className="text-sm text-[var(--ink-soft)]">
         Tip: drag across a word, or tap its first letter and then its last letter.
       </p>
     </section>

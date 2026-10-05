@@ -3,29 +3,24 @@ import { SITE } from "@/lib/site";
 
 export default function SiteFooter() {
   return (
-    <footer className="mt-16 border-t border-stone-200 bg-[#fbf8f3]">
-      <div className="mx-auto grid max-w-6xl gap-6 px-4 py-10 text-sm text-stone-600 sm:grid-cols-3">
+    <footer className="mt-auto border-t border-[#d4cbb8]/70 bg-[#ebe4d6]/50">
+      <div className="mx-auto flex max-w-5xl flex-col gap-4 px-5 py-10 text-sm text-[var(--ink-soft)] sm:flex-row sm:items-start sm:justify-between sm:px-6">
         <div>
-          <p className="font-semibold text-stone-800">{SITE.name}</p>
-          <p className="mt-2">{SITE.tagline}</p>
+          <p className="font-serif text-lg text-[var(--ink)]">{SITE.name}</p>
+          <p className="mt-1 max-w-sm leading-relaxed">
+            Free word search puzzles for adults — large print, daily and seasonal. No timer, no fuss.
+          </p>
         </div>
-        <ul className="space-y-1">
-          <li><Link href="/themes">All themes</Link></li>
-          <li><Link href="/difficulty/easy">Easy puzzles</Link></li>
-          <li><Link href="/difficulty/medium">Medium puzzles</Link></li>
-          <li><Link href="/difficulty/hard">Hard puzzles</Link></li>
-          <li><Link href="/adults">Word search for adults</Link></li>
-        </ul>
-        <ul className="space-y-1">
-          <li><Link href="/about">About</Link></li>
-          <li><Link href="/contact">Contact</Link></li>
-          <li><Link href="/privacy">Privacy Policy</Link></li>
-          <li><Link href="/terms">Terms of Use</Link></li>
-        </ul>
+        <nav aria-label="Footer">
+          <ul className="flex flex-wrap gap-x-5 gap-y-2">
+            <li><Link href="/about">About</Link></li>
+            <li><Link href="/adults">For adults</Link></li>
+            <li><Link href="/privacy">Privacy</Link></li>
+            <li><Link href="/terms">Terms</Link></li>
+            <li><Link href="/contact">Contact</Link></li>
+          </ul>
+        </nav>
       </div>
-      <p className="pb-8 text-center text-xs text-stone-500">
-        © {new Date().getUTCFullYear()} {SITE.name}. Original puzzles and word lists.
-      </p>
     </footer>
   );
 }

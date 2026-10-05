@@ -1,0 +1,284 @@
+{
+  "id": "music-medium-01",
+  "slug": "music-medium-01",
+  "themeId": "music",
+  "title": "Medium Music Word Search",
+  "primaryKeyword": "music word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "AUDITORIUM",
+    "ENCORE",
+    "FLUTE",
+    "HARMONY",
+    "LULLABY",
+    "MELODY",
+    "OBOE",
+    "OCTAVE",
+    "OPERA",
+    "QUARTET",
+    "RHYTHM",
+    "SCALE",
+    "SHEET",
+    "SYMPHONY"
+  ],
+  "grid": [
+    [
+      "B",
+      "P",
+      "D",
+      "U",
+      "Z",
+      "X",
+      "T",
+      "Q",
+      "M",
+      "S",
+      "Z",
+      "L"
+    ],
+    [
+      "O",
+      "G",
+      "G",
+      "Q",
+      "V",
+      "E",
+      "T",
+      "A",
+      "O",
+      "Y",
+      "M",
+      "R"
+    ],
+    [
+      "I",
+      "C",
+      "P",
+      "V",
+      "E",
+      "W",
+      "Q",
+      "E",
+      "P",
+      "M",
+      "E",
+      "Z"
+    ],
+    [
+      "X",
+      "A",
+      "T",
+      "H",
+      "G",
+      "Y",
+      "U",
+      "N",
+      "E",
+      "P",
+      "L",
+      "L"
+    ],
+    [
+      "H",
+      "R",
+      "S",
+      "A",
+      "B",
+      "R",
+      "A",
+      "C",
+      "R",
+      "H",
+      "O",
+      "U"
+    ],
+    [
+      "R",
+      "A",
+      "L",
+      "Z",
+      "V",
+      "L",
+      "R",
+      "O",
+      "A",
+      "O",
+      "D",
+      "L"
+    ],
+    [
+      "H",
+      "F",
+      "R",
+      "E",
+      "Q",
+      "E",
+      "T",
+      "R",
+      "Q",
+      "N",
+      "Y",
+      "L"
+    ],
+    [
+      "Y",
+      "S",
+      "L",
+      "M",
+      "O",
+      "D",
+      "E",
+      "E",
+      "O",
+      "Y",
+      "Q",
+      "A"
+    ],
+    [
+      "T",
+      "C",
+      "Y",
+      "U",
+      "O",
+      "C",
+      "T",
+      "B",
+      "B",
+      "Q",
+      "D",
+      "B"
+    ],
+    [
+      "H",
+      "A",
+      "X",
+      "C",
+      "T",
+      "N",
+      "S",
+      "C",
+      "O",
+      "J",
+      "V",
+      "Y"
+    ],
+    [
+      "M",
+      "L",
+      "P",
+      "H",
+      "B",
+      "E",
+      "Y",
+      "U",
+      "E",
+      "M",
+      "Y",
+      "N"
+    ],
+    [
+      "F",
+      "E",
+      "A",
+      "U",
+      "D",
+      "I",
+      "T",
+      "O",
+      "R",
+      "I",
+      "U",
+      "M"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "AUDITORIUM",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SYMPHONY",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "HARMONY",
+      "row": 4,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "QUARTET",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "LULLABY",
+      "row": 3,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "RHYTHM",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "OCTAVE",
+      "row": 1,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "ENCORE",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "MELODY",
+      "row": 1,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "FLUTE",
+      "row": 6,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "SHEET",
+      "row": 4,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "SCALE",
+      "row": 7,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "OPERA",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "OBOE",
+      "row": 7,
+      "col": 8,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2802
+}

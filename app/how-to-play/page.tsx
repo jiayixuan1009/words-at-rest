@@ -3,6 +3,7 @@ import Link from "next/link";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import Prose from "@/components/Prose";
 import JsonLd from "@/components/JsonLd";
+import { IMAGES } from "@/lib/images";
 import { absoluteUrl } from "@/lib/site";
 
 export const metadata: Metadata = {
@@ -27,8 +28,16 @@ export default function HowToPlayPage() {
   return (
     <>
       <Breadcrumbs items={[{ name: "How to Play", href: "/how-to-play" }]} />
+      <div className="mb-10 overflow-hidden rounded-sm border border-[#d4cbb8]">
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img
+          src={IMAGES.howTo}
+          alt="Pen on paper — how a word search feels to solve"
+          className="aspect-[21/9] w-full object-cover"
+        />
+      </div>
       <Prose>
-        <h1 className="text-4xl font-semibold tracking-tight">How to play word search online</h1>
+        <h1 className="font-serif text-4xl tracking-tight">How to play word search online</h1>
         <p>
           A word search is a grid of letters with a list of words hidden inside it. Your goal is to
           find every word on the list. Words run in straight lines — across, down, diagonally, and

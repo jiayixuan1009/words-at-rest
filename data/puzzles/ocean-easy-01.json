@@ -1,0 +1,208 @@
+{
+  "id": "ocean-easy-01",
+  "slug": "ocean-easy-01",
+  "themeId": "ocean",
+  "title": "Easy Ocean Word Search",
+  "primaryKeyword": "ocean word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ALBATROSS",
+    "ANCHOR",
+    "CURRENT",
+    "FOAM",
+    "HORIZON",
+    "MARINER",
+    "SEAL",
+    "SPRAY",
+    "TIDAL",
+    "URCHIN"
+  ],
+  "grid": [
+    [
+      "A",
+      "V",
+      "S",
+      "Y",
+      "Z",
+      "H",
+      "S",
+      "G",
+      "C",
+      "Y"
+    ],
+    [
+      "L",
+      "F",
+      "P",
+      "O",
+      "A",
+      "O",
+      "L",
+      "D",
+      "U",
+      "S"
+    ],
+    [
+      "B",
+      "O",
+      "R",
+      "L",
+      "N",
+      "R",
+      "Q",
+      "M",
+      "R",
+      "V"
+    ],
+    [
+      "A",
+      "A",
+      "A",
+      "K",
+      "C",
+      "I",
+      "B",
+      "M",
+      "R",
+      "S"
+    ],
+    [
+      "T",
+      "M",
+      "Y",
+      "U",
+      "H",
+      "Z",
+      "X",
+      "A",
+      "E",
+      "U"
+    ],
+    [
+      "R",
+      "L",
+      "T",
+      "R",
+      "O",
+      "O",
+      "A",
+      "R",
+      "N",
+      "Y"
+    ],
+    [
+      "O",
+      "R",
+      "I",
+      "C",
+      "R",
+      "N",
+      "S",
+      "I",
+      "T",
+      "P"
+    ],
+    [
+      "S",
+      "Z",
+      "D",
+      "H",
+      "D",
+      "K",
+      "E",
+      "N",
+      "M",
+      "W"
+    ],
+    [
+      "S",
+      "D",
+      "A",
+      "I",
+      "Z",
+      "B",
+      "A",
+      "E",
+      "Q",
+      "B"
+    ],
+    [
+      "P",
+      "W",
+      "L",
+      "N",
+      "F",
+      "Q",
+      "L",
+      "R",
+      "B",
+      "C"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ALBATROSS",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "MARINER",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "CURRENT",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "HORIZON",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "URCHIN",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "ANCHOR",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "SPRAY",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "TIDAL",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "FOAM",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SEAL",
+      "row": 6,
+      "col": 6,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2401
+}

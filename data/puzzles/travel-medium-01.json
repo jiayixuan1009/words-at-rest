@@ -1,0 +1,284 @@
+{
+  "id": "travel-medium-01",
+  "slug": "travel-medium-01",
+  "themeId": "travel",
+  "title": "Medium Travel Word Search",
+  "primaryKeyword": "travel word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BRIDGE",
+    "COMPASS",
+    "DESERT",
+    "FERRY",
+    "HOSTEL",
+    "JOURNEY",
+    "MAP",
+    "PASSPORT",
+    "PLATFORM",
+    "SOUVENIR",
+    "SUITCASE",
+    "SUNRISE",
+    "SUNSET",
+    "VALLEY"
+  ],
+  "grid": [
+    [
+      "J",
+      "G",
+      "V",
+      "D",
+      "Z",
+      "D",
+      "P",
+      "N",
+      "U",
+      "E",
+      "G",
+      "S"
+    ],
+    [
+      "V",
+      "L",
+      "Y",
+      "Z",
+      "J",
+      "O",
+      "U",
+      "R",
+      "N",
+      "E",
+      "Y",
+      "U"
+    ],
+    [
+      "J",
+      "B",
+      "R",
+      "I",
+      "D",
+      "G",
+      "E",
+      "B",
+      "N",
+      "V",
+      "L",
+      "I"
+    ],
+    [
+      "E",
+      "P",
+      "A",
+      "S",
+      "S",
+      "P",
+      "O",
+      "R",
+      "T",
+      "K",
+      "P",
+      "T"
+    ],
+    [
+      "D",
+      "A",
+      "S",
+      "U",
+      "N",
+      "R",
+      "I",
+      "S",
+      "E",
+      "V",
+      "L",
+      "C"
+    ],
+    [
+      "D",
+      "E",
+      "S",
+      "E",
+      "R",
+      "T",
+      "W",
+      "J",
+      "S",
+      "X",
+      "A",
+      "A"
+    ],
+    [
+      "J",
+      "K",
+      "K",
+      "H",
+      "O",
+      "S",
+      "T",
+      "E",
+      "L",
+      "A",
+      "T",
+      "S"
+    ],
+    [
+      "U",
+      "F",
+      "W",
+      "L",
+      "V",
+      "A",
+      "L",
+      "L",
+      "E",
+      "Y",
+      "F",
+      "E"
+    ],
+    [
+      "M",
+      "A",
+      "P",
+      "C",
+      "O",
+      "M",
+      "P",
+      "A",
+      "S",
+      "S",
+      "O",
+      "V"
+    ],
+    [
+      "S",
+      "O",
+      "U",
+      "V",
+      "E",
+      "N",
+      "I",
+      "R",
+      "S",
+      "P",
+      "R",
+      "J"
+    ],
+    [
+      "D",
+      "E",
+      "S",
+      "U",
+      "N",
+      "S",
+      "E",
+      "T",
+      "C",
+      "U",
+      "M",
+      "F"
+    ],
+    [
+      "E",
+      "Y",
+      "F",
+      "E",
+      "R",
+      "R",
+      "Y",
+      "E",
+      "Z",
+      "H",
+      "V",
+      "G"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PLATFORM",
+      "row": 3,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "SUITCASE",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "PASSPORT",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SOUVENIR",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "JOURNEY",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SUNRISE",
+      "row": 4,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "COMPASS",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "VALLEY",
+      "row": 7,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "DESERT",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "HOSTEL",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SUNSET",
+      "row": 10,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BRIDGE",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "FERRY",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "MAP",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2702
+}

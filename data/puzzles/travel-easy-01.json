@@ -1,0 +1,208 @@
+{
+  "id": "travel-easy-01",
+  "slug": "travel-easy-01",
+  "themeId": "travel",
+  "title": "Easy Travel Word Search",
+  "primaryKeyword": "travel word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "COMPASS",
+    "ISLAND",
+    "MAP",
+    "STATION",
+    "SUITCASE",
+    "SUMMIT",
+    "SUNRISE",
+    "TICKET",
+    "TRAIN",
+    "VILLAGE"
+  ],
+  "grid": [
+    [
+      "S",
+      "U",
+      "I",
+      "T",
+      "C",
+      "A",
+      "S",
+      "E",
+      "T",
+      "T"
+    ],
+    [
+      "Z",
+      "C",
+      "O",
+      "M",
+      "P",
+      "A",
+      "S",
+      "S",
+      "R",
+      "O"
+    ],
+    [
+      "I",
+      "H",
+      "V",
+      "M",
+      "E",
+      "T",
+      "T",
+      "S",
+      "A",
+      "B"
+    ],
+    [
+      "S",
+      "T",
+      "I",
+      "J",
+      "X",
+      "H",
+      "A",
+      "T",
+      "I",
+      "M"
+    ],
+    [
+      "L",
+      "I",
+      "L",
+      "Y",
+      "A",
+      "V",
+      "L",
+      "A",
+      "N",
+      "A"
+    ],
+    [
+      "A",
+      "C",
+      "L",
+      "I",
+      "C",
+      "Q",
+      "R",
+      "T",
+      "C",
+      "P"
+    ],
+    [
+      "N",
+      "K",
+      "A",
+      "S",
+      "U",
+      "N",
+      "R",
+      "I",
+      "S",
+      "E"
+    ],
+    [
+      "D",
+      "E",
+      "G",
+      "J",
+      "W",
+      "B",
+      "H",
+      "O",
+      "Z",
+      "E"
+    ],
+    [
+      "R",
+      "T",
+      "E",
+      "V",
+      "U",
+      "T",
+      "C",
+      "N",
+      "K",
+      "W"
+    ],
+    [
+      "B",
+      "V",
+      "S",
+      "U",
+      "M",
+      "M",
+      "I",
+      "T",
+      "S",
+      "D"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SUITCASE",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "STATION",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "VILLAGE",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "COMPASS",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SUNRISE",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "ISLAND",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "TICKET",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SUMMIT",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "TRAIN",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "MAP",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2701
+}

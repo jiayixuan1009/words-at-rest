@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import Prose from "@/components/Prose";
+import { IMAGES } from "@/lib/images";
 
 export const metadata: Metadata = {
   title: "Word Search for Adults — Calm & Challenging Puzzles",
@@ -14,8 +15,21 @@ export default function AdultsPage() {
   return (
     <>
       <Breadcrumbs items={[{ name: "Word Search for Adults", href: "/adults" }]} />
+      <div className="mb-10 grid gap-8 sm:grid-cols-2 sm:items-end">
+        <div>
+          <h1 className="font-serif text-4xl tracking-tight sm:text-5xl">Word search for adults</h1>
+          <p className="mt-4 text-lg leading-relaxed text-[var(--ink-soft)]">
+            Built for grown-ups who want a quiet puzzle — not a kids&apos; app, not a pop-up carnival.
+          </p>
+        </div>
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img
+          src={IMAGES.adults}
+          alt="Stack of books in warm light"
+          className="aspect-[4/3] w-full rounded-sm object-cover"
+        />
+      </div>
       <Prose>
-        <h1 className="text-4xl font-semibold tracking-tight">Word search for adults</h1>
         <p>
           Words at Rest is a word search site built for grown-ups. Many puzzle sites are designed
           around children or around constant pop-ups and countdowns. We went the other way: calm

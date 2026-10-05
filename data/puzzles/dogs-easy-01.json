@@ -1,0 +1,208 @@
+{
+  "id": "dogs-easy-01",
+  "slug": "dogs-easy-01",
+  "themeId": "dogs",
+  "title": "Easy Dogs Word Search",
+  "primaryKeyword": "dogs word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BLANKET",
+    "CANINE",
+    "COAT",
+    "HEEL",
+    "PARK",
+    "SNOUT",
+    "STAY",
+    "TAIL",
+    "TOY",
+    "WHISKER"
+  ],
+  "grid": [
+    [
+      "Z",
+      "N",
+      "T",
+      "I",
+      "G",
+      "F",
+      "G",
+      "U",
+      "P",
+      "A"
+    ],
+    [
+      "U",
+      "C",
+      "O",
+      "A",
+      "T",
+      "N",
+      "S",
+      "Z",
+      "A",
+      "Q"
+    ],
+    [
+      "T",
+      "H",
+      "E",
+      "E",
+      "L",
+      "P",
+      "E",
+      "E",
+      "R",
+      "R"
+    ],
+    [
+      "A",
+      "W",
+      "H",
+      "I",
+      "S",
+      "K",
+      "E",
+      "R",
+      "K",
+      "O"
+    ],
+    [
+      "I",
+      "J",
+      "A",
+      "V",
+      "P",
+      "A",
+      "S",
+      "Y",
+      "H",
+      "W"
+    ],
+    [
+      "L",
+      "O",
+      "I",
+      "K",
+      "C",
+      "A",
+      "N",
+      "I",
+      "N",
+      "E"
+    ],
+    [
+      "B",
+      "L",
+      "A",
+      "N",
+      "K",
+      "E",
+      "T",
+      "S",
+      "T",
+      "E"
+    ],
+    [
+      "Z",
+      "S",
+      "N",
+      "O",
+      "U",
+      "T",
+      "Q",
+      "T",
+      "O",
+      "S"
+    ],
+    [
+      "V",
+      "T",
+      "K",
+      "K",
+      "B",
+      "H",
+      "T",
+      "A",
+      "Y",
+      "N"
+    ],
+    [
+      "X",
+      "L",
+      "K",
+      "D",
+      "C",
+      "V",
+      "A",
+      "Y",
+      "U",
+      "Q"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "WHISKER",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BLANKET",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CANINE",
+      "row": 5,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SNOUT",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "STAY",
+      "row": 6,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "TAIL",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "HEEL",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PARK",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "COAT",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TOY",
+      "row": 6,
+      "col": 8,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2501
+}

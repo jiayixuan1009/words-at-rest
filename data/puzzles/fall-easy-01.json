@@ -1,0 +1,208 @@
+{
+  "id": "fall-easy-01",
+  "slug": "fall-easy-01",
+  "themeId": "fall",
+  "title": "Easy Fall Word Search",
+  "primaryKeyword": "fall word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "AMBER",
+    "BASKET",
+    "CORNFIELD",
+    "FOLIAGE",
+    "OCTOBER",
+    "SCARECROW",
+    "SPICE",
+    "SQUIRREL",
+    "THICKET",
+    "TWILIGHT"
+  ],
+  "grid": [
+    [
+      "O",
+      "T",
+      "U",
+      "K",
+      "S",
+      "Y",
+      "C",
+      "N",
+      "S",
+      "X"
+    ],
+    [
+      "C",
+      "H",
+      "S",
+      "C",
+      "P",
+      "U",
+      "O",
+      "U",
+      "C",
+      "F"
+    ],
+    [
+      "T",
+      "I",
+      "Q",
+      "X",
+      "I",
+      "V",
+      "R",
+      "F",
+      "A",
+      "I"
+    ],
+    [
+      "O",
+      "C",
+      "U",
+      "A",
+      "C",
+      "C",
+      "N",
+      "B",
+      "R",
+      "F"
+    ],
+    [
+      "B",
+      "K",
+      "I",
+      "M",
+      "E",
+      "X",
+      "F",
+      "A",
+      "E",
+      "O"
+    ],
+    [
+      "E",
+      "E",
+      "R",
+      "B",
+      "N",
+      "T",
+      "I",
+      "S",
+      "C",
+      "L"
+    ],
+    [
+      "R",
+      "T",
+      "R",
+      "E",
+      "I",
+      "P",
+      "E",
+      "K",
+      "R",
+      "I"
+    ],
+    [
+      "D",
+      "T",
+      "E",
+      "R",
+      "Y",
+      "D",
+      "L",
+      "E",
+      "O",
+      "A"
+    ],
+    [
+      "A",
+      "N",
+      "L",
+      "D",
+      "U",
+      "O",
+      "D",
+      "T",
+      "W",
+      "G"
+    ],
+    [
+      "T",
+      "W",
+      "I",
+      "L",
+      "I",
+      "G",
+      "H",
+      "T",
+      "Z",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CORNFIELD",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "SCARECROW",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "SQUIRREL",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "TWILIGHT",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "THICKET",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "OCTOBER",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "FOLIAGE",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "BASKET",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SPICE",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "AMBER",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 1101
+}

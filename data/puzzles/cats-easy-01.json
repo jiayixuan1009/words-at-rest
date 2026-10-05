@@ -1,0 +1,208 @@
+{
+  "id": "cats-easy-01",
+  "slug": "cats-easy-01",
+  "themeId": "cats",
+  "title": "Easy Cats Word Search",
+  "primaryKeyword": "cats word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BIRD",
+    "BLANKET",
+    "BOWL",
+    "CLIMB",
+    "LAP",
+    "LAZY",
+    "PAW",
+    "TAIL",
+    "TREAT",
+    "WARM"
+  ],
+  "grid": [
+    [
+      "B",
+      "L",
+      "A",
+      "N",
+      "K",
+      "E",
+      "T",
+      "R",
+      "J",
+      "U"
+    ],
+    [
+      "K",
+      "Z",
+      "T",
+      "L",
+      "L",
+      "C",
+      "B",
+      "I",
+      "R",
+      "D"
+    ],
+    [
+      "H",
+      "N",
+      "I",
+      "Y",
+      "A",
+      "L",
+      "M",
+      "R",
+      "X",
+      "B"
+    ],
+    [
+      "O",
+      "K",
+      "Y",
+      "J",
+      "Z",
+      "I",
+      "U",
+      "V",
+      "G",
+      "O"
+    ],
+    [
+      "F",
+      "R",
+      "T",
+      "D",
+      "Y",
+      "M",
+      "T",
+      "M",
+      "V",
+      "W"
+    ],
+    [
+      "K",
+      "B",
+      "R",
+      "P",
+      "M",
+      "B",
+      "A",
+      "H",
+      "F",
+      "L"
+    ],
+    [
+      "N",
+      "Z",
+      "E",
+      "A",
+      "G",
+      "U",
+      "I",
+      "J",
+      "S",
+      "W"
+    ],
+    [
+      "V",
+      "V",
+      "A",
+      "W",
+      "N",
+      "F",
+      "L",
+      "L",
+      "X",
+      "A"
+    ],
+    [
+      "E",
+      "V",
+      "T",
+      "F",
+      "U",
+      "T",
+      "L",
+      "A",
+      "O",
+      "R"
+    ],
+    [
+      "K",
+      "I",
+      "O",
+      "I",
+      "B",
+      "B",
+      "M",
+      "P",
+      "B",
+      "M"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BLANKET",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "TREAT",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "CLIMB",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "TAIL",
+      "row": 4,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "LAZY",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "WARM",
+      "row": 6,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "BOWL",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "BIRD",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "PAW",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "LAP",
+      "row": 7,
+      "col": 7,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2601
+}

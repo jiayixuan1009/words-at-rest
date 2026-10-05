@@ -1,0 +1,284 @@
+{
+  "id": "garden-medium-01",
+  "slug": "garden-medium-01",
+  "themeId": "garden",
+  "title": "Medium Garden Word Search",
+  "primaryKeyword": "garden word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ARBOR",
+    "BORDER",
+    "DAISY",
+    "HERB",
+    "HOE",
+    "IRIS",
+    "LAWN",
+    "LILY",
+    "SEED",
+    "SOIL",
+    "SPROUT",
+    "SUNLIGHT",
+    "THYME",
+    "TROWEL"
+  ],
+  "grid": [
+    [
+      "D",
+      "S",
+      "L",
+      "P",
+      "C",
+      "X",
+      "Q",
+      "K",
+      "Y",
+      "U",
+      "I",
+      "S"
+    ],
+    [
+      "T",
+      "O",
+      "A",
+      "G",
+      "R",
+      "B",
+      "O",
+      "S",
+      "Y",
+      "M",
+      "I",
+      "M"
+    ],
+    [
+      "R",
+      "I",
+      "W",
+      "J",
+      "S",
+      "P",
+      "R",
+      "O",
+      "U",
+      "T",
+      "W",
+      "G"
+    ],
+    [
+      "O",
+      "L",
+      "N",
+      "E",
+      "W",
+      "E",
+      "L",
+      "Y",
+      "B",
+      "X",
+      "Z",
+      "D"
+    ],
+    [
+      "W",
+      "A",
+      "V",
+      "D",
+      "N",
+      "T",
+      "H",
+      "Y",
+      "M",
+      "E",
+      "K",
+      "A"
+    ],
+    [
+      "E",
+      "R",
+      "S",
+      "U",
+      "N",
+      "L",
+      "I",
+      "G",
+      "H",
+      "T",
+      "O",
+      "I"
+    ],
+    [
+      "L",
+      "B",
+      "A",
+      "S",
+      "H",
+      "O",
+      "E",
+      "Z",
+      "T",
+      "N",
+      "H",
+      "S"
+    ],
+    [
+      "P",
+      "O",
+      "J",
+      "K",
+      "E",
+      "C",
+      "L",
+      "I",
+      "L",
+      "Y",
+      "V",
+      "Y"
+    ],
+    [
+      "I",
+      "R",
+      "Z",
+      "A",
+      "L",
+      "J",
+      "X",
+      "W",
+      "G",
+      "Y",
+      "H",
+      "M"
+    ],
+    [
+      "U",
+      "U",
+      "F",
+      "S",
+      "W",
+      "I",
+      "R",
+      "I",
+      "S",
+      "S",
+      "E",
+      "L"
+    ],
+    [
+      "A",
+      "J",
+      "P",
+      "Q",
+      "W",
+      "S",
+      "E",
+      "E",
+      "D",
+      "F",
+      "R",
+      "W"
+    ],
+    [
+      "P",
+      "U",
+      "D",
+      "A",
+      "B",
+      "O",
+      "R",
+      "D",
+      "E",
+      "R",
+      "B",
+      "J"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SUNLIGHT",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SPROUT",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "TROWEL",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BORDER",
+      "row": 11,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "THYME",
+      "row": 4,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "ARBOR",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "DAISY",
+      "row": 3,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "SOIL",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SEED",
+      "row": 10,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "HERB",
+      "row": 8,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "IRIS",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "LAWN",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "LILY",
+      "row": 7,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "HOE",
+      "row": 6,
+      "col": 4,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2902
+}

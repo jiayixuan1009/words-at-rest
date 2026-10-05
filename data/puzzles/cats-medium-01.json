@@ -1,0 +1,284 @@
+{
+  "id": "cats-medium-01",
+  "slug": "cats-medium-01",
+  "themeId": "cats",
+  "title": "Medium Cats Word Search",
+  "primaryKeyword": "cats word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BIRD",
+    "CLAW",
+    "CUSHION",
+    "MOUSE",
+    "NAP",
+    "PAW",
+    "PERSIAN",
+    "SIAMESE",
+    "SOFT",
+    "STRETCH",
+    "STRIPE",
+    "TABBY",
+    "TAIL",
+    "WHISKER"
+  ],
+  "grid": [
+    [
+      "U",
+      "V",
+      "U",
+      "Y",
+      "T",
+      "T",
+      "A",
+      "I",
+      "L",
+      "U",
+      "N",
+      "X"
+    ],
+    [
+      "T",
+      "A",
+      "B",
+      "B",
+      "Y",
+      "R",
+      "W",
+      "Q",
+      "W",
+      "K",
+      "P",
+      "Y"
+    ],
+    [
+      "U",
+      "Y",
+      "B",
+      "S",
+      "I",
+      "A",
+      "M",
+      "E",
+      "S",
+      "E",
+      "S",
+      "C"
+    ],
+    [
+      "E",
+      "W",
+      "H",
+      "I",
+      "S",
+      "K",
+      "E",
+      "R",
+      "Q",
+      "X",
+      "T",
+      "U"
+    ],
+    [
+      "F",
+      "R",
+      "J",
+      "D",
+      "P",
+      "A",
+      "W",
+      "T",
+      "S",
+      "S",
+      "R",
+      "S"
+    ],
+    [
+      "W",
+      "C",
+      "C",
+      "E",
+      "A",
+      "N",
+      "A",
+      "P",
+      "O",
+      "T",
+      "E",
+      "H"
+    ],
+    [
+      "P",
+      "G",
+      "L",
+      "I",
+      "A",
+      "Y",
+      "F",
+      "E",
+      "F",
+      "R",
+      "T",
+      "I"
+    ],
+    [
+      "N",
+      "M",
+      "M",
+      "A",
+      "S",
+      "Q",
+      "R",
+      "R",
+      "T",
+      "I",
+      "C",
+      "O"
+    ],
+    [
+      "E",
+      "P",
+      "O",
+      "C",
+      "W",
+      "J",
+      "L",
+      "S",
+      "F",
+      "P",
+      "H",
+      "N"
+    ],
+    [
+      "B",
+      "U",
+      "N",
+      "U",
+      "N",
+      "F",
+      "N",
+      "I",
+      "Y",
+      "E",
+      "X",
+      "W"
+    ],
+    [
+      "B",
+      "I",
+      "R",
+      "D",
+      "S",
+      "O",
+      "B",
+      "A",
+      "L",
+      "U",
+      "P",
+      "L"
+    ],
+    [
+      "V",
+      "G",
+      "H",
+      "R",
+      "I",
+      "E",
+      "T",
+      "N",
+      "N",
+      "O",
+      "I",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SIAMESE",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "PERSIAN",
+      "row": 5,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "CUSHION",
+      "row": 2,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "STRETCH",
+      "row": 2,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "WHISKER",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "STRIPE",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "MOUSE",
+      "row": 7,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "TABBY",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CLAW",
+      "row": 5,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "TAIL",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "BIRD",
+      "row": 10,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SOFT",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "NAP",
+      "row": 5,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "PAW",
+      "row": 4,
+      "col": 4,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2602
+}

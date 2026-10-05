@@ -1,0 +1,284 @@
+{
+  "id": "space-medium-01",
+  "slug": "space-medium-01",
+  "themeId": "space",
+  "title": "Medium Space Word Search",
+  "primaryKeyword": "space word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "AURORA",
+    "COMET",
+    "COSMOS",
+    "ECLIPSE",
+    "GALAXY",
+    "GRAVITY",
+    "JUPITER",
+    "MILKYWAY",
+    "NEBULA",
+    "PLANET",
+    "ROCKET",
+    "SATELLITE",
+    "SOLAR",
+    "ZENITH"
+  ],
+  "grid": [
+    [
+      "E",
+      "C",
+      "L",
+      "I",
+      "P",
+      "S",
+      "E",
+      "X",
+      "A",
+      "S",
+      "B",
+      "A"
+    ],
+    [
+      "N",
+      "G",
+      "R",
+      "O",
+      "C",
+      "K",
+      "E",
+      "T",
+      "P",
+      "A",
+      "K",
+      "S"
+    ],
+    [
+      "M",
+      "R",
+      "Z",
+      "S",
+      "O",
+      "L",
+      "A",
+      "R",
+      "F",
+      "R",
+      "M",
+      "S"
+    ],
+    [
+      "I",
+      "A",
+      "E",
+      "M",
+      "I",
+      "L",
+      "K",
+      "Y",
+      "W",
+      "A",
+      "Y",
+      "O"
+    ],
+    [
+      "D",
+      "V",
+      "N",
+      "R",
+      "G",
+      "A",
+      "L",
+      "A",
+      "X",
+      "Y",
+      "E",
+      "J"
+    ],
+    [
+      "T",
+      "I",
+      "I",
+      "K",
+      "G",
+      "O",
+      "X",
+      "F",
+      "J",
+      "Z",
+      "X",
+      "U"
+    ],
+    [
+      "A",
+      "T",
+      "T",
+      "Q",
+      "L",
+      "P",
+      "L",
+      "A",
+      "N",
+      "E",
+      "T",
+      "P"
+    ],
+    [
+      "U",
+      "Y",
+      "H",
+      "E",
+      "S",
+      "H",
+      "T",
+      "Z",
+      "H",
+      "U",
+      "X",
+      "I"
+    ],
+    [
+      "R",
+      "X",
+      "S",
+      "A",
+      "T",
+      "E",
+      "L",
+      "L",
+      "I",
+      "T",
+      "E",
+      "T"
+    ],
+    [
+      "O",
+      "A",
+      "T",
+      "C",
+      "O",
+      "M",
+      "E",
+      "T",
+      "K",
+      "L",
+      "U",
+      "E"
+    ],
+    [
+      "R",
+      "Q",
+      "O",
+      "C",
+      "O",
+      "S",
+      "M",
+      "O",
+      "S",
+      "D",
+      "C",
+      "R"
+    ],
+    [
+      "A",
+      "Z",
+      "C",
+      "J",
+      "P",
+      "O",
+      "N",
+      "E",
+      "B",
+      "U",
+      "L",
+      "A"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SATELLITE",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "MILKYWAY",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "JUPITER",
+      "row": 4,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "GRAVITY",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "ECLIPSE",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "NEBULA",
+      "row": 11,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "COSMOS",
+      "row": 10,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "ROCKET",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ZENITH",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "AURORA",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "PLANET",
+      "row": 6,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "GALAXY",
+      "row": 4,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SOLAR",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "COMET",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2102
+}

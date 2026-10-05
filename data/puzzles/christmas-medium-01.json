@@ -1,0 +1,284 @@
+{
+  "id": "christmas-medium-01",
+  "slug": "christmas-medium-01",
+  "themeId": "christmas",
+  "title": "Medium Christmas Word Search",
+  "primaryKeyword": "christmas word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ANGEL",
+    "BELLS",
+    "BLANKET",
+    "CHIMNEY",
+    "EVERGREEN",
+    "GARLAND",
+    "MISTLETOE",
+    "RIBBON",
+    "SNOWFLAKE",
+    "SOLSTICE",
+    "STAR",
+    "TINSEL",
+    "WREATH",
+    "YULE"
+  ],
+  "grid": [
+    [
+      "A",
+      "S",
+      "W",
+      "R",
+      "E",
+      "A",
+      "T",
+      "H",
+      "X",
+      "H",
+      "K",
+      "V"
+    ],
+    [
+      "G",
+      "O",
+      "F",
+      "F",
+      "U",
+      "Y",
+      "F",
+      "I",
+      "K",
+      "I",
+      "B",
+      "X"
+    ],
+    [
+      "A",
+      "L",
+      "W",
+      "C",
+      "H",
+      "I",
+      "M",
+      "N",
+      "E",
+      "Y",
+      "E",
+      "A"
+    ],
+    [
+      "R",
+      "S",
+      "B",
+      "Y",
+      "R",
+      "X",
+      "N",
+      "K",
+      "S",
+      "M",
+      "L",
+      "N"
+    ],
+    [
+      "L",
+      "T",
+      "W",
+      "C",
+      "X",
+      "O",
+      "A",
+      "O",
+      "T",
+      "T",
+      "L",
+      "G"
+    ],
+    [
+      "A",
+      "I",
+      "P",
+      "R",
+      "B",
+      "L",
+      "D",
+      "F",
+      "A",
+      "K",
+      "S",
+      "E"
+    ],
+    [
+      "N",
+      "C",
+      "B",
+      "B",
+      "F",
+      "Q",
+      "E",
+      "X",
+      "R",
+      "Q",
+      "A",
+      "L"
+    ],
+    [
+      "D",
+      "E",
+      "I",
+      "W",
+      "B",
+      "L",
+      "A",
+      "N",
+      "K",
+      "E",
+      "T",
+      "V"
+    ],
+    [
+      "H",
+      "R",
+      "O",
+      "E",
+      "V",
+      "E",
+      "R",
+      "G",
+      "R",
+      "E",
+      "E",
+      "N"
+    ],
+    [
+      "S",
+      "N",
+      "E",
+      "M",
+      "I",
+      "S",
+      "T",
+      "L",
+      "E",
+      "T",
+      "O",
+      "E"
+    ],
+    [
+      "S",
+      "K",
+      "L",
+      "J",
+      "Q",
+      "D",
+      "B",
+      "Y",
+      "U",
+      "L",
+      "E",
+      "Q"
+    ],
+    [
+      "S",
+      "T",
+      "I",
+      "N",
+      "S",
+      "E",
+      "L",
+      "Q",
+      "A",
+      "K",
+      "S",
+      "O"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "MISTLETOE",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SNOWFLAKE",
+      "row": 10,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "EVERGREEN",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SOLSTICE",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "BLANKET",
+      "row": 7,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CHIMNEY",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "GARLAND",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "TINSEL",
+      "row": 11,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "RIBBON",
+      "row": 8,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "WREATH",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BELLS",
+      "row": 1,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "ANGEL",
+      "row": 2,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "STAR",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "YULE",
+      "row": 10,
+      "col": 7,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 1226
+}

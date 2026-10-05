@@ -1,0 +1,208 @@
+{
+  "id": "sports-easy-01",
+  "slug": "sports-easy-01",
+  "themeId": "sports",
+  "title": "Easy Sports Word Search",
+  "primaryKeyword": "sports word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ARCHERY",
+    "BADMINTON",
+    "BASEBALL",
+    "COURT",
+    "FENCING",
+    "HOCKEY",
+    "PITCH",
+    "SKIING",
+    "SOFTBALL",
+    "TRAINING"
+  ],
+  "grid": [
+    [
+      "L",
+      "K",
+      "T",
+      "R",
+      "A",
+      "I",
+      "N",
+      "I",
+      "N",
+      "G"
+    ],
+    [
+      "S",
+      "B",
+      "P",
+      "P",
+      "I",
+      "T",
+      "C",
+      "H",
+      "A",
+      "C"
+    ],
+    [
+      "O",
+      "Z",
+      "F",
+      "E",
+      "N",
+      "C",
+      "I",
+      "N",
+      "G",
+      "F"
+    ],
+    [
+      "F",
+      "Q",
+      "Z",
+      "C",
+      "O",
+      "U",
+      "R",
+      "T",
+      "D",
+      "D"
+    ],
+    [
+      "T",
+      "I",
+      "S",
+      "K",
+      "I",
+      "I",
+      "N",
+      "G",
+      "P",
+      "Z"
+    ],
+    [
+      "B",
+      "B",
+      "A",
+      "D",
+      "M",
+      "I",
+      "N",
+      "T",
+      "O",
+      "N"
+    ],
+    [
+      "A",
+      "R",
+      "C",
+      "H",
+      "E",
+      "R",
+      "Y",
+      "S",
+      "K",
+      "S"
+    ],
+    [
+      "L",
+      "A",
+      "N",
+      "W",
+      "G",
+      "R",
+      "T",
+      "T",
+      "O",
+      "Q"
+    ],
+    [
+      "L",
+      "B",
+      "A",
+      "S",
+      "E",
+      "B",
+      "A",
+      "L",
+      "L",
+      "C"
+    ],
+    [
+      "G",
+      "N",
+      "Z",
+      "M",
+      "H",
+      "O",
+      "C",
+      "K",
+      "E",
+      "Y"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BADMINTON",
+      "row": 5,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BASEBALL",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TRAINING",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SOFTBALL",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "ARCHERY",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "FENCING",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SKIING",
+      "row": 4,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "COURT",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "PITCH",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2201
+}

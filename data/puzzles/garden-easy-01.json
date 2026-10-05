@@ -1,0 +1,208 @@
+{
+  "id": "garden-easy-01",
+  "slug": "garden-easy-01",
+  "themeId": "garden",
+  "title": "Easy Garden Word Search",
+  "primaryKeyword": "garden word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BASIL",
+    "DAHLIA",
+    "PEONY",
+    "ROOT",
+    "SEED",
+    "SHADE",
+    "SOIL",
+    "SPADE",
+    "SUNLIGHT",
+    "WATERING"
+  ],
+  "grid": [
+    [
+      "C",
+      "N",
+      "C",
+      "X",
+      "L",
+      "M",
+      "S",
+      "L",
+      "S",
+      "B"
+    ],
+    [
+      "S",
+      "R",
+      "L",
+      "S",
+      "N",
+      "S",
+      "P",
+      "M",
+      "H",
+      "A"
+    ],
+    [
+      "U",
+      "T",
+      "W",
+      "E",
+      "I",
+      "O",
+      "A",
+      "P",
+      "A",
+      "S"
+    ],
+    [
+      "N",
+      "A",
+      "E",
+      "E",
+      "Z",
+      "I",
+      "D",
+      "E",
+      "D",
+      "I"
+    ],
+    [
+      "L",
+      "H",
+      "L",
+      "D",
+      "Y",
+      "L",
+      "E",
+      "O",
+      "E",
+      "L"
+    ],
+    [
+      "I",
+      "W",
+      "A",
+      "T",
+      "E",
+      "R",
+      "I",
+      "N",
+      "G",
+      "M"
+    ],
+    [
+      "G",
+      "T",
+      "R",
+      "H",
+      "Y",
+      "C",
+      "K",
+      "Y",
+      "H",
+      "A"
+    ],
+    [
+      "H",
+      "F",
+      "S",
+      "K",
+      "T",
+      "R",
+      "O",
+      "O",
+      "T",
+      "C"
+    ],
+    [
+      "T",
+      "D",
+      "A",
+      "H",
+      "L",
+      "I",
+      "A",
+      "N",
+      "J",
+      "A"
+    ],
+    [
+      "I",
+      "E",
+      "A",
+      "G",
+      "U",
+      "L",
+      "Z",
+      "D",
+      "F",
+      "S"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SUNLIGHT",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "WATERING",
+      "row": 5,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "DAHLIA",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SHADE",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "PEONY",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SPADE",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "BASIL",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SOIL",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "ROOT",
+      "row": 7,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SEED",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2901
+}

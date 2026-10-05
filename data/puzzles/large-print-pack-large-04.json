@@ -1,0 +1,173 @@
+{
+  "id": "large-print-pack-large-04",
+  "slug": "large-print-pack-large-04",
+  "themeId": "large-print-pack",
+  "title": "Large Print Word Search: Soft Afternoons",
+  "primaryKeyword": "large print word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BEACH",
+    "BIRDSONG",
+    "BOOKSHELF",
+    "BREAD",
+    "COFFEE",
+    "COTTAGE",
+    "LEMON",
+    "ROSE"
+  ],
+  "grid": [
+    [
+      "B",
+      "F",
+      "C",
+      "A",
+      "L",
+      "E",
+      "Z",
+      "F",
+      "H"
+    ],
+    [
+      "O",
+      "B",
+      "O",
+      "B",
+      "E",
+      "A",
+      "C",
+      "H",
+      "Y"
+    ],
+    [
+      "O",
+      "R",
+      "F",
+      "K",
+      "M",
+      "H",
+      "E",
+      "S",
+      "W"
+    ],
+    [
+      "K",
+      "E",
+      "F",
+      "H",
+      "O",
+      "Z",
+      "W",
+      "G",
+      "W"
+    ],
+    [
+      "S",
+      "A",
+      "E",
+      "D",
+      "N",
+      "Q",
+      "V",
+      "G",
+      "O"
+    ],
+    [
+      "H",
+      "D",
+      "E",
+      "W",
+      "F",
+      "T",
+      "V",
+      "N",
+      "X"
+    ],
+    [
+      "E",
+      "R",
+      "O",
+      "S",
+      "E",
+      "Z",
+      "X",
+      "E",
+      "S"
+    ],
+    [
+      "L",
+      "B",
+      "I",
+      "R",
+      "D",
+      "S",
+      "O",
+      "N",
+      "G"
+    ],
+    [
+      "F",
+      "C",
+      "O",
+      "T",
+      "T",
+      "A",
+      "G",
+      "E",
+      "L"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BOOKSHELF",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BIRDSONG",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "COTTAGE",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "COFFEE",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "BEACH",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BREAD",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "LEMON",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "ROSE",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 3004
+}

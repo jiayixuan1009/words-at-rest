@@ -1,0 +1,284 @@
+{
+  "id": "dogs-medium-01",
+  "slug": "dogs-medium-01",
+  "themeId": "dogs",
+  "title": "Medium Dogs Word Search",
+  "primaryKeyword": "dogs word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BALL",
+    "BARK",
+    "COMPANION",
+    "FRIEND",
+    "GROOM",
+    "HEEL",
+    "HOUND",
+    "LEASH",
+    "MUTT",
+    "PARK",
+    "PUPPY",
+    "SPANIEL",
+    "WATER",
+    "WHISKER"
+  ],
+  "grid": [
+    [
+      "U",
+      "O",
+      "T",
+      "L",
+      "I",
+      "W",
+      "K",
+      "D",
+      "B",
+      "V",
+      "S",
+      "U"
+    ],
+    [
+      "U",
+      "Z",
+      "Z",
+      "P",
+      "W",
+      "H",
+      "V",
+      "L",
+      "U",
+      "S",
+      "M",
+      "A"
+    ],
+    [
+      "O",
+      "D",
+      "N",
+      "A",
+      "A",
+      "I",
+      "S",
+      "X",
+      "E",
+      "P",
+      "H",
+      "M"
+    ],
+    [
+      "G",
+      "E",
+      "H",
+      "R",
+      "T",
+      "S",
+      "B",
+      "C",
+      "V",
+      "A",
+      "R",
+      "O"
+    ],
+    [
+      "R",
+      "B",
+      "O",
+      "K",
+      "E",
+      "K",
+      "A",
+      "O",
+      "P",
+      "N",
+      "S",
+      "A"
+    ],
+    [
+      "O",
+      "S",
+      "U",
+      "R",
+      "R",
+      "E",
+      "R",
+      "M",
+      "D",
+      "I",
+      "A",
+      "H"
+    ],
+    [
+      "O",
+      "U",
+      "N",
+      "E",
+      "O",
+      "R",
+      "K",
+      "P",
+      "U",
+      "E",
+      "M",
+      "K"
+    ],
+    [
+      "M",
+      "J",
+      "D",
+      "A",
+      "U",
+      "H",
+      "H",
+      "A",
+      "D",
+      "L",
+      "U",
+      "P"
+    ],
+    [
+      "P",
+      "U",
+      "P",
+      "P",
+      "Y",
+      "E",
+      "O",
+      "N",
+      "N",
+      "D",
+      "T",
+      "A"
+    ],
+    [
+      "H",
+      "T",
+      "R",
+      "C",
+      "V",
+      "E",
+      "E",
+      "I",
+      "W",
+      "G",
+      "T",
+      "F"
+    ],
+    [
+      "D",
+      "V",
+      "X",
+      "B",
+      "A",
+      "L",
+      "L",
+      "O",
+      "G",
+      "R",
+      "K",
+      "V"
+    ],
+    [
+      "R",
+      "Z",
+      "A",
+      "F",
+      "R",
+      "I",
+      "E",
+      "N",
+      "D",
+      "F",
+      "F",
+      "Q"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "COMPANION",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SPANIEL",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "WHISKER",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "FRIEND",
+      "row": 11,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "LEASH",
+      "row": 1,
+      "col": 7,
+      "direction": "SE"
+    },
+    {
+      "word": "HOUND",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "WATER",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "PUPPY",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "GROOM",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "PARK",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "BARK",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "MUTT",
+      "row": 6,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "BALL",
+      "row": 10,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "HEEL",
+      "row": 7,
+      "col": 5,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2502
+}

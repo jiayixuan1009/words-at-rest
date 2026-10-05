@@ -1,25 +1,49 @@
 @import "tailwindcss";
 
-/* Base styles live in @layer base so Tailwind utilities (e.g. text-white) can override them. */
 @layer base {
   :root {
     color-scheme: light;
-    background: #fbf8f3;
-    color: #1c1917;
-    font-family: Georgia, "Iowan Old Style", "Palatino Linotype", ui-serif, serif;
+    --paper: #f4efe6;
+    --paper-deep: #ebe4d6;
+    --ink: #2c241b;
+    --ink-soft: #5c5348;
+    --accent: #6b4f3a;
+    --accent-deep: #4a3426;
+    --moss: #3d5a45;
+    --highlight: #e8c99b;
+    --found: #d4e5d0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, "Times New Roman", ui-serif, serif;
   }
 
   body {
     margin: 0;
-    font-size: 1.0625rem;
+    font-size: 1.125rem;
+    line-height: 1.65;
+    background-color: var(--paper);
+    background-image: url("/images/paper-grain.svg");
+    background-blend-mode: multiply;
   }
 
-  h1, h2, h3, nav, button, [role="grid"] {
+  h1, h2, h3 {
+    font-family: "Iowan Old Style", Palatino, Georgia, ui-serif, serif;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    line-height: 1.2;
+    color: var(--ink);
+  }
+
+  nav, button, [role="grid"] {
     font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   }
 
   a {
-    color: #2f5d43;
+    color: var(--moss);
+  }
+
+  a:hover {
+    color: var(--accent-deep);
   }
 
   :focus-visible {
@@ -28,6 +52,35 @@
   }
 }
 
+@layer components {
+  .puzzle-board {
+    background: #faf6ee;
+    border: 1px solid #d4cbb8;
+    box-shadow:
+      0 1px 0 rgba(255, 255, 255, 0.7) inset,
+      0 8px 24px rgba(44, 36, 27, 0.06);
+  }
+
+  .puzzle-cell {
+    border: 1px solid rgba(180, 160, 130, 0.35);
+    font-family: "Courier New", Courier, ui-monospace, monospace;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+  }
+
+  .hero-band {
+    background: linear-gradient(135deg, #efe6d6 0%, #f4efe6 45%, #e8dfd0 100%);
+  }
+
+  .soft-rule {
+    border: none;
+    border-top: 1px solid #d4cbb8;
+    margin: 2rem 0;
+  }
+}
+
 @media print {
-  header, footer, nav, button, [data-ad-slot] { display: none !important; }
+  header, footer, nav, button, [data-ad-slot], .no-print { display: none !important; }
+  body { background: white; }
+  .puzzle-board { box-shadow: none; border-color: #999; }
 }

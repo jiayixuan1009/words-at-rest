@@ -1,0 +1,208 @@
+{
+  "id": "christmas-easy-01",
+  "slug": "christmas-easy-01",
+  "themeId": "christmas",
+  "title": "Easy Christmas Word Search",
+  "primaryKeyword": "christmas word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ADVENT",
+    "CHURCH",
+    "FIREPLACE",
+    "FROST",
+    "ICICLE",
+    "MIDNIGHT",
+    "MISTLETOE",
+    "ORNAMENT",
+    "SLEIGH",
+    "STAR"
+  ],
+  "grid": [
+    [
+      "F",
+      "C",
+      "S",
+      "T",
+      "A",
+      "R",
+      "J",
+      "K",
+      "Y",
+      "T"
+    ],
+    [
+      "C",
+      "H",
+      "U",
+      "R",
+      "C",
+      "H",
+      "W",
+      "I",
+      "V",
+      "C"
+    ],
+    [
+      "M",
+      "I",
+      "S",
+      "T",
+      "L",
+      "E",
+      "T",
+      "O",
+      "E",
+      "Z"
+    ],
+    [
+      "O",
+      "R",
+      "N",
+      "A",
+      "M",
+      "E",
+      "N",
+      "T",
+      "M",
+      "X"
+    ],
+    [
+      "P",
+      "M",
+      "I",
+      "D",
+      "N",
+      "I",
+      "G",
+      "H",
+      "T",
+      "Z"
+    ],
+    [
+      "R",
+      "V",
+      "F",
+      "R",
+      "O",
+      "S",
+      "T",
+      "M",
+      "D",
+      "N"
+    ],
+    [
+      "N",
+      "F",
+      "I",
+      "R",
+      "E",
+      "P",
+      "L",
+      "A",
+      "C",
+      "E"
+    ],
+    [
+      "G",
+      "S",
+      "L",
+      "E",
+      "I",
+      "G",
+      "H",
+      "H",
+      "X",
+      "H"
+    ],
+    [
+      "A",
+      "D",
+      "V",
+      "E",
+      "N",
+      "T",
+      "P",
+      "J",
+      "C",
+      "M"
+    ],
+    [
+      "L",
+      "I",
+      "C",
+      "I",
+      "C",
+      "L",
+      "E",
+      "V",
+      "Q",
+      "L"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FIREPLACE",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "MISTLETOE",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "ORNAMENT",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "MIDNIGHT",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "ADVENT",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SLEIGH",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CHURCH",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "ICICLE",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "FROST",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "STAR",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 1225
+}

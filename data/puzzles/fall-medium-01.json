@@ -1,0 +1,284 @@
+{
+  "id": "fall-medium-01",
+  "slug": "fall-medium-01",
+  "themeId": "fall",
+  "title": "Medium Fall Word Search",
+  "primaryKeyword": "fall word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ACORN",
+    "BONFIRE",
+    "CIDER",
+    "FOOTPATH",
+    "HARVEST",
+    "HAYBALE",
+    "MUSHROOM",
+    "NOVEMBER",
+    "RAKE",
+    "SCARECROW",
+    "SPICE",
+    "SQUIRREL",
+    "SWEATER",
+    "WOODSMOKE"
+  ],
+  "grid": [
+    [
+      "L",
+      "S",
+      "C",
+      "A",
+      "R",
+      "E",
+      "C",
+      "R",
+      "O",
+      "W",
+      "S",
+      "L"
+    ],
+    [
+      "M",
+      "F",
+      "I",
+      "J",
+      "K",
+      "J",
+      "W",
+      "L",
+      "S",
+      "O",
+      "W",
+      "O"
+    ],
+    [
+      "U",
+      "O",
+      "H",
+      "T",
+      "C",
+      "X",
+      "O",
+      "Q",
+      "Q",
+      "C",
+      "E",
+      "S"
+    ],
+    [
+      "S",
+      "O",
+      "H",
+      "H",
+      "E",
+      "H",
+      "O",
+      "B",
+      "U",
+      "N",
+      "A",
+      "B"
+    ],
+    [
+      "H",
+      "T",
+      "A",
+      "A",
+      "J",
+      "J",
+      "D",
+      "O",
+      "I",
+      "C",
+      "T",
+      "U"
+    ],
+    [
+      "R",
+      "P",
+      "R",
+      "Y",
+      "S",
+      "X",
+      "S",
+      "N",
+      "R",
+      "I",
+      "E",
+      "N"
+    ],
+    [
+      "O",
+      "A",
+      "V",
+      "B",
+      "P",
+      "K",
+      "M",
+      "F",
+      "R",
+      "D",
+      "R",
+      "Q"
+    ],
+    [
+      "O",
+      "T",
+      "E",
+      "A",
+      "I",
+      "H",
+      "O",
+      "I",
+      "E",
+      "E",
+      "T",
+      "A"
+    ],
+    [
+      "M",
+      "H",
+      "S",
+      "L",
+      "C",
+      "B",
+      "K",
+      "R",
+      "L",
+      "R",
+      "R",
+      "A"
+    ],
+    [
+      "N",
+      "V",
+      "T",
+      "E",
+      "E",
+      "P",
+      "E",
+      "E",
+      "A",
+      "L",
+      "A",
+      "K"
+    ],
+    [
+      "I",
+      "D",
+      "N",
+      "O",
+      "V",
+      "E",
+      "M",
+      "B",
+      "E",
+      "R",
+      "K",
+      "P"
+    ],
+    [
+      "A",
+      "C",
+      "O",
+      "R",
+      "N",
+      "X",
+      "I",
+      "X",
+      "L",
+      "T",
+      "E",
+      "L"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "WOODSMOKE",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "SCARECROW",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "NOVEMBER",
+      "row": 10,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "FOOTPATH",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SQUIRREL",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "MUSHROOM",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "HARVEST",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "SWEATER",
+      "row": 0,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "HAYBALE",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "BONFIRE",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "ACORN",
+      "row": 11,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SPICE",
+      "row": 5,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "CIDER",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "RAKE",
+      "row": 8,
+      "col": 10,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 1102
+}

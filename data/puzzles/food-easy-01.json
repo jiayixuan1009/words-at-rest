@@ -1,0 +1,208 @@
+{
+  "id": "food-easy-01",
+  "slug": "food-easy-01",
+  "themeId": "food",
+  "title": "Easy Food Word Search",
+  "primaryKeyword": "food word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BROTH",
+    "GINGER",
+    "KITCHEN",
+    "MARKET",
+    "OLIVE",
+    "OREGANO",
+    "RISOTTO",
+    "SPICE",
+    "THYME",
+    "YOGURT"
+  ],
+  "grid": [
+    [
+      "M",
+      "R",
+      "Q",
+      "Z",
+      "B",
+      "R",
+      "O",
+      "T",
+      "H",
+      "L"
+    ],
+    [
+      "A",
+      "I",
+      "K",
+      "I",
+      "T",
+      "C",
+      "H",
+      "E",
+      "N",
+      "Q"
+    ],
+    [
+      "R",
+      "S",
+      "Y",
+      "M",
+      "R",
+      "I",
+      "K",
+      "F",
+      "V",
+      "U"
+    ],
+    [
+      "K",
+      "O",
+      "O",
+      "L",
+      "L",
+      "S",
+      "G",
+      "O",
+      "O",
+      "M"
+    ],
+    [
+      "E",
+      "T",
+      "G",
+      "H",
+      "I",
+      "P",
+      "I",
+      "R",
+      "L",
+      "U"
+    ],
+    [
+      "T",
+      "T",
+      "U",
+      "T",
+      "M",
+      "I",
+      "N",
+      "E",
+      "I",
+      "J"
+    ],
+    [
+      "A",
+      "O",
+      "R",
+      "A",
+      "H",
+      "C",
+      "G",
+      "G",
+      "V",
+      "L"
+    ],
+    [
+      "U",
+      "T",
+      "T",
+      "V",
+      "B",
+      "E",
+      "E",
+      "A",
+      "E",
+      "C"
+    ],
+    [
+      "F",
+      "O",
+      "C",
+      "P",
+      "M",
+      "L",
+      "R",
+      "N",
+      "T",
+      "D"
+    ],
+    [
+      "Y",
+      "H",
+      "T",
+      "H",
+      "Y",
+      "M",
+      "E",
+      "O",
+      "X",
+      "I"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "OREGANO",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "RISOTTO",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "KITCHEN",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "GINGER",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "YOGURT",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "MARKET",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "THYME",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BROTH",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "OLIVE",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "SPICE",
+      "row": 3,
+      "col": 5,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2301
+}

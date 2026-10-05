@@ -1,0 +1,284 @@
+{
+  "id": "sports-medium-01",
+  "slug": "sports-medium-01",
+  "themeId": "sports",
+  "title": "Medium Sports Word Search",
+  "primaryKeyword": "sports word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ARCHERY",
+    "ARENA",
+    "CLIMBING",
+    "COACH",
+    "HOCKEY",
+    "MARATHON",
+    "MEDAL",
+    "RUNNING",
+    "SAILING",
+    "SOFTBALL",
+    "STRETCH",
+    "TENNIS",
+    "TRAINING",
+    "VOLLEYBALL"
+  ],
+  "grid": [
+    [
+      "R",
+      "U",
+      "N",
+      "N",
+      "I",
+      "N",
+      "G",
+      "N",
+      "S",
+      "V",
+      "B",
+      "Q"
+    ],
+    [
+      "M",
+      "A",
+      "V",
+      "U",
+      "L",
+      "B",
+      "O",
+      "P",
+      "F",
+      "O",
+      "S",
+      "G"
+    ],
+    [
+      "E",
+      "R",
+      "C",
+      "V",
+      "K",
+      "H",
+      "Q",
+      "S",
+      "R",
+      "L",
+      "T",
+      "W"
+    ],
+    [
+      "D",
+      "E",
+      "C",
+      "D",
+      "T",
+      "Y",
+      "G",
+      "G",
+      "L",
+      "C",
+      "R",
+      "D"
+    ],
+    [
+      "A",
+      "N",
+      "V",
+      "A",
+      "E",
+      "N",
+      "N",
+      "A",
+      "J",
+      "O",
+      "E",
+      "J"
+    ],
+    [
+      "L",
+      "A",
+      "R",
+      "K",
+      "I",
+      "I",
+      "B",
+      "P",
+      "I",
+      "A",
+      "T",
+      "N"
+    ],
+    [
+      "R",
+      "A",
+      "C",
+      "L",
+      "B",
+      "Y",
+      "X",
+      "U",
+      "T",
+      "C",
+      "C",
+      "D"
+    ],
+    [
+      "M",
+      "O",
+      "I",
+      "M",
+      "E",
+      "C",
+      "S",
+      "J",
+      "J",
+      "H",
+      "H",
+      "X"
+    ],
+    [
+      "H",
+      "A",
+      "I",
+      "L",
+      "S",
+      "O",
+      "F",
+      "T",
+      "B",
+      "A",
+      "L",
+      "L"
+    ],
+    [
+      "S",
+      "L",
+      "L",
+      "T",
+      "E",
+      "N",
+      "N",
+      "I",
+      "S",
+      "N",
+      "B",
+      "K"
+    ],
+    [
+      "C",
+      "O",
+      "M",
+      "T",
+      "R",
+      "A",
+      "I",
+      "N",
+      "I",
+      "N",
+      "G",
+      "U"
+    ],
+    [
+      "V",
+      "Q",
+      "A",
+      "R",
+      "C",
+      "H",
+      "E",
+      "R",
+      "Y",
+      "D",
+      "O",
+      "P"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "VOLLEYBALL",
+      "row": 11,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "CLIMBING",
+      "row": 10,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "SOFTBALL",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "MARATHON",
+      "row": 7,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "TRAINING",
+      "row": 10,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "STRETCH",
+      "row": 1,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "ARCHERY",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "RUNNING",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SAILING",
+      "row": 9,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "HOCKEY",
+      "row": 8,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "TENNIS",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "MEDAL",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "COACH",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "ARENA",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2202
+}

@@ -1,0 +1,208 @@
+{
+  "id": "music-easy-01",
+  "slug": "music-easy-01",
+  "themeId": "music",
+  "title": "Easy Music Word Search",
+  "primaryKeyword": "music word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BALLAD",
+    "BATON",
+    "CLARINET",
+    "CONCERTO",
+    "GUITAR",
+    "HARMONY",
+    "MELODY",
+    "OPERA",
+    "QUARTET",
+    "TROMBONE"
+  ],
+  "grid": [
+    [
+      "N",
+      "U",
+      "E",
+      "H",
+      "Q",
+      "A",
+      "M",
+      "N",
+      "A",
+      "D"
+    ],
+    [
+      "L",
+      "C",
+      "C",
+      "A",
+      "L",
+      "C",
+      "E",
+      "F",
+      "M",
+      "C"
+    ],
+    [
+      "B",
+      "L",
+      "L",
+      "R",
+      "F",
+      "O",
+      "L",
+      "T",
+      "G",
+      "S"
+    ],
+    [
+      "B",
+      "H",
+      "A",
+      "M",
+      "I",
+      "N",
+      "O",
+      "R",
+      "Q",
+      "B"
+    ],
+    [
+      "A",
+      "M",
+      "R",
+      "O",
+      "N",
+      "C",
+      "D",
+      "O",
+      "U",
+      "A"
+    ],
+    [
+      "L",
+      "W",
+      "I",
+      "N",
+      "O",
+      "E",
+      "Y",
+      "M",
+      "A",
+      "T"
+    ],
+    [
+      "L",
+      "B",
+      "N",
+      "Y",
+      "P",
+      "R",
+      "M",
+      "B",
+      "R",
+      "O"
+    ],
+    [
+      "A",
+      "Q",
+      "E",
+      "U",
+      "E",
+      "T",
+      "C",
+      "O",
+      "T",
+      "N"
+    ],
+    [
+      "D",
+      "B",
+      "T",
+      "X",
+      "R",
+      "O",
+      "N",
+      "N",
+      "E",
+      "L"
+    ],
+    [
+      "G",
+      "U",
+      "I",
+      "T",
+      "A",
+      "R",
+      "E",
+      "E",
+      "T",
+      "G"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CLARINET",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "TROMBONE",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "CONCERTO",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "HARMONY",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "QUARTET",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "MELODY",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "BALLAD",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "GUITAR",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "OPERA",
+      "row": 5,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "BATON",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2801
+}

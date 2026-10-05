@@ -1,0 +1,284 @@
+{
+  "id": "ocean-medium-01",
+  "slug": "ocean-medium-01",
+  "themeId": "ocean",
+  "title": "Medium Ocean Word Search",
+  "primaryKeyword": "ocean word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ABYSS",
+    "BRINE",
+    "BUOY",
+    "CORAL",
+    "COVE",
+    "HORIZON",
+    "LIGHTHOUSE",
+    "MARINER",
+    "OTTER",
+    "PELICAN",
+    "REEF",
+    "SAIL",
+    "URCHIN",
+    "WAVE"
+  ],
+  "grid": [
+    [
+      "C",
+      "O",
+      "R",
+      "A",
+      "L",
+      "Q",
+      "E",
+      "L",
+      "P",
+      "R",
+      "W",
+      "O"
+    ],
+    [
+      "P",
+      "U",
+      "G",
+      "D",
+      "U",
+      "V",
+      "O",
+      "T",
+      "T",
+      "E",
+      "R",
+      "L"
+    ],
+    [
+      "D",
+      "V",
+      "V",
+      "N",
+      "O",
+      "W",
+      "Q",
+      "P",
+      "B",
+      "E",
+      "E",
+      "I"
+    ],
+    [
+      "Z",
+      "Y",
+      "G",
+      "C",
+      "G",
+      "S",
+      "T",
+      "P",
+      "R",
+      "F",
+      "T",
+      "G"
+    ],
+    [
+      "U",
+      "R",
+      "C",
+      "H",
+      "I",
+      "N",
+      "C",
+      "E",
+      "I",
+      "I",
+      "D",
+      "H"
+    ],
+    [
+      "K",
+      "A",
+      "W",
+      "C",
+      "H",
+      "X",
+      "N",
+      "L",
+      "N",
+      "H",
+      "E",
+      "T"
+    ],
+    [
+      "A",
+      "B",
+      "A",
+      "O",
+      "Q",
+      "I",
+      "S",
+      "I",
+      "E",
+      "K",
+      "F",
+      "H"
+    ],
+    [
+      "Y",
+      "Q",
+      "V",
+      "C",
+      "R",
+      "U",
+      "A",
+      "C",
+      "M",
+      "A",
+      "E",
+      "O"
+    ],
+    [
+      "F",
+      "N",
+      "E",
+      "A",
+      "S",
+      "R",
+      "I",
+      "A",
+      "B",
+      "B",
+      "B",
+      "U"
+    ],
+    [
+      "S",
+      "G",
+      "M",
+      "T",
+      "S",
+      "G",
+      "L",
+      "N",
+      "C",
+      "Y",
+      "U",
+      "S"
+    ],
+    [
+      "O",
+      "Y",
+      "B",
+      "E",
+      "M",
+      "B",
+      "S",
+      "Y",
+      "I",
+      "S",
+      "O",
+      "E"
+    ],
+    [
+      "D",
+      "H",
+      "O",
+      "R",
+      "I",
+      "Z",
+      "O",
+      "N",
+      "J",
+      "S",
+      "Y",
+      "G"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "LIGHTHOUSE",
+      "row": 1,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "PELICAN",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "MARINER",
+      "row": 9,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "HORIZON",
+      "row": 11,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "URCHIN",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BRINE",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "OTTER",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "ABYSS",
+      "row": 7,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "CORAL",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SAIL",
+      "row": 6,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "WAVE",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "REEF",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "BUOY",
+      "row": 8,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "COVE",
+      "row": 3,
+      "col": 3,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2402
+}

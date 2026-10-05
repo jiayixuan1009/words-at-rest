@@ -6,13 +6,13 @@ export default function PuzzleCard({ puzzle }: { puzzle: Puzzle }) {
   return (
     <Link
       href={puzzlePath(puzzle)}
-      className="block rounded-2xl border border-stone-200 bg-white p-5 no-underline shadow-sm transition hover:border-stone-400"
+      className="block border-b border-[#d4cbb8] py-4 no-underline transition hover:border-[var(--accent)]"
     >
-      <p className="text-xs uppercase tracking-wide text-stone-500">
+      <p className="font-sans text-xs uppercase tracking-[0.14em] text-[var(--ink-soft)]">
         {puzzle.largePrint ? "Large print" : puzzle.difficulty} · {puzzle.gridSize}×{puzzle.gridSize} ·{" "}
         {puzzle.words.length} words
       </p>
-      <h3 className="mt-1 text-lg font-semibold text-stone-900">{puzzle.title}</h3>
+      <h3 className="mt-1 font-serif text-xl text-[var(--ink)]">{puzzle.title}</h3>
     </Link>
   );
 }

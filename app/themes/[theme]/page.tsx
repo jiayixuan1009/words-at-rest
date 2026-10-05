@@ -4,6 +4,7 @@ import Breadcrumbs from "@/components/Breadcrumbs";
 import PuzzleCard from "@/components/PuzzleCard";
 import AdSlot from "@/components/AdSlot";
 import { getPuzzlesByTheme, getTheme, getThemes } from "@/lib/data";
+import { themeImage } from "@/lib/images";
 
 type Props = { params: Promise<{ theme: string }> };
 
@@ -33,10 +34,20 @@ export default async function ThemePage({ params }: Props) {
           { name: theme.name, href: `/themes/${theme.slug}` },
         ]}
       />
-      <h1 className="text-4xl font-semibold tracking-tight">{theme.name} Word Search</h1>
-      <p className="mt-4 max-w-3xl text-lg leading-relaxed text-stone-700">{theme.description}</p>
-      <h2 className="mt-10 text-2xl font-semibold">{theme.name} puzzles</h2>
-      <div className="mt-4 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+      <div className="mb-8 overflow-hidden rounded-sm border border-[#d4cbb8] sm:grid sm:grid-cols-[1.1fr_0.9fr]">
+        <div className="flex flex-col justify-center p-6 sm:p-8">
+          <h1 className="font-serif text-4xl tracking-tight">{theme.name} Word Search</h1>
+          <p className="mt-4 max-w-2xl text-lg leading-relaxed text-[var(--ink-soft)]">{theme.description}</p>
+        </div>
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img
+          src={themeImage(theme.slug)}
+          alt=""
+          className="aspect-[16/10] w-full object-cover sm:aspect-auto sm:min-h-full"
+        />
+      </div>
+      <h2 className="font-serif text-3xl">{theme.name} puzzles</h2>
+      <div className="mt-2 max-w-2xl">
         {puzzles.map((p) => (
           <PuzzleCard key={p.id} puzzle={p} />
         ))}

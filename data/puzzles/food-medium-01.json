@@ -1,0 +1,284 @@
+{
+  "id": "food-medium-01",
+  "slug": "food-medium-01",
+  "themeId": "food",
+  "title": "Medium Food Word Search",
+  "primaryKeyword": "food word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BAGUETTE",
+    "BASIL",
+    "BROTH",
+    "CITRUS",
+    "COFFEE",
+    "GINGER",
+    "ONION",
+    "PASTA",
+    "RISOTTO",
+    "SAFFRON",
+    "SALAD",
+    "SOUP",
+    "STEW",
+    "THYME"
+  ],
+  "grid": [
+    [
+      "D",
+      "B",
+      "E",
+      "M",
+      "S",
+      "O",
+      "S",
+      "B",
+      "K",
+      "A",
+      "B",
+      "Q"
+    ],
+    [
+      "A",
+      "C",
+      "E",
+      "J",
+      "A",
+      "N",
+      "A",
+      "A",
+      "E",
+      "Q",
+      "R",
+      "J"
+    ],
+    [
+      "G",
+      "H",
+      "I",
+      "O",
+      "F",
+      "I",
+      "L",
+      "G",
+      "M",
+      "Q",
+      "O",
+      "L"
+    ],
+    [
+      "I",
+      "K",
+      "P",
+      "T",
+      "F",
+      "O",
+      "A",
+      "U",
+      "G",
+      "E",
+      "T",
+      "R"
+    ],
+    [
+      "C",
+      "G",
+      "Q",
+      "R",
+      "R",
+      "N",
+      "D",
+      "E",
+      "U",
+      "A",
+      "H",
+      "Q"
+    ],
+    [
+      "H",
+      "I",
+      "B",
+      "I",
+      "O",
+      "U",
+      "O",
+      "T",
+      "H",
+      "Y",
+      "M",
+      "E"
+    ],
+    [
+      "V",
+      "N",
+      "A",
+      "E",
+      "N",
+      "A",
+      "S",
+      "T",
+      "O",
+      "Q",
+      "E",
+      "C"
+    ],
+    [
+      "P",
+      "G",
+      "S",
+      "H",
+      "U",
+      "A",
+      "B",
+      "E",
+      "P",
+      "D",
+      "C",
+      "O"
+    ],
+    [
+      "F",
+      "E",
+      "I",
+      "W",
+      "Q",
+      "N",
+      "C",
+      "S",
+      "A",
+      "M",
+      "E",
+      "F"
+    ],
+    [
+      "K",
+      "R",
+      "L",
+      "N",
+      "U",
+      "W",
+      "M",
+      "O",
+      "S",
+      "P",
+      "Q",
+      "F"
+    ],
+    [
+      "G",
+      "B",
+      "J",
+      "S",
+      "T",
+      "E",
+      "W",
+      "U",
+      "T",
+      "Z",
+      "O",
+      "E"
+    ],
+    [
+      "R",
+      "I",
+      "S",
+      "O",
+      "T",
+      "T",
+      "O",
+      "P",
+      "A",
+      "D",
+      "K",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BAGUETTE",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SAFFRON",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "RISOTTO",
+      "row": 11,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CITRUS",
+      "row": 1,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "GINGER",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "COFFEE",
+      "row": 6,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "PASTA",
+      "row": 7,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "BROTH",
+      "row": 0,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "ONION",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "SALAD",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "BASIL",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "THYME",
+      "row": 5,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "STEW",
+      "row": 10,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SOUP",
+      "row": 8,
+      "col": 7,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2302
+}

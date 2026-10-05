@@ -3,17 +3,83 @@ import type { Puzzle } from "../../lib/types";
 import p_halloween_easy_01 from "./halloween-easy-01.json";
 import p_halloween_medium_01 from "./halloween-medium-01.json";
 import p_halloween_hard_01 from "./halloween-hard-01.json";
+import p_fall_easy_01 from "./fall-easy-01.json";
+import p_fall_medium_01 from "./fall-medium-01.json";
+import p_fall_hard_01 from "./fall-hard-01.json";
+import p_christmas_easy_01 from "./christmas-easy-01.json";
+import p_christmas_medium_01 from "./christmas-medium-01.json";
+import p_christmas_hard_01 from "./christmas-hard-01.json";
 import p_animals_easy_01 from "./animals-easy-01.json";
 import p_animals_medium_01 from "./animals-medium-01.json";
+import p_animals_hard_01 from "./animals-hard-01.json";
+import p_space_easy_01 from "./space-easy-01.json";
+import p_space_medium_01 from "./space-medium-01.json";
+import p_space_hard_01 from "./space-hard-01.json";
+import p_sports_easy_01 from "./sports-easy-01.json";
+import p_sports_medium_01 from "./sports-medium-01.json";
+import p_food_easy_01 from "./food-easy-01.json";
+import p_food_medium_01 from "./food-medium-01.json";
+import p_ocean_easy_01 from "./ocean-easy-01.json";
+import p_ocean_medium_01 from "./ocean-medium-01.json";
+import p_ocean_hard_01 from "./ocean-hard-01.json";
+import p_dogs_easy_01 from "./dogs-easy-01.json";
+import p_dogs_medium_01 from "./dogs-medium-01.json";
+import p_cats_easy_01 from "./cats-easy-01.json";
+import p_cats_medium_01 from "./cats-medium-01.json";
+import p_travel_easy_01 from "./travel-easy-01.json";
+import p_travel_medium_01 from "./travel-medium-01.json";
+import p_music_easy_01 from "./music-easy-01.json";
+import p_music_medium_01 from "./music-medium-01.json";
+import p_garden_easy_01 from "./garden-easy-01.json";
+import p_garden_medium_01 from "./garden-medium-01.json";
+import p_garden_hard_01 from "./garden-hard-01.json";
+import p_hard_pack_hard_01 from "./hard-pack-hard-01.json";
+import p_hard_pack_hard_02 from "./hard-pack-hard-02.json";
+import p_hard_pack_hard_03 from "./hard-pack-hard-03.json";
 import p_large_print_pack_large_01 from "./large-print-pack-large-01.json";
 import p_large_print_pack_large_02 from "./large-print-pack-large-02.json";
+import p_large_print_pack_large_03 from "./large-print-pack-large-03.json";
+import p_large_print_pack_large_04 from "./large-print-pack-large-04.json";
 
 export const puzzles = [
   p_halloween_easy_01,
   p_halloween_medium_01,
   p_halloween_hard_01,
+  p_fall_easy_01,
+  p_fall_medium_01,
+  p_fall_hard_01,
+  p_christmas_easy_01,
+  p_christmas_medium_01,
+  p_christmas_hard_01,
   p_animals_easy_01,
   p_animals_medium_01,
+  p_animals_hard_01,
+  p_space_easy_01,
+  p_space_medium_01,
+  p_space_hard_01,
+  p_sports_easy_01,
+  p_sports_medium_01,
+  p_food_easy_01,
+  p_food_medium_01,
+  p_ocean_easy_01,
+  p_ocean_medium_01,
+  p_ocean_hard_01,
+  p_dogs_easy_01,
+  p_dogs_medium_01,
+  p_cats_easy_01,
+  p_cats_medium_01,
+  p_travel_easy_01,
+  p_travel_medium_01,
+  p_music_easy_01,
+  p_music_medium_01,
+  p_garden_easy_01,
+  p_garden_medium_01,
+  p_garden_hard_01,
+  p_hard_pack_hard_01,
+  p_hard_pack_hard_02,
+  p_hard_pack_hard_03,
   p_large_print_pack_large_01,
   p_large_print_pack_large_02,
+  p_large_print_pack_large_03,
+  p_large_print_pack_large_04,
 ] as Puzzle[];

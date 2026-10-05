@@ -1,0 +1,173 @@
+{
+  "id": "large-print-pack-large-03",
+  "slug": "large-print-pack-large-03",
+  "themeId": "large-print-pack",
+  "title": "Large Print Word Search: Kitchen Calm",
+  "primaryKeyword": "large print word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BLANKET",
+    "COFFEE",
+    "LETTER",
+    "QUILT",
+    "STROLL",
+    "SUMMER",
+    "SUNSHINE",
+    "VALLEY"
+  ],
+  "grid": [
+    [
+      "S",
+      "U",
+      "M",
+      "M",
+      "E",
+      "R",
+      "K",
+      "C",
+      "B"
+    ],
+    [
+      "R",
+      "V",
+      "X",
+      "F",
+      "L",
+      "L",
+      "S",
+      "V",
+      "L"
+    ],
+    [
+      "C",
+      "O",
+      "F",
+      "F",
+      "E",
+      "E",
+      "U",
+      "A",
+      "A"
+    ],
+    [
+      "L",
+      "B",
+      "C",
+      "P",
+      "T",
+      "Z",
+      "N",
+      "L",
+      "N"
+    ],
+    [
+      "P",
+      "S",
+      "Q",
+      "C",
+      "T",
+      "I",
+      "S",
+      "L",
+      "K"
+    ],
+    [
+      "H",
+      "O",
+      "S",
+      "K",
+      "E",
+      "L",
+      "H",
+      "E",
+      "E"
+    ],
+    [
+      "X",
+      "I",
+      "V",
+      "P",
+      "R",
+      "Y",
+      "I",
+      "Y",
+      "T"
+    ],
+    [
+      "S",
+      "T",
+      "R",
+      "O",
+      "L",
+      "L",
+      "N",
+      "E",
+      "Y"
+    ],
+    [
+      "Q",
+      "U",
+      "I",
+      "L",
+      "T",
+      "Q",
+      "E",
+      "Q",
+      "P"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SUNSHINE",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "BLANKET",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "COFFEE",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "LETTER",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "SUMMER",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "VALLEY",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "STROLL",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "QUILT",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 3003
+}
