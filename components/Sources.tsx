@@ -8,7 +8,7 @@ export function Quote({ c, className = "" }: { c: Citation; className?: string }
       <blockquote cite={c.url} className="font-serif text-lg italic leading-relaxed text-[var(--ink)]">
         <p>“{c.quote}”</p>
       </blockquote>
-      <figcaption className="mt-1 font-sans text-sm text-[var(--ink-soft)]">
+      <figcaption className="mt-1 font-sans text-base text-[var(--ink-soft)]">
         — {c.publisher},{" "}
         <cite>
           <a href={c.url} rel="noopener" target="_blank">
@@ -49,7 +49,7 @@ export function SourceNote({
         <blockquote cite={c.url} className="font-serif text-base italic leading-relaxed text-[var(--ink)]">
           <p>“{c.quote}”</p>
         </blockquote>
-        <figcaption className="mt-1 font-sans text-sm text-[var(--ink-soft)]">
+        <figcaption className="mt-1 font-sans text-base text-[var(--ink-soft)]">
           — {c.publisher}
         </figcaption>
       </figure>
@@ -63,7 +63,7 @@ export function InlineSource({ source }: { source: ThemeSource }) {
   const line = source.shortClaim ?? source.claim;
   const shortEnough = c.quote.length <= 110;
   return (
-    <p className="mt-3 text-base leading-relaxed text-stone-600">
+    <p className="mt-3 text-base leading-relaxed text-[var(--ink-soft)]">
       <strong className="font-medium text-stone-800">Source: </strong>
       {line}{" "}
       {shortEnough ? (

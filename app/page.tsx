@@ -193,7 +193,7 @@ export default function HomePage() {
                   <Picture art={DIFFICULTY_ART[d].badge} decorative className="h-11 w-11" />
                   <h3 className="font-serif text-3xl text-[var(--ink)] group-hover:text-[var(--moss)]">{LEVEL_COPY[d].name}</h3>
                 </div>
-                <p className="mt-1 font-sans text-sm uppercase tracking-[0.12em] text-[var(--ink-soft)]">{LEVEL_COPY[d].line}</p>
+                <p className="mt-1 font-sans text-sm uppercase tracking-[0.08em] text-[var(--ink-soft)]">{LEVEL_COPY[d].line}</p>
                 <p className="mt-2 text-lg leading-relaxed text-[var(--ink-soft)]">{LEVEL_COPY[d].body}</p>
               </Link>
             </li>

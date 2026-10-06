@@ -39,6 +39,7 @@ export default function PuzzleGrid({
     return words.map((w) => w.toUpperCase());
   }, [placements, words]);
   const targetCount = targetWords.length;
+  const longestWord = targetWords.reduce((m, w) => Math.max(m, w.length), 0);
 
   const [found, setFound] = useState<Set<string>>(() => new Set());
   const [largePrint, setLargePrint] = useState(defaultLargePrint);
@@ -209,23 +210,23 @@ export default function PuzzleGrid({
 
   return (
     <section aria-label="Word search puzzle" className="space-y-4">
-      <div className="flex flex-wrap items-center gap-3 text-sm">
+      <div className="flex flex-wrap items-center gap-3 font-sans text-[1.0625rem]">
         <button
           type="button"
           onClick={toggleLargePrint}
           aria-pressed={largePrint}
-          className="min-h-10 rounded-full border border-[#b8a990] px-4 py-2 font-medium hover:bg-[#ebe4d6]/60"
+          className="min-h-11 rounded-full border border-[#b8a990] px-4 py-2 font-medium hover:bg-[#ebe4d6]/60"
         >
           {largePrint ? "Standard print" : "Large print"}
         </button>
         <button
           type="button"
           onClick={reset}
-          className="min-h-10 rounded-full border border-[#d4cbb8] px-4 py-2 hover:bg-[#ebe4d6]/60"
+          className="min-h-11 rounded-full border border-[#b8a990] px-4 py-2 hover:bg-[#ebe4d6]/60"
         >
           Reset
         </button>
-        <span className="text-[var(--ink-soft)]" aria-live="polite">
+        <span className="inline-flex min-h-11 items-center text-[var(--ink-soft)]" aria-live="polite">
           {found.size} / {targetCount} found{message ? ` · ${message}` : ""}
         </span>
       </div>
@@ -241,7 +242,7 @@ export default function PuzzleGrid({
           className={`puzzle-board grid select-none touch-none p-1.5 sm:p-2 ${
             largePrint ? "is-lp w-full max-w-2xl" : "w-full max-w-xl"
           }`}
-          style={{ gridTemplateColumns: `repeat(${size}, minmax(0, 1fr))` }}
+          style={{ gridTemplateColumns: `repeat(${size}, minmax(0, 1fr))`, ["--n" as string]: size }}
         >
           {grid.map((row, r) => (
             // display:contents keeps every cell a direct CSS-grid item while giving
@@ -270,12 +271,15 @@ export default function PuzzleGrid({
         </div>
 
         <div className="min-w-48">
-          <h2 className={`mb-2 font-semibold ${largePrint ? "text-2xl" : "text-lg"}`}>Words to find</h2>
-          <ul className={`grid grid-cols-2 gap-x-6 gap-y-1 lg:grid-cols-1 ${largePrint ? "text-2xl" : "text-base"}`}>
+          <h2 className={`mb-2 font-semibold ${largePrint ? "text-2xl" : "text-xl"}`}>Words to find</h2>
+          <ul
+            className={`word-list grid gap-x-6 gap-y-1 [overflow-wrap:anywhere] lg:grid-cols-1 ${largePrint ? "text-2xl" : "text-[1.125rem] leading-snug lg:text-[1.25rem]"}`}
+            style={{ ["--wl" as string]: longestWord }}
+          >
             {targetWords.map((w) => (
               <li
                 key={w}
-                className={found.has(w) ? "text-[#a89880] line-through" : "text-[var(--ink)]"}
+                className={found.has(w) ? "text-[#736452] line-through" : "text-[var(--ink)]"}
               >
                 {w}
               </li>
@@ -306,7 +310,7 @@ export default function PuzzleGrid({
           </figcaption>
         </figure>
       )}
-      <p className="text-sm text-[var(--ink-soft)]">
+      <p className="font-sans text-[1.0625rem] text-[var(--ink-soft)]">
         Tip: drag across a word, or tap its first letter and then its last letter.
       </p>
     </section>

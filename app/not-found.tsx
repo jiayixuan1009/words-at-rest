@@ -52,7 +52,7 @@ export default function NotFound() {
       </nav>
 
       <div className="mt-6 sm:mt-8">
-        <p className="font-sans text-sm uppercase tracking-[0.18em] text-[var(--ink-soft)]">Popular themes</p>
+        <p className="font-sans text-sm uppercase tracking-[0.08em] text-[var(--ink-soft)]">Popular themes</p>
         <ul className="mt-3 flex flex-wrap justify-center gap-2">
           {POPULAR_THEMES.map((t) => (
             <li key={t.slug}>

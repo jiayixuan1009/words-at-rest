@@ -31,7 +31,7 @@ export default function ThemeCard({
         <h3 className={`font-serif text-[var(--ink)] group-hover:text-[var(--moss)] ${feature ? "text-3xl" : "text-2xl"}`}>
           {theme.name}
         </h3>
-        <p className="font-sans text-sm uppercase tracking-[0.12em] text-[var(--ink-soft)]">
+        <p className="font-sans text-[0.9375rem] text-[var(--ink-soft)]">
           {count} puzzle{count === 1 ? "" : "s"}
         </p>
       </div>

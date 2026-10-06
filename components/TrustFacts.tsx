@@ -80,7 +80,7 @@ export default function TrustFacts({ variant = "footer", className = "" }: { var
     <ul
       aria-label="About this site"
       className={`flex flex-wrap items-center gap-y-1.5 font-sans text-[var(--ink-soft)] ${
-        compact ? "gap-x-4 text-sm" : "justify-center gap-x-5 text-[0.95rem] sm:gap-x-7"
+        compact ? "gap-x-4 text-base" : "justify-center gap-x-5 text-base sm:gap-x-7"
       } ${className}`}
     >
       {TRUST_FACTS.map((f) => (

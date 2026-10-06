@@ -6,7 +6,6 @@ const NAV = [
   { href: "/daily", label: "Daily" },
   { href: "/themes", label: "Themes" },
   { href: "/large-print", label: "Large Print" },
-  { href: "/difficulty/hard", label: "Hard" },
   { href: "/how-to-play", label: "How to Play" },
 ];
 
@@ -32,20 +31,22 @@ export default function SiteHeader() {
             <span className="block font-serif text-[1.25rem] font-semibold tracking-tight sm:text-[1.75rem]">
               {SITE.name}
             </span>
-            <span className="mt-1 hidden font-sans text-[0.7rem] uppercase tracking-[0.22em] text-[var(--ink-soft)] sm:block">
+            <span className="mt-1 hidden font-sans text-[0.875rem] uppercase tracking-[0.1em] text-[var(--ink-soft)] md:block">
               Word search, unhurried
             </span>
           </span>
         </Link>
         {/*
           Mobile (< sm): the nav drops to its own full-width row under the logo and the
-          five items are spread edge to edge, so nothing scrolls or clips at 320–639px
-          (font scales 13px at 320px → 15.2px at 380px+). Each link keeps ≥40px width and 44px height
-          for touch. Desktop (sm+) is the original single row, right-aligned.
+          four items are spread edge to edge at 17px, so nothing scrolls or clips at 320–639px
+          (if a wide system font ever overflows, the row wraps instead of scrolling).
+          "Hard" moved to the footer to make room (Large Print stays up here). Each link keeps
+          ≥40px width and 44px height for touch. Desktop (sm+) is a single row, right-aligned;
+          the tagline only shows from md so the row also fits at 640px.
         */}
         <nav aria-label="Main" className="w-full min-w-0 sm:w-auto sm:flex-1">
           <ul
-            className="flex flex-nowrap justify-between gap-x-0.5 font-sans text-[clamp(0.8125rem,4vw,0.95rem)] sm:flex-wrap sm:justify-end sm:gap-x-5 sm:text-[1rem]"
+            className="flex flex-wrap justify-between gap-x-1 font-sans text-[1.0625rem] sm:justify-end sm:gap-x-4 md:gap-x-6"
           >
             {NAV.map((n) => (
               <li key={n.href} className="shrink-0">

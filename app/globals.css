@@ -6,7 +6,7 @@
     --paper: #f4efe6;
     --paper-deep: #ebe4d6;
     --ink: #2c241b;
-    --ink-soft: #5c5348;
+    --ink-soft: #4f473d; /* 7.97:1 on --paper, 7.21:1 on --paper-deep */
     --accent: #6b4f3a;
     --accent-deep: #4a3426;
     --moss: #3d5a45;
@@ -49,6 +49,11 @@
     color: var(--moss);
   }
 
+  /* Titles in citations stay upright: long italic runs are harder to read. */
+  cite {
+    font-style: normal;
+  }
+
   a:hover {
     color: var(--accent-deep);
   }
@@ -61,6 +66,8 @@
 
 @layer components {
   .puzzle-board {
+    /* Cells size their letters from the board width (cqi), so letters track the cell. */
+    container-type: inline-size;
     background: #faf6ee;
     border: 1px solid #d4cbb8;
     box-shadow:
@@ -68,16 +75,42 @@
       0 8px 24px rgba(44, 36, 27, 0.06);
   }
 
+  /*
+   * Grid letters: bold, wide-aperture sans sized to the cell. --n (letters per row) is set
+   * inline on the board. 0.62 × cell width (14–30px at default text size); Large print 0.75 × (16–44px).
+   * min-height: 0 + line-height: 1 keep every cell square on phones at all grid sizes.
+   */
   .puzzle-cell {
     border: 1px solid rgba(180, 160, 130, 0.35);
-    font-family: "Courier New", Courier, ui-monospace, monospace;
-    font-weight: 600;
-    letter-spacing: 0.02em;
+    font-family: Verdana, "Atkinson Hyperlegible Next", "Atkinson Hyperlegible", "Segoe UI", Roboto, "Noto Sans", "Helvetica Neue", Arial, sans-serif;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 1;
+    min-width: 0;
+    min-height: 0;
+    font-size: clamp(0.875rem, calc(100cqi / var(--n, 10) * 0.62), 1.875rem);
     /* Shared cell styles live here (not as per-cell utility classes) to keep the HTML small. */
-    @apply flex aspect-square cursor-pointer items-center justify-center uppercase transition-colors text-base sm:text-xl bg-transparent text-[var(--ink)];
+    @apply flex aspect-square cursor-pointer items-center justify-center uppercase transition-colors bg-transparent text-[var(--ink)];
   }
   .puzzle-board.is-lp .puzzle-cell {
-    @apply text-2xl sm:text-4xl;
+    font-size: clamp(1rem, calc(100cqi / var(--n, 10) * 0.75), 2.75rem);
+  }
+  /* Browsers without container units (pre-2023): estimate the board width from the viewport. */
+  @supports not (width: 1cqi) {
+    .puzzle-cell {
+      font-size: clamp(0.875rem, calc(min(100vw - 2rem, 36rem) / var(--n, 10) * 0.62), 1.875rem);
+    }
+    .puzzle-board.is-lp .puzzle-cell {
+      font-size: clamp(1rem, calc(min(100vw - 2rem, 42rem) / var(--n, 10) * 0.75), 2.75rem);
+    }
+  }
+  /*
+   * Word list: two columns on phones, but a column is never narrower than the longest
+   * word (--wl letters × ~0.75em of serif capitals; measured ≈0.65em), so long words drop to one column
+   * instead of breaking mid-word. lg:grid-cols-1 overrides this on desktop.
+   */
+  .word-list {
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, max(calc(var(--wl, 8) * 0.75em), calc(50% - 0.75rem))), 1fr));
   }
   .puzzle-cell.is-found {
     @apply bg-[var(--found)] text-[var(--moss)];
@@ -119,8 +152,8 @@
   /* Editorial kicker: small caps label with a rule. */
   .kicker {
     font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
-    font-size: 0.8rem;
-    letter-spacing: 0.22em;
+    font-size: 0.875rem; /* 14px */
+    letter-spacing: 0.1em;
     text-transform: uppercase;
     color: var(--moss);
     display: flex;

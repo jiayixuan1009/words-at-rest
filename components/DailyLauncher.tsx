@@ -28,7 +28,7 @@ export function LauncherCta({ puzzle }: { puzzle: Puzzle }) {
       <p className="font-sans text-[1rem] leading-snug text-[var(--ink-soft)]">
         Today: <Link href="/daily" className="font-semibold">{puzzle.title}</Link>
         <br />
-        <span className="text-sm">{meta(puzzle)}</span>
+        <span className="text-[0.9375rem]">{meta(puzzle)}</span>
       </p>
     </div>
   );
@@ -38,7 +38,7 @@ export function LauncherCta({ puzzle }: { puzzle: Puzzle }) {
 export function LauncherChips() {
   return (
     <div>
-      <p className="font-sans text-sm uppercase tracking-[0.16em] text-[var(--ink-soft)]">Or choose your own</p>
+      <p className="font-sans text-sm uppercase tracking-[0.08em] text-[var(--ink-soft)]">Or choose your own</p>
       <ul
         className="chip-scroll mt-3 flex flex-nowrap gap-2 lg:flex-wrap lg:overflow-visible"
         aria-label="Choose a difficulty or theme"
@@ -104,13 +104,13 @@ export default function DailyPreview({ puzzle, date }: { puzzle: Puzzle; date: s
       />
       <div className="flex flex-col gap-3 lg:grid lg:grid-cols-[minmax(0,13rem)_1fr] lg:items-center lg:gap-5">
         <div className="order-1 min-w-0 pr-8 lg:order-2 lg:pr-0">
-          <p className="kicker !gap-2 text-[0.7rem] tracking-[0.18em] sm:text-[0.8rem] sm:tracking-[0.22em]">
+          <p className="kicker !gap-2 tracking-[0.06em] sm:tracking-[0.1em]">
             <time dateTime={date}>{formatLongDate(date)}</time>
           </p>
           <p className="mt-1.5 font-serif text-[1.35rem] font-semibold leading-tight text-[var(--ink)] group-hover:text-[var(--moss)] sm:mt-2 sm:text-[1.7rem]">
             {puzzle.title}
           </p>
-          <p className="mt-0.5 font-sans text-[0.88rem] text-[var(--ink-soft)] sm:mt-1 sm:text-[0.95rem]">
+          <p className="mt-0.5 font-sans text-[0.9375rem] text-[var(--ink-soft)] sm:mt-1 sm:text-base">
             {meta(puzzle)}
           </p>
           <p className="mt-2 hidden font-sans text-[1rem] font-semibold text-[var(--moss)] lg:mt-3 lg:block">

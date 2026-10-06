@@ -22,7 +22,7 @@ export default function TermsPage() {
       <Prose>
         <Ornament art={ART.legalOrnament} width={200} className="!justify-start" />
         <h1 className="text-4xl font-semibold tracking-tight">Terms of Use</h1>
-        <p className="text-base text-stone-600">Last updated: {SITE.lastUpdatedLegal}</p>
+        <p className="text-base text-[var(--ink-soft)]">Last updated: {SITE.lastUpdatedLegal}</p>
         <p>
           Welcome to {SITE.name}. By accessing or using {SITE.domain} (the “Site”), you agree to
           these Terms of Use. If you do not agree, please do not use the Site.

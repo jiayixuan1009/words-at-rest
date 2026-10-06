@@ -21,7 +21,7 @@ export default function Byline({
   const published = dates?.published;
   const showPublished = published && published.slice(0, 10) !== modified.slice(0, 10);
   return (
-    <p className={`${className} font-sans text-sm text-[var(--ink-soft)]`}>
+    <p className={`${className} font-sans text-base text-[var(--ink-soft)]`}>
       By <Link href={SITE.editor.aboutPath} rel="author">{SITE.editor.name}</Link>
       {showPublished && (
         <>

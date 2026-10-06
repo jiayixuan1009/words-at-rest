@@ -12,7 +12,7 @@ export default function DifficultyTable({ caption = "Word search difficulty leve
   return (
     <div className="mt-4 overflow-x-auto">
       <table className="w-full min-w-[560px] border-collapse text-left font-sans text-base">
-        <caption className="mb-2 text-left font-sans text-sm text-[var(--ink-soft)]">{caption}</caption>
+        <caption className="mb-2 text-left font-sans text-base text-[var(--ink-soft)]">{caption}</caption>
         <thead>
           <tr className="border-b-2 border-[#b8a990] text-[var(--ink)]">
             <th scope="col" className="py-2 pr-4">Level</th>

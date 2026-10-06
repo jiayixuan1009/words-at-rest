@@ -10,17 +10,17 @@ export interface Crumb {
 export default function Breadcrumbs({ items }: { items: Crumb[] }) {
   const all = [{ name: "Home", href: "/" }, ...items];
   return (
-    <nav aria-label="Breadcrumb" className="mb-4 text-sm text-stone-500">
+    <nav aria-label="Breadcrumb" className="mb-4 font-sans text-base text-[var(--ink-soft)]">
       <ol className="flex flex-wrap gap-1">
         {all.map((c, i) => (
           <li key={c.href} className="flex gap-1">
             {i > 0 && <span aria-hidden="true">/</span>}
             {i < all.length - 1 ? (
-              <Link href={c.href} className="hover:text-stone-800">
+              <Link href={c.href} className="hover:text-[var(--accent-deep)]">
                 {c.name}
               </Link>
             ) : (
-              <span aria-current="page" className="text-stone-700">
+              <span aria-current="page" className="text-[var(--ink)]">
                 {c.name}
               </span>
             )}

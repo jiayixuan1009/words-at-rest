@@ -41,7 +41,7 @@ export default function CookieConsent() {
       className="fixed inset-x-0 bottom-0 z-50 border-t border-[#d4cbb8] bg-[#F4EFE6]/95 p-4 shadow-lg backdrop-blur sm:p-5"
     >
       <div className="mx-auto flex max-w-5xl flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
-        <p className="text-sm text-[var(--ink)]">
+        <p className="font-sans text-base text-[var(--ink)]">
           We use cookies and similar technologies for preferences, analytics (when enabled), and
           advertising (when enabled). See our{" "}
           <Link href="/privacy" className="underline">
@@ -52,7 +52,7 @@ export default function CookieConsent() {
         <button
           type="button"
           onClick={dismiss}
-          className="shrink-0 rounded-full border border-[#b8a990] bg-white px-4 py-2 text-sm font-medium hover:bg-[#ebe4d6]/60"
+          className="min-h-11 shrink-0 rounded-full border border-[#b8a990] bg-white px-4 py-2 text-base font-medium hover:bg-[#ebe4d6]/60"
         >
           Got it
         </button>

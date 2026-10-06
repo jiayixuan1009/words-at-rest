@@ -24,8 +24,8 @@ export default function PuzzleCard({ puzzle }: { puzzle: Puzzle }) {
         className="hidden aspect-[4/3] w-28 shrink-0 rounded-[3px] border border-[#d4cbb8] bg-[#efe7d9] object-cover sm:block"
       />
       <div className="min-w-0">
-        <p className="font-sans text-xs uppercase tracking-[0.14em] text-[var(--ink-soft)]">
-          {puzzle.largePrint ? "Large print" : puzzle.difficulty} · {puzzle.gridSize}×{puzzle.gridSize} ·{" "}
+        <p className="font-sans text-[0.9375rem] text-[var(--ink-soft)]">
+          {puzzle.largePrint ? "Large print" : puzzle.difficulty.charAt(0).toUpperCase() + puzzle.difficulty.slice(1)} · {puzzle.gridSize}×{puzzle.gridSize} ·{" "}
           {puzzle.words.length} words
         </p>
         <h3 className="mt-1 font-serif text-xl text-[var(--ink)]">{puzzle.title}</h3>

@@ -24,7 +24,7 @@ export default function PrivacyPage() {
       <Prose>
         <Ornament art={ART.legalOrnament} width={200} className="!justify-start" />
         <h1 className="text-4xl font-semibold tracking-tight">Privacy Policy</h1>
-        <p className="text-base text-stone-600">Last updated: {SITE.lastUpdatedLegal}</p>
+        <p className="text-base text-[var(--ink-soft)]">Last updated: {SITE.lastUpdatedLegal}</p>
         <section
           aria-labelledby="privacy-summary"
           className="rounded-[4px] border border-[#cbbfa6] bg-[var(--paper-deep)] p-5 [&_li]:ml-5"

@@ -89,7 +89,7 @@ export default function PuzzleView({
           </p>
         )}
         <InlineSource source={themeSource} />
-        <p className="mt-2 text-base leading-relaxed text-stone-600">
+        <p className="mt-2 text-base leading-relaxed text-[var(--ink-soft)]">
           New to word searches? See{" "}
           <Link href="/how-to-play">how to play</Link>, which cites the W3C guidance that{" "}
           <q cite={CITATIONS.wcagResizeText.url}>{CITATIONS.wcagResizeText.quote.replace(/\.$/, "")}</q>.

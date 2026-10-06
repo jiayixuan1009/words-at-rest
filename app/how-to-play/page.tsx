@@ -93,7 +93,7 @@ export default function HowToPlayPage() {
           {[0, 1, 2, 4].map((si, i) => (
             <figure key={STEPS[si].name}>
               <Picture art={ART.howToSteps[i]} sizes="(min-width: 640px) 180px, 45vw" className="aspect-[4/3] w-full object-contain" />
-              <figcaption className="mt-1 text-center font-sans text-sm text-[var(--ink-soft)]">{STEPS[si].name}</figcaption>
+              <figcaption className="mt-1 text-center font-sans text-base text-[var(--ink-soft)]">{STEPS[si].name}</figcaption>
             </figure>
           ))}
         </div>

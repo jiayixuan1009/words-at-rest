@@ -18,7 +18,7 @@ export default function SiteFooter() {
           <p className="mt-3 max-w-sm leading-relaxed">
             Free word search puzzles for adults — large print, daily and seasonal. No timer, no fuss.
           </p>
-          <p className="mt-2 max-w-sm text-sm leading-relaxed">
+          <p className="mt-2 max-w-sm font-sans text-base leading-relaxed">
             Illustrations were made for {SITE.name} — no stock photos.
           </p>
         </div>
@@ -26,6 +26,7 @@ export default function SiteFooter() {
           <ul className="flex flex-wrap gap-x-5 [&_a]:inline-flex [&_a]:min-h-10 [&_a]:items-center">
             <li><Link href="/daily">Daily</Link></li>
             <li><Link href="/calendar">Calendar</Link></li>
+            <li><Link href="/difficulty/hard">Hard puzzles</Link></li>
             <li><Link href="/about">About</Link></li>
             <li><Link href="/adults">For adults</Link></li>
             <li><Link href="/accessibility">Accessibility</Link></li>

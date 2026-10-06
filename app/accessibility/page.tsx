@@ -15,10 +15,14 @@ import { SITE } from "@/lib/site";
  * Accessibility statement. Keep every line TRUE to the current code — this page
  * was written from measured behavior on 2026-10-06 (Playwright, 390px + 1280px):
  * - Grid cells are not focusable and have no key handlers → no keyboard selection.
- * - Grid cell size on a 390px phone: easy 34px, medium 29px, hard 23px, large print 38px.
- * - Large print toggle: letters 16→24px (phone) / 20→36px (≥640px); word list 24px.
- * - Contrast on the paper background (#f4efe6): ink 13.3:1, secondary 6.6:1, links 6.7:1;
- *   crossed-out found words (#a89880) only 2.5:1 — listed as a known issue.
+ * - Grid cells stay square at every size. On a 390px phone: easy 34px, medium 29px,
+ *   hard 23px, large print puzzles 38px.
+ * - Grid letters are bold sans sized to the square (0.62×, 14–30px; Large print 0.75×, 16–44px).
+ *   390px phone: easy 21px, medium 18px, hard 14px; Large print on: 26 / 21.5 / 17px;
+ *   large print puzzles 29px. 1280px: easy 30, medium 29, hard 23px; Large print 44 / 41 / 33px.
+ * - Word list 18px (20px on desktop), 24px with Large print. Puzzle buttons + menu ≥44px tall.
+ * - Contrast on the paper background (#f4efe6): ink 13.3:1, secondary text (#4f473d) 8.0:1,
+ *   links 6.7:1, crossed-out found words (#736452, still struck through) 5.0:1.
  * - No horizontal scrolling at 320px or 640px wide (≈ 400% / 200% zoom of 1280px).
  * Update this comment and the copy whenever any of these change.
  */
@@ -65,13 +69,17 @@ export default function AccessibilityPage() {
         <h2 id="large-print">Large print</h2>
         <ul>
           <li>
-            Every puzzle has a <strong>Large print</strong> button above the grid. It makes the
-            letters 50% bigger on phones (16px to 24px) and nearly twice as big on larger screens
-            (20px to 36px), and enlarges the word list. Your choice is remembered in your browser.
+            Every puzzle has a <strong>Large print</strong> button above the grid. Grid letters are
+            always sized to fit their square; Large print makes them bigger still. On larger screens
+            the grid also gets wider, so letters grow by about 40–50% (on a hard puzzle, 23px to
+            33px). On a phone the grid is already as wide as the screen, so letters grow by about a
+            fifth (on a hard puzzle, 14px to 17px). It also enlarges the word list from 18px to 24px.
+            Your choice is remembered in your browser.
           </li>
           <li>
             We also publish {lpCount} dedicated <Link href="/large-print">large print puzzles</Link>:
-            a smaller 9×9 grid with eight words that read only across or down.
+            a smaller 9×9 grid with eight words that read only across or down, with letters about
+            29px tall on a typical phone and up to 44px on a larger screen.
           </li>
         </ul>
 
@@ -79,15 +87,18 @@ export default function AccessibilityPage() {
         <p>
           Text sizes are set in relative units, so your browser’s text-size setting and zoom both
           work. Pages reflow to a single column on narrow screens; at 320 pixels wide (the
-          equivalent of 400% zoom on a laptop) there is no sideways scrolling.
+          equivalent of 400% zoom on a laptop) there is no sideways scrolling. Grid letters are
+          sized to fill about two-thirds of their square, so they grow with zoom and with the
+          grid; the word list is 18px on phones and 20px on larger screens.
         </p>
 
         <h2 id="contrast">Color and contrast</h2>
         <p>
           The site uses dark ink on a warm paper background. Body text has a contrast ratio of
-          about 13:1, secondary text about 6.6:1 and links about 6.7:1 — all above the 4.5:1 WCAG
+          about 13:1, secondary text about 8:1 and links about 6.7:1 — all above the 4.5:1 WCAG
           minimum. Found words are highlighted in the grid with a color and also crossed out in the
-          word list, so color is not the only signal.
+          word list, so color is not the only signal; crossed-out words stay readable at about
+          5:1.
         </p>
 
         <h2 id="keyboard">Keyboard</h2>
@@ -114,7 +125,7 @@ export default function AccessibilityPage() {
 
         <h2 id="touch">Phones and tap targets</h2>
         <ul>
-          <li>Main menu links and puzzle buttons are at least 40 pixels tall.</li>
+          <li>Main menu links and the Large print and Reset buttons are at least 44 pixels tall.</li>
           <li>
             You can tap the first letter and then the last letter of a word instead of dragging,
             which is easier with a shaky hand or a small screen.
@@ -132,10 +143,6 @@ export default function AccessibilityPage() {
         <ul>
           <li>No keyboard selection of words in the grid (see above).</li>
           <li>Found words are not announced in the word list by screen readers.</li>
-          <li>
-            Crossed-out words in the word list are shown in a lighter color with a contrast of about
-            2.5:1, below the 4.5:1 minimum.
-          </li>
           <li>Grid letter squares on medium and hard puzzles are below 40px on small phones.</li>
         </ul>
 

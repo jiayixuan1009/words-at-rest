@@ -56,7 +56,7 @@ export default function DailyPage() {
     <>
       <Breadcrumbs items={[{ name: "Daily", href: "/daily" }]} />
       <Picture art={ART.dailyHeader} priority sizes="(min-width: 1152px) 1088px, 100vw" className="mb-6 aspect-[10/3] w-full rounded-[3px] border border-[#d4cbb8] object-cover" />
-      <p className="text-sm uppercase tracking-wide text-stone-500">
+      <p className="font-sans text-sm uppercase tracking-[0.08em] text-[var(--ink-soft)]">
         <time dateTime={date}>{formatLongDate(date)}</time>
       </p>
       <PuzzleView
@@ -97,7 +97,7 @@ export default function DailyPage() {
         {archive.length === 0 ? (
           <div className="mt-3 flex flex-col items-start gap-4 sm:flex-row sm:items-center">
           <Picture art={ART.dailyArchiveEmpty} sizes="240px" className="h-auto w-60 shrink-0" />
-          <p className="text-stone-600">
+          <p className="text-[var(--ink-soft)]">
             The archive starts today ({formatLongDate(date)}). Each new day adds a dated page —
             check back tomorrow, or play today&apos;s puzzle at its{" "}
             <Link href={`/daily/${date}`}>permanent link</Link>.

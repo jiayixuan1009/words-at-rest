@@ -59,7 +59,7 @@ export default function ContactPage() {
           <Link href="/how-to-play">how to play</Link> page. Progress is stored only in your own
           browser, so we cannot restore a puzzle you were part-way through on another device.
         </p>
-        <p className="text-base text-stone-600">
+        <p className="text-base text-[var(--ink-soft)]">
           We do not sell puzzles or accept paid placements. Please do not send personal information
           you do not need to share.
         </p>

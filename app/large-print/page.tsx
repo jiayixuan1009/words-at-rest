@@ -91,7 +91,7 @@ export default function LargePrintPage() {
         </div>
         <figure className="hidden sm:block">
           <Picture art={ART.largePrintComfort} sizes="(min-width: 1024px) 420px, 92vw" className="aspect-[3/2] w-full object-contain" />
-          <figcaption className="mt-2 font-sans text-sm italic text-[var(--ink-soft)]">
+          <figcaption className="mt-2 font-sans text-base text-[var(--ink-soft)]">
             Large print grids scale to fill a tablet held in landscape.
           </figcaption>
         </figure>
