@@ -26,7 +26,7 @@ export const SITE = {
      * The editor's own public profiles (Person.sameAs). Only add URLs that are
      * really Reggie J's (e.g. a personal site, LinkedIn, X). Never invent them.
      */
-    sameAs: [] as string[],
+    sameAs: ["https://x.com/0xReggieJ"] as string[],
   },
   /** Site language (BCP 47) — used for <html lang>, schema inLanguage, manifest. */
   language: "en-US",

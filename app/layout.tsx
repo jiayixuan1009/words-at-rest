@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     description: DEFAULT_DESC,
     images: [DEFAULT_IMAGE],
   },
-  twitter: { card: "summary_large_image", images: [DEFAULT_IMAGE.url] },
+  twitter: { card: "summary_large_image", creator: "@0xReggieJ", images: [DEFAULT_IMAGE.url] },
   icons: {
     icon: [
       { url: "/favicon.ico", sizes: "any" },

@@ -50,7 +50,8 @@ export default function AboutPage() {
           publisher focused on calm, readable puzzles for grown-ups — especially large print word
           searches that stay comfortable on a phone or tablet. {SITE.editor.name} writes and reviews
           the theme word lists and answers the messages that arrive through our{" "}
-          <Link href="/contact">contact page</Link>.
+          <Link href="/contact">contact page</Link>. You can also find {SITE.editor.name} on{" "}
+          <a href="https://x.com/0xReggieJ" rel="me noopener" target="_blank">X (@0xReggieJ)</a>.
         </p>
         <p>
           The site started from a simple frustration: most free word search sites are built for
