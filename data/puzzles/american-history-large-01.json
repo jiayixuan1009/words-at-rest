@@ -1,0 +1,173 @@
+{
+  "id": "american-history-large-01",
+  "slug": "american-history-large-01",
+  "themeId": "american-history",
+  "title": "Large Print American History: Soft State",
+  "primaryKeyword": "large print american history word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "FARM",
+    "PEACE",
+    "SHIP",
+    "STATE",
+    "TRAIL",
+    "UNION",
+    "VOTE",
+    "WAR"
+  ],
+  "grid": [
+    [
+      "P",
+      "U",
+      "J",
+      "M",
+      "M",
+      "P",
+      "G",
+      "Z",
+      "D"
+    ],
+    [
+      "E",
+      "L",
+      "L",
+      "H",
+      "G",
+      "N",
+      "D",
+      "K",
+      "Y"
+    ],
+    [
+      "A",
+      "J",
+      "Y",
+      "S",
+      "T",
+      "A",
+      "T",
+      "E",
+      "O"
+    ],
+    [
+      "C",
+      "B",
+      "O",
+      "O",
+      "V",
+      "O",
+      "T",
+      "E",
+      "H"
+    ],
+    [
+      "E",
+      "X",
+      "R",
+      "C",
+      "T",
+      "R",
+      "A",
+      "I",
+      "L"
+    ],
+    [
+      "H",
+      "F",
+      "A",
+      "R",
+      "M",
+      "G",
+      "D",
+      "L",
+      "U"
+    ],
+    [
+      "W",
+      "J",
+      "W",
+      "A",
+      "R",
+      "L",
+      "F",
+      "E",
+      "G"
+    ],
+    [
+      "Y",
+      "S",
+      "H",
+      "I",
+      "P",
+      "Q",
+      "B",
+      "Z",
+      "X"
+    ],
+    [
+      "P",
+      "O",
+      "U",
+      "N",
+      "I",
+      "O",
+      "N",
+      "D",
+      "S"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "STATE",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "UNION",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PEACE",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "TRAIL",
+      "row": 4,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "VOTE",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "FARM",
+      "row": 5,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SHIP",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "WAR",
+      "row": 6,
+      "col": 2,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8286
+}

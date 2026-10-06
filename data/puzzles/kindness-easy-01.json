@@ -1,0 +1,208 @@
+{
+  "id": "kindness-easy-01",
+  "slug": "kindness-easy-01",
+  "themeId": "kindness",
+  "title": "Kindness: Gentle Day",
+  "primaryKeyword": "kindness word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CARE",
+    "GIVE",
+    "HELP",
+    "HOME",
+    "KIND",
+    "SHARE",
+    "SMILE",
+    "TRUE",
+    "TRUST",
+    "WARM"
+  ],
+  "grid": [
+    [
+      "U",
+      "S",
+      "X",
+      "Q",
+      "L",
+      "W",
+      "A",
+      "R",
+      "M",
+      "F"
+    ],
+    [
+      "C",
+      "H",
+      "O",
+      "M",
+      "E",
+      "K",
+      "X",
+      "A",
+      "Z",
+      "Y"
+    ],
+    [
+      "A",
+      "A",
+      "C",
+      "S",
+      "M",
+      "U",
+      "X",
+      "J",
+      "X",
+      "B"
+    ],
+    [
+      "R",
+      "R",
+      "Y",
+      "M",
+      "X",
+      "K",
+      "I",
+      "N",
+      "D",
+      "X"
+    ],
+    [
+      "E",
+      "E",
+      "S",
+      "M",
+      "I",
+      "L",
+      "E",
+      "N",
+      "F",
+      "M"
+    ],
+    [
+      "B",
+      "A",
+      "H",
+      "E",
+      "L",
+      "P",
+      "G",
+      "L",
+      "A",
+      "J"
+    ],
+    [
+      "L",
+      "N",
+      "X",
+      "B",
+      "U",
+      "T",
+      "R",
+      "U",
+      "S",
+      "T"
+    ],
+    [
+      "L",
+      "N",
+      "P",
+      "K",
+      "F",
+      "U",
+      "G",
+      "I",
+      "V",
+      "E"
+    ],
+    [
+      "L",
+      "P",
+      "H",
+      "B",
+      "K",
+      "N",
+      "I",
+      "T",
+      "D",
+      "M"
+    ],
+    [
+      "T",
+      "R",
+      "U",
+      "E",
+      "Y",
+      "M",
+      "D",
+      "H",
+      "C",
+      "H"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SHARE",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "TRUST",
+      "row": 6,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SMILE",
+      "row": 4,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "KIND",
+      "row": 3,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "CARE",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "HELP",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "GIVE",
+      "row": 7,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "WARM",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "TRUE",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "HOME",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8211
+}

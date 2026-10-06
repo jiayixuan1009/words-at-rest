@@ -1,0 +1,208 @@
+{
+  "id": "reptiles-easy-02",
+  "slug": "reptiles-easy-02",
+  "themeId": "reptiles",
+  "title": "Reptiles: Quiet Scale",
+  "primaryKeyword": "reptiles word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BOA",
+    "COLD",
+    "CRAWL",
+    "GECKO",
+    "HISS",
+    "LAKE",
+    "POND",
+    "ROCK",
+    "SKINK",
+    "WARM"
+  ],
+  "grid": [
+    [
+      "Z",
+      "F",
+      "H",
+      "I",
+      "S",
+      "S",
+      "A",
+      "C",
+      "X",
+      "L"
+    ],
+    [
+      "Z",
+      "Q",
+      "A",
+      "T",
+      "D",
+      "N",
+      "G",
+      "I",
+      "A",
+      "A"
+    ],
+    [
+      "R",
+      "O",
+      "C",
+      "K",
+      "F",
+      "C",
+      "O",
+      "L",
+      "D",
+      "K"
+    ],
+    [
+      "H",
+      "F",
+      "X",
+      "O",
+      "V",
+      "G",
+      "O",
+      "C",
+      "C",
+      "E"
+    ],
+    [
+      "P",
+      "O",
+      "N",
+      "D",
+      "C",
+      "E",
+      "J",
+      "Q",
+      "C",
+      "W"
+    ],
+    [
+      "O",
+      "W",
+      "S",
+      "G",
+      "R",
+      "C",
+      "S",
+      "R",
+      "T",
+      "D"
+    ],
+    [
+      "I",
+      "A",
+      "L",
+      "W",
+      "A",
+      "K",
+      "K",
+      "B",
+      "O",
+      "A"
+    ],
+    [
+      "D",
+      "R",
+      "S",
+      "A",
+      "W",
+      "O",
+      "I",
+      "U",
+      "O",
+      "B"
+    ],
+    [
+      "U",
+      "M",
+      "W",
+      "E",
+      "L",
+      "C",
+      "N",
+      "M",
+      "V",
+      "Z"
+    ],
+    [
+      "V",
+      "O",
+      "P",
+      "M",
+      "H",
+      "K",
+      "K",
+      "O",
+      "P",
+      "Y"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "GECKO",
+      "row": 3,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "SKINK",
+      "row": 5,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "CRAWL",
+      "row": 4,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "ROCK",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "WARM",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "COLD",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "HISS",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "POND",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "LAKE",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "BOA",
+      "row": 6,
+      "col": 7,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8322
+}

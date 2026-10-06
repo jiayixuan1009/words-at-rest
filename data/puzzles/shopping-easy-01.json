@@ -1,0 +1,208 @@
+{
+  "id": "shopping-easy-01",
+  "slug": "shopping-easy-01",
+  "themeId": "shopping",
+  "title": "Shopping: Market List",
+  "primaryKeyword": "shopping word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BAG",
+    "BUY",
+    "CARD",
+    "CART",
+    "CASH",
+    "LIST",
+    "PRICE",
+    "SALE",
+    "SHOP",
+    "STORE"
+  ],
+  "grid": [
+    [
+      "P",
+      "U",
+      "C",
+      "C",
+      "O",
+      "E",
+      "C",
+      "L",
+      "N",
+      "G"
+    ],
+    [
+      "C",
+      "X",
+      "D",
+      "A",
+      "O",
+      "Y",
+      "N",
+      "I",
+      "F",
+      "E"
+    ],
+    [
+      "H",
+      "G",
+      "K",
+      "S",
+      "J",
+      "T",
+      "A",
+      "S",
+      "K",
+      "L"
+    ],
+    [
+      "C",
+      "H",
+      "W",
+      "H",
+      "S",
+      "B",
+      "O",
+      "T",
+      "S",
+      "G"
+    ],
+    [
+      "A",
+      "N",
+      "B",
+      "G",
+      "A",
+      "J",
+      "N",
+      "I",
+      "T",
+      "S"
+    ],
+    [
+      "R",
+      "K",
+      "A",
+      "H",
+      "L",
+      "C",
+      "C",
+      "B",
+      "O",
+      "H"
+    ],
+    [
+      "D",
+      "B",
+      "G",
+      "H",
+      "E",
+      "S",
+      "A",
+      "W",
+      "R",
+      "U"
+    ],
+    [
+      "J",
+      "D",
+      "A",
+      "N",
+      "V",
+      "H",
+      "R",
+      "B",
+      "E",
+      "S"
+    ],
+    [
+      "P",
+      "R",
+      "I",
+      "C",
+      "E",
+      "O",
+      "T",
+      "U",
+      "H",
+      "Y"
+    ],
+    [
+      "Z",
+      "Z",
+      "M",
+      "V",
+      "H",
+      "P",
+      "T",
+      "Y",
+      "I",
+      "P"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "STORE",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "PRICE",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SHOP",
+      "row": 6,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "CART",
+      "row": 5,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "LIST",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SALE",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "CASH",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "CARD",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BAG",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "BUY",
+      "row": 7,
+      "col": 7,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8341
+}

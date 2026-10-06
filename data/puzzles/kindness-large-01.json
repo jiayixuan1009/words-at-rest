@@ -1,0 +1,173 @@
+{
+  "id": "kindness-large-01",
+  "slug": "kindness-large-01",
+  "themeId": "kindness",
+  "title": "Large Print Kindness: Soft Kind",
+  "primaryKeyword": "large print kindness word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "CARE",
+    "HELP",
+    "HOME",
+    "HOPE",
+    "JOY",
+    "KIND",
+    "NOTE",
+    "WARM"
+  ],
+  "grid": [
+    [
+      "T",
+      "C",
+      "F",
+      "F",
+      "F",
+      "F",
+      "F",
+      "X",
+      "W"
+    ],
+    [
+      "Z",
+      "W",
+      "F",
+      "B",
+      "P",
+      "C",
+      "E",
+      "R",
+      "A"
+    ],
+    [
+      "G",
+      "V",
+      "D",
+      "A",
+      "S",
+      "A",
+      "C",
+      "W",
+      "R"
+    ],
+    [
+      "H",
+      "N",
+      "J",
+      "V",
+      "N",
+      "R",
+      "G",
+      "T",
+      "M"
+    ],
+    [
+      "O",
+      "O",
+      "T",
+      "G",
+      "Z",
+      "E",
+      "M",
+      "D",
+      "D"
+    ],
+    [
+      "P",
+      "T",
+      "J",
+      "O",
+      "Y",
+      "Z",
+      "X",
+      "E",
+      "X"
+    ],
+    [
+      "E",
+      "E",
+      "Q",
+      "T",
+      "J",
+      "K",
+      "I",
+      "N",
+      "D"
+    ],
+    [
+      "V",
+      "G",
+      "O",
+      "B",
+      "H",
+      "O",
+      "M",
+      "E",
+      "D"
+    ],
+    [
+      "O",
+      "H",
+      "E",
+      "L",
+      "P",
+      "E",
+      "N",
+      "N",
+      "S"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "KIND",
+      "row": 6,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "CARE",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "HELP",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "WARM",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "HOPE",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "NOTE",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "HOME",
+      "row": 7,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "JOY",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8216
+}

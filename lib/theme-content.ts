@@ -403,6 +403,111 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
       "A soft theme for seniors' hours and anyone who wants a gentle list.",
     tip: "Words ending in -SHIP or -NESS (when present) and long ones like COMPANION stand out first.",
   },
+  kindness: {
+    vocabulary:
+      "Care, help, patience and everyday good manners — no brand slogans.",
+    goodFor:
+      "A soft evergreen for seniors' hours and calm evenings.",
+    tip: "Long words like COURTESY and COMFORT stand out; leave KIND and HUG for the edges.",
+  },
+  gratitude: {
+    vocabulary:
+      "Thanks, blessing and everyday appreciation English.",
+    goodFor:
+      "Quiet reflection themes; pairs well with Thanksgiving without repeating that holiday list.",
+    tip: "Long words such as APPRECIATE and GRATEFUL anchor harder grids.",
+  },
+  mindfulness: {
+    vocabulary:
+      "Present-moment English — breath, pause, notice — with no medical claims.",
+    goodFor:
+      "Adults who want a gentle, non-clinical calm list.",
+    tip: "Compound and long words like PRESENT and SILENCE are easier than SIT or AIR.",
+  },
+  colors: {
+    vocabulary:
+      "Everyday colour names for paints, fabrics and nature hues — no paint brands.",
+    goodFor:
+      "A visual, low-pressure theme for all ages of adult solvers.",
+    tip: "Long names such as TURQUOISE and LAVENDER stand out quickly.",
+  },
+  tools: {
+    vocabulary:
+      "Workshop and household tool English without brand names.",
+    goodFor:
+      "Handy adults and anyone who likes practical vocabulary.",
+    tip: "Look for clusters like HAM in HAMMER or SSI in SCISSORS.",
+  },
+  soccer: {
+    vocabulary:
+      "Pitch and match English — no club or league brands.",
+    goodFor:
+      "Sports fans who want a calm soccer list; child of Sports.",
+    tip: "Long words like DEFENDER and PENALTY are easier than GOAL or NET.",
+  },
+  basketball: {
+    vocabulary:
+      "Court English without team brands.",
+    goodFor:
+      "A sports child theme for practice-minded adults.",
+    tip: "Compound words such as BACKBOARD and FASTBREAK jump out of a grid.",
+  },
+  "american-history": {
+    vocabulary:
+      "Civic and period English — colony, constitution, frontier — no campaign brands.",
+    goodFor:
+      "Adults who like calm history vocabulary without trivia noise.",
+    tip: "Long words like CONSTITUTION and EMANCIPATION anchor the hard grid.",
+  },
+  presidents: {
+    vocabulary:
+      "Common U.S. presidential surnames in everyday English — no party slogans.",
+    goodFor:
+      "A geography-adjacent civics theme for adults.",
+    tip: "Long surnames such as WASHINGTON and EISENHOWER stand out; leave short ones like POLK for edges.",
+  },
+  dinosaurs: {
+    vocabulary:
+      "Scientific dinosaur and fossil English — not cartoon franchises.",
+    goodFor:
+      "Curious adults and museum-minded solvers.",
+    tip: "Long names like TRICERATOPS and DIPLODOCUS are usually easier than BONE or EGG.",
+  },
+  insects: {
+    vocabulary:
+      "Garden and meadow insect English for adults.",
+    goodFor:
+      "Nature companions to garden and birds.",
+    tip: "Long words such as GRASSHOPPER and BUTTERFLY stand out first.",
+  },
+  reptiles: {
+    vocabulary:
+      "Snake, turtle and lizard habitat English — no pet brands.",
+    goodFor:
+      "An animals child theme with a quieter wildlife tone.",
+    tip: "Long words like CHAMELEON and HABITAT anchor harder grids.",
+  },
+  cooking: {
+    vocabulary:
+      "Technique and kitchen verbs — simmer, roast, whisk — no restaurant chains.",
+    goodFor:
+      "A food child theme for home cooks.",
+    tip: "Double letters in BUTTER and BATTER jump out quickly.",
+  },
+  shopping: {
+    vocabulary:
+      "Market and errand English without store brands.",
+    goodFor:
+      "Everyday adult vocabulary for a practical break.",
+    tip: "Long words like CHECKOUT and PURCHASE stand out; leave BAG and BUY for last.",
+  },
+  money: {
+    vocabulary:
+      "Everyday finance English — coin, budget, save — no bank brands.",
+    goodFor:
+      "A practical evergreen for adults; keep claims non-advisory.",
+    tip: "Long words such as TRANSFER and INTEREST are easier than TAX or TIP.",
+  },
   bible: {
     vocabulary:
       "The Bible list is grouped by familiar Scripture vocabulary: books of the Old and New Testaments (Genesis, Exodus, Matthew, Acts), people of the Old Testament (Abraham, Moses, David, Esther), disciples and New Testament figures (Peter, Paul, Lydia, Martha), places named in the text (Jerusalem, Bethlehem, Nazareth, Galilee), and short virtue words drawn from everyday church English — love, joy, peace, faith, hope, grace, mercy and kindness. Names follow common English / King James spellings. There are no verse quotations on the grid, no denominational slogans, and no cartoon characters.",

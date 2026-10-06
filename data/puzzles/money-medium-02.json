@@ -1,0 +1,284 @@
+{
+  "id": "money-medium-02",
+  "slug": "money-medium-02",
+  "themeId": "money",
+  "title": "Money: Savings Habit",
+  "primaryKeyword": "money word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CURRENCY",
+    "DEBT",
+    "DRAFT",
+    "GOLD",
+    "INVOICE",
+    "LEDGER",
+    "LOAN",
+    "PAYMENT",
+    "POCKET",
+    "RECEIPT",
+    "SILVER",
+    "TRANSFER",
+    "VAULT",
+    "WITHDRAW"
+  ],
+  "grid": [
+    [
+      "V",
+      "V",
+      "Z",
+      "K",
+      "W",
+      "E",
+      "G",
+      "O",
+      "L",
+      "D",
+      "K",
+      "X"
+    ],
+    [
+      "E",
+      "S",
+      "T",
+      "R",
+      "A",
+      "N",
+      "S",
+      "F",
+      "E",
+      "R",
+      "O",
+      "K"
+    ],
+    [
+      "R",
+      "Y",
+      "A",
+      "C",
+      "U",
+      "R",
+      "R",
+      "E",
+      "N",
+      "C",
+      "Y",
+      "Y"
+    ],
+    [
+      "U",
+      "D",
+      "Z",
+      "I",
+      "J",
+      "S",
+      "I",
+      "L",
+      "V",
+      "E",
+      "R",
+      "R"
+    ],
+    [
+      "D",
+      "C",
+      "D",
+      "N",
+      "A",
+      "M",
+      "F",
+      "D",
+      "R",
+      "A",
+      "F",
+      "T"
+    ],
+    [
+      "P",
+      "P",
+      "M",
+      "V",
+      "C",
+      "D",
+      "R",
+      "P",
+      "Y",
+      "M",
+      "L",
+      "E"
+    ],
+    [
+      "P",
+      "A",
+      "S",
+      "O",
+      "W",
+      "I",
+      "T",
+      "H",
+      "D",
+      "R",
+      "A",
+      "W"
+    ],
+    [
+      "O",
+      "Y",
+      "D",
+      "I",
+      "A",
+      "L",
+      "O",
+      "A",
+      "N",
+      "H",
+      "F",
+      "G"
+    ],
+    [
+      "C",
+      "M",
+      "H",
+      "C",
+      "L",
+      "E",
+      "D",
+      "G",
+      "E",
+      "R",
+      "Q",
+      "I"
+    ],
+    [
+      "K",
+      "E",
+      "Y",
+      "E",
+      "A",
+      "D",
+      "E",
+      "B",
+      "T",
+      "O",
+      "W",
+      "H"
+    ],
+    [
+      "E",
+      "N",
+      "D",
+      "Q",
+      "I",
+      "I",
+      "V",
+      "A",
+      "U",
+      "L",
+      "T",
+      "D"
+    ],
+    [
+      "T",
+      "T",
+      "R",
+      "E",
+      "C",
+      "E",
+      "I",
+      "P",
+      "T",
+      "W",
+      "A",
+      "Q"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "WITHDRAW",
+      "row": 6,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "TRANSFER",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CURRENCY",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "RECEIPT",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "INVOICE",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "PAYMENT",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "LEDGER",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SILVER",
+      "row": 3,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "POCKET",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "DRAFT",
+      "row": 4,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "VAULT",
+      "row": 10,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "LOAN",
+      "row": 7,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "DEBT",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "GOLD",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8354
+}

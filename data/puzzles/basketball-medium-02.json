@@ -1,0 +1,284 @@
+{
+  "id": "basketball-medium-02",
+  "slug": "basketball-medium-02",
+  "themeId": "basketball",
+  "title": "Basketball: Game Clock",
+  "primaryKeyword": "basketball word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BACKBOARD",
+    "DRILL",
+    "FASTBREAK",
+    "FREE",
+    "MAN",
+    "PICK",
+    "QUARTER",
+    "REF",
+    "ROLL",
+    "SNEAKER",
+    "STARTER",
+    "SWEAT",
+    "WARMUP",
+    "WHISTLE"
+  ],
+  "grid": [
+    [
+      "P",
+      "P",
+      "Q",
+      "A",
+      "K",
+      "S",
+      "T",
+      "A",
+      "R",
+      "T",
+      "E",
+      "R"
+    ],
+    [
+      "Y",
+      "W",
+      "H",
+      "I",
+      "S",
+      "T",
+      "L",
+      "E",
+      "G",
+      "D",
+      "X",
+      "A"
+    ],
+    [
+      "W",
+      "N",
+      "F",
+      "K",
+      "N",
+      "P",
+      "I",
+      "R",
+      "K",
+      "A",
+      "N",
+      "A"
+    ],
+    [
+      "L",
+      "S",
+      "C",
+      "Y",
+      "U",
+      "R",
+      "E",
+      "H",
+      "H",
+      "K",
+      "F",
+      "S"
+    ],
+    [
+      "C",
+      "C",
+      "M",
+      "M",
+      "L",
+      "T",
+      "U",
+      "E",
+      "A",
+      "L",
+      "P",
+      "N"
+    ],
+    [
+      "W",
+      "W",
+      "R",
+      "L",
+      "R",
+      "E",
+      "T",
+      "E",
+      "L",
+      "J",
+      "I",
+      "E"
+    ],
+    [
+      "G",
+      "A",
+      "O",
+      "A",
+      "E",
+      "A",
+      "R",
+      "I",
+      "U",
+      "R",
+      "C",
+      "A"
+    ],
+    [
+      "W",
+      "R",
+      "U",
+      "R",
+      "E",
+      "B",
+      "R",
+      "E",
+      "F",
+      "S",
+      "K",
+      "K"
+    ],
+    [
+      "P",
+      "Q",
+      "F",
+      "W",
+      "T",
+      "D",
+      "D",
+      "J",
+      "I",
+      "K",
+      "M",
+      "E"
+    ],
+    [
+      "J",
+      "G",
+      "S",
+      "S",
+      "R",
+      "A",
+      "L",
+      "D",
+      "H",
+      "Y",
+      "A",
+      "R"
+    ],
+    [
+      "Y",
+      "B",
+      "A",
+      "C",
+      "K",
+      "B",
+      "O",
+      "A",
+      "R",
+      "D",
+      "N",
+      "U"
+    ],
+    [
+      "T",
+      "F",
+      "C",
+      "N",
+      "V",
+      "K",
+      "I",
+      "W",
+      "M",
+      "X",
+      "C",
+      "L"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BACKBOARD",
+      "row": 10,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "FASTBREAK",
+      "row": 11,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "STARTER",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SNEAKER",
+      "row": 3,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "QUARTER",
+      "row": 8,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "WHISTLE",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "WARMUP",
+      "row": 7,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "SWEAT",
+      "row": 9,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "DRILL",
+      "row": 8,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "FREE",
+      "row": 8,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "PICK",
+      "row": 4,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "ROLL",
+      "row": 7,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "REF",
+      "row": 7,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "MAN",
+      "row": 8,
+      "col": 10,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8274
+}

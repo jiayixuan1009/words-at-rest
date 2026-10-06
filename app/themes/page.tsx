@@ -63,8 +63,9 @@ export default function ThemesPage() {
           <strong className="text-[var(--ink)]">Evergreen themes</strong>{" "}
           such as Bible, animals (with birds and horses), food (with baking, desserts, herbs, fruits, vegetables
           and breakfast), ocean (with beach), garden (with flowers and trees), kitchen, coffee &amp; tea, weather,
-          camping, mountains, lakes, farming, school, jobs, friendship, U.S. states, world capitals, human body,
-          cars, trains, airplanes, travel, music (with instruments, jazz, classical and musical terms), sports (with golf,
+          camping, mountains, lakes, farming, school, jobs, friendship, kindness, gratitude, mindfulness, colors, tools,
+          U.S. states, world capitals, human body, american history, presidents, dinosaurs, insects, reptiles,
+          cooking, shopping, money, cars, trains, airplanes, soccer, basketball, travel, music (with instruments, jazz, classical and musical terms), sports (with golf,
           baseball, tennis and fishing) and space work any time of year.{" "}
           <strong className="text-[var(--ink)]">Packs</strong> group puzzles by how they play rather
           than by topic: the <Link href="/themes/large-print-pack">Large Print Pack</Link> for

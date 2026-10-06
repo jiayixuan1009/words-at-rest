@@ -1,0 +1,173 @@
+{
+  "id": "tools-large-01",
+  "slug": "tools-large-01",
+  "themeId": "tools",
+  "title": "Large Print Tools: Soft Nail",
+  "primaryKeyword": "large print tools word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BOLT",
+    "BROOM",
+    "FIX",
+    "KIT",
+    "NAIL",
+    "RAKE",
+    "SAW",
+    "TAPE"
+  ],
+  "grid": [
+    [
+      "G",
+      "N",
+      "N",
+      "M",
+      "W",
+      "C",
+      "Q",
+      "J",
+      "B"
+    ],
+    [
+      "S",
+      "A",
+      "L",
+      "E",
+      "M",
+      "P",
+      "J",
+      "W",
+      "O"
+    ],
+    [
+      "N",
+      "I",
+      "D",
+      "T",
+      "A",
+      "P",
+      "E",
+      "J",
+      "L"
+    ],
+    [
+      "X",
+      "L",
+      "T",
+      "U",
+      "S",
+      "A",
+      "W",
+      "E",
+      "T"
+    ],
+    [
+      "T",
+      "O",
+      "Z",
+      "M",
+      "T",
+      "F",
+      "I",
+      "X",
+      "T"
+    ],
+    [
+      "Z",
+      "B",
+      "S",
+      "R",
+      "B",
+      "P",
+      "J",
+      "A",
+      "F"
+    ],
+    [
+      "N",
+      "K",
+      "I",
+      "T",
+      "F",
+      "S",
+      "E",
+      "Q",
+      "P"
+    ],
+    [
+      "S",
+      "K",
+      "C",
+      "X",
+      "B",
+      "R",
+      "O",
+      "O",
+      "M"
+    ],
+    [
+      "F",
+      "F",
+      "F",
+      "F",
+      "R",
+      "A",
+      "K",
+      "E",
+      "M"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BROOM",
+      "row": 7,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "NAIL",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "BOLT",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "TAPE",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "RAKE",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SAW",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "FIX",
+      "row": 4,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "KIT",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8256
+}

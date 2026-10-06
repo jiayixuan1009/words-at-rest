@@ -61,6 +61,21 @@ import lakes from "./lakes.json";
 import school from "./school.json";
 import jobs from "./jobs.json";
 import friendship from "./friendship.json";
+import kindness from "./kindness.json";
+import gratitude from "./gratitude.json";
+import mindfulness from "./mindfulness.json";
+import colors from "./colors.json";
+import tools from "./tools.json";
+import soccer from "./soccer.json";
+import basketball from "./basketball.json";
+import americanHistory from "./american-history.json";
+import presidents from "./presidents.json";
+import dinosaurs from "./dinosaurs.json";
+import insects from "./insects.json";
+import reptiles from "./reptiles.json";
+import cooking from "./cooking.json";
+import shopping from "./shopping.json";
+import money from "./money.json";
 
 /** Theme order: seasonal first, then evergreen, then packs. */
 export const themes = [
@@ -124,6 +139,21 @@ export const themes = [
   school,
   jobs,
   friendship,
+  kindness,
+  gratitude,
+  mindfulness,
+  colors,
+  tools,
+  soccer,
+  basketball,
+  americanHistory,
+  presidents,
+  dinosaurs,
+  insects,
+  reptiles,
+  cooking,
+  shopping,
+  money,
   largePrintPack,
   hardPack,
 ] as Theme[];

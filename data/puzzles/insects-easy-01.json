@@ -1,0 +1,208 @@
+{
+  "id": "insects-easy-01",
+  "slug": "insects-easy-01",
+  "themeId": "insects",
+  "title": "Insects: Garden Watch",
+  "primaryKeyword": "insects word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ANT",
+    "BEE",
+    "BUG",
+    "BUZZ",
+    "FLY",
+    "GNAT",
+    "LEAF",
+    "MOTH",
+    "NEST",
+    "WING"
+  ],
+  "grid": [
+    [
+      "Z",
+      "I",
+      "M",
+      "T",
+      "I",
+      "I",
+      "A",
+      "U",
+      "W",
+      "F"
+    ],
+    [
+      "K",
+      "F",
+      "D",
+      "R",
+      "R",
+      "Z",
+      "B",
+      "F",
+      "P",
+      "N"
+    ],
+    [
+      "U",
+      "P",
+      "B",
+      "E",
+      "E",
+      "J",
+      "U",
+      "L",
+      "C",
+      "B"
+    ],
+    [
+      "R",
+      "G",
+      "T",
+      "A",
+      "W",
+      "D",
+      "Z",
+      "Y",
+      "Y",
+      "N"
+    ],
+    [
+      "G",
+      "W",
+      "Q",
+      "C",
+      "C",
+      "I",
+      "Z",
+      "L",
+      "G",
+      "E"
+    ],
+    [
+      "N",
+      "M",
+      "O",
+      "T",
+      "H",
+      "N",
+      "C",
+      "E",
+      "F",
+      "S"
+    ],
+    [
+      "A",
+      "M",
+      "E",
+      "X",
+      "Y",
+      "B",
+      "G",
+      "A",
+      "H",
+      "T"
+    ],
+    [
+      "T",
+      "X",
+      "X",
+      "L",
+      "J",
+      "U",
+      "R",
+      "F",
+      "F",
+      "E"
+    ],
+    [
+      "E",
+      "A",
+      "N",
+      "T",
+      "L",
+      "G",
+      "Y",
+      "P",
+      "H",
+      "O"
+    ],
+    [
+      "Q",
+      "H",
+      "J",
+      "F",
+      "U",
+      "W",
+      "I",
+      "N",
+      "G",
+      "Q"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "MOTH",
+      "row": 5,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "WING",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "NEST",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "LEAF",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "BUZZ",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "GNAT",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BUG",
+      "row": 6,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "BEE",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ANT",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "FLY",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8311
+}

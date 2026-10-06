@@ -1,0 +1,284 @@
+{
+  "id": "colors-medium-01",
+  "slug": "colors-medium-01",
+  "themeId": "colors",
+  "title": "Colors: Fabric Shelf",
+  "primaryKeyword": "colors word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "AMBER",
+    "AQUA",
+    "BEIGE",
+    "BRONZE",
+    "COPPER",
+    "CRIMSON",
+    "CYAN",
+    "INDIGO",
+    "IVORY",
+    "LAVENDER",
+    "MAGENTA",
+    "MAROON",
+    "TURQUOISE",
+    "VIOLET"
+  ],
+  "grid": [
+    [
+      "E",
+      "N",
+      "X",
+      "R",
+      "B",
+      "A",
+      "Y",
+      "C",
+      "Y",
+      "A",
+      "N",
+      "K"
+    ],
+    [
+      "I",
+      "V",
+      "M",
+      "I",
+      "E",
+      "L",
+      "Z",
+      "F",
+      "J",
+      "A",
+      "A",
+      "A"
+    ],
+    [
+      "S",
+      "J",
+      "I",
+      "V",
+      "I",
+      "A",
+      "P",
+      "G",
+      "T",
+      "S",
+      "D",
+      "Q"
+    ],
+    [
+      "L",
+      "V",
+      "C",
+      "O",
+      "G",
+      "V",
+      "B",
+      "L",
+      "U",
+      "F",
+      "E",
+      "U"
+    ],
+    [
+      "V",
+      "I",
+      "C",
+      "R",
+      "E",
+      "E",
+      "M",
+      "C",
+      "R",
+      "C",
+      "A",
+      "A"
+    ],
+    [
+      "I",
+      "O",
+      "R",
+      "Y",
+      "M",
+      "N",
+      "A",
+      "O",
+      "Q",
+      "N",
+      "M",
+      "P"
+    ],
+    [
+      "N",
+      "L",
+      "I",
+      "V",
+      "A",
+      "D",
+      "R",
+      "P",
+      "U",
+      "L",
+      "B",
+      "B"
+    ],
+    [
+      "D",
+      "E",
+      "M",
+      "S",
+      "G",
+      "E",
+      "O",
+      "P",
+      "O",
+      "K",
+      "E",
+      "R"
+    ],
+    [
+      "I",
+      "T",
+      "S",
+      "M",
+      "E",
+      "R",
+      "O",
+      "E",
+      "I",
+      "A",
+      "R",
+      "O"
+    ],
+    [
+      "G",
+      "R",
+      "O",
+      "A",
+      "N",
+      "W",
+      "N",
+      "R",
+      "S",
+      "V",
+      "T",
+      "N"
+    ],
+    [
+      "O",
+      "G",
+      "N",
+      "Q",
+      "T",
+      "A",
+      "M",
+      "B",
+      "E",
+      "L",
+      "A",
+      "Z"
+    ],
+    [
+      "J",
+      "U",
+      "T",
+      "M",
+      "A",
+      "H",
+      "D",
+      "K",
+      "V",
+      "X",
+      "N",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TURQUOISE",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "LAVENDER",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "CRIMSON",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "MAGENTA",
+      "row": 5,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "BRONZE",
+      "row": 6,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "MAROON",
+      "row": 4,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "INDIGO",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "VIOLET",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "COPPER",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "IVORY",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "BEIGE",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "AMBER",
+      "row": 4,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "CYAN",
+      "row": 0,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "AQUA",
+      "row": 1,
+      "col": 11,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8243
+}

@@ -1,0 +1,208 @@
+{
+  "id": "american-history-easy-02",
+  "slug": "american-history-easy-02",
+  "themeId": "american-history",
+  "title": "American History: Quiet Ballot",
+  "primaryKeyword": "american history word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CANAL",
+    "COLONY",
+    "HOUSE",
+    "REFORM",
+    "RIGHTS",
+    "SCHOOL",
+    "SENATE",
+    "TREATY",
+    "WAGON",
+    "WAR"
+  ],
+  "grid": [
+    [
+      "R",
+      "T",
+      "E",
+      "C",
+      "S",
+      "Q",
+      "O",
+      "R",
+      "D",
+      "J"
+    ],
+    [
+      "E",
+      "U",
+      "Z",
+      "O",
+      "E",
+      "L",
+      "Z",
+      "I",
+      "M",
+      "C"
+    ],
+    [
+      "F",
+      "W",
+      "A",
+      "R",
+      "N",
+      "C",
+      "D",
+      "G",
+      "E",
+      "O"
+    ],
+    [
+      "O",
+      "T",
+      "R",
+      "E",
+      "A",
+      "T",
+      "Y",
+      "H",
+      "H",
+      "L"
+    ],
+    [
+      "R",
+      "Q",
+      "K",
+      "G",
+      "T",
+      "F",
+      "A",
+      "T",
+      "L",
+      "O"
+    ],
+    [
+      "M",
+      "Z",
+      "S",
+      "S",
+      "E",
+      "L",
+      "V",
+      "S",
+      "T",
+      "N"
+    ],
+    [
+      "D",
+      "A",
+      "K",
+      "A",
+      "H",
+      "N",
+      "K",
+      "S",
+      "I",
+      "Y"
+    ],
+    [
+      "W",
+      "A",
+      "G",
+      "O",
+      "N",
+      "C",
+      "A",
+      "N",
+      "A",
+      "L"
+    ],
+    [
+      "S",
+      "C",
+      "H",
+      "O",
+      "O",
+      "L",
+      "Z",
+      "Q",
+      "F",
+      "U"
+    ],
+    [
+      "K",
+      "J",
+      "H",
+      "O",
+      "U",
+      "S",
+      "E",
+      "A",
+      "T",
+      "M"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "COLONY",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SENATE",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "RIGHTS",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SCHOOL",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "REFORM",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "TREATY",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "HOUSE",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CANAL",
+      "row": 7,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "WAGON",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "WAR",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8282
+}

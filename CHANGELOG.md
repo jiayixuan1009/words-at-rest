@@ -3,11 +3,20 @@
 本文件格式参考 [Keep a Changelog](https://keepachangelog.com/zh-CN/1.1.0/)。日期为 commit 时间（Asia/Shanghai，UTC+8）。  
 项目尚未打版本号，按日期 + commit 记录。完整产品说明见 [`docs/PRODUCT.md`](docs/PRODUCT.md)，后续计划见 [`docs/ROADMAP.md`](docs/ROADMAP.md)。
 
-规模速查（主题 / 谜题）：`95609a5` 3 / 7 → `31aaf1b` 15 / 40 → `c46b10c` / `de568d3` 16 / 46 → Package B **32 / 142** → Wave C **47 / 232** → Wave D **62 / 322**（朝 ~1000）。
+规模速查（主题 / 谜题）：`95609a5` 3 / 7 → `31aaf1b` 15 / 40 → `c46b10c` / `de568d3` 16 / 46 → Package B **32 / 142** → Wave C **47 / 232** → Wave D **62 / 322** → Wave E **77 / 412**（朝 ~1000）。
 
 ---
 
 ## [未发布 Unreleased]
+
+## 2026-10-07 — Wave E（软主题 + 颜色/工具 + 球类 + 历史/科学 + 烹饪/购物，待部署）
+
+### 新增 — Wave E 批量内容（+15 主题 / +90 谜题）
+- 对齐竞品主题名；自写词表与网格；不做具名 IP / 俱乐部 / 银行品牌。
+- **主题：** kindness、gratitude、mindfulness、colors、tools、soccer、basketball、american-history、presidents、dinosaurs、insects、reptiles、cooking、shopping、money（各 6 题）。
+- `parentSlug`：soccer/basketball → sports；reptiles → animals；cooking → food。
+- 封面 / OG 暂借邻近主题图。
+- **规模：** 主题 62→**77**，谜题 322→**412**（朝 ~1000）。
 
 ## 2026-10-07 — Wave D（地理/教育 + 户外/交通 + 软主题，已部署）
 

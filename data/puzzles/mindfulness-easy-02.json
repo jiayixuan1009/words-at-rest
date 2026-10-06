@@ -1,0 +1,208 @@
+{
+  "id": "mindfulness-easy-02",
+  "slug": "mindfulness-easy-02",
+  "themeId": "mindfulness",
+  "title": "Mindfulness: Still Moment",
+  "primaryKeyword": "mindfulness word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "AIR",
+    "AWARE",
+    "FEEL",
+    "FOCUS",
+    "HEAR",
+    "LEAF",
+    "LISTEN",
+    "NOTICE",
+    "SEE",
+    "SKY"
+  ],
+  "grid": [
+    [
+      "Y",
+      "S",
+      "Y",
+      "P",
+      "L",
+      "J",
+      "W",
+      "N",
+      "B",
+      "M"
+    ],
+    [
+      "L",
+      "I",
+      "S",
+      "T",
+      "E",
+      "N",
+      "S",
+      "V",
+      "D",
+      "L"
+    ],
+    [
+      "T",
+      "L",
+      "A",
+      "I",
+      "R",
+      "G",
+      "S",
+      "J",
+      "B",
+      "I"
+    ],
+    [
+      "M",
+      "B",
+      "Q",
+      "N",
+      "O",
+      "T",
+      "I",
+      "C",
+      "E",
+      "F"
+    ],
+    [
+      "X",
+      "A",
+      "W",
+      "A",
+      "R",
+      "E",
+      "F",
+      "L",
+      "A",
+      "O"
+    ],
+    [
+      "L",
+      "H",
+      "J",
+      "L",
+      "F",
+      "K",
+      "O",
+      "E",
+      "A",
+      "T"
+    ],
+    [
+      "R",
+      "Z",
+      "W",
+      "H",
+      "E",
+      "Z",
+      "C",
+      "A",
+      "S",
+      "O"
+    ],
+    [
+      "B",
+      "S",
+      "X",
+      "E",
+      "E",
+      "J",
+      "U",
+      "F",
+      "E",
+      "N"
+    ],
+    [
+      "T",
+      "K",
+      "P",
+      "A",
+      "L",
+      "R",
+      "S",
+      "K",
+      "E",
+      "T"
+    ],
+    [
+      "R",
+      "Y",
+      "P",
+      "R",
+      "A",
+      "C",
+      "U",
+      "K",
+      "D",
+      "B"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "NOTICE",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "LISTEN",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "AWARE",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "FOCUS",
+      "row": 4,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "FEEL",
+      "row": 5,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "HEAR",
+      "row": 6,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "LEAF",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SEE",
+      "row": 6,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "AIR",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SKY",
+      "row": 7,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8232
+}

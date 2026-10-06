@@ -1,0 +1,277 @@
+{
+  "id": "soccer-medium-01",
+  "slug": "soccer-medium-01",
+  "themeId": "soccer",
+  "title": "Soccer: Match Day",
+  "primaryKeyword": "soccer word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CAPTAIN",
+    "CLEATS",
+    "DEFENDER",
+    "DRIBBLE",
+    "HEADER",
+    "KEEPER",
+    "OFFSIDE",
+    "PENALTY",
+    "REFEREE",
+    "STRIKER",
+    "TACKLE",
+    "WHISTLE",
+    "WINGER"
+  ],
+  "grid": [
+    [
+      "U",
+      "S",
+      "R",
+      "Y",
+      "O",
+      "E",
+      "E",
+      "R",
+      "B",
+      "H",
+      "Y",
+      "E"
+    ],
+    [
+      "K",
+      "O",
+      "K",
+      "M",
+      "L",
+      "D",
+      "E",
+      "T",
+      "R",
+      "X",
+      "L",
+      "E"
+    ],
+    [
+      "B",
+      "Z",
+      "F",
+      "K",
+      "I",
+      "P",
+      "C",
+      "E",
+      "Y",
+      "B",
+      "L",
+      "S"
+    ],
+    [
+      "I",
+      "T",
+      "C",
+      "S",
+      "E",
+      "P",
+      "D",
+      "T",
+      "B",
+      "T",
+      "T",
+      "I"
+    ],
+    [
+      "G",
+      "A",
+      "F",
+      "E",
+      "K",
+      "A",
+      "L",
+      "I",
+      "S",
+      "A",
+      "W",
+      "I"
+    ],
+    [
+      "T",
+      "F",
+      "K",
+      "I",
+      "E",
+      "A",
+      "R",
+      "I",
+      "E",
+      "A",
+      "I",
+      "I"
+    ],
+    [
+      "O",
+      "S",
+      "Q",
+      "H",
+      "N",
+      "D",
+      "H",
+      "L",
+      "N",
+      "X",
+      "N",
+      "N"
+    ],
+    [
+      "U",
+      "U",
+      "E",
+      "E",
+      "N",
+      "W",
+      "C",
+      "H",
+      "Z",
+      "U",
+      "G",
+      "G"
+    ],
+    [
+      "V",
+      "I",
+      "P",
+      "O",
+      "D",
+      "E",
+      "F",
+      "E",
+      "N",
+      "D",
+      "E",
+      "R"
+    ],
+    [
+      "C",
+      "A",
+      "P",
+      "T",
+      "A",
+      "I",
+      "N",
+      "Q",
+      "G",
+      "I",
+      "R",
+      "N"
+    ],
+    [
+      "L",
+      "N",
+      "S",
+      "N",
+      "Z",
+      "S",
+      "T",
+      "R",
+      "I",
+      "K",
+      "E",
+      "R"
+    ],
+    [
+      "K",
+      "F",
+      "O",
+      "J",
+      "R",
+      "E",
+      "F",
+      "E",
+      "R",
+      "E",
+      "E",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "DEFENDER",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "DRIBBLE",
+      "row": 6,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "PENALTY",
+      "row": 8,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "OFFSIDE",
+      "row": 6,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "REFEREE",
+      "row": 11,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "WHISTLE",
+      "row": 7,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "STRIKER",
+      "row": 10,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "CAPTAIN",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "TACKLE",
+      "row": 5,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "HEADER",
+      "row": 6,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "KEEPER",
+      "row": 5,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "WINGER",
+      "row": 4,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "CLEATS",
+      "row": 7,
+      "col": 6,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8263
+}

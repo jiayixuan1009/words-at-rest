@@ -1,0 +1,173 @@
+{
+  "id": "mindfulness-large-01",
+  "slug": "mindfulness-large-01",
+  "themeId": "mindfulness",
+  "title": "Large Print Mindfulness: Soft Calm",
+  "primaryKeyword": "large print mindfulness word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BREATH",
+    "CALM",
+    "LEAF",
+    "PAUSE",
+    "REST",
+    "SIT",
+    "SOFT",
+    "WALK"
+  ],
+  "grid": [
+    [
+      "K",
+      "L",
+      "S",
+      "I",
+      "T",
+      "I",
+      "B",
+      "T",
+      "S"
+    ],
+    [
+      "R",
+      "E",
+      "G",
+      "J",
+      "P",
+      "V",
+      "X",
+      "S",
+      "W"
+    ],
+    [
+      "E",
+      "A",
+      "T",
+      "W",
+      "A",
+      "R",
+      "W",
+      "O",
+      "H"
+    ],
+    [
+      "S",
+      "F",
+      "F",
+      "L",
+      "U",
+      "F",
+      "S",
+      "S",
+      "O"
+    ],
+    [
+      "T",
+      "C",
+      "L",
+      "M",
+      "S",
+      "S",
+      "M",
+      "V",
+      "K"
+    ],
+    [
+      "L",
+      "A",
+      "Z",
+      "O",
+      "E",
+      "O",
+      "H",
+      "T",
+      "W"
+    ],
+    [
+      "V",
+      "L",
+      "K",
+      "P",
+      "D",
+      "F",
+      "N",
+      "N",
+      "A"
+    ],
+    [
+      "X",
+      "M",
+      "A",
+      "U",
+      "C",
+      "T",
+      "Y",
+      "N",
+      "L"
+    ],
+    [
+      "B",
+      "R",
+      "E",
+      "A",
+      "T",
+      "H",
+      "L",
+      "E",
+      "K"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BREATH",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "PAUSE",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "CALM",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SOFT",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "REST",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "WALK",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "LEAF",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SIT",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8236
+}

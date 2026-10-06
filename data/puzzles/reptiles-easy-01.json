@@ -1,0 +1,208 @@
+{
+  "id": "reptiles-easy-01",
+  "slug": "reptiles-easy-01",
+  "themeId": "reptiles",
+  "title": "Reptiles: Warm Rock",
+  "primaryKeyword": "reptiles word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CLAW",
+    "EGG",
+    "LIZARD",
+    "NEST",
+    "SCALE",
+    "SHELL",
+    "SNAKE",
+    "SUN",
+    "TAIL",
+    "TURTLE"
+  ],
+  "grid": [
+    [
+      "F",
+      "X",
+      "Q",
+      "V",
+      "S",
+      "O",
+      "E",
+      "D",
+      "D",
+      "G"
+    ],
+    [
+      "G",
+      "C",
+      "U",
+      "A",
+      "G",
+      "S",
+      "L",
+      "S",
+      "F",
+      "B"
+    ],
+    [
+      "N",
+      "L",
+      "E",
+      "G",
+      "G",
+      "R",
+      "I",
+      "T",
+      "L",
+      "K"
+    ],
+    [
+      "G",
+      "A",
+      "W",
+      "S",
+      "U",
+      "N",
+      "Z",
+      "U",
+      "V",
+      "Z"
+    ],
+    [
+      "U",
+      "W",
+      "T",
+      "A",
+      "I",
+      "L",
+      "A",
+      "R",
+      "S",
+      "V"
+    ],
+    [
+      "U",
+      "P",
+      "S",
+      "N",
+      "R",
+      "Q",
+      "R",
+      "T",
+      "C",
+      "S"
+    ],
+    [
+      "M",
+      "A",
+      "N",
+      "E",
+      "J",
+      "A",
+      "D",
+      "L",
+      "A",
+      "H"
+    ],
+    [
+      "M",
+      "Q",
+      "A",
+      "S",
+      "D",
+      "G",
+      "E",
+      "E",
+      "L",
+      "E"
+    ],
+    [
+      "W",
+      "I",
+      "K",
+      "T",
+      "S",
+      "Z",
+      "K",
+      "J",
+      "E",
+      "L"
+    ],
+    [
+      "E",
+      "F",
+      "E",
+      "H",
+      "S",
+      "M",
+      "B",
+      "Q",
+      "J",
+      "L"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "LIZARD",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "TURTLE",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SNAKE",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "SCALE",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "SHELL",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "CLAW",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "TAIL",
+      "row": 4,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "NEST",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "EGG",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SUN",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8321
+}

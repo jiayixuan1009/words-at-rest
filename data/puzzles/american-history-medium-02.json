@@ -1,0 +1,284 @@
+{
+  "id": "american-history-medium-02",
+  "slug": "american-history-medium-02",
+  "themeId": "american-history",
+  "title": "American History: Memorial Walk",
+  "primaryKeyword": "american history word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ABOLITION",
+    "ALLIES",
+    "AMENDMENT",
+    "ARMISTICE",
+    "CIVIL",
+    "CONSTITUTION",
+    "DEPRESSION",
+    "EMANCIPATION",
+    "FREEDOM",
+    "FRONTIER",
+    "LIBERTY",
+    "MEMORIAL",
+    "NEWDEAL",
+    "RAILROAD"
+  ],
+  "grid": [
+    [
+      "A",
+      "M",
+      "E",
+      "N",
+      "D",
+      "M",
+      "E",
+      "N",
+      "T",
+      "N",
+      "A",
+      "V"
+    ],
+    [
+      "A",
+      "B",
+      "O",
+      "L",
+      "I",
+      "T",
+      "I",
+      "O",
+      "N",
+      "I",
+      "L",
+      "N"
+    ],
+    [
+      "M",
+      "R",
+      "A",
+      "I",
+      "L",
+      "R",
+      "O",
+      "A",
+      "D",
+      "C",
+      "L",
+      "A"
+    ],
+    [
+      "Z",
+      "K",
+      "D",
+      "N",
+      "E",
+      "W",
+      "D",
+      "E",
+      "A",
+      "L",
+      "I",
+      "C"
+    ],
+    [
+      "N",
+      "D",
+      "F",
+      "R",
+      "O",
+      "N",
+      "T",
+      "I",
+      "E",
+      "R",
+      "E",
+      "I"
+    ],
+    [
+      "F",
+      "R",
+      "E",
+      "E",
+      "D",
+      "O",
+      "M",
+      "S",
+      "H",
+      "Y",
+      "S",
+      "V"
+    ],
+    [
+      "D",
+      "Z",
+      "R",
+      "L",
+      "I",
+      "B",
+      "E",
+      "R",
+      "T",
+      "Y",
+      "K",
+      "I"
+    ],
+    [
+      "T",
+      "R",
+      "A",
+      "R",
+      "M",
+      "I",
+      "S",
+      "T",
+      "I",
+      "C",
+      "E",
+      "L"
+    ],
+    [
+      "C",
+      "O",
+      "N",
+      "S",
+      "T",
+      "I",
+      "T",
+      "U",
+      "T",
+      "I",
+      "O",
+      "N"
+    ],
+    [
+      "E",
+      "M",
+      "A",
+      "N",
+      "C",
+      "I",
+      "P",
+      "A",
+      "T",
+      "I",
+      "O",
+      "N"
+    ],
+    [
+      "D",
+      "E",
+      "P",
+      "R",
+      "E",
+      "S",
+      "S",
+      "I",
+      "O",
+      "N",
+      "W",
+      "Q"
+    ],
+    [
+      "E",
+      "W",
+      "M",
+      "E",
+      "M",
+      "O",
+      "R",
+      "I",
+      "A",
+      "L",
+      "H",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CONSTITUTION",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "EMANCIPATION",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "DEPRESSION",
+      "row": 10,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "AMENDMENT",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "ABOLITION",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "ARMISTICE",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "MEMORIAL",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "FRONTIER",
+      "row": 4,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "RAILROAD",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "LIBERTY",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "FREEDOM",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "NEWDEAL",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "ALLIES",
+      "row": 0,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "CIVIL",
+      "row": 3,
+      "col": 11,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8284
+}

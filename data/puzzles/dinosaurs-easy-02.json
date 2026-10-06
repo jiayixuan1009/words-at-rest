@@ -1,0 +1,208 @@
+{
+  "id": "dinosaurs-easy-02",
+  "slug": "dinosaurs-easy-02",
+  "themeId": "dinosaurs",
+  "title": "Dinosaurs: Quiet Bone",
+  "primaryKeyword": "dinosaurs word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "AGE",
+    "CAST",
+    "ERA",
+    "FOSSIL",
+    "LAYER",
+    "MUSEUM",
+    "PRINT",
+    "SCALE",
+    "TRACK",
+    "WILD"
+  ],
+  "grid": [
+    [
+      "U",
+      "S",
+      "Y",
+      "V",
+      "M",
+      "U",
+      "S",
+      "E",
+      "U",
+      "M"
+    ],
+    [
+      "X",
+      "Q",
+      "W",
+      "I",
+      "L",
+      "D",
+      "S",
+      "W",
+      "S",
+      "P"
+    ],
+    [
+      "C",
+      "A",
+      "S",
+      "T",
+      "F",
+      "E",
+      "T",
+      "Z",
+      "C",
+      "O"
+    ],
+    [
+      "V",
+      "S",
+      "D",
+      "E",
+      "O",
+      "R",
+      "R",
+      "E",
+      "A",
+      "B"
+    ],
+    [
+      "Z",
+      "A",
+      "Q",
+      "V",
+      "S",
+      "A",
+      "A",
+      "P",
+      "L",
+      "I"
+    ],
+    [
+      "J",
+      "J",
+      "H",
+      "Q",
+      "S",
+      "G",
+      "C",
+      "R",
+      "E",
+      "Z"
+    ],
+    [
+      "X",
+      "Q",
+      "W",
+      "V",
+      "I",
+      "P",
+      "K",
+      "I",
+      "I",
+      "Q"
+    ],
+    [
+      "T",
+      "M",
+      "A",
+      "R",
+      "L",
+      "J",
+      "Y",
+      "N",
+      "S",
+      "V"
+    ],
+    [
+      "B",
+      "R",
+      "L",
+      "A",
+      "Y",
+      "E",
+      "R",
+      "T",
+      "E",
+      "L"
+    ],
+    [
+      "T",
+      "F",
+      "F",
+      "W",
+      "F",
+      "S",
+      "A",
+      "G",
+      "E",
+      "H"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FOSSIL",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "MUSEUM",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SCALE",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "TRACK",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "PRINT",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "LAYER",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CAST",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "WILD",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ERA",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "AGE",
+      "row": 9,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8302
+}

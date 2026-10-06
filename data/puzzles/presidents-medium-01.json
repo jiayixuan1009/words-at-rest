@@ -1,0 +1,277 @@
+{
+  "id": "presidents-medium-01",
+  "slug": "presidents-medium-01",
+  "themeId": "presidents",
+  "title": "U.S. Presidents: Cabinet List",
+  "primaryKeyword": "us presidents word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CLEVELAND",
+    "CLINTON",
+    "COOLIDGE",
+    "GARFIELD",
+    "HARDING",
+    "HOOVER",
+    "INAUGURAL",
+    "JACKSON",
+    "JOHNSON",
+    "KENNEDY",
+    "LINCOLN",
+    "MONROE",
+    "PRESIDENT"
+  ],
+  "grid": [
+    [
+      "C",
+      "L",
+      "C",
+      "R",
+      "C",
+      "I",
+      "C",
+      "K",
+      "T",
+      "S",
+      "R",
+      "S"
+    ],
+    [
+      "O",
+      "S",
+      "B",
+      "J",
+      "Z",
+      "O",
+      "L",
+      "E",
+      "J",
+      "G",
+      "C",
+      "Q"
+    ],
+    [
+      "O",
+      "Z",
+      "P",
+      "O",
+      "T",
+      "W",
+      "E",
+      "N",
+      "B",
+      "A",
+      "F",
+      "H"
+    ],
+    [
+      "L",
+      "P",
+      "R",
+      "H",
+      "L",
+      "E",
+      "V",
+      "N",
+      "I",
+      "R",
+      "B",
+      "A"
+    ],
+    [
+      "I",
+      "R",
+      "C",
+      "N",
+      "I",
+      "N",
+      "E",
+      "E",
+      "N",
+      "F",
+      "J",
+      "R"
+    ],
+    [
+      "D",
+      "E",
+      "L",
+      "S",
+      "N",
+      "G",
+      "L",
+      "D",
+      "A",
+      "I",
+      "A",
+      "D"
+    ],
+    [
+      "G",
+      "S",
+      "I",
+      "O",
+      "C",
+      "H",
+      "A",
+      "Y",
+      "U",
+      "E",
+      "C",
+      "I"
+    ],
+    [
+      "E",
+      "I",
+      "N",
+      "N",
+      "O",
+      "O",
+      "N",
+      "E",
+      "G",
+      "L",
+      "K",
+      "N"
+    ],
+    [
+      "O",
+      "D",
+      "T",
+      "W",
+      "L",
+      "O",
+      "D",
+      "I",
+      "U",
+      "D",
+      "S",
+      "G"
+    ],
+    [
+      "R",
+      "E",
+      "O",
+      "S",
+      "N",
+      "V",
+      "Y",
+      "H",
+      "R",
+      "X",
+      "O",
+      "F"
+    ],
+    [
+      "D",
+      "N",
+      "N",
+      "Y",
+      "Z",
+      "E",
+      "E",
+      "B",
+      "A",
+      "X",
+      "N",
+      "J"
+    ],
+    [
+      "O",
+      "T",
+      "M",
+      "O",
+      "N",
+      "R",
+      "O",
+      "E",
+      "L",
+      "Q",
+      "N",
+      "U"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CLEVELAND",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "PRESIDENT",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "INAUGURAL",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "GARFIELD",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "COOLIDGE",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "JACKSON",
+      "row": 4,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "LINCOLN",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "JOHNSON",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "HARDING",
+      "row": 2,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "KENNEDY",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "CLINTON",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "HOOVER",
+      "row": 6,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "MONROE",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8293
+}

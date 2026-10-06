@@ -1,0 +1,208 @@
+{
+  "id": "soccer-easy-02",
+  "slug": "soccer-easy-02",
+  "themeId": "soccer",
+  "title": "Soccer: Quiet Pass",
+  "primaryKeyword": "soccer word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BENCH",
+    "BOOTS",
+    "CARD",
+    "COACH",
+    "CORNER",
+    "CROSS",
+    "FOUL",
+    "PITCH",
+    "SCORE",
+    "SUB"
+  ],
+  "grid": [
+    [
+      "O",
+      "S",
+      "N",
+      "C",
+      "R",
+      "Y",
+      "U",
+      "B",
+      "O",
+      "U"
+    ],
+    [
+      "S",
+      "U",
+      "P",
+      "O",
+      "C",
+      "C",
+      "Q",
+      "E",
+      "T",
+      "D"
+    ],
+    [
+      "C",
+      "B",
+      "I",
+      "A",
+      "A",
+      "R",
+      "F",
+      "N",
+      "S",
+      "J"
+    ],
+    [
+      "O",
+      "C",
+      "T",
+      "C",
+      "R",
+      "O",
+      "R",
+      "C",
+      "J",
+      "B"
+    ],
+    [
+      "R",
+      "C",
+      "C",
+      "H",
+      "D",
+      "S",
+      "E",
+      "H",
+      "M",
+      "K"
+    ],
+    [
+      "E",
+      "P",
+      "H",
+      "Y",
+      "Y",
+      "S",
+      "T",
+      "T",
+      "S",
+      "P"
+    ],
+    [
+      "B",
+      "O",
+      "O",
+      "T",
+      "S",
+      "J",
+      "L",
+      "X",
+      "J",
+      "J"
+    ],
+    [
+      "A",
+      "A",
+      "D",
+      "A",
+      "E",
+      "M",
+      "I",
+      "C",
+      "B",
+      "M"
+    ],
+    [
+      "K",
+      "S",
+      "W",
+      "F",
+      "F",
+      "O",
+      "U",
+      "L",
+      "I",
+      "F"
+    ],
+    [
+      "A",
+      "C",
+      "O",
+      "R",
+      "N",
+      "E",
+      "R",
+      "Q",
+      "M",
+      "I"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CORNER",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PITCH",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "CROSS",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "BOOTS",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BENCH",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SCORE",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "COACH",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "FOUL",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CARD",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "SUB",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8262
+}

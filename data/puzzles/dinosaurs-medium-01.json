@@ -1,0 +1,284 @@
+{
+  "id": "dinosaurs-medium-01",
+  "slug": "dinosaurs-medium-01",
+  "themeId": "dinosaurs",
+  "title": "Dinosaurs: Museum Hall",
+  "primaryKeyword": "dinosaurs word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ALLOSAUR",
+    "AMBER",
+    "DINOSAUR",
+    "EXHIBIT",
+    "EXTINCT",
+    "IGUANODON",
+    "JURASSIC",
+    "NEST",
+    "PERIOD",
+    "PREDATOR",
+    "REPTILE",
+    "SAUROPOD",
+    "SEDIMENT",
+    "THEROPOD"
+  ],
+  "grid": [
+    [
+      "W",
+      "S",
+      "E",
+      "D",
+      "I",
+      "M",
+      "E",
+      "N",
+      "T",
+      "O",
+      "N",
+      "A"
+    ],
+    [
+      "S",
+      "A",
+      "U",
+      "R",
+      "O",
+      "P",
+      "O",
+      "D",
+      "T",
+      "Z",
+      "E",
+      "M"
+    ],
+    [
+      "J",
+      "J",
+      "U",
+      "R",
+      "A",
+      "S",
+      "S",
+      "I",
+      "C",
+      "W",
+      "S",
+      "B"
+    ],
+    [
+      "P",
+      "R",
+      "E",
+      "D",
+      "A",
+      "T",
+      "O",
+      "R",
+      "F",
+      "D",
+      "T",
+      "E"
+    ],
+    [
+      "D",
+      "T",
+      "H",
+      "E",
+      "R",
+      "O",
+      "P",
+      "O",
+      "D",
+      "P",
+      "B",
+      "R"
+    ],
+    [
+      "R",
+      "I",
+      "I",
+      "G",
+      "U",
+      "A",
+      "N",
+      "O",
+      "D",
+      "O",
+      "N",
+      "P"
+    ],
+    [
+      "E",
+      "P",
+      "N",
+      "V",
+      "A",
+      "L",
+      "L",
+      "O",
+      "S",
+      "A",
+      "U",
+      "R"
+    ],
+    [
+      "P",
+      "E",
+      "Y",
+      "O",
+      "E",
+      "X",
+      "T",
+      "I",
+      "N",
+      "C",
+      "T",
+      "J"
+    ],
+    [
+      "T",
+      "R",
+      "X",
+      "P",
+      "S",
+      "E",
+      "X",
+      "H",
+      "I",
+      "B",
+      "I",
+      "T"
+    ],
+    [
+      "I",
+      "I",
+      "X",
+      "Q",
+      "J",
+      "A",
+      "V",
+      "S",
+      "D",
+      "Z",
+      "E",
+      "U"
+    ],
+    [
+      "L",
+      "O",
+      "R",
+      "B",
+      "Y",
+      "L",
+      "U",
+      "T",
+      "K",
+      "M",
+      "F",
+      "I"
+    ],
+    [
+      "E",
+      "D",
+      "Y",
+      "J",
+      "T",
+      "P",
+      "G",
+      "R",
+      "W",
+      "F",
+      "Y",
+      "X"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "IGUANODON",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "DINOSAUR",
+      "row": 4,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "PREDATOR",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "JURASSIC",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SEDIMENT",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "THEROPOD",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SAUROPOD",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "ALLOSAUR",
+      "row": 6,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "REPTILE",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "EXTINCT",
+      "row": 7,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "EXHIBIT",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "PERIOD",
+      "row": 6,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "AMBER",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "NEST",
+      "row": 0,
+      "col": 10,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8303
+}

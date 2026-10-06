@@ -1,0 +1,208 @@
+{
+  "id": "mindfulness-easy-01",
+  "slug": "mindfulness-easy-01",
+  "themeId": "mindfulness",
+  "title": "Mindfulness: Quiet Breath",
+  "primaryKeyword": "mindfulness word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BREATH",
+    "CALM",
+    "PAUSE",
+    "QUIET",
+    "REST",
+    "SIT",
+    "SLOW",
+    "SOFT",
+    "STILL",
+    "WALK"
+  ],
+  "grid": [
+    [
+      "Q",
+      "M",
+      "S",
+      "E",
+      "R",
+      "S",
+      "O",
+      "Y",
+      "U",
+      "W"
+    ],
+    [
+      "A",
+      "C",
+      "L",
+      "Y",
+      "G",
+      "A",
+      "X",
+      "K",
+      "R",
+      "A"
+    ],
+    [
+      "U",
+      "L",
+      "O",
+      "G",
+      "D",
+      "C",
+      "A",
+      "L",
+      "M",
+      "L"
+    ],
+    [
+      "C",
+      "S",
+      "W",
+      "S",
+      "T",
+      "I",
+      "L",
+      "L",
+      "I",
+      "K"
+    ],
+    [
+      "K",
+      "O",
+      "T",
+      "J",
+      "F",
+      "E",
+      "A",
+      "H",
+      "Q",
+      "J"
+    ],
+    [
+      "D",
+      "F",
+      "H",
+      "T",
+      "O",
+      "C",
+      "X",
+      "Y",
+      "U",
+      "V"
+    ],
+    [
+      "Y",
+      "T",
+      "Q",
+      "R",
+      "Y",
+      "S",
+      "V",
+      "S",
+      "I",
+      "T"
+    ],
+    [
+      "P",
+      "A",
+      "U",
+      "S",
+      "E",
+      "S",
+      "X",
+      "A",
+      "E",
+      "C"
+    ],
+    [
+      "Z",
+      "Z",
+      "J",
+      "L",
+      "R",
+      "E",
+      "S",
+      "T",
+      "T",
+      "S"
+    ],
+    [
+      "B",
+      "R",
+      "E",
+      "A",
+      "T",
+      "H",
+      "K",
+      "G",
+      "C",
+      "B"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BREATH",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "PAUSE",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "STILL",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "QUIET",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "CALM",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SOFT",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SLOW",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "REST",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "WALK",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SIT",
+      "row": 6,
+      "col": 7,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8231
+}

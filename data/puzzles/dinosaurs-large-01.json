@@ -1,0 +1,173 @@
+{
+  "id": "dinosaurs-large-01",
+  "slug": "dinosaurs-large-01",
+  "themeId": "dinosaurs",
+  "title": "Large Print Dinosaurs: Soft Bone",
+  "primaryKeyword": "large print dinosaurs word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BONE",
+    "CLAW",
+    "DIG",
+    "EGG",
+    "FOSSIL",
+    "NEST",
+    "ROCK",
+    "TAIL"
+  ],
+  "grid": [
+    [
+      "R",
+      "K",
+      "V",
+      "B",
+      "I",
+      "M",
+      "G",
+      "D",
+      "O"
+    ],
+    [
+      "H",
+      "T",
+      "A",
+      "I",
+      "L",
+      "E",
+      "G",
+      "G",
+      "R"
+    ],
+    [
+      "C",
+      "R",
+      "F",
+      "O",
+      "S",
+      "S",
+      "I",
+      "L",
+      "V"
+    ],
+    [
+      "F",
+      "O",
+      "Y",
+      "Z",
+      "A",
+      "B",
+      "W",
+      "A",
+      "H"
+    ],
+    [
+      "I",
+      "C",
+      "P",
+      "M",
+      "F",
+      "G",
+      "C",
+      "E",
+      "N"
+    ],
+    [
+      "R",
+      "K",
+      "M",
+      "C",
+      "D",
+      "G",
+      "L",
+      "K",
+      "E"
+    ],
+    [
+      "V",
+      "Q",
+      "H",
+      "F",
+      "I",
+      "I",
+      "A",
+      "Q",
+      "S"
+    ],
+    [
+      "C",
+      "V",
+      "S",
+      "U",
+      "G",
+      "P",
+      "W",
+      "A",
+      "T"
+    ],
+    [
+      "K",
+      "A",
+      "D",
+      "U",
+      "H",
+      "B",
+      "O",
+      "N",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FOSSIL",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BONE",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "CLAW",
+      "row": 4,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "TAIL",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "NEST",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "ROCK",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "EGG",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "DIG",
+      "row": 5,
+      "col": 4,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8306
+}

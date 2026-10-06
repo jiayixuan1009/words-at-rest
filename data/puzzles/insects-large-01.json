@@ -1,0 +1,173 @@
+{
+  "id": "insects-large-01",
+  "slug": "insects-large-01",
+  "themeId": "insects",
+  "title": "Large Print Insects: Soft Bee",
+  "primaryKeyword": "large print insects word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "ANT",
+    "BEE",
+    "BUG",
+    "HIVE",
+    "LEAF",
+    "MOTH",
+    "NEST",
+    "WING"
+  ],
+  "grid": [
+    [
+      "Q",
+      "N",
+      "L",
+      "D",
+      "F",
+      "L",
+      "M",
+      "B",
+      "M"
+    ],
+    [
+      "P",
+      "E",
+      "C",
+      "J",
+      "V",
+      "F",
+      "E",
+      "S",
+      "O"
+    ],
+    [
+      "P",
+      "S",
+      "B",
+      "U",
+      "G",
+      "G",
+      "Z",
+      "K",
+      "T"
+    ],
+    [
+      "T",
+      "T",
+      "H",
+      "O",
+      "D",
+      "Z",
+      "Q",
+      "L",
+      "H"
+    ],
+    [
+      "I",
+      "N",
+      "I",
+      "I",
+      "Z",
+      "B",
+      "E",
+      "E",
+      "Q"
+    ],
+    [
+      "P",
+      "N",
+      "V",
+      "A",
+      "N",
+      "T",
+      "N",
+      "A",
+      "A"
+    ],
+    [
+      "V",
+      "U",
+      "E",
+      "H",
+      "F",
+      "U",
+      "X",
+      "F",
+      "A"
+    ],
+    [
+      "V",
+      "F",
+      "Z",
+      "W",
+      "I",
+      "N",
+      "G",
+      "X",
+      "J"
+    ],
+    [
+      "L",
+      "M",
+      "M",
+      "P",
+      "E",
+      "N",
+      "L",
+      "M",
+      "S"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "MOTH",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "WING",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "NEST",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "LEAF",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "HIVE",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "BEE",
+      "row": 4,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "ANT",
+      "row": 5,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BUG",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8316
+}

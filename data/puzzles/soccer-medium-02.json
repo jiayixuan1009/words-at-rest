@@ -1,0 +1,284 @@
+{
+  "id": "soccer-medium-02",
+  "slug": "soccer-medium-02",
+  "themeId": "soccer",
+  "title": "Soccer: Training Drill",
+  "primaryKeyword": "soccer word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ASSIST",
+    "CLEAN",
+    "DRILL",
+    "FREEKICK",
+    "GUARD",
+    "KIT",
+    "MIDFIELD",
+    "PITCH",
+    "SHEET",
+    "SHIN",
+    "SOCCER",
+    "TRAIN",
+    "WARMUP",
+    "YELLOW"
+  ],
+  "grid": [
+    [
+      "M",
+      "C",
+      "T",
+      "H",
+      "Q",
+      "S",
+      "O",
+      "C",
+      "C",
+      "E",
+      "R",
+      "D"
+    ],
+    [
+      "C",
+      "U",
+      "J",
+      "S",
+      "L",
+      "R",
+      "N",
+      "N",
+      "X",
+      "T",
+      "S",
+      "G"
+    ],
+    [
+      "L",
+      "W",
+      "I",
+      "K",
+      "F",
+      "I",
+      "X",
+      "H",
+      "S",
+      "K",
+      "H",
+      "R"
+    ],
+    [
+      "E",
+      "A",
+      "L",
+      "I",
+      "A",
+      "I",
+      "N",
+      "I",
+      "C",
+      "L",
+      "E",
+      "Z"
+    ],
+    [
+      "A",
+      "R",
+      "B",
+      "R",
+      "X",
+      "V",
+      "S",
+      "I",
+      "L",
+      "F",
+      "E",
+      "S"
+    ],
+    [
+      "N",
+      "M",
+      "T",
+      "R",
+      "A",
+      "S",
+      "K",
+      "I",
+      "U",
+      "D",
+      "T",
+      "C"
+    ],
+    [
+      "Z",
+      "U",
+      "N",
+      "B",
+      "A",
+      "E",
+      "R",
+      "S",
+      "Q",
+      "C",
+      "X",
+      "O"
+    ],
+    [
+      "F",
+      "P",
+      "L",
+      "T",
+      "E",
+      "D",
+      "V",
+      "L",
+      "B",
+      "C",
+      "C",
+      "K"
+    ],
+    [
+      "K",
+      "E",
+      "X",
+      "R",
+      "M",
+      "I",
+      "D",
+      "F",
+      "I",
+      "E",
+      "L",
+      "D"
+    ],
+    [
+      "I",
+      "Q",
+      "F",
+      "K",
+      "I",
+      "T",
+      "F",
+      "J",
+      "Q",
+      "V",
+      "H",
+      "Z"
+    ],
+    [
+      "Y",
+      "E",
+      "L",
+      "L",
+      "O",
+      "W",
+      "Y",
+      "P",
+      "I",
+      "T",
+      "C",
+      "H"
+    ],
+    [
+      "Y",
+      "G",
+      "U",
+      "A",
+      "R",
+      "D",
+      "I",
+      "S",
+      "H",
+      "I",
+      "N",
+      "Z"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "MIDFIELD",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "FREEKICK",
+      "row": 9,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "YELLOW",
+      "row": 10,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "ASSIST",
+      "row": 6,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "WARMUP",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SOCCER",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "TRAIN",
+      "row": 5,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "DRILL",
+      "row": 7,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "GUARD",
+      "row": 11,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CLEAN",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SHEET",
+      "row": 1,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "PITCH",
+      "row": 10,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "SHIN",
+      "row": 11,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "KIT",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8264
+}

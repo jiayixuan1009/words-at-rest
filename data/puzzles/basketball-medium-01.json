@@ -1,0 +1,284 @@
+{
+  "id": "basketball-medium-01",
+  "slug": "basketball-medium-01",
+  "themeId": "basketball",
+  "title": "Basketball: Practice Hour",
+  "primaryKeyword": "basketball word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ASSIST",
+    "BASKET",
+    "CENTER",
+    "COACH",
+    "DRIBBLE",
+    "FORWARD",
+    "JERSEY",
+    "PIVOT",
+    "PRESS",
+    "REBOUND",
+    "SCREEN",
+    "THROW",
+    "TIMEOUT",
+    "TIPOFF"
+  ],
+  "grid": [
+    [
+      "R",
+      "E",
+      "B",
+      "O",
+      "U",
+      "N",
+      "D",
+      "C",
+      "Z",
+      "F",
+      "X",
+      "B"
+    ],
+    [
+      "P",
+      "Z",
+      "A",
+      "S",
+      "S",
+      "I",
+      "S",
+      "T",
+      "M",
+      "O",
+      "C",
+      "V"
+    ],
+    [
+      "R",
+      "T",
+      "P",
+      "D",
+      "C",
+      "D",
+      "I",
+      "D",
+      "J",
+      "R",
+      "O",
+      "E"
+    ],
+    [
+      "E",
+      "I",
+      "I",
+      "J",
+      "E",
+      "R",
+      "S",
+      "E",
+      "Y",
+      "W",
+      "A",
+      "Y"
+    ],
+    [
+      "S",
+      "P",
+      "V",
+      "L",
+      "B",
+      "I",
+      "E",
+      "K",
+      "N",
+      "A",
+      "C",
+      "C"
+    ],
+    [
+      "S",
+      "O",
+      "O",
+      "H",
+      "A",
+      "B",
+      "L",
+      "E",
+      "E",
+      "R",
+      "H",
+      "E"
+    ],
+    [
+      "W",
+      "F",
+      "T",
+      "Z",
+      "E",
+      "B",
+      "F",
+      "B",
+      "N",
+      "D",
+      "N",
+      "N"
+    ],
+    [
+      "G",
+      "F",
+      "Q",
+      "G",
+      "B",
+      "L",
+      "Q",
+      "O",
+      "I",
+      "Y",
+      "W",
+      "T"
+    ],
+    [
+      "D",
+      "A",
+      "T",
+      "I",
+      "M",
+      "E",
+      "O",
+      "U",
+      "T",
+      "O",
+      "C",
+      "E"
+    ],
+    [
+      "J",
+      "U",
+      "V",
+      "W",
+      "Y",
+      "Y",
+      "I",
+      "R",
+      "R",
+      "A",
+      "Z",
+      "R"
+    ],
+    [
+      "L",
+      "K",
+      "F",
+      "Z",
+      "L",
+      "P",
+      "D",
+      "H",
+      "Q",
+      "N",
+      "U",
+      "S"
+    ],
+    [
+      "B",
+      "A",
+      "S",
+      "K",
+      "E",
+      "T",
+      "T",
+      "D",
+      "X",
+      "E",
+      "I",
+      "S"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "DRIBBLE",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "REBOUND",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "TIMEOUT",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "FORWARD",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "BASKET",
+      "row": 11,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "ASSIST",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "TIPOFF",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SCREEN",
+      "row": 1,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "CENTER",
+      "row": 4,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "JERSEY",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "THROW",
+      "row": 11,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "PIVOT",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "PRESS",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "COACH",
+      "row": 1,
+      "col": 10,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8273
+}

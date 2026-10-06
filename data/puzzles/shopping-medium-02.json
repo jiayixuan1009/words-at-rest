@@ -1,0 +1,284 @@
+{
+  "id": "shopping-medium-02",
+  "slug": "shopping-medium-02",
+  "themeId": "shopping",
+  "title": "Shopping: Checkout Line",
+  "primaryKeyword": "shopping word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BAKERY",
+    "BOX",
+    "BREAD",
+    "COLOR",
+    "DAIRY",
+    "ERRAND",
+    "FABRIC",
+    "FIT",
+    "FRESH",
+    "HOME",
+    "MEAT",
+    "PAPER",
+    "PRODUCE",
+    "WRAP"
+  ],
+  "grid": [
+    [
+      "C",
+      "P",
+      "A",
+      "P",
+      "E",
+      "R",
+      "O",
+      "N",
+      "R",
+      "I",
+      "Y",
+      "O"
+    ],
+    [
+      "E",
+      "B",
+      "R",
+      "E",
+      "B",
+      "R",
+      "R",
+      "D",
+      "J",
+      "P",
+      "Y",
+      "X"
+    ],
+    [
+      "C",
+      "K",
+      "D",
+      "R",
+      "Q",
+      "A",
+      "F",
+      "R",
+      "E",
+      "S",
+      "H",
+      "E"
+    ],
+    [
+      "C",
+      "U",
+      "F",
+      "R",
+      "E",
+      "M",
+      "K",
+      "F",
+      "I",
+      "T",
+      "F",
+      "T"
+    ],
+    [
+      "P",
+      "O",
+      "F",
+      "A",
+      "C",
+      "O",
+      "C",
+      "E",
+      "N",
+      "B",
+      "K",
+      "W"
+    ],
+    [
+      "R",
+      "Y",
+      "V",
+      "N",
+      "J",
+      "I",
+      "H",
+      "C",
+      "R",
+      "M",
+      "C",
+      "R"
+    ],
+    [
+      "O",
+      "H",
+      "Y",
+      "D",
+      "R",
+      "D",
+      "I",
+      "O",
+      "O",
+      "Y",
+      "F",
+      "Q"
+    ],
+    [
+      "D",
+      "R",
+      "Z",
+      "B",
+      "A",
+      "V",
+      "O",
+      "L",
+      "M",
+      "R",
+      "F",
+      "Y"
+    ],
+    [
+      "U",
+      "S",
+      "A",
+      "E",
+      "W",
+      "M",
+      "M",
+      "O",
+      "O",
+      "E",
+      "R",
+      "T"
+    ],
+    [
+      "C",
+      "F",
+      "R",
+      "B",
+      "R",
+      "L",
+      "E",
+      "R",
+      "U",
+      "I",
+      "Q",
+      "H"
+    ],
+    [
+      "E",
+      "B",
+      "T",
+      "O",
+      "A",
+      "X",
+      "V",
+      "A",
+      "A",
+      "G",
+      "W",
+      "M"
+    ],
+    [
+      "E",
+      "T",
+      "G",
+      "X",
+      "P",
+      "B",
+      "V",
+      "D",
+      "T",
+      "D",
+      "Q",
+      "P"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PRODUCE",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "FABRIC",
+      "row": 9,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "BAKERY",
+      "row": 1,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "ERRAND",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "COLOR",
+      "row": 5,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "FRESH",
+      "row": 2,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "DAIRY",
+      "row": 11,
+      "col": 7,
+      "direction": "NE"
+    },
+    {
+      "word": "BREAD",
+      "row": 10,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "PAPER",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "WRAP",
+      "row": 8,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "MEAT",
+      "row": 8,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "HOME",
+      "row": 5,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "BOX",
+      "row": 9,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "FIT",
+      "row": 3,
+      "col": 7,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8344
+}

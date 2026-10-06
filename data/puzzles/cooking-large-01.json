@@ -1,0 +1,173 @@
+{
+  "id": "cooking-large-01",
+  "slug": "cooking-large-01",
+  "themeId": "cooking",
+  "title": "Large Print Cooking: Soft Stir",
+  "primaryKeyword": "large print cooking word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BAKE",
+    "BOIL",
+    "CHOP",
+    "COOK",
+    "OVEN",
+    "PAN",
+    "SALT",
+    "SERVE"
+  ],
+  "grid": [
+    [
+      "M",
+      "P",
+      "A",
+      "N",
+      "D",
+      "B",
+      "O",
+      "I",
+      "L"
+    ],
+    [
+      "U",
+      "B",
+      "A",
+      "K",
+      "E",
+      "O",
+      "P",
+      "N",
+      "J"
+    ],
+    [
+      "Q",
+      "M",
+      "J",
+      "T",
+      "D",
+      "R",
+      "F",
+      "C",
+      "F"
+    ],
+    [
+      "S",
+      "C",
+      "H",
+      "O",
+      "P",
+      "G",
+      "S",
+      "O",
+      "E"
+    ],
+    [
+      "Y",
+      "G",
+      "S",
+      "E",
+      "R",
+      "V",
+      "E",
+      "V",
+      "G"
+    ],
+    [
+      "N",
+      "M",
+      "U",
+      "E",
+      "S",
+      "V",
+      "U",
+      "E",
+      "E"
+    ],
+    [
+      "U",
+      "U",
+      "I",
+      "C",
+      "O",
+      "O",
+      "K",
+      "N",
+      "Z"
+    ],
+    [
+      "K",
+      "R",
+      "L",
+      "J",
+      "X",
+      "Q",
+      "S",
+      "J",
+      "A"
+    ],
+    [
+      "Z",
+      "A",
+      "B",
+      "F",
+      "Z",
+      "S",
+      "A",
+      "L",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SERVE",
+      "row": 4,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "COOK",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BAKE",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BOIL",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "CHOP",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SALT",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "OVEN",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "PAN",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8336
+}

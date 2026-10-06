@@ -1,0 +1,284 @@
+{
+  "id": "insects-medium-02",
+  "slug": "insects-medium-02",
+  "themeId": "insects",
+  "title": "Insects: Pond Edge",
+  "primaryKeyword": "insects word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "APHID",
+    "CATERPILLAR",
+    "CHIRP",
+    "CICADA",
+    "DAMSELFLY",
+    "DRAGONFLY",
+    "FIREFLY",
+    "GRASSHOPPER",
+    "LOCUST",
+    "MANTIS",
+    "MEADOW",
+    "MIDGE",
+    "TERMITE",
+    "WEEVIL"
+  ],
+  "grid": [
+    [
+      "A",
+      "C",
+      "T",
+      "E",
+      "R",
+      "M",
+      "I",
+      "T",
+      "E",
+      "E",
+      "S",
+      "B"
+    ],
+    [
+      "K",
+      "H",
+      "S",
+      "W",
+      "E",
+      "E",
+      "V",
+      "I",
+      "L",
+      "S",
+      "Y",
+      "B"
+    ],
+    [
+      "N",
+      "I",
+      "R",
+      "U",
+      "L",
+      "O",
+      "C",
+      "U",
+      "S",
+      "T",
+      "H",
+      "V"
+    ],
+    [
+      "P",
+      "R",
+      "D",
+      "A",
+      "M",
+      "S",
+      "E",
+      "L",
+      "F",
+      "L",
+      "Y",
+      "Y"
+    ],
+    [
+      "H",
+      "P",
+      "D",
+      "R",
+      "A",
+      "G",
+      "O",
+      "N",
+      "F",
+      "L",
+      "Y",
+      "N"
+    ],
+    [
+      "C",
+      "U",
+      "I",
+      "F",
+      "I",
+      "R",
+      "E",
+      "F",
+      "L",
+      "Y",
+      "R",
+      "M"
+    ],
+    [
+      "M",
+      "C",
+      "A",
+      "T",
+      "E",
+      "R",
+      "P",
+      "I",
+      "L",
+      "L",
+      "A",
+      "R"
+    ],
+    [
+      "E",
+      "J",
+      "G",
+      "P",
+      "W",
+      "S",
+      "U",
+      "A",
+      "P",
+      "H",
+      "I",
+      "D"
+    ],
+    [
+      "A",
+      "J",
+      "L",
+      "C",
+      "I",
+      "C",
+      "A",
+      "D",
+      "A",
+      "D",
+      "C",
+      "K"
+    ],
+    [
+      "D",
+      "G",
+      "R",
+      "A",
+      "S",
+      "S",
+      "H",
+      "O",
+      "P",
+      "P",
+      "E",
+      "R"
+    ],
+    [
+      "O",
+      "C",
+      "L",
+      "K",
+      "S",
+      "M",
+      "A",
+      "N",
+      "T",
+      "I",
+      "S",
+      "K"
+    ],
+    [
+      "W",
+      "X",
+      "G",
+      "O",
+      "W",
+      "A",
+      "M",
+      "I",
+      "D",
+      "G",
+      "E",
+      "Z"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "GRASSHOPPER",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CATERPILLAR",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "DRAGONFLY",
+      "row": 4,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "DAMSELFLY",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "FIREFLY",
+      "row": 5,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "TERMITE",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CICADA",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "LOCUST",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "MANTIS",
+      "row": 10,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "WEEVIL",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "MEADOW",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "APHID",
+      "row": 7,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "MIDGE",
+      "row": 11,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "CHIRP",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8314
+}

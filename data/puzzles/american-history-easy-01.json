@@ -1,0 +1,208 @@
+{
+  "id": "american-history-easy-01",
+  "slug": "american-history-easy-01",
+  "themeId": "american-history",
+  "title": "American History: Frontier Map",
+  "primaryKeyword": "american history word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "COURT",
+    "FARM",
+    "FORT",
+    "PEACE",
+    "PORT",
+    "SHIP",
+    "STATE",
+    "TRAIL",
+    "UNION",
+    "VOTE"
+  ],
+  "grid": [
+    [
+      "G",
+      "N",
+      "L",
+      "U",
+      "U",
+      "T",
+      "W",
+      "O",
+      "W",
+      "I"
+    ],
+    [
+      "D",
+      "H",
+      "J",
+      "F",
+      "S",
+      "R",
+      "I",
+      "M",
+      "G",
+      "W"
+    ],
+    [
+      "Q",
+      "U",
+      "V",
+      "O",
+      "U",
+      "A",
+      "X",
+      "J",
+      "R",
+      "F"
+    ],
+    [
+      "F",
+      "N",
+      "O",
+      "W",
+      "F",
+      "I",
+      "J",
+      "P",
+      "Q",
+      "O"
+    ],
+    [
+      "Q",
+      "I",
+      "T",
+      "Y",
+      "A",
+      "L",
+      "D",
+      "E",
+      "P",
+      "R"
+    ],
+    [
+      "P",
+      "O",
+      "E",
+      "F",
+      "R",
+      "P",
+      "S",
+      "A",
+      "H",
+      "T"
+    ],
+    [
+      "M",
+      "N",
+      "U",
+      "R",
+      "M",
+      "O",
+      "H",
+      "C",
+      "Y",
+      "Y"
+    ],
+    [
+      "S",
+      "X",
+      "P",
+      "D",
+      "O",
+      "R",
+      "I",
+      "E",
+      "Q",
+      "E"
+    ],
+    [
+      "S",
+      "T",
+      "A",
+      "T",
+      "E",
+      "T",
+      "P",
+      "I",
+      "E",
+      "T"
+    ],
+    [
+      "H",
+      "M",
+      "C",
+      "O",
+      "U",
+      "R",
+      "T",
+      "Z",
+      "G",
+      "O"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "STATE",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "UNION",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "COURT",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PEACE",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "TRAIL",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "VOTE",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "FARM",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "SHIP",
+      "row": 5,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "PORT",
+      "row": 5,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "FORT",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8281
+}

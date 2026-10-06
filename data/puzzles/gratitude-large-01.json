@@ -1,0 +1,173 @@
+{
+  "id": "gratitude-large-01",
+  "slug": "gratitude-large-01",
+  "themeId": "gratitude",
+  "title": "Large Print Gratitude: Soft Thanks",
+  "primaryKeyword": "large print gratitude word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "HOME",
+    "JOY",
+    "KIND",
+    "MEAL",
+    "NOTE",
+    "PEACE",
+    "REST",
+    "THANKS"
+  ],
+  "grid": [
+    [
+      "Y",
+      "E",
+      "M",
+      "N",
+      "O",
+      "T",
+      "E",
+      "L",
+      "C"
+    ],
+    [
+      "C",
+      "T",
+      "H",
+      "A",
+      "N",
+      "K",
+      "S",
+      "K",
+      "H"
+    ],
+    [
+      "M",
+      "P",
+      "S",
+      "I",
+      "L",
+      "S",
+      "V",
+      "I",
+      "O"
+    ],
+    [
+      "O",
+      "R",
+      "E",
+      "S",
+      "T",
+      "H",
+      "P",
+      "N",
+      "M"
+    ],
+    [
+      "J",
+      "O",
+      "Y",
+      "V",
+      "S",
+      "A",
+      "U",
+      "D",
+      "E"
+    ],
+    [
+      "R",
+      "N",
+      "Y",
+      "U",
+      "F",
+      "Z",
+      "H",
+      "B",
+      "P"
+    ],
+    [
+      "S",
+      "Z",
+      "C",
+      "W",
+      "I",
+      "Y",
+      "Z",
+      "A",
+      "J"
+    ],
+    [
+      "F",
+      "I",
+      "J",
+      "A",
+      "G",
+      "W",
+      "E",
+      "J",
+      "B"
+    ],
+    [
+      "P",
+      "E",
+      "A",
+      "C",
+      "E",
+      "M",
+      "E",
+      "A",
+      "L"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "THANKS",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PEACE",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "HOME",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "REST",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "MEAL",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "NOTE",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "KIND",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "JOY",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8226
+}

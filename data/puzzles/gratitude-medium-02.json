@@ -1,0 +1,284 @@
+{
+  "id": "gratitude-medium-02",
+  "slug": "gratitude-medium-02",
+  "themeId": "gratitude",
+  "title": "Gratitude: Evening Peace",
+  "primaryKeyword": "gratitude word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "APPRECIATE",
+    "FAITH",
+    "GUEST",
+    "HAND",
+    "HEART",
+    "HOST",
+    "LAUGH",
+    "MERCY",
+    "PRAYER",
+    "SMILE",
+    "SONG",
+    "STILL",
+    "TABLE",
+    "VISIT"
+  ],
+  "grid": [
+    [
+      "J",
+      "J",
+      "S",
+      "X",
+      "V",
+      "K",
+      "O",
+      "W",
+      "E",
+      "V",
+      "T",
+      "D"
+    ],
+    [
+      "Y",
+      "Z",
+      "T",
+      "Y",
+      "D",
+      "I",
+      "T",
+      "Y",
+      "S",
+      "O",
+      "N",
+      "G"
+    ],
+    [
+      "U",
+      "G",
+      "I",
+      "K",
+      "I",
+      "R",
+      "S",
+      "D",
+      "G",
+      "T",
+      "H",
+      "A"
+    ],
+    [
+      "V",
+      "H",
+      "L",
+      "V",
+      "A",
+      "P",
+      "F",
+      "I",
+      "O",
+      "A",
+      "M",
+      "L"
+    ],
+    [
+      "I",
+      "O",
+      "L",
+      "E",
+      "K",
+      "M",
+      "J",
+      "S",
+      "T",
+      "B",
+      "H",
+      "F"
+    ],
+    [
+      "U",
+      "S",
+      "H",
+      "X",
+      "W",
+      "E",
+      "Y",
+      "L",
+      "Y",
+      "L",
+      "R",
+      "A"
+    ],
+    [
+      "Y",
+      "T",
+      "R",
+      "N",
+      "L",
+      "C",
+      "F",
+      "R",
+      "A",
+      "E",
+      "J",
+      "I"
+    ],
+    [
+      "G",
+      "H",
+      "D",
+      "I",
+      "R",
+      "K",
+      "D",
+      "H",
+      "Y",
+      "U",
+      "T",
+      "T"
+    ],
+    [
+      "U",
+      "F",
+      "M",
+      "E",
+      "W",
+      "N",
+      "A",
+      "A",
+      "B",
+      "E",
+      "G",
+      "H"
+    ],
+    [
+      "E",
+      "S",
+      "M",
+      "M",
+      "A",
+      "G",
+      "R",
+      "H",
+      "T",
+      "L",
+      "S",
+      "H"
+    ],
+    [
+      "S",
+      "Y",
+      "R",
+      "H",
+      "G",
+      "P",
+      "F",
+      "G",
+      "H",
+      "O",
+      "P",
+      "X"
+    ],
+    [
+      "T",
+      "E",
+      "A",
+      "P",
+      "P",
+      "R",
+      "E",
+      "C",
+      "I",
+      "A",
+      "T",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "APPRECIATE",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PRAYER",
+      "row": 10,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "STILL",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "MERCY",
+      "row": 9,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "FAITH",
+      "row": 4,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "HEART",
+      "row": 5,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "TABLE",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "GUEST",
+      "row": 7,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "VISIT",
+      "row": 0,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "SMILE",
+      "row": 9,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "LAUGH",
+      "row": 5,
+      "col": 7,
+      "direction": "SE"
+    },
+    {
+      "word": "HAND",
+      "row": 10,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "HOST",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SONG",
+      "row": 1,
+      "col": 8,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8224
+}

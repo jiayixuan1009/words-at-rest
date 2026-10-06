@@ -139,6 +139,21 @@ const THEME_MOTIF: Record<string, string> = {
   school: "an open notebook, pencil and reading glasses on a wooden desk",
   jobs: "a fountain pen, name badge and tidy notepad on a desk",
   friendship: "two teacups, a shared letter and a small pressed flower",
+  kindness: "a shared umbrella, a handwritten thank-you note and a small flower",
+  gratitude: "a small journal, a pressed leaf and a cup of tea on linen",
+  mindfulness: "a quiet cushion, a tea bowl and soft morning light on a mat",
+  colors: "paint swatches, a soft brush and a folded cloth in warm light",
+  tools: "a wooden-handled hammer, nails and a folded work apron",
+  soccer: "a soccer ball, grass cleats and a folded jersey on a bench",
+  basketball: "a basketball, hoop net and chalk court lines on warm wood",
+  "american-history": "an open history book, a quill and a folded parchment map",
+  presidents: "a small bust silhouette, a quill and a presidential seal sketch (generic)",
+  dinosaurs: "a fossil sketch, a small bone cast and a field notebook",
+  insects: "a beetle sketch, a magnifying glass and a leaf with dew",
+  reptiles: "a turtle shell sketch, a smooth stone and dry grass",
+  cooking: "a wooden spoon, simmering pot and recipe card on a stove edge",
+  shopping: "a woven basket, paper receipt and folded cloth tote",
+  money: "a coin dish, a small ledger and a fountain pen on a desk",
   "large-print-pack": "reading glasses on an open puzzle book under a lamp",
   "hard-pack": "a dense puzzle grid with a fountain pen",
 };
@@ -165,7 +180,12 @@ const THEME_MOTIF: Record<string, string> = {
  * cars, trains, airplanes, farming, beach, mountains, lakes, school, jobs, friendship):
  * borrow travel/ocean/fall/animals/space/garden/bible/valentines art until dedicated
  * paintings land. Swap webp (+ -640) and og-base PNG / public/og/themes JPG only.
+ *
+ * TEMPORARY covers for Wave E (kindness, gratitude, mindfulness, colors, tools, soccer,
+ * basketball, american-history, presidents, dinosaurs, insects, reptiles, cooking,
+ * shopping, money): borrow nearby art until dedicated paintings land. Swap webp/OG only.
  */
+
 export function themeArt(slug: string, themeName: string): Art {
   const src = `/images/themes/${slug}.webp`;
   return art(src, 1200, 900, themeImageAlt(slug, themeName), [640]);

@@ -1,0 +1,284 @@
+{
+  "id": "colors-medium-02",
+  "slug": "colors-medium-02",
+  "themeId": "colors",
+  "title": "Colors: Garden Tint",
+  "primaryKeyword": "colors word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CHARCOAL",
+    "GREY",
+    "IVORY",
+    "LEAF",
+    "LIME",
+    "PEACH",
+    "PLUM",
+    "RUST",
+    "SAGE",
+    "SAND",
+    "SCARLET",
+    "SEA",
+    "SKY",
+    "TAN"
+  ],
+  "grid": [
+    [
+      "O",
+      "D",
+      "P",
+      "C",
+      "W",
+      "E",
+      "S",
+      "F",
+      "P",
+      "C",
+      "I",
+      "Y"
+    ],
+    [
+      "G",
+      "R",
+      "E",
+      "Y",
+      "N",
+      "F",
+      "E",
+      "S",
+      "A",
+      "N",
+      "D",
+      "S"
+    ],
+    [
+      "C",
+      "O",
+      "V",
+      "A",
+      "A",
+      "P",
+      "A",
+      "E",
+      "U",
+      "J",
+      "A",
+      "C"
+    ],
+    [
+      "T",
+      "T",
+      "T",
+      "E",
+      "O",
+      "E",
+      "O",
+      "L",
+      "C",
+      "E",
+      "S",
+      "A"
+    ],
+    [
+      "P",
+      "F",
+      "L",
+      "O",
+      "R",
+      "A",
+      "G",
+      "K",
+      "H",
+      "C",
+      "O",
+      "R"
+    ],
+    [
+      "N",
+      "T",
+      "R",
+      "M",
+      "U",
+      "C",
+      "W",
+      "W",
+      "A",
+      "Y",
+      "V",
+      "L"
+    ],
+    [
+      "O",
+      "E",
+      "I",
+      "K",
+      "S",
+      "H",
+      "Q",
+      "R",
+      "R",
+      "J",
+      "P",
+      "E"
+    ],
+    [
+      "S",
+      "T",
+      "V",
+      "R",
+      "T",
+      "E",
+      "N",
+      "O",
+      "C",
+      "S",
+      "L",
+      "T"
+    ],
+    [
+      "K",
+      "R",
+      "Q",
+      "M",
+      "M",
+      "L",
+      "V",
+      "M",
+      "O",
+      "A",
+      "E",
+      "P"
+    ],
+    [
+      "Y",
+      "W",
+      "I",
+      "I",
+      "E",
+      "I",
+      "U",
+      "S",
+      "A",
+      "G",
+      "R",
+      "I"
+    ],
+    [
+      "U",
+      "P",
+      "L",
+      "A",
+      "Z",
+      "L",
+      "Z",
+      "U",
+      "L",
+      "E",
+      "C",
+      "L"
+    ],
+    [
+      "Q",
+      "T",
+      "T",
+      "R",
+      "P",
+      "S",
+      "R",
+      "P",
+      "P",
+      "S",
+      "A",
+      "F"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CHARCOAL",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "SCARLET",
+      "row": 1,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "PEACH",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "IVORY",
+      "row": 9,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "LIME",
+      "row": 10,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "SAGE",
+      "row": 7,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "RUST",
+      "row": 4,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "PLUM",
+      "row": 11,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "SAND",
+      "row": 1,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "LEAF",
+      "row": 4,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "GREY",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SKY",
+      "row": 7,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SEA",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "TAN",
+      "row": 3,
+      "col": 2,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8244
+}
