@@ -3,7 +3,7 @@
 ## How the schedule works
 
 - **Timezone:** All daily dates use **UTC**. A new puzzle unlocks at **00:00 UTC** (08:00 Asia/Shanghai). Every visitor worldwide sees the same dated puzzle.
-- **Launch day:** `2026-10-06` is **not** in `data/daily.json`. `getDailyPuzzle("2026-10-06")` still uses the original hash pick over the non-large-print catalog so the already-live page never changes.
+- **Launch day:** `2026-10-06` is **not** in `data/daily.json`. `getDailyPuzzle("2026-10-06")` still uses the original hash pick over the non-large-print catalog (`animals-hard-01` / Hard Animals Word Search — same as live) so that dated page never changes.
 - **From `2026-10-07`:** Each day has a **unique** committed entry in `data/daily.json` (grid, words, placements, seed). Entries are generated ahead of time so midnight UTC does **not** need a deploy.
 - **Never large print.** Daily puzzles use normal easy / medium / hard sizes (10×10 / 12×12 / 15×15).
 - **Difficulty (UTC weekday):**
@@ -33,8 +33,9 @@ npm run daily:add
 npm run daily:check
 npm run typecheck
 npm run build
-git add data/daily.json
-git status   # confirm only the schedule (and nothing unexpected)
+# Append one CHANGELOG line per newly added date (see “Changelog” below), then:
+git add data/daily.json CHANGELOG.md
+git status   # confirm only schedule + changelog
 git commit -m "daily: add YYYY-MM-DD"
 # replace YYYY-MM-DD with the newest date that was added (or the horizon date)
 git push origin master
@@ -68,6 +69,17 @@ node scripts/test-daily.mjs
 ```
 
 `DAILY_TODAY` is inlined at **build** time via `vite.config.ts` `define` (Cloudflare Workers do not inherit your shell env). The add/check scripts and `node scripts/test-daily.mjs` read it from the process env directly. Never set `DAILY_TODAY` on a production deploy.
+
+## Changelog
+
+Standing rule: every code change gets a `CHANGELOG.md` entry. Daily schedule tops-ups are **content**, not feature work — still log them, briefly:
+
+1. Under `[未发布 Unreleased]` (or the current master date section once this branch is merged), keep or open a **Daily puzzles** bullet group.
+2. For **each newly added date** from `npm run daily:add`, append one line, e.g.  
+   `- 2026-10-14 — Daily Word Search: Garden (Easy) (garden / easy).`
+3. Do **not** skip the changelog on “data-only” commits: the date, title, theme and difficulty are what readers need. Feature changes to the calendar/scripts keep their own fuller bullets (like the `daily-calendar` entry).
+
+Idempotent re-runs that add nothing → no new changelog lines.
 
 ## Related files
 

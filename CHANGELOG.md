@@ -9,6 +9,14 @@
 
 ## [未发布 Unreleased]
 
+### 新增 — Daily 日程与日历（分支 `daily-calendar`，未推送、未部署）
+- `d549e91`（2026-10-06 20:45）从 2026-10-07 起每天预生成一道**唯一** Daily 谜题（`data/daily.json`），缓冲 today+7；`npm run daily:add` / `daily:check` / `daily:test`。2026-10-06 仍走原 hash 选中（`animals-hard-01` Hard Animals，与线上一致），不入日程。
+  - 难度按 UTC 星期：日 / 一 / 三 easy；二 / 四 / 五 medium；六 hard；主题轮换避开 packs、5 天内不重复，十月优先 Halloween / Fall；词集与同主题重叠 &lt;70%；永不 large print。
+  - 新页 `/calendar`、`/calendar/YYYY-MM`：月历（≥44px 触控、手机列表）+ 倒序 “What’s new” 日志；未来日灰显且不链出；`/daily/calendar` 非日期 → 404。
+  - `/daily` 加 “See the full calendar”；日期页点明主题/难度并链主题页；页脚、sitemap、`llms.txt`、JSON-LD（CollectionPage + ItemList）已接。
+  - 文档 `docs/DAILY-PUZZLES.md`（含每日运维与 CHANGELOG 一行/日约定）；`DAILY_TODAY` 可经 Vite `define` 本地模拟日期。
+- 已排队（至 2026-10-13）：10-07 Halloween Easy · 10-08 Fall Medium · 10-09 Animals Medium · 10-10 Bible Hard · 10-11 Cats Easy · 10-12 Dogs Easy · 10-13 Halloween Medium。
+
 ### 新增 — 子主题 Wave 1（分支 `subthemes-wave1`，未推送、未部署）
 - `6ddb57c`（2026-10-06 13:04）Sports / Food / Music 拆出 12 个扁平子主题，每个 6 题：golf、baseball、tennis、fishing；baking、desserts、herbs、fruits；instruments、jazz、classical、music-terms。
   - Theme 新增可选 `parentSlug`；父主题页加 "Explore …" 子主题卡片；面包屑 `Themes → 父 → 子`。

@@ -9,11 +9,13 @@ import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 const schedule = JSON.parse(readFileSync(join(root, "data/daily.json"), "utf8"));
-const puzzles = [];
 import { readdirSync } from "node:fs";
-for (const f of readdirSync(join(root, "data/puzzles")).filter((x) => x.endsWith(".json"))) {
-  puzzles.push(JSON.parse(readFileSync(join(root, "data/puzzles", f), "utf8")));
-}
+// Same order as data/puzzles/index.ts (hash pick depends on registry order, not readdir).
+const registry = readFileSync(join(root, "data/puzzles/index.ts"), "utf8");
+const puzzleSlugs = [...registry.matchAll(/from "\.\/([^"]+)\.json"/g)].map((m) => m[1]);
+const puzzles = puzzleSlugs.map((s) =>
+  JSON.parse(readFileSync(join(root, "data/puzzles", `${s}.json`), "utf8")),
+);
 
 let failures = 0;
 const ok = (cond, msg) => {
@@ -48,7 +50,7 @@ console.log(`test-daily — simulated today ${todayUtc()}`);
 
 // 1) Launch day unchanged
 const launch = hashPick("2026-10-06");
-ok(launch.id === "christmas-hard-01", `2026-10-06 hash pick is christmas-hard-01 (got ${launch.id})`);
+ok(launch.id === "animals-hard-01", `2026-10-06 hash pick is animals-hard-01 (got ${launch.id})`);
 ok(!schedule.entries.some((e) => e.date === "2026-10-06"), "2026-10-06 not in schedule");
 
 // 2) Scheduled unique content for 2026-10-07
