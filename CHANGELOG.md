@@ -9,7 +9,7 @@
 
 ## [未发布 Unreleased]
 
-## 2026-10-07 — Wave D（地理/教育 + 户外/交通 + 软主题，待部署）
+## 2026-10-07 — Wave D（地理/教育 + 户外/交通 + 软主题，已部署）
 
 ### 新增 — Wave D 批量内容（+15 主题 / +90 谜题）
 - 对齐竞品公开主题目录（地理、人体、露营、交通、农场、湖山、学校、职业、友谊等 **主题名**），自写词表与网格。
@@ -17,6 +17,9 @@
 - `parentSlug`：horses → animals；beach → ocean。
 - 封面 / OG 暂借 travel / ocean / fall / animals / space / garden / bible / valentines。
 - **规模：** 主题 47→**62**，谜题 232→**322**（朝 ~1000）。
+- **已部署：** Worker `words-at-rest` 版本 `dc80faf2-31e1-4d72-9de2-2ccd29122285`；commit `c85285b`；sitemap ≈**402** `<loc>`；`llms.txt` 62/322。
+- **下一波建议（Wave E）：** kindness / gratitude / mindfulness；colors / shapes；tools / gardening-tools；soccer / basketball；history（american-history / presidents）；或加厚偏薄 hub + 专属封面。
+
 
 ## 2026-10-07 — Wave C（节日二波 + 厨房/自然，已部署）
 
