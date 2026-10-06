@@ -1,0 +1,284 @@
+{
+  "id": "winter-medium-01",
+  "slug": "winter-medium-01",
+  "themeId": "winter",
+  "title": "Winter: Midwinter Words",
+  "primaryKeyword": "winter word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BLIZZARD",
+    "BOOTS",
+    "CHILL",
+    "EVERGREEN",
+    "FLURRY",
+    "GLOVES",
+    "HEARTH",
+    "MITTEN",
+    "PARKA",
+    "SCARF",
+    "SWEATER",
+    "THERMOS",
+    "WINDOW",
+    "WOODSMOKE"
+  ],
+  "grid": [
+    [
+      "U",
+      "G",
+      "B",
+      "D",
+      "T",
+      "E",
+      "J",
+      "J",
+      "A",
+      "T",
+      "X",
+      "S"
+    ],
+    [
+      "R",
+      "M",
+      "L",
+      "T",
+      "W",
+      "V",
+      "C",
+      "O",
+      "I",
+      "H",
+      "J",
+      "C"
+    ],
+    [
+      "P",
+      "M",
+      "I",
+      "F",
+      "O",
+      "E",
+      "S",
+      "R",
+      "E",
+      "E",
+      "U",
+      "H"
+    ],
+    [
+      "D",
+      "M",
+      "Z",
+      "L",
+      "O",
+      "R",
+      "C",
+      "T",
+      "G",
+      "R",
+      "Z",
+      "I"
+    ],
+    [
+      "S",
+      "I",
+      "Z",
+      "U",
+      "D",
+      "G",
+      "A",
+      "K",
+      "L",
+      "M",
+      "O",
+      "L"
+    ],
+    [
+      "W",
+      "T",
+      "A",
+      "R",
+      "S",
+      "R",
+      "R",
+      "P",
+      "S",
+      "O",
+      "D",
+      "L"
+    ],
+    [
+      "E",
+      "T",
+      "R",
+      "R",
+      "M",
+      "E",
+      "F",
+      "V",
+      "A",
+      "S",
+      "F",
+      "Z"
+    ],
+    [
+      "A",
+      "E",
+      "D",
+      "Y",
+      "O",
+      "E",
+      "H",
+      "E",
+      "A",
+      "R",
+      "T",
+      "H"
+    ],
+    [
+      "T",
+      "N",
+      "X",
+      "S",
+      "K",
+      "N",
+      "Y",
+      "C",
+      "M",
+      "K",
+      "K",
+      "W"
+    ],
+    [
+      "E",
+      "R",
+      "C",
+      "B",
+      "E",
+      "G",
+      "W",
+      "J",
+      "V",
+      "T",
+      "O",
+      "A"
+    ],
+    [
+      "R",
+      "G",
+      "L",
+      "O",
+      "V",
+      "E",
+      "S",
+      "B",
+      "O",
+      "O",
+      "T",
+      "S"
+    ],
+    [
+      "Y",
+      "W",
+      "I",
+      "N",
+      "D",
+      "O",
+      "W",
+      "B",
+      "L",
+      "A",
+      "I",
+      "U"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "EVERGREEN",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "WOODSMOKE",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "BLIZZARD",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "SWEATER",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "THERMOS",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "MITTEN",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "FLURRY",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "GLOVES",
+      "row": 10,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "WINDOW",
+      "row": 11,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "HEARTH",
+      "row": 7,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "SCARF",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "BOOTS",
+      "row": 10,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "CHILL",
+      "row": 1,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "PARKA",
+      "row": 5,
+      "col": 7,
+      "direction": "SE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 1203
+}

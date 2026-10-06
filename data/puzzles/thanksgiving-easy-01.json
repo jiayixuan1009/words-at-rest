@@ -1,0 +1,208 @@
+{
+  "id": "thanksgiving-easy-01",
+  "slug": "thanksgiving-easy-01",
+  "themeId": "thanksgiving",
+  "title": "Thanksgiving: Harvest Table",
+  "primaryKeyword": "thanksgiving word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "AUTUMN",
+    "CIDER",
+    "FEAST",
+    "GRAVY",
+    "GUEST",
+    "MAIZE",
+    "PIE",
+    "ROLL",
+    "TABLE",
+    "YAMS"
+  ],
+  "grid": [
+    [
+      "G",
+      "N",
+      "V",
+      "P",
+      "I",
+      "E",
+      "T",
+      "A",
+      "M",
+      "P"
+    ],
+    [
+      "H",
+      "L",
+      "W",
+      "T",
+      "R",
+      "S",
+      "A",
+      "U",
+      "A",
+      "E"
+    ],
+    [
+      "I",
+      "K",
+      "K",
+      "L",
+      "B",
+      "R",
+      "B",
+      "T",
+      "I",
+      "I"
+    ],
+    [
+      "A",
+      "G",
+      "V",
+      "F",
+      "T",
+      "E",
+      "L",
+      "U",
+      "Z",
+      "M"
+    ],
+    [
+      "C",
+      "H",
+      "O",
+      "U",
+      "W",
+      "P",
+      "E",
+      "M",
+      "E",
+      "L"
+    ],
+    [
+      "I",
+      "P",
+      "G",
+      "W",
+      "U",
+      "R",
+      "V",
+      "N",
+      "L",
+      "F"
+    ],
+    [
+      "D",
+      "L",
+      "U",
+      "C",
+      "U",
+      "T",
+      "A",
+      "D",
+      "H",
+      "E"
+    ],
+    [
+      "E",
+      "D",
+      "E",
+      "R",
+      "O",
+      "L",
+      "L",
+      "G",
+      "S",
+      "A"
+    ],
+    [
+      "R",
+      "N",
+      "S",
+      "Y",
+      "A",
+      "M",
+      "S",
+      "I",
+      "R",
+      "S"
+    ],
+    [
+      "N",
+      "M",
+      "T",
+      "M",
+      "G",
+      "R",
+      "A",
+      "V",
+      "Y",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "AUTUMN",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "GRAVY",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "MAIZE",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "CIDER",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "FEAST",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "GUEST",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "TABLE",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "ROLL",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "YAMS",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "PIE",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 1121
+}

@@ -2,6 +2,10 @@ import type { Theme } from "../../lib/types";
 import halloween from "./halloween.json";
 import fall from "./fall.json";
 import christmas from "./christmas.json";
+import thanksgiving from "./thanksgiving.json";
+import winter from "./winter.json";
+import valentines from "./valentines.json";
+import easter from "./easter.json";
 import animals from "./animals.json";
 import space from "./space.json";
 import sports from "./sports.json";
@@ -20,7 +24,11 @@ import hardPack from "./hard-pack.json";
 export const themes = [
   halloween,
   fall,
+  thanksgiving,
   christmas,
+  winter,
+  valentines,
+  easter,
   animals,
   space,
   sports,

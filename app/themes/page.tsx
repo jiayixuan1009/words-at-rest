@@ -17,7 +17,7 @@ const DATES = datesFor("app/themes/page.tsx", "data/themes/index.ts");
 const THEMES_CITED = [CITATIONS.mwColour, CITATIONS.niaCognitiveHealth];
 
 const DESCRIPTION =
-  "Browse free word search puzzles by theme: Halloween, fall, Christmas, Bible, animals, ocean, garden, music, space, large print and more. Original word lists, playable online.";
+  "Browse free word search puzzles by theme: Halloween, fall, Thanksgiving, Christmas, winter, Valentine's, Easter, Bible, animals, ocean, garden, music, space, large print and more. Original word lists, playable online.";
 
 export const metadata: Metadata = seo({
   title: "Word Search Themes — Browse All Puzzles",
@@ -57,9 +57,13 @@ export default function ThemesPage() {
         <h2 className="font-serif text-2xl font-semibold text-[var(--ink)]">How are the themes organized?</h2>
         <p>
           <strong className="text-[var(--ink)]">Seasonal themes</strong> —{" "}
-          <Link href="/themes/halloween">Halloween</Link>, <Link href="/themes/fall">fall</Link> and{" "}
-          <Link href="/themes/christmas">Christmas</Link> — follow the calendar and get new puzzles as
-          each season comes round. <strong className="text-[var(--ink)]">Evergreen themes</strong>{" "}
+          <Link href="/themes/halloween">Halloween</Link>, <Link href="/themes/fall">fall</Link>,{" "}
+          <Link href="/themes/thanksgiving">Thanksgiving</Link>,{" "}
+          <Link href="/themes/christmas">Christmas</Link>, <Link href="/themes/winter">winter</Link>,{" "}
+          <Link href="/themes/valentines">Valentine&apos;s Day</Link> and{" "}
+          <Link href="/themes/easter">Easter</Link> — follow the calendar. See also the{" "}
+          <Link href="/holidays">holidays hub</Link>.{" "}
+          <strong className="text-[var(--ink)]">Evergreen themes</strong>{" "}
           such as Bible, animals, food, ocean, garden, travel, music and space work any time of year.{" "}
           <strong className="text-[var(--ink)]">Packs</strong> group puzzles by how they play rather
           than by topic: the <Link href="/themes/large-print-pack">Large Print Pack</Link> for

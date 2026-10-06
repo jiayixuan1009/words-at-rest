@@ -103,6 +103,35 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
       "Made for gardeners in the off-season, allotment friends and anyone who finds plant names calming. It pairs well with a cup of tea on a rainy day when you cannot get outside.",
     tip: "Flower names are short and vowel-heavy (IRIS, LILY, ROSE). Start with the long, consonant-rich words such as GREENHOUSE and COMPOST, then hunt the flowers.",
   },
+
+  thanksgiving: {
+    vocabulary:
+      "The Thanksgiving list covers the harvest table (gravy, maize, cider, yams, pie), kitchen prep (stuffing, cranberry, cornbread, platter), autumn walks (gourd, orchard, hayride, cornucopia) and quieter gratitude words such as thanks, blessing, hospitality and reunion. Everyday English only — no brand names and no licensed characters.",
+    goodFor:
+      "A natural fit for November afternoons, family gatherings, care-home activity hours and anyone who wants a seasonal puzzle that feels grown-up. The easy grids warm up with short table words; the hard grid hides eighteen longer tradition words in all eight directions; large print keeps eight short words on a 9×9 grid.",
+    tip: "Long words with distinctive letters — the double L in TABLECLOTH, the PH in HOSPITALITY, the OU in CORNUCOPIA — are easier to spot than short ones like PIE or YAMS. Find the long words first.",
+  },
+  winter: {
+    vocabulary:
+      "The winter list leans into snow and frost, wool layers (mitten, scarf, sweater, parka), cocoa by the fire, and midwinter words such as blizzard, evergreen, woodsmoke and snowdrift. It stays with the season itself rather than Christmas characters, so it pairs well beside our Christmas theme without overlapping licensed names.",
+    goodFor:
+      "Quiet December-to-February evenings, snow-day afternoons and anyone who likes cold-weather vocabulary without holiday pressure. Easy grids use short familiar words; hard grids pack longer freeze-and-fire words into a 15×15 board.",
+    tip: "Several winter words share openings — SNOWFLAKE, SNOWDRIFT, SNOWBOUND. When you find SNOW, check the letters that follow before you move on.",
+  },
+  valentines: {
+    vocabulary:
+      "The Valentine's list keeps a calm adult tone: hearts, roses, cards and notes, plus longer affection words such as devotion, cherish, keepsake and courtship. No glitter cartoon hearts and no trademarked characters — just ordinary English for a gentle February puzzle.",
+    goodFor:
+      "A grown-up choice for Valentine's Day, anniversary afternoons or any quiet evening when you want a soft theme. Large print uses eight short words; the hard grid stretches into longer affection vocabulary.",
+    tip: "Words ending in “-NESS” or “-TION” (KINDNESS, AFFECTION, DEVOTION, ADMIRATION) reverse cleanly — look for SEN or NOIT clusters when you are stuck.",
+  },
+  easter: {
+    vocabulary:
+      "The Easter list mixes spring garden words (lily, daffodil, blossom, willow, meadow) with baskets, dawn light and a handful of quiet faith words familiar from everyday English — hope, grace, hymn, chapel, alleluia. It avoids cartoon mascots and keeps religious and seasonal language in a gentle balance.",
+    goodFor:
+      "Spring mornings, church-group activity tables, seniors' hours and anyone who wants a calm Easter puzzle. Cross-link with our Bible theme if you prefer Scripture vocabulary; stay here for a broader spring mood.",
+    tip: "Flower names are often short and vowel-heavy (LILY, TULIP). Start with longer words such as DAFFODIL, ALLELUIA and HATCHLING, then hunt the short ones along the edges.",
+  },
   bible: {
     vocabulary:
       "The Bible list is grouped by familiar Scripture vocabulary: books of the Old and New Testaments (Genesis, Exodus, Matthew, Acts), people of the Old Testament (Abraham, Moses, David, Esther), disciples and New Testament figures (Peter, Paul, Lydia, Martha), places named in the text (Jerusalem, Bethlehem, Nazareth, Galilee), and short virtue words drawn from everyday church English — love, joy, peace, faith, hope, grace, mercy and kindness. Names follow common English / King James spellings. There are no verse quotations on the grid, no denominational slogans, and no cartoon characters.",

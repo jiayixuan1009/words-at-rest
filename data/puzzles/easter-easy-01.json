@@ -1,0 +1,208 @@
+{
+  "id": "easter-easy-01",
+  "slug": "easter-easy-01",
+  "themeId": "easter",
+  "title": "Easter: Spring Morning",
+  "primaryKeyword": "easter word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BASKET",
+    "BLOOM",
+    "CHICK",
+    "DAWN",
+    "EGG",
+    "GRASS",
+    "HARE",
+    "LAMB",
+    "LILY",
+    "SPRING"
+  ],
+  "grid": [
+    [
+      "G",
+      "B",
+      "D",
+      "D",
+      "N",
+      "B",
+      "N",
+      "A",
+      "L",
+      "M"
+    ],
+    [
+      "E",
+      "G",
+      "G",
+      "C",
+      "K",
+      "L",
+      "Y",
+      "E",
+      "L",
+      "D"
+    ],
+    [
+      "C",
+      "H",
+      "I",
+      "C",
+      "K",
+      "O",
+      "V",
+      "U",
+      "V",
+      "A"
+    ],
+    [
+      "K",
+      "G",
+      "E",
+      "N",
+      "R",
+      "O",
+      "K",
+      "L",
+      "E",
+      "W"
+    ],
+    [
+      "C",
+      "A",
+      "F",
+      "U",
+      "E",
+      "M",
+      "Y",
+      "I",
+      "L",
+      "N"
+    ],
+    [
+      "S",
+      "P",
+      "R",
+      "I",
+      "N",
+      "G",
+      "D",
+      "S",
+      "I",
+      "J"
+    ],
+    [
+      "R",
+      "B",
+      "B",
+      "I",
+      "L",
+      "J",
+      "K",
+      "Y",
+      "L",
+      "L"
+    ],
+    [
+      "B",
+      "A",
+      "S",
+      "K",
+      "E",
+      "T",
+      "H",
+      "K",
+      "Y",
+      "A"
+    ],
+    [
+      "T",
+      "E",
+      "V",
+      "H",
+      "A",
+      "R",
+      "E",
+      "Y",
+      "U",
+      "M"
+    ],
+    [
+      "H",
+      "G",
+      "R",
+      "A",
+      "S",
+      "S",
+      "H",
+      "W",
+      "C",
+      "B"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BASKET",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SPRING",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BLOOM",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "CHICK",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "GRASS",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "LILY",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "DAWN",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "LAMB",
+      "row": 6,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "HARE",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "EGG",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 4011
+}

@@ -66,6 +66,7 @@ await card(join(pub, "og/default.jpg"), { title: "Word search, at your own pace"
 await card(join(pub, "og/daily.jpg"), { eyebrow: "DAILY PUZZLE", title: "Today's daily word search", subtitle: "A fresh, free grid every day. No timer, no sign-up.", bg: "og-daily.png" });
 await card(join(pub, "og/large-print.jpg"), { eyebrow: "LARGE PRINT", title: "Large print word search", subtitle: "Big letters, 9×9 grids, strong contrast. Easy on the eyes.", bg: "og-large-print.png" });
 await card(join(pub, "og/how-to-play.jpg"), { eyebrow: "HOW TO PLAY", title: "How to play word search", subtitle: "Drag or tap to select. Five simple steps and a few tips.", bg: "og-default.png" });
+await card(join(pub, "og/holidays.jpg"), { eyebrow: "HOLIDAYS", title: "Holiday word search", subtitle: "Thanksgiving, winter, Valentine's Day and Easter — calm seasonal grids for adults.", bg: "og-holidays.png" });
 await card(join(pub, "og/adults.jpg"), { eyebrow: "FOR ADULTS", title: "Word search for adults", subtitle: "Thoughtful word lists, real challenge, no pop-up carnival.", bg: "og-theme-large-print-pack.png" });
 for (const [lvl, sub, bg] of [["easy", "10×10 grids, words across and down only.", "og-default.png"], ["medium", "12×12 grids with diagonal words added.", "og-daily.png"], ["hard", "15×15 grids, all eight directions.", "og-theme-hard-pack.png"]]) {
   await card(join(pub, `og/difficulty-${lvl}.jpg`), { eyebrow: "DIFFICULTY", title: `${lvl[0].toUpperCase() + lvl.slice(1)} word search puzzles`, subtitle: sub, bg });

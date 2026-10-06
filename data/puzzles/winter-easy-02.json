@@ -1,0 +1,208 @@
+{
+  "id": "winter-easy-02",
+  "slug": "winter-easy-02",
+  "themeId": "winter",
+  "title": "Winter: By the Fire",
+  "primaryKeyword": "winter word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BLANKET",
+    "CANDLE",
+    "EVENING",
+    "HEARTH",
+    "SILENCE",
+    "SWEATER",
+    "THERMOS",
+    "WARM",
+    "WINDOW",
+    "WOOL"
+  ],
+  "grid": [
+    [
+      "O",
+      "T",
+      "C",
+      "T",
+      "H",
+      "E",
+      "R",
+      "M",
+      "O",
+      "S"
+    ],
+    [
+      "S",
+      "D",
+      "D",
+      "W",
+      "E",
+      "E",
+      "F",
+      "B",
+      "A",
+      "D"
+    ],
+    [
+      "I",
+      "G",
+      "F",
+      "A",
+      "A",
+      "V",
+      "N",
+      "L",
+      "B",
+      "D"
+    ],
+    [
+      "L",
+      "P",
+      "Z",
+      "R",
+      "R",
+      "E",
+      "S",
+      "A",
+      "C",
+      "I"
+    ],
+    [
+      "E",
+      "M",
+      "W",
+      "M",
+      "T",
+      "N",
+      "W",
+      "N",
+      "A",
+      "W"
+    ],
+    [
+      "N",
+      "K",
+      "I",
+      "Z",
+      "H",
+      "I",
+      "E",
+      "K",
+      "N",
+      "Y"
+    ],
+    [
+      "C",
+      "B",
+      "N",
+      "O",
+      "A",
+      "N",
+      "A",
+      "E",
+      "D",
+      "Q"
+    ],
+    [
+      "E",
+      "U",
+      "D",
+      "K",
+      "Z",
+      "G",
+      "T",
+      "T",
+      "L",
+      "H"
+    ],
+    [
+      "S",
+      "B",
+      "O",
+      "Y",
+      "M",
+      "M",
+      "E",
+      "B",
+      "E",
+      "B"
+    ],
+    [
+      "M",
+      "Q",
+      "W",
+      "O",
+      "O",
+      "L",
+      "R",
+      "M",
+      "U",
+      "B"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BLANKET",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SWEATER",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "THERMOS",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "EVENING",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "SILENCE",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "WINDOW",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "CANDLE",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "HEARTH",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "WOOL",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "WARM",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 1202
+}

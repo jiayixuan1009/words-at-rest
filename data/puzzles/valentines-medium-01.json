@@ -1,0 +1,284 @@
+{
+  "id": "valentines-medium-01",
+  "slug": "valentines-medium-01",
+  "themeId": "valentines",
+  "title": "Valentine's: Letters & Ribbons",
+  "primaryKeyword": "valentine word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "AFFECTION",
+    "BOUQUET",
+    "CANDLELIT",
+    "CHERISH",
+    "CHOCOLATE",
+    "DEVOTION",
+    "ENVELOPE",
+    "LETTER",
+    "PROMISE",
+    "RIBBON",
+    "ROMANCE",
+    "SERENADE",
+    "SWEETHEART",
+    "VALENTINE"
+  ],
+  "grid": [
+    [
+      "O",
+      "O",
+      "Z",
+      "A",
+      "C",
+      "A",
+      "C",
+      "M",
+      "P",
+      "D",
+      "B",
+      "R"
+    ],
+    [
+      "T",
+      "S",
+      "R",
+      "S",
+      "H",
+      "F",
+      "H",
+      "W",
+      "R",
+      "T",
+      "C",
+      "F"
+    ],
+    [
+      "F",
+      "W",
+      "I",
+      "E",
+      "E",
+      "F",
+      "O",
+      "H",
+      "O",
+      "B",
+      "A",
+      "Z"
+    ],
+    [
+      "W",
+      "E",
+      "B",
+      "R",
+      "R",
+      "E",
+      "C",
+      "S",
+      "M",
+      "O",
+      "N",
+      "V"
+    ],
+    [
+      "R",
+      "E",
+      "B",
+      "E",
+      "I",
+      "C",
+      "O",
+      "B",
+      "I",
+      "U",
+      "D",
+      "A"
+    ],
+    [
+      "O",
+      "T",
+      "O",
+      "N",
+      "S",
+      "T",
+      "L",
+      "V",
+      "S",
+      "Q",
+      "L",
+      "L"
+    ],
+    [
+      "M",
+      "H",
+      "N",
+      "A",
+      "H",
+      "I",
+      "A",
+      "D",
+      "E",
+      "U",
+      "E",
+      "E"
+    ],
+    [
+      "A",
+      "E",
+      "N",
+      "D",
+      "O",
+      "O",
+      "T",
+      "X",
+      "G",
+      "E",
+      "L",
+      "N"
+    ],
+    [
+      "N",
+      "A",
+      "R",
+      "E",
+      "Y",
+      "N",
+      "E",
+      "K",
+      "M",
+      "T",
+      "I",
+      "T"
+    ],
+    [
+      "C",
+      "R",
+      "D",
+      "E",
+      "V",
+      "O",
+      "T",
+      "I",
+      "O",
+      "N",
+      "T",
+      "I"
+    ],
+    [
+      "E",
+      "T",
+      "W",
+      "L",
+      "E",
+      "T",
+      "T",
+      "E",
+      "R",
+      "O",
+      "B",
+      "N"
+    ],
+    [
+      "D",
+      "M",
+      "E",
+      "N",
+      "V",
+      "E",
+      "L",
+      "O",
+      "P",
+      "E",
+      "Q",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SWEETHEART",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "CHOCOLATE",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "CANDLELIT",
+      "row": 1,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "AFFECTION",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "VALENTINE",
+      "row": 3,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "ENVELOPE",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "DEVOTION",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SERENADE",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "ROMANCE",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BOUQUET",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "PROMISE",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "CHERISH",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "LETTER",
+      "row": 10,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "RIBBON",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2143
+}

@@ -1,0 +1,284 @@
+{
+  "id": "thanksgiving-medium-01",
+  "slug": "thanksgiving-medium-01",
+  "themeId": "thanksgiving",
+  "title": "Thanksgiving: Kitchen Prep",
+  "primaryKeyword": "thanksgiving word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BASTE",
+    "BUTTER",
+    "CARVING",
+    "CASSEROLE",
+    "CORNBREAD",
+    "CRANBERRY",
+    "GIBLET",
+    "LEFTOVER",
+    "OVEN",
+    "PARSLEY",
+    "PLATTER",
+    "POTATO",
+    "STUFFING",
+    "TURKEY"
+  ],
+  "grid": [
+    [
+      "R",
+      "C",
+      "C",
+      "A",
+      "S",
+      "S",
+      "E",
+      "R",
+      "O",
+      "L",
+      "E",
+      "E"
+    ],
+    [
+      "L",
+      "X",
+      "A",
+      "M",
+      "Q",
+      "Y",
+      "T",
+      "R",
+      "V",
+      "K",
+      "C",
+      "F"
+    ],
+    [
+      "Q",
+      "E",
+      "P",
+      "R",
+      "E",
+      "U",
+      "E",
+      "P",
+      "R",
+      "X",
+      "R",
+      "B"
+    ],
+    [
+      "G",
+      "X",
+      "F",
+      "K",
+      "V",
+      "T",
+      "Q",
+      "E",
+      "P",
+      "G",
+      "A",
+      "S"
+    ],
+    [
+      "B",
+      "U",
+      "R",
+      "T",
+      "T",
+      "I",
+      "T",
+      "G",
+      "B",
+      "I",
+      "N",
+      "T"
+    ],
+    [
+      "P",
+      "U",
+      "G",
+      "U",
+      "O",
+      "T",
+      "N",
+      "Z",
+      "A",
+      "B",
+      "B",
+      "U"
+    ],
+    [
+      "T",
+      "V",
+      "B",
+      "O",
+      "A",
+      "V",
+      "B",
+      "G",
+      "S",
+      "L",
+      "E",
+      "F"
+    ],
+    [
+      "G",
+      "T",
+      "H",
+      "L",
+      "N",
+      "A",
+      "E",
+      "P",
+      "T",
+      "E",
+      "R",
+      "F"
+    ],
+    [
+      "W",
+      "S",
+      "P",
+      "T",
+      "Q",
+      "J",
+      "Y",
+      "R",
+      "E",
+      "T",
+      "R",
+      "I"
+    ],
+    [
+      "C",
+      "O",
+      "R",
+      "N",
+      "B",
+      "R",
+      "E",
+      "A",
+      "D",
+      "C",
+      "Y",
+      "N"
+    ],
+    [
+      "E",
+      "Z",
+      "U",
+      "P",
+      "A",
+      "R",
+      "S",
+      "L",
+      "E",
+      "Y",
+      "P",
+      "G"
+    ],
+    [
+      "M",
+      "P",
+      "O",
+      "T",
+      "A",
+      "T",
+      "O",
+      "O",
+      "V",
+      "E",
+      "N",
+      "M"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CRANBERRY",
+      "row": 1,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "CORNBREAD",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CASSEROLE",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "STUFFING",
+      "row": 3,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "LEFTOVER",
+      "row": 1,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "CARVING",
+      "row": 0,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "PARSLEY",
+      "row": 10,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "PLATTER",
+      "row": 8,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "POTATO",
+      "row": 11,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TURKEY",
+      "row": 6,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "GIBLET",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "BUTTER",
+      "row": 6,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "BASTE",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "OVEN",
+      "row": 11,
+      "col": 7,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 1123
+}

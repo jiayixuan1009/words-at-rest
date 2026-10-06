@@ -1,0 +1,208 @@
+{
+  "id": "easter-easy-02",
+  "slug": "easter-easy-02",
+  "themeId": "easter",
+  "title": "Easter: Quiet Hope",
+  "primaryKeyword": "easter word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BLOOM",
+    "DAWN",
+    "FAITH",
+    "GRACE",
+    "HOPE",
+    "JOY",
+    "LIGHT",
+    "LILY",
+    "NEST",
+    "PEACE"
+  ],
+  "grid": [
+    [
+      "J",
+      "S",
+      "Y",
+      "H",
+      "O",
+      "P",
+      "E",
+      "R",
+      "J",
+      "K"
+    ],
+    [
+      "O",
+      "V",
+      "T",
+      "O",
+      "Q",
+      "R",
+      "N",
+      "T",
+      "K",
+      "B"
+    ],
+    [
+      "Y",
+      "Q",
+      "H",
+      "L",
+      "I",
+      "G",
+      "H",
+      "T",
+      "Y",
+      "L"
+    ],
+    [
+      "I",
+      "J",
+      "W",
+      "H",
+      "V",
+      "D",
+      "A",
+      "W",
+      "N",
+      "O"
+    ],
+    [
+      "Z",
+      "M",
+      "R",
+      "F",
+      "U",
+      "I",
+      "P",
+      "U",
+      "G",
+      "O"
+    ],
+    [
+      "K",
+      "S",
+      "N",
+      "A",
+      "N",
+      "U",
+      "E",
+      "O",
+      "R",
+      "M"
+    ],
+    [
+      "M",
+      "W",
+      "B",
+      "I",
+      "E",
+      "W",
+      "A",
+      "M",
+      "A",
+      "Q"
+    ],
+    [
+      "F",
+      "V",
+      "S",
+      "T",
+      "S",
+      "G",
+      "C",
+      "W",
+      "C",
+      "G"
+    ],
+    [
+      "A",
+      "A",
+      "B",
+      "H",
+      "T",
+      "I",
+      "E",
+      "R",
+      "E",
+      "D"
+    ],
+    [
+      "H",
+      "N",
+      "H",
+      "C",
+      "L",
+      "L",
+      "I",
+      "L",
+      "Y",
+      "Z"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PEACE",
+      "row": 4,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "FAITH",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "GRACE",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "LIGHT",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BLOOM",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "HOPE",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "DAWN",
+      "row": 3,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "LILY",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "NEST",
+      "row": 5,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "JOY",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 4012
+}

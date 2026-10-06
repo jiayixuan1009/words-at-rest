@@ -1,0 +1,15 @@
+{
+  "id": "valentines",
+  "slug": "valentines",
+  "name": "Valentine's Day",
+  "season": "winter",
+  "primaryKeyword": "valentine word search",
+  "description": "Valentine's Day word search puzzles with a calm, grown-up tone — free online grids of letters, roses, cards, affection and quiet February kindness. Written for adults and seniors; no glitter cartoon hearts and no licensed characters. Easy, medium and hard grids plus a large-print set. Play in the browser with no timer and no account.",
+  "words": [
+    "HEART", "ROSE", "CARD", "KISS", "LOVE", "NOTE", "BLOOM", "SWEET", "GIFT", "DANCE",
+    "ROMANCE", "LETTER", "ENVELOPE", "RIBBON", "BOUQUET", "CHOCOLATE", "CANDLELIT",
+    "AFFECTION", "DEVOTION", "SWEETHEART", "VALENTINE", "SERENADE", "PROMISE", "CHERISH",
+    "TENDERNESS", "ADMIRATION", "HANDHOLD", "WISHLIST", "KEEPSAKE", "MEMENTO",
+    "COURTSHIP", "FONDNESS", "KINDNESS", "WARMTH", "FRIEND", "HUG", "POEM", "TEA"
+  ]
+}

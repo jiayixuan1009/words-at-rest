@@ -93,11 +93,21 @@ const THEME_MOTIF: Record<string, string> = {
   music: "a music stand, a record, headphones and a kettle",
   garden: "a potted plant and a trowel on a potting bench",
   bible: "a closed old Bible with a ribbon bookmark, an olive branch and an oil lamp on a wooden table",
+  thanksgiving: "a harvest table still life with a pumpkin, corn, acorns and a linen napkin",
+  winter: "a mug of cocoa, wool mittens and pine beside a frosted window",
+  valentines: "a sealed letter with a wax seal, a dried rose and a ribbon on cream paper",
+  easter: "a woven basket, a few pale eggs, daffodils and willow on a wooden table",
   "large-print-pack": "reading glasses on an open puzzle book under a lamp",
   "hard-pack": "a dense puzzle grid with a fountain pen",
 };
 
 /** Theme slug → 1200×900 painted cover (with a 640w variant).
+ *
+ * TEMPORARY covers for holiday Wave 1 (thanksgiving / winter / valentines / easter):
+ * public/images/themes/<slug>.webp (+ -640) currently reuse nearby seasonal art
+ * (fall / christmas / food / garden) until dedicated paintings from
+ * design/HOLIDAY-IMAGE-REQUEST.md land — swap those files only; no code change needed.
+ * Matching OG bases live at design/og-base/og-theme-<slug>.png (same swap rule).
  */
 export function themeArt(slug: string, themeName: string): Art {
   const src = `/images/themes/${slug}.webp`;
@@ -122,8 +132,9 @@ export function themeImageAlt(slug: string, themeName: string): string {
  * Add a slug here only after all three levels exist.
  */
 export const DIFFICULTY_ART_THEMES: ReadonlySet<string> = new Set([
-  "animals", "bible", "cats", "christmas", "dogs", "fall", "food", "garden",
-  "hard-pack", "halloween", "large-print-pack", "music", "ocean", "space", "sports", "travel",
+  "animals", "bible", "cats", "christmas", "dogs", "easter", "fall", "food", "garden",
+  "hard-pack", "halloween", "large-print-pack", "music", "ocean", "space", "sports",
+  "thanksgiving", "travel", "valentines", "winter",
 ]);
 
 /** What the painting shows at each level (same scene, fuller as difficulty rises). */
@@ -143,6 +154,10 @@ const LEVEL_MOTIF: Record<string, Record<DifficultyKey, string>> = {
   ocean: { easy: "a single seashell on the sand", medium: "a seashell on the sand with gentle waves", hard: "a seashell, pebbles, waves and a distant lighthouse" },
   space: { easy: "a crescent moon in a pale sky", medium: "a crescent moon above soft clouds and a few stars", hard: "a telescope on a hill under a crescent moon, clouds and stars" },
   sports: { easy: "a tennis ball on a wooden bench", medium: "a tennis ball and a pair of trainers on a bench", hard: "a tennis ball, trainers and a bicycle wheel by a bench" },
+  thanksgiving: { easy: "a single small pumpkin on a warm wooden harvest table", medium: "a pumpkin with ears of corn and a folded linen napkin", hard: "a harvest table with a pumpkin, corn, acorns, napkin, wooden spoon and gravy boat" },
+  winter: { easy: "a single mug of cocoa on a frosted window ledge", medium: "a cocoa mug with a pair of wool mittens on the ledge", hard: "cocoa, mittens, a pine sprig and soft frost on the window" },
+  valentines: { easy: "a sealed cream envelope with a soft wax seal", medium: "a sealed letter beside a dried rose", hard: "a sealed letter, dried rose, ribbon and fountain pen on cream paper" },
+  easter: { easy: "a single pale egg in a small woven nest", medium: "a woven basket with a few pale eggs and a daffodil", hard: "a woven basket, pale eggs, daffodils and willow on a wooden table" },
   travel: { easy: "a brass compass on a wooden table", medium: "a compass with postcards and a stamp", hard: "a compass, postcards, a folded map and an old suitcase" },
 };
 

@@ -1,0 +1,284 @@
+{
+  "id": "valentines-medium-02",
+  "slug": "valentines-medium-02",
+  "themeId": "valentines",
+  "title": "Valentine's: Quiet Affection",
+  "primaryKeyword": "valentine word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ADMIRATION",
+    "BLOOM",
+    "COURTSHIP",
+    "DANCE",
+    "FONDNESS",
+    "FRIEND",
+    "HANDHOLD",
+    "KEEPSAKE",
+    "KINDNESS",
+    "MEMENTO",
+    "POEM",
+    "TENDERNESS",
+    "WARMTH",
+    "WISHLIST"
+  ],
+  "grid": [
+    [
+      "P",
+      "X",
+      "G",
+      "W",
+      "I",
+      "S",
+      "H",
+      "L",
+      "I",
+      "S",
+      "T",
+      "F"
+    ],
+    [
+      "K",
+      "I",
+      "N",
+      "D",
+      "N",
+      "E",
+      "S",
+      "S",
+      "G",
+      "F",
+      "G",
+      "R"
+    ],
+    [
+      "B",
+      "L",
+      "O",
+      "O",
+      "M",
+      "G",
+      "P",
+      "O",
+      "E",
+      "M",
+      "B",
+      "I"
+    ],
+    [
+      "X",
+      "X",
+      "Y",
+      "K",
+      "E",
+      "E",
+      "P",
+      "S",
+      "A",
+      "K",
+      "E",
+      "E"
+    ],
+    [
+      "F",
+      "O",
+      "N",
+      "D",
+      "N",
+      "E",
+      "S",
+      "S",
+      "D",
+      "X",
+      "O",
+      "N"
+    ],
+    [
+      "A",
+      "D",
+      "M",
+      "I",
+      "R",
+      "A",
+      "T",
+      "I",
+      "O",
+      "N",
+      "G",
+      "D"
+    ],
+    [
+      "X",
+      "G",
+      "F",
+      "T",
+      "W",
+      "A",
+      "R",
+      "M",
+      "T",
+      "H",
+      "F",
+      "Y"
+    ],
+    [
+      "C",
+      "O",
+      "U",
+      "R",
+      "T",
+      "S",
+      "H",
+      "I",
+      "P",
+      "M",
+      "G",
+      "R"
+    ],
+    [
+      "L",
+      "X",
+      "B",
+      "H",
+      "F",
+      "M",
+      "E",
+      "M",
+      "E",
+      "N",
+      "T",
+      "O"
+    ],
+    [
+      "H",
+      "A",
+      "N",
+      "D",
+      "H",
+      "O",
+      "L",
+      "D",
+      "B",
+      "O",
+      "E",
+      "A"
+    ],
+    [
+      "T",
+      "E",
+      "N",
+      "D",
+      "E",
+      "R",
+      "N",
+      "E",
+      "S",
+      "S",
+      "O",
+      "G"
+    ],
+    [
+      "X",
+      "N",
+      "F",
+      "Y",
+      "O",
+      "B",
+      "D",
+      "A",
+      "N",
+      "C",
+      "E",
+      "A"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TENDERNESS",
+      "row": 10,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "ADMIRATION",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "COURTSHIP",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "HANDHOLD",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "WISHLIST",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "KEEPSAKE",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "FONDNESS",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "KINDNESS",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "MEMENTO",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "WARMTH",
+      "row": 6,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "FRIEND",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "BLOOM",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "DANCE",
+      "row": 11,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "POEM",
+      "row": 2,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2144
+}

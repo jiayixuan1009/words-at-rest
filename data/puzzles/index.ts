@@ -9,6 +9,30 @@ import p_fall_hard_01 from "./fall-hard-01.json";
 import p_christmas_easy_01 from "./christmas-easy-01.json";
 import p_christmas_medium_01 from "./christmas-medium-01.json";
 import p_christmas_hard_01 from "./christmas-hard-01.json";
+import p_thanksgiving_easy_01 from "./thanksgiving-easy-01.json";
+import p_thanksgiving_easy_02 from "./thanksgiving-easy-02.json";
+import p_thanksgiving_medium_01 from "./thanksgiving-medium-01.json";
+import p_thanksgiving_medium_02 from "./thanksgiving-medium-02.json";
+import p_thanksgiving_hard_01 from "./thanksgiving-hard-01.json";
+import p_thanksgiving_large_01 from "./thanksgiving-large-01.json";
+import p_winter_easy_01 from "./winter-easy-01.json";
+import p_winter_easy_02 from "./winter-easy-02.json";
+import p_winter_medium_01 from "./winter-medium-01.json";
+import p_winter_medium_02 from "./winter-medium-02.json";
+import p_winter_hard_01 from "./winter-hard-01.json";
+import p_winter_large_01 from "./winter-large-01.json";
+import p_valentines_easy_01 from "./valentines-easy-01.json";
+import p_valentines_easy_02 from "./valentines-easy-02.json";
+import p_valentines_medium_01 from "./valentines-medium-01.json";
+import p_valentines_medium_02 from "./valentines-medium-02.json";
+import p_valentines_hard_01 from "./valentines-hard-01.json";
+import p_valentines_large_01 from "./valentines-large-01.json";
+import p_easter_easy_01 from "./easter-easy-01.json";
+import p_easter_easy_02 from "./easter-easy-02.json";
+import p_easter_medium_01 from "./easter-medium-01.json";
+import p_easter_medium_02 from "./easter-medium-02.json";
+import p_easter_hard_01 from "./easter-hard-01.json";
+import p_easter_large_01 from "./easter-large-01.json";
 import p_animals_easy_01 from "./animals-easy-01.json";
 import p_animals_medium_01 from "./animals-medium-01.json";
 import p_animals_hard_01 from "./animals-hard-01.json";
@@ -57,6 +81,30 @@ export const puzzles = [
   p_christmas_easy_01,
   p_christmas_medium_01,
   p_christmas_hard_01,
+  p_thanksgiving_easy_01,
+  p_thanksgiving_easy_02,
+  p_thanksgiving_medium_01,
+  p_thanksgiving_medium_02,
+  p_thanksgiving_hard_01,
+  p_thanksgiving_large_01,
+  p_winter_easy_01,
+  p_winter_easy_02,
+  p_winter_medium_01,
+  p_winter_medium_02,
+  p_winter_hard_01,
+  p_winter_large_01,
+  p_valentines_easy_01,
+  p_valentines_easy_02,
+  p_valentines_medium_01,
+  p_valentines_medium_02,
+  p_valentines_hard_01,
+  p_valentines_large_01,
+  p_easter_easy_01,
+  p_easter_easy_02,
+  p_easter_medium_01,
+  p_easter_medium_02,
+  p_easter_hard_01,
+  p_easter_large_01,
   p_animals_easy_01,
   p_animals_medium_01,
   p_animals_hard_01,

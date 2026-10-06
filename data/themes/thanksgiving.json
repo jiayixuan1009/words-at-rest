@@ -1,0 +1,19 @@
+{
+  "id": "thanksgiving",
+  "slug": "thanksgiving",
+  "name": "Thanksgiving",
+  "season": "fall",
+  "primaryKeyword": "thanksgiving word search",
+  "description": "Thanksgiving word search puzzles for a quiet November afternoon — free online grids built from harvest tables, kitchen prep, autumn walks and words of gratitude. Written for adults and seniors who want a calm holiday puzzle, not a cartoon activity sheet. Easy, medium and hard grids are available, plus a large-print set with bigger letters. No timer, no account, and no trademarked characters — just everyday English for the season.",
+  "words": [
+    "GRAVY", "MAIZE", "CIDER", "ROLL", "YAMS", "PIE", "FEAST", "AUTUMN", "GUEST", "TABLE",
+    "THANKS", "KIND", "SHARE", "HOME", "FAMILY", "WARMTH", "BLESSING", "PEACE", "HARVEST", "JOY",
+    "STUFFING", "CRANBERRY", "POTATO", "TURKEY", "CARVING", "GIBLET", "CORNBREAD", "CASSEROLE",
+    "LEFTOVER", "PARSLEY", "BUTTER", "OVEN", "BASTE", "PLATTER",
+    "GOURD", "ACORN", "SQUASH", "HAYRIDE", "ORCHARD", "CORNFIELD", "FOLIAGE", "PUMPKIN",
+    "SCARECROW", "BARN", "WAGON", "CORNUCOPIA",
+    "PILGRIM", "MAYFLOWER", "PLYMOUTH", "PARADE", "FOOTBALL", "REUNION", "HOSPITALITY",
+    "GRATITUDE", "ABUNDANCE", "PROVISION", "FEASTING", "GATHERING", "HOMESTEAD", "FIREPLACE",
+    "TABLECLOTH", "CENTERPIECE", "WISHBONE", "LEFTOVERS", "WARM"
+  ]
+}
