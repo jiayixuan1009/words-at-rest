@@ -34,7 +34,7 @@
 - F03：网格单一 Tab 入口、方向键/Home/End移动、Enter/Space选首尾、Escape取消，行列与找到状态朗读；pointercancel只取消选择。
 - F13 / F07：完成态提供同难度下一题；游戏事件仅在接受分析且GA可用时发送。键盘与辅助技术全面验收仍待实机验证。
 
-### 发布 — Package B：节日 Wave 1 + 全部 12 个子主题（2026-10-07，UTC+8，待写入部署版本）
+### 发布 — Package B：节日 Wave 1 + 全部 12 个子主题（2026-10-07，UTC+8）
 - 用户确认方案 B（节日与 12 个子主题同批上线）。分支 `holidays-rebase`（worktree `/workspace/war-holidays`）基于 master `de568d3`。
 - **节日 Wave 1**（`e731b3f` ← `0b358cc`）：Thanksgiving、Winter、Valentine's Day、Easter，各 6 题；`/holidays` 汇总页；页脚入口；难度递进图已从 `design/pending-difficulty/` 接入 `public/images/themes/`（`DIFFICULTY_ART_THEMES`）。封面 / OG 暂借旧图。
 - **子主题 Wave 1**（`f46526d` ← `6ddb57c`）：Sports → golf / baseball / tennis / fishing；Food → baking / desserts / herbs / fruits；Music → instruments / jazz / classical / music-terms；各 6 题。`parentSlug`、父页 Explore 卡片、面包屑 Themes → 父 → 子。封面 / OG 暂用父主题图。
@@ -42,6 +42,9 @@
 - **导航：** 顶部仍 4 项（Daily / Themes / Large Print / How to Play）；Holidays 在页脚。
 - **规模：** 主题 16→**32**，谜题 46→**142**。`llms.txt` / sitemap 同步。
 - 本地验证（`holidays-rebase`）：typecheck、build、check-images（20 主题难度图）、check-jsonld、check-routes、daily:check、daily:test、`npm test`（142 catalog）均通过；预览 sitemap ≈192 `<loc>`。
+- **已部署：** Worker `words-at-rest` 版本 `a4473ae1-345a-4d06-9fe6-d50c330f45bc`，流量 100%；正式域名 `https://wordsatrest.com` 复验：`/holidays` 与 32 个主题 hub、抽样谜题 200；sitemap **191** `<loc>`；`llms.txt` 32 / 142；无效主题与未来 Daily 404+noindex；GA 默认 HTML 无 gtag（同意后才加载）；页脚 Holidays 入口在。
+- 回滚版本：`00f1fac4-8150-443b-a2de-48d0598e124c`（Package B 前的 audit 部署）。
+
 
 - 规划：`design/THEME-EXPANSION-PLAN.md`；出图：`design/HOLIDAY-IMAGE-REQUEST.md`、`design/SUBTHEME-IMAGE-REQUEST.md`。
 
