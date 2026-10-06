@@ -9,7 +9,7 @@
 
 ## [未发布 Unreleased]
 
-## 2026-10-07 — Wave C（节日二波 + 厨房/自然，待部署）
+## 2026-10-07 — Wave C（节日二波 + 厨房/自然，已部署）
 
 ### 新增 — Wave C 批量内容（+15 主题 / +90 谜题）
 - 对齐竞品公开主题目录（purewordsearch / thewordsearch 等 **主题名**），自写词表与网格，不整页照搬。
@@ -19,6 +19,9 @@
 - `/holidays` 扩展为 11 个季节主题；`llms.txt`、主题索引页文案同步。
 - 封面 / OG 暂借邻近主题图（见 `lib/images.ts` Wave C 注释）；难度图回退主题封面。
 - **规模：** 主题 32→**47**，谜题 142→**232**（朝 ~1000 分波推进）。
+- **已部署：** Worker `words-at-rest` 版本 `d609cf06-ecfb-42f4-b4be-cd79afc2296f`；commit `96f2c0e`；正式域名复验 sitemap **297** `<loc>`，`llms.txt` 47/232；15 个新 hub 与抽样谜题 200；GA 默认 HTML 无 gtag；页眉仍 4 项。
+- **下一波建议（Wave D）：** 地理/教育长尾（us-states、world-capitals、human-body、camping、horses）或给偏薄主题 hub 加厚文案 + 专属封面；继续少功能、多内容。
+
 
 ### 发布 — 全站审计优先整改（2026-10-07，UTC+8）
 - [PR #1](https://github.com/jiayixuan1009/words-at-rest/pull/1) 已合并；生产源代码为 master `ebcf70a`，原整改提交 `8f9dfd5`。

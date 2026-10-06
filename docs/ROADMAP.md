@@ -13,7 +13,7 @@
 | Wave 0 | SEO 修复第二批（audit-fix-2）：正文 SSR、作者 / 日期 / Person / sameAs、引用、en-US、移动端提速与折叠 | **进行中**（worktree `war-fix`） | 审计反馈、对话 |
 | Wave 1 · 节日 | Thanksgiving、Winter、Valentine's、Easter + `/holidays` | **已上线**（Package B，`5763f2f` / Worker `a4473ae1`）；封面仍借旧图 | THEME-EXPANSION-PLAN §6 |
 | Wave 1b · 子主题 | Sports：golf / baseball / tennis / fishing；Food：baking / desserts / herbs / fruits；Music：instruments / jazz / classical / music-terms | **已上线**（Package B，与节日同批）；封面借父主题图 | THEME-EXPANSION-PLAN §15 |
-| Wave C（本波）| 节日二波 new-year / st-patricks / mothers-day / fathers-day / independence-day / spring / summer + kitchen/nature vegetables / breakfast / coffee-tea / kitchen / birds / flowers / trees / weather | **本地完成待部署**（`wave-c`，47 / 232） | 竞品主题目录对齐 |
+| Wave C（本波）| 节日二波 new-year / st-patricks / mothers-day / fathers-day / independence-day / spring / summer + kitchen/nature vegetables / breakfast / coffee-tea / kitchen / birds / flowers / trees / weather | **已上线**（`96f2c0e` / Worker `d609cf06`，47 / 232） | 竞品主题目录对齐 |
 | Wave 3 · 流行文化（泛称） | `/pop-culture`：`superheroes`、`sitcoms`，可选 `classic-tv`；"Not affiliated" 免责；不做商标命名页 | 规划 | §7 |
 | Wave 2 · 常青教育 + 打印/长者 | Geography 先做 `us-states` 或 `world-capitals`（待定）；强化 `/large-print` 交叉；可选 `/printables` | 规划（weather/birds 已并入 Wave C） | §8、§9 |
 | Wave 4 | History（`american-history`、`ancient-world`、`presidents`）、更多 Science（`human-body`）、camping / horses 等 | 规划 | §10 |
