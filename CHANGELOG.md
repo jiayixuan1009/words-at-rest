@@ -9,7 +9,7 @@
 
 ## [未发布 Unreleased]
 
-## 2026-10-07 — Wave E（软主题 + 颜色/工具 + 球类 + 历史/科学 + 烹饪/购物，待部署）
+## 2026-10-07 — Wave E（软主题 + 颜色/工具 + 球类 + 历史/科学 + 烹饪/购物，已部署）
 
 ### 新增 — Wave E 批量内容（+15 主题 / +90 谜题）
 - 对齐竞品主题名；自写词表与网格；不做具名 IP / 俱乐部 / 银行品牌。
@@ -17,6 +17,9 @@
 - `parentSlug`：soccer/basketball → sports；reptiles → animals；cooking → food。
 - 封面 / OG 暂借邻近主题图。
 - **规模：** 主题 62→**77**，谜题 322→**412**（朝 ~1000）。
+- **已部署：** Worker `words-at-rest` 版本 `395dc560-0c80-45f1-875f-519f6230715f`；commit `35b33b4`；sitemap ≈**507** `<loc>`；`llms.txt` 77/412。
+- **下一波建议（Wave F）：** countries / continents / cities； knitting / reading / painting； birthday / wedding； chemistry / mythology / volcanoes / forests；或加厚偏薄 hub + 专属封面。
+
 
 ## 2026-10-07 — Wave D（地理/教育 + 户外/交通 + 软主题，已部署）
 

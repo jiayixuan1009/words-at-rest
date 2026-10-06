@@ -13,7 +13,7 @@
 | Wave 0 | SEO 修复第二批（audit-fix-2）：正文 SSR、作者 / 日期 / Person / sameAs、引用、en-US、移动端提速与折叠 | **进行中**（worktree `war-fix`） | 审计反馈、对话 |
 | Wave 1 · 节日 | Thanksgiving、Winter、Valentine's、Easter + `/holidays` | **已上线**（Package B，`5763f2f` / Worker `a4473ae1`）；封面仍借旧图 | THEME-EXPANSION-PLAN §6 |
 | Wave 1b · 子主题 | Sports：golf / baseball / tennis / fishing；Food：baking / desserts / herbs / fruits；Music：instruments / jazz / classical / music-terms | **已上线**（Package B，与节日同批）；封面借父主题图 | THEME-EXPANSION-PLAN §15 |
-| Wave E（本波）| kindness / gratitude / mindfulness / colors / tools / soccer / basketball / american-history / presidents / dinosaurs / insects / reptiles / cooking / shopping / money | **本地完成待部署**（`wave-e`，77 / 412） | 竞品主题目录对齐 |
+| Wave E（本波）| kindness / gratitude / mindfulness / colors / tools / soccer / basketball / american-history / presidents / dinosaurs / insects / reptiles / cooking / shopping / money | **已上线**（`35b33b4` / Worker `395dc560`，77 / 412） | 竞品主题目录对齐 |
 | Wave D | us-states / world-capitals / human-body / camping / horses / cars / trains / airplanes / farming / beach / mountains / lakes / school / jobs / friendship | **已上线**（`c85285b` / Worker `dc80faf2`，62 / 322） | 竞品主题目录对齐 |
 | Wave C | 节日二波 new-year / st-patricks / mothers-day / fathers-day / independence-day / spring / summer + kitchen/nature vegetables / breakfast / coffee-tea / kitchen / birds / flowers / trees / weather | **已上线**（`96f2c0e` / Worker `d609cf06`，47 / 232） | 竞品主题目录对齐 |
 | Wave 3 · 流行文化（泛称） | `/pop-culture`：`superheroes`、`sitcoms`，可选 `classic-tv`；"Not affiliated" 免责；不做商标命名页 | 规划 | §7 |
