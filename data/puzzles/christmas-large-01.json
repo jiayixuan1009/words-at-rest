@@ -1,0 +1,173 @@
+{
+  "id": "christmas-large-01",
+  "slug": "christmas-large-01",
+  "themeId": "christmas",
+  "title": "Large Print Christmas: Soft Pine",
+  "primaryKeyword": "large print christmas word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "CAROL",
+    "COCOA",
+    "FIRE",
+    "GIFT",
+    "HOME",
+    "PINE",
+    "SOCK",
+    "STAR"
+  ],
+  "grid": [
+    [
+      "G",
+      "C",
+      "U",
+      "F",
+      "W",
+      "L",
+      "Z",
+      "J",
+      "V"
+    ],
+    [
+      "I",
+      "O",
+      "Q",
+      "V",
+      "S",
+      "T",
+      "A",
+      "R",
+      "A"
+    ],
+    [
+      "F",
+      "C",
+      "X",
+      "R",
+      "M",
+      "X",
+      "C",
+      "X",
+      "G"
+    ],
+    [
+      "T",
+      "O",
+      "H",
+      "C",
+      "I",
+      "U",
+      "F",
+      "F",
+      "T"
+    ],
+    [
+      "K",
+      "A",
+      "P",
+      "I",
+      "N",
+      "E",
+      "I",
+      "B",
+      "J"
+    ],
+    [
+      "Y",
+      "M",
+      "J",
+      "Q",
+      "N",
+      "O",
+      "R",
+      "D",
+      "W"
+    ],
+    [
+      "K",
+      "H",
+      "O",
+      "M",
+      "E",
+      "Q",
+      "E",
+      "N",
+      "Z"
+    ],
+    [
+      "I",
+      "J",
+      "N",
+      "C",
+      "A",
+      "R",
+      "O",
+      "L",
+      "D"
+    ],
+    [
+      "T",
+      "P",
+      "B",
+      "W",
+      "E",
+      "S",
+      "O",
+      "C",
+      "K"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "COCOA",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "CAROL",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "PINE",
+      "row": 4,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "STAR",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "GIFT",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "HOME",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SOCK",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "FIRE",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 1234
+}

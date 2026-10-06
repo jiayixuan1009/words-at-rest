@@ -1,0 +1,208 @@
+{
+  "id": "coffee-tea-easy-01",
+  "slug": "coffee-tea-easy-01",
+  "themeId": "coffee-tea",
+  "title": "Coffee & Tea: Quiet Cup",
+  "primaryKeyword": "coffee and tea word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BEAN",
+    "BREW",
+    "COFFEE",
+    "CUP",
+    "HONEY",
+    "LEAF",
+    "MILK",
+    "MUG",
+    "STEAM",
+    "TEA"
+  ],
+  "grid": [
+    [
+      "E",
+      "A",
+      "I",
+      "S",
+      "O",
+      "C",
+      "V",
+      "X",
+      "Q",
+      "N"
+    ],
+    [
+      "C",
+      "O",
+      "F",
+      "F",
+      "E",
+      "E",
+      "M",
+      "V",
+      "T",
+      "T"
+    ],
+    [
+      "T",
+      "E",
+      "A",
+      "T",
+      "H",
+      "O",
+      "N",
+      "E",
+      "Y",
+      "B"
+    ],
+    [
+      "B",
+      "M",
+      "U",
+      "G",
+      "D",
+      "M",
+      "D",
+      "Q",
+      "O",
+      "S"
+    ],
+    [
+      "B",
+      "I",
+      "D",
+      "K",
+      "M",
+      "U",
+      "Q",
+      "P",
+      "V",
+      "T"
+    ],
+    [
+      "T",
+      "X",
+      "B",
+      "J",
+      "I",
+      "Q",
+      "W",
+      "Y",
+      "E",
+      "E"
+    ],
+    [
+      "E",
+      "S",
+      "R",
+      "U",
+      "L",
+      "O",
+      "L",
+      "X",
+      "F",
+      "A"
+    ],
+    [
+      "K",
+      "Y",
+      "E",
+      "P",
+      "K",
+      "B",
+      "E",
+      "A",
+      "N",
+      "M"
+    ],
+    [
+      "K",
+      "C",
+      "W",
+      "Y",
+      "S",
+      "L",
+      "E",
+      "A",
+      "F",
+      "D"
+    ],
+    [
+      "V",
+      "C",
+      "U",
+      "P",
+      "W",
+      "P",
+      "W",
+      "Z",
+      "Z",
+      "P"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "COFFEE",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "STEAM",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "HONEY",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BREW",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "BEAN",
+      "row": 7,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "LEAF",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "MILK",
+      "row": 4,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "TEA",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "MUG",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CUP",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7131
+}

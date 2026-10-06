@@ -1,0 +1,208 @@
+{
+  "id": "valentines-easy-02",
+  "slug": "valentines-easy-02",
+  "themeId": "valentines",
+  "title": "Valentine's: Kind Gestures",
+  "primaryKeyword": "valentine word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CARD",
+    "FRIEND",
+    "GIFT",
+    "HUG",
+    "KINDNESS",
+    "NOTE",
+    "POEM",
+    "ROSE",
+    "TEA",
+    "WARMTH"
+  ],
+  "grid": [
+    [
+      "W",
+      "L",
+      "W",
+      "Y",
+      "W",
+      "Z",
+      "Z",
+      "F",
+      "C",
+      "L"
+    ],
+    [
+      "P",
+      "T",
+      "O",
+      "A",
+      "Q",
+      "N",
+      "F",
+      "J",
+      "G",
+      "M"
+    ],
+    [
+      "R",
+      "T",
+      "Y",
+      "D",
+      "Z",
+      "B",
+      "Z",
+      "A",
+      "I",
+      "H"
+    ],
+    [
+      "N",
+      "E",
+      "E",
+      "Z",
+      "P",
+      "O",
+      "E",
+      "M",
+      "F",
+      "U"
+    ],
+    [
+      "O",
+      "A",
+      "D",
+      "N",
+      "O",
+      "T",
+      "E",
+      "J",
+      "T",
+      "G"
+    ],
+    [
+      "F",
+      "R",
+      "I",
+      "E",
+      "N",
+      "D",
+      "A",
+      "U",
+      "H",
+      "E"
+    ],
+    [
+      "S",
+      "K",
+      "I",
+      "N",
+      "D",
+      "N",
+      "E",
+      "S",
+      "S",
+      "Q"
+    ],
+    [
+      "W",
+      "W",
+      "A",
+      "R",
+      "M",
+      "T",
+      "H",
+      "W",
+      "K",
+      "O"
+    ],
+    [
+      "H",
+      "Y",
+      "X",
+      "A",
+      "R",
+      "R",
+      "L",
+      "Y",
+      "R",
+      "E"
+    ],
+    [
+      "L",
+      "C",
+      "A",
+      "R",
+      "D",
+      "S",
+      "R",
+      "O",
+      "S",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "KINDNESS",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "FRIEND",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "WARMTH",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "POEM",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "GIFT",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "NOTE",
+      "row": 4,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "ROSE",
+      "row": 9,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "CARD",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "HUG",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "TEA",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2142
+}

@@ -1,0 +1,284 @@
+{
+  "id": "ocean-medium-02",
+  "slug": "ocean-medium-02",
+  "themeId": "ocean",
+  "title": "Ocean: Harbor Light",
+  "primaryKeyword": "ocean word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BREAKER",
+    "CURRENT",
+    "DRIFT",
+    "ESTUARY",
+    "HARBOR",
+    "INLET",
+    "KELP",
+    "LAGOON",
+    "LIGHTHOUSE",
+    "SEABIRD",
+    "SEABREEZE",
+    "SHIPWRECK",
+    "SHORE",
+    "TIDAL"
+  ],
+  "grid": [
+    [
+      "K",
+      "E",
+      "L",
+      "P",
+      "C",
+      "U",
+      "R",
+      "R",
+      "E",
+      "N",
+      "T",
+      "W"
+    ],
+    [
+      "S",
+      "B",
+      "U",
+      "H",
+      "R",
+      "V",
+      "N",
+      "S",
+      "H",
+      "O",
+      "R",
+      "E"
+    ],
+    [
+      "H",
+      "U",
+      "S",
+      "Z",
+      "V",
+      "W",
+      "L",
+      "Q",
+      "P",
+      "D",
+      "O",
+      "Q"
+    ],
+    [
+      "I",
+      "W",
+      "E",
+      "S",
+      "H",
+      "O",
+      "I",
+      "L",
+      "E",
+      "R",
+      "H",
+      "W"
+    ],
+    [
+      "P",
+      "N",
+      "A",
+      "E",
+      "A",
+      "W",
+      "G",
+      "A",
+      "S",
+      "I",
+      "B",
+      "B"
+    ],
+    [
+      "W",
+      "M",
+      "B",
+      "A",
+      "R",
+      "F",
+      "H",
+      "G",
+      "T",
+      "F",
+      "I",
+      "R"
+    ],
+    [
+      "R",
+      "U",
+      "R",
+      "B",
+      "B",
+      "T",
+      "T",
+      "O",
+      "U",
+      "T",
+      "N",
+      "E"
+    ],
+    [
+      "E",
+      "G",
+      "E",
+      "I",
+      "O",
+      "I",
+      "H",
+      "O",
+      "A",
+      "M",
+      "L",
+      "A"
+    ],
+    [
+      "C",
+      "P",
+      "E",
+      "R",
+      "R",
+      "D",
+      "O",
+      "N",
+      "R",
+      "I",
+      "E",
+      "K"
+    ],
+    [
+      "K",
+      "X",
+      "Z",
+      "D",
+      "P",
+      "A",
+      "U",
+      "L",
+      "Y",
+      "R",
+      "T",
+      "E"
+    ],
+    [
+      "X",
+      "T",
+      "E",
+      "N",
+      "J",
+      "L",
+      "S",
+      "W",
+      "L",
+      "G",
+      "S",
+      "R"
+    ],
+    [
+      "S",
+      "T",
+      "V",
+      "O",
+      "V",
+      "G",
+      "E",
+      "F",
+      "H",
+      "V",
+      "Y",
+      "B"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "LIGHTHOUSE",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "SEABREEZE",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "SHIPWRECK",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "ESTUARY",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "CURRENT",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BREAKER",
+      "row": 4,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "SEABIRD",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "HARBOR",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "LAGOON",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "INLET",
+      "row": 5,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "DRIFT",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "TIDAL",
+      "row": 6,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "SHORE",
+      "row": 1,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "KELP",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2412
+}

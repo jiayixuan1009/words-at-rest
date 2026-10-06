@@ -1,0 +1,208 @@
+{
+  "id": "forests-easy-02",
+  "slug": "forests-easy-02",
+  "themeId": "forests",
+  "title": "Forests: Quiet Moss",
+  "primaryKeyword": "forests word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "DAWN",
+    "DEW",
+    "FLOOR",
+    "LOG",
+    "MIST",
+    "ROOT",
+    "SHADE",
+    "SOIL",
+    "TRAIL",
+    "WILD"
+  ],
+  "grid": [
+    [
+      "D",
+      "M",
+      "Q",
+      "Y",
+      "O",
+      "B",
+      "G",
+      "F",
+      "C",
+      "R"
+    ],
+    [
+      "E",
+      "S",
+      "D",
+      "O",
+      "M",
+      "L",
+      "R",
+      "L",
+      "E",
+      "K"
+    ],
+    [
+      "W",
+      "K",
+      "X",
+      "A",
+      "I",
+      "W",
+      "C",
+      "O",
+      "Y",
+      "L"
+    ],
+    [
+      "S",
+      "H",
+      "A",
+      "D",
+      "E",
+      "O",
+      "Z",
+      "O",
+      "U",
+      "R"
+    ],
+    [
+      "T",
+      "W",
+      "I",
+      "L",
+      "D",
+      "O",
+      "Y",
+      "R",
+      "D",
+      "U"
+    ],
+    [
+      "V",
+      "Q",
+      "T",
+      "R",
+      "A",
+      "I",
+      "L",
+      "N",
+      "P",
+      "V"
+    ],
+    [
+      "F",
+      "Q",
+      "N",
+      "V",
+      "R",
+      "D",
+      "A",
+      "W",
+      "N",
+      "N"
+    ],
+    [
+      "M",
+      "I",
+      "S",
+      "T",
+      "D",
+      "S",
+      "O",
+      "I",
+      "L",
+      "J"
+    ],
+    [
+      "R",
+      "O",
+      "O",
+      "T",
+      "P",
+      "E",
+      "O",
+      "G",
+      "Y",
+      "Y"
+    ],
+    [
+      "A",
+      "B",
+      "C",
+      "W",
+      "L",
+      "O",
+      "G",
+      "A",
+      "J",
+      "L"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FLOOR",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "TRAIL",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SHADE",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "ROOT",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SOIL",
+      "row": 7,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "MIST",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "DAWN",
+      "row": 6,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "WILD",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "DEW",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "LOG",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8522
+}

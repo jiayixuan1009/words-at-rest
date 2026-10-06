@@ -1,0 +1,173 @@
+{
+  "id": "forests-large-01",
+  "slug": "forests-large-01",
+  "themeId": "forests",
+  "title": "Large Print Forests: Soft Woods",
+  "primaryKeyword": "large print forests word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "DEER",
+    "FERN",
+    "LEAF",
+    "MOSS",
+    "OWL",
+    "PATH",
+    "SHADE",
+    "WOODS"
+  ],
+  "grid": [
+    [
+      "F",
+      "J",
+      "O",
+      "P",
+      "A",
+      "T",
+      "H",
+      "P",
+      "Q"
+    ],
+    [
+      "E",
+      "P",
+      "F",
+      "O",
+      "D",
+      "E",
+      "E",
+      "R",
+      "I"
+    ],
+    [
+      "R",
+      "P",
+      "B",
+      "W",
+      "O",
+      "O",
+      "D",
+      "S",
+      "S"
+    ],
+    [
+      "N",
+      "A",
+      "G",
+      "I",
+      "D",
+      "Q",
+      "O",
+      "L",
+      "H"
+    ],
+    [
+      "K",
+      "V",
+      "C",
+      "U",
+      "L",
+      "D",
+      "W",
+      "E",
+      "A"
+    ],
+    [
+      "R",
+      "R",
+      "D",
+      "I",
+      "I",
+      "D",
+      "L",
+      "A",
+      "D"
+    ],
+    [
+      "Q",
+      "M",
+      "O",
+      "S",
+      "S",
+      "Y",
+      "Z",
+      "F",
+      "E"
+    ],
+    [
+      "U",
+      "R",
+      "F",
+      "L",
+      "T",
+      "I",
+      "M",
+      "Z",
+      "U"
+    ],
+    [
+      "U",
+      "W",
+      "W",
+      "L",
+      "S",
+      "E",
+      "N",
+      "C",
+      "Q"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "WOODS",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SHADE",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "MOSS",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "FERN",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "LEAF",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "PATH",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "DEER",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "OWL",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8526
+}

@@ -1,0 +1,284 @@
+{
+  "id": "rivers-medium-02",
+  "slug": "rivers-medium-02",
+  "themeId": "rivers",
+  "title": "Rivers: Valley Flow",
+  "primaryKeyword": "rivers word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CANYON",
+    "CHANNEL",
+    "DROUGHT",
+    "ESTUARY",
+    "GORGE",
+    "MARSH",
+    "MELT",
+    "QUIET",
+    "SEDIMENT",
+    "SNOW",
+    "SWAMP",
+    "TIDE",
+    "VALLEY",
+    "WETLAND"
+  ],
+  "grid": [
+    [
+      "K",
+      "I",
+      "E",
+      "Q",
+      "U",
+      "I",
+      "E",
+      "T",
+      "Q",
+      "Q",
+      "P",
+      "M"
+    ],
+    [
+      "I",
+      "A",
+      "R",
+      "A",
+      "N",
+      "N",
+      "R",
+      "C",
+      "L",
+      "M",
+      "R",
+      "D"
+    ],
+    [
+      "W",
+      "E",
+      "T",
+      "L",
+      "A",
+      "N",
+      "D",
+      "E",
+      "A",
+      "E",
+      "J",
+      "R"
+    ],
+    [
+      "I",
+      "P",
+      "I",
+      "G",
+      "W",
+      "W",
+      "N",
+      "W",
+      "E",
+      "E",
+      "B",
+      "O"
+    ],
+    [
+      "L",
+      "L",
+      "P",
+      "T",
+      "O",
+      "N",
+      "S",
+      "M",
+      "M",
+      "S",
+      "C",
+      "U"
+    ],
+    [
+      "O",
+      "K",
+      "F",
+      "N",
+      "A",
+      "N",
+      "E",
+      "K",
+      "E",
+      "T",
+      "A",
+      "G"
+    ],
+    [
+      "X",
+      "V",
+      "S",
+      "H",
+      "U",
+      "I",
+      "D",
+      "D",
+      "L",
+      "U",
+      "N",
+      "H"
+    ],
+    [
+      "F",
+      "A",
+      "C",
+      "V",
+      "A",
+      "R",
+      "I",
+      "M",
+      "T",
+      "A",
+      "Y",
+      "T"
+    ],
+    [
+      "G",
+      "L",
+      "X",
+      "A",
+      "G",
+      "T",
+      "M",
+      "A",
+      "A",
+      "R",
+      "O",
+      "D"
+    ],
+    [
+      "K",
+      "L",
+      "G",
+      "O",
+      "R",
+      "G",
+      "E",
+      "R",
+      "Q",
+      "Y",
+      "N",
+      "T"
+    ],
+    [
+      "M",
+      "E",
+      "T",
+      "A",
+      "Z",
+      "P",
+      "N",
+      "S",
+      "R",
+      "W",
+      "A",
+      "U"
+    ],
+    [
+      "P",
+      "Y",
+      "W",
+      "Y",
+      "Z",
+      "O",
+      "T",
+      "H",
+      "Z",
+      "Z",
+      "L",
+      "U"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SEDIMENT",
+      "row": 4,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "CHANNEL",
+      "row": 7,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "DROUGHT",
+      "row": 1,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "ESTUARY",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "WETLAND",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "VALLEY",
+      "row": 6,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "CANYON",
+      "row": 4,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "GORGE",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "MARSH",
+      "row": 7,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SWAMP",
+      "row": 4,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "QUIET",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "TIDE",
+      "row": 8,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "SNOW",
+      "row": 6,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "MELT",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8534
+}

@@ -1,0 +1,284 @@
+{
+  "id": "beach-medium-01",
+  "slug": "beach-medium-01",
+  "themeId": "beach",
+  "title": "Beach: Sand Castle",
+  "primaryKeyword": "beach word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BLANKET",
+    "BOARD",
+    "BUCKET",
+    "CASTLE",
+    "CLIFF",
+    "COOLER",
+    "DRIFT",
+    "DUNE",
+    "PEBBLE",
+    "PICNIC",
+    "SEAWEED",
+    "SPADE",
+    "SPLASH",
+    "UMBRELLA"
+  ],
+  "grid": [
+    [
+      "V",
+      "E",
+      "Y",
+      "D",
+      "R",
+      "H",
+      "N",
+      "C",
+      "M",
+      "Z",
+      "U",
+      "N"
+    ],
+    [
+      "E",
+      "F",
+      "U",
+      "F",
+      "V",
+      "I",
+      "S",
+      "P",
+      "A",
+      "D",
+      "E",
+      "B"
+    ],
+    [
+      "P",
+      "I",
+      "U",
+      "U",
+      "G",
+      "H",
+      "B",
+      "O",
+      "A",
+      "R",
+      "D",
+      "G"
+    ],
+    [
+      "A",
+      "I",
+      "S",
+      "M",
+      "M",
+      "D",
+      "R",
+      "I",
+      "F",
+      "T",
+      "T",
+      "Z"
+    ],
+    [
+      "C",
+      "N",
+      "C",
+      "P",
+      "B",
+      "L",
+      "A",
+      "N",
+      "K",
+      "E",
+      "T",
+      "Y"
+    ],
+    [
+      "K",
+      "A",
+      "P",
+      "N",
+      "L",
+      "R",
+      "O",
+      "A",
+      "E",
+      "K",
+      "B",
+      "B"
+    ],
+    [
+      "D",
+      "G",
+      "S",
+      "E",
+      "I",
+      "A",
+      "E",
+      "N",
+      "H",
+      "S",
+      "F",
+      "U"
+    ],
+    [
+      "G",
+      "U",
+      "V",
+      "T",
+      "B",
+      "C",
+      "S",
+      "L",
+      "F",
+      "O",
+      "T",
+      "C"
+    ],
+    [
+      "I",
+      "V",
+      "N",
+      "T",
+      "L",
+      "B",
+      "J",
+      "H",
+      "L",
+      "L",
+      "F",
+      "K"
+    ],
+    [
+      "M",
+      "A",
+      "R",
+      "E",
+      "I",
+      "E",
+      "L",
+      "A",
+      "Y",
+      "A",
+      "Z",
+      "E"
+    ],
+    [
+      "U",
+      "C",
+      "O",
+      "O",
+      "L",
+      "E",
+      "R",
+      "E",
+      "J",
+      "F",
+      "O",
+      "T"
+    ],
+    [
+      "C",
+      "L",
+      "I",
+      "F",
+      "F",
+      "S",
+      "E",
+      "A",
+      "W",
+      "E",
+      "E",
+      "D"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "UMBRELLA",
+      "row": 2,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "BLANKET",
+      "row": 4,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SEAWEED",
+      "row": 11,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "PICNIC",
+      "row": 2,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "COOLER",
+      "row": 10,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SPLASH",
+      "row": 3,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "CASTLE",
+      "row": 4,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "BUCKET",
+      "row": 5,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "PEBBLE",
+      "row": 5,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "BOARD",
+      "row": 2,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "SPADE",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "DRIFT",
+      "row": 3,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "CLIFF",
+      "row": 11,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "DUNE",
+      "row": 6,
+      "col": 0,
+      "direction": "SE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8103
+}

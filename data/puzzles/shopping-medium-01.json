@@ -1,0 +1,284 @@
+{
+  "id": "shopping-medium-01",
+  "slug": "shopping-medium-01",
+  "themeId": "shopping",
+  "title": "Shopping: Errand Day",
+  "primaryKeyword": "shopping word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BROWSE",
+    "CHANGE",
+    "CHECKOUT",
+    "CHOOSE",
+    "CLERK",
+    "COUNTER",
+    "COUPON",
+    "EXCHANGE",
+    "MALL",
+    "MARKET",
+    "PURCHASE",
+    "QUEUE",
+    "RECEIPT",
+    "RETURN"
+  ],
+  "grid": [
+    [
+      "M",
+      "J",
+      "C",
+      "J",
+      "N",
+      "C",
+      "H",
+      "A",
+      "N",
+      "G",
+      "E",
+      "E"
+    ],
+    [
+      "A",
+      "E",
+      "O",
+      "Q",
+      "U",
+      "E",
+      "U",
+      "E",
+      "K",
+      "B",
+      "N",
+      "C"
+    ],
+    [
+      "R",
+      "X",
+      "U",
+      "C",
+      "O",
+      "Z",
+      "Z",
+      "R",
+      "T",
+      "R",
+      "S",
+      "P"
+    ],
+    [
+      "K",
+      "C",
+      "P",
+      "H",
+      "F",
+      "R",
+      "E",
+      "P",
+      "X",
+      "O",
+      "L",
+      "U"
+    ],
+    [
+      "E",
+      "H",
+      "O",
+      "O",
+      "D",
+      "L",
+      "I",
+      "T",
+      "I",
+      "W",
+      "V",
+      "R"
+    ],
+    [
+      "T",
+      "A",
+      "N",
+      "O",
+      "C",
+      "E",
+      "U",
+      "O",
+      "Z",
+      "S",
+      "U",
+      "C"
+    ],
+    [
+      "M",
+      "N",
+      "M",
+      "S",
+      "C",
+      "O",
+      "U",
+      "N",
+      "T",
+      "E",
+      "R",
+      "H"
+    ],
+    [
+      "A",
+      "G",
+      "L",
+      "E",
+      "K",
+      "R",
+      "E",
+      "T",
+      "U",
+      "R",
+      "N",
+      "A"
+    ],
+    [
+      "L",
+      "E",
+      "R",
+      "C",
+      "N",
+      "B",
+      "A",
+      "M",
+      "J",
+      "X",
+      "X",
+      "S"
+    ],
+    [
+      "L",
+      "K",
+      "E",
+      "M",
+      "V",
+      "S",
+      "D",
+      "J",
+      "I",
+      "A",
+      "O",
+      "E"
+    ],
+    [
+      "M",
+      "H",
+      "B",
+      "P",
+      "N",
+      "X",
+      "L",
+      "P",
+      "A",
+      "N",
+      "L",
+      "W"
+    ],
+    [
+      "C",
+      "C",
+      "Q",
+      "W",
+      "U",
+      "N",
+      "L",
+      "I",
+      "E",
+      "T",
+      "W",
+      "G"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CHECKOUT",
+      "row": 11,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "PURCHASE",
+      "row": 2,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "EXCHANGE",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "RECEIPT",
+      "row": 8,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "COUNTER",
+      "row": 6,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "MARKET",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "COUPON",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "CHANGE",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "BROWSE",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "CHOOSE",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "RETURN",
+      "row": 7,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "CLERK",
+      "row": 5,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "QUEUE",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "MALL",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8343
+}

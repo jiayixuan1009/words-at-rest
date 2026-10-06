@@ -1,0 +1,284 @@
+{
+  "id": "reptiles-medium-02",
+  "slug": "reptiles-medium-02",
+  "themeId": "reptiles",
+  "title": "Reptiles: River Bank",
+  "primaryKeyword": "reptiles word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BANK",
+    "FANG",
+    "FOREST",
+    "GRASS",
+    "HABITAT",
+    "HUNT",
+    "LOG",
+    "MOLT",
+    "PREY",
+    "SHED",
+    "SLITHER",
+    "STONE",
+    "VENOM",
+    "WILD"
+  ],
+  "grid": [
+    [
+      "S",
+      "L",
+      "I",
+      "T",
+      "H",
+      "E",
+      "R",
+      "Q",
+      "U",
+      "B",
+      "K",
+      "L"
+    ],
+    [
+      "Z",
+      "O",
+      "Z",
+      "L",
+      "C",
+      "S",
+      "X",
+      "D",
+      "N",
+      "I",
+      "U",
+      "Q"
+    ],
+    [
+      "H",
+      "F",
+      "V",
+      "Q",
+      "F",
+      "A",
+      "N",
+      "G",
+      "G",
+      "N",
+      "Z",
+      "N"
+    ],
+    [
+      "M",
+      "O",
+      "E",
+      "P",
+      "B",
+      "Q",
+      "C",
+      "L",
+      "H",
+      "A",
+      "H",
+      "V"
+    ],
+    [
+      "O",
+      "R",
+      "L",
+      "R",
+      "E",
+      "A",
+      "Q",
+      "O",
+      "A",
+      "D",
+      "N",
+      "X"
+    ],
+    [
+      "L",
+      "E",
+      "Z",
+      "E",
+      "L",
+      "P",
+      "N",
+      "G",
+      "B",
+      "H",
+      "S",
+      "H"
+    ],
+    [
+      "T",
+      "S",
+      "Q",
+      "Y",
+      "Q",
+      "N",
+      "V",
+      "K",
+      "I",
+      "I",
+      "H",
+      "U"
+    ],
+    [
+      "R",
+      "T",
+      "G",
+      "S",
+      "D",
+      "V",
+      "I",
+      "C",
+      "T",
+      "A",
+      "E",
+      "N"
+    ],
+    [
+      "Q",
+      "W",
+      "C",
+      "Z",
+      "G",
+      "E",
+      "I",
+      "W",
+      "A",
+      "R",
+      "D",
+      "T"
+    ],
+    [
+      "R",
+      "I",
+      "Z",
+      "N",
+      "A",
+      "N",
+      "C",
+      "S",
+      "T",
+      "O",
+      "N",
+      "E"
+    ],
+    [
+      "D",
+      "L",
+      "C",
+      "O",
+      "S",
+      "O",
+      "V",
+      "M",
+      "E",
+      "Y",
+      "D",
+      "I"
+    ],
+    [
+      "R",
+      "D",
+      "Y",
+      "P",
+      "S",
+      "M",
+      "Z",
+      "G",
+      "R",
+      "A",
+      "S",
+      "S"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SLITHER",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "HABITAT",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "FOREST",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "VENOM",
+      "row": 7,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "GRASS",
+      "row": 11,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "STONE",
+      "row": 9,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "SHED",
+      "row": 5,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "MOLT",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "HUNT",
+      "row": 5,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "PREY",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "FANG",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "WILD",
+      "row": 8,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "BANK",
+      "row": 3,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "LOG",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8324
+}

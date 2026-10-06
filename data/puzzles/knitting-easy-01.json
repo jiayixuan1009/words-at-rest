@@ -1,0 +1,208 @@
+{
+  "id": "knitting-easy-01",
+  "slug": "knitting-easy-01",
+  "themeId": "knitting",
+  "title": "Knitting: Yarn Evening",
+  "primaryKeyword": "knitting word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BALL",
+    "HAT",
+    "KNIT",
+    "LOOP",
+    "PURL",
+    "ROW",
+    "SOCK",
+    "TEA",
+    "WOOL",
+    "YARN"
+  ],
+  "grid": [
+    [
+      "S",
+      "E",
+      "H",
+      "T",
+      "E",
+      "A",
+      "M",
+      "K",
+      "A",
+      "Q"
+    ],
+    [
+      "P",
+      "S",
+      "R",
+      "M",
+      "H",
+      "B",
+      "O",
+      "Y",
+      "F",
+      "R"
+    ],
+    [
+      "R",
+      "W",
+      "O",
+      "O",
+      "L",
+      "P",
+      "P",
+      "H",
+      "H",
+      "E"
+    ],
+    [
+      "T",
+      "S",
+      "W",
+      "U",
+      "J",
+      "U",
+      "Y",
+      "M",
+      "D",
+      "T"
+    ],
+    [
+      "V",
+      "H",
+      "R",
+      "J",
+      "U",
+      "R",
+      "A",
+      "N",
+      "Y",
+      "H"
+    ],
+    [
+      "G",
+      "A",
+      "O",
+      "Y",
+      "H",
+      "L",
+      "W",
+      "M",
+      "A",
+      "H"
+    ],
+    [
+      "X",
+      "T",
+      "Y",
+      "K",
+      "N",
+      "I",
+      "T",
+      "J",
+      "R",
+      "U"
+    ],
+    [
+      "Z",
+      "O",
+      "L",
+      "U",
+      "V",
+      "W",
+      "I",
+      "M",
+      "N",
+      "A"
+    ],
+    [
+      "E",
+      "M",
+      "M",
+      "B",
+      "B",
+      "A",
+      "L",
+      "L",
+      "C",
+      "S"
+    ],
+    [
+      "L",
+      "Q",
+      "L",
+      "O",
+      "O",
+      "P",
+      "S",
+      "O",
+      "C",
+      "K"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "KNIT",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "PURL",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "YARN",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "WOOL",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "LOOP",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SOCK",
+      "row": 9,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "BALL",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "ROW",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "HAT",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "TEA",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8441
+}

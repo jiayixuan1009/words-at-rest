@@ -1,0 +1,284 @@
+{
+  "id": "knitting-medium-01",
+  "slug": "knitting-medium-01",
+  "themeId": "knitting",
+  "title": "Knitting: Scarf Row",
+  "primaryKeyword": "knitting word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BIND",
+    "BLANKET",
+    "BLOCK",
+    "COTTON",
+    "FIBER",
+    "GARTER",
+    "GAUGE",
+    "MITTEN",
+    "PATTERN",
+    "SEAM",
+    "SILK",
+    "SKEIN",
+    "SWEATER",
+    "TENSION"
+  ],
+  "grid": [
+    [
+      "D",
+      "U",
+      "G",
+      "Y",
+      "V",
+      "N",
+      "D",
+      "L",
+      "J",
+      "N",
+      "P",
+      "F"
+    ],
+    [
+      "X",
+      "H",
+      "A",
+      "J",
+      "M",
+      "N",
+      "S",
+      "N",
+      "R",
+      "K",
+      "A",
+      "I"
+    ],
+    [
+      "Y",
+      "J",
+      "U",
+      "G",
+      "I",
+      "W",
+      "E",
+      "E",
+      "L",
+      "N",
+      "T",
+      "B"
+    ],
+    [
+      "D",
+      "T",
+      "G",
+      "B",
+      "L",
+      "T",
+      "T",
+      "I",
+      "I",
+      "N",
+      "T",
+      "E"
+    ],
+    [
+      "I",
+      "E",
+      "E",
+      "X",
+      "T",
+      "A",
+      "S",
+      "E",
+      "O",
+      "I",
+      "E",
+      "R"
+    ],
+    [
+      "W",
+      "N",
+      "S",
+      "I",
+      "E",
+      "U",
+      "K",
+      "T",
+      "B",
+      "Q",
+      "R",
+      "L"
+    ],
+    [
+      "W",
+      "S",
+      "M",
+      "W",
+      "H",
+      "S",
+      "T",
+      "L",
+      "L",
+      "G",
+      "N",
+      "C"
+    ],
+    [
+      "Z",
+      "I",
+      "S",
+      "H",
+      "A",
+      "O",
+      "I",
+      "B",
+      "A",
+      "W",
+      "G",
+      "U"
+    ],
+    [
+      "I",
+      "O",
+      "O",
+      "L",
+      "C",
+      "P",
+      "Y",
+      "M",
+      "N",
+      "K",
+      "O",
+      "S"
+    ],
+    [
+      "Z",
+      "N",
+      "P",
+      "B",
+      "L",
+      "O",
+      "C",
+      "K",
+      "K",
+      "W",
+      "U",
+      "E"
+    ],
+    [
+      "G",
+      "A",
+      "R",
+      "T",
+      "E",
+      "R",
+      "I",
+      "N",
+      "E",
+      "R",
+      "P",
+      "A"
+    ],
+    [
+      "V",
+      "R",
+      "M",
+      "I",
+      "R",
+      "U",
+      "B",
+      "N",
+      "T",
+      "B",
+      "M",
+      "M"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SWEATER",
+      "row": 7,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "BLANKET",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "PATTERN",
+      "row": 0,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "TENSION",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "GARTER",
+      "row": 10,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "MITTEN",
+      "row": 6,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "COTTON",
+      "row": 8,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "GAUGE",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "SKEIN",
+      "row": 6,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "FIBER",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "BLOCK",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SILK",
+      "row": 4,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "BIND",
+      "row": 3,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "SEAM",
+      "row": 8,
+      "col": 11,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8443
+}

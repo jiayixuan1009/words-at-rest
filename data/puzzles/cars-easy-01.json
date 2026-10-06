@@ -1,0 +1,208 @@
+{
+  "id": "cars-easy-01",
+  "slug": "cars-easy-01",
+  "themeId": "cars",
+  "title": "Cars: Open Road",
+  "primaryKeyword": "cars word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "AUTO",
+    "BELT",
+    "CAR",
+    "DOOR",
+    "PARK",
+    "RIM",
+    "ROAD",
+    "SEAT",
+    "TIRE",
+    "WHEEL"
+  ],
+  "grid": [
+    [
+      "D",
+      "D",
+      "Z",
+      "A",
+      "U",
+      "T",
+      "O",
+      "R",
+      "S",
+      "W"
+    ],
+    [
+      "J",
+      "H",
+      "U",
+      "Q",
+      "Z",
+      "U",
+      "S",
+      "X",
+      "E",
+      "E"
+    ],
+    [
+      "I",
+      "M",
+      "R",
+      "O",
+      "B",
+      "Q",
+      "Z",
+      "D",
+      "A",
+      "E"
+    ],
+    [
+      "W",
+      "N",
+      "P",
+      "K",
+      "E",
+      "O",
+      "N",
+      "O",
+      "T",
+      "O"
+    ],
+    [
+      "H",
+      "J",
+      "T",
+      "P",
+      "L",
+      "D",
+      "X",
+      "O",
+      "E",
+      "C"
+    ],
+    [
+      "E",
+      "G",
+      "I",
+      "A",
+      "T",
+      "G",
+      "A",
+      "R",
+      "Z",
+      "A"
+    ],
+    [
+      "E",
+      "J",
+      "R",
+      "R",
+      "X",
+      "I",
+      "M",
+      "X",
+      "Q",
+      "R"
+    ],
+    [
+      "L",
+      "X",
+      "E",
+      "K",
+      "M",
+      "B",
+      "W",
+      "Y",
+      "A",
+      "J"
+    ],
+    [
+      "N",
+      "Q",
+      "V",
+      "R",
+      "I",
+      "M",
+      "J",
+      "W",
+      "B",
+      "D"
+    ],
+    [
+      "P",
+      "S",
+      "R",
+      "O",
+      "A",
+      "D",
+      "P",
+      "J",
+      "W",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "WHEEL",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "AUTO",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "TIRE",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "DOOR",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SEAT",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "BELT",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "ROAD",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PARK",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "CAR",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "RIM",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8061
+}

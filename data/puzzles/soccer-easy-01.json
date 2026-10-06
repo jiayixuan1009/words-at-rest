@@ -1,0 +1,208 @@
+{
+  "id": "soccer-easy-01",
+  "slug": "soccer-easy-01",
+  "themeId": "soccer",
+  "title": "Soccer: Pitch Night",
+  "primaryKeyword": "soccer word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BALL",
+    "FIELD",
+    "GAME",
+    "GOAL",
+    "KICK",
+    "MATCH",
+    "NET",
+    "PASS",
+    "SAVE",
+    "SHOT"
+  ],
+  "grid": [
+    [
+      "X",
+      "V",
+      "I",
+      "K",
+      "E",
+      "F",
+      "B",
+      "A",
+      "L",
+      "L"
+    ],
+    [
+      "T",
+      "X",
+      "O",
+      "I",
+      "J",
+      "N",
+      "P",
+      "A",
+      "S",
+      "S"
+    ],
+    [
+      "Y",
+      "E",
+      "X",
+      "C",
+      "S",
+      "V",
+      "Z",
+      "S",
+      "P",
+      "S"
+    ],
+    [
+      "Z",
+      "Z",
+      "X",
+      "K",
+      "H",
+      "T",
+      "H",
+      "M",
+      "L",
+      "D"
+    ],
+    [
+      "W",
+      "N",
+      "E",
+      "T",
+      "O",
+      "G",
+      "I",
+      "D",
+      "J",
+      "T"
+    ],
+    [
+      "T",
+      "E",
+      "I",
+      "O",
+      "T",
+      "T",
+      "C",
+      "Z",
+      "A",
+      "P"
+    ],
+    [
+      "I",
+      "G",
+      "A",
+      "M",
+      "E",
+      "Z",
+      "X",
+      "I",
+      "J",
+      "B"
+    ],
+    [
+      "B",
+      "M",
+      "A",
+      "T",
+      "C",
+      "H",
+      "G",
+      "O",
+      "A",
+      "L"
+    ],
+    [
+      "C",
+      "S",
+      "S",
+      "A",
+      "V",
+      "E",
+      "T",
+      "G",
+      "Z",
+      "V"
+    ],
+    [
+      "E",
+      "F",
+      "J",
+      "F",
+      "I",
+      "E",
+      "L",
+      "D",
+      "Z",
+      "U"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FIELD",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "MATCH",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BALL",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "GOAL",
+      "row": 7,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "KICK",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "PASS",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "SHOT",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "SAVE",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "GAME",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "NET",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8261
+}

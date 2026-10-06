@@ -1,0 +1,284 @@
+{
+  "id": "golf-medium-02",
+  "slug": "golf-medium-02",
+  "themeId": "golf",
+  "title": "Golf: Approach Shots",
+  "primaryKeyword": "golf word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "APPROACH",
+    "BACKSWING",
+    "BUNKER",
+    "CHIP",
+    "FAIRWAY",
+    "FLAG",
+    "GREEN",
+    "HANDICAP",
+    "MULLIGAN",
+    "PAR",
+    "PUTT",
+    "SANDTRAP",
+    "SCORECARD",
+    "WEDGE"
+  ],
+  "grid": [
+    [
+      "H",
+      "L",
+      "N",
+      "M",
+      "C",
+      "H",
+      "I",
+      "P",
+      "F",
+      "U",
+      "E",
+      "U"
+    ],
+    [
+      "A",
+      "Z",
+      "B",
+      "X",
+      "W",
+      "Y",
+      "Z",
+      "N",
+      "S",
+      "D",
+      "L",
+      "D"
+    ],
+    [
+      "N",
+      "J",
+      "S",
+      "A",
+      "A",
+      "P",
+      "A",
+      "Z",
+      "R",
+      "W",
+      "R",
+      "S"
+    ],
+    [
+      "D",
+      "F",
+      "O",
+      "U",
+      "C",
+      "G",
+      "U",
+      "A",
+      "N",
+      "A",
+      "J",
+      "A"
+    ],
+    [
+      "I",
+      "A",
+      "V",
+      "Q",
+      "I",
+      "K",
+      "P",
+      "T",
+      "C",
+      "N",
+      "K",
+      "N"
+    ],
+    [
+      "C",
+      "U",
+      "P",
+      "L",
+      "X",
+      "G",
+      "S",
+      "E",
+      "T",
+      "N",
+      "E",
+      "D"
+    ],
+    [
+      "A",
+      "B",
+      "L",
+      "P",
+      "A",
+      "W",
+      "R",
+      "W",
+      "E",
+      "M",
+      "U",
+      "T"
+    ],
+    [
+      "P",
+      "U",
+      "M",
+      "L",
+      "R",
+      "O",
+      "E",
+      "E",
+      "I",
+      "I",
+      "B",
+      "R"
+    ],
+    [
+      "M",
+      "J",
+      "F",
+      "N",
+      "C",
+      "O",
+      "R",
+      "D",
+      "C",
+      "N",
+      "I",
+      "A"
+    ],
+    [
+      "D",
+      "J",
+      "O",
+      "S",
+      "W",
+      "G",
+      "A",
+      "A",
+      "G",
+      "F",
+      "G",
+      "P"
+    ],
+    [
+      "B",
+      "B",
+      "U",
+      "N",
+      "K",
+      "E",
+      "R",
+      "C",
+      "U",
+      "E",
+      "I",
+      "A"
+    ],
+    [
+      "U",
+      "F",
+      "A",
+      "I",
+      "R",
+      "W",
+      "A",
+      "Y",
+      "H",
+      "N",
+      "N",
+      "S"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BACKSWING",
+      "row": 1,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "SCORECARD",
+      "row": 9,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "APPROACH",
+      "row": 4,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "SANDTRAP",
+      "row": 2,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "HANDICAP",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "MULLIGAN",
+      "row": 8,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "FAIRWAY",
+      "row": 11,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BUNKER",
+      "row": 10,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "WEDGE",
+      "row": 6,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "GREEN",
+      "row": 9,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "CHIP",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "PUTT",
+      "row": 2,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "FLAG",
+      "row": 8,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "PAR",
+      "row": 4,
+      "col": 6,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6014
+}

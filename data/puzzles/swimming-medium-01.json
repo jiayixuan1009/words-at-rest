@@ -1,0 +1,284 @@
+{
+  "id": "swimming-medium-01",
+  "slug": "swimming-medium-01",
+  "themeId": "swimming",
+  "title": "Swimming: Stroke Drill",
+  "primaryKeyword": "swimming word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BACKSTROKE",
+    "BREAST",
+    "BREATH",
+    "BUTTERFLY",
+    "COACH",
+    "FREESTYLE",
+    "GLIDE",
+    "GOGGLE",
+    "LOCKER",
+    "PUSH",
+    "SHALLOW",
+    "SHOWER",
+    "TIMER",
+    "WHISTLE"
+  ],
+  "grid": [
+    [
+      "W",
+      "M",
+      "C",
+      "I",
+      "W",
+      "H",
+      "I",
+      "S",
+      "T",
+      "L",
+      "E",
+      "S"
+    ],
+    [
+      "F",
+      "R",
+      "E",
+      "E",
+      "S",
+      "T",
+      "Y",
+      "L",
+      "E",
+      "W",
+      "Y",
+      "H"
+    ],
+    [
+      "G",
+      "B",
+      "E",
+      "H",
+      "P",
+      "B",
+      "R",
+      "E",
+      "A",
+      "S",
+      "T",
+      "A"
+    ],
+    [
+      "B",
+      "L",
+      "U",
+      "M",
+      "P",
+      "T",
+      "I",
+      "M",
+      "E",
+      "R",
+      "F",
+      "L"
+    ],
+    [
+      "H",
+      "H",
+      "I",
+      "T",
+      "H",
+      "S",
+      "O",
+      "T",
+      "U",
+      "N",
+      "B",
+      "L"
+    ],
+    [
+      "Q",
+      "C",
+      "J",
+      "D",
+      "T",
+      "L",
+      "O",
+      "C",
+      "K",
+      "E",
+      "R",
+      "O"
+    ],
+    [
+      "N",
+      "L",
+      "G",
+      "B",
+      "E",
+      "E",
+      "H",
+      "F",
+      "T",
+      "L",
+      "E",
+      "W"
+    ],
+    [
+      "B",
+      "A",
+      "C",
+      "K",
+      "S",
+      "T",
+      "R",
+      "O",
+      "K",
+      "E",
+      "A",
+      "Q"
+    ],
+    [
+      "Z",
+      "M",
+      "N",
+      "F",
+      "I",
+      "N",
+      "V",
+      "F",
+      "K",
+      "V",
+      "T",
+      "P"
+    ],
+    [
+      "T",
+      "Y",
+      "G",
+      "O",
+      "G",
+      "G",
+      "L",
+      "E",
+      "L",
+      "V",
+      "H",
+      "U"
+    ],
+    [
+      "D",
+      "L",
+      "H",
+      "Z",
+      "C",
+      "O",
+      "A",
+      "C",
+      "H",
+      "Y",
+      "D",
+      "S"
+    ],
+    [
+      "H",
+      "B",
+      "S",
+      "H",
+      "O",
+      "W",
+      "E",
+      "R",
+      "C",
+      "A",
+      "S",
+      "H"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BACKSTROKE",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "FREESTYLE",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BUTTERFLY",
+      "row": 2,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "SHALLOW",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "WHISTLE",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BREAST",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "BREATH",
+      "row": 4,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "GOGGLE",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SHOWER",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "LOCKER",
+      "row": 5,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "GLIDE",
+      "row": 2,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "TIMER",
+      "row": 3,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "COACH",
+      "row": 10,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "PUSH",
+      "row": 8,
+      "col": 11,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8633
+}

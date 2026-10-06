@@ -1,0 +1,208 @@
+{
+  "id": "fathers-day-easy-02",
+  "slug": "fathers-day-easy-02",
+  "themeId": "fathers-day",
+  "title": "Father's Day: Quiet Pride",
+  "primaryKeyword": "fathers day word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CHAIR",
+    "HAMMER",
+    "JUNE",
+    "MUG",
+    "PAPA",
+    "PATIO",
+    "PRIDE",
+    "REST",
+    "SHED",
+    "SOCK"
+  ],
+  "grid": [
+    [
+      "P",
+      "R",
+      "I",
+      "D",
+      "E",
+      "P",
+      "A",
+      "P",
+      "A",
+      "F"
+    ],
+    [
+      "J",
+      "B",
+      "U",
+      "X",
+      "B",
+      "M",
+      "P",
+      "T",
+      "T",
+      "R"
+    ],
+    [
+      "Q",
+      "M",
+      "U",
+      "G",
+      "M",
+      "U",
+      "B",
+      "M",
+      "C",
+      "R"
+    ],
+    [
+      "S",
+      "G",
+      "D",
+      "P",
+      "B",
+      "K",
+      "S",
+      "U",
+      "H",
+      "W"
+    ],
+    [
+      "F",
+      "V",
+      "E",
+      "A",
+      "G",
+      "T",
+      "Z",
+      "H",
+      "A",
+      "J"
+    ],
+    [
+      "K",
+      "N",
+      "X",
+      "T",
+      "P",
+      "T",
+      "S",
+      "A",
+      "I",
+      "U"
+    ],
+    [
+      "E",
+      "T",
+      "A",
+      "I",
+      "U",
+      "M",
+      "O",
+      "M",
+      "R",
+      "N"
+    ],
+    [
+      "E",
+      "Y",
+      "A",
+      "O",
+      "P",
+      "F",
+      "C",
+      "M",
+      "W",
+      "E"
+    ],
+    [
+      "P",
+      "R",
+      "E",
+      "S",
+      "T",
+      "Z",
+      "K",
+      "E",
+      "Q",
+      "S"
+    ],
+    [
+      "C",
+      "S",
+      "H",
+      "E",
+      "D",
+      "N",
+      "K",
+      "R",
+      "G",
+      "F"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "HAMMER",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "PATIO",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "CHAIR",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "PRIDE",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "PAPA",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SOCK",
+      "row": 5,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "SHED",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "JUNE",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "REST",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "MUG",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7042
+}

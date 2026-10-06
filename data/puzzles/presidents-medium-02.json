@@ -1,0 +1,284 @@
+{
+  "id": "presidents-medium-02",
+  "slug": "presidents-medium-02",
+  "themeId": "presidents",
+  "title": "U.S. Presidents: Surname Tour",
+  "primaryKeyword": "us presidents word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ARTHUR",
+    "BUCHANAN",
+    "EISENHOWER",
+    "FILLMORE",
+    "HARRISON",
+    "JEFFERSON",
+    "MADISON",
+    "MCKINLEY",
+    "OVAL",
+    "ROOSEVELT",
+    "TRUMP",
+    "VANBUREN",
+    "WASHINGTON",
+    "WHITEHOUSE"
+  ],
+  "grid": [
+    [
+      "R",
+      "O",
+      "O",
+      "S",
+      "E",
+      "V",
+      "E",
+      "L",
+      "T",
+      "Q",
+      "H",
+      "B"
+    ],
+    [
+      "W",
+      "Y",
+      "Z",
+      "E",
+      "F",
+      "Y",
+      "W",
+      "K",
+      "M",
+      "Z",
+      "E",
+      "E"
+    ],
+    [
+      "H",
+      "O",
+      "M",
+      "S",
+      "B",
+      "A",
+      "A",
+      "T",
+      "A",
+      "J",
+      "I",
+      "F"
+    ],
+    [
+      "I",
+      "A",
+      "C",
+      "H",
+      "U",
+      "D",
+      "S",
+      "R",
+      "D",
+      "E",
+      "S",
+      "F"
+    ],
+    [
+      "T",
+      "R",
+      "K",
+      "A",
+      "C",
+      "F",
+      "H",
+      "U",
+      "I",
+      "F",
+      "E",
+      "V"
+    ],
+    [
+      "E",
+      "T",
+      "I",
+      "R",
+      "H",
+      "I",
+      "I",
+      "M",
+      "S",
+      "F",
+      "N",
+      "A"
+    ],
+    [
+      "H",
+      "H",
+      "N",
+      "R",
+      "A",
+      "L",
+      "N",
+      "P",
+      "O",
+      "E",
+      "H",
+      "N"
+    ],
+    [
+      "O",
+      "U",
+      "L",
+      "I",
+      "N",
+      "L",
+      "G",
+      "P",
+      "N",
+      "R",
+      "O",
+      "B"
+    ],
+    [
+      "U",
+      "R",
+      "E",
+      "S",
+      "A",
+      "M",
+      "T",
+      "H",
+      "M",
+      "S",
+      "W",
+      "U"
+    ],
+    [
+      "S",
+      "I",
+      "Y",
+      "O",
+      "N",
+      "O",
+      "O",
+      "I",
+      "H",
+      "O",
+      "E",
+      "R"
+    ],
+    [
+      "E",
+      "R",
+      "D",
+      "N",
+      "I",
+      "R",
+      "N",
+      "J",
+      "Q",
+      "N",
+      "R",
+      "E"
+    ],
+    [
+      "O",
+      "V",
+      "A",
+      "L",
+      "I",
+      "E",
+      "I",
+      "X",
+      "M",
+      "P",
+      "A",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "WASHINGTON",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "EISENHOWER",
+      "row": 1,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "WHITEHOUSE",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "JEFFERSON",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "ROOSEVELT",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "HARRISON",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "FILLMORE",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "BUCHANAN",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "MCKINLEY",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "VANBUREN",
+      "row": 4,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "MADISON",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "ARTHUR",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "TRUMP",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "OVAL",
+      "row": 11,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8294
+}

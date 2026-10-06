@@ -1,29 +1,13 @@
 # Words at Rest
 
-> Words at Rest (https://wordsatrest.com) is a free, independent website of calm English (en-US) word search puzzles for adults and seniors. Puzzles play in the browser with no download, no account and no timer. Large print is available on every puzzle. Edited by Reggie J. Contact: hello@wordsatrest.com.
+> Words at Rest (https://wordsatrest.com) is a free, independent website of calm English (en-US) word search puzzles for adults and seniors. Edited by Reggie J. Contact: hello@wordsatrest.com.
 
 Key facts:
-- Launched 2026-10-06. 16 themes, 46 hand-themed puzzles (including a Bible / Christian theme), plus one unique daily puzzle per day from 2026-10-07 (rotates at 00:00 UTC; dated pages at /daily/YYYY-MM-DD; month calendar and changelog at /calendar).
-- Difficulty levels: Easy = 10×10 grid, 10 words, across and down only. Medium = 12×12, 14 words, adds diagonals. Hard = 15×15, 18 words, all eight directions including backwards. Large print = 9×9, 8 words, across and down, extra-large letters.
-- Selection: drag across a word, or tap its first letter then its last letter. Progress is saved locally in the browser.
-- All word lists are original; no licensed characters or brand names. Audience: teens and adults (not directed at children under 13). Free, ad-supported; ads never cover the puzzle.
-- We make no medical or brain-training claims about word searches.
+- Launched 2026-10-06. 102 themes, 605 hand-themed puzzles, plus one unique daily puzzle per day from 2026-10-07 (UTC midnight; /daily/YYYY-MM-DD; /calendar).
+- Easy 10×10/10 · Medium 12×12/14 · Hard 15×15/18 · Large print 9×9/8. Original word lists; no licensed characters.
+- No medical or brain-training claims.
 
 ## Main pages
-- [Today's daily word search](https://wordsatrest.com/daily): one free puzzle per day, same for everyone.
-- [Daily calendar & archive](https://wordsatrest.com/calendar): month grid and a reverse-chronological log of daily puzzles.
-- [Large print word search](https://wordsatrest.com/large-print): 9×9 grids with big letters for seniors and low vision.
-- [How to play word search](https://wordsatrest.com/how-to-play): definition, steps, difficulty table, tips and FAQ.
-- [Word search for adults](https://wordsatrest.com/adults): what makes the puzzles adult-oriented, FAQ.
-- [All themes](https://wordsatrest.com/themes): seasonal (Halloween, fall, Christmas), evergreen (Bible, animals, food, ocean, garden, travel, music, space, sports, dogs, cats) and packs (Large Print Pack, Hard Pack).
-- [Bible word search](https://wordsatrest.com/themes/bible): free Bible / Scripture-themed puzzles — books, people, places and virtues; large print available; respectful and non-denominational.
-- [Easy](https://wordsatrest.com/difficulty/easy), [Medium](https://wordsatrest.com/difficulty/medium), [Hard](https://wordsatrest.com/difficulty/hard) puzzles.
-
-## About
-- [About Words at Rest and the editor](https://wordsatrest.com/about)
-- [Accessibility statement](https://wordsatrest.com/accessibility): large print, contrast, keyboard and screen reader status, known issues
-- [Contact](https://wordsatrest.com/contact)
-- [Privacy policy](https://wordsatrest.com/privacy) · [Terms](https://wordsatrest.com/terms)
-
-## Optional
-- [Sitemap](https://wordsatrest.com/sitemap.xml)
+- [Daily](https://wordsatrest.com/daily) · [Calendar](https://wordsatrest.com/calendar) · [Themes](https://wordsatrest.com/themes) · [Holidays](https://wordsatrest.com/holidays)
+- [Large print](https://wordsatrest.com/large-print) · [How to play](https://wordsatrest.com/how-to-play) · [Adults](https://wordsatrest.com/adults) · [Bible](https://wordsatrest.com/themes/bible)
+- [About](https://wordsatrest.com/about) · [Accessibility](https://wordsatrest.com/accessibility) · [Contact](https://wordsatrest.com/contact) · [Sitemap](https://wordsatrest.com/sitemap.xml)

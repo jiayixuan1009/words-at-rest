@@ -1,0 +1,284 @@
+{
+  "id": "jobs-medium-01",
+  "slug": "jobs-medium-01",
+  "themeId": "jobs",
+  "title": "Jobs: Trade Skill",
+  "primaryKeyword": "jobs careers word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BUILDER",
+    "CAREER",
+    "CLINIC",
+    "COURT",
+    "DOCTOR",
+    "DRIVER",
+    "FACTORY",
+    "FARMER",
+    "KITCHEN",
+    "OFFICE",
+    "SAILOR",
+    "SALARY",
+    "SCHOOL",
+    "TEACHER"
+  ],
+  "grid": [
+    [
+      "D",
+      "J",
+      "R",
+      "M",
+      "B",
+      "U",
+      "I",
+      "L",
+      "D",
+      "E",
+      "R",
+      "A"
+    ],
+    [
+      "Z",
+      "X",
+      "W",
+      "M",
+      "A",
+      "O",
+      "F",
+      "F",
+      "I",
+      "C",
+      "E",
+      "J"
+    ],
+    [
+      "S",
+      "Y",
+      "I",
+      "Q",
+      "J",
+      "X",
+      "Z",
+      "W",
+      "W",
+      "N",
+      "D",
+      "L"
+    ],
+    [
+      "N",
+      "K",
+      "I",
+      "T",
+      "C",
+      "H",
+      "E",
+      "N",
+      "S",
+      "W",
+      "I",
+      "T"
+    ],
+    [
+      "D",
+      "O",
+      "C",
+      "T",
+      "O",
+      "R",
+      "E",
+      "A",
+      "A",
+      "D",
+      "Y",
+      "M"
+    ],
+    [
+      "T",
+      "X",
+      "Z",
+      "F",
+      "C",
+      "L",
+      "I",
+      "N",
+      "I",
+      "C",
+      "R",
+      "S"
+    ],
+    [
+      "F",
+      "C",
+      "A",
+      "A",
+      "N",
+      "D",
+      "R",
+      "I",
+      "V",
+      "E",
+      "R",
+      "A"
+    ],
+    [
+      "V",
+      "A",
+      "Q",
+      "C",
+      "Q",
+      "S",
+      "A",
+      "L",
+      "A",
+      "R",
+      "Y",
+      "I"
+    ],
+    [
+      "G",
+      "R",
+      "J",
+      "T",
+      "E",
+      "A",
+      "C",
+      "H",
+      "E",
+      "R",
+      "T",
+      "L"
+    ],
+    [
+      "O",
+      "E",
+      "M",
+      "O",
+      "S",
+      "C",
+      "H",
+      "O",
+      "O",
+      "L",
+      "D",
+      "O"
+    ],
+    [
+      "C",
+      "E",
+      "R",
+      "R",
+      "F",
+      "E",
+      "C",
+      "O",
+      "U",
+      "R",
+      "T",
+      "R"
+    ],
+    [
+      "G",
+      "R",
+      "F",
+      "Y",
+      "U",
+      "F",
+      "A",
+      "R",
+      "M",
+      "E",
+      "R",
+      "C"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FACTORY",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "KITCHEN",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TEACHER",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BUILDER",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CAREER",
+      "row": 6,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SALARY",
+      "row": 7,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "OFFICE",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "CLINIC",
+      "row": 5,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SCHOOL",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "DOCTOR",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "DRIVER",
+      "row": 6,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SAILOR",
+      "row": 5,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "FARMER",
+      "row": 11,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "COURT",
+      "row": 10,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8143
+}

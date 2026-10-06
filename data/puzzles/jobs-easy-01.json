@@ -1,0 +1,208 @@
+{
+  "id": "jobs-easy-01",
+  "slug": "jobs-easy-01",
+  "themeId": "jobs",
+  "title": "Jobs: Shift Start",
+  "primaryKeyword": "jobs careers word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BANK",
+    "COOK",
+    "CRAFT",
+    "DESK",
+    "JOB",
+    "SHIFT",
+    "SHOP",
+    "TRADE",
+    "WAGE",
+    "WORK"
+  ],
+  "grid": [
+    [
+      "J",
+      "O",
+      "B",
+      "J",
+      "C",
+      "T",
+      "R",
+      "A",
+      "D",
+      "E"
+    ],
+    [
+      "B",
+      "I",
+      "S",
+      "B",
+      "R",
+      "G",
+      "K",
+      "V",
+      "T",
+      "K"
+    ],
+    [
+      "Z",
+      "R",
+      "H",
+      "T",
+      "A",
+      "F",
+      "H",
+      "H",
+      "E",
+      "N"
+    ],
+    [
+      "B",
+      "L",
+      "I",
+      "J",
+      "F",
+      "O",
+      "W",
+      "A",
+      "L",
+      "C"
+    ],
+    [
+      "A",
+      "T",
+      "F",
+      "W",
+      "T",
+      "S",
+      "E",
+      "O",
+      "N",
+      "M"
+    ],
+    [
+      "N",
+      "N",
+      "T",
+      "A",
+      "U",
+      "T",
+      "I",
+      "I",
+      "X",
+      "A"
+    ],
+    [
+      "K",
+      "K",
+      "X",
+      "G",
+      "K",
+      "F",
+      "U",
+      "C",
+      "S",
+      "D"
+    ],
+    [
+      "D",
+      "W",
+      "X",
+      "E",
+      "J",
+      "X",
+      "A",
+      "O",
+      "H",
+      "E"
+    ],
+    [
+      "S",
+      "X",
+      "C",
+      "W",
+      "O",
+      "R",
+      "K",
+      "O",
+      "O",
+      "S"
+    ],
+    [
+      "Q",
+      "J",
+      "X",
+      "U",
+      "T",
+      "K",
+      "R",
+      "K",
+      "P",
+      "K"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TRADE",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "CRAFT",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "SHIFT",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "WORK",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "WAGE",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "DESK",
+      "row": 6,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SHOP",
+      "row": 6,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "BANK",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "COOK",
+      "row": 6,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "JOB",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8141
+}

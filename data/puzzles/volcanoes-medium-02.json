@@ -1,0 +1,284 @@
+{
+  "id": "volcanoes-medium-02",
+  "slug": "volcanoes-medium-02",
+  "themeId": "volcanoes",
+  "title": "Volcanoes: Geology Day",
+  "primaryKeyword": "volcanoes word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CHAMBER",
+    "CINDER",
+    "CRUST",
+    "CRYSTAL",
+    "DIKE",
+    "GEOLOGY",
+    "LAPILLI",
+    "MANTLE",
+    "MINERAL",
+    "OBSIDIAN",
+    "PRESSURE",
+    "SILL",
+    "SULFUR",
+    "TEPHRA"
+  ],
+  "grid": [
+    [
+      "U",
+      "K",
+      "N",
+      "G",
+      "E",
+      "O",
+      "L",
+      "O",
+      "G",
+      "Y",
+      "N",
+      "C"
+    ],
+    [
+      "X",
+      "M",
+      "A",
+      "N",
+      "T",
+      "L",
+      "E",
+      "V",
+      "Y",
+      "A",
+      "L",
+      "I"
+    ],
+    [
+      "N",
+      "C",
+      "H",
+      "A",
+      "M",
+      "B",
+      "E",
+      "R",
+      "I",
+      "L",
+      "R",
+      "N"
+    ],
+    [
+      "G",
+      "L",
+      "P",
+      "Z",
+      "Y",
+      "C",
+      "P",
+      "D",
+      "I",
+      "U",
+      "C",
+      "D"
+    ],
+    [
+      "F",
+      "A",
+      "V",
+      "R",
+      "D",
+      "S",
+      "I",
+      "S",
+      "F",
+      "W",
+      "E",
+      "E"
+    ],
+    [
+      "M",
+      "P",
+      "D",
+      "F",
+      "E",
+      "S",
+      "Q",
+      "L",
+      "A",
+      "L",
+      "B",
+      "R"
+    ],
+    [
+      "G",
+      "I",
+      "F",
+      "D",
+      "B",
+      "S",
+      "U",
+      "V",
+      "A",
+      "H",
+      "A",
+      "C"
+    ],
+    [
+      "W",
+      "L",
+      "N",
+      "O",
+      "I",
+      "S",
+      "S",
+      "T",
+      "P",
+      "R",
+      "C",
+      "R"
+    ],
+    [
+      "M",
+      "L",
+      "R",
+      "E",
+      "A",
+      "K",
+      "S",
+      "U",
+      "H",
+      "D",
+      "K",
+      "U"
+    ],
+    [
+      "W",
+      "I",
+      "Z",
+      "J",
+      "R",
+      "Y",
+      "E",
+      "P",
+      "R",
+      "A",
+      "C",
+      "S"
+    ],
+    [
+      "L",
+      "G",
+      "B",
+      "I",
+      "R",
+      "A",
+      "E",
+      "A",
+      "W",
+      "E",
+      "Z",
+      "T"
+    ],
+    [
+      "T",
+      "B",
+      "G",
+      "C",
+      "H",
+      "T",
+      "L",
+      "P",
+      "T",
+      "I",
+      "B",
+      "A"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "OBSIDIAN",
+      "row": 7,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "PRESSURE",
+      "row": 3,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "GEOLOGY",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "MINERAL",
+      "row": 5,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "CRYSTAL",
+      "row": 11,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "CHAMBER",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "LAPILLI",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "MANTLE",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SULFUR",
+      "row": 7,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "TEPHRA",
+      "row": 11,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "CINDER",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "CRUST",
+      "row": 6,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "DIKE",
+      "row": 6,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "SILL",
+      "row": 4,
+      "col": 7,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8514
+}

@@ -1,0 +1,208 @@
+{
+  "id": "valentines-easy-01",
+  "slug": "valentines-easy-01",
+  "themeId": "valentines",
+  "title": "Valentine's: Hearts & Notes",
+  "primaryKeyword": "valentine word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BLOOM",
+    "CARD",
+    "DANCE",
+    "GIFT",
+    "HEART",
+    "KISS",
+    "LOVE",
+    "NOTE",
+    "ROSE",
+    "SWEET"
+  ],
+  "grid": [
+    [
+      "Z",
+      "J",
+      "I",
+      "L",
+      "B",
+      "N",
+      "L",
+      "O",
+      "V",
+      "E"
+    ],
+    [
+      "S",
+      "H",
+      "R",
+      "S",
+      "H",
+      "E",
+      "Q",
+      "B",
+      "B",
+      "K"
+    ],
+    [
+      "Q",
+      "D",
+      "O",
+      "D",
+      "O",
+      "O",
+      "N",
+      "R",
+      "Q",
+      "I"
+    ],
+    [
+      "C",
+      "A",
+      "S",
+      "B",
+      "L",
+      "O",
+      "O",
+      "M",
+      "N",
+      "S"
+    ],
+    [
+      "L",
+      "N",
+      "E",
+      "S",
+      "V",
+      "V",
+      "H",
+      "C",
+      "O",
+      "S"
+    ],
+    [
+      "Y",
+      "C",
+      "S",
+      "S",
+      "H",
+      "Y",
+      "A",
+      "A",
+      "T",
+      "Q"
+    ],
+    [
+      "R",
+      "E",
+      "H",
+      "W",
+      "K",
+      "K",
+      "R",
+      "R",
+      "E",
+      "A"
+    ],
+    [
+      "U",
+      "E",
+      "Q",
+      "E",
+      "J",
+      "O",
+      "P",
+      "D",
+      "V",
+      "J"
+    ],
+    [
+      "N",
+      "X",
+      "S",
+      "E",
+      "X",
+      "B",
+      "H",
+      "N",
+      "D",
+      "O"
+    ],
+    [
+      "G",
+      "I",
+      "F",
+      "T",
+      "N",
+      "H",
+      "E",
+      "A",
+      "R",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "HEART",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "BLOOM",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SWEET",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "DANCE",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "ROSE",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "CARD",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "KISS",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "LOVE",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "NOTE",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "GIFT",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2141
+}

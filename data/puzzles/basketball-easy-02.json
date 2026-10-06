@@ -1,0 +1,208 @@
+{
+  "id": "basketball-easy-02",
+  "slug": "basketball-easy-02",
+  "themeId": "basketball",
+  "title": "Basketball: Quiet Shot",
+  "primaryKeyword": "basketball word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BENCH",
+    "BLOCK",
+    "CLOCK",
+    "DUNK",
+    "GUARD",
+    "JUMP",
+    "LAYUP",
+    "RIM",
+    "STEAL",
+    "ZONE"
+  ],
+  "grid": [
+    [
+      "L",
+      "M",
+      "W",
+      "M",
+      "T",
+      "G",
+      "B",
+      "K",
+      "Z",
+      "G"
+    ],
+    [
+      "K",
+      "J",
+      "U",
+      "M",
+      "P",
+      "N",
+      "Q",
+      "D",
+      "C",
+      "U"
+    ],
+    [
+      "L",
+      "U",
+      "D",
+      "U",
+      "N",
+      "K",
+      "L",
+      "X",
+      "L",
+      "A"
+    ],
+    [
+      "Y",
+      "X",
+      "C",
+      "I",
+      "A",
+      "R",
+      "A",
+      "H",
+      "O",
+      "R"
+    ],
+    [
+      "A",
+      "B",
+      "E",
+      "N",
+      "C",
+      "H",
+      "Y",
+      "R",
+      "C",
+      "D"
+    ],
+    [
+      "T",
+      "L",
+      "I",
+      "B",
+      "S",
+      "H",
+      "U",
+      "I",
+      "K",
+      "S"
+    ],
+    [
+      "O",
+      "Z",
+      "O",
+      "N",
+      "E",
+      "R",
+      "P",
+      "M",
+      "I",
+      "R"
+    ],
+    [
+      "S",
+      "T",
+      "E",
+      "A",
+      "L",
+      "I",
+      "F",
+      "A",
+      "J",
+      "S"
+    ],
+    [
+      "P",
+      "B",
+      "L",
+      "O",
+      "C",
+      "K",
+      "D",
+      "V",
+      "E",
+      "X"
+    ],
+    [
+      "H",
+      "Q",
+      "G",
+      "Z",
+      "M",
+      "C",
+      "W",
+      "E",
+      "D",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "LAYUP",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "BLOCK",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "STEAL",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BENCH",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "GUARD",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "CLOCK",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "DUNK",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "JUMP",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "ZONE",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "RIM",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8272
+}

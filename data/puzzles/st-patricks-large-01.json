@@ -1,0 +1,173 @@
+{
+  "id": "st-patricks-large-01",
+  "slug": "st-patricks-large-01",
+  "themeId": "st-patricks",
+  "title": "Large Print St. Patrick's: Soft Clover",
+  "primaryKeyword": "large print st patricks day word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "CLOVER",
+    "GREEN",
+    "HARP",
+    "JOY",
+    "LUCK",
+    "PIPE",
+    "RAIN",
+    "TEA"
+  ],
+  "grid": [
+    [
+      "Z",
+      "Q",
+      "L",
+      "E",
+      "P",
+      "L",
+      "U",
+      "C",
+      "K"
+    ],
+    [
+      "P",
+      "I",
+      "P",
+      "E",
+      "A",
+      "I",
+      "Z",
+      "A",
+      "F"
+    ],
+    [
+      "Z",
+      "X",
+      "M",
+      "H",
+      "C",
+      "Z",
+      "P",
+      "R",
+      "G"
+    ],
+    [
+      "A",
+      "R",
+      "A",
+      "I",
+      "N",
+      "C",
+      "O",
+      "B",
+      "R"
+    ],
+    [
+      "I",
+      "H",
+      "A",
+      "R",
+      "P",
+      "L",
+      "F",
+      "H",
+      "E"
+    ],
+    [
+      "M",
+      "I",
+      "O",
+      "V",
+      "J",
+      "O",
+      "O",
+      "M",
+      "E"
+    ],
+    [
+      "M",
+      "S",
+      "J",
+      "P",
+      "T",
+      "V",
+      "O",
+      "T",
+      "N"
+    ],
+    [
+      "T",
+      "O",
+      "O",
+      "I",
+      "V",
+      "E",
+      "L",
+      "E",
+      "L"
+    ],
+    [
+      "U",
+      "P",
+      "Y",
+      "U",
+      "V",
+      "R",
+      "D",
+      "A",
+      "Z"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CLOVER",
+      "row": 3,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "GREEN",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "PIPE",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "HARP",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "LUCK",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "RAIN",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TEA",
+      "row": 6,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "JOY",
+      "row": 6,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7026
+}

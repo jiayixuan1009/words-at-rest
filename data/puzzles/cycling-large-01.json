@@ -1,0 +1,173 @@
+{
+  "id": "cycling-large-01",
+  "slug": "cycling-large-01",
+  "themeId": "cycling",
+  "title": "Large Print Cycling: Soft Wheel",
+  "primaryKeyword": "large print cycling word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BIKE",
+    "GEAR",
+    "LANE",
+    "LOCK",
+    "PEDAL",
+    "RIDE",
+    "ROAD",
+    "WHEEL"
+  ],
+  "grid": [
+    [
+      "M",
+      "G",
+      "R",
+      "I",
+      "D",
+      "E",
+      "T",
+      "C",
+      "F"
+    ],
+    [
+      "F",
+      "I",
+      "Z",
+      "J",
+      "L",
+      "O",
+      "C",
+      "K",
+      "T"
+    ],
+    [
+      "Y",
+      "M",
+      "P",
+      "R",
+      "Q",
+      "K",
+      "Q",
+      "F",
+      "Z"
+    ],
+    [
+      "U",
+      "H",
+      "B",
+      "I",
+      "K",
+      "E",
+      "P",
+      "Q",
+      "L"
+    ],
+    [
+      "G",
+      "R",
+      "O",
+      "A",
+      "D",
+      "Z",
+      "E",
+      "Z",
+      "A"
+    ],
+    [
+      "E",
+      "C",
+      "N",
+      "Z",
+      "E",
+      "K",
+      "D",
+      "V",
+      "N"
+    ],
+    [
+      "A",
+      "N",
+      "A",
+      "A",
+      "G",
+      "B",
+      "A",
+      "W",
+      "E"
+    ],
+    [
+      "R",
+      "V",
+      "H",
+      "N",
+      "P",
+      "G",
+      "L",
+      "R",
+      "E"
+    ],
+    [
+      "W",
+      "N",
+      "W",
+      "H",
+      "E",
+      "E",
+      "L",
+      "R",
+      "I"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PEDAL",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "WHEEL",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BIKE",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "GEAR",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "LANE",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "ROAD",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "RIDE",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "LOCK",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8656
+}

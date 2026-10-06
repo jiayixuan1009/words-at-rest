@@ -1,0 +1,173 @@
+{
+  "id": "emotions-large-01",
+  "slug": "emotions-large-01",
+  "themeId": "emotions",
+  "title": "Large Print Emotions: Soft Peace",
+  "primaryKeyword": "large print emotions word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "CALM",
+    "CARE",
+    "EASE",
+    "HOPE",
+    "JOY",
+    "KIND",
+    "LOVE",
+    "PEACE"
+  ],
+  "grid": [
+    [
+      "H",
+      "Z",
+      "D",
+      "B",
+      "W",
+      "J",
+      "V",
+      "Y",
+      "X"
+    ],
+    [
+      "O",
+      "D",
+      "K",
+      "I",
+      "N",
+      "D",
+      "L",
+      "E",
+      "V"
+    ],
+    [
+      "P",
+      "U",
+      "F",
+      "F",
+      "U",
+      "L",
+      "J",
+      "D",
+      "C"
+    ],
+    [
+      "E",
+      "C",
+      "U",
+      "N",
+      "Y",
+      "O",
+      "Q",
+      "P",
+      "A"
+    ],
+    [
+      "J",
+      "A",
+      "L",
+      "F",
+      "L",
+      "V",
+      "X",
+      "E",
+      "R"
+    ],
+    [
+      "O",
+      "L",
+      "M",
+      "G",
+      "B",
+      "E",
+      "V",
+      "A",
+      "E"
+    ],
+    [
+      "Y",
+      "M",
+      "U",
+      "O",
+      "R",
+      "W",
+      "D",
+      "C",
+      "E"
+    ],
+    [
+      "E",
+      "A",
+      "S",
+      "E",
+      "F",
+      "Z",
+      "I",
+      "E",
+      "L"
+    ],
+    [
+      "P",
+      "M",
+      "M",
+      "E",
+      "N",
+      "O",
+      "B",
+      "S",
+      "Q"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PEACE",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "HOPE",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CALM",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "KIND",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CARE",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "LOVE",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "EASE",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "JOY",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8696
+}

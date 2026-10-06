@@ -1,0 +1,173 @@
+{
+  "id": "shopping-large-01",
+  "slug": "shopping-large-01",
+  "themeId": "shopping",
+  "title": "Large Print Shopping: Soft Bag",
+  "primaryKeyword": "large print shopping word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BAG",
+    "BUY",
+    "CART",
+    "CASH",
+    "GIFT",
+    "LIST",
+    "SALE",
+    "SHOP"
+  ],
+  "grid": [
+    [
+      "P",
+      "I",
+      "L",
+      "I",
+      "S",
+      "T",
+      "I",
+      "E",
+      "W"
+    ],
+    [
+      "E",
+      "L",
+      "W",
+      "C",
+      "B",
+      "H",
+      "R",
+      "G",
+      "K"
+    ],
+    [
+      "C",
+      "S",
+      "Q",
+      "A",
+      "U",
+      "Y",
+      "B",
+      "C",
+      "C"
+    ],
+    [
+      "E",
+      "A",
+      "P",
+      "R",
+      "Y",
+      "O",
+      "A",
+      "A",
+      "S"
+    ],
+    [
+      "R",
+      "L",
+      "U",
+      "T",
+      "S",
+      "D",
+      "G",
+      "S",
+      "E"
+    ],
+    [
+      "C",
+      "E",
+      "Y",
+      "F",
+      "H",
+      "P",
+      "T",
+      "H",
+      "M"
+    ],
+    [
+      "T",
+      "U",
+      "H",
+      "P",
+      "O",
+      "A",
+      "M",
+      "T",
+      "X"
+    ],
+    [
+      "Z",
+      "E",
+      "V",
+      "O",
+      "P",
+      "U",
+      "L",
+      "Y",
+      "O"
+    ],
+    [
+      "S",
+      "P",
+      "U",
+      "M",
+      "Q",
+      "G",
+      "I",
+      "F",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SHOP",
+      "row": 4,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "CART",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "LIST",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SALE",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "CASH",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "GIFT",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "BAG",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "BUY",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8346
+}

@@ -1,0 +1,208 @@
+{
+  "id": "mothers-day-easy-02",
+  "slug": "mothers-day-easy-02",
+  "themeId": "mothers-day",
+  "title": "Mother's Day: Gentle Thanks",
+  "primaryKeyword": "mothers day word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CARE",
+    "LILY",
+    "MAMA",
+    "MAY",
+    "NOTE",
+    "POEM",
+    "RIBBON",
+    "TULIP",
+    "VASE",
+    "WARM"
+  ],
+  "grid": [
+    [
+      "U",
+      "J",
+      "Y",
+      "T",
+      "O",
+      "K",
+      "S",
+      "W",
+      "H",
+      "D"
+    ],
+    [
+      "C",
+      "F",
+      "F",
+      "Z",
+      "G",
+      "V",
+      "S",
+      "P",
+      "I",
+      "E"
+    ],
+    [
+      "N",
+      "T",
+      "N",
+      "M",
+      "A",
+      "A",
+      "B",
+      "O",
+      "R",
+      "J"
+    ],
+    [
+      "S",
+      "X",
+      "O",
+      "A",
+      "N",
+      "S",
+      "J",
+      "E",
+      "O",
+      "A"
+    ],
+    [
+      "R",
+      "S",
+      "P",
+      "Y",
+      "E",
+      "E",
+      "K",
+      "M",
+      "D",
+      "J"
+    ],
+    [
+      "I",
+      "U",
+      "L",
+      "I",
+      "L",
+      "Y",
+      "M",
+      "A",
+      "M",
+      "A"
+    ],
+    [
+      "B",
+      "N",
+      "W",
+      "K",
+      "A",
+      "W",
+      "A",
+      "R",
+      "M",
+      "O"
+    ],
+    [
+      "B",
+      "O",
+      "E",
+      "E",
+      "M",
+      "N",
+      "Q",
+      "W",
+      "W",
+      "C"
+    ],
+    [
+      "O",
+      "T",
+      "U",
+      "L",
+      "I",
+      "P",
+      "R",
+      "D",
+      "B",
+      "Z"
+    ],
+    [
+      "N",
+      "E",
+      "Y",
+      "A",
+      "Q",
+      "J",
+      "C",
+      "A",
+      "R",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "RIBBON",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "TULIP",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "MAMA",
+      "row": 5,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "LILY",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "VASE",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "NOTE",
+      "row": 6,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "POEM",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "CARE",
+      "row": 9,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "WARM",
+      "row": 6,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "MAY",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7032
+}

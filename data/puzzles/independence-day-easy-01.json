@@ -1,0 +1,208 @@
+{
+  "id": "independence-day-easy-01",
+  "slug": "independence-day-easy-01",
+  "themeId": "independence-day",
+  "title": "Independence Day: Picnic Park",
+  "primaryKeyword": "fourth of july word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BAND",
+    "CORN",
+    "FLAG",
+    "GRILL",
+    "JULY",
+    "PARADE",
+    "PARK",
+    "PICNIC",
+    "SKY",
+    "STAR"
+  ],
+  "grid": [
+    [
+      "Z",
+      "F",
+      "S",
+      "P",
+      "A",
+      "R",
+      "K",
+      "O",
+      "D",
+      "B"
+    ],
+    [
+      "G",
+      "R",
+      "I",
+      "L",
+      "L",
+      "U",
+      "T",
+      "R",
+      "A",
+      "A"
+    ],
+    [
+      "R",
+      "I",
+      "E",
+      "U",
+      "P",
+      "W",
+      "Q",
+      "I",
+      "Y",
+      "N"
+    ],
+    [
+      "I",
+      "P",
+      "A",
+      "R",
+      "A",
+      "D",
+      "E",
+      "X",
+      "B",
+      "D"
+    ],
+    [
+      "J",
+      "S",
+      "K",
+      "Q",
+      "F",
+      "I",
+      "E",
+      "J",
+      "S",
+      "J"
+    ],
+    [
+      "Q",
+      "G",
+      "Q",
+      "O",
+      "L",
+      "N",
+      "H",
+      "U",
+      "T",
+      "F"
+    ],
+    [
+      "R",
+      "F",
+      "L",
+      "S",
+      "A",
+      "F",
+      "B",
+      "L",
+      "A",
+      "F"
+    ],
+    [
+      "S",
+      "S",
+      "T",
+      "S",
+      "G",
+      "A",
+      "J",
+      "Y",
+      "R",
+      "L"
+    ],
+    [
+      "K",
+      "K",
+      "P",
+      "I",
+      "C",
+      "N",
+      "I",
+      "C",
+      "A",
+      "X"
+    ],
+    [
+      "R",
+      "Y",
+      "S",
+      "C",
+      "O",
+      "R",
+      "N",
+      "T",
+      "C",
+      "J"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PARADE",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PICNIC",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "GRILL",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "JULY",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "FLAG",
+      "row": 4,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "PARK",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "CORN",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BAND",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "STAR",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "SKY",
+      "row": 7,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7051
+}

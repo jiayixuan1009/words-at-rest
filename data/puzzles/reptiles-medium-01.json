@@ -1,0 +1,284 @@
+{
+  "id": "reptiles-medium-01",
+  "slug": "reptiles-medium-01",
+  "themeId": "reptiles",
+  "title": "Reptiles: Habitat Walk",
+  "primaryKeyword": "reptiles word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ADDER",
+    "BASK",
+    "BURROW",
+    "CHAMELEON",
+    "COBRA",
+    "DESERT",
+    "IGUANA",
+    "PYTHON",
+    "REPTILE",
+    "RIVER",
+    "SWAMP",
+    "TONGUE",
+    "TORTOISE",
+    "VIPER"
+  ],
+  "grid": [
+    [
+      "T",
+      "O",
+      "R",
+      "T",
+      "O",
+      "I",
+      "S",
+      "E",
+      "C",
+      "M",
+      "J",
+      "P"
+    ],
+    [
+      "B",
+      "S",
+      "L",
+      "S",
+      "W",
+      "A",
+      "M",
+      "P",
+      "F",
+      "A",
+      "L",
+      "Y"
+    ],
+    [
+      "B",
+      "C",
+      "O",
+      "B",
+      "R",
+      "A",
+      "D",
+      "D",
+      "E",
+      "R",
+      "R",
+      "T"
+    ],
+    [
+      "Y",
+      "Y",
+      "C",
+      "G",
+      "V",
+      "I",
+      "R",
+      "U",
+      "B",
+      "U",
+      "S",
+      "H"
+    ],
+    [
+      "B",
+      "U",
+      "R",
+      "R",
+      "O",
+      "W",
+      "J",
+      "V",
+      "C",
+      "W",
+      "Q",
+      "O"
+    ],
+    [
+      "P",
+      "I",
+      "M",
+      "D",
+      "E",
+      "S",
+      "E",
+      "R",
+      "T",
+      "A",
+      "A",
+      "N"
+    ],
+    [
+      "C",
+      "C",
+      "H",
+      "A",
+      "M",
+      "E",
+      "L",
+      "E",
+      "O",
+      "N",
+      "Q",
+      "R"
+    ],
+    [
+      "T",
+      "O",
+      "N",
+      "G",
+      "U",
+      "E",
+      "W",
+      "A",
+      "A",
+      "V",
+      "B",
+      "S"
+    ],
+    [
+      "X",
+      "A",
+      "C",
+      "K",
+      "E",
+      "L",
+      "Q",
+      "U",
+      "E",
+      "I",
+      "N",
+      "K"
+    ],
+    [
+      "E",
+      "R",
+      "B",
+      "A",
+      "S",
+      "K",
+      "G",
+      "Z",
+      "S",
+      "P",
+      "L",
+      "Z"
+    ],
+    [
+      "R",
+      "I",
+      "V",
+      "E",
+      "R",
+      "I",
+      "A",
+      "Q",
+      "S",
+      "E",
+      "Z",
+      "A"
+    ],
+    [
+      "J",
+      "D",
+      "R",
+      "E",
+      "P",
+      "T",
+      "I",
+      "L",
+      "E",
+      "R",
+      "N",
+      "D"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CHAMELEON",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TORTOISE",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "REPTILE",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "IGUANA",
+      "row": 10,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "PYTHON",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "TONGUE",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BURROW",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "DESERT",
+      "row": 5,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "ADDER",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "VIPER",
+      "row": 7,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "COBRA",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SWAMP",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "RIVER",
+      "row": 10,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BASK",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8323
+}

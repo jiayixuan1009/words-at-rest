@@ -1,0 +1,284 @@
+{
+  "id": "photography-medium-02",
+  "slug": "photography-medium-02",
+  "themeId": "photography",
+  "title": "Photography: Album Page",
+  "primaryKeyword": "photography word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CAPTURE",
+    "COMPOSE",
+    "CRAFT",
+    "CROP",
+    "EDIT",
+    "FIELD",
+    "GALLERY",
+    "ISO",
+    "LANDSCAPE",
+    "MEMORY",
+    "MOMENT",
+    "PICTURE",
+    "SHADOW",
+    "STILL"
+  ],
+  "grid": [
+    [
+      "B",
+      "F",
+      "F",
+      "A",
+      "G",
+      "Y",
+      "S",
+      "G",
+      "Z",
+      "T",
+      "J",
+      "Z"
+    ],
+    [
+      "X",
+      "W",
+      "H",
+      "I",
+      "U",
+      "A",
+      "K",
+      "A",
+      "F",
+      "P",
+      "L",
+      "B"
+    ],
+    [
+      "W",
+      "L",
+      "B",
+      "I",
+      "E",
+      "Z",
+      "L",
+      "A",
+      "Z",
+      "L",
+      "C",
+      "C"
+    ],
+    [
+      "J",
+      "A",
+      "B",
+      "E",
+      "T",
+      "L",
+      "R",
+      "L",
+      "I",
+      "A",
+      "J",
+      "V"
+    ],
+    [
+      "O",
+      "N",
+      "J",
+      "P",
+      "P",
+      "C",
+      "D",
+      "T",
+      "E",
+      "C",
+      "R",
+      "L"
+    ],
+    [
+      "V",
+      "D",
+      "N",
+      "F",
+      "V",
+      "G",
+      "S",
+      "M",
+      "T",
+      "R",
+      "J",
+      "C"
+    ],
+    [
+      "D",
+      "S",
+      "S",
+      "C",
+      "O",
+      "M",
+      "P",
+      "O",
+      "S",
+      "E",
+      "Y",
+      "A"
+    ],
+    [
+      "D",
+      "C",
+      "V",
+      "P",
+      "I",
+      "C",
+      "T",
+      "U",
+      "R",
+      "E",
+      "J",
+      "P"
+    ],
+    [
+      "E",
+      "A",
+      "U",
+      "M",
+      "O",
+      "M",
+      "E",
+      "N",
+      "T",
+      "R",
+      "O",
+      "T"
+    ],
+    [
+      "D",
+      "P",
+      "W",
+      "S",
+      "H",
+      "A",
+      "D",
+      "O",
+      "W",
+      "R",
+      "H",
+      "U"
+    ],
+    [
+      "I",
+      "E",
+      "I",
+      "S",
+      "O",
+      "H",
+      "A",
+      "A",
+      "C",
+      "S",
+      "W",
+      "R"
+    ],
+    [
+      "T",
+      "K",
+      "F",
+      "M",
+      "E",
+      "M",
+      "O",
+      "R",
+      "Y",
+      "T",
+      "Z",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "LANDSCAPE",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "COMPOSE",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "GALLERY",
+      "row": 0,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "CAPTURE",
+      "row": 5,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "PICTURE",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "MOMENT",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "MEMORY",
+      "row": 11,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SHADOW",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "FIELD",
+      "row": 0,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "STILL",
+      "row": 5,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "CRAFT",
+      "row": 4,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "CROP",
+      "row": 10,
+      "col": 8,
+      "direction": "NE"
+    },
+    {
+      "word": "EDIT",
+      "row": 8,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "ISO",
+      "row": 10,
+      "col": 2,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8704
+}

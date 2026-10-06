@@ -1,0 +1,173 @@
+{
+  "id": "money-large-01",
+  "slug": "money-large-01",
+  "themeId": "money",
+  "title": "Large Print Money: Soft Coin",
+  "primaryKeyword": "large print money word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BANK",
+    "BILL",
+    "CASH",
+    "COIN",
+    "COST",
+    "SAVE",
+    "TIP",
+    "WAGE"
+  ],
+  "grid": [
+    [
+      "W",
+      "P",
+      "J",
+      "C",
+      "F",
+      "F",
+      "G",
+      "J",
+      "W"
+    ],
+    [
+      "O",
+      "A",
+      "S",
+      "O",
+      "A",
+      "N",
+      "T",
+      "I",
+      "P"
+    ],
+    [
+      "N",
+      "M",
+      "Z",
+      "I",
+      "D",
+      "S",
+      "J",
+      "C",
+      "C"
+    ],
+    [
+      "J",
+      "F",
+      "H",
+      "N",
+      "S",
+      "A",
+      "B",
+      "A",
+      "O"
+    ],
+    [
+      "V",
+      "Q",
+      "N",
+      "L",
+      "C",
+      "V",
+      "G",
+      "S",
+      "S"
+    ],
+    [
+      "B",
+      "A",
+      "N",
+      "K",
+      "U",
+      "E",
+      "U",
+      "H",
+      "T"
+    ],
+    [
+      "N",
+      "W",
+      "A",
+      "G",
+      "E",
+      "P",
+      "Q",
+      "M",
+      "I"
+    ],
+    [
+      "Q",
+      "B",
+      "I",
+      "L",
+      "L",
+      "S",
+      "M",
+      "E",
+      "O"
+    ],
+    [
+      "S",
+      "L",
+      "Y",
+      "Y",
+      "B",
+      "A",
+      "M",
+      "S",
+      "W"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CASH",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "COIN",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "BILL",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BANK",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SAVE",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "COST",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "WAGE",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TIP",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8356
+}

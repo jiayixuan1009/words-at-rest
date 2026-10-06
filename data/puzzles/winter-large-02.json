@@ -1,0 +1,173 @@
+{
+  "id": "winter-large-02",
+  "slug": "winter-large-02",
+  "themeId": "winter",
+  "title": "Large Print Winter: Soft Wool",
+  "primaryKeyword": "large print winter word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BOOTS",
+    "CHILL",
+    "COCOA",
+    "FROST",
+    "SCARF",
+    "SNOW",
+    "WARM",
+    "WOOL"
+  ],
+  "grid": [
+    [
+      "F",
+      "R",
+      "O",
+      "S",
+      "T",
+      "S",
+      "G",
+      "Q",
+      "R"
+    ],
+    [
+      "Y",
+      "B",
+      "B",
+      "D",
+      "T",
+      "W",
+      "O",
+      "O",
+      "L"
+    ],
+    [
+      "H",
+      "M",
+      "X",
+      "O",
+      "S",
+      "C",
+      "A",
+      "R",
+      "F"
+    ],
+    [
+      "C",
+      "H",
+      "I",
+      "L",
+      "L",
+      "C",
+      "B",
+      "R",
+      "G"
+    ],
+    [
+      "G",
+      "X",
+      "S",
+      "Y",
+      "E",
+      "O",
+      "Y",
+      "T",
+      "B"
+    ],
+    [
+      "T",
+      "K",
+      "S",
+      "C",
+      "Y",
+      "C",
+      "X",
+      "V",
+      "O"
+    ],
+    [
+      "E",
+      "A",
+      "R",
+      "B",
+      "B",
+      "O",
+      "P",
+      "H",
+      "O"
+    ],
+    [
+      "S",
+      "N",
+      "O",
+      "W",
+      "W",
+      "A",
+      "R",
+      "M",
+      "T"
+    ],
+    [
+      "T",
+      "X",
+      "D",
+      "X",
+      "Z",
+      "O",
+      "N",
+      "R",
+      "S"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "COCOA",
+      "row": 3,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "SCARF",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BOOTS",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "CHILL",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "FROST",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SNOW",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "WOOL",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "WARM",
+      "row": 7,
+      "col": 4,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 1212
+}

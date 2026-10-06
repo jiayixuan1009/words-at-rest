@@ -1,0 +1,284 @@
+{
+  "id": "money-medium-01",
+  "slug": "money-medium-01",
+  "themeId": "money",
+  "title": "Money: Ledger Page",
+  "primaryKeyword": "money word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ACCOUNT",
+    "BALANCE",
+    "BUDGET",
+    "CHECK",
+    "CREDIT",
+    "DEBIT",
+    "DEPOSIT",
+    "EXPENSE",
+    "INCOME",
+    "INTEREST",
+    "MONEY",
+    "RATE",
+    "SALARY",
+    "SAVING"
+  ],
+  "grid": [
+    [
+      "L",
+      "B",
+      "K",
+      "T",
+      "D",
+      "Y",
+      "I",
+      "N",
+      "C",
+      "O",
+      "M",
+      "E"
+    ],
+    [
+      "B",
+      "U",
+      "S",
+      "I",
+      "M",
+      "E",
+      "K",
+      "Y",
+      "H",
+      "A",
+      "K",
+      "X"
+    ],
+    [
+      "D",
+      "D",
+      "M",
+      "N",
+      "M",
+      "S",
+      "B",
+      "S",
+      "A",
+      "C",
+      "D",
+      "P"
+    ],
+    [
+      "Q",
+      "G",
+      "O",
+      "T",
+      "H",
+      "C",
+      "A",
+      "I",
+      "A",
+      "C",
+      "M",
+      "E"
+    ],
+    [
+      "Q",
+      "E",
+      "N",
+      "E",
+      "D",
+      "B",
+      "V",
+      "V",
+      "T",
+      "O",
+      "T",
+      "N"
+    ],
+    [
+      "A",
+      "T",
+      "E",
+      "R",
+      "D",
+      "T",
+      "A",
+      "X",
+      "I",
+      "U",
+      "B",
+      "S"
+    ],
+    [
+      "C",
+      "S",
+      "Y",
+      "E",
+      "K",
+      "Q",
+      "X",
+      "L",
+      "J",
+      "N",
+      "T",
+      "E"
+    ],
+    [
+      "R",
+      "D",
+      "A",
+      "S",
+      "U",
+      "J",
+      "L",
+      "L",
+      "A",
+      "T",
+      "G",
+      "D"
+    ],
+    [
+      "E",
+      "S",
+      "P",
+      "T",
+      "O",
+      "R",
+      "A",
+      "T",
+      "E",
+      "N",
+      "I",
+      "Y"
+    ],
+    [
+      "D",
+      "D",
+      "E",
+      "P",
+      "O",
+      "S",
+      "I",
+      "T",
+      "T",
+      "P",
+      "C",
+      "G"
+    ],
+    [
+      "I",
+      "D",
+      "B",
+      "R",
+      "C",
+      "H",
+      "E",
+      "C",
+      "K",
+      "G",
+      "Q",
+      "E"
+    ],
+    [
+      "T",
+      "G",
+      "R",
+      "M",
+      "U",
+      "S",
+      "A",
+      "L",
+      "A",
+      "R",
+      "Y",
+      "V"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "INTEREST",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "ACCOUNT",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "BALANCE",
+      "row": 4,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "DEPOSIT",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "EXPENSE",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "SAVING",
+      "row": 2,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "BUDGET",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "CREDIT",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SALARY",
+      "row": 11,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "INCOME",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "MONEY",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "DEBIT",
+      "row": 0,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "CHECK",
+      "row": 10,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "RATE",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8353
+}

@@ -1,0 +1,208 @@
+{
+  "id": "thanksgiving-easy-02",
+  "slug": "thanksgiving-easy-02",
+  "themeId": "thanksgiving",
+  "title": "Thanksgiving: Grateful Words",
+  "primaryKeyword": "thanksgiving word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BLESSING",
+    "FAMILY",
+    "HARVEST",
+    "HOME",
+    "JOY",
+    "KIND",
+    "PEACE",
+    "SHARE",
+    "THANKS",
+    "WARMTH"
+  ],
+  "grid": [
+    [
+      "R",
+      "Y",
+      "E",
+      "K",
+      "I",
+      "N",
+      "D",
+      "S",
+      "D",
+      "T"
+    ],
+    [
+      "T",
+      "U",
+      "C",
+      "U",
+      "G",
+      "Z",
+      "I",
+      "S",
+      "M",
+      "J"
+    ],
+    [
+      "A",
+      "W",
+      "A",
+      "R",
+      "M",
+      "T",
+      "H",
+      "K",
+      "H",
+      "Z"
+    ],
+    [
+      "H",
+      "O",
+      "Y",
+      "T",
+      "H",
+      "A",
+      "N",
+      "K",
+      "S",
+      "M"
+    ],
+    [
+      "R",
+      "M",
+      "U",
+      "P",
+      "E",
+      "A",
+      "C",
+      "E",
+      "N",
+      "Y"
+    ],
+    [
+      "B",
+      "L",
+      "E",
+      "S",
+      "S",
+      "I",
+      "N",
+      "G",
+      "E",
+      "K"
+    ],
+    [
+      "Q",
+      "J",
+      "F",
+      "A",
+      "M",
+      "I",
+      "L",
+      "Y",
+      "Z",
+      "W"
+    ],
+    [
+      "S",
+      "O",
+      "E",
+      "H",
+      "A",
+      "R",
+      "V",
+      "E",
+      "S",
+      "T"
+    ],
+    [
+      "Y",
+      "Y",
+      "O",
+      "C",
+      "R",
+      "S",
+      "H",
+      "A",
+      "R",
+      "E"
+    ],
+    [
+      "T",
+      "H",
+      "O",
+      "M",
+      "E",
+      "Q",
+      "G",
+      "G",
+      "T",
+      "X"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BLESSING",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "HARVEST",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "THANKS",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "FAMILY",
+      "row": 6,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "WARMTH",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SHARE",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "PEACE",
+      "row": 4,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "KIND",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "HOME",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "JOY",
+      "row": 6,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 1122
+}

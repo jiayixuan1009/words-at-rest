@@ -1,0 +1,208 @@
+{
+  "id": "beach-easy-02",
+  "slug": "beach-easy-02",
+  "themeId": "beach",
+  "title": "Beach: Quiet Shore",
+  "primaryKeyword": "beach word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CHAIR",
+    "DIVE",
+    "FLOAT",
+    "FOAM",
+    "GULL",
+    "REST",
+    "ROCK",
+    "SHADE",
+    "SURF",
+    "TOWEL"
+  ],
+  "grid": [
+    [
+      "Q",
+      "S",
+      "Z",
+      "S",
+      "U",
+      "R",
+      "F",
+      "C",
+      "R",
+      "W"
+    ],
+    [
+      "V",
+      "X",
+      "Z",
+      "S",
+      "U",
+      "O",
+      "D",
+      "H",
+      "E",
+      "S"
+    ],
+    [
+      "K",
+      "D",
+      "S",
+      "H",
+      "G",
+      "I",
+      "I",
+      "A",
+      "S",
+      "R"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "A",
+      "O",
+      "P",
+      "V",
+      "I",
+      "T",
+      "J"
+    ],
+    [
+      "E",
+      "G",
+      "O",
+      "D",
+      "X",
+      "H",
+      "E",
+      "R",
+      "H",
+      "S"
+    ],
+    [
+      "F",
+      "U",
+      "A",
+      "E",
+      "M",
+      "C",
+      "R",
+      "L",
+      "V",
+      "B"
+    ],
+    [
+      "L",
+      "L",
+      "M",
+      "F",
+      "I",
+      "E",
+      "O",
+      "E",
+      "G",
+      "H"
+    ],
+    [
+      "O",
+      "L",
+      "F",
+      "N",
+      "W",
+      "Y",
+      "C",
+      "U",
+      "X",
+      "T"
+    ],
+    [
+      "A",
+      "T",
+      "Y",
+      "S",
+      "M",
+      "V",
+      "K",
+      "Q",
+      "K",
+      "X"
+    ],
+    [
+      "T",
+      "Q",
+      "G",
+      "T",
+      "O",
+      "W",
+      "E",
+      "L",
+      "N",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TOWEL",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SHADE",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "CHAIR",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "FLOAT",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SURF",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "FOAM",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "GULL",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "DIVE",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "ROCK",
+      "row": 5,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "REST",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8102
+}

@@ -1,0 +1,173 @@
+{
+  "id": "camping-large-01",
+  "slug": "camping-large-01",
+  "themeId": "camping",
+  "title": "Large Print Camping: Soft Tent",
+  "primaryKeyword": "large print camping word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "CAMP",
+    "FIRE",
+    "HIKE",
+    "LAKE",
+    "MAP",
+    "PACK",
+    "PATH",
+    "TENT"
+  ],
+  "grid": [
+    [
+      "E",
+      "Y",
+      "Z",
+      "G",
+      "Q",
+      "V",
+      "H",
+      "E",
+      "T"
+    ],
+    [
+      "M",
+      "V",
+      "N",
+      "S",
+      "L",
+      "I",
+      "S",
+      "B",
+      "E"
+    ],
+    [
+      "A",
+      "H",
+      "H",
+      "B",
+      "R",
+      "O",
+      "K",
+      "P",
+      "N"
+    ],
+    [
+      "P",
+      "I",
+      "M",
+      "P",
+      "J",
+      "M",
+      "U",
+      "L",
+      "T"
+    ],
+    [
+      "N",
+      "K",
+      "K",
+      "A",
+      "Q",
+      "F",
+      "R",
+      "A",
+      "K"
+    ],
+    [
+      "C",
+      "E",
+      "X",
+      "C",
+      "O",
+      "Y",
+      "J",
+      "K",
+      "C"
+    ],
+    [
+      "L",
+      "G",
+      "V",
+      "K",
+      "Q",
+      "A",
+      "R",
+      "E",
+      "A"
+    ],
+    [
+      "U",
+      "B",
+      "A",
+      "F",
+      "I",
+      "R",
+      "E",
+      "W",
+      "M"
+    ],
+    [
+      "C",
+      "K",
+      "P",
+      "A",
+      "T",
+      "H",
+      "C",
+      "G",
+      "P"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TENT",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "FIRE",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "HIKE",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "CAMP",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "PACK",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "PATH",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "LAKE",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "MAP",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8046
+}

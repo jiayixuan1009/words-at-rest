@@ -1,0 +1,284 @@
+{
+  "id": "animals-medium-02",
+  "slug": "animals-medium-02",
+  "themeId": "animals",
+  "title": "Animals: Woodland Edge",
+  "primaryKeyword": "animals word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BADGER",
+    "BEAVER",
+    "CHIPMUNK",
+    "FALCON",
+    "FERRET",
+    "HEDGEHOG",
+    "HERON",
+    "LYNX",
+    "OTTER",
+    "RACCOON",
+    "ROBIN",
+    "SPARROW",
+    "TORTOISE",
+    "WEASEL"
+  ],
+  "grid": [
+    [
+      "G",
+      "R",
+      "O",
+      "B",
+      "I",
+      "N",
+      "I",
+      "G",
+      "B",
+      "K",
+      "A",
+      "U"
+    ],
+    [
+      "H",
+      "E",
+      "R",
+      "O",
+      "N",
+      "R",
+      "T",
+      "T",
+      "P",
+      "H",
+      "H",
+      "B"
+    ],
+    [
+      "Q",
+      "Q",
+      "D",
+      "S",
+      "B",
+      "J",
+      "U",
+      "O",
+      "T",
+      "E",
+      "Q",
+      "E"
+    ],
+    [
+      "O",
+      "K",
+      "H",
+      "P",
+      "X",
+      "R",
+      "F",
+      "R",
+      "B",
+      "D",
+      "W",
+      "A"
+    ],
+    [
+      "T",
+      "O",
+      "V",
+      "A",
+      "J",
+      "A",
+      "A",
+      "T",
+      "A",
+      "G",
+      "E",
+      "V"
+    ],
+    [
+      "T",
+      "S",
+      "X",
+      "R",
+      "Z",
+      "C",
+      "L",
+      "O",
+      "D",
+      "E",
+      "A",
+      "E"
+    ],
+    [
+      "E",
+      "F",
+      "J",
+      "R",
+      "F",
+      "C",
+      "C",
+      "I",
+      "G",
+      "H",
+      "S",
+      "R"
+    ],
+    [
+      "R",
+      "X",
+      "E",
+      "O",
+      "Q",
+      "O",
+      "O",
+      "S",
+      "E",
+      "O",
+      "E",
+      "U"
+    ],
+    [
+      "Q",
+      "T",
+      "P",
+      "W",
+      "N",
+      "O",
+      "N",
+      "E",
+      "R",
+      "G",
+      "L",
+      "X"
+    ],
+    [
+      "T",
+      "X",
+      "O",
+      "O",
+      "S",
+      "N",
+      "P",
+      "N",
+      "R",
+      "T",
+      "N",
+      "Y"
+    ],
+    [
+      "C",
+      "H",
+      "I",
+      "P",
+      "M",
+      "U",
+      "N",
+      "K",
+      "R",
+      "Y",
+      "X",
+      "B"
+    ],
+    [
+      "W",
+      "F",
+      "F",
+      "E",
+      "R",
+      "R",
+      "E",
+      "T",
+      "L",
+      "G",
+      "T",
+      "U"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "HEDGEHOG",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "CHIPMUNK",
+      "row": 10,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "TORTOISE",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "RACCOON",
+      "row": 3,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "SPARROW",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "BADGER",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "FALCON",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "FERRET",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "WEASEL",
+      "row": 3,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "BEAVER",
+      "row": 1,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "ROBIN",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "OTTER",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "HERON",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "LYNX",
+      "row": 11,
+      "col": 8,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2012
+}

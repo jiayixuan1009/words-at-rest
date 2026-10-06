@@ -1,0 +1,284 @@
+{
+  "id": "kindness-medium-02",
+  "slug": "kindness-medium-02",
+  "themeId": "kindness",
+  "title": "Kindness: Soft Thanks",
+  "primaryKeyword": "kindness word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "AID",
+    "APOLOGY",
+    "COURTESY",
+    "FORGIVE",
+    "FRIEND",
+    "GUEST",
+    "HUG",
+    "INVITE",
+    "LIFT",
+    "NEIGHBOR",
+    "OFFER",
+    "SERVE",
+    "TABLE",
+    "WELCOME"
+  ],
+  "grid": [
+    [
+      "F",
+      "R",
+      "I",
+      "E",
+      "N",
+      "D",
+      "C",
+      "T",
+      "A",
+      "B",
+      "L",
+      "E"
+    ],
+    [
+      "O",
+      "N",
+      "M",
+      "S",
+      "Z",
+      "E",
+      "O",
+      "F",
+      "F",
+      "E",
+      "R",
+      "R"
+    ],
+    [
+      "S",
+      "Y",
+      "H",
+      "C",
+      "S",
+      "A",
+      "I",
+      "R",
+      "D",
+      "L",
+      "C",
+      "E"
+    ],
+    [
+      "U",
+      "T",
+      "S",
+      "O",
+      "W",
+      "Z",
+      "J",
+      "G",
+      "Z",
+      "L",
+      "T",
+      "A"
+    ],
+    [
+      "Y",
+      "H",
+      "D",
+      "U",
+      "E",
+      "C",
+      "S",
+      "A",
+      "H",
+      "I",
+      "O",
+      "I"
+    ],
+    [
+      "V",
+      "K",
+      "C",
+      "R",
+      "L",
+      "F",
+      "D",
+      "W",
+      "V",
+      "B",
+      "C",
+      "D"
+    ],
+    [
+      "B",
+      "Q",
+      "K",
+      "T",
+      "C",
+      "Y",
+      "O",
+      "N",
+      "I",
+      "L",
+      "O",
+      "T"
+    ],
+    [
+      "G",
+      "H",
+      "V",
+      "E",
+      "O",
+      "S",
+      "I",
+      "R",
+      "Y",
+      "K",
+      "F",
+      "R"
+    ],
+    [
+      "U",
+      "U",
+      "B",
+      "S",
+      "M",
+      "Z",
+      "S",
+      "J",
+      "G",
+      "I",
+      "B",
+      "T"
+    ],
+    [
+      "E",
+      "G",
+      "I",
+      "Y",
+      "E",
+      "O",
+      "V",
+      "K",
+      "L",
+      "I",
+      "J",
+      "Z"
+    ],
+    [
+      "S",
+      "S",
+      "E",
+      "R",
+      "V",
+      "E",
+      "P",
+      "I",
+      "M",
+      "A",
+      "V",
+      "Q"
+    ],
+    [
+      "T",
+      "A",
+      "P",
+      "O",
+      "L",
+      "O",
+      "G",
+      "Y",
+      "S",
+      "B",
+      "Z",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "COURTESY",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "NEIGHBOR",
+      "row": 0,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "APOLOGY",
+      "row": 11,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "FORGIVE",
+      "row": 5,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "WELCOME",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "INVITE",
+      "row": 7,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "FRIEND",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "OFFER",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "SERVE",
+      "row": 10,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "GUEST",
+      "row": 7,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "TABLE",
+      "row": 0,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "LIFT",
+      "row": 9,
+      "col": 8,
+      "direction": "NE"
+    },
+    {
+      "word": "HUG",
+      "row": 7,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "AID",
+      "row": 3,
+      "col": 11,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8214
+}

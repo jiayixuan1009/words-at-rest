@@ -1,0 +1,284 @@
+{
+  "id": "birds-medium-02",
+  "slug": "birds-medium-02",
+  "themeId": "birds",
+  "title": "Birds: Quiet Perch",
+  "primaryKeyword": "birds word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BLACKBIRD",
+    "CHICK",
+    "CHICKADEE",
+    "CLOUD",
+    "FLOCK",
+    "GLIDE",
+    "HOVER",
+    "MIGRATION",
+    "NUTHATCH",
+    "ORIOLE",
+    "SOAR",
+    "STARLING",
+    "TANAGER",
+    "WARBLER"
+  ],
+  "grid": [
+    [
+      "S",
+      "H",
+      "B",
+      "L",
+      "A",
+      "C",
+      "K",
+      "B",
+      "I",
+      "R",
+      "D",
+      "K"
+    ],
+    [
+      "O",
+      "O",
+      "T",
+      "L",
+      "Q",
+      "O",
+      "O",
+      "S",
+      "N",
+      "S",
+      "Y",
+      "Z"
+    ],
+    [
+      "Z",
+      "V",
+      "A",
+      "D",
+      "C",
+      "P",
+      "R",
+      "T",
+      "U",
+      "C",
+      "Q",
+      "A"
+    ],
+    [
+      "G",
+      "E",
+      "N",
+      "R",
+      "H",
+      "L",
+      "I",
+      "A",
+      "T",
+      "L",
+      "C",
+      "F"
+    ],
+    [
+      "L",
+      "R",
+      "A",
+      "R",
+      "I",
+      "E",
+      "O",
+      "R",
+      "H",
+      "O",
+      "S",
+      "L"
+    ],
+    [
+      "I",
+      "G",
+      "G",
+      "C",
+      "C",
+      "A",
+      "L",
+      "L",
+      "A",
+      "U",
+      "T",
+      "O"
+    ],
+    [
+      "D",
+      "K",
+      "E",
+      "H",
+      "K",
+      "Y",
+      "E",
+      "I",
+      "T",
+      "D",
+      "I",
+      "C"
+    ],
+    [
+      "E",
+      "X",
+      "R",
+      "I",
+      "A",
+      "S",
+      "F",
+      "N",
+      "C",
+      "M",
+      "B",
+      "K"
+    ],
+    [
+      "T",
+      "L",
+      "N",
+      "C",
+      "D",
+      "S",
+      "S",
+      "G",
+      "H",
+      "Q",
+      "S",
+      "D"
+    ],
+    [
+      "M",
+      "I",
+      "R",
+      "K",
+      "E",
+      "K",
+      "O",
+      "B",
+      "S",
+      "K",
+      "Y",
+      "H"
+    ],
+    [
+      "H",
+      "E",
+      "N",
+      "P",
+      "E",
+      "W",
+      "A",
+      "R",
+      "B",
+      "L",
+      "E",
+      "R"
+    ],
+    [
+      "W",
+      "M",
+      "I",
+      "G",
+      "R",
+      "A",
+      "T",
+      "I",
+      "O",
+      "N",
+      "E",
+      "Q"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CHICKADEE",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "BLACKBIRD",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "MIGRATION",
+      "row": 11,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "NUTHATCH",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "STARLING",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "WARBLER",
+      "row": 10,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "TANAGER",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "ORIOLE",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "FLOCK",
+      "row": 3,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "GLIDE",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "HOVER",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "CLOUD",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "CHICK",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "SOAR",
+      "row": 0,
+      "col": 0,
+      "direction": "SE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7154
+}

@@ -1,0 +1,208 @@
+{
+  "id": "sewing-easy-01",
+  "slug": "sewing-easy-01",
+  "themeId": "sewing",
+  "title": "Sewing: Needle Basics",
+  "primaryKeyword": "sewing word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BAG",
+    "EDGE",
+    "HEM",
+    "MARK",
+    "MEND",
+    "PIN",
+    "SEAM",
+    "SEW",
+    "SNAP",
+    "TOTE"
+  ],
+  "grid": [
+    [
+      "Z",
+      "P",
+      "T",
+      "H",
+      "E",
+      "W",
+      "E",
+      "Z",
+      "L",
+      "R"
+    ],
+    [
+      "D",
+      "L",
+      "O",
+      "P",
+      "D",
+      "E",
+      "V",
+      "C",
+      "X",
+      "S"
+    ],
+    [
+      "J",
+      "V",
+      "T",
+      "F",
+      "G",
+      "S",
+      "A",
+      "D",
+      "M",
+      "N"
+    ],
+    [
+      "T",
+      "A",
+      "E",
+      "C",
+      "E",
+      "S",
+      "E",
+      "A",
+      "M",
+      "A"
+    ],
+    [
+      "M",
+      "V",
+      "L",
+      "H",
+      "K",
+      "C",
+      "R",
+      "N",
+      "A",
+      "P"
+    ],
+    [
+      "E",
+      "W",
+      "U",
+      "E",
+      "G",
+      "L",
+      "S",
+      "W",
+      "H",
+      "U"
+    ],
+    [
+      "N",
+      "A",
+      "U",
+      "M",
+      "A",
+      "R",
+      "K",
+      "P",
+      "S",
+      "Z"
+    ],
+    [
+      "D",
+      "E",
+      "G",
+      "B",
+      "E",
+      "S",
+      "C",
+      "D",
+      "K",
+      "V"
+    ],
+    [
+      "X",
+      "P",
+      "I",
+      "N",
+      "R",
+      "X",
+      "B",
+      "A",
+      "G",
+      "B"
+    ],
+    [
+      "F",
+      "S",
+      "E",
+      "W",
+      "W",
+      "Q",
+      "S",
+      "D",
+      "R",
+      "Q"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SEAM",
+      "row": 3,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SNAP",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "TOTE",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "MEND",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "EDGE",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "MARK",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SEW",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "HEM",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "PIN",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BAG",
+      "row": 8,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8611
+}

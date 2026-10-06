@@ -1,0 +1,173 @@
+{
+  "id": "fathers-day-large-01",
+  "slug": "fathers-day-large-01",
+  "themeId": "fathers-day",
+  "title": "Large Print Father's Day: Soft Rest",
+  "primaryKeyword": "large print fathers day word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "CARD",
+    "DAD",
+    "GRILL",
+    "HOME",
+    "HUG",
+    "MUG",
+    "REST",
+    "TIE"
+  ],
+  "grid": [
+    [
+      "M",
+      "U",
+      "G",
+      "V",
+      "H",
+      "J",
+      "S",
+      "D",
+      "E"
+    ],
+    [
+      "D",
+      "A",
+      "D",
+      "G",
+      "I",
+      "F",
+      "G",
+      "J",
+      "V"
+    ],
+    [
+      "K",
+      "H",
+      "H",
+      "R",
+      "R",
+      "E",
+      "X",
+      "C",
+      "R"
+    ],
+    [
+      "N",
+      "R",
+      "O",
+      "I",
+      "M",
+      "Z",
+      "F",
+      "T",
+      "E"
+    ],
+    [
+      "I",
+      "K",
+      "M",
+      "L",
+      "D",
+      "H",
+      "U",
+      "G",
+      "S"
+    ],
+    [
+      "H",
+      "O",
+      "E",
+      "L",
+      "C",
+      "A",
+      "R",
+      "D",
+      "T"
+    ],
+    [
+      "Y",
+      "R",
+      "K",
+      "Y",
+      "M",
+      "Q",
+      "E",
+      "Y",
+      "P"
+    ],
+    [
+      "T",
+      "I",
+      "E",
+      "U",
+      "J",
+      "Z",
+      "C",
+      "L",
+      "Z"
+    ],
+    [
+      "X",
+      "A",
+      "R",
+      "Y",
+      "S",
+      "O",
+      "P",
+      "T",
+      "Y"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "GRILL",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "CARD",
+      "row": 5,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "HOME",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "REST",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "DAD",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "TIE",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "HUG",
+      "row": 4,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "MUG",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7046
+}

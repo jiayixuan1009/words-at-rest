@@ -1,0 +1,284 @@
+{
+  "id": "kitchen-medium-01",
+  "slug": "kitchen-medium-01",
+  "themeId": "kitchen",
+  "title": "Kitchen: Pantry Shelf",
+  "primaryKeyword": "kitchen word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BAKE",
+    "BOARD",
+    "BOIL",
+    "DRAWER",
+    "GRATER",
+    "LADLE",
+    "PANTRY",
+    "PEELER",
+    "RECIPE",
+    "ROAST",
+    "SIMMER",
+    "SPATULA",
+    "STOVE",
+    "WHISK"
+  ],
+  "grid": [
+    [
+      "C",
+      "S",
+      "P",
+      "A",
+      "T",
+      "U",
+      "L",
+      "A",
+      "D",
+      "Q",
+      "T",
+      "C"
+    ],
+    [
+      "K",
+      "R",
+      "B",
+      "O",
+      "A",
+      "R",
+      "D",
+      "N",
+      "S",
+      "S",
+      "U",
+      "Q"
+    ],
+    [
+      "P",
+      "R",
+      "S",
+      "L",
+      "Q",
+      "C",
+      "E",
+      "I",
+      "A",
+      "V",
+      "K",
+      "Q"
+    ],
+    [
+      "A",
+      "B",
+      "T",
+      "I",
+      "A",
+      "K",
+      "G",
+      "O",
+      "M",
+      "S",
+      "I",
+      "I"
+    ],
+    [
+      "N",
+      "X",
+      "O",
+      "N",
+      "A",
+      "D",
+      "R",
+      "R",
+      "I",
+      "R",
+      "C",
+      "L"
+    ],
+    [
+      "T",
+      "N",
+      "V",
+      "B",
+      "D",
+      "R",
+      "L",
+      "H",
+      "A",
+      "D",
+      "L",
+      "T"
+    ],
+    [
+      "R",
+      "B",
+      "E",
+      "P",
+      "E",
+      "R",
+      "W",
+      "E",
+      "L",
+      "T",
+      "Z",
+      "R"
+    ],
+    [
+      "Y",
+      "B",
+      "S",
+      "M",
+      "E",
+      "Y",
+      "A",
+      "N",
+      "D",
+      "U",
+      "E",
+      "C"
+    ],
+    [
+      "C",
+      "F",
+      "M",
+      "H",
+      "F",
+      "E",
+      "J",
+      "W",
+      "D",
+      "T",
+      "B",
+      "R"
+    ],
+    [
+      "Z",
+      "I",
+      "E",
+      "M",
+      "T",
+      "H",
+      "L",
+      "R",
+      "E",
+      "V",
+      "O",
+      "M"
+    ],
+    [
+      "S",
+      "J",
+      "L",
+      "Z",
+      "Z",
+      "I",
+      "E",
+      "E",
+      "U",
+      "R",
+      "I",
+      "X"
+    ],
+    [
+      "R",
+      "E",
+      "C",
+      "I",
+      "P",
+      "E",
+      "R",
+      "A",
+      "R",
+      "H",
+      "L",
+      "W"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SPATULA",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "DRAWER",
+      "row": 5,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "PANTRY",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "GRATER",
+      "row": 3,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "PEELER",
+      "row": 6,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "RECIPE",
+      "row": 11,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SIMMER",
+      "row": 10,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "STOVE",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "WHISK",
+      "row": 6,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "LADLE",
+      "row": 2,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "BOARD",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ROAST",
+      "row": 4,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "BOIL",
+      "row": 8,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "BAKE",
+      "row": 5,
+      "col": 3,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7143
+}

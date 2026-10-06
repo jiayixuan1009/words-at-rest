@@ -1,0 +1,173 @@
+{
+  "id": "mothers-day-large-01",
+  "slug": "mothers-day-large-01",
+  "themeId": "mothers-day",
+  "title": "Large Print Mother's Day: Soft Hug",
+  "primaryKeyword": "large print mothers day word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "CARD",
+    "GIFT",
+    "HOME",
+    "HUG",
+    "LOVE",
+    "MOM",
+    "ROSE",
+    "TEA"
+  ],
+  "grid": [
+    [
+      "T",
+      "C",
+      "A",
+      "R",
+      "D",
+      "U",
+      "P",
+      "Y",
+      "R"
+    ],
+    [
+      "E",
+      "G",
+      "I",
+      "F",
+      "T",
+      "D",
+      "G",
+      "W",
+      "O"
+    ],
+    [
+      "A",
+      "S",
+      "O",
+      "F",
+      "M",
+      "D",
+      "H",
+      "A",
+      "S"
+    ],
+    [
+      "J",
+      "U",
+      "C",
+      "M",
+      "Z",
+      "I",
+      "P",
+      "V",
+      "E"
+    ],
+    [
+      "C",
+      "N",
+      "H",
+      "O",
+      "A",
+      "V",
+      "L",
+      "O",
+      "F"
+    ],
+    [
+      "T",
+      "X",
+      "U",
+      "M",
+      "S",
+      "F",
+      "Y",
+      "E",
+      "L"
+    ],
+    [
+      "C",
+      "H",
+      "G",
+      "N",
+      "R",
+      "F",
+      "Y",
+      "L",
+      "O"
+    ],
+    [
+      "Z",
+      "C",
+      "U",
+      "T",
+      "E",
+      "I",
+      "K",
+      "L",
+      "V"
+    ],
+    [
+      "S",
+      "X",
+      "N",
+      "A",
+      "H",
+      "O",
+      "M",
+      "E",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ROSE",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "LOVE",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "CARD",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "GIFT",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "HOME",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "MOM",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "HUG",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "TEA",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7036
+}

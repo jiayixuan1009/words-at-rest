@@ -1,0 +1,208 @@
+{
+  "id": "fruits-easy-01",
+  "slug": "fruits-easy-01",
+  "themeId": "fruits",
+  "title": "Fruits: Orchard Basket",
+  "primaryKeyword": "fruits word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "APPLE",
+    "DATE",
+    "FIG",
+    "GRAPE",
+    "LEMON",
+    "LIME",
+    "MELON",
+    "PEACH",
+    "PEAR",
+    "PLUM"
+  ],
+  "grid": [
+    [
+      "D",
+      "S",
+      "Y",
+      "N",
+      "A",
+      "M",
+      "S",
+      "T",
+      "Q",
+      "G"
+    ],
+    [
+      "C",
+      "Z",
+      "G",
+      "P",
+      "Z",
+      "D",
+      "A",
+      "T",
+      "E",
+      "L"
+    ],
+    [
+      "N",
+      "E",
+      "R",
+      "E",
+      "M",
+      "L",
+      "G",
+      "P",
+      "A",
+      "E"
+    ],
+    [
+      "L",
+      "R",
+      "A",
+      "A",
+      "E",
+      "I",
+      "P",
+      "L",
+      "X",
+      "M"
+    ],
+    [
+      "L",
+      "N",
+      "P",
+      "R",
+      "L",
+      "I",
+      "R",
+      "U",
+      "Z",
+      "O"
+    ],
+    [
+      "I",
+      "M",
+      "E",
+      "U",
+      "O",
+      "K",
+      "B",
+      "M",
+      "F",
+      "N"
+    ],
+    [
+      "M",
+      "E",
+      "D",
+      "B",
+      "N",
+      "S",
+      "G",
+      "C",
+      "B",
+      "R"
+    ],
+    [
+      "E",
+      "P",
+      "E",
+      "A",
+      "C",
+      "H",
+      "T",
+      "U",
+      "F",
+      "A"
+    ],
+    [
+      "X",
+      "M",
+      "U",
+      "G",
+      "I",
+      "A",
+      "P",
+      "P",
+      "L",
+      "E"
+    ],
+    [
+      "A",
+      "D",
+      "R",
+      "A",
+      "F",
+      "I",
+      "G",
+      "U",
+      "S",
+      "F"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "APPLE",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "PEACH",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "GRAPE",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "MELON",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "LEMON",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "PEAR",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "PLUM",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "LIME",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "DATE",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "FIG",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6141
+}

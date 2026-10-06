@@ -1,0 +1,173 @@
+{
+  "id": "jobs-large-01",
+  "slug": "jobs-large-01",
+  "themeId": "jobs",
+  "title": "Large Print Jobs: Soft Work",
+  "primaryKeyword": "large print jobs careers word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "COOK",
+    "DESK",
+    "HELP",
+    "JOB",
+    "SHOP",
+    "SKILL",
+    "WAGE",
+    "WORK"
+  ],
+  "grid": [
+    [
+      "D",
+      "U",
+      "A",
+      "R",
+      "R",
+      "K",
+      "B",
+      "C",
+      "W"
+    ],
+    [
+      "S",
+      "B",
+      "J",
+      "B",
+      "U",
+      "G",
+      "J",
+      "O",
+      "B"
+    ],
+    [
+      "K",
+      "V",
+      "K",
+      "N",
+      "D",
+      "E",
+      "S",
+      "K",
+      "S"
+    ],
+    [
+      "I",
+      "E",
+      "S",
+      "P",
+      "W",
+      "X",
+      "T",
+      "W",
+      "H"
+    ],
+    [
+      "L",
+      "N",
+      "G",
+      "K",
+      "A",
+      "A",
+      "C",
+      "L",
+      "O"
+    ],
+    [
+      "L",
+      "B",
+      "O",
+      "C",
+      "G",
+      "F",
+      "K",
+      "P",
+      "P"
+    ],
+    [
+      "S",
+      "C",
+      "V",
+      "G",
+      "E",
+      "R",
+      "W",
+      "P",
+      "W"
+    ],
+    [
+      "C",
+      "O",
+      "O",
+      "K",
+      "W",
+      "O",
+      "R",
+      "K",
+      "Q"
+    ],
+    [
+      "N",
+      "G",
+      "T",
+      "R",
+      "N",
+      "H",
+      "E",
+      "L",
+      "P"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SKILL",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "WORK",
+      "row": 7,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "WAGE",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "DESK",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SHOP",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "COOK",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "HELP",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "JOB",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8146
+}

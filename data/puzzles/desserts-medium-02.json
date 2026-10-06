@@ -1,0 +1,284 @@
+{
+  "id": "desserts-medium-02",
+  "slug": "desserts-medium-02",
+  "themeId": "desserts",
+  "title": "Desserts: After Dinner",
+  "primaryKeyword": "desserts word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BROWNIE",
+    "CHEESECAKE",
+    "CHOCOLATE",
+    "COBBLER",
+    "CRUMBLE",
+    "CUSTARD",
+    "ECLAIR",
+    "GANACHE",
+    "MERINGUE",
+    "PARFAIT",
+    "PROFITEROLE",
+    "SHORTCAKE",
+    "TRIFLE",
+    "TRUFFLE"
+  ],
+  "grid": [
+    [
+      "B",
+      "J",
+      "C",
+      "L",
+      "C",
+      "O",
+      "P",
+      "B",
+      "K",
+      "R",
+      "C",
+      "C"
+    ],
+    [
+      "U",
+      "U",
+      "P",
+      "Q",
+      "H",
+      "G",
+      "A",
+      "R",
+      "X",
+      "F",
+      "H",
+      "R"
+    ],
+    [
+      "Y",
+      "J",
+      "R",
+      "A",
+      "E",
+      "C",
+      "R",
+      "O",
+      "C",
+      "D",
+      "O",
+      "U"
+    ],
+    [
+      "G",
+      "S",
+      "O",
+      "H",
+      "E",
+      "O",
+      "F",
+      "W",
+      "U",
+      "U",
+      "C",
+      "M"
+    ],
+    [
+      "A",
+      "H",
+      "F",
+      "T",
+      "S",
+      "B",
+      "A",
+      "N",
+      "S",
+      "M",
+      "O",
+      "B"
+    ],
+    [
+      "N",
+      "O",
+      "I",
+      "R",
+      "E",
+      "B",
+      "I",
+      "I",
+      "T",
+      "E",
+      "L",
+      "L"
+    ],
+    [
+      "A",
+      "R",
+      "T",
+      "U",
+      "C",
+      "L",
+      "T",
+      "E",
+      "A",
+      "R",
+      "A",
+      "E"
+    ],
+    [
+      "C",
+      "T",
+      "E",
+      "F",
+      "A",
+      "E",
+      "R",
+      "S",
+      "R",
+      "I",
+      "T",
+      "C"
+    ],
+    [
+      "H",
+      "C",
+      "R",
+      "F",
+      "K",
+      "R",
+      "I",
+      "N",
+      "D",
+      "N",
+      "E",
+      "L"
+    ],
+    [
+      "E",
+      "A",
+      "O",
+      "L",
+      "E",
+      "T",
+      "F",
+      "M",
+      "F",
+      "G",
+      "N",
+      "A"
+    ],
+    [
+      "X",
+      "K",
+      "L",
+      "E",
+      "L",
+      "S",
+      "L",
+      "Q",
+      "Z",
+      "U",
+      "S",
+      "I"
+    ],
+    [
+      "T",
+      "E",
+      "E",
+      "J",
+      "T",
+      "O",
+      "E",
+      "N",
+      "W",
+      "E",
+      "Y",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PROFITEROLE",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "CHEESECAKE",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "SHORTCAKE",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "CHOCOLATE",
+      "row": 0,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "MERINGUE",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "TRUFFLE",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "COBBLER",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "CRUMBLE",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "GANACHE",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "PARFAIT",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "CUSTARD",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "BROWNIE",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "ECLAIR",
+      "row": 6,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "TRIFLE",
+      "row": 6,
+      "col": 6,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6124
+}

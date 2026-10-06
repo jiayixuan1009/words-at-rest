@@ -1,0 +1,284 @@
+{
+  "id": "school-medium-01",
+  "slug": "school-medium-01",
+  "themeId": "school",
+  "title": "School: Lesson Bell",
+  "primaryKeyword": "school word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ERASER",
+    "ESSAY",
+    "HISTORY",
+    "LESSON",
+    "LOCKER",
+    "MARKER",
+    "QUIZ",
+    "READING",
+    "RULER",
+    "SCIENCE",
+    "STUDENT",
+    "SUBJECT",
+    "TEACHER",
+    "WRITING"
+  ],
+  "grid": [
+    [
+      "C",
+      "E",
+      "E",
+      "O",
+      "A",
+      "M",
+      "K",
+      "T",
+      "R",
+      "R",
+      "G",
+      "N"
+    ],
+    [
+      "F",
+      "S",
+      "Y",
+      "V",
+      "U",
+      "F",
+      "C",
+      "E",
+      "E",
+      "N",
+      "I",
+      "Y"
+    ],
+    [
+      "E",
+      "S",
+      "U",
+      "V",
+      "J",
+      "E",
+      "K",
+      "H",
+      "I",
+      "C",
+      "R",
+      "L"
+    ],
+    [
+      "R",
+      "A",
+      "E",
+      "Z",
+      "J",
+      "R",
+      "C",
+      "T",
+      "R",
+      "O",
+      "Z",
+      "P"
+    ],
+    [
+      "A",
+      "Y",
+      "A",
+      "B",
+      "A",
+      "A",
+      "I",
+      "E",
+      "T",
+      "I",
+      "I",
+      "A"
+    ],
+    [
+      "S",
+      "J",
+      "U",
+      "M",
+      "E",
+      "R",
+      "L",
+      "S",
+      "U",
+      "I",
+      "W",
+      "L"
+    ],
+    [
+      "E",
+      "S",
+      "C",
+      "T",
+      "W",
+      "U",
+      "I",
+      "Q",
+      "I",
+      "T",
+      "F",
+      "E"
+    ],
+    [
+      "R",
+      "J",
+      "B",
+      "I",
+      "R",
+      "H",
+      "O",
+      "H",
+      "Q",
+      "P",
+      "I",
+      "S"
+    ],
+    [
+      "S",
+      "C",
+      "I",
+      "E",
+      "N",
+      "C",
+      "E",
+      "O",
+      "Y",
+      "L",
+      "Z",
+      "S"
+    ],
+    [
+      "T",
+      "M",
+      "O",
+      "S",
+      "R",
+      "E",
+      "A",
+      "D",
+      "I",
+      "N",
+      "G",
+      "O"
+    ],
+    [
+      "M",
+      "P",
+      "H",
+      "N",
+      "S",
+      "T",
+      "U",
+      "D",
+      "E",
+      "N",
+      "T",
+      "N"
+    ],
+    [
+      "Z",
+      "F",
+      "Z",
+      "O",
+      "L",
+      "O",
+      "C",
+      "K",
+      "E",
+      "R",
+      "K",
+      "U"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SUBJECT",
+      "row": 6,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "HISTORY",
+      "row": 7,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "SCIENCE",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "READING",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "WRITING",
+      "row": 6,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "TEACHER",
+      "row": 6,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "STUDENT",
+      "row": 10,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "MARKER",
+      "row": 5,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "ERASER",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "LOCKER",
+      "row": 11,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "LESSON",
+      "row": 5,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "RULER",
+      "row": 7,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "ESSAY",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "QUIZ",
+      "row": 6,
+      "col": 7,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8133
+}

@@ -1,0 +1,208 @@
+{
+  "id": "school-easy-01",
+  "slug": "school-easy-01",
+  "themeId": "school",
+  "title": "School: Desk & Book",
+  "primaryKeyword": "school word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BELL",
+    "BOOK",
+    "CLASS",
+    "DESK",
+    "MATH",
+    "PAGE",
+    "PEN",
+    "ROOM",
+    "TEST",
+    "YEAR"
+  ],
+  "grid": [
+    [
+      "L",
+      "Z",
+      "L",
+      "T",
+      "D",
+      "E",
+      "L",
+      "T",
+      "N",
+      "R"
+    ],
+    [
+      "K",
+      "J",
+      "H",
+      "C",
+      "P",
+      "A",
+      "G",
+      "E",
+      "R",
+      "S"
+    ],
+    [
+      "W",
+      "H",
+      "T",
+      "L",
+      "E",
+      "Q",
+      "M",
+      "A",
+      "T",
+      "H"
+    ],
+    [
+      "C",
+      "B",
+      "K",
+      "A",
+      "N",
+      "F",
+      "R",
+      "O",
+      "B",
+      "N"
+    ],
+    [
+      "A",
+      "C",
+      "R",
+      "S",
+      "M",
+      "X",
+      "D",
+      "C",
+      "E",
+      "M"
+    ],
+    [
+      "X",
+      "O",
+      "O",
+      "S",
+      "I",
+      "T",
+      "E",
+      "Z",
+      "L",
+      "O"
+    ],
+    [
+      "U",
+      "A",
+      "O",
+      "D",
+      "B",
+      "E",
+      "S",
+      "K",
+      "L",
+      "Y"
+    ],
+    [
+      "I",
+      "C",
+      "M",
+      "P",
+      "O",
+      "S",
+      "K",
+      "U",
+      "D",
+      "E"
+    ],
+    [
+      "N",
+      "Y",
+      "X",
+      "R",
+      "O",
+      "T",
+      "Y",
+      "E",
+      "A",
+      "R"
+    ],
+    [
+      "B",
+      "L",
+      "B",
+      "M",
+      "K",
+      "S",
+      "S",
+      "Z",
+      "E",
+      "W"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CLASS",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "ROOM",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "DESK",
+      "row": 4,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "BOOK",
+      "row": 6,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "PAGE",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BELL",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "TEST",
+      "row": 5,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "MATH",
+      "row": 2,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "YEAR",
+      "row": 8,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "PEN",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8131
+}

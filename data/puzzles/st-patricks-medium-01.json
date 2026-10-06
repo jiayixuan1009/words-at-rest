@@ -1,0 +1,284 @@
+{
+  "id": "st-patricks-medium-01",
+  "slug": "st-patricks-medium-01",
+  "themeId": "st-patricks",
+  "title": "St. Patrick's: Emerald Day",
+  "primaryKeyword": "st patricks day word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BAGPIPE",
+    "BLESSING",
+    "CABBAGE",
+    "CELTIC",
+    "CHURCH",
+    "EMERALD",
+    "FIDDLE",
+    "FOLKLORE",
+    "GAELIC",
+    "LEGEND",
+    "POTATO",
+    "RAINBOW",
+    "SAINT",
+    "SPRING"
+  ],
+  "grid": [
+    [
+      "B",
+      "C",
+      "H",
+      "U",
+      "R",
+      "C",
+      "H",
+      "R",
+      "C",
+      "G",
+      "F",
+      "C"
+    ],
+    [
+      "F",
+      "B",
+      "A",
+      "G",
+      "P",
+      "I",
+      "P",
+      "E",
+      "E",
+      "P",
+      "W",
+      "G"
+    ],
+    [
+      "O",
+      "C",
+      "T",
+      "T",
+      "S",
+      "D",
+      "C",
+      "D",
+      "L",
+      "Z",
+      "P",
+      "A"
+    ],
+    [
+      "L",
+      "B",
+      "A",
+      "L",
+      "E",
+      "O",
+      "X",
+      "G",
+      "T",
+      "X",
+      "H",
+      "E"
+    ],
+    [
+      "K",
+      "E",
+      "U",
+      "B",
+      "L",
+      "E",
+      "S",
+      "S",
+      "I",
+      "N",
+      "G",
+      "L"
+    ],
+    [
+      "L",
+      "S",
+      "V",
+      "L",
+      "B",
+      "E",
+      "F",
+      "P",
+      "C",
+      "W",
+      "W",
+      "I"
+    ],
+    [
+      "O",
+      "I",
+      "W",
+      "V",
+      "Z",
+      "A",
+      "G",
+      "I",
+      "R",
+      "O",
+      "J",
+      "C"
+    ],
+    [
+      "R",
+      "L",
+      "G",
+      "G",
+      "N",
+      "P",
+      "G",
+      "E",
+      "D",
+      "I",
+      "Z",
+      "F"
+    ],
+    [
+      "E",
+      "S",
+      "A",
+      "I",
+      "N",
+      "T",
+      "X",
+      "E",
+      "N",
+      "D",
+      "N",
+      "O"
+    ],
+    [
+      "G",
+      "E",
+      "M",
+      "E",
+      "R",
+      "A",
+      "L",
+      "D",
+      "H",
+      "D",
+      "L",
+      "G"
+    ],
+    [
+      "R",
+      "A",
+      "I",
+      "N",
+      "B",
+      "O",
+      "W",
+      "R",
+      "S",
+      "A",
+      "Z",
+      "E"
+    ],
+    [
+      "V",
+      "I",
+      "R",
+      "B",
+      "P",
+      "O",
+      "T",
+      "A",
+      "T",
+      "O",
+      "Z",
+      "K"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FOLKLORE",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BLESSING",
+      "row": 4,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "EMERALD",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BAGPIPE",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CABBAGE",
+      "row": 2,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "RAINBOW",
+      "row": 10,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CELTIC",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "GAELIC",
+      "row": 1,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "FIDDLE",
+      "row": 5,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "POTATO",
+      "row": 11,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "LEGEND",
+      "row": 4,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "CHURCH",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SPRING",
+      "row": 4,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "SAINT",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7023
+}

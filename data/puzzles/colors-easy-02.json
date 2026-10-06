@@ -1,0 +1,208 @@
+{
+  "id": "colors-easy-02",
+  "slug": "colors-easy-02",
+  "themeId": "colors",
+  "title": "Colors: Quiet Hue",
+  "primaryKeyword": "colors word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CORAL",
+    "CREAM",
+    "GRAY",
+    "MINT",
+    "OLIVE",
+    "ORANGE",
+    "PURPLE",
+    "ROSE",
+    "SILVER",
+    "TEAL"
+  ],
+  "grid": [
+    [
+      "G",
+      "M",
+      "B",
+      "H",
+      "S",
+      "S",
+      "J",
+      "F",
+      "T",
+      "Z"
+    ],
+    [
+      "R",
+      "Z",
+      "O",
+      "G",
+      "K",
+      "I",
+      "G",
+      "B",
+      "Q",
+      "L"
+    ],
+    [
+      "L",
+      "X",
+      "L",
+      "T",
+      "F",
+      "L",
+      "H",
+      "C",
+      "O",
+      "S"
+    ],
+    [
+      "F",
+      "R",
+      "I",
+      "E",
+      "K",
+      "V",
+      "U",
+      "R",
+      "R",
+      "P"
+    ],
+    [
+      "R",
+      "G",
+      "V",
+      "A",
+      "O",
+      "E",
+      "M",
+      "E",
+      "A",
+      "U"
+    ],
+    [
+      "T",
+      "R",
+      "E",
+      "L",
+      "S",
+      "R",
+      "F",
+      "A",
+      "N",
+      "R"
+    ],
+    [
+      "S",
+      "G",
+      "M",
+      "I",
+      "N",
+      "T",
+      "S",
+      "M",
+      "G",
+      "P"
+    ],
+    [
+      "O",
+      "R",
+      "A",
+      "Q",
+      "B",
+      "O",
+      "A",
+      "X",
+      "E",
+      "L"
+    ],
+    [
+      "R",
+      "A",
+      "K",
+      "R",
+      "E",
+      "D",
+      "R",
+      "O",
+      "S",
+      "E"
+    ],
+    [
+      "R",
+      "Y",
+      "C",
+      "O",
+      "R",
+      "A",
+      "L",
+      "U",
+      "U",
+      "V"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ORANGE",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "PURPLE",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SILVER",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "CREAM",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "CORAL",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "OLIVE",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "GRAY",
+      "row": 6,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "TEAL",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "MINT",
+      "row": 6,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ROSE",
+      "row": 8,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8242
+}

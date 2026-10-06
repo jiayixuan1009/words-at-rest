@@ -1,0 +1,208 @@
+{
+  "id": "kitchen-easy-02",
+  "slug": "kitchen-easy-02",
+  "themeId": "kitchen",
+  "title": "Kitchen: Utensil Drawer",
+  "primaryKeyword": "kitchen word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "APRON",
+    "CHOP",
+    "CUP",
+    "LID",
+    "MUG",
+    "SHELF",
+    "SINK",
+    "STIR",
+    "TIMER",
+    "TOWEL"
+  ],
+  "grid": [
+    [
+      "U",
+      "C",
+      "A",
+      "Q",
+      "D",
+      "S",
+      "H",
+      "E",
+      "L",
+      "F"
+    ],
+    [
+      "M",
+      "A",
+      "C",
+      "Q",
+      "S",
+      "I",
+      "N",
+      "K",
+      "A",
+      "P"
+    ],
+    [
+      "U",
+      "W",
+      "E",
+      "S",
+      "O",
+      "A",
+      "O",
+      "W",
+      "P",
+      "F"
+    ],
+    [
+      "G",
+      "J",
+      "K",
+      "D",
+      "X",
+      "L",
+      "V",
+      "I",
+      "R",
+      "N"
+    ],
+    [
+      "L",
+      "T",
+      "W",
+      "Y",
+      "B",
+      "X",
+      "C",
+      "H",
+      "O",
+      "P"
+    ],
+    [
+      "C",
+      "M",
+      "T",
+      "A",
+      "X",
+      "Z",
+      "D",
+      "P",
+      "N",
+      "E"
+    ],
+    [
+      "U",
+      "A",
+      "K",
+      "S",
+      "T",
+      "Y",
+      "M",
+      "P",
+      "M",
+      "Q"
+    ],
+    [
+      "P",
+      "H",
+      "S",
+      "T",
+      "I",
+      "R",
+      "B",
+      "C",
+      "N",
+      "J"
+    ],
+    [
+      "L",
+      "I",
+      "D",
+      "T",
+      "I",
+      "M",
+      "E",
+      "R",
+      "X",
+      "C"
+    ],
+    [
+      "O",
+      "M",
+      "T",
+      "O",
+      "W",
+      "E",
+      "L",
+      "P",
+      "S",
+      "M"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SHELF",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "APRON",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "TOWEL",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "TIMER",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SINK",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CHOP",
+      "row": 4,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "STIR",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CUP",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "MUG",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "LID",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7142
+}

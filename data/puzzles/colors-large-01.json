@@ -1,0 +1,173 @@
+{
+  "id": "colors-large-01",
+  "slug": "colors-large-01",
+  "themeId": "colors",
+  "title": "Large Print Colors: Soft Tint",
+  "primaryKeyword": "large print colors word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BLUE",
+    "GOLD",
+    "GREEN",
+    "MINT",
+    "NAVY",
+    "PINK",
+    "RED",
+    "ROSE"
+  ],
+  "grid": [
+    [
+      "I",
+      "Z",
+      "G",
+      "R",
+      "E",
+      "E",
+      "N",
+      "P",
+      "D"
+    ],
+    [
+      "R",
+      "Q",
+      "E",
+      "R",
+      "E",
+      "D",
+      "D",
+      "A",
+      "L"
+    ],
+    [
+      "Q",
+      "Z",
+      "T",
+      "M",
+      "I",
+      "N",
+      "T",
+      "G",
+      "A"
+    ],
+    [
+      "C",
+      "P",
+      "T",
+      "G",
+      "G",
+      "O",
+      "L",
+      "D",
+      "X"
+    ],
+    [
+      "H",
+      "I",
+      "U",
+      "B",
+      "O",
+      "R",
+      "O",
+      "S",
+      "E"
+    ],
+    [
+      "M",
+      "N",
+      "G",
+      "G",
+      "E",
+      "K",
+      "C",
+      "B",
+      "S"
+    ],
+    [
+      "V",
+      "K",
+      "C",
+      "G",
+      "R",
+      "E",
+      "W",
+      "L",
+      "G"
+    ],
+    [
+      "C",
+      "X",
+      "J",
+      "R",
+      "P",
+      "O",
+      "B",
+      "U",
+      "V"
+    ],
+    [
+      "A",
+      "L",
+      "N",
+      "A",
+      "V",
+      "Y",
+      "K",
+      "E",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "GREEN",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BLUE",
+      "row": 5,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "PINK",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "GOLD",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "NAVY",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ROSE",
+      "row": 4,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "MINT",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "RED",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8246
+}

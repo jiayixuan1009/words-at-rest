@@ -1,0 +1,208 @@
+{
+  "id": "lakes-easy-01",
+  "slug": "lakes-easy-01",
+  "themeId": "lakes",
+  "title": "Lakes: Still Water",
+  "primaryKeyword": "lakes word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BANK",
+    "BOAT",
+    "CALM",
+    "DOCK",
+    "FISH",
+    "LAKE",
+    "POND",
+    "SHORE",
+    "SWIM",
+    "WATER"
+  ],
+  "grid": [
+    [
+      "P",
+      "L",
+      "U",
+      "B",
+      "O",
+      "D",
+      "J",
+      "R",
+      "J",
+      "I"
+    ],
+    [
+      "X",
+      "C",
+      "Z",
+      "A",
+      "U",
+      "O",
+      "S",
+      "O",
+      "S",
+      "S"
+    ],
+    [
+      "I",
+      "Q",
+      "Z",
+      "N",
+      "U",
+      "C",
+      "V",
+      "S",
+      "H",
+      "W"
+    ],
+    [
+      "Q",
+      "I",
+      "G",
+      "K",
+      "H",
+      "K",
+      "J",
+      "D",
+      "O",
+      "I"
+    ],
+    [
+      "B",
+      "W",
+      "W",
+      "A",
+      "T",
+      "E",
+      "R",
+      "H",
+      "R",
+      "M"
+    ],
+    [
+      "O",
+      "F",
+      "I",
+      "J",
+      "I",
+      "R",
+      "Z",
+      "B",
+      "E",
+      "H"
+    ],
+    [
+      "A",
+      "Q",
+      "O",
+      "R",
+      "C",
+      "P",
+      "O",
+      "N",
+      "D",
+      "M"
+    ],
+    [
+      "T",
+      "C",
+      "U",
+      "L",
+      "A",
+      "K",
+      "E",
+      "R",
+      "B",
+      "L"
+    ],
+    [
+      "E",
+      "G",
+      "I",
+      "T",
+      "L",
+      "M",
+      "J",
+      "V",
+      "I",
+      "J"
+    ],
+    [
+      "A",
+      "M",
+      "L",
+      "S",
+      "M",
+      "X",
+      "F",
+      "I",
+      "S",
+      "H"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "WATER",
+      "row": 4,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SHORE",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "LAKE",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "POND",
+      "row": 6,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "BANK",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "DOCK",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "BOAT",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "FISH",
+      "row": 9,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "SWIM",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "CALM",
+      "row": 6,
+      "col": 4,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8121
+}

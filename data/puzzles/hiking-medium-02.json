@@ -1,0 +1,284 @@
+{
+  "id": "hiking-medium-02",
+  "slug": "hiking-medium-02",
+  "themeId": "hiking",
+  "title": "Hiking: Summit View",
+  "primaryKeyword": "hiking word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BOTTLE",
+    "BREAK",
+    "GAITER",
+    "GLOVE",
+    "LAYER",
+    "MUD",
+    "QUIET",
+    "RAIN",
+    "SCENERY",
+    "SNACK",
+    "SOCK",
+    "SUNHAT",
+    "TWILIGHT",
+    "WATER"
+  ],
+  "grid": [
+    [
+      "S",
+      "N",
+      "T",
+      "W",
+      "I",
+      "L",
+      "I",
+      "G",
+      "H",
+      "T",
+      "X",
+      "D"
+    ],
+    [
+      "O",
+      "V",
+      "Q",
+      "G",
+      "M",
+      "V",
+      "L",
+      "W",
+      "Y",
+      "Q",
+      "U",
+      "S"
+    ],
+    [
+      "M",
+      "G",
+      "G",
+      "A",
+      "I",
+      "T",
+      "E",
+      "R",
+      "D",
+      "M",
+      "Z",
+      "N"
+    ],
+    [
+      "E",
+      "A",
+      "B",
+      "V",
+      "W",
+      "V",
+      "W",
+      "A",
+      "T",
+      "E",
+      "R",
+      "A"
+    ],
+    [
+      "S",
+      "M",
+      "S",
+      "O",
+      "O",
+      "K",
+      "F",
+      "V",
+      "A",
+      "Z",
+      "K",
+      "C"
+    ],
+    [
+      "O",
+      "L",
+      "S",
+      "L",
+      "T",
+      "L",
+      "D",
+      "L",
+      "A",
+      "A",
+      "S",
+      "K"
+    ],
+    [
+      "C",
+      "A",
+      "G",
+      "C",
+      "A",
+      "T",
+      "R",
+      "J",
+      "E",
+      "I",
+      "T",
+      "A"
+    ],
+    [
+      "K",
+      "Y",
+      "Q",
+      "M",
+      "E",
+      "H",
+      "L",
+      "R",
+      "U",
+      "A",
+      "G",
+      "L"
+    ],
+    [
+      "D",
+      "E",
+      "U",
+      "D",
+      "A",
+      "N",
+      "B",
+      "E",
+      "H",
+      "E",
+      "E",
+      "J"
+    ],
+    [
+      "M",
+      "R",
+      "I",
+      "Z",
+      "A",
+      "W",
+      "E",
+      "N",
+      "L",
+      "L",
+      "A",
+      "W"
+    ],
+    [
+      "D",
+      "R",
+      "E",
+      "F",
+      "M",
+      "J",
+      "U",
+      "R",
+      "A",
+      "I",
+      "N",
+      "J"
+    ],
+    [
+      "U",
+      "V",
+      "T",
+      "S",
+      "U",
+      "S",
+      "U",
+      "G",
+      "Y",
+      "P",
+      "L",
+      "B"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TWILIGHT",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SCENERY",
+      "row": 5,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "BOTTLE",
+      "row": 3,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "GAITER",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SUNHAT",
+      "row": 11,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "SNACK",
+      "row": 1,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "LAYER",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "GLOVE",
+      "row": 6,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "QUIET",
+      "row": 7,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "BREAK",
+      "row": 8,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "WATER",
+      "row": 3,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "SOCK",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "RAIN",
+      "row": 10,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "MUD",
+      "row": 2,
+      "col": 9,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8644
+}

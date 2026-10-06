@@ -1,0 +1,208 @@
+{
+  "id": "gratitude-easy-01",
+  "slug": "gratitude-easy-01",
+  "themeId": "gratitude",
+  "title": "Gratitude: Quiet Thanks",
+  "primaryKeyword": "gratitude word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "DAWN",
+    "HOME",
+    "HOPE",
+    "JOY",
+    "LOVE",
+    "MEAL",
+    "NOTE",
+    "PEACE",
+    "REST",
+    "THANKS"
+  ],
+  "grid": [
+    [
+      "L",
+      "G",
+      "K",
+      "L",
+      "D",
+      "B",
+      "I",
+      "T",
+      "G",
+      "Z"
+    ],
+    [
+      "T",
+      "P",
+      "M",
+      "T",
+      "P",
+      "W",
+      "P",
+      "H",
+      "R",
+      "H"
+    ],
+    [
+      "J",
+      "X",
+      "O",
+      "J",
+      "O",
+      "Y",
+      "K",
+      "A",
+      "E",
+      "O"
+    ],
+    [
+      "F",
+      "C",
+      "P",
+      "E",
+      "A",
+      "C",
+      "E",
+      "N",
+      "S",
+      "M"
+    ],
+    [
+      "C",
+      "N",
+      "N",
+      "X",
+      "I",
+      "B",
+      "Z",
+      "K",
+      "T",
+      "E"
+    ],
+    [
+      "O",
+      "F",
+      "M",
+      "U",
+      "I",
+      "I",
+      "U",
+      "S",
+      "P",
+      "L"
+    ],
+    [
+      "M",
+      "E",
+      "A",
+      "L",
+      "Q",
+      "L",
+      "O",
+      "V",
+      "E",
+      "L"
+    ],
+    [
+      "V",
+      "D",
+      "U",
+      "O",
+      "Y",
+      "N",
+      "O",
+      "T",
+      "E",
+      "O"
+    ],
+    [
+      "A",
+      "N",
+      "H",
+      "Z",
+      "D",
+      "A",
+      "W",
+      "N",
+      "M",
+      "Q"
+    ],
+    [
+      "B",
+      "S",
+      "T",
+      "H",
+      "O",
+      "P",
+      "E",
+      "Z",
+      "S",
+      "V"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "THANKS",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "PEACE",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "HOPE",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "LOVE",
+      "row": 6,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "HOME",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "REST",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "MEAL",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "DAWN",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "NOTE",
+      "row": 7,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "JOY",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8221
+}

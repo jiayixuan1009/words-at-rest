@@ -1,0 +1,284 @@
+{
+  "id": "summer-medium-02",
+  "slug": "summer-medium-02",
+  "themeId": "summer",
+  "title": "Summer: Long Light",
+  "primaryKeyword": "summer word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CANOE",
+    "CHAIR",
+    "CICADA",
+    "EVENING",
+    "FLOAT",
+    "GOLDEN",
+    "GRILL",
+    "HUM",
+    "NIGHT",
+    "SMOKE",
+    "STAR",
+    "SUNSCREEN",
+    "TOMATOES",
+    "VACATION"
+  ],
+  "grid": [
+    [
+      "K",
+      "R",
+      "S",
+      "M",
+      "O",
+      "K",
+      "E",
+      "S",
+      "V",
+      "G",
+      "H",
+      "F"
+    ],
+    [
+      "V",
+      "K",
+      "N",
+      "I",
+      "G",
+      "H",
+      "T",
+      "F",
+      "L",
+      "O",
+      "A",
+      "T"
+    ],
+    [
+      "E",
+      "Y",
+      "D",
+      "S",
+      "L",
+      "H",
+      "W",
+      "T",
+      "E",
+      "U",
+      "T",
+      "O"
+    ],
+    [
+      "O",
+      "Q",
+      "M",
+      "T",
+      "G",
+      "O",
+      "L",
+      "D",
+      "E",
+      "N",
+      "Z",
+      "M"
+    ],
+    [
+      "V",
+      "Q",
+      "L",
+      "S",
+      "G",
+      "Z",
+      "C",
+      "I",
+      "C",
+      "A",
+      "D",
+      "A"
+    ],
+    [
+      "A",
+      "K",
+      "C",
+      "H",
+      "A",
+      "I",
+      "R",
+      "T",
+      "Q",
+      "P",
+      "S",
+      "T"
+    ],
+    [
+      "C",
+      "S",
+      "O",
+      "G",
+      "U",
+      "F",
+      "S",
+      "T",
+      "A",
+      "R",
+      "U",
+      "O"
+    ],
+    [
+      "A",
+      "S",
+      "U",
+      "N",
+      "S",
+      "C",
+      "R",
+      "E",
+      "E",
+      "N",
+      "P",
+      "E"
+    ],
+    [
+      "T",
+      "J",
+      "D",
+      "N",
+      "D",
+      "G",
+      "R",
+      "I",
+      "L",
+      "L",
+      "R",
+      "S"
+    ],
+    [
+      "I",
+      "A",
+      "E",
+      "V",
+      "E",
+      "N",
+      "I",
+      "N",
+      "G",
+      "I",
+      "V",
+      "T"
+    ],
+    [
+      "O",
+      "M",
+      "W",
+      "Q",
+      "I",
+      "S",
+      "Z",
+      "H",
+      "H",
+      "U",
+      "M",
+      "H"
+    ],
+    [
+      "N",
+      "L",
+      "S",
+      "N",
+      "Y",
+      "Y",
+      "C",
+      "A",
+      "N",
+      "O",
+      "E",
+      "K"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SUNSCREEN",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "VACATION",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "TOMATOES",
+      "row": 1,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "EVENING",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "GOLDEN",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CICADA",
+      "row": 4,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "CANOE",
+      "row": 11,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "FLOAT",
+      "row": 1,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "GRILL",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SMOKE",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CHAIR",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "NIGHT",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "STAR",
+      "row": 6,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "HUM",
+      "row": 10,
+      "col": 8,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7074
+}

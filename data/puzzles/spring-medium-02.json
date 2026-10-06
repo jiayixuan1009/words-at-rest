@@ -1,0 +1,284 @@
+{
+  "id": "spring-medium-02",
+  "slug": "spring-medium-02",
+  "themeId": "spring",
+  "title": "Spring: Longer Light",
+  "primaryKeyword": "spring word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BIRCH",
+    "BUTTERFLY",
+    "CLOUD",
+    "CROCUSES",
+    "FOAL",
+    "HOPE",
+    "HYACINTH",
+    "LAWN",
+    "MIGRATION",
+    "POLLEN",
+    "REBIRTH",
+    "RENEWAL",
+    "SHOOT",
+    "WINDOW"
+  ],
+  "grid": [
+    [
+      "D",
+      "S",
+      "Y",
+      "T",
+      "R",
+      "J",
+      "W",
+      "I",
+      "N",
+      "D",
+      "O",
+      "W"
+    ],
+    [
+      "C",
+      "H",
+      "H",
+      "I",
+      "U",
+      "O",
+      "B",
+      "G",
+      "O",
+      "U",
+      "T",
+      "Z"
+    ],
+    [
+      "R",
+      "O",
+      "L",
+      "H",
+      "Y",
+      "A",
+      "C",
+      "I",
+      "N",
+      "T",
+      "H",
+      "V"
+    ],
+    [
+      "O",
+      "O",
+      "M",
+      "I",
+      "G",
+      "R",
+      "A",
+      "T",
+      "I",
+      "O",
+      "N",
+      "Q"
+    ],
+    [
+      "C",
+      "T",
+      "R",
+      "B",
+      "I",
+      "R",
+      "C",
+      "H",
+      "G",
+      "D",
+      "R",
+      "L"
+    ],
+    [
+      "U",
+      "F",
+      "U",
+      "R",
+      "E",
+      "B",
+      "I",
+      "R",
+      "T",
+      "H",
+      "B",
+      "V"
+    ],
+    [
+      "S",
+      "O",
+      "Y",
+      "S",
+      "R",
+      "H",
+      "H",
+      "A",
+      "T",
+      "G",
+      "T",
+      "N"
+    ],
+    [
+      "E",
+      "A",
+      "R",
+      "E",
+      "N",
+      "E",
+      "W",
+      "A",
+      "L",
+      "F",
+      "E",
+      "B"
+    ],
+    [
+      "S",
+      "L",
+      "B",
+      "U",
+      "T",
+      "T",
+      "E",
+      "R",
+      "F",
+      "L",
+      "Y",
+      "K"
+    ],
+    [
+      "Q",
+      "C",
+      "L",
+      "O",
+      "U",
+      "D",
+      "U",
+      "K",
+      "L",
+      "A",
+      "P",
+      "F"
+    ],
+    [
+      "L",
+      "A",
+      "W",
+      "N",
+      "W",
+      "O",
+      "B",
+      "O",
+      "P",
+      "B",
+      "U",
+      "P"
+    ],
+    [
+      "F",
+      "O",
+      "D",
+      "B",
+      "O",
+      "Z",
+      "P",
+      "A",
+      "H",
+      "O",
+      "P",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BUTTERFLY",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "MIGRATION",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "HYACINTH",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "CROCUSES",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "RENEWAL",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "REBIRTH",
+      "row": 5,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "POLLEN",
+      "row": 11,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "WINDOW",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "BIRCH",
+      "row": 4,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "CLOUD",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SHOOT",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "FOAL",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "LAWN",
+      "row": 10,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "HOPE",
+      "row": 11,
+      "col": 8,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7064
+}

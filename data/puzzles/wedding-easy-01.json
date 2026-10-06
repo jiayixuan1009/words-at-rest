@@ -1,0 +1,208 @@
+{
+  "id": "wedding-easy-01",
+  "slug": "wedding-easy-01",
+  "themeId": "wedding",
+  "title": "Wedding: Quiet Vow",
+  "primaryKeyword": "wedding word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "AISLE",
+    "DAY",
+    "DRESS",
+    "HAND",
+    "KISS",
+    "RING",
+    "SUIT",
+    "TIE",
+    "VEIL",
+    "VOW"
+  ],
+  "grid": [
+    [
+      "A",
+      "P",
+      "V",
+      "D",
+      "R",
+      "E",
+      "S",
+      "S",
+      "S",
+      "O"
+    ],
+    [
+      "I",
+      "K",
+      "N",
+      "Y",
+      "T",
+      "J",
+      "R",
+      "G",
+      "U",
+      "D"
+    ],
+    [
+      "S",
+      "I",
+      "B",
+      "V",
+      "H",
+      "N",
+      "K",
+      "S",
+      "I",
+      "V"
+    ],
+    [
+      "L",
+      "S",
+      "O",
+      "E",
+      "O",
+      "C",
+      "V",
+      "V",
+      "T",
+      "J"
+    ],
+    [
+      "E",
+      "S",
+      "D",
+      "I",
+      "T",
+      "C",
+      "F",
+      "B",
+      "A",
+      "R"
+    ],
+    [
+      "E",
+      "Q",
+      "H",
+      "L",
+      "I",
+      "P",
+      "B",
+      "C",
+      "P",
+      "I"
+    ],
+    [
+      "E",
+      "V",
+      "A",
+      "R",
+      "E",
+      "G",
+      "F",
+      "X",
+      "L",
+      "N"
+    ],
+    [
+      "Z",
+      "O",
+      "N",
+      "F",
+      "H",
+      "X",
+      "S",
+      "J",
+      "F",
+      "G"
+    ],
+    [
+      "I",
+      "W",
+      "D",
+      "H",
+      "A",
+      "V",
+      "W",
+      "G",
+      "O",
+      "K"
+    ],
+    [
+      "I",
+      "S",
+      "T",
+      "R",
+      "D",
+      "A",
+      "Y",
+      "A",
+      "I",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "AISLE",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "DRESS",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "RING",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "VEIL",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "SUIT",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "KISS",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "HAND",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "VOW",
+      "row": 6,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "TIE",
+      "row": 4,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "DAY",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8481
+}

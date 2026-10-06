@@ -1,0 +1,173 @@
+{
+  "id": "sewing-large-01",
+  "slug": "sewing-large-01",
+  "themeId": "sewing",
+  "title": "Large Print Sewing: Soft Hem",
+  "primaryKeyword": "large print sewing word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BAG",
+    "CRAFT",
+    "EDGE",
+    "HEM",
+    "IRON",
+    "MEND",
+    "PIN",
+    "SEW"
+  ],
+  "grid": [
+    [
+      "Y",
+      "H",
+      "K",
+      "C",
+      "H",
+      "E",
+      "M",
+      "U",
+      "M"
+    ],
+    [
+      "G",
+      "N",
+      "M",
+      "R",
+      "V",
+      "I",
+      "R",
+      "O",
+      "N"
+    ],
+    [
+      "D",
+      "B",
+      "L",
+      "A",
+      "L",
+      "E",
+      "P",
+      "K",
+      "L"
+    ],
+    [
+      "H",
+      "A",
+      "E",
+      "F",
+      "A",
+      "D",
+      "S",
+      "O",
+      "U"
+    ],
+    [
+      "Q",
+      "G",
+      "U",
+      "T",
+      "N",
+      "G",
+      "A",
+      "J",
+      "Q"
+    ],
+    [
+      "P",
+      "C",
+      "M",
+      "K",
+      "Q",
+      "E",
+      "W",
+      "F",
+      "R"
+    ],
+    [
+      "G",
+      "B",
+      "O",
+      "M",
+      "E",
+      "N",
+      "D",
+      "C",
+      "K"
+    ],
+    [
+      "H",
+      "A",
+      "L",
+      "Y",
+      "S",
+      "E",
+      "W",
+      "J",
+      "K"
+    ],
+    [
+      "J",
+      "U",
+      "K",
+      "M",
+      "S",
+      "P",
+      "I",
+      "N",
+      "A"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CRAFT",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "MEND",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "IRON",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "EDGE",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "SEW",
+      "row": 7,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "HEM",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "PIN",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "BAG",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8616
+}

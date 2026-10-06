@@ -1,0 +1,173 @@
+{
+  "id": "soccer-large-01",
+  "slug": "soccer-large-01",
+  "themeId": "soccer",
+  "title": "Large Print Soccer: Soft Goal",
+  "primaryKeyword": "large print soccer word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BALL",
+    "GOAL",
+    "KICK",
+    "MATCH",
+    "NET",
+    "PASS",
+    "SAVE",
+    "SCORE"
+  ],
+  "grid": [
+    [
+      "Y",
+      "V",
+      "L",
+      "E",
+      "F",
+      "H",
+      "K",
+      "P",
+      "P"
+    ],
+    [
+      "K",
+      "S",
+      "A",
+      "V",
+      "E",
+      "S",
+      "I",
+      "F",
+      "A"
+    ],
+    [
+      "C",
+      "P",
+      "X",
+      "H",
+      "Y",
+      "Z",
+      "C",
+      "G",
+      "S"
+    ],
+    [
+      "G",
+      "O",
+      "A",
+      "L",
+      "H",
+      "B",
+      "K",
+      "P",
+      "S"
+    ],
+    [
+      "W",
+      "N",
+      "Q",
+      "C",
+      "M",
+      "E",
+      "S",
+      "W",
+      "Q"
+    ],
+    [
+      "C",
+      "E",
+      "K",
+      "N",
+      "A",
+      "L",
+      "C",
+      "J",
+      "B"
+    ],
+    [
+      "Q",
+      "T",
+      "Q",
+      "H",
+      "T",
+      "L",
+      "O",
+      "N",
+      "A"
+    ],
+    [
+      "R",
+      "W",
+      "X",
+      "F",
+      "C",
+      "B",
+      "R",
+      "J",
+      "L"
+    ],
+    [
+      "X",
+      "N",
+      "J",
+      "N",
+      "H",
+      "X",
+      "E",
+      "W",
+      "L"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "MATCH",
+      "row": 4,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "SCORE",
+      "row": 4,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "BALL",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "GOAL",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "KICK",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "PASS",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "SAVE",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "NET",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8266
+}

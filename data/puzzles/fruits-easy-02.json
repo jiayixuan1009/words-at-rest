@@ -1,0 +1,208 @@
+{
+  "id": "fruits-easy-02",
+  "slug": "fruits-easy-02",
+  "themeId": "fruits",
+  "title": "Fruits: Citrus Bowl",
+  "primaryKeyword": "fruits word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BANANA",
+    "BERRY",
+    "CHERRY",
+    "KIWI",
+    "MANGO",
+    "OLIVE",
+    "ORANGE",
+    "PRUNE",
+    "QUINCE",
+    "RAISIN"
+  ],
+  "grid": [
+    [
+      "K",
+      "I",
+      "W",
+      "I",
+      "B",
+      "P",
+      "R",
+      "U",
+      "N",
+      "E"
+    ],
+    [
+      "B",
+      "E",
+      "R",
+      "R",
+      "Y",
+      "T",
+      "X",
+      "P",
+      "M",
+      "J"
+    ],
+    [
+      "L",
+      "O",
+      "I",
+      "T",
+      "O",
+      "P",
+      "T",
+      "D",
+      "A",
+      "R"
+    ],
+    [
+      "W",
+      "L",
+      "U",
+      "X",
+      "U",
+      "H",
+      "R",
+      "A",
+      "N",
+      "A"
+    ],
+    [
+      "C",
+      "I",
+      "O",
+      "R",
+      "A",
+      "N",
+      "G",
+      "E",
+      "G",
+      "I"
+    ],
+    [
+      "T",
+      "V",
+      "D",
+      "A",
+      "T",
+      "D",
+      "S",
+      "H",
+      "O",
+      "S"
+    ],
+    [
+      "T",
+      "E",
+      "Q",
+      "C",
+      "H",
+      "E",
+      "R",
+      "R",
+      "Y",
+      "I"
+    ],
+    [
+      "W",
+      "W",
+      "Q",
+      "O",
+      "J",
+      "Y",
+      "J",
+      "N",
+      "L",
+      "N"
+    ],
+    [
+      "D",
+      "G",
+      "Q",
+      "U",
+      "I",
+      "N",
+      "C",
+      "E",
+      "S",
+      "U"
+    ],
+    [
+      "G",
+      "W",
+      "W",
+      "H",
+      "B",
+      "A",
+      "N",
+      "A",
+      "N",
+      "A"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ORANGE",
+      "row": 4,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BANANA",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "RAISIN",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "CHERRY",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "QUINCE",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "MANGO",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "BERRY",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "OLIVE",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "PRUNE",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "KIWI",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6142
+}

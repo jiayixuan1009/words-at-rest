@@ -1,0 +1,284 @@
+{
+  "id": "vegetables-medium-01",
+  "slug": "vegetables-medium-01",
+  "themeId": "vegetables",
+  "title": "Vegetables: Chop Board",
+  "primaryKeyword": "vegetables word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BROCCOLI",
+    "CABBAGE",
+    "CHARD",
+    "CUCUMBER",
+    "DICE",
+    "LETTUCE",
+    "PARSNIP",
+    "PUMPKIN",
+    "ROAST",
+    "SHALLOT",
+    "SPINACH",
+    "STEAM",
+    "STEW",
+    "TOMATO"
+  ],
+  "grid": [
+    [
+      "W",
+      "T",
+      "P",
+      "G",
+      "N",
+      "S",
+      "H",
+      "A",
+      "L",
+      "L",
+      "O",
+      "T"
+    ],
+    [
+      "L",
+      "O",
+      "U",
+      "Y",
+      "X",
+      "L",
+      "N",
+      "D",
+      "I",
+      "C",
+      "E",
+      "E"
+    ],
+    [
+      "Z",
+      "M",
+      "M",
+      "F",
+      "W",
+      "E",
+      "C",
+      "S",
+      "S",
+      "C",
+      "Y",
+      "D"
+    ],
+    [
+      "R",
+      "A",
+      "P",
+      "C",
+      "U",
+      "T",
+      "U",
+      "S",
+      "T",
+      "H",
+      "M",
+      "I"
+    ],
+    [
+      "B",
+      "T",
+      "K",
+      "A",
+      "P",
+      "T",
+      "C",
+      "T",
+      "E",
+      "A",
+      "P",
+      "V"
+    ],
+    [
+      "R",
+      "O",
+      "I",
+      "B",
+      "A",
+      "U",
+      "U",
+      "E",
+      "A",
+      "R",
+      "P",
+      "H"
+    ],
+    [
+      "O",
+      "I",
+      "N",
+      "B",
+      "R",
+      "C",
+      "M",
+      "W",
+      "M",
+      "D",
+      "C",
+      "F"
+    ],
+    [
+      "C",
+      "I",
+      "J",
+      "A",
+      "S",
+      "E",
+      "B",
+      "J",
+      "C",
+      "A",
+      "S",
+      "A"
+    ],
+    [
+      "C",
+      "C",
+      "Q",
+      "G",
+      "N",
+      "V",
+      "E",
+      "V",
+      "N",
+      "R",
+      "F",
+      "Z"
+    ],
+    [
+      "O",
+      "V",
+      "T",
+      "E",
+      "I",
+      "P",
+      "R",
+      "I",
+      "W",
+      "I",
+      "W",
+      "A"
+    ],
+    [
+      "L",
+      "R",
+      "B",
+      "X",
+      "P",
+      "Q",
+      "P",
+      "U",
+      "R",
+      "P",
+      "P",
+      "P"
+    ],
+    [
+      "I",
+      "I",
+      "I",
+      "Z",
+      "P",
+      "S",
+      "R",
+      "O",
+      "A",
+      "S",
+      "T",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BROCCOLI",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CUCUMBER",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "SPINACH",
+      "row": 11,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "LETTUCE",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "CABBAGE",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "PUMPKIN",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "PARSNIP",
+      "row": 4,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "SHALLOT",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "TOMATO",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "CHARD",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "ROAST",
+      "row": 11,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "STEAM",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "STEW",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "DICE",
+      "row": 1,
+      "col": 7,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7113
+}

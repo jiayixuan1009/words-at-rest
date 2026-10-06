@@ -1,0 +1,208 @@
+{
+  "id": "shopping-easy-02",
+  "slug": "shopping-easy-02",
+  "themeId": "shopping",
+  "title": "Shopping: Quiet Aisle",
+  "primaryKeyword": "shopping word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "AISLE",
+    "BASKET",
+    "DEAL",
+    "GIFT",
+    "LINE",
+    "SHELF",
+    "SIZE",
+    "SOAP",
+    "TAG",
+    "TOTE"
+  ],
+  "grid": [
+    [
+      "A",
+      "I",
+      "S",
+      "L",
+      "E",
+      "V",
+      "Z",
+      "Z",
+      "T",
+      "Q"
+    ],
+    [
+      "O",
+      "T",
+      "A",
+      "G",
+      "G",
+      "B",
+      "U",
+      "B",
+      "F",
+      "W"
+    ],
+    [
+      "E",
+      "B",
+      "I",
+      "V",
+      "B",
+      "S",
+      "H",
+      "E",
+      "L",
+      "F"
+    ],
+    [
+      "U",
+      "K",
+      "U",
+      "A",
+      "A",
+      "C",
+      "I",
+      "Z",
+      "N",
+      "B"
+    ],
+    [
+      "L",
+      "G",
+      "E",
+      "C",
+      "S",
+      "L",
+      "Z",
+      "K",
+      "H",
+      "S"
+    ],
+    [
+      "E",
+      "I",
+      "L",
+      "O",
+      "K",
+      "K",
+      "K",
+      "Q",
+      "E",
+      "O"
+    ],
+    [
+      "U",
+      "F",
+      "I",
+      "Z",
+      "E",
+      "D",
+      "E",
+      "A",
+      "L",
+      "A"
+    ],
+    [
+      "U",
+      "T",
+      "N",
+      "K",
+      "T",
+      "A",
+      "R",
+      "Y",
+      "D",
+      "P"
+    ],
+    [
+      "S",
+      "C",
+      "E",
+      "U",
+      "P",
+      "T",
+      "O",
+      "T",
+      "E",
+      "F"
+    ],
+    [
+      "X",
+      "U",
+      "Y",
+      "R",
+      "F",
+      "S",
+      "I",
+      "Z",
+      "E",
+      "D"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BASKET",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "AISLE",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SHELF",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "TOTE",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "DEAL",
+      "row": 6,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "LINE",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "GIFT",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SIZE",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SOAP",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "TAG",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8342
+}

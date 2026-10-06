@@ -1,0 +1,284 @@
+{
+  "id": "mindfulness-medium-01",
+  "slug": "mindfulness-medium-01",
+  "themeId": "mindfulness",
+  "title": "Mindfulness: Gentle Pause",
+  "primaryKeyword": "mindfulness word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ATTEND",
+    "BALANCE",
+    "BODY",
+    "CENTER",
+    "GENTLE",
+    "GROUND",
+    "MIND",
+    "MOMENT",
+    "PRESENT",
+    "SCENT",
+    "SENSE",
+    "SPACE",
+    "TASTE",
+    "TOUCH"
+  ],
+  "grid": [
+    [
+      "P",
+      "N",
+      "G",
+      "A",
+      "K",
+      "S",
+      "C",
+      "S",
+      "M",
+      "I",
+      "N",
+      "D"
+    ],
+    [
+      "W",
+      "S",
+      "Q",
+      "T",
+      "S",
+      "G",
+      "E",
+      "E",
+      "M",
+      "I",
+      "T",
+      "X"
+    ],
+    [
+      "L",
+      "C",
+      "Y",
+      "T",
+      "P",
+      "R",
+      "N",
+      "N",
+      "D",
+      "M",
+      "F",
+      "E"
+    ],
+    [
+      "A",
+      "E",
+      "Q",
+      "E",
+      "A",
+      "B",
+      "T",
+      "S",
+      "Z",
+      "J",
+      "L",
+      "O"
+    ],
+    [
+      "P",
+      "N",
+      "C",
+      "N",
+      "C",
+      "Q",
+      "E",
+      "E",
+      "E",
+      "T",
+      "T",
+      "C"
+    ],
+    [
+      "K",
+      "T",
+      "J",
+      "D",
+      "E",
+      "E",
+      "R",
+      "C",
+      "N",
+      "G",
+      "I",
+      "T"
+    ],
+    [
+      "M",
+      "O",
+      "M",
+      "E",
+      "N",
+      "T",
+      "N",
+      "E",
+      "M",
+      "D",
+      "T",
+      "O"
+    ],
+    [
+      "X",
+      "N",
+      "T",
+      "W",
+      "R",
+      "A",
+      "G",
+      "E",
+      "P",
+      "P",
+      "A",
+      "U"
+    ],
+    [
+      "C",
+      "E",
+      "P",
+      "Y",
+      "L",
+      "B",
+      "O",
+      "D",
+      "Y",
+      "F",
+      "S",
+      "C"
+    ],
+    [
+      "D",
+      "M",
+      "M",
+      "A",
+      "N",
+      "L",
+      "C",
+      "B",
+      "R",
+      "E",
+      "T",
+      "H"
+    ],
+    [
+      "I",
+      "H",
+      "B",
+      "I",
+      "G",
+      "R",
+      "O",
+      "U",
+      "N",
+      "D",
+      "E",
+      "M"
+    ],
+    [
+      "E",
+      "T",
+      "P",
+      "R",
+      "E",
+      "S",
+      "E",
+      "N",
+      "T",
+      "M",
+      "X",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PRESENT",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BALANCE",
+      "row": 10,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "MOMENT",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "GENTLE",
+      "row": 7,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "ATTEND",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "GROUND",
+      "row": 10,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CENTER",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "SENSE",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "TOUCH",
+      "row": 5,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "TASTE",
+      "row": 6,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "SCENT",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SPACE",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "BODY",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "MIND",
+      "row": 0,
+      "col": 8,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8233
+}

@@ -1,0 +1,173 @@
+{
+  "id": "basketball-large-01",
+  "slug": "basketball-large-01",
+  "themeId": "basketball",
+  "title": "Large Print Basketball: Soft Hoop",
+  "primaryKeyword": "large print basketball word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BALL",
+    "COURT",
+    "HOOP",
+    "JUMP",
+    "NET",
+    "PASS",
+    "SCORE",
+    "SHOT"
+  ],
+  "grid": [
+    [
+      "T",
+      "C",
+      "O",
+      "U",
+      "R",
+      "T",
+      "X",
+      "G",
+      "A"
+    ],
+    [
+      "L",
+      "T",
+      "Y",
+      "P",
+      "B",
+      "P",
+      "A",
+      "S",
+      "S"
+    ],
+    [
+      "P",
+      "J",
+      "C",
+      "E",
+      "A",
+      "A",
+      "J",
+      "D",
+      "C"
+    ],
+    [
+      "J",
+      "Z",
+      "T",
+      "M",
+      "L",
+      "J",
+      "L",
+      "G",
+      "G"
+    ],
+    [
+      "H",
+      "O",
+      "O",
+      "P",
+      "L",
+      "V",
+      "X",
+      "N",
+      "B"
+    ],
+    [
+      "Z",
+      "M",
+      "V",
+      "S",
+      "C",
+      "O",
+      "R",
+      "E",
+      "R"
+    ],
+    [
+      "Y",
+      "S",
+      "H",
+      "O",
+      "T",
+      "Q",
+      "Q",
+      "T",
+      "C"
+    ],
+    [
+      "J",
+      "U",
+      "M",
+      "P",
+      "K",
+      "S",
+      "B",
+      "I",
+      "V"
+    ],
+    [
+      "K",
+      "O",
+      "J",
+      "Z",
+      "R",
+      "T",
+      "V",
+      "K",
+      "X"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SCORE",
+      "row": 5,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "COURT",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BALL",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "HOOP",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "PASS",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SHOT",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "JUMP",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "NET",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8276
+}

@@ -1,0 +1,208 @@
+{
+  "id": "st-patricks-easy-01",
+  "slug": "st-patricks-easy-01",
+  "themeId": "st-patricks",
+  "title": "St. Patrick's: Green Hills",
+  "primaryKeyword": "st patricks day word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CLOVER",
+    "DANCE",
+    "GREEN",
+    "HARP",
+    "IRISH",
+    "LUCK",
+    "MARCH",
+    "PARADE",
+    "PIPE",
+    "RAIN"
+  ],
+  "grid": [
+    [
+      "X",
+      "C",
+      "U",
+      "F",
+      "Y",
+      "M",
+      "A",
+      "R",
+      "C",
+      "H"
+    ],
+    [
+      "R",
+      "Z",
+      "D",
+      "A",
+      "N",
+      "C",
+      "E",
+      "I",
+      "A",
+      "L"
+    ],
+    [
+      "A",
+      "Y",
+      "G",
+      "Z",
+      "I",
+      "I",
+      "R",
+      "I",
+      "S",
+      "H"
+    ],
+    [
+      "I",
+      "E",
+      "R",
+      "C",
+      "L",
+      "O",
+      "V",
+      "E",
+      "R",
+      "G"
+    ],
+    [
+      "N",
+      "X",
+      "E",
+      "H",
+      "Y",
+      "O",
+      "H",
+      "B",
+      "I",
+      "B"
+    ],
+    [
+      "G",
+      "G",
+      "E",
+      "I",
+      "E",
+      "B",
+      "H",
+      "A",
+      "R",
+      "P"
+    ],
+    [
+      "V",
+      "Z",
+      "N",
+      "A",
+      "S",
+      "B",
+      "G",
+      "Z",
+      "B",
+      "P"
+    ],
+    [
+      "C",
+      "P",
+      "A",
+      "R",
+      "A",
+      "D",
+      "E",
+      "O",
+      "K",
+      "T"
+    ],
+    [
+      "F",
+      "C",
+      "P",
+      "I",
+      "P",
+      "E",
+      "I",
+      "D",
+      "Q",
+      "W"
+    ],
+    [
+      "M",
+      "H",
+      "H",
+      "Y",
+      "S",
+      "L",
+      "U",
+      "C",
+      "K",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CLOVER",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "PARADE",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "GREEN",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "IRISH",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "DANCE",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "MARCH",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "PIPE",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "HARP",
+      "row": 5,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "RAIN",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "LUCK",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7021
+}

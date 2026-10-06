@@ -1,0 +1,208 @@
+{
+  "id": "st-patricks-easy-02",
+  "slug": "st-patricks-easy-02",
+  "themeId": "st-patricks",
+  "title": "St. Patrick's: Quiet Luck",
+  "primaryKeyword": "st patricks day word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CHARM",
+    "COAST",
+    "HILL",
+    "JOY",
+    "MIST",
+    "SHAMROCK",
+    "SONG",
+    "STONE",
+    "TEA",
+    "TOAST"
+  ],
+  "grid": [
+    [
+      "N",
+      "K",
+      "B",
+      "G",
+      "T",
+      "O",
+      "A",
+      "S",
+      "T",
+      "Q"
+    ],
+    [
+      "M",
+      "I",
+      "S",
+      "T",
+      "L",
+      "Q",
+      "Y",
+      "H",
+      "V",
+      "R"
+    ],
+    [
+      "O",
+      "S",
+      "T",
+      "O",
+      "N",
+      "E",
+      "M",
+      "D",
+      "M",
+      "P"
+    ],
+    [
+      "N",
+      "M",
+      "T",
+      "A",
+      "C",
+      "O",
+      "A",
+      "S",
+      "T",
+      "T"
+    ],
+    [
+      "H",
+      "P",
+      "T",
+      "L",
+      "O",
+      "E",
+      "S",
+      "P",
+      "L",
+      "G"
+    ],
+    [
+      "I",
+      "D",
+      "E",
+      "F",
+      "M",
+      "X",
+      "Y",
+      "I",
+      "T",
+      "P"
+    ],
+    [
+      "L",
+      "O",
+      "A",
+      "N",
+      "Z",
+      "Q",
+      "V",
+      "J",
+      "O",
+      "Y"
+    ],
+    [
+      "L",
+      "E",
+      "S",
+      "H",
+      "A",
+      "M",
+      "R",
+      "O",
+      "C",
+      "K"
+    ],
+    [
+      "H",
+      "A",
+      "V",
+      "A",
+      "L",
+      "K",
+      "S",
+      "O",
+      "N",
+      "G"
+    ],
+    [
+      "U",
+      "C",
+      "H",
+      "A",
+      "R",
+      "M",
+      "C",
+      "B",
+      "P",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SHAMROCK",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "STONE",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "COAST",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CHARM",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TOAST",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "HILL",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "MIST",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SONG",
+      "row": 8,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "TEA",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "JOY",
+      "row": 6,
+      "col": 7,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7022
+}

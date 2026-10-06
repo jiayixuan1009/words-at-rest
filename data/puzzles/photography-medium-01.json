@@ -1,0 +1,284 @@
+{
+  "id": "photography-medium-01",
+  "slug": "photography-medium-01",
+  "themeId": "photography",
+  "title": "Photography: Light Hour",
+  "primaryKeyword": "photography word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ANGLE",
+    "APERTURE",
+    "DARKROOM",
+    "DEPTH",
+    "EXPOSE",
+    "FILTER",
+    "MACRO",
+    "NEGATIVE",
+    "PORTRAIT",
+    "POSITIVE",
+    "SHUTTER",
+    "STRAP",
+    "SUBJECT",
+    "TRIPOD"
+  ],
+  "grid": [
+    [
+      "R",
+      "A",
+      "X",
+      "N",
+      "R",
+      "U",
+      "E",
+      "K",
+      "J",
+      "K",
+      "T",
+      "A"
+    ],
+    [
+      "D",
+      "P",
+      "N",
+      "V",
+      "P",
+      "L",
+      "B",
+      "E",
+      "P",
+      "C",
+      "A",
+      "M"
+    ],
+    [
+      "P",
+      "E",
+      "E",
+      "E",
+      "G",
+      "S",
+      "S",
+      "B",
+      "E",
+      "O",
+      "O",
+      "B"
+    ],
+    [
+      "O",
+      "R",
+      "P",
+      "N",
+      "G",
+      "O",
+      "T",
+      "J",
+      "T",
+      "O",
+      "R",
+      "Z"
+    ],
+    [
+      "R",
+      "T",
+      "A",
+      "T",
+      "P",
+      "A",
+      "B",
+      "R",
+      "R",
+      "W",
+      "T",
+      "F"
+    ],
+    [
+      "T",
+      "U",
+      "T",
+      "X",
+      "H",
+      "U",
+      "T",
+      "K",
+      "A",
+      "I",
+      "F",
+      "I"
+    ],
+    [
+      "R",
+      "R",
+      "E",
+      "U",
+      "S",
+      "X",
+      "R",
+      "I",
+      "T",
+      "P",
+      "J",
+      "L"
+    ],
+    [
+      "A",
+      "E",
+      "T",
+      "Z",
+      "H",
+      "A",
+      "U",
+      "A",
+      "V",
+      "N",
+      "J",
+      "T"
+    ],
+    [
+      "I",
+      "V",
+      "B",
+      "Q",
+      "D",
+      "N",
+      "R",
+      "F",
+      "P",
+      "E",
+      "J",
+      "E"
+    ],
+    [
+      "T",
+      "Q",
+      "S",
+      "H",
+      "U",
+      "T",
+      "T",
+      "E",
+      "R",
+      "I",
+      "O",
+      "R"
+    ],
+    [
+      "M",
+      "A",
+      "C",
+      "R",
+      "O",
+      "T",
+      "R",
+      "I",
+      "P",
+      "O",
+      "D",
+      "H"
+    ],
+    [
+      "E",
+      "P",
+      "O",
+      "S",
+      "I",
+      "T",
+      "I",
+      "V",
+      "E",
+      "T",
+      "B",
+      "F"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "APERTURE",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "DARKROOM",
+      "row": 8,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "NEGATIVE",
+      "row": 1,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "POSITIVE",
+      "row": 11,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PORTRAIT",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SHUTTER",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SUBJECT",
+      "row": 6,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "EXPOSE",
+      "row": 6,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "TRIPOD",
+      "row": 10,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "FILTER",
+      "row": 4,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "STRAP",
+      "row": 2,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "MACRO",
+      "row": 10,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "ANGLE",
+      "row": 4,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "DEPTH",
+      "row": 1,
+      "col": 0,
+      "direction": "SE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8703
+}

@@ -1,0 +1,284 @@
+{
+  "id": "trains-medium-01",
+  "slug": "trains-medium-01",
+  "themeId": "trains",
+  "title": "Trains: Signal Green",
+  "primaryKeyword": "trains word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BALLAST",
+    "BRIDGE",
+    "CABOOSE",
+    "CARRIAGE",
+    "CROSSING",
+    "FREIGHT",
+    "PLATFORM",
+    "SIDING",
+    "SIGNAL",
+    "STATION",
+    "SWITCH",
+    "TICKET",
+    "TUNNEL",
+    "WHISTLE"
+  ],
+  "grid": [
+    [
+      "C",
+      "A",
+      "B",
+      "A",
+      "L",
+      "L",
+      "A",
+      "S",
+      "T",
+      "E",
+      "L",
+      "Z"
+    ],
+    [
+      "K",
+      "S",
+      "I",
+      "G",
+      "N",
+      "A",
+      "L",
+      "V",
+      "G",
+      "E",
+      "P",
+      "L"
+    ],
+    [
+      "S",
+      "T",
+      "A",
+      "T",
+      "I",
+      "O",
+      "N",
+      "D",
+      "L",
+      "E",
+      "M",
+      "C"
+    ],
+    [
+      "X",
+      "A",
+      "J",
+      "I",
+      "O",
+      "T",
+      "I",
+      "T",
+      "I",
+      "R",
+      "J",
+      "R"
+    ],
+    [
+      "A",
+      "F",
+      "B",
+      "X",
+      "E",
+      "R",
+      "S",
+      "E",
+      "O",
+      "V",
+      "I",
+      "O"
+    ],
+    [
+      "H",
+      "U",
+      "R",
+      "K",
+      "B",
+      "I",
+      "G",
+      "F",
+      "S",
+      "C",
+      "T",
+      "S"
+    ],
+    [
+      "C",
+      "A",
+      "C",
+      "E",
+      "H",
+      "A",
+      "T",
+      "I",
+      "I",
+      "A",
+      "S",
+      "S"
+    ],
+    [
+      "Z",
+      "I",
+      "J",
+      "W",
+      "I",
+      "A",
+      "Z",
+      "O",
+      "D",
+      "B",
+      "W",
+      "I"
+    ],
+    [
+      "T",
+      "N",
+      "O",
+      "R",
+      "L",
+      "G",
+      "M",
+      "C",
+      "I",
+      "O",
+      "I",
+      "N"
+    ],
+    [
+      "G",
+      "R",
+      "R",
+      "P",
+      "T",
+      "B",
+      "H",
+      "F",
+      "N",
+      "O",
+      "T",
+      "G"
+    ],
+    [
+      "P",
+      "A",
+      "H",
+      "M",
+      "Y",
+      "M",
+      "Q",
+      "T",
+      "G",
+      "S",
+      "C",
+      "M"
+    ],
+    [
+      "C",
+      "T",
+      "U",
+      "N",
+      "N",
+      "E",
+      "L",
+      "B",
+      "P",
+      "E",
+      "H",
+      "F"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CARRIAGE",
+      "row": 11,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "PLATFORM",
+      "row": 9,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "CROSSING",
+      "row": 2,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "BALLAST",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CABOOSE",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "STATION",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "WHISTLE",
+      "row": 7,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "FREIGHT",
+      "row": 4,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "SIGNAL",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SWITCH",
+      "row": 6,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "SIDING",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "TUNNEL",
+      "row": 11,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BRIDGE",
+      "row": 5,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "TICKET",
+      "row": 8,
+      "col": 0,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8073
+}

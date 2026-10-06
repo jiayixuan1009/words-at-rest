@@ -1,0 +1,284 @@
+{
+  "id": "dinosaurs-medium-02",
+  "slug": "dinosaurs-medium-02",
+  "themeId": "dinosaurs",
+  "title": "Dinosaurs: Ancient Age",
+  "primaryKeyword": "dinosaurs word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ALLOSAUR",
+    "AMBER",
+    "CARNIVORE",
+    "EXTINCT",
+    "FOSSIL",
+    "HERBIVORE",
+    "IGUANODON",
+    "MUSEUM",
+    "PTEROSAUR",
+    "SAUROPOD",
+    "SEDIMENT",
+    "STEGOSAUR",
+    "THEROPOD",
+    "TRICERATOPS"
+  ],
+  "grid": [
+    [
+      "H",
+      "V",
+      "L",
+      "G",
+      "Z",
+      "I",
+      "V",
+      "U",
+      "V",
+      "D",
+      "H",
+      "H"
+    ],
+    [
+      "T",
+      "R",
+      "I",
+      "C",
+      "E",
+      "R",
+      "A",
+      "T",
+      "O",
+      "P",
+      "S",
+      "J"
+    ],
+    [
+      "P",
+      "W",
+      "P",
+      "Z",
+      "S",
+      "A",
+      "U",
+      "R",
+      "O",
+      "P",
+      "O",
+      "D"
+    ],
+    [
+      "C",
+      "B",
+      "T",
+      "S",
+      "T",
+      "E",
+      "G",
+      "O",
+      "S",
+      "A",
+      "U",
+      "R"
+    ],
+    [
+      "A",
+      "H",
+      "E",
+      "R",
+      "B",
+      "I",
+      "V",
+      "O",
+      "R",
+      "E",
+      "V",
+      "B"
+    ],
+    [
+      "R",
+      "G",
+      "R",
+      "E",
+      "X",
+      "T",
+      "I",
+      "N",
+      "C",
+      "T",
+      "D",
+      "Y"
+    ],
+    [
+      "N",
+      "F",
+      "O",
+      "A",
+      "L",
+      "L",
+      "O",
+      "S",
+      "A",
+      "U",
+      "R",
+      "P"
+    ],
+    [
+      "I",
+      "O",
+      "S",
+      "D",
+      "G",
+      "M",
+      "U",
+      "S",
+      "E",
+      "U",
+      "M",
+      "Z"
+    ],
+    [
+      "V",
+      "S",
+      "A",
+      "I",
+      "S",
+      "E",
+      "D",
+      "I",
+      "M",
+      "E",
+      "N",
+      "T"
+    ],
+    [
+      "O",
+      "S",
+      "U",
+      "I",
+      "G",
+      "U",
+      "A",
+      "N",
+      "O",
+      "D",
+      "O",
+      "N"
+    ],
+    [
+      "R",
+      "I",
+      "R",
+      "G",
+      "T",
+      "H",
+      "E",
+      "R",
+      "O",
+      "P",
+      "O",
+      "D"
+    ],
+    [
+      "E",
+      "L",
+      "E",
+      "E",
+      "W",
+      "A",
+      "M",
+      "B",
+      "E",
+      "R",
+      "G",
+      "Q"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TRICERATOPS",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "HERBIVORE",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CARNIVORE",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "STEGOSAUR",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "PTEROSAUR",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "IGUANODON",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "ALLOSAUR",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SAUROPOD",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "THEROPOD",
+      "row": 10,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SEDIMENT",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "EXTINCT",
+      "row": 5,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "FOSSIL",
+      "row": 6,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "MUSEUM",
+      "row": 7,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "AMBER",
+      "row": 11,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8304
+}

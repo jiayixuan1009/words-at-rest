@@ -1,0 +1,173 @@
+{
+  "id": "geology-large-01",
+  "slug": "geology-large-01",
+  "themeId": "geology",
+  "title": "Large Print Geology: Soft Stone",
+  "primaryKeyword": "large print geology word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "CLAY",
+    "LAB",
+    "LAVA",
+    "MAP",
+    "ROCK",
+    "SAND",
+    "SLATE",
+    "STONE"
+  ],
+  "grid": [
+    [
+      "D",
+      "E",
+      "Y",
+      "N",
+      "O",
+      "H",
+      "B",
+      "U",
+      "Q"
+    ],
+    [
+      "T",
+      "R",
+      "F",
+      "R",
+      "O",
+      "C",
+      "K",
+      "K",
+      "M"
+    ],
+    [
+      "L",
+      "A",
+      "B",
+      "L",
+      "R",
+      "R",
+      "X",
+      "N",
+      "Q"
+    ],
+    [
+      "J",
+      "O",
+      "U",
+      "A",
+      "J",
+      "K",
+      "S",
+      "S",
+      "E"
+    ],
+    [
+      "N",
+      "M",
+      "P",
+      "V",
+      "P",
+      "S",
+      "L",
+      "E",
+      "V"
+    ],
+    [
+      "S",
+      "A",
+      "K",
+      "A",
+      "C",
+      "T",
+      "A",
+      "Q",
+      "X"
+    ],
+    [
+      "A",
+      "P",
+      "C",
+      "O",
+      "L",
+      "O",
+      "T",
+      "G",
+      "S"
+    ],
+    [
+      "N",
+      "E",
+      "A",
+      "H",
+      "A",
+      "N",
+      "E",
+      "G",
+      "I"
+    ],
+    [
+      "D",
+      "T",
+      "V",
+      "O",
+      "Y",
+      "E",
+      "N",
+      "O",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "STONE",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "SLATE",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "ROCK",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "CLAY",
+      "row": 5,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "SAND",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "LAVA",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "MAP",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "LAB",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8666
+}

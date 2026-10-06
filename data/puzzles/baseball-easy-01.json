@@ -1,0 +1,208 @@
+{
+  "id": "baseball-easy-01",
+  "slug": "baseball-easy-01",
+  "themeId": "baseball",
+  "title": "Baseball: Diamond Basics",
+  "primaryKeyword": "baseball word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BALL",
+    "BASE",
+    "BAT",
+    "CAP",
+    "CATCH",
+    "GLOVE",
+    "HIT",
+    "MITT",
+    "RUN",
+    "THROW"
+  ],
+  "grid": [
+    [
+      "C",
+      "G",
+      "W",
+      "C",
+      "A",
+      "T",
+      "C",
+      "H",
+      "S",
+      "F"
+    ],
+    [
+      "S",
+      "F",
+      "D",
+      "R",
+      "U",
+      "N",
+      "L",
+      "J",
+      "V",
+      "M"
+    ],
+    [
+      "C",
+      "T",
+      "U",
+      "B",
+      "Z",
+      "I",
+      "B",
+      "A",
+      "T",
+      "X"
+    ],
+    [
+      "A",
+      "A",
+      "G",
+      "L",
+      "O",
+      "V",
+      "E",
+      "T",
+      "V",
+      "X"
+    ],
+    [
+      "P",
+      "F",
+      "E",
+      "Q",
+      "P",
+      "M",
+      "I",
+      "T",
+      "T",
+      "A"
+    ],
+    [
+      "N",
+      "E",
+      "T",
+      "H",
+      "R",
+      "O",
+      "W",
+      "T",
+      "H",
+      "T"
+    ],
+    [
+      "B",
+      "A",
+      "L",
+      "L",
+      "P",
+      "M",
+      "V",
+      "X",
+      "I",
+      "N"
+    ],
+    [
+      "S",
+      "T",
+      "A",
+      "G",
+      "A",
+      "I",
+      "G",
+      "E",
+      "T",
+      "P"
+    ],
+    [
+      "S",
+      "L",
+      "W",
+      "K",
+      "U",
+      "Z",
+      "N",
+      "X",
+      "R",
+      "Q"
+    ],
+    [
+      "X",
+      "H",
+      "X",
+      "Z",
+      "B",
+      "A",
+      "S",
+      "E",
+      "H",
+      "V"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "GLOVE",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "THROW",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CATCH",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BALL",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BASE",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "MITT",
+      "row": 4,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "BAT",
+      "row": 2,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "HIT",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "RUN",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "CAP",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6021
+}

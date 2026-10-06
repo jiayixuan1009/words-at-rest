@@ -1,0 +1,284 @@
+{
+  "id": "american-history-medium-01",
+  "slug": "american-history-medium-01",
+  "themeId": "american-history",
+  "title": "American History: Capitol Era",
+  "primaryKeyword": "american history word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BALLOT",
+    "CAPITAL",
+    "CENSUS",
+    "CHURCH",
+    "CONGRESS",
+    "FACTORY",
+    "FRONTIER",
+    "HARBOR",
+    "MISSION",
+    "PIONEER",
+    "RAILROAD",
+    "SETTLER",
+    "STRIKE",
+    "SUFFRAGE"
+  ],
+  "grid": [
+    [
+      "S",
+      "U",
+      "F",
+      "F",
+      "R",
+      "A",
+      "G",
+      "E",
+      "N",
+      "P",
+      "A",
+      "A"
+    ],
+    [
+      "Q",
+      "F",
+      "F",
+      "A",
+      "C",
+      "T",
+      "O",
+      "R",
+      "Y",
+      "W",
+      "L",
+      "M"
+    ],
+    [
+      "S",
+      "C",
+      "A",
+      "F",
+      "V",
+      "X",
+      "E",
+      "S",
+      "S",
+      "H",
+      "Y",
+      "I"
+    ],
+    [
+      "I",
+      "D",
+      "O",
+      "D",
+      "S",
+      "E",
+      "T",
+      "T",
+      "L",
+      "E",
+      "R",
+      "S"
+    ],
+    [
+      "R",
+      "T",
+      "D",
+      "N",
+      "N",
+      "B",
+      "H",
+      "R",
+      "K",
+      "F",
+      "E",
+      "S"
+    ],
+    [
+      "A",
+      "Z",
+      "C",
+      "O",
+      "G",
+      "C",
+      "V",
+      "I",
+      "A",
+      "R",
+      "C",
+      "I"
+    ],
+    [
+      "I",
+      "A",
+      "I",
+      "W",
+      "R",
+      "R",
+      "Y",
+      "K",
+      "O",
+      "O",
+      "E",
+      "O"
+    ],
+    [
+      "L",
+      "P",
+      "T",
+      "U",
+      "X",
+      "E",
+      "E",
+      "E",
+      "O",
+      "N",
+      "N",
+      "N"
+    ],
+    [
+      "R",
+      "N",
+      "H",
+      "Q",
+      "A",
+      "I",
+      "W",
+      "S",
+      "C",
+      "T",
+      "S",
+      "I"
+    ],
+    [
+      "O",
+      "C",
+      "A",
+      "P",
+      "I",
+      "T",
+      "A",
+      "L",
+      "S",
+      "I",
+      "U",
+      "Q"
+    ],
+    [
+      "A",
+      "Z",
+      "B",
+      "A",
+      "L",
+      "L",
+      "O",
+      "T",
+      "Q",
+      "E",
+      "S",
+      "L"
+    ],
+    [
+      "D",
+      "O",
+      "H",
+      "H",
+      "A",
+      "R",
+      "B",
+      "O",
+      "R",
+      "R",
+      "S",
+      "J"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FRONTIER",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "CONGRESS",
+      "row": 2,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "RAILROAD",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SUFFRAGE",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SETTLER",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "PIONEER",
+      "row": 7,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "CAPITAL",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "MISSION",
+      "row": 1,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "FACTORY",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BALLOT",
+      "row": 10,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CENSUS",
+      "row": 5,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "HARBOR",
+      "row": 11,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "CHURCH",
+      "row": 9,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "STRIKE",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8283
+}

@@ -1,0 +1,208 @@
+{
+  "id": "tools-easy-02",
+  "slug": "tools-easy-02",
+  "themeId": "tools",
+  "title": "Tools: Quiet Mend",
+  "primaryKeyword": "tools word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BIT",
+    "BUCKET",
+    "DRILL",
+    "HAMMER",
+    "HOE",
+    "LADDER",
+    "LEVEL",
+    "RAKE",
+    "RULER",
+    "WRENCH"
+  ],
+  "grid": [
+    [
+      "R",
+      "A",
+      "K",
+      "E",
+      "H",
+      "N",
+      "T",
+      "R",
+      "V",
+      "U"
+    ],
+    [
+      "L",
+      "L",
+      "B",
+      "U",
+      "A",
+      "L",
+      "G",
+      "U",
+      "X",
+      "A"
+    ],
+    [
+      "U",
+      "E",
+      "I",
+      "J",
+      "M",
+      "A",
+      "C",
+      "L",
+      "L",
+      "D"
+    ],
+    [
+      "A",
+      "V",
+      "F",
+      "U",
+      "M",
+      "D",
+      "T",
+      "E",
+      "K",
+      "U"
+    ],
+    [
+      "W",
+      "E",
+      "P",
+      "B",
+      "E",
+      "D",
+      "D",
+      "R",
+      "J",
+      "K"
+    ],
+    [
+      "H",
+      "L",
+      "Y",
+      "I",
+      "R",
+      "E",
+      "A",
+      "A",
+      "N",
+      "O"
+    ],
+    [
+      "O",
+      "Z",
+      "U",
+      "T",
+      "C",
+      "R",
+      "C",
+      "N",
+      "P",
+      "O"
+    ],
+    [
+      "E",
+      "W",
+      "R",
+      "E",
+      "N",
+      "C",
+      "H",
+      "P",
+      "H",
+      "U"
+    ],
+    [
+      "C",
+      "E",
+      "E",
+      "F",
+      "B",
+      "U",
+      "C",
+      "K",
+      "E",
+      "T"
+    ],
+    [
+      "Y",
+      "P",
+      "M",
+      "D",
+      "R",
+      "I",
+      "L",
+      "L",
+      "K",
+      "M"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "HAMMER",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "WRENCH",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BUCKET",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "LADDER",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "DRILL",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "LEVEL",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "RULER",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "RAKE",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BIT",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "HOE",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8252
+}

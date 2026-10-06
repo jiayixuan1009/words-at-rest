@@ -1,0 +1,284 @@
+{
+  "id": "cooking-medium-02",
+  "slug": "cooking-medium-02",
+  "themeId": "cooking",
+  "title": "Cooking: Recipe Night",
+  "primaryKeyword": "cooking word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BATTER",
+    "BROTH",
+    "BUTTER",
+    "CRUST",
+    "DOUGH",
+    "GRAVY",
+    "HEAT",
+    "LADLE",
+    "SAUCE",
+    "SKILLET",
+    "SPICE",
+    "STOCK",
+    "STOVE",
+    "TIMER"
+  ],
+  "grid": [
+    [
+      "G",
+      "S",
+      "T",
+      "O",
+      "C",
+      "K",
+      "Z",
+      "J",
+      "B",
+      "X",
+      "S",
+      "R"
+    ],
+    [
+      "C",
+      "A",
+      "C",
+      "H",
+      "J",
+      "U",
+      "U",
+      "Q",
+      "H",
+      "B",
+      "E",
+      "E"
+    ],
+    [
+      "O",
+      "U",
+      "Y",
+      "S",
+      "E",
+      "B",
+      "W",
+      "G",
+      "J",
+      "M",
+      "C",
+      "X"
+    ],
+    [
+      "E",
+      "C",
+      "C",
+      "I",
+      "K",
+      "A",
+      "R",
+      "U",
+      "I",
+      "I",
+      "W",
+      "N"
+    ],
+    [
+      "N",
+      "E",
+      "D",
+      "K",
+      "C",
+      "I",
+      "T",
+      "T",
+      "P",
+      "O",
+      "H",
+      "K"
+    ],
+    [
+      "L",
+      "A",
+      "D",
+      "L",
+      "E",
+      "N",
+      "L",
+      "S",
+      "F",
+      "B",
+      "U",
+      "F"
+    ],
+    [
+      "L",
+      "H",
+      "O",
+      "Q",
+      "S",
+      "P",
+      "N",
+      "L",
+      "D",
+      "U",
+      "E",
+      "D"
+    ],
+    [
+      "V",
+      "U",
+      "B",
+      "R",
+      "O",
+      "T",
+      "H",
+      "O",
+      "E",
+      "T",
+      "O",
+      "S"
+    ],
+    [
+      "B",
+      "A",
+      "T",
+      "T",
+      "E",
+      "R",
+      "O",
+      "T",
+      "M",
+      "T",
+      "J",
+      "L"
+    ],
+    [
+      "T",
+      "U",
+      "Q",
+      "Q",
+      "U",
+      "X",
+      "F",
+      "V",
+      "A",
+      "E",
+      "H",
+      "A"
+    ],
+    [
+      "R",
+      "U",
+      "G",
+      "R",
+      "A",
+      "V",
+      "Y",
+      "M",
+      "E",
+      "R",
+      "I",
+      "I"
+    ],
+    [
+      "L",
+      "C",
+      "R",
+      "U",
+      "S",
+      "T",
+      "Q",
+      "D",
+      "O",
+      "U",
+      "G",
+      "H"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SKILLET",
+      "row": 2,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "BUTTER",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "BATTER",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SPICE",
+      "row": 5,
+      "col": 7,
+      "direction": "NE"
+    },
+    {
+      "word": "STOCK",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BROTH",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SAUCE",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "GRAVY",
+      "row": 10,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "DOUGH",
+      "row": 11,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "CRUST",
+      "row": 11,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TIMER",
+      "row": 4,
+      "col": 7,
+      "direction": "NE"
+    },
+    {
+      "word": "STOVE",
+      "row": 6,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "LADLE",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "HEAT",
+      "row": 1,
+      "col": 3,
+      "direction": "SE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8334
+}

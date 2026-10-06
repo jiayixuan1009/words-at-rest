@@ -1,0 +1,284 @@
+{
+  "id": "deserts-medium-01",
+  "slug": "deserts-medium-01",
+  "themeId": "deserts",
+  "title": "Deserts: Canyon Wash",
+  "primaryKeyword": "deserts word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BUTTE",
+    "CACTUS",
+    "CAMEL",
+    "CANYON",
+    "HAWK",
+    "HORIZON",
+    "LIZARD",
+    "MIRAGE",
+    "OWL",
+    "PLATEAU",
+    "SNAKE",
+    "TWILIGHT",
+    "WADI",
+    "WASH"
+  ],
+  "grid": [
+    [
+      "F",
+      "L",
+      "I",
+      "Z",
+      "A",
+      "R",
+      "D",
+      "V",
+      "H",
+      "I",
+      "M",
+      "I"
+    ],
+    [
+      "U",
+      "P",
+      "R",
+      "L",
+      "K",
+      "C",
+      "K",
+      "W",
+      "U",
+      "W",
+      "I",
+      "I"
+    ],
+    [
+      "E",
+      "L",
+      "T",
+      "C",
+      "T",
+      "X",
+      "A",
+      "G",
+      "A",
+      "O",
+      "W",
+      "L"
+    ],
+    [
+      "C",
+      "A",
+      "D",
+      "A",
+      "Q",
+      "W",
+      "T",
+      "N",
+      "Z",
+      "D",
+      "Q",
+      "F"
+    ],
+    [
+      "A",
+      "T",
+      "C",
+      "M",
+      "W",
+      "W",
+      "I",
+      "S",
+      "Y",
+      "J",
+      "I",
+      "R"
+    ],
+    [
+      "C",
+      "E",
+      "G",
+      "E",
+      "H",
+      "B",
+      "J",
+      "L",
+      "N",
+      "O",
+      "X",
+      "C"
+    ],
+    [
+      "T",
+      "A",
+      "S",
+      "L",
+      "O",
+      "U",
+      "M",
+      "A",
+      "I",
+      "A",
+      "N",
+      "B"
+    ],
+    [
+      "U",
+      "U",
+      "T",
+      "U",
+      "R",
+      "T",
+      "M",
+      "I",
+      "J",
+      "G",
+      "K",
+      "L"
+    ],
+    [
+      "S",
+      "J",
+      "M",
+      "W",
+      "I",
+      "T",
+      "D",
+      "W",
+      "R",
+      "J",
+      "H",
+      "E"
+    ],
+    [
+      "F",
+      "O",
+      "W",
+      "A",
+      "Z",
+      "E",
+      "L",
+      "E",
+      "L",
+      "A",
+      "D",
+      "T"
+    ],
+    [
+      "Q",
+      "S",
+      "T",
+      "S",
+      "O",
+      "H",
+      "A",
+      "W",
+      "K",
+      "N",
+      "G",
+      "Y"
+    ],
+    [
+      "E",
+      "A",
+      "A",
+      "H",
+      "N",
+      "N",
+      "M",
+      "Y",
+      "F",
+      "P",
+      "T",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TWILIGHT",
+      "row": 2,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "PLATEAU",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "HORIZON",
+      "row": 5,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "CACTUS",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CANYON",
+      "row": 1,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "MIRAGE",
+      "row": 6,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "LIZARD",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BUTTE",
+      "row": 5,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "CAMEL",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "SNAKE",
+      "row": 4,
+      "col": 7,
+      "direction": "SE"
+    },
+    {
+      "word": "WASH",
+      "row": 8,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "WADI",
+      "row": 1,
+      "col": 7,
+      "direction": "SE"
+    },
+    {
+      "word": "HAWK",
+      "row": 10,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "OWL",
+      "row": 2,
+      "col": 9,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8543
+}

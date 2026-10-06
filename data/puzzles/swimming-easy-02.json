@@ -1,0 +1,208 @@
+{
+  "id": "swimming-easy-02",
+  "slug": "swimming-easy-02",
+  "themeId": "swimming",
+  "title": "Swimming: Quiet Kick",
+  "primaryKeyword": "swimming word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BOARD",
+    "DEPTH",
+    "FINISH",
+    "FLOAT",
+    "PACE",
+    "SPLASH",
+    "START",
+    "STROKE",
+    "TOWEL",
+    "WATER"
+  ],
+  "grid": [
+    [
+      "W",
+      "A",
+      "T",
+      "E",
+      "R",
+      "G",
+      "M",
+      "E",
+      "P",
+      "W"
+    ],
+    [
+      "H",
+      "Y",
+      "H",
+      "S",
+      "P",
+      "L",
+      "A",
+      "S",
+      "H",
+      "T"
+    ],
+    [
+      "P",
+      "Y",
+      "X",
+      "O",
+      "A",
+      "L",
+      "W",
+      "T",
+      "F",
+      "S"
+    ],
+    [
+      "S",
+      "S",
+      "T",
+      "R",
+      "O",
+      "K",
+      "E",
+      "O",
+      "B",
+      "T"
+    ],
+    [
+      "B",
+      "K",
+      "R",
+      "R",
+      "Q",
+      "A",
+      "N",
+      "W",
+      "D",
+      "A"
+    ],
+    [
+      "O",
+      "S",
+      "J",
+      "V",
+      "M",
+      "J",
+      "Z",
+      "E",
+      "P",
+      "R"
+    ],
+    [
+      "A",
+      "P",
+      "A",
+      "C",
+      "E",
+      "D",
+      "A",
+      "L",
+      "D",
+      "T"
+    ],
+    [
+      "R",
+      "A",
+      "X",
+      "F",
+      "I",
+      "N",
+      "I",
+      "S",
+      "H",
+      "D"
+    ],
+    [
+      "D",
+      "S",
+      "D",
+      "E",
+      "P",
+      "T",
+      "H",
+      "V",
+      "M",
+      "B"
+    ],
+    [
+      "U",
+      "D",
+      "Z",
+      "P",
+      "F",
+      "L",
+      "O",
+      "A",
+      "T",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "STROKE",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SPLASH",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "FINISH",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "FLOAT",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "WATER",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "DEPTH",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BOARD",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "START",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "TOWEL",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "PACE",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8632
+}

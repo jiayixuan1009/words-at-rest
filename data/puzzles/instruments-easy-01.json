@@ -1,0 +1,208 @@
+{
+  "id": "instruments-easy-01",
+  "slug": "instruments-easy-01",
+  "themeId": "instruments",
+  "title": "Instruments: Strings",
+  "primaryKeyword": "musical instruments word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BANJO",
+    "BASS",
+    "CELLO",
+    "GUITAR",
+    "HARP",
+    "LUTE",
+    "ORGAN",
+    "PIANO",
+    "VIOLA",
+    "VIOLIN"
+  ],
+  "grid": [
+    [
+      "Z",
+      "C",
+      "P",
+      "F",
+      "Y",
+      "G",
+      "H",
+      "A",
+      "R",
+      "P"
+    ],
+    [
+      "L",
+      "B",
+      "A",
+      "N",
+      "J",
+      "O",
+      "W",
+      "P",
+      "K",
+      "L"
+    ],
+    [
+      "K",
+      "D",
+      "C",
+      "M",
+      "G",
+      "U",
+      "I",
+      "T",
+      "A",
+      "R"
+    ],
+    [
+      "C",
+      "Y",
+      "Q",
+      "O",
+      "L",
+      "P",
+      "V",
+      "P",
+      "O",
+      "I"
+    ],
+    [
+      "E",
+      "M",
+      "X",
+      "T",
+      "U",
+      "I",
+      "I",
+      "O",
+      "R",
+      "K"
+    ],
+    [
+      "L",
+      "M",
+      "M",
+      "V",
+      "T",
+      "A",
+      "O",
+      "R",
+      "X",
+      "D"
+    ],
+    [
+      "L",
+      "G",
+      "T",
+      "G",
+      "E",
+      "N",
+      "L",
+      "G",
+      "A",
+      "Y"
+    ],
+    [
+      "O",
+      "N",
+      "V",
+      "U",
+      "J",
+      "O",
+      "A",
+      "A",
+      "C",
+      "M"
+    ],
+    [
+      "Q",
+      "V",
+      "I",
+      "O",
+      "L",
+      "I",
+      "N",
+      "N",
+      "A",
+      "R"
+    ],
+    [
+      "C",
+      "T",
+      "X",
+      "J",
+      "Y",
+      "W",
+      "B",
+      "A",
+      "S",
+      "S"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "VIOLIN",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "GUITAR",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "VIOLA",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "CELLO",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BANJO",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PIANO",
+      "row": 3,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "ORGAN",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "BASS",
+      "row": 9,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "HARP",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "LUTE",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6211
+}

@@ -1,0 +1,284 @@
+{
+  "id": "fathers-day-medium-02",
+  "slug": "fathers-day-medium-02",
+  "themeId": "fathers-day",
+  "title": "Father's Day: June Sunday",
+  "primaryKeyword": "fathers day word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BENCH",
+    "CAMP",
+    "CATCH",
+    "COMFORT",
+    "GUIDE",
+    "HONOR",
+    "LISTEN",
+    "PORCH",
+    "RADIO",
+    "RESPECT",
+    "SHARE",
+    "SUPPORT",
+    "TEACH",
+    "TRAIL"
+  ],
+  "grid": [
+    [
+      "C",
+      "N",
+      "W",
+      "O",
+      "D",
+      "K",
+      "Q",
+      "X",
+      "K",
+      "R",
+      "Z",
+      "E"
+    ],
+    [
+      "W",
+      "T",
+      "R",
+      "A",
+      "I",
+      "L",
+      "C",
+      "P",
+      "A",
+      "E",
+      "Z",
+      "M"
+    ],
+    [
+      "P",
+      "C",
+      "A",
+      "T",
+      "C",
+      "H",
+      "Z",
+      "W",
+      "D",
+      "S",
+      "G",
+      "B"
+    ],
+    [
+      "P",
+      "B",
+      "D",
+      "E",
+      "W",
+      "H",
+      "T",
+      "S",
+      "K",
+      "P",
+      "U",
+      "S"
+    ],
+    [
+      "O",
+      "P",
+      "L",
+      "D",
+      "C",
+      "R",
+      "R",
+      "H",
+      "I",
+      "E",
+      "I",
+      "P"
+    ],
+    [
+      "R",
+      "U",
+      "K",
+      "N",
+      "O",
+      "H",
+      "R",
+      "A",
+      "G",
+      "C",
+      "D",
+      "N"
+    ],
+    [
+      "C",
+      "X",
+      "E",
+      "F",
+      "C",
+      "S",
+      "N",
+      "R",
+      "D",
+      "T",
+      "E",
+      "H"
+    ],
+    [
+      "H",
+      "B",
+      "M",
+      "A",
+      "H",
+      "H",
+      "Q",
+      "E",
+      "H",
+      "I",
+      "G",
+      "E"
+    ],
+    [
+      "Z",
+      "O",
+      "E",
+      "S",
+      "U",
+      "P",
+      "P",
+      "O",
+      "R",
+      "T",
+      "O",
+      "F"
+    ],
+    [
+      "C",
+      "T",
+      "M",
+      "R",
+      "I",
+      "H",
+      "O",
+      "N",
+      "O",
+      "R",
+      "Q",
+      "W"
+    ],
+    [
+      "Y",
+      "N",
+      "H",
+      "H",
+      "L",
+      "I",
+      "S",
+      "T",
+      "E",
+      "N",
+      "F",
+      "Z"
+    ],
+    [
+      "K",
+      "J",
+      "B",
+      "F",
+      "L",
+      "D",
+      "U",
+      "C",
+      "C",
+      "A",
+      "M",
+      "P"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SUPPORT",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "COMFORT",
+      "row": 9,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "RESPECT",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "LISTEN",
+      "row": 10,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "HONOR",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SHARE",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "PORCH",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "RADIO",
+      "row": 4,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "CATCH",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TRAIL",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BENCH",
+      "row": 7,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "GUIDE",
+      "row": 2,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "TEACH",
+      "row": 9,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "CAMP",
+      "row": 11,
+      "col": 8,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7044
+}

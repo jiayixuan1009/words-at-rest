@@ -1,0 +1,208 @@
+{
+  "id": "dinosaurs-easy-01",
+  "slug": "dinosaurs-easy-01",
+  "themeId": "dinosaurs",
+  "title": "Dinosaurs: Fossil Dig",
+  "primaryKeyword": "dinosaurs word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BONE",
+    "CLAW",
+    "DIG",
+    "EGG",
+    "NEST",
+    "ROCK",
+    "SITE",
+    "SKULL",
+    "TAIL",
+    "TEETH"
+  ],
+  "grid": [
+    [
+      "M",
+      "U",
+      "Q",
+      "R",
+      "K",
+      "J",
+      "L",
+      "L",
+      "D",
+      "I"
+    ],
+    [
+      "Q",
+      "T",
+      "C",
+      "L",
+      "A",
+      "W",
+      "I",
+      "Z",
+      "K",
+      "E"
+    ],
+    [
+      "B",
+      "O",
+      "N",
+      "E",
+      "G",
+      "D",
+      "Y",
+      "M",
+      "N",
+      "G"
+    ],
+    [
+      "G",
+      "E",
+      "G",
+      "S",
+      "I",
+      "T",
+      "E",
+      "G",
+      "E",
+      "G"
+    ],
+    [
+      "C",
+      "I",
+      "I",
+      "R",
+      "N",
+      "D",
+      "S",
+      "P",
+      "S",
+      "J"
+    ],
+    [
+      "O",
+      "I",
+      "W",
+      "N",
+      "J",
+      "I",
+      "K",
+      "Z",
+      "T",
+      "N"
+    ],
+    [
+      "R",
+      "O",
+      "C",
+      "K",
+      "F",
+      "G",
+      "U",
+      "M",
+      "E",
+      "E"
+    ],
+    [
+      "T",
+      "Q",
+      "G",
+      "X",
+      "X",
+      "Z",
+      "L",
+      "O",
+      "E",
+      "Y"
+    ],
+    [
+      "A",
+      "E",
+      "K",
+      "T",
+      "A",
+      "I",
+      "L",
+      "N",
+      "T",
+      "M"
+    ],
+    [
+      "X",
+      "Q",
+      "O",
+      "S",
+      "D",
+      "H",
+      "O",
+      "O",
+      "H",
+      "H"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SKULL",
+      "row": 4,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "TEETH",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "BONE",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CLAW",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "TAIL",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "NEST",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "ROCK",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SITE",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "EGG",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "DIG",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8301
+}

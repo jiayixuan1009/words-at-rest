@@ -1,0 +1,284 @@
+{
+  "id": "trees-medium-01",
+  "slug": "trees-medium-01",
+  "themeId": "trees",
+  "title": "Trees: Quiet Grove",
+  "primaryKeyword": "trees word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ACORN",
+    "ALDER",
+    "ASPEN",
+    "BEECH",
+    "BRANCH",
+    "CANOPY",
+    "CHESTNUT",
+    "FOLIAGE",
+    "FOREST",
+    "HICKORY",
+    "NEEDLE",
+    "POPLAR",
+    "SPRUCE",
+    "WALNUT"
+  ],
+  "grid": [
+    [
+      "J",
+      "N",
+      "B",
+      "O",
+      "R",
+      "Y",
+      "H",
+      "F",
+      "P",
+      "Q",
+      "A",
+      "Q"
+    ],
+    [
+      "F",
+      "V",
+      "W",
+      "A",
+      "H",
+      "C",
+      "V",
+      "O",
+      "N",
+      "A",
+      "L",
+      "T"
+    ],
+    [
+      "Y",
+      "B",
+      "B",
+      "C",
+      "N",
+      "G",
+      "Y",
+      "R",
+      "A",
+      "Z",
+      "D",
+      "A"
+    ],
+    [
+      "K",
+      "U",
+      "E",
+      "A",
+      "F",
+      "R",
+      "O",
+      "E",
+      "T",
+      "P",
+      "E",
+      "S"
+    ],
+    [
+      "X",
+      "E",
+      "R",
+      "X",
+      "O",
+      "C",
+      "F",
+      "S",
+      "W",
+      "O",
+      "R",
+      "P"
+    ],
+    [
+      "B",
+      "B",
+      "Z",
+      "K",
+      "A",
+      "H",
+      "O",
+      "T",
+      "A",
+      "P",
+      "G",
+      "E"
+    ],
+    [
+      "O",
+      "K",
+      "C",
+      "P",
+      "C",
+      "E",
+      "L",
+      "S",
+      "L",
+      "L",
+      "N",
+      "N"
+    ],
+    [
+      "F",
+      "I",
+      "W",
+      "A",
+      "A",
+      "S",
+      "I",
+      "P",
+      "N",
+      "A",
+      "E",
+      "F"
+    ],
+    [
+      "H",
+      "V",
+      "K",
+      "N",
+      "N",
+      "T",
+      "A",
+      "R",
+      "U",
+      "R",
+      "E",
+      "T"
+    ],
+    [
+      "X",
+      "N",
+      "I",
+      "D",
+      "O",
+      "N",
+      "G",
+      "U",
+      "T",
+      "V",
+      "D",
+      "M"
+    ],
+    [
+      "D",
+      "Y",
+      "N",
+      "J",
+      "P",
+      "U",
+      "E",
+      "C",
+      "T",
+      "N",
+      "L",
+      "N"
+    ],
+    [
+      "T",
+      "G",
+      "G",
+      "I",
+      "Y",
+      "T",
+      "P",
+      "E",
+      "S",
+      "H",
+      "E",
+      "F"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CHESTNUT",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "HICKORY",
+      "row": 8,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "FOLIAGE",
+      "row": 4,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "SPRUCE",
+      "row": 6,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "POPLAR",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "WALNUT",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "BRANCH",
+      "row": 5,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "NEEDLE",
+      "row": 6,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "CANOPY",
+      "row": 6,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "FOREST",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "BEECH",
+      "row": 5,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "ASPEN",
+      "row": 2,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "ALDER",
+      "row": 0,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "ACORN",
+      "row": 5,
+      "col": 4,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7173
+}

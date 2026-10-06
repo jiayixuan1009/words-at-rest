@@ -1,0 +1,208 @@
+{
+  "id": "tennis-easy-01",
+  "slug": "tennis-easy-01",
+  "themeId": "tennis",
+  "title": "Tennis: Court Basics",
+  "primaryKeyword": "tennis word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ACE",
+    "GRIP",
+    "LET",
+    "LOB",
+    "MATCH",
+    "NET",
+    "RALLY",
+    "SERVE",
+    "SET",
+    "SPIN"
+  ],
+  "grid": [
+    [
+      "R",
+      "S",
+      "E",
+      "R",
+      "V",
+      "E",
+      "V",
+      "R",
+      "Y",
+      "K"
+    ],
+    [
+      "G",
+      "R",
+      "I",
+      "P",
+      "Z",
+      "I",
+      "T",
+      "O",
+      "I",
+      "E"
+    ],
+    [
+      "J",
+      "Q",
+      "Y",
+      "O",
+      "C",
+      "I",
+      "M",
+      "M",
+      "P",
+      "S"
+    ],
+    [
+      "R",
+      "C",
+      "A",
+      "C",
+      "E",
+      "P",
+      "G",
+      "B",
+      "P",
+      "P"
+    ],
+    [
+      "A",
+      "T",
+      "L",
+      "J",
+      "M",
+      "S",
+      "A",
+      "P",
+      "Y",
+      "I"
+    ],
+    [
+      "I",
+      "R",
+      "E",
+      "F",
+      "A",
+      "E",
+      "R",
+      "W",
+      "J",
+      "N"
+    ],
+    [
+      "E",
+      "T",
+      "T",
+      "B",
+      "T",
+      "T",
+      "A",
+      "R",
+      "R",
+      "X"
+    ],
+    [
+      "Q",
+      "Z",
+      "H",
+      "K",
+      "C",
+      "N",
+      "L",
+      "N",
+      "U",
+      "M"
+    ],
+    [
+      "O",
+      "U",
+      "I",
+      "P",
+      "H",
+      "E",
+      "L",
+      "E",
+      "U",
+      "O"
+    ],
+    [
+      "U",
+      "M",
+      "I",
+      "W",
+      "J",
+      "T",
+      "Y",
+      "L",
+      "O",
+      "B"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SERVE",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "RALLY",
+      "row": 5,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "MATCH",
+      "row": 4,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "SPIN",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "GRIP",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "ACE",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "NET",
+      "row": 7,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "LET",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "SET",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "LOB",
+      "row": 9,
+      "col": 7,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6031
+}

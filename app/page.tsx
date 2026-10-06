@@ -35,7 +35,7 @@ export const metadata = seo({
   imageAlt: "Words at Rest — calm word search puzzles for adults",
 });
 
-const FEATURED_THEMES = ["halloween", "fall", "christmas", "bible", "garden", "ocean", "cats"];
+const FEATURED_THEMES = ["halloween", "thanksgiving", "christmas", "winter", "bible", "garden", "ocean"];
 
 const STEPS = [
   { title: "Pick a puzzle", text: "Start with today’s daily grid, or choose a theme and a difficulty you like." },
@@ -168,6 +168,7 @@ export default function HomePage() {
         </ul>
         <p className="mt-8 text-center">
           <Link href="/themes" className="chip">See all {totalThemes} themes →</Link>
+          <Link href="/holidays" className="chip">Holiday themes →</Link>
         </p>
       </section>
 

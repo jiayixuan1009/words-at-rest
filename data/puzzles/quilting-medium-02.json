@@ -1,0 +1,284 @@
+{
+  "id": "quilting-medium-02",
+  "slug": "quilting-medium-02",
+  "themeId": "quilting",
+  "title": "Quilting: Warm Cover",
+  "primaryKeyword": "quilting word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CABIN",
+    "CHAIN",
+    "CLIP",
+    "FINISH",
+    "FLYING",
+    "GEESE",
+    "LABEL",
+    "LOG",
+    "MAT",
+    "NINE",
+    "PRINT",
+    "PROJECT",
+    "QUARTER",
+    "SOLID"
+  ],
+  "grid": [
+    [
+      "I",
+      "N",
+      "B",
+      "S",
+      "N",
+      "I",
+      "N",
+      "E",
+      "W",
+      "L",
+      "F",
+      "A"
+    ],
+    [
+      "M",
+      "Y",
+      "G",
+      "X",
+      "E",
+      "D",
+      "V",
+      "I",
+      "U",
+      "H",
+      "R",
+      "W"
+    ],
+    [
+      "O",
+      "U",
+      "F",
+      "S",
+      "K",
+      "W",
+      "Y",
+      "B",
+      "G",
+      "E",
+      "E",
+      "N"
+    ],
+    [
+      "Q",
+      "U",
+      "E",
+      "R",
+      "K",
+      "N",
+      "I",
+      "O",
+      "T",
+      "E",
+      "V",
+      "Y"
+    ],
+    [
+      "A",
+      "E",
+      "F",
+      "C",
+      "V",
+      "C",
+      "L",
+      "R",
+      "C",
+      "P",
+      "I",
+      "F"
+    ],
+    [
+      "G",
+      "B",
+      "L",
+      "C",
+      "S",
+      "V",
+      "A",
+      "C",
+      "L",
+      "R",
+      "L",
+      "I"
+    ],
+    [
+      "U",
+      "B",
+      "Y",
+      "N",
+      "H",
+      "U",
+      "C",
+      "H",
+      "I",
+      "I",
+      "A",
+      "N"
+    ],
+    [
+      "W",
+      "C",
+      "I",
+      "U",
+      "Q",
+      "A",
+      "S",
+      "A",
+      "P",
+      "N",
+      "B",
+      "I"
+    ],
+    [
+      "Z",
+      "X",
+      "N",
+      "M",
+      "A",
+      "T",
+      "I",
+      "O",
+      "B",
+      "T",
+      "E",
+      "S"
+    ],
+    [
+      "U",
+      "V",
+      "G",
+      "Z",
+      "P",
+      "E",
+      "W",
+      "N",
+      "L",
+      "I",
+      "L",
+      "H"
+    ],
+    [
+      "F",
+      "P",
+      "R",
+      "O",
+      "J",
+      "E",
+      "C",
+      "T",
+      "S",
+      "I",
+      "N",
+      "M"
+    ],
+    [
+      "B",
+      "T",
+      "T",
+      "U",
+      "V",
+      "N",
+      "S",
+      "H",
+      "M",
+      "R",
+      "D",
+      "B"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "QUARTER",
+      "row": 7,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "PROJECT",
+      "row": 10,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "FINISH",
+      "row": 4,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "FLYING",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "LABEL",
+      "row": 5,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "SOLID",
+      "row": 7,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "PRINT",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "CHAIN",
+      "row": 5,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "CABIN",
+      "row": 6,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "GEESE",
+      "row": 5,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "CLIP",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "NINE",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "MAT",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "LOG",
+      "row": 4,
+      "col": 6,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8624
+}

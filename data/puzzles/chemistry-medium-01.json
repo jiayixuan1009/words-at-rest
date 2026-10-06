@@ -1,0 +1,284 @@
+{
+  "id": "chemistry-medium-01",
+  "slug": "chemistry-medium-01",
+  "themeId": "chemistry",
+  "title": "Chemistry: Flask Hour",
+  "primaryKeyword": "chemistry word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CARBON",
+    "COMPOUND",
+    "COPPER",
+    "ELEMENT",
+    "HELIUM",
+    "HYDROGEN",
+    "MIXTURE",
+    "MOLECULE",
+    "OXYGEN",
+    "REACTION",
+    "SILVER",
+    "SOLUTE",
+    "SOLUTION",
+    "SOLVENT"
+  ],
+  "grid": [
+    [
+      "U",
+      "V",
+      "V",
+      "S",
+      "O",
+      "L",
+      "U",
+      "T",
+      "I",
+      "O",
+      "N",
+      "R"
+    ],
+    [
+      "T",
+      "F",
+      "C",
+      "A",
+      "R",
+      "B",
+      "O",
+      "N",
+      "C",
+      "O",
+      "Z",
+      "P"
+    ],
+    [
+      "A",
+      "L",
+      "H",
+      "Y",
+      "D",
+      "R",
+      "O",
+      "G",
+      "E",
+      "N",
+      "Q",
+      "S"
+    ],
+    [
+      "G",
+      "W",
+      "Y",
+      "U",
+      "C",
+      "O",
+      "M",
+      "P",
+      "O",
+      "U",
+      "N",
+      "D"
+    ],
+    [
+      "S",
+      "O",
+      "L",
+      "V",
+      "E",
+      "N",
+      "T",
+      "S",
+      "G",
+      "O",
+      "O",
+      "O"
+    ],
+    [
+      "I",
+      "B",
+      "E",
+      "A",
+      "C",
+      "O",
+      "P",
+      "P",
+      "E",
+      "R",
+      "M",
+      "X"
+    ],
+    [
+      "L",
+      "W",
+      "R",
+      "L",
+      "H",
+      "E",
+      "L",
+      "I",
+      "U",
+      "M",
+      "I",
+      "Y"
+    ],
+    [
+      "V",
+      "M",
+      "O",
+      "L",
+      "E",
+      "C",
+      "U",
+      "L",
+      "E",
+      "L",
+      "X",
+      "G"
+    ],
+    [
+      "E",
+      "B",
+      "D",
+      "M",
+      "P",
+      "M",
+      "R",
+      "T",
+      "L",
+      "Q",
+      "T",
+      "E"
+    ],
+    [
+      "R",
+      "T",
+      "A",
+      "W",
+      "G",
+      "U",
+      "E",
+      "J",
+      "L",
+      "N",
+      "U",
+      "N"
+    ],
+    [
+      "R",
+      "E",
+      "A",
+      "C",
+      "T",
+      "I",
+      "O",
+      "N",
+      "F",
+      "H",
+      "R",
+      "L"
+    ],
+    [
+      "R",
+      "Z",
+      "S",
+      "O",
+      "L",
+      "U",
+      "T",
+      "E",
+      "T",
+      "O",
+      "E",
+      "H"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "HYDROGEN",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "MOLECULE",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "COMPOUND",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "REACTION",
+      "row": 10,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SOLUTION",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "ELEMENT",
+      "row": 5,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "MIXTURE",
+      "row": 5,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "SOLVENT",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CARBON",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "OXYGEN",
+      "row": 4,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "HELIUM",
+      "row": 6,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "COPPER",
+      "row": 5,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SILVER",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SOLUTE",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8493
+}

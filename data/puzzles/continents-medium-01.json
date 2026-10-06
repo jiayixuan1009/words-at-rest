@@ -1,0 +1,284 @@
+{
+  "id": "continents-medium-01",
+  "slug": "continents-medium-01",
+  "themeId": "continents",
+  "title": "Continents: Hemisphere",
+  "primaryKeyword": "continents word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "AMERICA",
+    "ANTARCTICA",
+    "ARCTIC",
+    "AUSTRALIA",
+    "CLIMATE",
+    "CONTINENT",
+    "EQUATOR",
+    "ISLAND",
+    "LANDMASS",
+    "MOUNTAIN",
+    "OCEANIA",
+    "PENINSULA",
+    "PLATEAU",
+    "TROPIC"
+  ],
+  "grid": [
+    [
+      "P",
+      "Z",
+      "C",
+      "L",
+      "I",
+      "M",
+      "A",
+      "T",
+      "E",
+      "F",
+      "A",
+      "H"
+    ],
+    [
+      "L",
+      "O",
+      "E",
+      "Q",
+      "U",
+      "A",
+      "T",
+      "O",
+      "R",
+      "H",
+      "M",
+      "X"
+    ],
+    [
+      "A",
+      "A",
+      "U",
+      "S",
+      "T",
+      "R",
+      "A",
+      "L",
+      "I",
+      "A",
+      "E",
+      "O"
+    ],
+    [
+      "T",
+      "C",
+      "O",
+      "N",
+      "T",
+      "I",
+      "N",
+      "E",
+      "N",
+      "T",
+      "R",
+      "C"
+    ],
+    [
+      "E",
+      "A",
+      "R",
+      "C",
+      "T",
+      "I",
+      "C",
+      "L",
+      "C",
+      "M",
+      "I",
+      "E"
+    ],
+    [
+      "A",
+      "N",
+      "T",
+      "A",
+      "R",
+      "C",
+      "T",
+      "I",
+      "C",
+      "A",
+      "C",
+      "A"
+    ],
+    [
+      "U",
+      "A",
+      "O",
+      "V",
+      "U",
+      "G",
+      "J",
+      "G",
+      "U",
+      "R",
+      "A",
+      "N"
+    ],
+    [
+      "A",
+      "F",
+      "F",
+      "M",
+      "O",
+      "U",
+      "N",
+      "T",
+      "A",
+      "I",
+      "N",
+      "I"
+    ],
+    [
+      "P",
+      "E",
+      "N",
+      "I",
+      "N",
+      "S",
+      "U",
+      "L",
+      "A",
+      "Q",
+      "A",
+      "A"
+    ],
+    [
+      "K",
+      "C",
+      "I",
+      "S",
+      "L",
+      "A",
+      "N",
+      "D",
+      "J",
+      "F",
+      "E",
+      "S"
+    ],
+    [
+      "T",
+      "R",
+      "O",
+      "P",
+      "I",
+      "C",
+      "O",
+      "Z",
+      "M",
+      "A",
+      "P",
+      "W"
+    ],
+    [
+      "U",
+      "F",
+      "V",
+      "L",
+      "A",
+      "N",
+      "D",
+      "M",
+      "A",
+      "S",
+      "S",
+      "G"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ANTARCTICA",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "AUSTRALIA",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CONTINENT",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PENINSULA",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "LANDMASS",
+      "row": 11,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "MOUNTAIN",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "OCEANIA",
+      "row": 2,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "AMERICA",
+      "row": 0,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "EQUATOR",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PLATEAU",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CLIMATE",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "TROPIC",
+      "row": 10,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "ARCTIC",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "ISLAND",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8423
+}

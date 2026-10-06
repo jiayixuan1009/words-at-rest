@@ -1,0 +1,208 @@
+{
+  "id": "baking-easy-02",
+  "slug": "baking-easy-02",
+  "themeId": "baking",
+  "title": "Baking: Sweet Shelf",
+  "primaryKeyword": "baking word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BUN",
+    "BUTTER",
+    "CREAM",
+    "GLAZE",
+    "ICING",
+    "LOAF",
+    "PIE",
+    "RACK",
+    "SUGAR",
+    "TART"
+  ],
+  "grid": [
+    [
+      "B",
+      "U",
+      "N",
+      "M",
+      "L",
+      "O",
+      "A",
+      "F",
+      "R",
+      "H"
+    ],
+    [
+      "U",
+      "I",
+      "C",
+      "I",
+      "N",
+      "G",
+      "C",
+      "W",
+      "P",
+      "F"
+    ],
+    [
+      "R",
+      "Q",
+      "L",
+      "R",
+      "C",
+      "R",
+      "E",
+      "A",
+      "M",
+      "L"
+    ],
+    [
+      "H",
+      "B",
+      "L",
+      "Y",
+      "Z",
+      "M",
+      "N",
+      "Z",
+      "U",
+      "Q"
+    ],
+    [
+      "C",
+      "U",
+      "D",
+      "G",
+      "T",
+      "S",
+      "O",
+      "P",
+      "K",
+      "S"
+    ],
+    [
+      "Z",
+      "T",
+      "S",
+      "S",
+      "U",
+      "G",
+      "A",
+      "R",
+      "G",
+      "P"
+    ],
+    [
+      "X",
+      "T",
+      "N",
+      "W",
+      "C",
+      "R",
+      "Z",
+      "N",
+      "L",
+      "I"
+    ],
+    [
+      "D",
+      "E",
+      "R",
+      "D",
+      "S",
+      "K",
+      "I",
+      "E",
+      "A",
+      "E"
+    ],
+    [
+      "E",
+      "R",
+      "E",
+      "W",
+      "T",
+      "A",
+      "R",
+      "T",
+      "Z",
+      "F"
+    ],
+    [
+      "Y",
+      "R",
+      "A",
+      "C",
+      "K",
+      "K",
+      "B",
+      "H",
+      "E",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BUTTER",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SUGAR",
+      "row": 5,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "CREAM",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "ICING",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "GLAZE",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "LOAF",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "TART",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "RACK",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BUN",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "PIE",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6112
+}

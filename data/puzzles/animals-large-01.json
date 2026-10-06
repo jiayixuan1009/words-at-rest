@@ -1,0 +1,173 @@
+{
+  "id": "animals-large-01",
+  "slug": "animals-large-01",
+  "themeId": "animals",
+  "title": "Large Print Animals: Soft Nest",
+  "primaryKeyword": "large print animals word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "DEER",
+    "FOX",
+    "FROG",
+    "HARE",
+    "MOLE",
+    "NEST",
+    "OWL",
+    "POND"
+  ],
+  "grid": [
+    [
+      "L",
+      "J",
+      "F",
+      "L",
+      "V",
+      "N",
+      "Q",
+      "T",
+      "P"
+    ],
+    [
+      "U",
+      "P",
+      "R",
+      "Q",
+      "F",
+      "J",
+      "M",
+      "D",
+      "W"
+    ],
+    [
+      "D",
+      "W",
+      "O",
+      "G",
+      "O",
+      "M",
+      "O",
+      "P",
+      "H"
+    ],
+    [
+      "K",
+      "Q",
+      "G",
+      "I",
+      "X",
+      "G",
+      "L",
+      "V",
+      "A"
+    ],
+    [
+      "Y",
+      "D",
+      "E",
+      "E",
+      "R",
+      "L",
+      "E",
+      "Y",
+      "R"
+    ],
+    [
+      "O",
+      "C",
+      "P",
+      "X",
+      "Q",
+      "W",
+      "G",
+      "Z",
+      "E"
+    ],
+    [
+      "O",
+      "D",
+      "B",
+      "P",
+      "O",
+      "N",
+      "D",
+      "U",
+      "E"
+    ],
+    [
+      "W",
+      "P",
+      "A",
+      "N",
+      "E",
+      "S",
+      "T",
+      "Z",
+      "O"
+    ],
+    [
+      "L",
+      "M",
+      "U",
+      "X",
+      "F",
+      "Q",
+      "O",
+      "C",
+      "G"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "DEER",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "HARE",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "FROG",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "NEST",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "POND",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "MOLE",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "OWL",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "FOX",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2014
+}

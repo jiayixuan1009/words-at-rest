@@ -1,0 +1,208 @@
+{
+  "id": "independence-day-easy-02",
+  "slug": "independence-day-easy-02",
+  "themeId": "independence-day",
+  "title": "Independence Day: Evening Spark",
+  "primaryKeyword": "fourth of july word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BANNER",
+    "CHEER",
+    "CROWD",
+    "DRUM",
+    "FOURTH",
+    "ICE",
+    "MARCH",
+    "NIGHT",
+    "PIE",
+    "SHADE"
+  ],
+  "grid": [
+    [
+      "C",
+      "B",
+      "A",
+      "N",
+      "N",
+      "E",
+      "R",
+      "H",
+      "S",
+      "Y"
+    ],
+    [
+      "R",
+      "G",
+      "F",
+      "G",
+      "S",
+      "P",
+      "O",
+      "U",
+      "F",
+      "B"
+    ],
+    [
+      "O",
+      "F",
+      "O",
+      "R",
+      "D",
+      "R",
+      "U",
+      "M",
+      "O",
+      "R"
+    ],
+    [
+      "W",
+      "L",
+      "L",
+      "U",
+      "H",
+      "J",
+      "T",
+      "A",
+      "U",
+      "B"
+    ],
+    [
+      "D",
+      "P",
+      "I",
+      "E",
+      "X",
+      "V",
+      "F",
+      "B",
+      "R",
+      "C"
+    ],
+    [
+      "M",
+      "C",
+      "H",
+      "E",
+      "E",
+      "R",
+      "A",
+      "P",
+      "T",
+      "N"
+    ],
+    [
+      "H",
+      "N",
+      "I",
+      "G",
+      "H",
+      "T",
+      "G",
+      "C",
+      "H",
+      "W"
+    ],
+    [
+      "S",
+      "H",
+      "A",
+      "D",
+      "E",
+      "B",
+      "N",
+      "F",
+      "I",
+      "R"
+    ],
+    [
+      "R",
+      "Z",
+      "R",
+      "W",
+      "E",
+      "D",
+      "Z",
+      "A",
+      "C",
+      "U"
+    ],
+    [
+      "M",
+      "A",
+      "R",
+      "C",
+      "H",
+      "I",
+      "C",
+      "E",
+      "C",
+      "Z"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FOURTH",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "BANNER",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "MARCH",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CROWD",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CHEER",
+      "row": 5,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SHADE",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "NIGHT",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "DRUM",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "PIE",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "ICE",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7052
+}

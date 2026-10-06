@@ -1,0 +1,173 @@
+{
+  "id": "deserts-large-01",
+  "slug": "deserts-large-01",
+  "themeId": "deserts",
+  "title": "Large Print Deserts: Soft Sand",
+  "primaryKeyword": "large print deserts word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "COOL",
+    "DUNE",
+    "HEAT",
+    "ROCK",
+    "SAND",
+    "SHADE",
+    "SKY",
+    "SUN"
+  ],
+  "grid": [
+    [
+      "Z",
+      "C",
+      "O",
+      "O",
+      "L",
+      "N",
+      "I",
+      "J",
+      "R"
+    ],
+    [
+      "T",
+      "M",
+      "S",
+      "X",
+      "Q",
+      "S",
+      "F",
+      "Z",
+      "O"
+    ],
+    [
+      "S",
+      "N",
+      "H",
+      "Y",
+      "M",
+      "C",
+      "Y",
+      "Q",
+      "C"
+    ],
+    [
+      "A",
+      "H",
+      "A",
+      "C",
+      "G",
+      "A",
+      "R",
+      "L",
+      "K"
+    ],
+    [
+      "N",
+      "L",
+      "D",
+      "X",
+      "X",
+      "O",
+      "F",
+      "D",
+      "V"
+    ],
+    [
+      "D",
+      "C",
+      "E",
+      "S",
+      "U",
+      "N",
+      "S",
+      "U",
+      "Q"
+    ],
+    [
+      "P",
+      "N",
+      "V",
+      "Y",
+      "C",
+      "N",
+      "O",
+      "N",
+      "O"
+    ],
+    [
+      "S",
+      "K",
+      "Y",
+      "H",
+      "O",
+      "E",
+      "Z",
+      "E",
+      "T"
+    ],
+    [
+      "B",
+      "U",
+      "H",
+      "E",
+      "A",
+      "T",
+      "M",
+      "G",
+      "K"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SHADE",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "DUNE",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SAND",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "HEAT",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ROCK",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "COOL",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SUN",
+      "row": 5,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SKY",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8546
+}

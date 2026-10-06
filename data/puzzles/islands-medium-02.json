@@ -1,0 +1,284 @@
+{
+  "id": "islands-medium-02",
+  "slug": "islands-medium-02",
+  "themeId": "islands",
+  "title": "Islands: Lagoon Light",
+  "primaryKeyword": "islands word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BEACON",
+    "CHART",
+    "DAWN",
+    "HAVEN",
+    "LIGHTHOUSE",
+    "MAP",
+    "PATH",
+    "QUIET",
+    "REMOTE",
+    "SNORKEL",
+    "SUNSET",
+    "TRAIL",
+    "VILLAGE",
+    "VISTA"
+  ],
+  "grid": [
+    [
+      "O",
+      "M",
+      "A",
+      "P",
+      "C",
+      "H",
+      "A",
+      "R",
+      "T",
+      "U",
+      "G",
+      "M"
+    ],
+    [
+      "J",
+      "J",
+      "R",
+      "E",
+      "M",
+      "O",
+      "T",
+      "E",
+      "O",
+      "I",
+      "A",
+      "K"
+    ],
+    [
+      "X",
+      "Q",
+      "E",
+      "L",
+      "T",
+      "R",
+      "A",
+      "I",
+      "L",
+      "D",
+      "U",
+      "U"
+    ],
+    [
+      "G",
+      "B",
+      "V",
+      "I",
+      "S",
+      "T",
+      "A",
+      "L",
+      "H",
+      "H",
+      "Z",
+      "Y"
+    ],
+    [
+      "S",
+      "F",
+      "D",
+      "G",
+      "S",
+      "N",
+      "O",
+      "R",
+      "K",
+      "E",
+      "L",
+      "B"
+    ],
+    [
+      "N",
+      "Q",
+      "H",
+      "H",
+      "V",
+      "V",
+      "B",
+      "L",
+      "S",
+      "M",
+      "P",
+      "E"
+    ],
+    [
+      "C",
+      "U",
+      "M",
+      "T",
+      "P",
+      "I",
+      "L",
+      "M",
+      "U",
+      "C",
+      "A",
+      "A"
+    ],
+    [
+      "M",
+      "I",
+      "E",
+      "H",
+      "U",
+      "L",
+      "U",
+      "D",
+      "N",
+      "J",
+      "T",
+      "C"
+    ],
+    [
+      "Y",
+      "E",
+      "D",
+      "O",
+      "D",
+      "L",
+      "B",
+      "U",
+      "S",
+      "L",
+      "H",
+      "O"
+    ],
+    [
+      "V",
+      "T",
+      "I",
+      "U",
+      "W",
+      "A",
+      "Z",
+      "M",
+      "E",
+      "X",
+      "F",
+      "N"
+    ],
+    [
+      "A",
+      "N",
+      "Z",
+      "S",
+      "G",
+      "G",
+      "Z",
+      "Q",
+      "T",
+      "R",
+      "S",
+      "X"
+    ],
+    [
+      "H",
+      "A",
+      "V",
+      "E",
+      "N",
+      "E",
+      "W",
+      "Z",
+      "D",
+      "A",
+      "W",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "LIGHTHOUSE",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "SNORKEL",
+      "row": 4,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "VILLAGE",
+      "row": 5,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "BEACON",
+      "row": 4,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "SUNSET",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "REMOTE",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CHART",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "TRAIL",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "VISTA",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "QUIET",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "HAVEN",
+      "row": 11,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "PATH",
+      "row": 5,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "DAWN",
+      "row": 11,
+      "col": 8,
+      "direction": "E"
+    },
+    {
+      "word": "MAP",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8684
+}

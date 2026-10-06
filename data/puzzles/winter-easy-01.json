@@ -1,0 +1,208 @@
+{
+  "id": "winter-easy-01",
+  "slug": "winter-easy-01",
+  "themeId": "winter",
+  "title": "Winter: Snow Day",
+  "primaryKeyword": "winter word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BOOTS",
+    "CHILL",
+    "COCOA",
+    "FLURRY",
+    "FROST",
+    "ICICLE",
+    "MITTEN",
+    "SCARF",
+    "SKATE",
+    "SNOW"
+  ],
+  "grid": [
+    [
+      "I",
+      "U",
+      "F",
+      "B",
+      "G",
+      "S",
+      "C",
+      "A",
+      "R",
+      "F"
+    ],
+    [
+      "C",
+      "O",
+      "R",
+      "N",
+      "Q",
+      "U",
+      "F",
+      "F",
+      "T",
+      "O"
+    ],
+    [
+      "I",
+      "T",
+      "O",
+      "V",
+      "F",
+      "S",
+      "W",
+      "Y",
+      "O",
+      "B"
+    ],
+    [
+      "C",
+      "F",
+      "S",
+      "Y",
+      "X",
+      "C",
+      "V",
+      "J",
+      "W",
+      "C"
+    ],
+    [
+      "L",
+      "L",
+      "T",
+      "N",
+      "I",
+      "N",
+      "X",
+      "E",
+      "B",
+      "S"
+    ],
+    [
+      "E",
+      "U",
+      "M",
+      "I",
+      "T",
+      "T",
+      "E",
+      "N",
+      "O",
+      "K"
+    ],
+    [
+      "D",
+      "R",
+      "S",
+      "D",
+      "O",
+      "J",
+      "J",
+      "K",
+      "O",
+      "A"
+    ],
+    [
+      "O",
+      "R",
+      "C",
+      "H",
+      "I",
+      "L",
+      "L",
+      "H",
+      "T",
+      "T"
+    ],
+    [
+      "G",
+      "Y",
+      "B",
+      "O",
+      "V",
+      "H",
+      "W",
+      "V",
+      "S",
+      "E"
+    ],
+    [
+      "S",
+      "N",
+      "O",
+      "W",
+      "C",
+      "O",
+      "C",
+      "O",
+      "A",
+      "L"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "MITTEN",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ICICLE",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "FLURRY",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "FROST",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "COCOA",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SCARF",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "BOOTS",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "CHILL",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SKATE",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SNOW",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 1201
+}

@@ -1,0 +1,208 @@
+{
+  "id": "insects-easy-02",
+  "slug": "insects-easy-02",
+  "themeId": "insects",
+  "title": "Insects: Quiet Wing",
+  "primaryKeyword": "insects word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BARK",
+    "GLOW",
+    "HIVE",
+    "HONEY",
+    "HORNET",
+    "LEG",
+    "POND",
+    "SOIL",
+    "SWARM",
+    "WASP"
+  ],
+  "grid": [
+    [
+      "F",
+      "N",
+      "T",
+      "J",
+      "T",
+      "J",
+      "C",
+      "D",
+      "N",
+      "A"
+    ],
+    [
+      "U",
+      "P",
+      "T",
+      "J",
+      "H",
+      "O",
+      "R",
+      "N",
+      "E",
+      "T"
+    ],
+    [
+      "N",
+      "G",
+      "L",
+      "O",
+      "W",
+      "U",
+      "B",
+      "A",
+      "R",
+      "K"
+    ],
+    [
+      "W",
+      "A",
+      "S",
+      "P",
+      "G",
+      "S",
+      "W",
+      "A",
+      "R",
+      "M"
+    ],
+    [
+      "A",
+      "S",
+      "P",
+      "U",
+      "H",
+      "I",
+      "V",
+      "E",
+      "K",
+      "H"
+    ],
+    [
+      "L",
+      "E",
+      "G",
+      "X",
+      "M",
+      "S",
+      "O",
+      "I",
+      "L",
+      "O"
+    ],
+    [
+      "P",
+      "O",
+      "N",
+      "D",
+      "K",
+      "V",
+      "B",
+      "W",
+      "I",
+      "N"
+    ],
+    [
+      "O",
+      "H",
+      "O",
+      "V",
+      "F",
+      "G",
+      "H",
+      "Y",
+      "R",
+      "E"
+    ],
+    [
+      "J",
+      "X",
+      "Z",
+      "D",
+      "J",
+      "H",
+      "S",
+      "T",
+      "D",
+      "Y"
+    ],
+    [
+      "C",
+      "L",
+      "X",
+      "V",
+      "U",
+      "S",
+      "A",
+      "M",
+      "T",
+      "Y"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "HORNET",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "HONEY",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SWARM",
+      "row": 3,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "WASP",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "HIVE",
+      "row": 4,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SOIL",
+      "row": 5,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "POND",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "GLOW",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BARK",
+      "row": 2,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "LEG",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8312
+}

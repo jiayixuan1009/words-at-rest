@@ -1,0 +1,208 @@
+{
+  "id": "colors-easy-01",
+  "slug": "colors-easy-01",
+  "themeId": "colors",
+  "title": "Colors: Paint Box",
+  "primaryKeyword": "colors word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BLACK",
+    "BLUE",
+    "BROWN",
+    "GOLD",
+    "GREEN",
+    "NAVY",
+    "PINK",
+    "RED",
+    "WHITE",
+    "YELLOW"
+  ],
+  "grid": [
+    [
+      "C",
+      "B",
+      "P",
+      "B",
+      "C",
+      "B",
+      "L",
+      "A",
+      "C",
+      "K"
+    ],
+    [
+      "B",
+      "O",
+      "P",
+      "R",
+      "J",
+      "L",
+      "T",
+      "N",
+      "O",
+      "G"
+    ],
+    [
+      "P",
+      "Y",
+      "E",
+      "O",
+      "L",
+      "U",
+      "G",
+      "A",
+      "J",
+      "R"
+    ],
+    [
+      "E",
+      "T",
+      "P",
+      "W",
+      "W",
+      "E",
+      "O",
+      "V",
+      "F",
+      "E"
+    ],
+    [
+      "N",
+      "F",
+      "I",
+      "N",
+      "P",
+      "D",
+      "L",
+      "Y",
+      "Z",
+      "E"
+    ],
+    [
+      "Y",
+      "J",
+      "N",
+      "D",
+      "M",
+      "Y",
+      "D",
+      "G",
+      "O",
+      "N"
+    ],
+    [
+      "L",
+      "F",
+      "K",
+      "O",
+      "H",
+      "P",
+      "J",
+      "H",
+      "Y",
+      "N"
+    ],
+    [
+      "C",
+      "O",
+      "R",
+      "L",
+      "Q",
+      "R",
+      "E",
+      "D",
+      "J",
+      "J"
+    ],
+    [
+      "T",
+      "W",
+      "H",
+      "I",
+      "T",
+      "E",
+      "M",
+      "F",
+      "W",
+      "U"
+    ],
+    [
+      "U",
+      "V",
+      "M",
+      "Y",
+      "E",
+      "L",
+      "L",
+      "O",
+      "W",
+      "O"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "YELLOW",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "GREEN",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "BROWN",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "BLACK",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "WHITE",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BLUE",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "PINK",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "GOLD",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "NAVY",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "RED",
+      "row": 7,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8241
+}

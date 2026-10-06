@@ -1,0 +1,173 @@
+{
+  "id": "easter-large-01",
+  "slug": "easter-large-01",
+  "themeId": "easter",
+  "title": "Large Print Easter: Soft Dawn",
+  "primaryKeyword": "large print easter word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BLOOM",
+    "DAWN",
+    "EGG",
+    "HOPE",
+    "LAMB",
+    "LILY",
+    "NEST",
+    "SPRING"
+  ],
+  "grid": [
+    [
+      "G",
+      "Q",
+      "U",
+      "K",
+      "M",
+      "U",
+      "U",
+      "R",
+      "Y"
+    ],
+    [
+      "L",
+      "N",
+      "N",
+      "C",
+      "U",
+      "X",
+      "V",
+      "J",
+      "Z"
+    ],
+    [
+      "Y",
+      "E",
+      "B",
+      "J",
+      "U",
+      "Z",
+      "E",
+      "C",
+      "C"
+    ],
+    [
+      "L",
+      "S",
+      "S",
+      "S",
+      "P",
+      "R",
+      "I",
+      "N",
+      "G"
+    ],
+    [
+      "A",
+      "T",
+      "K",
+      "Y",
+      "I",
+      "A",
+      "V",
+      "S",
+      "L"
+    ],
+    [
+      "M",
+      "K",
+      "S",
+      "L",
+      "D",
+      "A",
+      "W",
+      "N",
+      "I"
+    ],
+    [
+      "B",
+      "T",
+      "P",
+      "E",
+      "G",
+      "G",
+      "H",
+      "D",
+      "L"
+    ],
+    [
+      "S",
+      "B",
+      "L",
+      "O",
+      "O",
+      "M",
+      "X",
+      "X",
+      "Y"
+    ],
+    [
+      "I",
+      "E",
+      "H",
+      "O",
+      "P",
+      "E",
+      "L",
+      "Q",
+      "O"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SPRING",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BLOOM",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "LILY",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "DAWN",
+      "row": 5,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "LAMB",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "NEST",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "HOPE",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "EGG",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 4016
+}

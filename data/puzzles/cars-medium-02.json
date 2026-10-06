@@ -1,0 +1,284 @@
+{
+  "id": "cars-medium-02",
+  "slug": "cars-medium-02",
+  "themeId": "cars",
+  "title": "Cars: Signal Turn",
+  "primaryKeyword": "cars word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "AXLE",
+    "CLUTCH",
+    "DASH",
+    "FILTER",
+    "FUEL",
+    "HIGHWAY",
+    "JACK",
+    "ODOMETER",
+    "OIL",
+    "SPARE",
+    "SPEED",
+    "TANK",
+    "TURN",
+    "WIPER"
+  ],
+  "grid": [
+    [
+      "U",
+      "M",
+      "B",
+      "I",
+      "W",
+      "O",
+      "Y",
+      "V",
+      "S",
+      "P",
+      "T",
+      "P"
+    ],
+    [
+      "T",
+      "B",
+      "O",
+      "U",
+      "F",
+      "A",
+      "R",
+      "L",
+      "P",
+      "A",
+      "C",
+      "G"
+    ],
+    [
+      "A",
+      "S",
+      "I",
+      "D",
+      "W",
+      "I",
+      "O",
+      "V",
+      "A",
+      "X",
+      "F",
+      "Q"
+    ],
+    [
+      "N",
+      "R",
+      "L",
+      "H",
+      "N",
+      "A",
+      "L",
+      "F",
+      "R",
+      "L",
+      "R",
+      "Z"
+    ],
+    [
+      "K",
+      "W",
+      "G",
+      "V",
+      "Y",
+      "A",
+      "B",
+      "T",
+      "E",
+      "E",
+      "L",
+      "N"
+    ],
+    [
+      "X",
+      "I",
+      "I",
+      "Q",
+      "O",
+      "D",
+      "O",
+      "M",
+      "E",
+      "T",
+      "E",
+      "R"
+    ],
+    [
+      "H",
+      "A",
+      "J",
+      "A",
+      "C",
+      "K",
+      "I",
+      "G",
+      "A",
+      "R",
+      "Y",
+      "I"
+    ],
+    [
+      "P",
+      "I",
+      "Q",
+      "T",
+      "U",
+      "R",
+      "N",
+      "G",
+      "B",
+      "F",
+      "T",
+      "R"
+    ],
+    [
+      "U",
+      "J",
+      "W",
+      "I",
+      "P",
+      "E",
+      "R",
+      "T",
+      "Y",
+      "L",
+      "M",
+      "N"
+    ],
+    [
+      "H",
+      "S",
+      "C",
+      "I",
+      "G",
+      "S",
+      "P",
+      "E",
+      "E",
+      "D",
+      "W",
+      "I"
+    ],
+    [
+      "C",
+      "L",
+      "U",
+      "T",
+      "C",
+      "H",
+      "R",
+      "U",
+      "Z",
+      "G",
+      "N",
+      "Y"
+    ],
+    [
+      "D",
+      "A",
+      "S",
+      "H",
+      "W",
+      "N",
+      "F",
+      "D",
+      "B",
+      "V",
+      "W",
+      "L"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ODOMETER",
+      "row": 5,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "HIGHWAY",
+      "row": 6,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "CLUTCH",
+      "row": 10,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "FILTER",
+      "row": 1,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "SPEED",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "WIPER",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SPARE",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "AXLE",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "FUEL",
+      "row": 11,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "TANK",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "JACK",
+      "row": 6,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "TURN",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "DASH",
+      "row": 11,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "OIL",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8064
+}

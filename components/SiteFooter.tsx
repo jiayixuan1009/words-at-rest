@@ -28,6 +28,7 @@ export default function SiteFooter() {
             <li><Link href="/calendar">Calendar</Link></li>
             <li><Link href="/difficulty/hard">Hard puzzles</Link></li>
             <li><Link href="/about">About</Link></li>
+            <li><Link href="/holidays">Holidays</Link></li>
             <li><Link href="/adults">For adults</Link></li>
             <li><Link href="/accessibility">Accessibility</Link></li>
             <li><Link href="/privacy">Privacy</Link></li>

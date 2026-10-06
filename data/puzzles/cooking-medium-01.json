@@ -1,0 +1,284 @@
+{
+  "id": "cooking-medium-01",
+  "slug": "cooking-medium-01",
+  "themeId": "cooking",
+  "title": "Cooking: Pantry Skill",
+  "primaryKeyword": "cooking word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BLEND",
+    "BRAISE",
+    "FOLD",
+    "GRATE",
+    "KNEAD",
+    "MINCE",
+    "PEPPER",
+    "POACH",
+    "SAUTE",
+    "SEAR",
+    "SEASON",
+    "SIMMER",
+    "TOAST",
+    "WHISK"
+  ],
+  "grid": [
+    [
+      "K",
+      "K",
+      "B",
+      "R",
+      "S",
+      "T",
+      "R",
+      "C",
+      "J",
+      "D",
+      "U",
+      "B"
+    ],
+    [
+      "M",
+      "Y",
+      "L",
+      "R",
+      "D",
+      "S",
+      "D",
+      "E",
+      "A",
+      "C",
+      "N",
+      "O"
+    ],
+    [
+      "S",
+      "S",
+      "P",
+      "P",
+      "A",
+      "D",
+      "I",
+      "E",
+      "E",
+      "D",
+      "M",
+      "X"
+    ],
+    [
+      "B",
+      "A",
+      "M",
+      "O",
+      "L",
+      "I",
+      "N",
+      "M",
+      "L",
+      "F",
+      "M",
+      "R"
+    ],
+    [
+      "C",
+      "U",
+      "G",
+      "O",
+      "A",
+      "K",
+      "S",
+      "P",
+      "M",
+      "N",
+      "A",
+      "M"
+    ],
+    [
+      "O",
+      "T",
+      "F",
+      "E",
+      "E",
+      "C",
+      "J",
+      "E",
+      "F",
+      "E",
+      "T",
+      "I"
+    ],
+    [
+      "A",
+      "E",
+      "M",
+      "S",
+      "K",
+      "W",
+      "H",
+      "P",
+      "S",
+      "B",
+      "R",
+      "N"
+    ],
+    [
+      "R",
+      "G",
+      "D",
+      "W",
+      "E",
+      "B",
+      "U",
+      "P",
+      "N",
+      "L",
+      "Z",
+      "C"
+    ],
+    [
+      "U",
+      "R",
+      "J",
+      "N",
+      "H",
+      "A",
+      "W",
+      "E",
+      "H",
+      "E",
+      "B",
+      "E"
+    ],
+    [
+      "I",
+      "A",
+      "D",
+      "H",
+      "S",
+      "I",
+      "S",
+      "R",
+      "G",
+      "N",
+      "N",
+      "U"
+    ],
+    [
+      "O",
+      "T",
+      "U",
+      "N",
+      "K",
+      "J",
+      "S",
+      "O",
+      "T",
+      "D",
+      "E",
+      "W"
+    ],
+    [
+      "G",
+      "E",
+      "T",
+      "O",
+      "A",
+      "S",
+      "T",
+      "K",
+      "N",
+      "T",
+      "V",
+      "X"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SIMMER",
+      "row": 1,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "BRAISE",
+      "row": 0,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "SEASON",
+      "row": 6,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "PEPPER",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SAUTE",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "POACH",
+      "row": 2,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "TOAST",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BLEND",
+      "row": 6,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "WHISK",
+      "row": 7,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "KNEAD",
+      "row": 4,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "MINCE",
+      "row": 4,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "GRATE",
+      "row": 7,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SEAR",
+      "row": 6,
+      "col": 8,
+      "direction": "NE"
+    },
+    {
+      "word": "FOLD",
+      "row": 5,
+      "col": 2,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8333
+}

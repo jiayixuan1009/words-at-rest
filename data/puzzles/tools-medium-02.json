@@ -1,0 +1,284 @@
+{
+  "id": "tools-medium-02",
+  "slug": "tools-medium-02",
+  "themeId": "tools",
+  "title": "Tools: Yard Kit",
+  "primaryKeyword": "tools word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "APRON",
+    "BENCH",
+    "BOX",
+    "DRILL",
+    "FIX",
+    "GLUE",
+    "KIT",
+    "KNIFE",
+    "MEND",
+    "OIL",
+    "RAG",
+    "SCISSORS",
+    "SHELF",
+    "STEP"
+  ],
+  "grid": [
+    [
+      "D",
+      "T",
+      "L",
+      "J",
+      "U",
+      "P",
+      "N",
+      "U",
+      "K",
+      "J",
+      "V",
+      "T"
+    ],
+    [
+      "B",
+      "Y",
+      "D",
+      "Q",
+      "M",
+      "O",
+      "T",
+      "Z",
+      "P",
+      "P",
+      "G",
+      "S"
+    ],
+    [
+      "L",
+      "X",
+      "B",
+      "S",
+      "R",
+      "G",
+      "O",
+      "X",
+      "J",
+      "A",
+      "M",
+      "C"
+    ],
+    [
+      "Z",
+      "Q",
+      "P",
+      "P",
+      "H",
+      "B",
+      "L",
+      "P",
+      "R",
+      "W",
+      "D",
+      "S"
+    ],
+    [
+      "D",
+      "V",
+      "A",
+      "C",
+      "L",
+      "E",
+      "N",
+      "U",
+      "N",
+      "B",
+      "P",
+      "C"
+    ],
+    [
+      "E",
+      "F",
+      "N",
+      "O",
+      "A",
+      "Z",
+      "L",
+      "F",
+      "E",
+      "E",
+      "B",
+      "I"
+    ],
+    [
+      "B",
+      "E",
+      "O",
+      "I",
+      "L",
+      "E",
+      "N",
+      "F",
+      "T",
+      "W",
+      "W",
+      "S"
+    ],
+    [
+      "B",
+      "M",
+      "T",
+      "Z",
+      "E",
+      "K",
+      "S",
+      "S",
+      "L",
+      "U",
+      "Q",
+      "S"
+    ],
+    [
+      "D",
+      "Z",
+      "E",
+      "D",
+      "K",
+      "N",
+      "I",
+      "F",
+      "E",
+      "W",
+      "D",
+      "O"
+    ],
+    [
+      "V",
+      "U",
+      "W",
+      "N",
+      "N",
+      "F",
+      "V",
+      "T",
+      "X",
+      "H",
+      "B",
+      "R"
+    ],
+    [
+      "P",
+      "T",
+      "U",
+      "P",
+      "D",
+      "I",
+      "D",
+      "O",
+      "B",
+      "C",
+      "Q",
+      "S"
+    ],
+    [
+      "D",
+      "R",
+      "I",
+      "L",
+      "L",
+      "X",
+      "B",
+      "R",
+      "X",
+      "G",
+      "M",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SCISSORS",
+      "row": 3,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "KNIFE",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "APRON",
+      "row": 4,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "BENCH",
+      "row": 7,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "SHELF",
+      "row": 2,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "DRILL",
+      "row": 11,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "GLUE",
+      "row": 2,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "MEND",
+      "row": 7,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "STEP",
+      "row": 7,
+      "col": 7,
+      "direction": "NE"
+    },
+    {
+      "word": "OIL",
+      "row": 6,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "RAG",
+      "row": 3,
+      "col": 8,
+      "direction": "NE"
+    },
+    {
+      "word": "BOX",
+      "row": 11,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "KIT",
+      "row": 7,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "FIX",
+      "row": 9,
+      "col": 5,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8254
+}

@@ -1,0 +1,284 @@
+{
+  "id": "jazz-medium-01",
+  "slug": "jazz-medium-01",
+  "themeId": "jazz",
+  "title": "Jazz: Session Night",
+  "primaryKeyword": "jazz word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BALLAD",
+    "BEBOP",
+    "BRIDGE",
+    "BRUSHES",
+    "CABARET",
+    "CHANGES",
+    "CHORUS",
+    "IMPROVISE",
+    "MELODY",
+    "QUARTET",
+    "QUINTET",
+    "SESSION",
+    "STRIDE",
+    "TRUMPET"
+  ],
+  "grid": [
+    [
+      "W",
+      "Y",
+      "M",
+      "A",
+      "B",
+      "R",
+      "I",
+      "D",
+      "G",
+      "E",
+      "T",
+      "Z"
+    ],
+    [
+      "C",
+      "H",
+      "O",
+      "R",
+      "U",
+      "S",
+      "M",
+      "B",
+      "C",
+      "P",
+      "Z",
+      "T"
+    ],
+    [
+      "B",
+      "E",
+      "B",
+      "O",
+      "P",
+      "R",
+      "C",
+      "R",
+      "T",
+      "G",
+      "V",
+      "R"
+    ],
+    [
+      "S",
+      "E",
+      "S",
+      "S",
+      "I",
+      "O",
+      "N",
+      "U",
+      "B",
+      "A",
+      "I",
+      "U"
+    ],
+    [
+      "M",
+      "Q",
+      "X",
+      "T",
+      "Z",
+      "F",
+      "T",
+      "S",
+      "A",
+      "C",
+      "M",
+      "M"
+    ],
+    [
+      "E",
+      "X",
+      "U",
+      "T",
+      "R",
+      "E",
+      "D",
+      "H",
+      "L",
+      "A",
+      "P",
+      "P"
+    ],
+    [
+      "L",
+      "L",
+      "Q",
+      "I",
+      "T",
+      "I",
+      "E",
+      "E",
+      "L",
+      "B",
+      "R",
+      "E"
+    ],
+    [
+      "O",
+      "I",
+      "P",
+      "R",
+      "N",
+      "M",
+      "D",
+      "S",
+      "A",
+      "A",
+      "O",
+      "T"
+    ],
+    [
+      "D",
+      "Z",
+      "A",
+      "X",
+      "H",
+      "T",
+      "T",
+      "E",
+      "D",
+      "R",
+      "V",
+      "I"
+    ],
+    [
+      "Y",
+      "U",
+      "B",
+      "J",
+      "Q",
+      "R",
+      "E",
+      "L",
+      "X",
+      "E",
+      "I",
+      "Q"
+    ],
+    [
+      "Q",
+      "C",
+      "A",
+      "G",
+      "K",
+      "T",
+      "E",
+      "T",
+      "A",
+      "T",
+      "S",
+      "M"
+    ],
+    [
+      "Q",
+      "C",
+      "H",
+      "A",
+      "N",
+      "G",
+      "E",
+      "S",
+      "Y",
+      "J",
+      "E",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "IMPROVISE",
+      "row": 3,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "QUARTET",
+      "row": 10,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "QUINTET",
+      "row": 4,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "TRUMPET",
+      "row": 1,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "BRUSHES",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SESSION",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CABARET",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "CHANGES",
+      "row": 11,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CHORUS",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BRIDGE",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BALLAD",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "STRIDE",
+      "row": 3,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "MELODY",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BEBOP",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6223
+}

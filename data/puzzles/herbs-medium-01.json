@@ -1,0 +1,284 @@
+{
+  "id": "herbs-medium-01",
+  "slug": "herbs-medium-01",
+  "themeId": "herbs",
+  "title": "Spices: Warm Pantry",
+  "primaryKeyword": "herbs and spices word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ALLSPICE",
+    "CARDAMOM",
+    "CAYENNE",
+    "CILANTRO",
+    "CINNAMON",
+    "CUMIN",
+    "MUSTARD",
+    "NUTMEG",
+    "OREGANO",
+    "PAPRIKA",
+    "ROSEMARY",
+    "SAFFRON",
+    "TARRAGON",
+    "TURMERIC"
+  ],
+  "grid": [
+    [
+      "G",
+      "U",
+      "S",
+      "A",
+      "F",
+      "F",
+      "R",
+      "O",
+      "N",
+      "C",
+      "A",
+      "N"
+    ],
+    [
+      "B",
+      "L",
+      "N",
+      "L",
+      "J",
+      "S",
+      "Q",
+      "Q",
+      "M",
+      "I",
+      "L",
+      "X"
+    ],
+    [
+      "P",
+      "C",
+      "R",
+      "U",
+      "Z",
+      "J",
+      "Y",
+      "R",
+      "C",
+      "N",
+      "L",
+      "Q"
+    ],
+    [
+      "A",
+      "O",
+      "U",
+      "O",
+      "T",
+      "E",
+      "C",
+      "J",
+      "I",
+      "N",
+      "S",
+      "C"
+    ],
+    [
+      "P",
+      "E",
+      "R",
+      "M",
+      "S",
+      "M",
+      "L",
+      "C",
+      "L",
+      "A",
+      "P",
+      "A"
+    ],
+    [
+      "R",
+      "J",
+      "X",
+      "E",
+      "I",
+      "E",
+      "E",
+      "A",
+      "A",
+      "M",
+      "I",
+      "R"
+    ],
+    [
+      "I",
+      "H",
+      "N",
+      "T",
+      "G",
+      "N",
+      "M",
+      "G",
+      "N",
+      "O",
+      "C",
+      "D"
+    ],
+    [
+      "K",
+      "O",
+      "V",
+      "B",
+      "Q",
+      "A",
+      "S",
+      "A",
+      "T",
+      "N",
+      "E",
+      "A"
+    ],
+    [
+      "A",
+      "C",
+      "A",
+      "Y",
+      "E",
+      "N",
+      "N",
+      "E",
+      "R",
+      "Y",
+      "H",
+      "M"
+    ],
+    [
+      "M",
+      "U",
+      "S",
+      "T",
+      "A",
+      "R",
+      "D",
+      "O",
+      "O",
+      "Y",
+      "I",
+      "O"
+    ],
+    [
+      "T",
+      "T",
+      "U",
+      "R",
+      "M",
+      "E",
+      "R",
+      "I",
+      "C",
+      "Y",
+      "F",
+      "M"
+    ],
+    [
+      "T",
+      "A",
+      "R",
+      "R",
+      "A",
+      "G",
+      "O",
+      "N",
+      "I",
+      "M",
+      "J",
+      "F"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ROSEMARY",
+      "row": 2,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "CILANTRO",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "TARRAGON",
+      "row": 11,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "TURMERIC",
+      "row": 10,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CINNAMON",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "CARDAMOM",
+      "row": 3,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "ALLSPICE",
+      "row": 0,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "OREGANO",
+      "row": 3,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "PAPRIKA",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SAFFRON",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "MUSTARD",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CAYENNE",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "NUTMEG",
+      "row": 1,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "CUMIN",
+      "row": 2,
+      "col": 1,
+      "direction": "SE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6133
+}

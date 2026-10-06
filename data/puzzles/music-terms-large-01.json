@@ -1,0 +1,173 @@
+{
+  "id": "music-terms-large-01",
+  "slug": "music-terms-large-01",
+  "themeId": "music-terms",
+  "title": "Large Print Musical Terms: Soft Beat",
+  "primaryKeyword": "large print musical terms word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BEAT",
+    "CLEF",
+    "FLAT",
+    "KEY",
+    "NOTE",
+    "REST",
+    "TEMPO",
+    "TONE"
+  ],
+  "grid": [
+    [
+      "L",
+      "C",
+      "G",
+      "P",
+      "Z",
+      "S",
+      "I",
+      "M",
+      "N"
+    ],
+    [
+      "R",
+      "L",
+      "Q",
+      "F",
+      "W",
+      "A",
+      "V",
+      "K",
+      "V"
+    ],
+    [
+      "V",
+      "E",
+      "U",
+      "L",
+      "U",
+      "F",
+      "A",
+      "A",
+      "T"
+    ],
+    [
+      "K",
+      "F",
+      "L",
+      "A",
+      "E",
+      "U",
+      "P",
+      "N",
+      "E"
+    ],
+    [
+      "E",
+      "R",
+      "A",
+      "T",
+      "A",
+      "D",
+      "N",
+      "O",
+      "M"
+    ],
+    [
+      "Y",
+      "E",
+      "N",
+      "Q",
+      "H",
+      "G",
+      "X",
+      "T",
+      "P"
+    ],
+    [
+      "I",
+      "S",
+      "L",
+      "R",
+      "I",
+      "J",
+      "C",
+      "E",
+      "O"
+    ],
+    [
+      "N",
+      "T",
+      "W",
+      "T",
+      "O",
+      "N",
+      "E",
+      "O",
+      "W"
+    ],
+    [
+      "P",
+      "J",
+      "R",
+      "U",
+      "B",
+      "B",
+      "E",
+      "A",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TEMPO",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "BEAT",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "NOTE",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "REST",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "CLEF",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "FLAT",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "TONE",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "KEY",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6246
+}

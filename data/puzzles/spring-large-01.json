@@ -1,0 +1,173 @@
+{
+  "id": "spring-large-01",
+  "slug": "spring-large-01",
+  "themeId": "spring",
+  "title": "Large Print Spring: Soft Dawn",
+  "primaryKeyword": "large print spring word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BUD",
+    "DAWN",
+    "DEW",
+    "HOPE",
+    "LEAF",
+    "NEST",
+    "RAIN",
+    "SOFT"
+  ],
+  "grid": [
+    [
+      "M",
+      "E",
+      "M",
+      "E",
+      "Y",
+      "Q",
+      "B",
+      "M",
+      "O"
+    ],
+    [
+      "Z",
+      "P",
+      "E",
+      "E",
+      "U",
+      "I",
+      "C",
+      "W",
+      "O"
+    ],
+    [
+      "W",
+      "V",
+      "Y",
+      "R",
+      "N",
+      "S",
+      "D",
+      "S",
+      "C"
+    ],
+    [
+      "D",
+      "L",
+      "B",
+      "A",
+      "E",
+      "O",
+      "H",
+      "P",
+      "C"
+    ],
+    [
+      "A",
+      "E",
+      "H",
+      "I",
+      "S",
+      "F",
+      "B",
+      "D",
+      "K"
+    ],
+    [
+      "W",
+      "A",
+      "O",
+      "N",
+      "T",
+      "T",
+      "L",
+      "B",
+      "B"
+    ],
+    [
+      "N",
+      "F",
+      "P",
+      "E",
+      "P",
+      "D",
+      "L",
+      "L",
+      "U"
+    ],
+    [
+      "F",
+      "D",
+      "E",
+      "W",
+      "D",
+      "O",
+      "I",
+      "T",
+      "D"
+    ],
+    [
+      "X",
+      "U",
+      "A",
+      "S",
+      "V",
+      "R",
+      "Y",
+      "U",
+      "V"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "RAIN",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "NEST",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "DAWN",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "LEAF",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SOFT",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "HOPE",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "BUD",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "DEW",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7066
+}

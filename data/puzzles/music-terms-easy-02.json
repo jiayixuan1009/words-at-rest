@@ -1,0 +1,208 @@
+{
+  "id": "music-terms-easy-02",
+  "slug": "music-terms-easy-02",
+  "themeId": "music-terms",
+  "title": "Musical Terms: On the Staff",
+  "primaryKeyword": "musical terms word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BAR",
+    "CHORD",
+    "HALF",
+    "METER",
+    "SCALE",
+    "SLUR",
+    "STAFF",
+    "TIE",
+    "TIME",
+    "WHOLE"
+  ],
+  "grid": [
+    [
+      "F",
+      "R",
+      "Y",
+      "E",
+      "S",
+      "T",
+      "A",
+      "F",
+      "F",
+      "V"
+    ],
+    [
+      "I",
+      "D",
+      "T",
+      "R",
+      "D",
+      "S",
+      "U",
+      "H",
+      "C",
+      "D"
+    ],
+    [
+      "U",
+      "V",
+      "I",
+      "Y",
+      "M",
+      "O",
+      "Q",
+      "L",
+      "H",
+      "P"
+    ],
+    [
+      "T",
+      "M",
+      "E",
+      "A",
+      "O",
+      "Q",
+      "I",
+      "B",
+      "O",
+      "V"
+    ],
+    [
+      "I",
+      "M",
+      "I",
+      "S",
+      "L",
+      "U",
+      "R",
+      "E",
+      "R",
+      "Q"
+    ],
+    [
+      "M",
+      "E",
+      "S",
+      "C",
+      "A",
+      "L",
+      "E",
+      "S",
+      "D",
+      "G"
+    ],
+    [
+      "E",
+      "T",
+      "L",
+      "G",
+      "V",
+      "W",
+      "H",
+      "O",
+      "L",
+      "E"
+    ],
+    [
+      "F",
+      "E",
+      "H",
+      "A",
+      "U",
+      "S",
+      "J",
+      "Q",
+      "E",
+      "P"
+    ],
+    [
+      "R",
+      "R",
+      "I",
+      "W",
+      "P",
+      "Z",
+      "W",
+      "O",
+      "S",
+      "Z"
+    ],
+    [
+      "H",
+      "A",
+      "L",
+      "F",
+      "G",
+      "S",
+      "O",
+      "B",
+      "A",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SCALE",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CHORD",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "WHOLE",
+      "row": 6,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "STAFF",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "METER",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SLUR",
+      "row": 4,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "HALF",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "TIME",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BAR",
+      "row": 9,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "TIE",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6242
+}

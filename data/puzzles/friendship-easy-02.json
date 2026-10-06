@@ -1,0 +1,208 @@
+{
+  "id": "friendship-easy-02",
+  "slug": "friendship-easy-02",
+  "themeId": "friendship",
+  "title": "Friendship: Quiet Note",
+  "primaryKeyword": "friendship word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BUDDY",
+    "CALL",
+    "GUEST",
+    "HELP",
+    "HOST",
+    "JOY",
+    "SHARE",
+    "TALK",
+    "TRUE",
+    "TRUST"
+  ],
+  "grid": [
+    [
+      "J",
+      "H",
+      "T",
+      "R",
+      "U",
+      "E",
+      "C",
+      "S",
+      "M",
+      "D"
+    ],
+    [
+      "O",
+      "E",
+      "F",
+      "A",
+      "C",
+      "Z",
+      "M",
+      "H",
+      "S",
+      "L"
+    ],
+    [
+      "Y",
+      "L",
+      "O",
+      "Q",
+      "N",
+      "J",
+      "K",
+      "A",
+      "Z",
+      "J"
+    ],
+    [
+      "H",
+      "P",
+      "C",
+      "A",
+      "L",
+      "L",
+      "Z",
+      "R",
+      "D",
+      "Z"
+    ],
+    [
+      "O",
+      "T",
+      "S",
+      "Q",
+      "C",
+      "J",
+      "A",
+      "E",
+      "O",
+      "J"
+    ],
+    [
+      "S",
+      "O",
+      "Q",
+      "C",
+      "L",
+      "B",
+      "U",
+      "D",
+      "D",
+      "Y"
+    ],
+    [
+      "T",
+      "A",
+      "U",
+      "V",
+      "K",
+      "B",
+      "O",
+      "R",
+      "S",
+      "O"
+    ],
+    [
+      "V",
+      "T",
+      "T",
+      "A",
+      "L",
+      "K",
+      "Z",
+      "Y",
+      "T",
+      "M"
+    ],
+    [
+      "T",
+      "S",
+      "S",
+      "E",
+      "G",
+      "U",
+      "E",
+      "S",
+      "T",
+      "D"
+    ],
+    [
+      "X",
+      "D",
+      "M",
+      "T",
+      "R",
+      "U",
+      "S",
+      "T",
+      "G",
+      "U"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BUDDY",
+      "row": 5,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "GUEST",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SHARE",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "TRUST",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "HOST",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CALL",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "TALK",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "TRUE",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "HELP",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "JOY",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8152
+}

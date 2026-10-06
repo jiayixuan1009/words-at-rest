@@ -1,0 +1,284 @@
+{
+  "id": "herbs-medium-02",
+  "slug": "herbs-medium-02",
+  "themeId": "herbs",
+  "title": "Spices: World Shelf",
+  "primaryKeyword": "herbs and spices word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CARDAMOM",
+    "CILANTRO",
+    "CINNAMON",
+    "CORIANDER",
+    "OREGANO",
+    "PAPRIKA",
+    "ROSEMARY",
+    "SAFFRON",
+    "SHALLOT",
+    "STARANISE",
+    "SUMAC",
+    "TURMERIC",
+    "VANILLA",
+    "ZATAR"
+  ],
+  "grid": [
+    [
+      "A",
+      "C",
+      "N",
+      "R",
+      "C",
+      "H",
+      "U",
+      "L",
+      "B",
+      "C",
+      "S",
+      "R"
+    ],
+    [
+      "Q",
+      "D",
+      "P",
+      "Z",
+      "C",
+      "A",
+      "Q",
+      "U",
+      "K",
+      "F",
+      "A",
+      "O"
+    ],
+    [
+      "V",
+      "S",
+      "F",
+      "R",
+      "I",
+      "B",
+      "R",
+      "U",
+      "J",
+      "T",
+      "F",
+      "C"
+    ],
+    [
+      "A",
+      "T",
+      "T",
+      "O",
+      "L",
+      "R",
+      "O",
+      "D",
+      "A",
+      "U",
+      "R",
+      "I"
+    ],
+    [
+      "N",
+      "A",
+      "U",
+      "S",
+      "A",
+      "P",
+      "R",
+      "Z",
+      "A",
+      "E",
+      "J",
+      "N"
+    ],
+    [
+      "I",
+      "R",
+      "R",
+      "E",
+      "N",
+      "A",
+      "E",
+      "C",
+      "D",
+      "M",
+      "U",
+      "N"
+    ],
+    [
+      "L",
+      "A",
+      "M",
+      "M",
+      "T",
+      "P",
+      "G",
+      "N",
+      "G",
+      "D",
+      "O",
+      "A"
+    ],
+    [
+      "L",
+      "N",
+      "E",
+      "A",
+      "R",
+      "R",
+      "A",
+      "I",
+      "D",
+      "R",
+      "E",
+      "M"
+    ],
+    [
+      "A",
+      "I",
+      "R",
+      "R",
+      "O",
+      "I",
+      "N",
+      "Q",
+      "F",
+      "D",
+      "D",
+      "O"
+    ],
+    [
+      "N",
+      "S",
+      "I",
+      "Y",
+      "R",
+      "K",
+      "O",
+      "F",
+      "O",
+      "Y",
+      "T",
+      "N"
+    ],
+    [
+      "M",
+      "E",
+      "C",
+      "O",
+      "A",
+      "A",
+      "A",
+      "S",
+      "U",
+      "M",
+      "A",
+      "C"
+    ],
+    [
+      "U",
+      "T",
+      "C",
+      "H",
+      "D",
+      "S",
+      "H",
+      "A",
+      "L",
+      "L",
+      "O",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CORIANDER",
+      "row": 11,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "STARANISE",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "TURMERIC",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "CARDAMOM",
+      "row": 0,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "ROSEMARY",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "CILANTRO",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "CINNAMON",
+      "row": 2,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "SHALLOT",
+      "row": 11,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "VANILLA",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SAFFRON",
+      "row": 11,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "PAPRIKA",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "OREGANO",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "SUMAC",
+      "row": 10,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "ZATAR",
+      "row": 4,
+      "col": 7,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6134
+}

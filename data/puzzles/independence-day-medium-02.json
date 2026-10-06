@@ -1,0 +1,284 @@
+{
+  "id": "independence-day-medium-02",
+  "slug": "independence-day-medium-02",
+  "themeId": "independence-day",
+  "title": "Independence Day: Summer Fourth",
+  "primaryKeyword": "fourth of july word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CITIZEN",
+    "COURTHOUSE",
+    "EVENING",
+    "FAMILY",
+    "FLOAT",
+    "FREEDOM",
+    "GATHER",
+    "GLOW",
+    "PLEDGE",
+    "SPARK",
+    "SPEECH",
+    "STRIPE",
+    "TWILIGHT",
+    "UNION"
+  ],
+  "grid": [
+    [
+      "N",
+      "Q",
+      "Q",
+      "T",
+      "O",
+      "S",
+      "T",
+      "R",
+      "I",
+      "P",
+      "E",
+      "O"
+    ],
+    [
+      "A",
+      "K",
+      "W",
+      "L",
+      "F",
+      "Y",
+      "Z",
+      "Q",
+      "N",
+      "Q",
+      "R",
+      "H"
+    ],
+    [
+      "W",
+      "C",
+      "O",
+      "U",
+      "R",
+      "T",
+      "H",
+      "O",
+      "U",
+      "S",
+      "E",
+      "G"
+    ],
+    [
+      "T",
+      "M",
+      "I",
+      "T",
+      "G",
+      "B",
+      "U",
+      "S",
+      "M",
+      "S",
+      "U",
+      "A"
+    ],
+    [
+      "W",
+      "G",
+      "E",
+      "C",
+      "F",
+      "P",
+      "N",
+      "P",
+      "P",
+      "Q",
+      "Z",
+      "T"
+    ],
+    [
+      "I",
+      "L",
+      "V",
+      "F",
+      "V",
+      "I",
+      "I",
+      "A",
+      "L",
+      "S",
+      "J",
+      "H"
+    ],
+    [
+      "L",
+      "O",
+      "E",
+      "Q",
+      "R",
+      "Z",
+      "O",
+      "R",
+      "E",
+      "P",
+      "F",
+      "E"
+    ],
+    [
+      "I",
+      "W",
+      "N",
+      "A",
+      "U",
+      "E",
+      "N",
+      "K",
+      "D",
+      "E",
+      "L",
+      "R"
+    ],
+    [
+      "G",
+      "C",
+      "I",
+      "T",
+      "I",
+      "Z",
+      "E",
+      "N",
+      "G",
+      "E",
+      "O",
+      "M"
+    ],
+    [
+      "H",
+      "J",
+      "N",
+      "T",
+      "S",
+      "Q",
+      "K",
+      "D",
+      "E",
+      "C",
+      "A",
+      "E"
+    ],
+    [
+      "T",
+      "V",
+      "G",
+      "M",
+      "G",
+      "Q",
+      "P",
+      "Z",
+      "O",
+      "H",
+      "T",
+      "V"
+    ],
+    [
+      "F",
+      "A",
+      "M",
+      "I",
+      "L",
+      "Y",
+      "J",
+      "F",
+      "I",
+      "M",
+      "L",
+      "B"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "COURTHOUSE",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TWILIGHT",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "FREEDOM",
+      "row": 5,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "CITIZEN",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "EVENING",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "GATHER",
+      "row": 2,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "FAMILY",
+      "row": 11,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "PLEDGE",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "STRIPE",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SPEECH",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "FLOAT",
+      "row": 6,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "UNION",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "SPARK",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "GLOW",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7054
+}

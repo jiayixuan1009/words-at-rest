@@ -1,0 +1,173 @@
+{
+  "id": "museums-large-01",
+  "slug": "museums-large-01",
+  "themeId": "museums",
+  "title": "Large Print Museums: Soft Hall",
+  "primaryKeyword": "large print museums word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "ART",
+    "HALL",
+    "LOOK",
+    "MAP",
+    "NOTE",
+    "OPEN",
+    "ROOM",
+    "TOUR"
+  ],
+  "grid": [
+    [
+      "W",
+      "M",
+      "V",
+      "A",
+      "R",
+      "T",
+      "R",
+      "A",
+      "X"
+    ],
+    [
+      "F",
+      "A",
+      "M",
+      "S",
+      "R",
+      "O",
+      "O",
+      "M",
+      "O"
+    ],
+    [
+      "N",
+      "P",
+      "W",
+      "T",
+      "Q",
+      "Z",
+      "K",
+      "X",
+      "R"
+    ],
+    [
+      "B",
+      "N",
+      "N",
+      "A",
+      "B",
+      "U",
+      "C",
+      "X",
+      "J"
+    ],
+    [
+      "A",
+      "O",
+      "Q",
+      "J",
+      "C",
+      "H",
+      "A",
+      "L",
+      "L"
+    ],
+    [
+      "G",
+      "T",
+      "Y",
+      "Q",
+      "E",
+      "H",
+      "K",
+      "F",
+      "H"
+    ],
+    [
+      "F",
+      "E",
+      "P",
+      "J",
+      "B",
+      "L",
+      "O",
+      "O",
+      "K"
+    ],
+    [
+      "D",
+      "T",
+      "O",
+      "U",
+      "R",
+      "C",
+      "G",
+      "F",
+      "K"
+    ],
+    [
+      "I",
+      "Y",
+      "J",
+      "O",
+      "P",
+      "E",
+      "N",
+      "C",
+      "A"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "HALL",
+      "row": 4,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "ROOM",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "TOUR",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "LOOK",
+      "row": 6,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "NOTE",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "OPEN",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "ART",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "MAP",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8556
+}

@@ -1,0 +1,284 @@
+{
+  "id": "continents-medium-02",
+  "slug": "continents-medium-02",
+  "themeId": "continents",
+  "title": "Continents: World Outline",
+  "primaryKeyword": "continents word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ANTARCTIC",
+    "ATLAS",
+    "BORDER",
+    "COUNTRY",
+    "GLOBE",
+    "HEMISPHERE",
+    "JUNGLE",
+    "NATION",
+    "PLANET",
+    "REEF",
+    "REGION",
+    "SAVANNA",
+    "SHORE",
+    "TUNDRA"
+  ],
+  "grid": [
+    [
+      "N",
+      "H",
+      "S",
+      "D",
+      "V",
+      "V",
+      "Y",
+      "L",
+      "R",
+      "S",
+      "D",
+      "X"
+    ],
+    [
+      "A",
+      "K",
+      "E",
+      "R",
+      "H",
+      "Z",
+      "C",
+      "E",
+      "P",
+      "H",
+      "B",
+      "Q"
+    ],
+    [
+      "T",
+      "A",
+      "D",
+      "M",
+      "P",
+      "G",
+      "D",
+      "A",
+      "L",
+      "O",
+      "Y",
+      "N"
+    ],
+    [
+      "L",
+      "T",
+      "N",
+      "C",
+      "I",
+      "R",
+      "F",
+      "N",
+      "A",
+      "R",
+      "U",
+      "G"
+    ],
+    [
+      "A",
+      "U",
+      "B",
+      "T",
+      "O",
+      "S",
+      "E",
+      "F",
+      "N",
+      "E",
+      "Q",
+      "G"
+    ],
+    [
+      "S",
+      "N",
+      "J",
+      "B",
+      "A",
+      "U",
+      "P",
+      "D",
+      "E",
+      "T",
+      "L",
+      "L"
+    ],
+    [
+      "A",
+      "D",
+      "N",
+      "U",
+      "R",
+      "R",
+      "N",
+      "H",
+      "T",
+      "O",
+      "J",
+      "O"
+    ],
+    [
+      "V",
+      "R",
+      "A",
+      "B",
+      "N",
+      "E",
+      "C",
+      "T",
+      "E",
+      "M",
+      "Z",
+      "B"
+    ],
+    [
+      "A",
+      "A",
+      "T",
+      "N",
+      "R",
+      "G",
+      "G",
+      "T",
+      "R",
+      "R",
+      "I",
+      "E"
+    ],
+    [
+      "N",
+      "L",
+      "I",
+      "V",
+      "O",
+      "E",
+      "L",
+      "I",
+      "I",
+      "Y",
+      "E",
+      "Z"
+    ],
+    [
+      "N",
+      "J",
+      "O",
+      "V",
+      "F",
+      "M",
+      "E",
+      "E",
+      "O",
+      "C",
+      "F",
+      "K"
+    ],
+    [
+      "A",
+      "Z",
+      "N",
+      "O",
+      "Z",
+      "I",
+      "F",
+      "F",
+      "E",
+      "N",
+      "J",
+      "M"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "HEMISPHERE",
+      "row": 0,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "ANTARCTIC",
+      "row": 2,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "COUNTRY",
+      "row": 3,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "SAVANNA",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "REGION",
+      "row": 6,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "BORDER",
+      "row": 5,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "NATION",
+      "row": 6,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "PLANET",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "TUNDRA",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "JUNGLE",
+      "row": 5,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "GLOBE",
+      "row": 4,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "ATLAS",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SHORE",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "REEF",
+      "row": 8,
+      "col": 4,
+      "direction": "SE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8424
+}

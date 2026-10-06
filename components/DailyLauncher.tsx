@@ -6,11 +6,11 @@ import type { Puzzle } from "@/lib/types";
 
 const CHIP_THEMES = [
   { slug: "halloween", name: "Halloween" },
-  { slug: "fall", name: "Fall" },
+  { slug: "thanksgiving", name: "Thanksgiving" },
   { slug: "christmas", name: "Christmas" },
+  { slug: "winter", name: "Winter" },
   { slug: "bible", name: "Bible" },
-  { slug: "garden", name: "Garden" },
-  { slug: "cats", name: "Cats" },
+  { slug: "easter", name: "Easter" },
 ];
 
 function meta(puzzle: Puzzle) {

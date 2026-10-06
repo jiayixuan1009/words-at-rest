@@ -1,0 +1,284 @@
+{
+  "id": "tennis-medium-02",
+  "slug": "tennis-medium-02",
+  "themeId": "tennis",
+  "title": "Tennis: Match Point",
+  "primaryKeyword": "tennis word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ADVANTAGE",
+    "BACKHAND",
+    "BALLBOY",
+    "BASELINE",
+    "DOUBLEFAULT",
+    "FOOTWORK",
+    "FOREHAND",
+    "HARDCOURT",
+    "LINESMAN",
+    "RETURN",
+    "SMASH",
+    "TIEBREAK",
+    "UNFORCED",
+    "VOLLEY"
+  ],
+  "grid": [
+    [
+      "L",
+      "I",
+      "N",
+      "E",
+      "S",
+      "M",
+      "A",
+      "N",
+      "B",
+      "A",
+      "T",
+      "B"
+    ],
+    [
+      "D",
+      "F",
+      "F",
+      "S",
+      "M",
+      "A",
+      "S",
+      "H",
+      "A",
+      "D",
+      "I",
+      "A"
+    ],
+    [
+      "H",
+      "O",
+      "R",
+      "E",
+      "T",
+      "U",
+      "R",
+      "N",
+      "L",
+      "V",
+      "E",
+      "S"
+    ],
+    [
+      "I",
+      "O",
+      "U",
+      "H",
+      "P",
+      "A",
+      "N",
+      "I",
+      "L",
+      "A",
+      "B",
+      "E"
+    ],
+    [
+      "B",
+      "T",
+      "U",
+      "B",
+      "A",
+      "F",
+      "T",
+      "X",
+      "B",
+      "N",
+      "R",
+      "L"
+    ],
+    [
+      "A",
+      "W",
+      "V",
+      "N",
+      "L",
+      "R",
+      "C",
+      "R",
+      "O",
+      "T",
+      "E",
+      "I"
+    ],
+    [
+      "C",
+      "O",
+      "D",
+      "O",
+      "F",
+      "E",
+      "D",
+      "V",
+      "Y",
+      "A",
+      "A",
+      "N"
+    ],
+    [
+      "K",
+      "R",
+      "M",
+      "L",
+      "L",
+      "O",
+      "F",
+      "C",
+      "E",
+      "G",
+      "K",
+      "E"
+    ],
+    [
+      "H",
+      "K",
+      "C",
+      "F",
+      "A",
+      "L",
+      "R",
+      "A",
+      "O",
+      "E",
+      "D",
+      "M"
+    ],
+    [
+      "A",
+      "J",
+      "L",
+      "Z",
+      "M",
+      "M",
+      "E",
+      "C",
+      "U",
+      "U",
+      "X",
+      "Y"
+    ],
+    [
+      "N",
+      "P",
+      "V",
+      "P",
+      "I",
+      "F",
+      "T",
+      "Y",
+      "E",
+      "L",
+      "R",
+      "F"
+    ],
+    [
+      "D",
+      "S",
+      "F",
+      "O",
+      "R",
+      "E",
+      "H",
+      "A",
+      "N",
+      "D",
+      "T",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "DOUBLEFAULT",
+      "row": 1,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "HARDCOURT",
+      "row": 3,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "ADVANTAGE",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "TIEBREAK",
+      "row": 0,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "LINESMAN",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "UNFORCED",
+      "row": 4,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "FOREHAND",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BACKHAND",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BASELINE",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "FOOTWORK",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "BALLBOY",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "RETURN",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "VOLLEY",
+      "row": 5,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "SMASH",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6034
+}

@@ -1,0 +1,284 @@
+{
+  "id": "trains-medium-02",
+  "slug": "trains-medium-02",
+  "themeId": "trains",
+  "title": "Trains: Long Haul",
+  "primaryKeyword": "trains word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ALIGHT",
+    "AXLE",
+    "BUFFER",
+    "CONDUCTOR",
+    "COUPLER",
+    "DIESEL",
+    "EXPRESS",
+    "JOURNEY",
+    "LUGGAGE",
+    "PASSENGER",
+    "PORTER",
+    "SCHEDULE",
+    "SHUNT",
+    "TIMETABLE"
+  ],
+  "grid": [
+    [
+      "O",
+      "A",
+      "I",
+      "T",
+      "S",
+      "H",
+      "U",
+      "N",
+      "T",
+      "X",
+      "M",
+      "I"
+    ],
+    [
+      "S",
+      "B",
+      "E",
+      "S",
+      "I",
+      "C",
+      "T",
+      "P",
+      "P",
+      "U",
+      "M",
+      "K"
+    ],
+    [
+      "B",
+      "Z",
+      "G",
+      "U",
+      "C",
+      "O",
+      "I",
+      "A",
+      "O",
+      "E",
+      "S",
+      "C"
+    ],
+    [
+      "U",
+      "C",
+      "S",
+      "U",
+      "D",
+      "N",
+      "M",
+      "S",
+      "Z",
+      "X",
+      "C",
+      "O"
+    ],
+    [
+      "F",
+      "B",
+      "D",
+      "T",
+      "D",
+      "D",
+      "E",
+      "S",
+      "J",
+      "P",
+      "H",
+      "U"
+    ],
+    [
+      "F",
+      "B",
+      "I",
+      "L",
+      "A",
+      "U",
+      "T",
+      "E",
+      "O",
+      "R",
+      "E",
+      "P"
+    ],
+    [
+      "E",
+      "P",
+      "E",
+      "U",
+      "X",
+      "C",
+      "A",
+      "N",
+      "U",
+      "E",
+      "D",
+      "L"
+    ],
+    [
+      "R",
+      "O",
+      "S",
+      "G",
+      "L",
+      "T",
+      "B",
+      "G",
+      "R",
+      "S",
+      "U",
+      "E"
+    ],
+    [
+      "T",
+      "R",
+      "E",
+      "G",
+      "E",
+      "O",
+      "L",
+      "E",
+      "N",
+      "S",
+      "L",
+      "R"
+    ],
+    [
+      "P",
+      "T",
+      "L",
+      "A",
+      "F",
+      "R",
+      "E",
+      "R",
+      "E",
+      "D",
+      "E",
+      "A"
+    ],
+    [
+      "S",
+      "E",
+      "X",
+      "G",
+      "P",
+      "L",
+      "Z",
+      "U",
+      "Y",
+      "I",
+      "I",
+      "I"
+    ],
+    [
+      "C",
+      "R",
+      "L",
+      "E",
+      "L",
+      "A",
+      "L",
+      "I",
+      "G",
+      "H",
+      "T",
+      "Q"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PASSENGER",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "CONDUCTOR",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "TIMETABLE",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "SCHEDULE",
+      "row": 2,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "LUGGAGE",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "EXPRESS",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "JOURNEY",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "COUPLER",
+      "row": 2,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "PORTER",
+      "row": 6,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "BUFFER",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "DIESEL",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "ALIGHT",
+      "row": 11,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SHUNT",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "AXLE",
+      "row": 5,
+      "col": 4,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8074
+}

@@ -1,0 +1,173 @@
+{
+  "id": "summer-large-01",
+  "slug": "summer-large-01",
+  "themeId": "summer",
+  "title": "Large Print Summer: Soft Heat",
+  "primaryKeyword": "large print summer word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "FAN",
+    "HEAT",
+    "LAKE",
+    "LAWN",
+    "REST",
+    "SAND",
+    "SHADE",
+    "WAVE"
+  ],
+  "grid": [
+    [
+      "Q",
+      "I",
+      "R",
+      "D",
+      "F",
+      "I",
+      "A",
+      "U",
+      "H"
+    ],
+    [
+      "W",
+      "H",
+      "E",
+      "A",
+      "T",
+      "U",
+      "X",
+      "A",
+      "Y"
+    ],
+    [
+      "W",
+      "L",
+      "O",
+      "S",
+      "S",
+      "K",
+      "Y",
+      "N",
+      "W"
+    ],
+    [
+      "G",
+      "A",
+      "F",
+      "H",
+      "A",
+      "H",
+      "G",
+      "U",
+      "F"
+    ],
+    [
+      "P",
+      "K",
+      "X",
+      "A",
+      "N",
+      "V",
+      "O",
+      "W",
+      "D"
+    ],
+    [
+      "J",
+      "E",
+      "H",
+      "D",
+      "D",
+      "X",
+      "R",
+      "A",
+      "R"
+    ],
+    [
+      "P",
+      "Y",
+      "L",
+      "E",
+      "Y",
+      "X",
+      "E",
+      "V",
+      "Y"
+    ],
+    [
+      "W",
+      "F",
+      "A",
+      "N",
+      "J",
+      "S",
+      "S",
+      "E",
+      "R"
+    ],
+    [
+      "T",
+      "P",
+      "L",
+      "A",
+      "W",
+      "N",
+      "T",
+      "N",
+      "K"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SHADE",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "HEAT",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "LAWN",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SAND",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "WAVE",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "LAKE",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "REST",
+      "row": 5,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "FAN",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7076
+}

@@ -1,0 +1,284 @@
+{
+  "id": "cycling-medium-02",
+  "slug": "cycling-medium-02",
+  "themeId": "cycling",
+  "title": "Cycling: Route Map",
+  "primaryKeyword": "cycling word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CADENCE",
+    "CAGE",
+    "CYCLE",
+    "DRAFT",
+    "KIT",
+    "PARK",
+    "PELOTON",
+    "RACK",
+    "RAIN",
+    "RIM",
+    "SPOKE",
+    "SUN",
+    "TOOL",
+    "TOUR"
+  ],
+  "grid": [
+    [
+      "C",
+      "G",
+      "G",
+      "V",
+      "V",
+      "T",
+      "G",
+      "I",
+      "X",
+      "G",
+      "L",
+      "O"
+    ],
+    [
+      "A",
+      "X",
+      "O",
+      "J",
+      "H",
+      "P",
+      "O",
+      "R",
+      "K",
+      "S",
+      "U",
+      "N"
+    ],
+    [
+      "G",
+      "A",
+      "C",
+      "R",
+      "Y",
+      "R",
+      "A",
+      "O",
+      "W",
+      "I",
+      "V",
+      "G"
+    ],
+    [
+      "E",
+      "L",
+      "Y",
+      "A",
+      "C",
+      "G",
+      "P",
+      "R",
+      "L",
+      "J",
+      "T",
+      "N"
+    ],
+    [
+      "P",
+      "E",
+      "C",
+      "C",
+      "A",
+      "B",
+      "U",
+      "Z",
+      "K",
+      "B",
+      "O",
+      "S"
+    ],
+    [
+      "R",
+      "G",
+      "L",
+      "K",
+      "D",
+      "L",
+      "B",
+      "B",
+      "N",
+      "T",
+      "J",
+      "M"
+    ],
+    [
+      "A",
+      "Y",
+      "E",
+      "R",
+      "E",
+      "W",
+      "O",
+      "Y",
+      "O",
+      "F",
+      "S",
+      "I"
+    ],
+    [
+      "I",
+      "X",
+      "R",
+      "G",
+      "N",
+      "Q",
+      "J",
+      "L",
+      "Q",
+      "U",
+      "P",
+      "S"
+    ],
+    [
+      "N",
+      "D",
+      "I",
+      "K",
+      "C",
+      "Y",
+      "E",
+      "X",
+      "Z",
+      "Y",
+      "O",
+      "P"
+    ],
+    [
+      "I",
+      "G",
+      "M",
+      "Y",
+      "E",
+      "P",
+      "X",
+      "C",
+      "F",
+      "G",
+      "K",
+      "V"
+    ],
+    [
+      "D",
+      "R",
+      "A",
+      "F",
+      "T",
+      "O",
+      "Q",
+      "D",
+      "W",
+      "U",
+      "E",
+      "N"
+    ],
+    [
+      "U",
+      "T",
+      "O",
+      "U",
+      "R",
+      "H",
+      "X",
+      "T",
+      "E",
+      "J",
+      "M",
+      "U"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CADENCE",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "PELOTON",
+      "row": 9,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "DRAFT",
+      "row": 10,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SPOKE",
+      "row": 6,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "CYCLE",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "TOUR",
+      "row": 11,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TOOL",
+      "row": 0,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "RACK",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "PARK",
+      "row": 1,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "CAGE",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "RAIN",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "KIT",
+      "row": 1,
+      "col": 8,
+      "direction": "SE"
+    },
+    {
+      "word": "RIM",
+      "row": 7,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "SUN",
+      "row": 1,
+      "col": 9,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8654
+}

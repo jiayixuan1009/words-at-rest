@@ -12,6 +12,8 @@ export interface Theme {
   description: string;
   season: "fall" | "winter" | "spring" | "summer" | "evergreen";
   primaryKeyword: string;
+  /** Optional parent theme slug (flat sub-themes link back to sports/food/music hubs). */
+  parentSlug?: string;
   /** Self-written word bank. No trademarks, characters, or licensed IP. */
   words: string[];
 }

@@ -1,0 +1,208 @@
+{
+  "id": "golf-easy-01",
+  "slug": "golf-easy-01",
+  "themeId": "golf",
+  "title": "Golf: On the Tee",
+  "primaryKeyword": "golf word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CUP",
+    "DRIVE",
+    "FLAG",
+    "GREEN",
+    "IRON",
+    "PAR",
+    "PUTT",
+    "SWING",
+    "TEE",
+    "WOOD"
+  ],
+  "grid": [
+    [
+      "D",
+      "X",
+      "U",
+      "L",
+      "J",
+      "Y",
+      "S",
+      "M",
+      "W",
+      "J"
+    ],
+    [
+      "R",
+      "V",
+      "X",
+      "T",
+      "P",
+      "H",
+      "H",
+      "B",
+      "O",
+      "V"
+    ],
+    [
+      "I",
+      "E",
+      "V",
+      "O",
+      "A",
+      "E",
+      "M",
+      "C",
+      "U",
+      "P"
+    ],
+    [
+      "V",
+      "F",
+      "H",
+      "B",
+      "R",
+      "W",
+      "O",
+      "O",
+      "D",
+      "C"
+    ],
+    [
+      "E",
+      "L",
+      "N",
+      "P",
+      "U",
+      "T",
+      "T",
+      "M",
+      "N",
+      "Z"
+    ],
+    [
+      "V",
+      "A",
+      "I",
+      "K",
+      "D",
+      "S",
+      "Z",
+      "W",
+      "G",
+      "B"
+    ],
+    [
+      "R",
+      "G",
+      "R",
+      "M",
+      "Z",
+      "W",
+      "N",
+      "D",
+      "R",
+      "L"
+    ],
+    [
+      "A",
+      "T",
+      "O",
+      "C",
+      "V",
+      "I",
+      "E",
+      "K",
+      "E",
+      "G"
+    ],
+    [
+      "I",
+      "N",
+      "N",
+      "B",
+      "A",
+      "N",
+      "T",
+      "E",
+      "E",
+      "N"
+    ],
+    [
+      "H",
+      "A",
+      "L",
+      "K",
+      "H",
+      "G",
+      "W",
+      "F",
+      "N",
+      "O"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "DRIVE",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SWING",
+      "row": 5,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "GREEN",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "PUTT",
+      "row": 4,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "FLAG",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "IRON",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "WOOD",
+      "row": 3,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "TEE",
+      "row": 8,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "PAR",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "CUP",
+      "row": 2,
+      "col": 7,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6011
+}

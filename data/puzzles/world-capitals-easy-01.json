@@ -1,0 +1,208 @@
+{
+  "id": "world-capitals-easy-01",
+  "slug": "world-capitals-easy-01",
+  "themeId": "world-capitals",
+  "title": "World Capitals: City Lights",
+  "primaryKeyword": "world capitals word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BERN",
+    "CAIRO",
+    "DELHI",
+    "KYIV",
+    "LIMA",
+    "OSLO",
+    "PARIS",
+    "QUITO",
+    "ROME",
+    "TOKYO"
+  ],
+  "grid": [
+    [
+      "W",
+      "R",
+      "L",
+      "E",
+      "Q",
+      "U",
+      "I",
+      "T",
+      "O",
+      "S"
+    ],
+    [
+      "C",
+      "A",
+      "I",
+      "R",
+      "O",
+      "S",
+      "Z",
+      "U",
+      "S",
+      "S"
+    ],
+    [
+      "Y",
+      "H",
+      "L",
+      "M",
+      "C",
+      "D",
+      "E",
+      "L",
+      "H",
+      "I"
+    ],
+    [
+      "N",
+      "Q",
+      "G",
+      "Y",
+      "Y",
+      "H",
+      "B",
+      "E",
+      "R",
+      "N"
+    ],
+    [
+      "H",
+      "Z",
+      "A",
+      "I",
+      "I",
+      "B",
+      "G",
+      "V",
+      "H",
+      "O"
+    ],
+    [
+      "J",
+      "N",
+      "N",
+      "W",
+      "Y",
+      "M",
+      "D",
+      "X",
+      "P",
+      "Q"
+    ],
+    [
+      "T",
+      "O",
+      "K",
+      "Y",
+      "O",
+      "O",
+      "R",
+      "O",
+      "M",
+      "E"
+    ],
+    [
+      "L",
+      "A",
+      "P",
+      "A",
+      "R",
+      "I",
+      "S",
+      "M",
+      "C",
+      "M"
+    ],
+    [
+      "Q",
+      "K",
+      "Y",
+      "I",
+      "V",
+      "J",
+      "N",
+      "P",
+      "R",
+      "D"
+    ],
+    [
+      "L",
+      "I",
+      "M",
+      "A",
+      "O",
+      "S",
+      "L",
+      "O",
+      "G",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PARIS",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CAIRO",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "TOKYO",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "DELHI",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "QUITO",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "ROME",
+      "row": 6,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "OSLO",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "LIMA",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "KYIV",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BERN",
+      "row": 3,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8021
+}

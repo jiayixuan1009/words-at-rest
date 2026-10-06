@@ -1,0 +1,208 @@
+{
+  "id": "wedding-easy-02",
+  "slug": "wedding-easy-02",
+  "themeId": "wedding",
+  "title": "Wedding: Ring Day",
+  "primaryKeyword": "wedding word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CAKE",
+    "DANCE",
+    "GUEST",
+    "HOME",
+    "JOY",
+    "LOVE",
+    "PARTY",
+    "PHOTO",
+    "SONG",
+    "TOAST"
+  ],
+  "grid": [
+    [
+      "S",
+      "F",
+      "L",
+      "R",
+      "J",
+      "F",
+      "E",
+      "Y",
+      "B",
+      "T"
+    ],
+    [
+      "T",
+      "Y",
+      "R",
+      "K",
+      "I",
+      "T",
+      "O",
+      "A",
+      "S",
+      "T"
+    ],
+    [
+      "D",
+      "L",
+      "I",
+      "H",
+      "P",
+      "O",
+      "Q",
+      "C",
+      "W",
+      "F"
+    ],
+    [
+      "C",
+      "O",
+      "P",
+      "O",
+      "A",
+      "M",
+      "Z",
+      "A",
+      "G",
+      "W"
+    ],
+    [
+      "S",
+      "V",
+      "H",
+      "M",
+      "R",
+      "E",
+      "A",
+      "K",
+      "U",
+      "E"
+    ],
+    [
+      "O",
+      "E",
+      "O",
+      "E",
+      "T",
+      "H",
+      "H",
+      "E",
+      "E",
+      "V"
+    ],
+    [
+      "W",
+      "J",
+      "T",
+      "J",
+      "Y",
+      "V",
+      "R",
+      "X",
+      "S",
+      "I"
+    ],
+    [
+      "N",
+      "O",
+      "O",
+      "Z",
+      "K",
+      "P",
+      "L",
+      "W",
+      "T",
+      "K"
+    ],
+    [
+      "E",
+      "Y",
+      "J",
+      "W",
+      "F",
+      "D",
+      "A",
+      "N",
+      "C",
+      "E"
+    ],
+    [
+      "V",
+      "Q",
+      "H",
+      "S",
+      "O",
+      "N",
+      "G",
+      "R",
+      "G",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "GUEST",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "PARTY",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "TOAST",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "DANCE",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "PHOTO",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "CAKE",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SONG",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "LOVE",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "HOME",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "JOY",
+      "row": 6,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8482
+}

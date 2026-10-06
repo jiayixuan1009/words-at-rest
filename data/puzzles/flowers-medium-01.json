@@ -1,0 +1,284 @@
+{
+  "id": "flowers-medium-01",
+  "slug": "flowers-medium-01",
+  "themeId": "flowers",
+  "title": "Flowers: Petal Soft",
+  "primaryKeyword": "flowers word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BORDER",
+    "BOUQUET",
+    "CROCUS",
+    "DAFFODIL",
+    "DAHLIA",
+    "GARDEN",
+    "HYACINTH",
+    "JASMINE",
+    "LAVENDER",
+    "LILAC",
+    "MARIGOLD",
+    "NECTAR",
+    "POLLEN",
+    "ZINNIA"
+  ],
+  "grid": [
+    [
+      "B",
+      "L",
+      "J",
+      "A",
+      "S",
+      "M",
+      "I",
+      "N",
+      "E",
+      "D",
+      "C",
+      "J"
+    ],
+    [
+      "W",
+      "A",
+      "N",
+      "M",
+      "B",
+      "E",
+      "G",
+      "D",
+      "M",
+      "N",
+      "R",
+      "V"
+    ],
+    [
+      "Q",
+      "V",
+      "E",
+      "M",
+      "O",
+      "O",
+      "H",
+      "A",
+      "M",
+      "Q",
+      "O",
+      "P"
+    ],
+    [
+      "Z",
+      "E",
+      "C",
+      "A",
+      "U",
+      "U",
+      "Y",
+      "F",
+      "I",
+      "J",
+      "C",
+      "H"
+    ],
+    [
+      "O",
+      "N",
+      "T",
+      "R",
+      "Q",
+      "M",
+      "A",
+      "F",
+      "Z",
+      "P",
+      "U",
+      "L"
+    ],
+    [
+      "G",
+      "D",
+      "A",
+      "I",
+      "U",
+      "I",
+      "C",
+      "O",
+      "I",
+      "O",
+      "S",
+      "I"
+    ],
+    [
+      "A",
+      "E",
+      "R",
+      "G",
+      "E",
+      "B",
+      "I",
+      "D",
+      "N",
+      "L",
+      "W",
+      "L"
+    ],
+    [
+      "R",
+      "R",
+      "L",
+      "O",
+      "T",
+      "O",
+      "N",
+      "I",
+      "N",
+      "L",
+      "G",
+      "A"
+    ],
+    [
+      "D",
+      "O",
+      "T",
+      "L",
+      "O",
+      "R",
+      "T",
+      "L",
+      "I",
+      "E",
+      "G",
+      "C"
+    ],
+    [
+      "E",
+      "P",
+      "Q",
+      "D",
+      "U",
+      "D",
+      "H",
+      "M",
+      "A",
+      "N",
+      "A",
+      "T"
+    ],
+    [
+      "N",
+      "Z",
+      "W",
+      "O",
+      "V",
+      "E",
+      "D",
+      "A",
+      "H",
+      "L",
+      "I",
+      "A"
+    ],
+    [
+      "U",
+      "D",
+      "Z",
+      "S",
+      "H",
+      "R",
+      "U",
+      "N",
+      "Y",
+      "V",
+      "L",
+      "H"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "DAFFODIL",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "HYACINTH",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "MARIGOLD",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "LAVENDER",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "JASMINE",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BOUQUET",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "CROCUS",
+      "row": 0,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "DAHLIA",
+      "row": 10,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "ZINNIA",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "GARDEN",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BORDER",
+      "row": 6,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "POLLEN",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "NECTAR",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "LILAC",
+      "row": 4,
+      "col": 11,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7163
+}

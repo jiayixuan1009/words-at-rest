@@ -1,0 +1,208 @@
+{
+  "id": "fishing-easy-02",
+  "slug": "fishing-easy-02",
+  "themeId": "fishing",
+  "title": "Fishing: By the Water",
+  "primaryKeyword": "fishing word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BOAT",
+    "CATCH",
+    "FLY",
+    "LAKE",
+    "PIER",
+    "POND",
+    "RIVER",
+    "SHORE",
+    "TIDE",
+    "VEST"
+  ],
+  "grid": [
+    [
+      "R",
+      "C",
+      "A",
+      "T",
+      "C",
+      "H",
+      "Q",
+      "O",
+      "F",
+      "N"
+    ],
+    [
+      "I",
+      "R",
+      "O",
+      "F",
+      "L",
+      "Y",
+      "Y",
+      "L",
+      "Y",
+      "G"
+    ],
+    [
+      "V",
+      "X",
+      "H",
+      "Z",
+      "N",
+      "K",
+      "I",
+      "B",
+      "N",
+      "O"
+    ],
+    [
+      "E",
+      "C",
+      "B",
+      "O",
+      "A",
+      "T",
+      "Q",
+      "U",
+      "U",
+      "Q"
+    ],
+    [
+      "R",
+      "P",
+      "M",
+      "N",
+      "F",
+      "G",
+      "H",
+      "Z",
+      "H",
+      "J"
+    ],
+    [
+      "P",
+      "O",
+      "J",
+      "K",
+      "L",
+      "K",
+      "N",
+      "N",
+      "R",
+      "A"
+    ],
+    [
+      "I",
+      "N",
+      "I",
+      "G",
+      "C",
+      "S",
+      "H",
+      "O",
+      "R",
+      "E"
+    ],
+    [
+      "E",
+      "D",
+      "T",
+      "I",
+      "D",
+      "E",
+      "L",
+      "F",
+      "A",
+      "Q"
+    ],
+    [
+      "R",
+      "L",
+      "C",
+      "I",
+      "V",
+      "E",
+      "S",
+      "T",
+      "O",
+      "H"
+    ],
+    [
+      "H",
+      "L",
+      "A",
+      "K",
+      "E",
+      "Q",
+      "F",
+      "S",
+      "W",
+      "Z"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "RIVER",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SHORE",
+      "row": 6,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "CATCH",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "LAKE",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "POND",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "TIDE",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PIER",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BOAT",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "VEST",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "FLY",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6042
+}

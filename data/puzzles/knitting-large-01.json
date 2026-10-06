@@ -1,0 +1,173 @@
+{
+  "id": "knitting-large-01",
+  "slug": "knitting-large-01",
+  "themeId": "knitting",
+  "title": "Large Print Knitting: Soft Yarn",
+  "primaryKeyword": "large print knitting word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "HAT",
+    "KNIT",
+    "ROW",
+    "SCARF",
+    "SOCK",
+    "TEA",
+    "WOOL",
+    "YARN"
+  ],
+  "grid": [
+    [
+      "B",
+      "K",
+      "R",
+      "R",
+      "C",
+      "V",
+      "Q",
+      "O",
+      "M"
+    ],
+    [
+      "W",
+      "N",
+      "O",
+      "Y",
+      "B",
+      "M",
+      "W",
+      "H",
+      "W"
+    ],
+    [
+      "F",
+      "I",
+      "W",
+      "F",
+      "F",
+      "Y",
+      "A",
+      "R",
+      "N"
+    ],
+    [
+      "V",
+      "T",
+      "K",
+      "W",
+      "O",
+      "O",
+      "L",
+      "O",
+      "H"
+    ],
+    [
+      "F",
+      "H",
+      "Y",
+      "Y",
+      "X",
+      "T",
+      "I",
+      "V",
+      "A"
+    ],
+    [
+      "S",
+      "O",
+      "C",
+      "K",
+      "Y",
+      "M",
+      "R",
+      "P",
+      "T"
+    ],
+    [
+      "I",
+      "S",
+      "C",
+      "A",
+      "R",
+      "F",
+      "D",
+      "U",
+      "T"
+    ],
+    [
+      "C",
+      "D",
+      "P",
+      "D",
+      "C",
+      "E",
+      "N",
+      "Q",
+      "E"
+    ],
+    [
+      "Z",
+      "Y",
+      "R",
+      "V",
+      "D",
+      "F",
+      "G",
+      "D",
+      "A"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SCARF",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "KNIT",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "YARN",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "WOOL",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SOCK",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "HAT",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "TEA",
+      "row": 6,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "ROW",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8446
+}

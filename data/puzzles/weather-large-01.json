@@ -1,0 +1,173 @@
+{
+  "id": "weather-large-01",
+  "slug": "weather-large-01",
+  "themeId": "weather",
+  "title": "Large Print Weather: Soft Mist",
+  "primaryKeyword": "large print weather word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "COAT",
+    "COLD",
+    "FOG",
+    "RAIN",
+    "SKY",
+    "SNOW",
+    "SUN",
+    "WIND"
+  ],
+  "grid": [
+    [
+      "M",
+      "Q",
+      "E",
+      "I",
+      "K",
+      "W",
+      "I",
+      "N",
+      "D"
+    ],
+    [
+      "V",
+      "V",
+      "J",
+      "I",
+      "Q",
+      "L",
+      "K",
+      "C",
+      "T"
+    ],
+    [
+      "E",
+      "S",
+      "R",
+      "A",
+      "I",
+      "N",
+      "L",
+      "O",
+      "N"
+    ],
+    [
+      "Z",
+      "F",
+      "Z",
+      "S",
+      "N",
+      "O",
+      "W",
+      "L",
+      "K"
+    ],
+    [
+      "G",
+      "O",
+      "P",
+      "Y",
+      "J",
+      "K",
+      "Z",
+      "D",
+      "C"
+    ],
+    [
+      "O",
+      "G",
+      "Q",
+      "Y",
+      "P",
+      "O",
+      "B",
+      "Q",
+      "Z"
+    ],
+    [
+      "S",
+      "R",
+      "G",
+      "S",
+      "D",
+      "C",
+      "O",
+      "A",
+      "T"
+    ],
+    [
+      "U",
+      "V",
+      "L",
+      "K",
+      "A",
+      "C",
+      "A",
+      "F",
+      "P"
+    ],
+    [
+      "N",
+      "C",
+      "S",
+      "Y",
+      "U",
+      "W",
+      "A",
+      "K",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "RAIN",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SNOW",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "WIND",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "COLD",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "COAT",
+      "row": 6,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "FOG",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SUN",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SKY",
+      "row": 6,
+      "col": 3,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7186
+}

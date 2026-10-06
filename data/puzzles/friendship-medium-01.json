@@ -1,0 +1,284 @@
+{
+  "id": "friendship-medium-01",
+  "slug": "friendship-medium-01",
+  "themeId": "friendship",
+  "title": "Friendship: Loyal Circle",
+  "primaryKeyword": "friendship word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CHEER",
+    "COMFORT",
+    "COMPANION",
+    "GENTLE",
+    "HONEST",
+    "LAUGH",
+    "LETTER",
+    "LISTEN",
+    "LOYAL",
+    "NEIGHBOR",
+    "PARTNER",
+    "PEACE",
+    "SMILE",
+    "SUPPORT"
+  ],
+  "grid": [
+    [
+      "D",
+      "L",
+      "C",
+      "H",
+      "E",
+      "E",
+      "R",
+      "V",
+      "A",
+      "D",
+      "U",
+      "N"
+    ],
+    [
+      "Z",
+      "S",
+      "U",
+      "P",
+      "P",
+      "O",
+      "R",
+      "T",
+      "A",
+      "H",
+      "L",
+      "E"
+    ],
+    [
+      "Z",
+      "J",
+      "U",
+      "A",
+      "G",
+      "E",
+      "N",
+      "T",
+      "L",
+      "E",
+      "E",
+      "I"
+    ],
+    [
+      "I",
+      "Z",
+      "B",
+      "D",
+      "C",
+      "O",
+      "M",
+      "F",
+      "O",
+      "R",
+      "T",
+      "G"
+    ],
+    [
+      "W",
+      "J",
+      "I",
+      "A",
+      "L",
+      "L",
+      "G",
+      "A",
+      "J",
+      "P",
+      "T",
+      "H"
+    ],
+    [
+      "V",
+      "I",
+      "E",
+      "A",
+      "M",
+      "I",
+      "P",
+      "W",
+      "I",
+      "A",
+      "E",
+      "B"
+    ],
+    [
+      "T",
+      "P",
+      "Y",
+      "W",
+      "J",
+      "S",
+      "O",
+      "C",
+      "T",
+      "R",
+      "R",
+      "O"
+    ],
+    [
+      "U",
+      "O",
+      "L",
+      "J",
+      "A",
+      "T",
+      "K",
+      "J",
+      "O",
+      "T",
+      "L",
+      "R"
+    ],
+    [
+      "L",
+      "S",
+      "M",
+      "I",
+      "L",
+      "E",
+      "X",
+      "W",
+      "X",
+      "N",
+      "A",
+      "R"
+    ],
+    [
+      "W",
+      "B",
+      "N",
+      "Y",
+      "U",
+      "N",
+      "H",
+      "S",
+      "R",
+      "E",
+      "U",
+      "U"
+    ],
+    [
+      "C",
+      "O",
+      "M",
+      "P",
+      "A",
+      "N",
+      "I",
+      "O",
+      "N",
+      "R",
+      "G",
+      "H"
+    ],
+    [
+      "W",
+      "H",
+      "O",
+      "N",
+      "E",
+      "S",
+      "T",
+      "V",
+      "T",
+      "F",
+      "H",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "COMPANION",
+      "row": 10,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "NEIGHBOR",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "PARTNER",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SUPPORT",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "COMFORT",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "LETTER",
+      "row": 1,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "LISTEN",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "GENTLE",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "HONEST",
+      "row": 11,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "LOYAL",
+      "row": 8,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "CHEER",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "LAUGH",
+      "row": 7,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "SMILE",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PEACE",
+      "row": 6,
+      "col": 1,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8153
+}

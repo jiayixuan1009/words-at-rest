@@ -1,0 +1,284 @@
+{
+  "id": "hiking-medium-01",
+  "slug": "hiking-medium-01",
+  "themeId": "hiking",
+  "title": "Hiking: Switchback",
+  "primaryKeyword": "hiking word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ASCENT",
+    "BRIDGE",
+    "CAIRN",
+    "COMPASS",
+    "CREEK",
+    "DESCENT",
+    "FOREST",
+    "MARKER",
+    "MEADOW",
+    "SHELTER",
+    "STREAM",
+    "SUMMIT",
+    "SWITCHBACK",
+    "VISTA"
+  ],
+  "grid": [
+    [
+      "O",
+      "M",
+      "E",
+      "A",
+      "D",
+      "O",
+      "W",
+      "N",
+      "H",
+      "K",
+      "C",
+      "I"
+    ],
+    [
+      "U",
+      "A",
+      "F",
+      "E",
+      "U",
+      "B",
+      "R",
+      "Q",
+      "C",
+      "Z",
+      "O",
+      "K"
+    ],
+    [
+      "N",
+      "D",
+      "V",
+      "B",
+      "P",
+      "J",
+      "X",
+      "A",
+      "S",
+      "P",
+      "M",
+      "R"
+    ],
+    [
+      "M",
+      "A",
+      "R",
+      "K",
+      "E",
+      "R",
+      "B",
+      "A",
+      "U",
+      "D",
+      "P",
+      "H"
+    ],
+    [
+      "W",
+      "Z",
+      "S",
+      "B",
+      "O",
+      "H",
+      "L",
+      "S",
+      "M",
+      "E",
+      "A",
+      "F"
+    ],
+    [
+      "F",
+      "U",
+      "R",
+      "S",
+      "C",
+      "V",
+      "S",
+      "C",
+      "M",
+      "S",
+      "S",
+      "B"
+    ],
+    [
+      "O",
+      "F",
+      "N",
+      "T",
+      "J",
+      "I",
+      "H",
+      "E",
+      "I",
+      "C",
+      "S",
+      "R"
+    ],
+    [
+      "R",
+      "Y",
+      "I",
+      "R",
+      "C",
+      "S",
+      "E",
+      "N",
+      "T",
+      "E",
+      "J",
+      "I"
+    ],
+    [
+      "E",
+      "W",
+      "W",
+      "E",
+      "A",
+      "T",
+      "L",
+      "T",
+      "J",
+      "N",
+      "Q",
+      "D"
+    ],
+    [
+      "S",
+      "K",
+      "E",
+      "A",
+      "I",
+      "A",
+      "T",
+      "L",
+      "X",
+      "T",
+      "M",
+      "G"
+    ],
+    [
+      "T",
+      "Q",
+      "B",
+      "M",
+      "R",
+      "V",
+      "E",
+      "M",
+      "R",
+      "A",
+      "J",
+      "E"
+    ],
+    [
+      "O",
+      "N",
+      "G",
+      "G",
+      "N",
+      "L",
+      "R",
+      "C",
+      "R",
+      "E",
+      "E",
+      "K"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SWITCHBACK",
+      "row": 9,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "COMPASS",
+      "row": 0,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "DESCENT",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SHELTER",
+      "row": 5,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "SUMMIT",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "ASCENT",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "MARKER",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "MEADOW",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "FOREST",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "STREAM",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "BRIDGE",
+      "row": 5,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "CAIRN",
+      "row": 7,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "VISTA",
+      "row": 5,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "CREEK",
+      "row": 11,
+      "col": 7,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8643
+}

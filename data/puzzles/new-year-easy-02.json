@@ -1,0 +1,208 @@
+{
+  "id": "new-year-easy-02",
+  "slug": "new-year-easy-02",
+  "themeId": "new-year",
+  "title": "New Year: Fresh Start",
+  "primaryKeyword": "new year word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CALENDAR",
+    "CHANGE",
+    "GOAL",
+    "HABIT",
+    "JANUARY",
+    "JOY",
+    "MORNING",
+    "OPENING",
+    "PEACE",
+    "PLAN"
+  ],
+  "grid": [
+    [
+      "I",
+      "C",
+      "H",
+      "A",
+      "N",
+      "G",
+      "E",
+      "G",
+      "P",
+      "T"
+    ],
+    [
+      "B",
+      "A",
+      "X",
+      "N",
+      "V",
+      "M",
+      "D",
+      "O",
+      "A",
+      "Q"
+    ],
+    [
+      "Y",
+      "H",
+      "Z",
+      "V",
+      "I",
+      "O",
+      "K",
+      "A",
+      "D",
+      "Y"
+    ],
+    [
+      "O",
+      "G",
+      "J",
+      "W",
+      "N",
+      "R",
+      "W",
+      "L",
+      "X",
+      "T"
+    ],
+    [
+      "H",
+      "G",
+      "O",
+      "J",
+      "A",
+      "N",
+      "U",
+      "A",
+      "R",
+      "Y"
+    ],
+    [
+      "A",
+      "F",
+      "Y",
+      "B",
+      "W",
+      "I",
+      "I",
+      "W",
+      "M",
+      "P"
+    ],
+    [
+      "B",
+      "C",
+      "A",
+      "L",
+      "E",
+      "N",
+      "D",
+      "A",
+      "R",
+      "L"
+    ],
+    [
+      "I",
+      "G",
+      "N",
+      "H",
+      "F",
+      "G",
+      "X",
+      "L",
+      "Z",
+      "A"
+    ],
+    [
+      "T",
+      "P",
+      "E",
+      "A",
+      "C",
+      "E",
+      "G",
+      "I",
+      "C",
+      "N"
+    ],
+    [
+      "S",
+      "O",
+      "P",
+      "E",
+      "N",
+      "I",
+      "N",
+      "G",
+      "C",
+      "W"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CALENDAR",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "JANUARY",
+      "row": 4,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "OPENING",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "MORNING",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "CHANGE",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "HABIT",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "PEACE",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PLAN",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "GOAL",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "JOY",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7012
+}

@@ -1,0 +1,208 @@
+{
+  "id": "classical-easy-01",
+  "slug": "classical-easy-01",
+  "themeId": "classical",
+  "title": "Classical: Forms",
+  "primaryKeyword": "classical music word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ARIA",
+    "BATON",
+    "DUET",
+    "OPERA",
+    "SCORE",
+    "SONATA",
+    "SUITE",
+    "TEMPO",
+    "THEME",
+    "TRIO"
+  ],
+  "grid": [
+    [
+      "X",
+      "T",
+      "X",
+      "T",
+      "H",
+      "Y",
+      "C",
+      "Q",
+      "F",
+      "A"
+    ],
+    [
+      "S",
+      "R",
+      "L",
+      "H",
+      "M",
+      "S",
+      "S",
+      "T",
+      "K",
+      "R"
+    ],
+    [
+      "E",
+      "I",
+      "M",
+      "E",
+      "H",
+      "U",
+      "I",
+      "E",
+      "R",
+      "I"
+    ],
+    [
+      "N",
+      "O",
+      "O",
+      "M",
+      "Z",
+      "I",
+      "J",
+      "M",
+      "P",
+      "A"
+    ],
+    [
+      "S",
+      "P",
+      "C",
+      "E",
+      "J",
+      "T",
+      "G",
+      "P",
+      "S",
+      "E"
+    ],
+    [
+      "C",
+      "O",
+      "M",
+      "I",
+      "S",
+      "E",
+      "R",
+      "O",
+      "U",
+      "K"
+    ],
+    [
+      "O",
+      "E",
+      "O",
+      "O",
+      "P",
+      "E",
+      "R",
+      "A",
+      "J",
+      "I"
+    ],
+    [
+      "R",
+      "B",
+      "A",
+      "T",
+      "O",
+      "N",
+      "X",
+      "T",
+      "B",
+      "T"
+    ],
+    [
+      "E",
+      "A",
+      "S",
+      "O",
+      "N",
+      "A",
+      "T",
+      "A",
+      "E",
+      "P"
+    ],
+    [
+      "D",
+      "U",
+      "E",
+      "T",
+      "Q",
+      "Y",
+      "V",
+      "O",
+      "W",
+      "B"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SONATA",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "OPERA",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SUITE",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "TEMPO",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "THEME",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "SCORE",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BATON",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "ARIA",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "DUET",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "TRIO",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6231
+}

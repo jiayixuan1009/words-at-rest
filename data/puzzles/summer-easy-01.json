@@ -1,0 +1,208 @@
+{
+  "id": "summer-easy-01",
+  "slug": "summer-easy-01",
+  "themeId": "summer",
+  "title": "Summer: Shade & Lawn",
+  "primaryKeyword": "summer word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BEACH",
+    "FAN",
+    "HEAT",
+    "LAKE",
+    "LAWN",
+    "PARK",
+    "SAND",
+    "SHADE",
+    "SUMMER",
+    "WAVE"
+  ],
+  "grid": [
+    [
+      "K",
+      "L",
+      "A",
+      "W",
+      "N",
+      "L",
+      "B",
+      "O",
+      "K",
+      "W"
+    ],
+    [
+      "R",
+      "C",
+      "S",
+      "A",
+      "N",
+      "D",
+      "X",
+      "H",
+      "M",
+      "B"
+    ],
+    [
+      "H",
+      "E",
+      "A",
+      "T",
+      "B",
+      "X",
+      "F",
+      "A",
+      "N",
+      "E"
+    ],
+    [
+      "G",
+      "W",
+      "L",
+      "L",
+      "A",
+      "K",
+      "E",
+      "N",
+      "C",
+      "A"
+    ],
+    [
+      "Y",
+      "B",
+      "M",
+      "S",
+      "H",
+      "A",
+      "D",
+      "E",
+      "U",
+      "C"
+    ],
+    [
+      "U",
+      "S",
+      "Y",
+      "S",
+      "U",
+      "M",
+      "M",
+      "E",
+      "R",
+      "H"
+    ],
+    [
+      "U",
+      "J",
+      "W",
+      "U",
+      "F",
+      "J",
+      "W",
+      "G",
+      "B",
+      "I"
+    ],
+    [
+      "P",
+      "A",
+      "R",
+      "K",
+      "C",
+      "J",
+      "A",
+      "Z",
+      "J",
+      "X"
+    ],
+    [
+      "E",
+      "L",
+      "N",
+      "L",
+      "C",
+      "X",
+      "V",
+      "K",
+      "Y",
+      "Z"
+    ],
+    [
+      "G",
+      "A",
+      "D",
+      "O",
+      "U",
+      "J",
+      "E",
+      "W",
+      "C",
+      "I"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SUMMER",
+      "row": 5,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SHADE",
+      "row": 4,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BEACH",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "HEAT",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "LAWN",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PARK",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SAND",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "WAVE",
+      "row": 6,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "LAKE",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "FAN",
+      "row": 2,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7071
+}

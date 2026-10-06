@@ -1,0 +1,208 @@
+{
+  "id": "islands-easy-01",
+  "slug": "islands-easy-01",
+  "themeId": "islands",
+  "title": "Islands: Shore Cove",
+  "primaryKeyword": "islands word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BAY",
+    "BEACH",
+    "BOAT",
+    "CAVE",
+    "DOCK",
+    "ISLE",
+    "REEF",
+    "SHORE",
+    "TIDE",
+    "WAVE"
+  ],
+  "grid": [
+    [
+      "O",
+      "E",
+      "T",
+      "I",
+      "S",
+      "L",
+      "E",
+      "W",
+      "X",
+      "B"
+    ],
+    [
+      "F",
+      "T",
+      "V",
+      "I",
+      "D",
+      "A",
+      "O",
+      "T",
+      "A",
+      "E"
+    ],
+    [
+      "B",
+      "V",
+      "B",
+      "A",
+      "Y",
+      "W",
+      "A",
+      "V",
+      "E",
+      "A"
+    ],
+    [
+      "R",
+      "E",
+      "E",
+      "F",
+      "U",
+      "N",
+      "B",
+      "C",
+      "D",
+      "C"
+    ],
+    [
+      "A",
+      "B",
+      "O",
+      "A",
+      "T",
+      "C",
+      "O",
+      "J",
+      "R",
+      "H"
+    ],
+    [
+      "T",
+      "B",
+      "J",
+      "R",
+      "D",
+      "A",
+      "C",
+      "J",
+      "X",
+      "R"
+    ],
+    [
+      "I",
+      "L",
+      "S",
+      "T",
+      "O",
+      "V",
+      "E",
+      "M",
+      "F",
+      "W"
+    ],
+    [
+      "D",
+      "K",
+      "I",
+      "B",
+      "C",
+      "E",
+      "I",
+      "F",
+      "C",
+      "Y"
+    ],
+    [
+      "E",
+      "V",
+      "N",
+      "L",
+      "K",
+      "F",
+      "W",
+      "X",
+      "K",
+      "R"
+    ],
+    [
+      "T",
+      "S",
+      "H",
+      "O",
+      "R",
+      "E",
+      "T",
+      "X",
+      "E",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SHORE",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BEACH",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "ISLE",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "REEF",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CAVE",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "BOAT",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "DOCK",
+      "row": 5,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "TIDE",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "WAVE",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "BAY",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8681
+}

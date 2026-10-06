@@ -1,0 +1,284 @@
+{
+  "id": "breakfast-medium-02",
+  "slug": "breakfast-medium-02",
+  "themeId": "breakfast",
+  "title": "Breakfast: Slow Table",
+  "primaryKeyword": "breakfast word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BACON",
+    "CROISSANT",
+    "DANISH",
+    "DAWN",
+    "FRITTATA",
+    "GRAPEFRUIT",
+    "HASH",
+    "MARMALADE",
+    "NAPKIN",
+    "PASTRY",
+    "POTATO",
+    "SAUSAGE",
+    "TRAY",
+    "WAFFLE"
+  ],
+  "grid": [
+    [
+      "I",
+      "S",
+      "K",
+      "S",
+      "P",
+      "A",
+      "S",
+      "T",
+      "R",
+      "Y",
+      "R",
+      "D"
+    ],
+    [
+      "X",
+      "W",
+      "N",
+      "D",
+      "A",
+      "W",
+      "N",
+      "H",
+      "H",
+      "C",
+      "Q",
+      "A"
+    ],
+    [
+      "M",
+      "S",
+      "A",
+      "U",
+      "S",
+      "A",
+      "G",
+      "E",
+      "I",
+      "R",
+      "N",
+      "N"
+    ],
+    [
+      "H",
+      "A",
+      "L",
+      "P",
+      "F",
+      "J",
+      "L",
+      "K",
+      "F",
+      "O",
+      "A",
+      "I"
+    ],
+    [
+      "A",
+      "T",
+      "R",
+      "G",
+      "O",
+      "F",
+      "K",
+      "A",
+      "O",
+      "I",
+      "P",
+      "S"
+    ],
+    [
+      "S",
+      "J",
+      "T",
+      "M",
+      "F",
+      "T",
+      "T",
+      "X",
+      "B",
+      "S",
+      "K",
+      "H"
+    ],
+    [
+      "H",
+      "C",
+      "G",
+      "A",
+      "A",
+      "A",
+      "A",
+      "A",
+      "A",
+      "S",
+      "I",
+      "L"
+    ],
+    [
+      "D",
+      "P",
+      "W",
+      "Q",
+      "T",
+      "L",
+      "Y",
+      "T",
+      "C",
+      "A",
+      "N",
+      "H"
+    ],
+    [
+      "O",
+      "E",
+      "G",
+      "T",
+      "V",
+      "R",
+      "A",
+      "D",
+      "O",
+      "N",
+      "E",
+      "A"
+    ],
+    [
+      "Y",
+      "I",
+      "I",
+      "J",
+      "I",
+      "P",
+      "A",
+      "D",
+      "N",
+      "T",
+      "U",
+      "J"
+    ],
+    [
+      "Z",
+      "R",
+      "H",
+      "H",
+      "K",
+      "O",
+      "Z",
+      "Y",
+      "E",
+      "M",
+      "F",
+      "Q"
+    ],
+    [
+      "F",
+      "G",
+      "R",
+      "A",
+      "P",
+      "E",
+      "F",
+      "R",
+      "U",
+      "I",
+      "T",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "GRAPEFRUIT",
+      "row": 11,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CROISSANT",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "MARMALADE",
+      "row": 2,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "FRITTATA",
+      "row": 11,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "SAUSAGE",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "WAFFLE",
+      "row": 7,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "PASTRY",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "DANISH",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "POTATO",
+      "row": 3,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "NAPKIN",
+      "row": 2,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "BACON",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "HASH",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "TRAY",
+      "row": 7,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "DAWN",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7124
+}

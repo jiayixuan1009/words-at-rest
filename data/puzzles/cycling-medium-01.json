@@ -1,0 +1,284 @@
+{
+  "id": "cycling-medium-01",
+  "slug": "cycling-medium-01",
+  "themeId": "cycling",
+  "title": "Cycling: Gear Climb",
+  "primaryKeyword": "cycling word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BOTTLE",
+    "DESCENT",
+    "GLOVE",
+    "HANDLE",
+    "HELMET",
+    "MAP",
+    "MARKER",
+    "PATCH",
+    "PUMP",
+    "REPAIR",
+    "ROUTE",
+    "SADDLE",
+    "SPRINT",
+    "TRAIL"
+  ],
+  "grid": [
+    [
+      "X",
+      "N",
+      "R",
+      "G",
+      "O",
+      "Q",
+      "T",
+      "R",
+      "A",
+      "I",
+      "L",
+      "Y"
+    ],
+    [
+      "P",
+      "R",
+      "E",
+      "P",
+      "A",
+      "I",
+      "R",
+      "F",
+      "G",
+      "M",
+      "F",
+      "H"
+    ],
+    [
+      "U",
+      "Z",
+      "X",
+      "P",
+      "E",
+      "Z",
+      "H",
+      "A",
+      "N",
+      "D",
+      "L",
+      "E"
+    ],
+    [
+      "M",
+      "Z",
+      "V",
+      "A",
+      "W",
+      "O",
+      "K",
+      "C",
+      "M",
+      "J",
+      "C",
+      "I"
+    ],
+    [
+      "P",
+      "U",
+      "G",
+      "T",
+      "D",
+      "E",
+      "S",
+      "C",
+      "E",
+      "N",
+      "T",
+      "S"
+    ],
+    [
+      "H",
+      "P",
+      "P",
+      "C",
+      "I",
+      "E",
+      "G",
+      "T",
+      "M",
+      "Q",
+      "H",
+      "P"
+    ],
+    [
+      "X",
+      "V",
+      "P",
+      "H",
+      "C",
+      "C",
+      "I",
+      "B",
+      "V",
+      "G",
+      "E",
+      "R"
+    ],
+    [
+      "M",
+      "A",
+      "R",
+      "K",
+      "E",
+      "R",
+      "O",
+      "O",
+      "E",
+      "L",
+      "L",
+      "I"
+    ],
+    [
+      "M",
+      "W",
+      "V",
+      "K",
+      "X",
+      "F",
+      "H",
+      "T",
+      "P",
+      "O",
+      "M",
+      "N"
+    ],
+    [
+      "R",
+      "O",
+      "U",
+      "T",
+      "E",
+      "P",
+      "N",
+      "T",
+      "B",
+      "V",
+      "E",
+      "T"
+    ],
+    [
+      "K",
+      "C",
+      "D",
+      "S",
+      "A",
+      "D",
+      "D",
+      "L",
+      "E",
+      "E",
+      "T",
+      "J"
+    ],
+    [
+      "Q",
+      "A",
+      "E",
+      "X",
+      "A",
+      "N",
+      "B",
+      "E",
+      "D",
+      "G",
+      "D",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "DESCENT",
+      "row": 4,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "HANDLE",
+      "row": 2,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "SADDLE",
+      "row": 10,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "HELMET",
+      "row": 5,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "BOTTLE",
+      "row": 6,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SPRINT",
+      "row": 4,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "MARKER",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "REPAIR",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "GLOVE",
+      "row": 6,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "TRAIL",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "ROUTE",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "PATCH",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "PUMP",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "MAP",
+      "row": 8,
+      "col": 0,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8653
+}

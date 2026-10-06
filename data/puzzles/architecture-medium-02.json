@@ -1,0 +1,284 @@
+{
+  "id": "architecture-medium-02",
+  "slug": "architecture-medium-02",
+  "themeId": "architecture",
+  "title": "Architecture: Plaza Walk",
+  "primaryKeyword": "architecture word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "APSE",
+    "CLOISTER",
+    "CONCRETE",
+    "DESIGN",
+    "FOUNDATION",
+    "GLASS",
+    "MODEL",
+    "NAVE",
+    "PLAZA",
+    "PORTICO",
+    "SCALE",
+    "SKETCH",
+    "STEEL",
+    "VAULT"
+  ],
+  "grid": [
+    [
+      "I",
+      "R",
+      "S",
+      "K",
+      "E",
+      "T",
+      "C",
+      "H",
+      "Z",
+      "D",
+      "V",
+      "M"
+    ],
+    [
+      "V",
+      "V",
+      "A",
+      "U",
+      "L",
+      "T",
+      "V",
+      "C",
+      "S",
+      "E",
+      "Q",
+      "W"
+    ],
+    [
+      "F",
+      "C",
+      "L",
+      "O",
+      "I",
+      "S",
+      "T",
+      "E",
+      "R",
+      "S",
+      "A",
+      "S"
+    ],
+    [
+      "M",
+      "O",
+      "Z",
+      "X",
+      "U",
+      "C",
+      "R",
+      "N",
+      "W",
+      "I",
+      "P",
+      "M"
+    ],
+    [
+      "C",
+      "E",
+      "U",
+      "V",
+      "W",
+      "N",
+      "I",
+      "A",
+      "G",
+      "G",
+      "S",
+      "O"
+    ],
+    [
+      "L",
+      "O",
+      "P",
+      "N",
+      "W",
+      "Q",
+      "T",
+      "V",
+      "L",
+      "N",
+      "E",
+      "D"
+    ],
+    [
+      "J",
+      "N",
+      "N",
+      "O",
+      "D",
+      "T",
+      "Q",
+      "E",
+      "A",
+      "G",
+      "G",
+      "E"
+    ],
+    [
+      "U",
+      "V",
+      "S",
+      "C",
+      "R",
+      "A",
+      "L",
+      "Q",
+      "S",
+      "Y",
+      "O",
+      "L"
+    ],
+    [
+      "U",
+      "Z",
+      "B",
+      "C",
+      "R",
+      "T",
+      "T",
+      "K",
+      "S",
+      "K",
+      "Z",
+      "P"
+    ],
+    [
+      "P",
+      "L",
+      "A",
+      "Z",
+      "A",
+      "E",
+      "I",
+      "I",
+      "F",
+      "K",
+      "M",
+      "D"
+    ],
+    [
+      "N",
+      "A",
+      "K",
+      "Z",
+      "K",
+      "L",
+      "T",
+      "C",
+      "O",
+      "Y",
+      "W",
+      "V"
+    ],
+    [
+      "N",
+      "S",
+      "T",
+      "E",
+      "E",
+      "L",
+      "E",
+      "E",
+      "O",
+      "N",
+      "X",
+      "S"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FOUNDATION",
+      "row": 2,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "CONCRETE",
+      "row": 4,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "CLOISTER",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PORTICO",
+      "row": 5,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "SKETCH",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "DESIGN",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "GLASS",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "STEEL",
+      "row": 11,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "MODEL",
+      "row": 3,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "SCALE",
+      "row": 7,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "VAULT",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PLAZA",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "NAVE",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "APSE",
+      "row": 2,
+      "col": 10,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8674
+}

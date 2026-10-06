@@ -1,0 +1,284 @@
+{
+  "id": "human-body-medium-01",
+  "slug": "human-body-medium-01",
+  "themeId": "human-body",
+  "title": "Human Body: Joint Study",
+  "primaryKeyword": "human body word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ANKLE",
+    "BRAIN",
+    "ELBOW",
+    "FINGER",
+    "JOINT",
+    "KIDNEY",
+    "LIVER",
+    "MUSCLE",
+    "NERVE",
+    "SHOULDER",
+    "SKULL",
+    "SPINE",
+    "STOMACH",
+    "WRIST"
+  ],
+  "grid": [
+    [
+      "S",
+      "D",
+      "E",
+      "L",
+      "B",
+      "O",
+      "W",
+      "W",
+      "J",
+      "A",
+      "B",
+      "J"
+    ],
+    [
+      "K",
+      "F",
+      "G",
+      "V",
+      "U",
+      "S",
+      "B",
+      "R",
+      "S",
+      "N",
+      "S",
+      "J"
+    ],
+    [
+      "U",
+      "N",
+      "S",
+      "Y",
+      "F",
+      "H",
+      "V",
+      "I",
+      "P",
+      "K",
+      "M",
+      "E"
+    ],
+    [
+      "L",
+      "E",
+      "J",
+      "Y",
+      "F",
+      "O",
+      "E",
+      "S",
+      "I",
+      "L",
+      "Y",
+      "I"
+    ],
+    [
+      "L",
+      "R",
+      "J",
+      "B",
+      "O",
+      "U",
+      "B",
+      "T",
+      "N",
+      "E",
+      "B",
+      "X"
+    ],
+    [
+      "K",
+      "V",
+      "O",
+      "K",
+      "Z",
+      "L",
+      "R",
+      "B",
+      "E",
+      "E",
+      "H",
+      "S"
+    ],
+    [
+      "M",
+      "E",
+      "I",
+      "I",
+      "I",
+      "D",
+      "A",
+      "U",
+      "Z",
+      "F",
+      "R",
+      "T"
+    ],
+    [
+      "U",
+      "T",
+      "N",
+      "D",
+      "L",
+      "E",
+      "I",
+      "E",
+      "W",
+      "E",
+      "B",
+      "O"
+    ],
+    [
+      "S",
+      "P",
+      "T",
+      "N",
+      "I",
+      "R",
+      "N",
+      "G",
+      "G",
+      "O",
+      "X",
+      "M"
+    ],
+    [
+      "C",
+      "W",
+      "R",
+      "E",
+      "V",
+      "A",
+      "Y",
+      "N",
+      "N",
+      "E",
+      "H",
+      "A"
+    ],
+    [
+      "L",
+      "R",
+      "U",
+      "Y",
+      "E",
+      "E",
+      "I",
+      "E",
+      "E",
+      "N",
+      "W",
+      "C"
+    ],
+    [
+      "E",
+      "H",
+      "V",
+      "I",
+      "R",
+      "F",
+      "Z",
+      "T",
+      "D",
+      "C",
+      "V",
+      "H"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SHOULDER",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "STOMACH",
+      "row": 5,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "FINGER",
+      "row": 11,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "KIDNEY",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "MUSCLE",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "ELBOW",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "WRIST",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "ANKLE",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SPINE",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "SKULL",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "LIVER",
+      "row": 7,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "BRAIN",
+      "row": 4,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "NERVE",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "JOINT",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8033
+}

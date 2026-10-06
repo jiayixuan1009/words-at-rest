@@ -1,0 +1,284 @@
+{
+  "id": "mindfulness-medium-02",
+  "slug": "mindfulness-medium-02",
+  "themeId": "mindfulness",
+  "title": "Mindfulness: Soft Focus",
+  "primaryKeyword": "mindfulness word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ANCHOR",
+    "CLOUD",
+    "EASE",
+    "EXHALE",
+    "GROUND",
+    "INHALE",
+    "LIGHT",
+    "PEACE",
+    "RELAX",
+    "RELEASE",
+    "SETTLE",
+    "SILENCE",
+    "STRETCH",
+    "WATER"
+  ],
+  "grid": [
+    [
+      "D",
+      "S",
+      "M",
+      "E",
+      "R",
+      "E",
+      "K",
+      "A",
+      "O",
+      "I",
+      "D",
+      "E"
+    ],
+    [
+      "U",
+      "T",
+      "U",
+      "W",
+      "A",
+      "E",
+      "Q",
+      "J",
+      "F",
+      "H",
+      "S",
+      "B"
+    ],
+    [
+      "T",
+      "R",
+      "A",
+      "S",
+      "M",
+      "S",
+      "L",
+      "S",
+      "P",
+      "A",
+      "E",
+      "O"
+    ],
+    [
+      "C",
+      "E",
+      "N",
+      "W",
+      "I",
+      "L",
+      "E",
+      "A",
+      "E",
+      "W",
+      "E",
+      "V"
+    ],
+    [
+      "E",
+      "T",
+      "C",
+      "Y",
+      "G",
+      "L",
+      "I",
+      "L",
+      "X",
+      "D",
+      "P",
+      "U"
+    ],
+    [
+      "X",
+      "C",
+      "H",
+      "W",
+      "R",
+      "U",
+      "E",
+      "G",
+      "Q",
+      "W",
+      "A",
+      "N"
+    ],
+    [
+      "H",
+      "H",
+      "O",
+      "A",
+      "O",
+      "R",
+      "I",
+      "N",
+      "H",
+      "A",
+      "L",
+      "E"
+    ],
+    [
+      "A",
+      "B",
+      "R",
+      "T",
+      "U",
+      "P",
+      "A",
+      "M",
+      "C",
+      "T",
+      "M",
+      "P"
+    ],
+    [
+      "L",
+      "W",
+      "V",
+      "E",
+      "N",
+      "P",
+      "N",
+      "Z",
+      "H",
+      "E",
+      "Y",
+      "T"
+    ],
+    [
+      "E",
+      "A",
+      "O",
+      "R",
+      "D",
+      "E",
+      "M",
+      "C",
+      "L",
+      "O",
+      "U",
+      "D"
+    ],
+    [
+      "P",
+      "Y",
+      "V",
+      "O",
+      "N",
+      "W",
+      "P",
+      "E",
+      "A",
+      "C",
+      "E",
+      "T"
+    ],
+    [
+      "K",
+      "J",
+      "X",
+      "D",
+      "S",
+      "E",
+      "T",
+      "T",
+      "L",
+      "E",
+      "A",
+      "J"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "STRETCH",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "RELEASE",
+      "row": 6,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "SILENCE",
+      "row": 2,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "SETTLE",
+      "row": 11,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "ANCHOR",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "INHALE",
+      "row": 6,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "EXHALE",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "GROUND",
+      "row": 4,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "RELAX",
+      "row": 0,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "PEACE",
+      "row": 10,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "LIGHT",
+      "row": 3,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "CLOUD",
+      "row": 9,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "WATER",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "EASE",
+      "row": 0,
+      "col": 3,
+      "direction": "SE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8234
+}

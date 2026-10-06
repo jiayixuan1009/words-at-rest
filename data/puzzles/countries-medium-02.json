@@ -1,0 +1,284 @@
+{
+  "id": "countries-medium-02",
+  "slug": "countries-medium-02",
+  "themeId": "countries",
+  "title": "Countries: Atlas Tour",
+  "primaryKeyword": "countries word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BELGIUM",
+    "BORDER",
+    "CANADA",
+    "CHILE",
+    "COAST",
+    "ENGLAND",
+    "FRANCE",
+    "ISLAND",
+    "JAPAN",
+    "NATION",
+    "RUSSIA",
+    "SCOTLAND",
+    "SPAIN",
+    "VALLEY"
+  ],
+  "grid": [
+    [
+      "G",
+      "H",
+      "F",
+      "R",
+      "A",
+      "N",
+      "C",
+      "E",
+      "C",
+      "F",
+      "Z",
+      "O"
+    ],
+    [
+      "D",
+      "T",
+      "C",
+      "W",
+      "M",
+      "W",
+      "A",
+      "J",
+      "A",
+      "P",
+      "A",
+      "N"
+    ],
+    [
+      "M",
+      "J",
+      "H",
+      "B",
+      "H",
+      "I",
+      "R",
+      "T",
+      "H",
+      "L",
+      "B",
+      "W"
+    ],
+    [
+      "C",
+      "E",
+      "I",
+      "N",
+      "J",
+      "C",
+      "I",
+      "V",
+      "I",
+      "W",
+      "I",
+      "M"
+    ],
+    [
+      "A",
+      "U",
+      "L",
+      "R",
+      "U",
+      "S",
+      "S",
+      "I",
+      "A",
+      "O",
+      "U",
+      "Y"
+    ],
+    [
+      "N",
+      "X",
+      "E",
+      "V",
+      "A",
+      "L",
+      "L",
+      "E",
+      "Y",
+      "I",
+      "N",
+      "B"
+    ],
+    [
+      "A",
+      "E",
+      "S",
+      "P",
+      "A",
+      "I",
+      "N",
+      "D",
+      "G",
+      "F",
+      "S",
+      "O"
+    ],
+    [
+      "D",
+      "C",
+      "G",
+      "S",
+      "C",
+      "O",
+      "T",
+      "L",
+      "A",
+      "N",
+      "D",
+      "R"
+    ],
+    [
+      "A",
+      "C",
+      "O",
+      "A",
+      "S",
+      "T",
+      "E",
+      "V",
+      "A",
+      "L",
+      "P",
+      "D"
+    ],
+    [
+      "C",
+      "R",
+      "F",
+      "L",
+      "G",
+      "B",
+      "F",
+      "Y",
+      "P",
+      "H",
+      "L",
+      "E"
+    ],
+    [
+      "P",
+      "A",
+      "M",
+      "Q",
+      "E",
+      "N",
+      "G",
+      "L",
+      "A",
+      "N",
+      "D",
+      "R"
+    ],
+    [
+      "O",
+      "O",
+      "I",
+      "G",
+      "H",
+      "I",
+      "S",
+      "L",
+      "A",
+      "N",
+      "D",
+      "V"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SCOTLAND",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "ENGLAND",
+      "row": 10,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BELGIUM",
+      "row": 9,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "RUSSIA",
+      "row": 4,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "NATION",
+      "row": 0,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "BORDER",
+      "row": 5,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "ISLAND",
+      "row": 11,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "VALLEY",
+      "row": 5,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "FRANCE",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CANADA",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "COAST",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SPAIN",
+      "row": 6,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "JAPAN",
+      "row": 1,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "CHILE",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8414
+}

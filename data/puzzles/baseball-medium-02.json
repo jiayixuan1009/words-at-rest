@@ -1,0 +1,284 @@
+{
+  "id": "baseball-medium-02",
+  "slug": "baseball-medium-02",
+  "themeId": "baseball",
+  "title": "Baseball: Pitch & Swing",
+  "primaryKeyword": "baseball word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BALLFOUR",
+    "BULLPEN",
+    "BUNT",
+    "CURVE",
+    "FASTBALL",
+    "FORCE",
+    "HOMERUN",
+    "INFIELD",
+    "OUTFIELD",
+    "RELAY",
+    "SCOREBOOK",
+    "SHORTSTOP",
+    "SLIDER",
+    "STEAL"
+  ],
+  "grid": [
+    [
+      "M",
+      "V",
+      "Q",
+      "I",
+      "S",
+      "Z",
+      "N",
+      "K",
+      "I",
+      "G",
+      "T",
+      "J"
+    ],
+    [
+      "F",
+      "X",
+      "Z",
+      "Y",
+      "C",
+      "S",
+      "T",
+      "E",
+      "A",
+      "L",
+      "N",
+      "K"
+    ],
+    [
+      "M",
+      "A",
+      "G",
+      "G",
+      "O",
+      "H",
+      "O",
+      "M",
+      "E",
+      "R",
+      "U",
+      "N"
+    ],
+    [
+      "U",
+      "C",
+      "S",
+      "Y",
+      "R",
+      "I",
+      "N",
+      "F",
+      "I",
+      "E",
+      "L",
+      "D"
+    ],
+    [
+      "H",
+      "R",
+      "L",
+      "T",
+      "E",
+      "C",
+      "U",
+      "R",
+      "V",
+      "E",
+      "O",
+      "B"
+    ],
+    [
+      "H",
+      "E",
+      "I",
+      "D",
+      "B",
+      "F",
+      "M",
+      "H",
+      "S",
+      "D",
+      "U",
+      "A"
+    ],
+    [
+      "U",
+      "L",
+      "D",
+      "X",
+      "O",
+      "A",
+      "F",
+      "I",
+      "W",
+      "U",
+      "T",
+      "L"
+    ],
+    [
+      "W",
+      "A",
+      "E",
+      "H",
+      "O",
+      "L",
+      "L",
+      "A",
+      "L",
+      "O",
+      "F",
+      "L"
+    ],
+    [
+      "B",
+      "Y",
+      "R",
+      "Z",
+      "K",
+      "P",
+      "G",
+      "L",
+      "X",
+      "Z",
+      "I",
+      "F"
+    ],
+    [
+      "U",
+      "S",
+      "H",
+      "O",
+      "R",
+      "T",
+      "S",
+      "T",
+      "O",
+      "P",
+      "E",
+      "O"
+    ],
+    [
+      "N",
+      "F",
+      "O",
+      "R",
+      "C",
+      "E",
+      "E",
+      "H",
+      "A",
+      "A",
+      "L",
+      "U"
+    ],
+    [
+      "T",
+      "W",
+      "G",
+      "B",
+      "U",
+      "L",
+      "L",
+      "P",
+      "E",
+      "N",
+      "D",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SHORTSTOP",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SCOREBOOK",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "FASTBALL",
+      "row": 1,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "BALLFOUR",
+      "row": 4,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "OUTFIELD",
+      "row": 4,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "HOMERUN",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "BULLPEN",
+      "row": 11,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "INFIELD",
+      "row": 3,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SLIDER",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "CURVE",
+      "row": 4,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "STEAL",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "FORCE",
+      "row": 10,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "RELAY",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "BUNT",
+      "row": 8,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6024
+}

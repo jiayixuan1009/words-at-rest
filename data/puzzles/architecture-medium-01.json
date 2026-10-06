@@ -1,0 +1,284 @@
+{
+  "id": "architecture-medium-01",
+  "slug": "architecture-medium-01",
+  "themeId": "architecture",
+  "title": "Architecture: Beam Plan",
+  "primaryKeyword": "architecture word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ATRIUM",
+    "BALCONY",
+    "CEILING",
+    "CORNICE",
+    "COURT",
+    "EAVES",
+    "FACADE",
+    "GABLE",
+    "JOIST",
+    "MOLDING",
+    "PILLAR",
+    "SPIRE",
+    "TIMBER",
+    "TRUSS"
+  ],
+  "grid": [
+    [
+      "Y",
+      "S",
+      "B",
+      "U",
+      "J",
+      "D",
+      "A",
+      "C",
+      "O",
+      "U",
+      "R",
+      "T"
+    ],
+    [
+      "J",
+      "P",
+      "C",
+      "O",
+      "R",
+      "N",
+      "I",
+      "C",
+      "E",
+      "V",
+      "I",
+      "J"
+    ],
+    [
+      "F",
+      "I",
+      "M",
+      "C",
+      "M",
+      "O",
+      "L",
+      "D",
+      "I",
+      "N",
+      "G",
+      "O"
+    ],
+    [
+      "T",
+      "R",
+      "U",
+      "S",
+      "S",
+      "R",
+      "Y",
+      "X",
+      "G",
+      "S",
+      "A",
+      "I"
+    ],
+    [
+      "F",
+      "E",
+      "G",
+      "Z",
+      "A",
+      "D",
+      "U",
+      "C",
+      "E",
+      "A",
+      "T",
+      "S"
+    ],
+    [
+      "F",
+      "Q",
+      "A",
+      "L",
+      "B",
+      "S",
+      "Q",
+      "D",
+      "I",
+      "G",
+      "R",
+      "T"
+    ],
+    [
+      "H",
+      "B",
+      "L",
+      "V",
+      "C",
+      "A",
+      "A",
+      "Y",
+      "R",
+      "A",
+      "I",
+      "J"
+    ],
+    [
+      "Y",
+      "I",
+      "R",
+      "T",
+      "E",
+      "C",
+      "L",
+      "E",
+      "N",
+      "B",
+      "U",
+      "T"
+    ],
+    [
+      "P",
+      "I",
+      "L",
+      "V",
+      "A",
+      "S",
+      "B",
+      "C",
+      "V",
+      "L",
+      "M",
+      "J"
+    ],
+    [
+      "Y",
+      "X",
+      "Y",
+      "F",
+      "K",
+      "M",
+      "X",
+      "R",
+      "O",
+      "E",
+      "W",
+      "B"
+    ],
+    [
+      "C",
+      "E",
+      "I",
+      "L",
+      "I",
+      "N",
+      "G",
+      "L",
+      "Q",
+      "N",
+      "O",
+      "Y"
+    ],
+    [
+      "O",
+      "O",
+      "O",
+      "T",
+      "E",
+      "C",
+      "G",
+      "P",
+      "J",
+      "F",
+      "Y",
+      "U"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CEILING",
+      "row": 10,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BALCONY",
+      "row": 5,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "CORNICE",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "MOLDING",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "PILLAR",
+      "row": 8,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "FACADE",
+      "row": 9,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "ATRIUM",
+      "row": 3,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "TIMBER",
+      "row": 11,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "JOIST",
+      "row": 1,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "TRUSS",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "COURT",
+      "row": 0,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "SPIRE",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "GABLE",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "EAVES",
+      "row": 4,
+      "col": 1,
+      "direction": "SE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8673
+}

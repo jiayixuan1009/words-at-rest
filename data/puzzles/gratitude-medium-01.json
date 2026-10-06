@@ -1,0 +1,284 @@
+{
+  "id": "gratitude-medium-01",
+  "slug": "gratitude-medium-01",
+  "themeId": "gratitude",
+  "title": "Gratitude: Shared Table",
+  "primaryKeyword": "gratitude word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BLESSING",
+    "COMFORT",
+    "EVENING",
+    "GRACE",
+    "GRATEFUL",
+    "LETTER",
+    "MEMORY",
+    "MORNING",
+    "PRAISE",
+    "SHARE",
+    "STORY",
+    "SUPPORT",
+    "THANKFUL",
+    "WARM"
+  ],
+  "grid": [
+    [
+      "Z",
+      "Z",
+      "Q",
+      "G",
+      "G",
+      "E",
+      "Y",
+      "L",
+      "L",
+      "Z",
+      "Q",
+      "I"
+    ],
+    [
+      "Y",
+      "S",
+      "T",
+      "S",
+      "R",
+      "E",
+      "U",
+      "E",
+      "K",
+      "Y",
+      "Q",
+      "A"
+    ],
+    [
+      "O",
+      "S",
+      "B",
+      "A",
+      "C",
+      "F",
+      "S",
+      "T",
+      "O",
+      "R",
+      "Y",
+      "S"
+    ],
+    [
+      "Z",
+      "I",
+      "H",
+      "A",
+      "K",
+      "M",
+      "Y",
+      "T",
+      "J",
+      "G",
+      "H",
+      "U"
+    ],
+    [
+      "A",
+      "S",
+      "R",
+      "N",
+      "R",
+      "U",
+      "M",
+      "E",
+      "O",
+      "Z",
+      "X",
+      "P"
+    ],
+    [
+      "P",
+      "G",
+      "A",
+      "A",
+      "H",
+      "Y",
+      "Z",
+      "R",
+      "X",
+      "W",
+      "E",
+      "P"
+    ],
+    [
+      "E",
+      "H",
+      "W",
+      "G",
+      "R",
+      "A",
+      "T",
+      "E",
+      "F",
+      "U",
+      "L",
+      "O"
+    ],
+    [
+      "T",
+      "E",
+      "M",
+      "O",
+      "R",
+      "N",
+      "I",
+      "N",
+      "G",
+      "B",
+      "Z",
+      "R"
+    ],
+    [
+      "U",
+      "X",
+      "M",
+      "E",
+      "C",
+      "O",
+      "M",
+      "F",
+      "O",
+      "R",
+      "T",
+      "T"
+    ],
+    [
+      "D",
+      "E",
+      "V",
+      "E",
+      "N",
+      "I",
+      "N",
+      "G",
+      "Y",
+      "I",
+      "W",
+      "A"
+    ],
+    [
+      "M",
+      "Y",
+      "P",
+      "R",
+      "A",
+      "I",
+      "S",
+      "E",
+      "M",
+      "X",
+      "A",
+      "I"
+    ],
+    [
+      "N",
+      "X",
+      "B",
+      "L",
+      "E",
+      "S",
+      "S",
+      "I",
+      "N",
+      "G",
+      "H",
+      "X"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "THANKFUL",
+      "row": 7,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "GRATEFUL",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BLESSING",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "MORNING",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "EVENING",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "COMFORT",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SUPPORT",
+      "row": 2,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "PRAISE",
+      "row": 10,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "MEMORY",
+      "row": 10,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "LETTER",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "STORY",
+      "row": 2,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "SHARE",
+      "row": 4,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "GRACE",
+      "row": 5,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "WARM",
+      "row": 6,
+      "col": 2,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8223
+}

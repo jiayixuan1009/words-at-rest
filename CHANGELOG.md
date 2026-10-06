@@ -1,9 +1,9 @@
 # 更新日志（Changelog）
 
 本文件格式参考 [Keep a Changelog](https://keepachangelog.com/zh-CN/1.1.0/)。日期为 commit 时间（Asia/Shanghai，UTC+8）。  
-项目尚未打版本号，按日期 + commit 记录。完整产品说明 `docs/PRODUCT.md` 与后续计划 `docs/ROADMAP.md` 目前在分支 `subthemes-wave1`（`86de8e3`），尚未合入 master。
+项目尚未打版本号，按日期 + commit 记录。完整产品说明见 [`docs/PRODUCT.md`](docs/PRODUCT.md)，后续计划见 [`docs/ROADMAP.md`](docs/ROADMAP.md)。
 
-规模速查（主题 / 谜题）：`95609a5` 3 / 7 → `31aaf1b` 15 / 40 → `c46b10c` 16 / 46（当前线上 master）→ `0b358cc` 20 / 70 → `6ddb57c` 32 / 142。
+规模速查（主题 / 谜题）：`95609a5` 3 / 7 → `31aaf1b` 15 / 40 → `c46b10c` / `de568d3` 16 / 46 → Package B **32 / 142** → Wave C **47 / 232** → Wave D **62 / 322** → Wave E **77 / 412** → Wave F **92 / 502** → Wave G **102 / 605**（朝 ~1000）。
 
 ---
 
@@ -14,6 +14,62 @@
 - 完成态统一为词表旁的简洁完成卡片与下一题入口，增加一次网格光晕；不移动字母或改变格子尺寸，不阻止连续输入，无自动音效或粒子。
 - 动效只针对本次新找到的词；恢复进度不重播，重复词不加分/重播，Reset及卸载清理反馈定时器。支持prefers-reduced-motion，打印时隐藏动效装饰。
 - 验证：typecheck、691处合法选词与Daily回归、生产构建通过；浏览器键盘连续完成10/10，多个成功反馈并行；指针首尾、错误选区、重复词、恢复无动画、Reset清理、下一题及320px Larger无溢出通过；减少动态的CSS覆盖已确认，无浏览器error日志。说明见 `docs/PUZZLE-FEEDBACK.md`。
+## 2026-10-07 — Wave G（新主题 + 高流量加深，已部署）
+
+### 新增 — Wave G（+10 主题 / +103 谜题）
+- **新主题（各 6）：** sewing、quilting、swimming、hiking、cycling、geology、architecture、islands、emotions、photography。
+- **加深既有 hub（+43）：** halloween / christmas / fall / animals / food / sports / ocean / garden 各 +4；bible +3；thanksgiving / winter 各 +2；large-print-pack +4。新词表与网格，不覆盖旧题。
+- **规模：** 主题 92→**102**，谜题 502→**605**（朝 ~1000）。
+- **Deploy:** Worker version `a48dbe45` → wordsatrest.com（account `b79c11a97188ceeb150acb0b6c4cda97`）。
+
+## 2026-10-07 — Wave F（地理/手作/庆典/科学神话/地貌/博物馆，已部署）
+
+### 新增 — Wave F 批量内容（+15 主题 / +90 谜题）
+- 主题：countries、continents、cities、knitting、reading、painting、birthday、wedding、chemistry、mythology、volcanoes、forests、rivers、deserts、museums（各 6 题）。
+- mythology 仅通用神话名词，无影视游戏 IP；chemistry / money 类不做品牌与医疗建议。
+- `parentSlug`：forests → trees；rivers → lakes。
+- **规模：** 主题 77→**92**，谜题 412→**502**（朝 ~1000）。
+- **已部署：** Worker `words-at-rest` 版本 `7bbc1c6f-33f1-41f9-b47d-7a4ff4da959b`；commit `f7f574d`；sitemap ≈**612** `<loc>`；`llms.txt` 92/502。
+- **下一波建议（Wave G）：** gardening-tools / sewing / quilting； swimming / hiking / cycling； astronomy（dup space skip）/ geology / weather-already； emotions / hobbies； architecture / buildings； islands / coasts； orthography skip；或给热门主题再各加 2–4 道变体谜题冲数量。
+
+
+## 2026-10-07 — Wave E（软主题 + 颜色/工具 + 球类 + 历史/科学 + 烹饪/购物，已部署）
+
+### 新增 — Wave E 批量内容（+15 主题 / +90 谜题）
+- 对齐竞品主题名；自写词表与网格；不做具名 IP / 俱乐部 / 银行品牌。
+- **主题：** kindness、gratitude、mindfulness、colors、tools、soccer、basketball、american-history、presidents、dinosaurs、insects、reptiles、cooking、shopping、money（各 6 题）。
+- `parentSlug`：soccer/basketball → sports；reptiles → animals；cooking → food。
+- 封面 / OG 暂借邻近主题图。
+- **规模：** 主题 62→**77**，谜题 322→**412**（朝 ~1000）。
+- **已部署：** Worker `words-at-rest` 版本 `395dc560-0c80-45f1-875f-519f6230715f`；commit `35b33b4`；sitemap ≈**507** `<loc>`；`llms.txt` 77/412。
+- **下一波建议（Wave F）：** countries / continents / cities； knitting / reading / painting； birthday / wedding； chemistry / mythology / volcanoes / forests；或加厚偏薄 hub + 专属封面。
+
+
+## 2026-10-07 — Wave D（地理/教育 + 户外/交通 + 软主题，已部署）
+
+### 新增 — Wave D 批量内容（+15 主题 / +90 谜题）
+- 对齐竞品公开主题目录（地理、人体、露营、交通、农场、湖山、学校、职业、友谊等 **主题名**），自写词表与网格。
+- **主题：** us-states、world-capitals、human-body、camping、horses、cars、trains、airplanes、farming、beach、mountains、lakes、school、jobs、friendship（各 6 题）。
+- `parentSlug`：horses → animals；beach → ocean。
+- 封面 / OG 暂借 travel / ocean / fall / animals / space / garden / bible / valentines。
+- **规模：** 主题 47→**62**，谜题 232→**322**（朝 ~1000）。
+- **已部署：** Worker `words-at-rest` 版本 `dc80faf2-31e1-4d72-9de2-2ccd29122285`；commit `c85285b`；sitemap ≈**402** `<loc>`；`llms.txt` 62/322。
+- **下一波建议（Wave E）：** kindness / gratitude / mindfulness；colors / shapes；tools / gardening-tools；soccer / basketball；history（american-history / presidents）；或加厚偏薄 hub + 专属封面。
+
+
+## 2026-10-07 — Wave C（节日二波 + 厨房/自然，已部署）
+
+### 新增 — Wave C 批量内容（+15 主题 / +90 谜题）
+- 对齐竞品公开主题目录（purewordsearch / thewordsearch 等 **主题名**），自写词表与网格，不整页照搬。
+- **节日 / 季节：** new-year、st-patricks、mothers-day、fathers-day、independence-day、spring、summer（各 6 题：2 easy / 2 medium / 1 hard / 1 large）。
+- **厨房 / 自然：** vegetables、breakfast、coffee-tea、kitchen、birds、flowers、trees、weather（各 6 题）。
+- `parentSlug`：vegetables/breakfast → food；birds → animals；flowers/trees → garden。
+- `/holidays` 扩展为 11 个季节主题；`llms.txt`、主题索引页文案同步。
+- 封面 / OG 暂借邻近主题图（见 `lib/images.ts` Wave C 注释）；难度图回退主题封面。
+- **规模：** 主题 32→**47**，谜题 142→**232**（朝 ~1000 分波推进）。
+- **已部署：** Worker `words-at-rest` 版本 `d609cf06-ecfb-42f4-b4be-cd79afc2296f`；commit `96f2c0e`；正式域名复验 sitemap **297** `<loc>`，`llms.txt` 47/232；15 个新 hub 与抽样谜题 200；GA 默认 HTML 无 gtag；页眉仍 4 项。
+- **下一波建议（Wave D）：** 地理/教育长尾（us-states、world-capitals、human-body、camping、horses）或给偏薄主题 hub 加厚文案 + 专属封面；继续少功能、多内容。
+
 
 ### 发布 — 全站审计优先整改（2026-10-07，UTC+8）
 - [PR #1](https://github.com/jiayixuan1009/words-at-rest/pull/1) 已合并；生产源代码为 master `ebcf70a`，原整改提交 `8f9dfd5`。
@@ -40,17 +96,19 @@
 - F03：网格单一 Tab 入口、方向键/Home/End移动、Enter/Space选首尾、Escape取消，行列与找到状态朗读；pointercancel只取消选择。
 - F13 / F07：完成态提供同难度下一题；游戏事件仅在接受分析且GA可用时发送。键盘与辅助技术全面验收仍待实机验证。
 
-### 新增 — 子主题 Wave 1（分支 `subthemes-wave1`，未推送、未部署）
-- `6ddb57c`（2026-10-06 13:04）Sports / Food / Music 拆出 12 个扁平子主题，每个 6 题：golf、baseball、tennis、fishing；baking、desserts、herbs、fruits；instruments、jazz、classical、music-terms。
-  - Theme 新增可选 `parentSlug`；父主题页加 "Explore …" 子主题卡片；面包屑 `Themes → 父 → 子`。
-  - 封面 / OG 暂用父主题图；出图需求 `design/SUBTHEME-IMAGE-REQUEST.md`；规划 `design/THEME-EXPANSION-PLAN.md` §15。
-- `a613061`（2026-10-06 13:04）从子主题提交中移除误纳入的难度图文档（当时属于并行工作）。
-- `86de8e3` 文档：`docs/PRODUCT.md`、`docs/ROADMAP.md`、`docs/README.md`、`CHANGELOG.md`；补入 `design/STRUCTURED-DATA-PLAN.md`、`design/DIFFICULTY-IMAGE-REQUEST.md`、`design/difficulty-image-manifest.csv`。
+### 发布 — Package B：节日 Wave 1 + 全部 12 个子主题（2026-10-07，UTC+8）
+- 用户确认方案 B（节日与 12 个子主题同批上线）。分支 `holidays-rebase`（worktree `/workspace/war-holidays`）基于 master `de568d3`。
+- **节日 Wave 1**（`e731b3f` ← `0b358cc`）：Thanksgiving、Winter、Valentine's Day、Easter，各 6 题；`/holidays` 汇总页；页脚入口；难度递进图已从 `design/pending-difficulty/` 接入 `public/images/themes/`（`DIFFICULTY_ART_THEMES`）。封面 / OG 暂借旧图。
+- **子主题 Wave 1**（`f46526d` ← `6ddb57c`）：Sports → golf / baseball / tennis / fishing；Food → baking / desserts / herbs / fruits；Music → instruments / jazz / classical / music-terms；各 6 题。`parentSlug`、父页 Explore 卡片、面包屑 Themes → 父 → 子。封面 / OG 暂用父主题图。
+- **文档**合入：`docs/PRODUCT.md`、`docs/ROADMAP.md`、`docs/README.md`、`design/STRUCTURED-DATA-PLAN.md`。
+- **导航：** 顶部仍 4 项（Daily / Themes / Large Print / How to Play）；Holidays 在页脚。
+- **规模：** 主题 16→**32**，谜题 46→**142**。`llms.txt` / sitemap 同步。
+- 本地验证（`holidays-rebase`）：typecheck、build、check-images（20 主题难度图）、check-jsonld、check-routes、daily:check、daily:test、`npm test`（142 catalog）均通过；预览 sitemap ≈192 `<loc>`。
+- **已部署：** Worker `words-at-rest` 版本 `a4473ae1-345a-4d06-9fe6-d50c330f45bc`，流量 100%；正式域名 `https://wordsatrest.com` 复验：`/holidays` 与 32 个主题 hub、抽样谜题 200；sitemap **191** `<loc>`；`llms.txt` 32 / 142；无效主题与未来 Daily 404+noindex；GA 默认 HTML 无 gtag（同意后才加载）；页脚 Holidays 入口在。
+- 回滚版本：`00f1fac4-8150-443b-a2de-48d0598e124c`（Package B 前的 audit 部署）。
 
-### 新增 — 节日 Wave 1（分支 `holidays-wave1`，未推送、未部署）
-- `0b358cc`（2026-10-06 12:58）Thanksgiving、Winter、Valentine's Day、Easter 四个主题，每个 6 题（Bible 模板）；新增 `/holidays` 汇总页；接入顶部导航、页脚、sitemap、`llms.txt`。
-  - 封面 / OG 暂借旧图（thanksgiving←fall、winter←christmas、valentines←food、easter←garden）；出图需求 `design/HOLIDAY-IMAGE-REQUEST.md`。
-  - 新增规划 `design/THEME-EXPANSION-PLAN.md`。
+
+- 规划：`design/THEME-EXPANSION-PLAN.md`；出图：`design/HOLIDAY-IMAGE-REQUEST.md`、`design/SUBTHEME-IMAGE-REQUEST.md`。
 
 ---
 
@@ -101,7 +159,7 @@
   - 显示位置：谜题列表卡片（主题页、`/difficulty/*`、相关谜题、首页、大字页）桌面端 112px 缩略图；谜题页网格下方 "About this puzzle" 配图。手机端均隐藏 + 懒加载，不下载；无跨路由预加载；首屏 LCP 图不变。
   - JSON-LD：Game `image` 首项为难度图（ImageObject 1200×900），其后为 OG 卡。
   - 新增 `scripts/check-images.mjs`：校验名单内每主题 3 难度 × 3 尺寸齐全、无未使用图。
-  - 节日主题（easter、thanksgiving、valentines、winter）原图暂存 `design/pending-difficulty/`，随 `holidays-wave1` 上线。
+  - 节日主题（easter、thanksgiving、valentines、winter）难度图已随 Package B 接入 `public/images/themes/`。
 
 ### 新增 — 信任元素（trust signals，2026-10-06 晚间部署）
 - `02ab749`（15:08）

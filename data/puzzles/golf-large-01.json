@@ -1,0 +1,173 @@
+{
+  "id": "golf-large-01",
+  "slug": "golf-large-01",
+  "themeId": "golf",
+  "title": "Large Print Golf: Quiet Green",
+  "primaryKeyword": "large print golf word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "CUP",
+    "FLAG",
+    "GREEN",
+    "HOLE",
+    "IRON",
+    "PAR",
+    "PUTT",
+    "TEE"
+  ],
+  "grid": [
+    [
+      "U",
+      "Z",
+      "T",
+      "B",
+      "G",
+      "I",
+      "R",
+      "O",
+      "N"
+    ],
+    [
+      "P",
+      "Y",
+      "S",
+      "Q",
+      "C",
+      "T",
+      "Q",
+      "B",
+      "N"
+    ],
+    [
+      "U",
+      "G",
+      "R",
+      "E",
+      "E",
+      "N",
+      "T",
+      "E",
+      "E"
+    ],
+    [
+      "T",
+      "N",
+      "T",
+      "D",
+      "Z",
+      "P",
+      "T",
+      "E",
+      "N"
+    ],
+    [
+      "T",
+      "H",
+      "O",
+      "L",
+      "E",
+      "B",
+      "O",
+      "H",
+      "B"
+    ],
+    [
+      "B",
+      "K",
+      "Q",
+      "K",
+      "C",
+      "P",
+      "Y",
+      "U",
+      "I"
+    ],
+    [
+      "U",
+      "W",
+      "L",
+      "P",
+      "N",
+      "A",
+      "D",
+      "C",
+      "J"
+    ],
+    [
+      "E",
+      "Q",
+      "H",
+      "H",
+      "N",
+      "R",
+      "F",
+      "U",
+      "M"
+    ],
+    [
+      "F",
+      "L",
+      "A",
+      "G",
+      "E",
+      "X",
+      "W",
+      "P",
+      "Q"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "GREEN",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PUTT",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "FLAG",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "IRON",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "HOLE",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TEE",
+      "row": 2,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "PAR",
+      "row": 5,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "CUP",
+      "row": 6,
+      "col": 7,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6016
+}

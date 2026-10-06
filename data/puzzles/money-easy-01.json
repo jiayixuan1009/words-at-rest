@@ -1,0 +1,208 @@
+{
+  "id": "money-easy-01",
+  "slug": "money-easy-01",
+  "themeId": "money",
+  "title": "Money: Coin Dish",
+  "primaryKeyword": "money word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BANK",
+    "BILL",
+    "CASH",
+    "CENT",
+    "COIN",
+    "COST",
+    "NOTE",
+    "PRICE",
+    "SAVE",
+    "WAGE"
+  ],
+  "grid": [
+    [
+      "O",
+      "N",
+      "R",
+      "P",
+      "T",
+      "F",
+      "F",
+      "H",
+      "L",
+      "A"
+    ],
+    [
+      "G",
+      "Q",
+      "R",
+      "R",
+      "F",
+      "W",
+      "L",
+      "O",
+      "S",
+      "C"
+    ],
+    [
+      "Y",
+      "K",
+      "O",
+      "I",
+      "P",
+      "W",
+      "C",
+      "W",
+      "B",
+      "P"
+    ],
+    [
+      "E",
+      "D",
+      "R",
+      "C",
+      "S",
+      "A",
+      "V",
+      "E",
+      "D",
+      "I"
+    ],
+    [
+      "O",
+      "P",
+      "L",
+      "E",
+      "S",
+      "C",
+      "O",
+      "S",
+      "T",
+      "B"
+    ],
+    [
+      "E",
+      "P",
+      "K",
+      "O",
+      "K",
+      "C",
+      "J",
+      "M",
+      "G",
+      "A"
+    ],
+    [
+      "B",
+      "I",
+      "L",
+      "L",
+      "U",
+      "A",
+      "C",
+      "F",
+      "N",
+      "N"
+    ],
+    [
+      "H",
+      "Q",
+      "R",
+      "U",
+      "E",
+      "S",
+      "E",
+      "K",
+      "O",
+      "K"
+    ],
+    [
+      "R",
+      "W",
+      "A",
+      "G",
+      "E",
+      "H",
+      "N",
+      "M",
+      "T",
+      "X"
+    ],
+    [
+      "S",
+      "J",
+      "C",
+      "O",
+      "I",
+      "N",
+      "T",
+      "O",
+      "E",
+      "O"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PRICE",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "CASH",
+      "row": 5,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "COIN",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BILL",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "NOTE",
+      "row": 6,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "CENT",
+      "row": 6,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "BANK",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SAVE",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "COST",
+      "row": 4,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "WAGE",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8351
+}

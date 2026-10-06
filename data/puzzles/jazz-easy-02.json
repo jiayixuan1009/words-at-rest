@@ -1,0 +1,208 @@
+{
+  "id": "jazz-easy-02",
+  "slug": "jazz-easy-02",
+  "themeId": "jazz",
+  "title": "Jazz: Small Combo",
+  "primaryKeyword": "jazz word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BASS",
+    "COMBO",
+    "DRUMS",
+    "GROOVE",
+    "LICK",
+    "PIANO",
+    "SAX",
+    "SCAT",
+    "VOCAL",
+    "WALK"
+  ],
+  "grid": [
+    [
+      "O",
+      "A",
+      "H",
+      "L",
+      "I",
+      "C",
+      "K",
+      "J",
+      "Z",
+      "E"
+    ],
+    [
+      "R",
+      "B",
+      "W",
+      "A",
+      "L",
+      "K",
+      "G",
+      "Q",
+      "J",
+      "G"
+    ],
+    [
+      "C",
+      "I",
+      "M",
+      "W",
+      "B",
+      "N",
+      "R",
+      "F",
+      "E",
+      "J"
+    ],
+    [
+      "A",
+      "D",
+      "S",
+      "S",
+      "A",
+      "X",
+      "O",
+      "O",
+      "V",
+      "Q"
+    ],
+    [
+      "P",
+      "R",
+      "C",
+      "G",
+      "S",
+      "V",
+      "O",
+      "Q",
+      "T",
+      "C"
+    ],
+    [
+      "G",
+      "U",
+      "A",
+      "L",
+      "S",
+      "O",
+      "V",
+      "Z",
+      "M",
+      "O"
+    ],
+    [
+      "T",
+      "M",
+      "T",
+      "C",
+      "U",
+      "A",
+      "E",
+      "U",
+      "P",
+      "M"
+    ],
+    [
+      "F",
+      "S",
+      "K",
+      "F",
+      "P",
+      "I",
+      "A",
+      "N",
+      "O",
+      "B"
+    ],
+    [
+      "N",
+      "Q",
+      "D",
+      "T",
+      "J",
+      "Y",
+      "R",
+      "D",
+      "A",
+      "O"
+    ],
+    [
+      "K",
+      "Y",
+      "G",
+      "X",
+      "W",
+      "V",
+      "O",
+      "C",
+      "A",
+      "L"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "GROOVE",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "COMBO",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "PIANO",
+      "row": 7,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "DRUMS",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "VOCAL",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "BASS",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "LICK",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SCAT",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "WALK",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SAX",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6222
+}

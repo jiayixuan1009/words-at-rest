@@ -1,0 +1,284 @@
+{
+  "id": "winter-medium-02",
+  "slug": "winter-medium-02",
+  "themeId": "winter",
+  "title": "Winter: Cold Snap",
+  "primaryKeyword": "winter word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "COLDSNAP",
+    "FIREWOOD",
+    "FROSTLINE",
+    "GLOVES",
+    "ICICLE",
+    "LONGNIGHT",
+    "OVERCAST",
+    "PARKA",
+    "SHIVER",
+    "SNOWBANK",
+    "SNOWBOUND",
+    "STILLNESS",
+    "TWILIGHT",
+    "WINDCHILL"
+  ],
+  "grid": [
+    [
+      "S",
+      "N",
+      "O",
+      "W",
+      "B",
+      "O",
+      "U",
+      "N",
+      "D",
+      "I",
+      "R",
+      "R"
+    ],
+    [
+      "V",
+      "M",
+      "T",
+      "O",
+      "I",
+      "F",
+      "S",
+      "S",
+      "T",
+      "N",
+      "W",
+      "G"
+    ],
+    [
+      "J",
+      "F",
+      "W",
+      "V",
+      "G",
+      "I",
+      "D",
+      "G",
+      "J",
+      "S",
+      "I",
+      "V"
+    ],
+    [
+      "G",
+      "R",
+      "I",
+      "E",
+      "E",
+      "R",
+      "Y",
+      "L",
+      "S",
+      "T",
+      "N",
+      "M"
+    ],
+    [
+      "Z",
+      "O",
+      "L",
+      "R",
+      "H",
+      "E",
+      "S",
+      "O",
+      "N",
+      "I",
+      "D",
+      "C"
+    ],
+    [
+      "P",
+      "S",
+      "I",
+      "C",
+      "P",
+      "W",
+      "H",
+      "V",
+      "O",
+      "L",
+      "C",
+      "O"
+    ],
+    [
+      "A",
+      "T",
+      "G",
+      "A",
+      "M",
+      "O",
+      "I",
+      "E",
+      "W",
+      "L",
+      "H",
+      "L"
+    ],
+    [
+      "R",
+      "L",
+      "H",
+      "S",
+      "J",
+      "O",
+      "V",
+      "S",
+      "B",
+      "N",
+      "I",
+      "D"
+    ],
+    [
+      "K",
+      "I",
+      "T",
+      "T",
+      "R",
+      "D",
+      "E",
+      "C",
+      "A",
+      "E",
+      "L",
+      "S"
+    ],
+    [
+      "A",
+      "N",
+      "P",
+      "J",
+      "Z",
+      "Z",
+      "R",
+      "Y",
+      "N",
+      "S",
+      "L",
+      "N"
+    ],
+    [
+      "W",
+      "E",
+      "I",
+      "C",
+      "I",
+      "C",
+      "L",
+      "E",
+      "K",
+      "S",
+      "P",
+      "A"
+    ],
+    [
+      "L",
+      "O",
+      "N",
+      "G",
+      "N",
+      "I",
+      "G",
+      "H",
+      "T",
+      "B",
+      "X",
+      "P"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FROSTLINE",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "WINDCHILL",
+      "row": 1,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "SNOWBOUND",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "LONGNIGHT",
+      "row": 11,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "STILLNESS",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "COLDSNAP",
+      "row": 4,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "OVERCAST",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "TWILIGHT",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "SNOWBANK",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "FIREWOOD",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "GLOVES",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SHIVER",
+      "row": 4,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "ICICLE",
+      "row": 10,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PARKA",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 1204
+}

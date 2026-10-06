@@ -1,0 +1,208 @@
+{
+  "id": "emotions-easy-02",
+  "slug": "emotions-easy-02",
+  "themeId": "emotions",
+  "title": "Emotions: Soft Calm",
+  "primaryKeyword": "emotions word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "AWE",
+    "CHEER",
+    "FAITH",
+    "FOCUS",
+    "GLAD",
+    "LOVE",
+    "PRIDE",
+    "SMILE",
+    "SOFT",
+    "TEAR"
+  ],
+  "grid": [
+    [
+      "R",
+      "L",
+      "O",
+      "V",
+      "E",
+      "V",
+      "T",
+      "C",
+      "L",
+      "C"
+    ],
+    [
+      "N",
+      "C",
+      "F",
+      "U",
+      "S",
+      "S",
+      "M",
+      "I",
+      "L",
+      "E"
+    ],
+    [
+      "S",
+      "P",
+      "P",
+      "B",
+      "M",
+      "T",
+      "I",
+      "A",
+      "W",
+      "E"
+    ],
+    [
+      "O",
+      "W",
+      "W",
+      "F",
+      "A",
+      "I",
+      "T",
+      "H",
+      "W",
+      "E"
+    ],
+    [
+      "F",
+      "Q",
+      "J",
+      "H",
+      "J",
+      "B",
+      "C",
+      "Y",
+      "P",
+      "G"
+    ],
+    [
+      "T",
+      "P",
+      "R",
+      "I",
+      "D",
+      "E",
+      "H",
+      "Z",
+      "N",
+      "L"
+    ],
+    [
+      "Y",
+      "U",
+      "Q",
+      "M",
+      "T",
+      "A",
+      "E",
+      "X",
+      "T",
+      "A"
+    ],
+    [
+      "D",
+      "C",
+      "H",
+      "P",
+      "E",
+      "J",
+      "E",
+      "S",
+      "N",
+      "D"
+    ],
+    [
+      "T",
+      "S",
+      "C",
+      "Y",
+      "A",
+      "Z",
+      "R",
+      "S",
+      "W",
+      "D"
+    ],
+    [
+      "A",
+      "D",
+      "E",
+      "P",
+      "R",
+      "F",
+      "O",
+      "C",
+      "U",
+      "S"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PRIDE",
+      "row": 5,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CHEER",
+      "row": 4,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "SMILE",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "FAITH",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "FOCUS",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SOFT",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "GLAD",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "LOVE",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TEAR",
+      "row": 6,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "AWE",
+      "row": 2,
+      "col": 7,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8692
+}

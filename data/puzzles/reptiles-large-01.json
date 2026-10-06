@@ -1,0 +1,173 @@
+{
+  "id": "reptiles-large-01",
+  "slug": "reptiles-large-01",
+  "themeId": "reptiles",
+  "title": "Large Print Reptiles: Soft Scale",
+  "primaryKeyword": "large print reptiles word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "EGG",
+    "LIZARD",
+    "NEST",
+    "ROCK",
+    "SHELL",
+    "SNAKE",
+    "SUN",
+    "TAIL"
+  ],
+  "grid": [
+    [
+      "J",
+      "I",
+      "Q",
+      "A",
+      "F",
+      "F",
+      "L",
+      "C",
+      "O"
+    ],
+    [
+      "R",
+      "S",
+      "C",
+      "L",
+      "G",
+      "J",
+      "I",
+      "N",
+      "S"
+    ],
+    [
+      "H",
+      "R",
+      "O",
+      "C",
+      "K",
+      "F",
+      "Z",
+      "D",
+      "N"
+    ],
+    [
+      "S",
+      "B",
+      "R",
+      "U",
+      "A",
+      "O",
+      "A",
+      "P",
+      "A"
+    ],
+    [
+      "U",
+      "A",
+      "Z",
+      "S",
+      "N",
+      "T",
+      "R",
+      "C",
+      "K"
+    ],
+    [
+      "N",
+      "Z",
+      "V",
+      "H",
+      "E",
+      "M",
+      "D",
+      "T",
+      "E"
+    ],
+    [
+      "W",
+      "H",
+      "E",
+      "E",
+      "S",
+      "R",
+      "J",
+      "A",
+      "X"
+    ],
+    [
+      "C",
+      "E",
+      "G",
+      "L",
+      "T",
+      "X",
+      "H",
+      "I",
+      "H"
+    ],
+    [
+      "U",
+      "H",
+      "G",
+      "L",
+      "U",
+      "I",
+      "P",
+      "L",
+      "B"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "LIZARD",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "SNAKE",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "SHELL",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "TAIL",
+      "row": 5,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "NEST",
+      "row": 4,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "ROCK",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "EGG",
+      "row": 6,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "SUN",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8326
+}

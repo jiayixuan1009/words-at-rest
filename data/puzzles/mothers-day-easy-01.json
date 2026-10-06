@@ -1,0 +1,208 @@
+{
+  "id": "mothers-day-easy-01",
+  "slug": "mothers-day-easy-01",
+  "themeId": "mothers-day",
+  "title": "Mother's Day: Morning Card",
+  "primaryKeyword": "mothers day word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CARD",
+    "GIFT",
+    "HOME",
+    "HUG",
+    "LOVE",
+    "MOM",
+    "MOTHER",
+    "ROSE",
+    "TEA",
+    "THANKS"
+  ],
+  "grid": [
+    [
+      "D",
+      "F",
+      "V",
+      "R",
+      "W",
+      "M",
+      "E",
+      "W",
+      "U",
+      "W"
+    ],
+    [
+      "W",
+      "D",
+      "K",
+      "Q",
+      "C",
+      "J",
+      "R",
+      "O",
+      "S",
+      "E"
+    ],
+    [
+      "X",
+      "E",
+      "G",
+      "U",
+      "S",
+      "B",
+      "M",
+      "B",
+      "A",
+      "M"
+    ],
+    [
+      "G",
+      "I",
+      "F",
+      "T",
+      "N",
+      "L",
+      "O",
+      "V",
+      "E",
+      "T"
+    ],
+    [
+      "S",
+      "C",
+      "T",
+      "E",
+      "A",
+      "M",
+      "M",
+      "N",
+      "I",
+      "H"
+    ],
+    [
+      "F",
+      "A",
+      "C",
+      "D",
+      "N",
+      "O",
+      "M",
+      "H",
+      "H",
+      "A"
+    ],
+    [
+      "H",
+      "R",
+      "F",
+      "K",
+      "G",
+      "T",
+      "S",
+      "U",
+      "O",
+      "N"
+    ],
+    [
+      "C",
+      "D",
+      "F",
+      "V",
+      "F",
+      "H",
+      "H",
+      "G",
+      "M",
+      "K"
+    ],
+    [
+      "F",
+      "B",
+      "H",
+      "S",
+      "F",
+      "E",
+      "T",
+      "M",
+      "E",
+      "S"
+    ],
+    [
+      "V",
+      "I",
+      "D",
+      "R",
+      "W",
+      "R",
+      "T",
+      "Z",
+      "U",
+      "C"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "MOTHER",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "THANKS",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "CARD",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "ROSE",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "LOVE",
+      "row": 3,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "HOME",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "GIFT",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "MOM",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "HUG",
+      "row": 5,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "TEA",
+      "row": 4,
+      "col": 2,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7031
+}

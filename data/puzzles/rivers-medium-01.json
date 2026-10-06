@@ -1,0 +1,284 @@
+{
+  "id": "rivers-medium-01",
+  "slug": "rivers-medium-01",
+  "themeId": "rivers",
+  "title": "Rivers: Delta Mouth",
+  "primaryKeyword": "rivers word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CANOE",
+    "CASCADE",
+    "CURRENT",
+    "DELTA",
+    "EDDY",
+    "FERRY",
+    "HERON",
+    "MOUTH",
+    "OXBOW",
+    "RAPID",
+    "SOURCE",
+    "SPRING",
+    "WATERFALL",
+    "WILLOW"
+  ],
+  "grid": [
+    [
+      "G",
+      "C",
+      "N",
+      "E",
+      "C",
+      "U",
+      "R",
+      "R",
+      "E",
+      "N",
+      "T",
+      "H"
+    ],
+    [
+      "U",
+      "A",
+      "L",
+      "S",
+      "K",
+      "S",
+      "Z",
+      "B",
+      "O",
+      "X",
+      "E",
+      "E"
+    ],
+    [
+      "N",
+      "S",
+      "Z",
+      "U",
+      "C",
+      "P",
+      "E",
+      "A",
+      "D",
+      "H",
+      "C",
+      "D"
+    ],
+    [
+      "C",
+      "C",
+      "M",
+      "D",
+      "L",
+      "R",
+      "L",
+      "W",
+      "L",
+      "R",
+      "N",
+      "E"
+    ],
+    [
+      "A",
+      "A",
+      "F",
+      "R",
+      "X",
+      "I",
+      "U",
+      "J",
+      "U",
+      "O",
+      "O",
+      "L"
+    ],
+    [
+      "N",
+      "D",
+      "E",
+      "A",
+      "H",
+      "N",
+      "K",
+      "O",
+      "R",
+      "W",
+      "W",
+      "T"
+    ],
+    [
+      "O",
+      "E",
+      "R",
+      "P",
+      "R",
+      "G",
+      "S",
+      "E",
+      "O",
+      "O",
+      "P",
+      "A"
+    ],
+    [
+      "E",
+      "M",
+      "R",
+      "I",
+      "S",
+      "Y",
+      "H",
+      "B",
+      "L",
+      "A",
+      "B",
+      "K"
+    ],
+    [
+      "K",
+      "O",
+      "Y",
+      "D",
+      "D",
+      "G",
+      "X",
+      "L",
+      "D",
+      "P",
+      "M",
+      "U"
+    ],
+    [
+      "H",
+      "U",
+      "F",
+      "D",
+      "Z",
+      "O",
+      "I",
+      "A",
+      "E",
+      "Y",
+      "A",
+      "I"
+    ],
+    [
+      "A",
+      "T",
+      "E",
+      "J",
+      "N",
+      "W",
+      "F",
+      "D",
+      "F",
+      "V",
+      "C",
+      "L"
+    ],
+    [
+      "J",
+      "H",
+      "W",
+      "A",
+      "T",
+      "E",
+      "R",
+      "F",
+      "A",
+      "L",
+      "L",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "WATERFALL",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CURRENT",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CASCADE",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SOURCE",
+      "row": 6,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "SPRING",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "WILLOW",
+      "row": 10,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "RAPID",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "OXBOW",
+      "row": 9,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "DELTA",
+      "row": 2,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "MOUTH",
+      "row": 7,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "FERRY",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "CANOE",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "HERON",
+      "row": 7,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "EDDY",
+      "row": 10,
+      "col": 2,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8533
+}

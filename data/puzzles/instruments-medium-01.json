@@ -1,0 +1,284 @@
+{
+  "id": "instruments-medium-01",
+  "slug": "instruments-medium-01",
+  "themeId": "instruments",
+  "title": "Instruments: Orchestra Pit",
+  "primaryKeyword": "musical instruments word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BAGPIPE",
+    "BASSOON",
+    "CLARINET",
+    "CYMBAL",
+    "HARMONICA",
+    "MANDOLIN",
+    "MARIMBA",
+    "RECORDER",
+    "SITAR",
+    "TIMPANI",
+    "TRIANGLE",
+    "TROMBONE",
+    "TRUMPET",
+    "UKULELE"
+  ],
+  "grid": [
+    [
+      "B",
+      "R",
+      "X",
+      "U",
+      "M",
+      "A",
+      "N",
+      "D",
+      "O",
+      "L",
+      "I",
+      "N"
+    ],
+    [
+      "A",
+      "T",
+      "R",
+      "I",
+      "A",
+      "N",
+      "G",
+      "L",
+      "E",
+      "G",
+      "Y",
+      "A"
+    ],
+    [
+      "H",
+      "G",
+      "K",
+      "V",
+      "C",
+      "L",
+      "A",
+      "R",
+      "I",
+      "N",
+      "E",
+      "T"
+    ],
+    [
+      "E",
+      "W",
+      "K",
+      "C",
+      "Y",
+      "M",
+      "B",
+      "A",
+      "L",
+      "E",
+      "P",
+      "B"
+    ],
+    [
+      "R",
+      "E",
+      "C",
+      "O",
+      "R",
+      "D",
+      "E",
+      "R",
+      "U",
+      "H",
+      "A",
+      "A"
+    ],
+    [
+      "T",
+      "I",
+      "M",
+      "P",
+      "A",
+      "N",
+      "I",
+      "Q",
+      "C",
+      "V",
+      "X",
+      "G"
+    ],
+    [
+      "B",
+      "A",
+      "S",
+      "S",
+      "O",
+      "O",
+      "N",
+      "K",
+      "X",
+      "J",
+      "S",
+      "P"
+    ],
+    [
+      "N",
+      "H",
+      "A",
+      "R",
+      "M",
+      "O",
+      "N",
+      "I",
+      "C",
+      "A",
+      "I",
+      "I"
+    ],
+    [
+      "G",
+      "T",
+      "R",
+      "O",
+      "M",
+      "B",
+      "O",
+      "N",
+      "E",
+      "L",
+      "T",
+      "P"
+    ],
+    [
+      "M",
+      "A",
+      "R",
+      "I",
+      "M",
+      "B",
+      "A",
+      "O",
+      "E",
+      "U",
+      "A",
+      "E"
+    ],
+    [
+      "T",
+      "R",
+      "U",
+      "M",
+      "P",
+      "E",
+      "T",
+      "L",
+      "S",
+      "E",
+      "R",
+      "R"
+    ],
+    [
+      "U",
+      "K",
+      "U",
+      "L",
+      "E",
+      "L",
+      "E",
+      "V",
+      "H",
+      "U",
+      "O",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "HARMONICA",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CLARINET",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "TROMBONE",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "RECORDER",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "MANDOLIN",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "TRIANGLE",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BASSOON",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "TRUMPET",
+      "row": 10,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "TIMPANI",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "MARIMBA",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "UKULELE",
+      "row": 11,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BAGPIPE",
+      "row": 3,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "CYMBAL",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SITAR",
+      "row": 6,
+      "col": 10,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6213
+}

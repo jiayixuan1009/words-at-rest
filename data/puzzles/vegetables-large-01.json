@@ -1,0 +1,173 @@
+{
+  "id": "vegetables-large-01",
+  "slug": "vegetables-large-01",
+  "themeId": "vegetables",
+  "title": "Large Print Vegetables: Soft Crisp",
+  "primaryKeyword": "large print vegetables word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BEAN",
+    "BEET",
+    "CORN",
+    "HERB",
+    "KALE",
+    "LEEK",
+    "PEAS",
+    "SOUP"
+  ],
+  "grid": [
+    [
+      "B",
+      "N",
+      "Q",
+      "F",
+      "G",
+      "B",
+      "H",
+      "O",
+      "V"
+    ],
+    [
+      "I",
+      "U",
+      "B",
+      "Y",
+      "H",
+      "E",
+      "I",
+      "G",
+      "Y"
+    ],
+    [
+      "B",
+      "E",
+      "U",
+      "D",
+      "E",
+      "A",
+      "U",
+      "Q",
+      "C"
+    ],
+    [
+      "E",
+      "H",
+      "Z",
+      "H",
+      "R",
+      "N",
+      "F",
+      "Q",
+      "P"
+    ],
+    [
+      "E",
+      "T",
+      "M",
+      "X",
+      "B",
+      "S",
+      "O",
+      "O",
+      "E"
+    ],
+    [
+      "T",
+      "Y",
+      "V",
+      "A",
+      "K",
+      "O",
+      "L",
+      "C",
+      "A"
+    ],
+    [
+      "X",
+      "V",
+      "I",
+      "F",
+      "A",
+      "U",
+      "C",
+      "O",
+      "S"
+    ],
+    [
+      "Y",
+      "Z",
+      "D",
+      "F",
+      "L",
+      "P",
+      "R",
+      "R",
+      "Q"
+    ],
+    [
+      "O",
+      "Z",
+      "Q",
+      "L",
+      "E",
+      "E",
+      "K",
+      "N",
+      "X"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PEAS",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "BEAN",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "CORN",
+      "row": 5,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "LEEK",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BEET",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "KALE",
+      "row": 5,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "SOUP",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "HERB",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7116
+}

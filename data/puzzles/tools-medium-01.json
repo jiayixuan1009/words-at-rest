@@ -1,0 +1,284 @@
+{
+  "id": "tools-medium-01",
+  "slug": "tools-medium-01",
+  "themeId": "tools",
+  "title": "Tools: Workshop Shelf",
+  "primaryKeyword": "tools word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "AXE",
+    "CHISEL",
+    "CLAMP",
+    "CUTTER",
+    "MALLET",
+    "PENCIL",
+    "PLANE",
+    "PLIERS",
+    "PUNCH",
+    "SHOVEL",
+    "SNIPS",
+    "SPADE",
+    "SQUARE",
+    "VISE"
+  ],
+  "grid": [
+    [
+      "P",
+      "U",
+      "N",
+      "C",
+      "H",
+      "V",
+      "C",
+      "U",
+      "T",
+      "T",
+      "E",
+      "R"
+    ],
+    [
+      "M",
+      "L",
+      "V",
+      "J",
+      "E",
+      "K",
+      "H",
+      "Z",
+      "D",
+      "W",
+      "G",
+      "F"
+    ],
+    [
+      "P",
+      "U",
+      "W",
+      "V",
+      "R",
+      "P",
+      "M",
+      "A",
+      "L",
+      "L",
+      "E",
+      "T"
+    ],
+    [
+      "S",
+      "Q",
+      "U",
+      "A",
+      "R",
+      "E",
+      "K",
+      "O",
+      "S",
+      "F",
+      "O",
+      "M"
+    ],
+    [
+      "H",
+      "A",
+      "C",
+      "C",
+      "M",
+      "V",
+      "A",
+      "A",
+      "X",
+      "E",
+      "P",
+      "S"
+    ],
+    [
+      "N",
+      "P",
+      "L",
+      "H",
+      "F",
+      "W",
+      "Y",
+      "Q",
+      "N",
+      "E",
+      "Z",
+      "P"
+    ],
+    [
+      "U",
+      "J",
+      "E",
+      "H",
+      "I",
+      "Z",
+      "N",
+      "A",
+      "F",
+      "V",
+      "C",
+      "A"
+    ],
+    [
+      "G",
+      "N",
+      "Z",
+      "N",
+      "B",
+      "S",
+      "L",
+      "Z",
+      "V",
+      "I",
+      "L",
+      "D"
+    ],
+    [
+      "R",
+      "S",
+      "J",
+      "H",
+      "C",
+      "P",
+      "E",
+      "I",
+      "T",
+      "S",
+      "A",
+      "E"
+    ],
+    [
+      "U",
+      "A",
+      "H",
+      "H",
+      "P",
+      "I",
+      "P",
+      "L",
+      "M",
+      "E",
+      "M",
+      "Q"
+    ],
+    [
+      "P",
+      "L",
+      "I",
+      "E",
+      "R",
+      "S",
+      "L",
+      "Z",
+      "F",
+      "V",
+      "P",
+      "W"
+    ],
+    [
+      "S",
+      "N",
+      "I",
+      "P",
+      "S",
+      "S",
+      "H",
+      "O",
+      "V",
+      "E",
+      "L",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PLIERS",
+      "row": 10,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CHISEL",
+      "row": 4,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "SQUARE",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "PENCIL",
+      "row": 5,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "SHOVEL",
+      "row": 11,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "MALLET",
+      "row": 2,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "CUTTER",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "CLAMP",
+      "row": 6,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "PLANE",
+      "row": 8,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "SPADE",
+      "row": 4,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "PUNCH",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SNIPS",
+      "row": 11,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "VISE",
+      "row": 6,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "AXE",
+      "row": 4,
+      "col": 7,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8253
+}

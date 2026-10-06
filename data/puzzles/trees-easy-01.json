@@ -1,0 +1,208 @@
+{
+  "id": "trees-easy-01",
+  "slug": "trees-easy-01",
+  "themeId": "trees",
+  "title": "Trees: Woodland Walk",
+  "primaryKeyword": "trees word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ASH",
+    "BIRCH",
+    "ELM",
+    "FIR",
+    "LEAF",
+    "MAPLE",
+    "OAK",
+    "PINE",
+    "ROOT",
+    "SHADE"
+  ],
+  "grid": [
+    [
+      "R",
+      "M",
+      "D",
+      "P",
+      "C",
+      "O",
+      "U",
+      "V",
+      "E",
+      "H"
+    ],
+    [
+      "E",
+      "L",
+      "M",
+      "I",
+      "B",
+      "R",
+      "A",
+      "S",
+      "H",
+      "M"
+    ],
+    [
+      "Q",
+      "J",
+      "X",
+      "Y",
+      "Z",
+      "L",
+      "L",
+      "E",
+      "A",
+      "F"
+    ],
+    [
+      "D",
+      "T",
+      "F",
+      "B",
+      "C",
+      "R",
+      "J",
+      "E",
+      "U",
+      "B"
+    ],
+    [
+      "K",
+      "R",
+      "X",
+      "M",
+      "A",
+      "P",
+      "L",
+      "E",
+      "M",
+      "Z"
+    ],
+    [
+      "O",
+      "O",
+      "S",
+      "H",
+      "A",
+      "D",
+      "E",
+      "O",
+      "A",
+      "K"
+    ],
+    [
+      "B",
+      "Q",
+      "L",
+      "Z",
+      "O",
+      "B",
+      "I",
+      "R",
+      "C",
+      "H"
+    ],
+    [
+      "C",
+      "W",
+      "K",
+      "S",
+      "S",
+      "I",
+      "P",
+      "I",
+      "N",
+      "E"
+    ],
+    [
+      "B",
+      "B",
+      "M",
+      "R",
+      "O",
+      "O",
+      "T",
+      "P",
+      "C",
+      "K"
+    ],
+    [
+      "V",
+      "F",
+      "R",
+      "K",
+      "A",
+      "W",
+      "F",
+      "I",
+      "R",
+      "X"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "MAPLE",
+      "row": 4,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BIRCH",
+      "row": 6,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SHADE",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PINE",
+      "row": 7,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "LEAF",
+      "row": 2,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "ROOT",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "OAK",
+      "row": 5,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "ELM",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "ASH",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "FIR",
+      "row": 9,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7171
+}

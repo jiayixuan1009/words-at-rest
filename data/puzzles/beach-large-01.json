@@ -1,0 +1,173 @@
+{
+  "id": "beach-large-01",
+  "slug": "beach-large-01",
+  "themeId": "beach",
+  "title": "Large Print Beach: Soft Sand",
+  "primaryKeyword": "large print beach word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "HAT",
+    "REST",
+    "SAND",
+    "SHELL",
+    "SUN",
+    "SWIM",
+    "TIDE",
+    "WAVE"
+  ],
+  "grid": [
+    [
+      "I",
+      "H",
+      "S",
+      "W",
+      "I",
+      "M",
+      "Y",
+      "W",
+      "V"
+    ],
+    [
+      "T",
+      "I",
+      "D",
+      "E",
+      "C",
+      "E",
+      "T",
+      "A",
+      "T"
+    ],
+    [
+      "X",
+      "X",
+      "O",
+      "F",
+      "I",
+      "C",
+      "U",
+      "V",
+      "V"
+    ],
+    [
+      "X",
+      "R",
+      "P",
+      "R",
+      "L",
+      "L",
+      "A",
+      "E",
+      "S"
+    ],
+    [
+      "J",
+      "R",
+      "E",
+      "S",
+      "T",
+      "Z",
+      "N",
+      "Y",
+      "H"
+    ],
+    [
+      "H",
+      "N",
+      "B",
+      "S",
+      "Y",
+      "S",
+      "C",
+      "H",
+      "E"
+    ],
+    [
+      "W",
+      "W",
+      "A",
+      "A",
+      "C",
+      "T",
+      "O",
+      "A",
+      "L"
+    ],
+    [
+      "N",
+      "K",
+      "N",
+      "N",
+      "R",
+      "P",
+      "V",
+      "T",
+      "L"
+    ],
+    [
+      "S",
+      "U",
+      "N",
+      "D",
+      "I",
+      "R",
+      "D",
+      "T",
+      "I"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SHELL",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "SAND",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "TIDE",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "WAVE",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SWIM",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "REST",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "HAT",
+      "row": 5,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SUN",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8106
+}

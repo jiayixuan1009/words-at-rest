@@ -1,0 +1,284 @@
+{
+  "id": "knitting-medium-02",
+  "slug": "knitting-medium-02",
+  "themeId": "knitting",
+  "title": "Knitting: Project Basket",
+  "primaryKeyword": "knitting word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ALPACA",
+    "BASKET",
+    "CIRCULAR",
+    "CROCHET",
+    "DECREASE",
+    "EVENING",
+    "FINISH",
+    "HANK",
+    "HOOK",
+    "INCREASE",
+    "NEEDLE",
+    "PROJECT",
+    "SHAWL",
+    "STOCKINETTE"
+  ],
+  "grid": [
+    [
+      "Y",
+      "I",
+      "N",
+      "C",
+      "R",
+      "E",
+      "A",
+      "S",
+      "E",
+      "V",
+      "T",
+      "P"
+    ],
+    [
+      "E",
+      "P",
+      "R",
+      "O",
+      "J",
+      "E",
+      "C",
+      "T",
+      "S",
+      "H",
+      "A",
+      "Y"
+    ],
+    [
+      "V",
+      "L",
+      "B",
+      "P",
+      "X",
+      "A",
+      "I",
+      "R",
+      "T",
+      "O",
+      "H",
+      "X"
+    ],
+    [
+      "E",
+      "F",
+      "L",
+      "D",
+      "D",
+      "M",
+      "A",
+      "C",
+      "O",
+      "O",
+      "D",
+      "L"
+    ],
+    [
+      "N",
+      "C",
+      "I",
+      "F",
+      "U",
+      "L",
+      "D",
+      "J",
+      "C",
+      "K",
+      "E",
+      "Q"
+    ],
+    [
+      "I",
+      "E",
+      "Z",
+      "N",
+      "U",
+      "M",
+      "H",
+      "W",
+      "K",
+      "V",
+      "C",
+      "O"
+    ],
+    [
+      "N",
+      "E",
+      "W",
+      "C",
+      "I",
+      "E",
+      "V",
+      "N",
+      "I",
+      "A",
+      "R",
+      "S"
+    ],
+    [
+      "G",
+      "H",
+      "R",
+      "A",
+      "M",
+      "S",
+      "A",
+      "L",
+      "N",
+      "L",
+      "E",
+      "H"
+    ],
+    [
+      "L",
+      "I",
+      "V",
+      "P",
+      "S",
+      "H",
+      "H",
+      "G",
+      "E",
+      "P",
+      "A",
+      "A"
+    ],
+    [
+      "C",
+      "R",
+      "O",
+      "C",
+      "H",
+      "E",
+      "T",
+      "J",
+      "T",
+      "A",
+      "S",
+      "W"
+    ],
+    [
+      "Z",
+      "W",
+      "B",
+      "A",
+      "S",
+      "K",
+      "E",
+      "T",
+      "T",
+      "C",
+      "E",
+      "L"
+    ],
+    [
+      "N",
+      "E",
+      "E",
+      "D",
+      "L",
+      "E",
+      "Y",
+      "V",
+      "E",
+      "A",
+      "Y",
+      "G"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "STOCKINETTE",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "CIRCULAR",
+      "row": 9,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "INCREASE",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "DECREASE",
+      "row": 3,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "CROCHET",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "PROJECT",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "EVENING",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "ALPACA",
+      "row": 6,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "FINISH",
+      "row": 3,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "BASKET",
+      "row": 10,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "NEEDLE",
+      "row": 11,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SHAWL",
+      "row": 6,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "HANK",
+      "row": 8,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "HOOK",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8444
+}

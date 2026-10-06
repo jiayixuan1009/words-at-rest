@@ -1,0 +1,208 @@
+{
+  "id": "school-easy-02",
+  "slug": "school-easy-02",
+  "themeId": "school",
+  "title": "School: Quiet Study",
+  "primaryKeyword": "school word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BAG",
+    "BOARD",
+    "CHAIR",
+    "CHALK",
+    "GRADE",
+    "HALL",
+    "LUNCH",
+    "MAP",
+    "PENCIL",
+    "SCORE"
+  ],
+  "grid": [
+    [
+      "B",
+      "I",
+      "Z",
+      "W",
+      "L",
+      "T",
+      "M",
+      "A",
+      "R",
+      "F"
+    ],
+    [
+      "A",
+      "C",
+      "E",
+      "Z",
+      "C",
+      "G",
+      "A",
+      "Z",
+      "G",
+      "P"
+    ],
+    [
+      "G",
+      "C",
+      "P",
+      "N",
+      "H",
+      "N",
+      "P",
+      "Y",
+      "J",
+      "H"
+    ],
+    [
+      "W",
+      "M",
+      "B",
+      "O",
+      "A",
+      "R",
+      "D",
+      "N",
+      "M",
+      "U"
+    ],
+    [
+      "X",
+      "F",
+      "M",
+      "N",
+      "L",
+      "N",
+      "H",
+      "U",
+      "O",
+      "E"
+    ],
+    [
+      "H",
+      "A",
+      "L",
+      "L",
+      "K",
+      "G",
+      "R",
+      "A",
+      "D",
+      "E"
+    ],
+    [
+      "B",
+      "P",
+      "E",
+      "N",
+      "C",
+      "I",
+      "L",
+      "Z",
+      "D",
+      "K"
+    ],
+    [
+      "P",
+      "Z",
+      "J",
+      "T",
+      "S",
+      "C",
+      "O",
+      "R",
+      "E",
+      "G"
+    ],
+    [
+      "N",
+      "E",
+      "J",
+      "X",
+      "I",
+      "L",
+      "U",
+      "N",
+      "C",
+      "H"
+    ],
+    [
+      "D",
+      "J",
+      "E",
+      "C",
+      "T",
+      "C",
+      "H",
+      "A",
+      "I",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PENCIL",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CHAIR",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "BOARD",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CHALK",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "GRADE",
+      "row": 5,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SCORE",
+      "row": 7,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "LUNCH",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "HALL",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BAG",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "MAP",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8132
+}

@@ -1,0 +1,284 @@
+{
+  "id": "forests-medium-01",
+  "slug": "forests-medium-01",
+  "themeId": "forests",
+  "title": "Forests: Glade Light",
+  "primaryKeyword": "forests word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CANOPY",
+    "CLEARING",
+    "CREEK",
+    "DAPPLE",
+    "FOREST",
+    "GLADE",
+    "LIGHT",
+    "NEEDLE",
+    "QUIET",
+    "SQUIRREL",
+    "STREAM",
+    "TRUNK",
+    "TWILIGHT",
+    "WILDLIFE"
+  ],
+  "grid": [
+    [
+      "G",
+      "G",
+      "Z",
+      "G",
+      "L",
+      "I",
+      "R",
+      "T",
+      "R",
+      "U",
+      "N",
+      "K"
+    ],
+    [
+      "L",
+      "R",
+      "N",
+      "S",
+      "Q",
+      "U",
+      "I",
+      "R",
+      "R",
+      "E",
+      "L",
+      "A"
+    ],
+    [
+      "A",
+      "F",
+      "E",
+      "W",
+      "T",
+      "W",
+      "I",
+      "L",
+      "I",
+      "G",
+      "H",
+      "T"
+    ],
+    [
+      "D",
+      "O",
+      "E",
+      "C",
+      "N",
+      "Q",
+      "H",
+      "H",
+      "I",
+      "M",
+      "E",
+      "C"
+    ],
+    [
+      "E",
+      "R",
+      "D",
+      "C",
+      "S",
+      "T",
+      "R",
+      "E",
+      "A",
+      "M",
+      "D",
+      "R"
+    ],
+    [
+      "J",
+      "E",
+      "L",
+      "L",
+      "Q",
+      "U",
+      "I",
+      "E",
+      "T",
+      "K",
+      "A",
+      "E"
+    ],
+    [
+      "G",
+      "S",
+      "E",
+      "C",
+      "A",
+      "N",
+      "O",
+      "P",
+      "Y",
+      "S",
+      "P",
+      "E"
+    ],
+    [
+      "A",
+      "T",
+      "X",
+      "B",
+      "C",
+      "L",
+      "I",
+      "G",
+      "H",
+      "T",
+      "P",
+      "K"
+    ],
+    [
+      "F",
+      "W",
+      "C",
+      "L",
+      "E",
+      "A",
+      "R",
+      "I",
+      "N",
+      "G",
+      "L",
+      "Z"
+    ],
+    [
+      "K",
+      "R",
+      "X",
+      "Q",
+      "W",
+      "D",
+      "U",
+      "N",
+      "J",
+      "Q",
+      "E",
+      "V"
+    ],
+    [
+      "C",
+      "C",
+      "K",
+      "S",
+      "L",
+      "E",
+      "P",
+      "C",
+      "X",
+      "R",
+      "B",
+      "R"
+    ],
+    [
+      "H",
+      "X",
+      "Z",
+      "E",
+      "W",
+      "I",
+      "L",
+      "D",
+      "L",
+      "I",
+      "F",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CLEARING",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "WILDLIFE",
+      "row": 11,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SQUIRREL",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "TWILIGHT",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "FOREST",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "CANOPY",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "NEEDLE",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "STREAM",
+      "row": 4,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "DAPPLE",
+      "row": 4,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "TRUNK",
+      "row": 0,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "GLADE",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CREEK",
+      "row": 3,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "LIGHT",
+      "row": 7,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "QUIET",
+      "row": 5,
+      "col": 4,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8523
+}

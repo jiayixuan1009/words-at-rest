@@ -1,0 +1,284 @@
+{
+  "id": "world-capitals-medium-01",
+  "slug": "world-capitals-medium-01",
+  "themeId": "world-capitals",
+  "title": "World Capitals: River Capitals",
+  "primaryKeyword": "world capitals word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BEIJING",
+    "BEIRUT",
+    "BERLIN",
+    "BOGOTA",
+    "HANOI",
+    "LISBON",
+    "MANILA",
+    "MOSCOW",
+    "NAIROBI",
+    "OTTAWA",
+    "RIYADH",
+    "TEHRAN",
+    "VIENNA",
+    "WARSAW"
+  ],
+  "grid": [
+    [
+      "V",
+      "V",
+      "H",
+      "T",
+      "E",
+      "H",
+      "R",
+      "A",
+      "N",
+      "U",
+      "I",
+      "N"
+    ],
+    [
+      "G",
+      "B",
+      "E",
+      "I",
+      "R",
+      "U",
+      "T",
+      "O",
+      "Y",
+      "M",
+      "B",
+      "X"
+    ],
+    [
+      "M",
+      "B",
+      "Y",
+      "L",
+      "Y",
+      "R",
+      "V",
+      "B",
+      "C",
+      "O",
+      "O",
+      "C"
+    ],
+    [
+      "A",
+      "R",
+      "B",
+      "I",
+      "N",
+      "I",
+      "X",
+      "E",
+      "N",
+      "S",
+      "G",
+      "Z"
+    ],
+    [
+      "N",
+      "I",
+      "R",
+      "S",
+      "O",
+      "Y",
+      "O",
+      "R",
+      "A",
+      "C",
+      "O",
+      "P"
+    ],
+    [
+      "I",
+      "X",
+      "H",
+      "B",
+      "T",
+      "A",
+      "A",
+      "L",
+      "I",
+      "O",
+      "T",
+      "B"
+    ],
+    [
+      "L",
+      "M",
+      "A",
+      "O",
+      "T",
+      "D",
+      "M",
+      "I",
+      "R",
+      "W",
+      "A",
+      "E"
+    ],
+    [
+      "A",
+      "A",
+      "N",
+      "N",
+      "A",
+      "H",
+      "J",
+      "N",
+      "O",
+      "L",
+      "J",
+      "I"
+    ],
+    [
+      "A",
+      "P",
+      "O",
+      "W",
+      "W",
+      "A",
+      "V",
+      "B",
+      "B",
+      "K",
+      "F",
+      "J"
+    ],
+    [
+      "O",
+      "O",
+      "I",
+      "O",
+      "A",
+      "D",
+      "I",
+      "M",
+      "I",
+      "O",
+      "Q",
+      "I"
+    ],
+    [
+      "M",
+      "V",
+      "I",
+      "E",
+      "N",
+      "N",
+      "A",
+      "D",
+      "Y",
+      "C",
+      "H",
+      "N"
+    ],
+    [
+      "E",
+      "C",
+      "W",
+      "A",
+      "R",
+      "S",
+      "A",
+      "W",
+      "T",
+      "P",
+      "C",
+      "G"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BEIJING",
+      "row": 5,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "NAIROBI",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "BERLIN",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "LISBON",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "VIENNA",
+      "row": 10,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "OTTAWA",
+      "row": 4,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "BOGOTA",
+      "row": 1,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "MOSCOW",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "WARSAW",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BEIRUT",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "RIYADH",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "TEHRAN",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "MANILA",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "HANOI",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8023
+}

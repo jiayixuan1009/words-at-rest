@@ -1,0 +1,208 @@
+{
+  "id": "presidents-easy-01",
+  "slug": "presidents-easy-01",
+  "themeId": "presidents",
+  "title": "U.S. Presidents: Oval Desk",
+  "primaryKeyword": "us presidents word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ADAMS",
+    "BUSH",
+    "FORD",
+    "GRANT",
+    "HAYES",
+    "POLK",
+    "TAFT",
+    "TERM",
+    "TYLER",
+    "VETO"
+  ],
+  "grid": [
+    [
+      "V",
+      "E",
+      "P",
+      "S",
+      "B",
+      "H",
+      "B",
+      "G",
+      "J",
+      "R"
+    ],
+    [
+      "I",
+      "N",
+      "X",
+      "G",
+      "S",
+      "A",
+      "U",
+      "T",
+      "D",
+      "A"
+    ],
+    [
+      "O",
+      "T",
+      "A",
+      "F",
+      "T",
+      "Y",
+      "S",
+      "Y",
+      "W",
+      "P"
+    ],
+    [
+      "E",
+      "N",
+      "O",
+      "O",
+      "T",
+      "E",
+      "H",
+      "L",
+      "P",
+      "O"
+    ],
+    [
+      "M",
+      "K",
+      "O",
+      "R",
+      "H",
+      "S",
+      "W",
+      "E",
+      "D",
+      "L"
+    ],
+    [
+      "W",
+      "I",
+      "V",
+      "D",
+      "U",
+      "L",
+      "R",
+      "R",
+      "W",
+      "K"
+    ],
+    [
+      "E",
+      "N",
+      "E",
+      "E",
+      "G",
+      "R",
+      "A",
+      "N",
+      "T",
+      "O"
+    ],
+    [
+      "S",
+      "V",
+      "T",
+      "A",
+      "D",
+      "A",
+      "M",
+      "S",
+      "F",
+      "R"
+    ],
+    [
+      "O",
+      "N",
+      "O",
+      "T",
+      "E",
+      "R",
+      "M",
+      "K",
+      "P",
+      "R"
+    ],
+    [
+      "K",
+      "Z",
+      "Z",
+      "Y",
+      "M",
+      "T",
+      "H",
+      "G",
+      "Z",
+      "J"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ADAMS",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "GRANT",
+      "row": 6,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "HAYES",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "TYLER",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "POLK",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "TAFT",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "FORD",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "BUSH",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "TERM",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "VETO",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8291
+}

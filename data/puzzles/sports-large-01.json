@@ -1,0 +1,173 @@
+{
+  "id": "sports-large-01",
+  "slug": "sports-large-01",
+  "themeId": "sports",
+  "title": "Large Print Sports: Soft Pace",
+  "primaryKeyword": "large print sports word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BIKE",
+    "GOAL",
+    "JUMP",
+    "MEDAL",
+    "PACE",
+    "RACE",
+    "SWIM",
+    "TEAM"
+  ],
+  "grid": [
+    [
+      "F",
+      "X",
+      "X",
+      "J",
+      "U",
+      "S",
+      "S",
+      "E",
+      "T"
+    ],
+    [
+      "T",
+      "M",
+      "B",
+      "I",
+      "K",
+      "E",
+      "D",
+      "C",
+      "H"
+    ],
+    [
+      "V",
+      "O",
+      "F",
+      "Q",
+      "J",
+      "A",
+      "W",
+      "O",
+      "P"
+    ],
+    [
+      "P",
+      "T",
+      "U",
+      "V",
+      "U",
+      "R",
+      "T",
+      "V",
+      "A"
+    ],
+    [
+      "S",
+      "K",
+      "G",
+      "G",
+      "M",
+      "X",
+      "E",
+      "M",
+      "C"
+    ],
+    [
+      "K",
+      "R",
+      "O",
+      "H",
+      "P",
+      "K",
+      "A",
+      "E",
+      "E"
+    ],
+    [
+      "P",
+      "A",
+      "A",
+      "G",
+      "K",
+      "S",
+      "M",
+      "D",
+      "C"
+    ],
+    [
+      "M",
+      "C",
+      "L",
+      "P",
+      "J",
+      "I",
+      "L",
+      "A",
+      "N"
+    ],
+    [
+      "N",
+      "E",
+      "S",
+      "W",
+      "I",
+      "M",
+      "A",
+      "L",
+      "F"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "MEDAL",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "TEAM",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "RACE",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "JUMP",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "SWIM",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BIKE",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "GOAL",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "PACE",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2214
+}

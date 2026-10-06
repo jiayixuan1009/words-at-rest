@@ -1,0 +1,208 @@
+{
+  "id": "painting-easy-02",
+  "slug": "painting-easy-02",
+  "themeId": "painting",
+  "title": "Painting: Quiet Wash",
+  "primaryKeyword": "painting word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CANVAS",
+    "DRAW",
+    "EASEL",
+    "FRAME",
+    "RAG",
+    "SHADE",
+    "STUDIO",
+    "TINT",
+    "TONE",
+    "WASH"
+  ],
+  "grid": [
+    [
+      "Y",
+      "O",
+      "I",
+      "U",
+      "Z",
+      "H",
+      "T",
+      "O",
+      "N",
+      "E"
+    ],
+    [
+      "A",
+      "D",
+      "H",
+      "T",
+      "I",
+      "N",
+      "T",
+      "A",
+      "S",
+      "W"
+    ],
+    [
+      "S",
+      "E",
+      "G",
+      "T",
+      "D",
+      "M",
+      "S",
+      "S",
+      "T",
+      "A"
+    ],
+    [
+      "E",
+      "A",
+      "S",
+      "E",
+      "L",
+      "U",
+      "V",
+      "R",
+      "U",
+      "S"
+    ],
+    [
+      "F",
+      "R",
+      "A",
+      "M",
+      "E",
+      "V",
+      "Y",
+      "E",
+      "D",
+      "H"
+    ],
+    [
+      "Z",
+      "C",
+      "A",
+      "N",
+      "V",
+      "A",
+      "S",
+      "U",
+      "I",
+      "A"
+    ],
+    [
+      "S",
+      "I",
+      "L",
+      "E",
+      "K",
+      "K",
+      "C",
+      "N",
+      "O",
+      "D"
+    ],
+    [
+      "K",
+      "M",
+      "K",
+      "D",
+      "R",
+      "A",
+      "W",
+      "L",
+      "S",
+      "E"
+    ],
+    [
+      "L",
+      "D",
+      "J",
+      "L",
+      "L",
+      "W",
+      "Y",
+      "T",
+      "V",
+      "P"
+    ],
+    [
+      "R",
+      "A",
+      "G",
+      "I",
+      "D",
+      "Y",
+      "C",
+      "L",
+      "A",
+      "I"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CANVAS",
+      "row": 5,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "STUDIO",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "EASEL",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SHADE",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "FRAME",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "TONE",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "TINT",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "WASH",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "DRAW",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "RAG",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8462
+}

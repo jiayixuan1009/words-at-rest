@@ -1,0 +1,284 @@
+{
+  "id": "airplanes-medium-02",
+  "slug": "airplanes-medium-02",
+  "themeId": "airplanes",
+  "title": "Airplanes: High Cloud",
+  "primaryKeyword": "airplanes word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "AIRPORT",
+    "ALTITUDE",
+    "ATTENDANT",
+    "COMPASS",
+    "ENGINE",
+    "FUSELAGE",
+    "HANGAR",
+    "HORIZON",
+    "PASSPORT",
+    "PROPELLER",
+    "RADAR",
+    "RADIO",
+    "TERMINAL",
+    "TURBULENCE"
+  ],
+  "grid": [
+    [
+      "R",
+      "A",
+      "D",
+      "I",
+      "O",
+      "G",
+      "T",
+      "F",
+      "C",
+      "Y",
+      "K",
+      "Z"
+    ],
+    [
+      "P",
+      "C",
+      "O",
+      "A",
+      "O",
+      "S",
+      "U",
+      "U",
+      "F",
+      "J",
+      "K",
+      "P"
+    ],
+    [
+      "R",
+      "A",
+      "T",
+      "L",
+      "H",
+      "I",
+      "R",
+      "S",
+      "J",
+      "D",
+      "U",
+      "A"
+    ],
+    [
+      "O",
+      "T",
+      "E",
+      "T",
+      "O",
+      "X",
+      "B",
+      "E",
+      "L",
+      "Q",
+      "A",
+      "S"
+    ],
+    [
+      "P",
+      "T",
+      "R",
+      "I",
+      "R",
+      "O",
+      "U",
+      "L",
+      "R",
+      "R",
+      "I",
+      "S"
+    ],
+    [
+      "E",
+      "E",
+      "M",
+      "T",
+      "I",
+      "D",
+      "L",
+      "A",
+      "A",
+      "A",
+      "R",
+      "P"
+    ],
+    [
+      "L",
+      "N",
+      "I",
+      "U",
+      "Z",
+      "C",
+      "E",
+      "G",
+      "Y",
+      "D",
+      "P",
+      "O"
+    ],
+    [
+      "L",
+      "D",
+      "N",
+      "D",
+      "O",
+      "D",
+      "N",
+      "E",
+      "E",
+      "A",
+      "O",
+      "R"
+    ],
+    [
+      "E",
+      "A",
+      "A",
+      "E",
+      "N",
+      "A",
+      "C",
+      "W",
+      "G",
+      "R",
+      "R",
+      "T"
+    ],
+    [
+      "R",
+      "N",
+      "L",
+      "N",
+      "H",
+      "L",
+      "E",
+      "Q",
+      "N",
+      "L",
+      "T",
+      "I"
+    ],
+    [
+      "G",
+      "T",
+      "F",
+      "Z",
+      "I",
+      "E",
+      "N",
+      "G",
+      "I",
+      "N",
+      "E",
+      "I"
+    ],
+    [
+      "E",
+      "C",
+      "R",
+      "G",
+      "C",
+      "O",
+      "M",
+      "P",
+      "A",
+      "S",
+      "S",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TURBULENCE",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "ATTENDANT",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "PROPELLER",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "FUSELAGE",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "PASSPORT",
+      "row": 1,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "ALTITUDE",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "TERMINAL",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "HORIZON",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "COMPASS",
+      "row": 11,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "AIRPORT",
+      "row": 3,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "HANGAR",
+      "row": 9,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "ENGINE",
+      "row": 10,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "RADAR",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "RADIO",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8084
+}

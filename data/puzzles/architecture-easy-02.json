@@ -1,0 +1,208 @@
+{
+  "id": "architecture-easy-02",
+  "slug": "architecture-easy-02",
+  "themeId": "architecture",
+  "title": "Architecture: Quiet Facade",
+  "primaryKeyword": "architecture word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BRICK",
+    "BRIDGE",
+    "COLUMN",
+    "FLOOR",
+    "PORCH",
+    "RAMP",
+    "SPAN",
+    "STAIR",
+    "STONE",
+    "WINDOW"
+  ],
+  "grid": [
+    [
+      "S",
+      "G",
+      "K",
+      "A",
+      "B",
+      "Q",
+      "O",
+      "V",
+      "W",
+      "O"
+    ],
+    [
+      "P",
+      "I",
+      "B",
+      "A",
+      "R",
+      "G",
+      "M",
+      "K",
+      "I",
+      "U"
+    ],
+    [
+      "A",
+      "A",
+      "R",
+      "B",
+      "I",
+      "F",
+      "J",
+      "L",
+      "N",
+      "O"
+    ],
+    [
+      "N",
+      "X",
+      "I",
+      "H",
+      "D",
+      "L",
+      "M",
+      "P",
+      "D",
+      "S"
+    ],
+    [
+      "C",
+      "S",
+      "C",
+      "R",
+      "G",
+      "C",
+      "V",
+      "R",
+      "O",
+      "T"
+    ],
+    [
+      "P",
+      "F",
+      "K",
+      "S",
+      "E",
+      "P",
+      "K",
+      "B",
+      "W",
+      "A"
+    ],
+    [
+      "B",
+      "L",
+      "Q",
+      "T",
+      "N",
+      "O",
+      "C",
+      "Y",
+      "J",
+      "I"
+    ],
+    [
+      "G",
+      "O",
+      "G",
+      "O",
+      "R",
+      "A",
+      "M",
+      "P",
+      "U",
+      "R"
+    ],
+    [
+      "F",
+      "O",
+      "M",
+      "N",
+      "P",
+      "O",
+      "R",
+      "C",
+      "H",
+      "A"
+    ],
+    [
+      "W",
+      "R",
+      "N",
+      "E",
+      "C",
+      "O",
+      "L",
+      "U",
+      "M",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "COLUMN",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "WINDOW",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "BRIDGE",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "FLOOR",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "PORCH",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "STAIR",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "BRICK",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "STONE",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "RAMP",
+      "row": 7,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SPAN",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8672
+}

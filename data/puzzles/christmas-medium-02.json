@@ -1,0 +1,284 @@
+{
+  "id": "christmas-medium-02",
+  "slug": "christmas-medium-02",
+  "themeId": "christmas",
+  "title": "Christmas: Evergreen Room",
+  "primaryKeyword": "christmas word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BLANKET",
+    "COCOA",
+    "EVERGREEN",
+    "GARLAND",
+    "HOLLY",
+    "ICICLE",
+    "IVY",
+    "MISTLETOE",
+    "MUFFLER",
+    "SLEIGH",
+    "SOLSTICE",
+    "STOCKING",
+    "TINSEL",
+    "WREATH"
+  ],
+  "grid": [
+    [
+      "W",
+      "R",
+      "E",
+      "A",
+      "T",
+      "H",
+      "M",
+      "L",
+      "G",
+      "N",
+      "X",
+      "I"
+    ],
+    [
+      "M",
+      "G",
+      "A",
+      "R",
+      "L",
+      "A",
+      "N",
+      "D",
+      "E",
+      "S",
+      "Z",
+      "B"
+    ],
+    [
+      "J",
+      "L",
+      "D",
+      "B",
+      "Q",
+      "Y",
+      "E",
+      "E",
+      "E",
+      "O",
+      "N",
+      "L"
+    ],
+    [
+      "O",
+      "L",
+      "C",
+      "T",
+      "L",
+      "L",
+      "R",
+      "W",
+      "Z",
+      "L",
+      "S",
+      "A"
+    ],
+    [
+      "W",
+      "W",
+      "E",
+      "L",
+      "C",
+      "G",
+      "V",
+      "F",
+      "M",
+      "S",
+      "T",
+      "N"
+    ],
+    [
+      "E",
+      "R",
+      "O",
+      "I",
+      "R",
+      "C",
+      "L",
+      "B",
+      "U",
+      "T",
+      "O",
+      "K"
+    ],
+    [
+      "M",
+      "H",
+      "C",
+      "E",
+      "F",
+      "I",
+      "V",
+      "Y",
+      "F",
+      "I",
+      "C",
+      "E"
+    ],
+    [
+      "B",
+      "I",
+      "V",
+      "P",
+      "Y",
+      "F",
+      "X",
+      "G",
+      "F",
+      "C",
+      "K",
+      "T"
+    ],
+    [
+      "Y",
+      "E",
+      "S",
+      "L",
+      "E",
+      "I",
+      "G",
+      "H",
+      "L",
+      "E",
+      "I",
+      "B"
+    ],
+    [
+      "T",
+      "I",
+      "N",
+      "S",
+      "E",
+      "L",
+      "G",
+      "L",
+      "E",
+      "H",
+      "N",
+      "Q"
+    ],
+    [
+      "C",
+      "O",
+      "C",
+      "O",
+      "A",
+      "F",
+      "R",
+      "S",
+      "R",
+      "G",
+      "G",
+      "J"
+    ],
+    [
+      "H",
+      "M",
+      "I",
+      "S",
+      "T",
+      "L",
+      "E",
+      "T",
+      "O",
+      "E",
+      "K",
+      "U"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "EVERGREEN",
+      "row": 8,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "MISTLETOE",
+      "row": 11,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "STOCKING",
+      "row": 3,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "SOLSTICE",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "BLANKET",
+      "row": 1,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "MUFFLER",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "GARLAND",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SLEIGH",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "TINSEL",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "ICICLE",
+      "row": 7,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "WREATH",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "HOLLY",
+      "row": 6,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "COCOA",
+      "row": 10,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "IVY",
+      "row": 6,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 1232
+}

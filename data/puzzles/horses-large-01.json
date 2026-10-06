@@ -1,0 +1,173 @@
+{
+  "id": "horses-large-01",
+  "slug": "horses-large-01",
+  "themeId": "horses",
+  "title": "Large Print Horses: Soft Mane",
+  "primaryKeyword": "large print horses word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BARN",
+    "FOAL",
+    "HAY",
+    "HORSE",
+    "MANE",
+    "PONY",
+    "RIDE",
+    "TAIL"
+  ],
+  "grid": [
+    [
+      "B",
+      "A",
+      "R",
+      "N",
+      "W",
+      "W",
+      "U",
+      "M",
+      "C"
+    ],
+    [
+      "M",
+      "V",
+      "F",
+      "F",
+      "Z",
+      "H",
+      "O",
+      "S",
+      "Z"
+    ],
+    [
+      "A",
+      "Y",
+      "W",
+      "O",
+      "Y",
+      "E",
+      "P",
+      "Y",
+      "H"
+    ],
+    [
+      "N",
+      "P",
+      "Z",
+      "A",
+      "D",
+      "I",
+      "O",
+      "K",
+      "A"
+    ],
+    [
+      "E",
+      "S",
+      "C",
+      "L",
+      "I",
+      "U",
+      "N",
+      "K",
+      "Y"
+    ],
+    [
+      "E",
+      "G",
+      "M",
+      "G",
+      "C",
+      "X",
+      "Y",
+      "X",
+      "G"
+    ],
+    [
+      "M",
+      "H",
+      "O",
+      "R",
+      "S",
+      "E",
+      "L",
+      "L",
+      "F"
+    ],
+    [
+      "C",
+      "C",
+      "K",
+      "H",
+      "T",
+      "A",
+      "I",
+      "L",
+      "I"
+    ],
+    [
+      "V",
+      "I",
+      "Q",
+      "Z",
+      "O",
+      "R",
+      "I",
+      "D",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "HORSE",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PONY",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "FOAL",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "BARN",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "MANE",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "TAIL",
+      "row": 7,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "RIDE",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "HAY",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8056
+}

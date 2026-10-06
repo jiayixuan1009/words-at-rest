@@ -1,0 +1,208 @@
+{
+  "id": "animals-easy-02",
+  "slug": "animals-easy-02",
+  "themeId": "animals",
+  "title": "Animals: Quiet Meadow",
+  "primaryKeyword": "animals word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "DEER",
+    "FOX",
+    "FROG",
+    "HARE",
+    "HERON",
+    "MOLE",
+    "NEST",
+    "OTTER",
+    "OWL",
+    "POND"
+  ],
+  "grid": [
+    [
+      "D",
+      "E",
+      "E",
+      "R",
+      "J",
+      "O",
+      "T",
+      "T",
+      "E",
+      "R"
+    ],
+    [
+      "E",
+      "P",
+      "M",
+      "W",
+      "I",
+      "W",
+      "O",
+      "H",
+      "M",
+      "L"
+    ],
+    [
+      "O",
+      "L",
+      "B",
+      "J",
+      "N",
+      "K",
+      "X",
+      "T",
+      "S",
+      "M"
+    ],
+    [
+      "B",
+      "Y",
+      "R",
+      "F",
+      "E",
+      "O",
+      "H",
+      "A",
+      "R",
+      "E"
+    ],
+    [
+      "M",
+      "W",
+      "I",
+      "O",
+      "S",
+      "Q",
+      "H",
+      "L",
+      "P",
+      "Y"
+    ],
+    [
+      "W",
+      "F",
+      "C",
+      "X",
+      "T",
+      "V",
+      "E",
+      "K",
+      "O",
+      "O"
+    ],
+    [
+      "N",
+      "R",
+      "B",
+      "N",
+      "M",
+      "Z",
+      "R",
+      "O",
+      "N",
+      "W"
+    ],
+    [
+      "O",
+      "O",
+      "M",
+      "B",
+      "M",
+      "S",
+      "O",
+      "C",
+      "D",
+      "L"
+    ],
+    [
+      "C",
+      "G",
+      "M",
+      "U",
+      "K",
+      "J",
+      "N",
+      "W",
+      "I",
+      "Y"
+    ],
+    [
+      "C",
+      "V",
+      "M",
+      "O",
+      "L",
+      "E",
+      "V",
+      "V",
+      "E",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "OTTER",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "HERON",
+      "row": 4,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "MOLE",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "DEER",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "HARE",
+      "row": 3,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "FROG",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "NEST",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "POND",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "FOX",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "OWL",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2011
+}

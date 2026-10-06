@@ -1,0 +1,173 @@
+{
+  "id": "friendship-large-01",
+  "slug": "friendship-large-01",
+  "themeId": "friendship",
+  "title": "Large Print Friendship: Soft Pal",
+  "primaryKeyword": "large print friendship word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "CARD",
+    "CARE",
+    "HELP",
+    "JOY",
+    "KIND",
+    "NOTE",
+    "PAL",
+    "WARM"
+  ],
+  "grid": [
+    [
+      "H",
+      "N",
+      "L",
+      "L",
+      "U",
+      "T",
+      "M",
+      "I",
+      "Y"
+    ],
+    [
+      "Y",
+      "W",
+      "C",
+      "C",
+      "A",
+      "R",
+      "D",
+      "I",
+      "G"
+    ],
+    [
+      "X",
+      "A",
+      "A",
+      "O",
+      "T",
+      "Z",
+      "R",
+      "O",
+      "P"
+    ],
+    [
+      "H",
+      "R",
+      "R",
+      "P",
+      "G",
+      "L",
+      "M",
+      "X",
+      "N"
+    ],
+    [
+      "K",
+      "M",
+      "E",
+      "K",
+      "V",
+      "D",
+      "H",
+      "Q",
+      "O"
+    ],
+    [
+      "C",
+      "S",
+      "P",
+      "I",
+      "Z",
+      "Q",
+      "E",
+      "H",
+      "T"
+    ],
+    [
+      "L",
+      "Y",
+      "A",
+      "N",
+      "A",
+      "I",
+      "L",
+      "D",
+      "E"
+    ],
+    [
+      "Z",
+      "F",
+      "L",
+      "D",
+      "C",
+      "N",
+      "P",
+      "N",
+      "X"
+    ],
+    [
+      "L",
+      "T",
+      "I",
+      "J",
+      "O",
+      "Y",
+      "O",
+      "R",
+      "W"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "NOTE",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "CARD",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "CARE",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "KIND",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "WARM",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "HELP",
+      "row": 4,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "PAL",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "JOY",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8156
+}

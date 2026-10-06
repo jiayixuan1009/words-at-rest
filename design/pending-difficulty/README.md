@@ -1,10 +1,11 @@
 # Pending difficulty art (not public)
 
-1200×900 Easy/Medium/Hard masters for themes that only exist on unreleased branches
-(`holidays-wave1`): easter, thanksgiving, valentines, winter.
+Holiday Wave 1 Easy/Medium/Hard masters (easter, thanksgiving, valentines, winter)
+were moved into `public/images/themes/` on branch `holidays-rebase` when wiring
+the launch package. This folder is empty until the next parked set arrives.
 
-When a theme goes live:
+Wire checklist (already done for holidays):
 1. `git mv design/pending-difficulty/<slug>-*.webp public/images/themes/`
-2. `node scripts/derive-images.mjs` (makes the -640 and -320 variants)
-3. Add `<slug>` to `DIFFICULTY_ART_THEMES` and a `LEVEL_MOTIF` entry in `lib/images.ts`
+2. `node scripts/derive-images.mjs`
+3. Add `<slug>` to `DIFFICULTY_ART_THEMES` + `LEVEL_MOTIF` in `lib/images.ts`
 4. `node scripts/check-images.mjs`

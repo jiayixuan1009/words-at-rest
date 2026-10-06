@@ -1,0 +1,208 @@
+{
+  "id": "food-easy-02",
+  "slug": "food-easy-02",
+  "themeId": "food",
+  "title": "Food: Herb Shelf",
+  "primaryKeyword": "food word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BASIL",
+    "BREAD",
+    "GARLIC",
+    "HERB",
+    "SALT",
+    "SOUP",
+    "SPICE",
+    "STEW",
+    "TEA",
+    "THYME"
+  ],
+  "grid": [
+    [
+      "L",
+      "N",
+      "D",
+      "R",
+      "K",
+      "X",
+      "G",
+      "F",
+      "M",
+      "M"
+    ],
+    [
+      "X",
+      "P",
+      "G",
+      "J",
+      "H",
+      "E",
+      "R",
+      "B",
+      "S",
+      "L"
+    ],
+    [
+      "X",
+      "O",
+      "J",
+      "B",
+      "R",
+      "E",
+      "A",
+      "D",
+      "O",
+      "N"
+    ],
+    [
+      "V",
+      "G",
+      "A",
+      "R",
+      "L",
+      "I",
+      "C",
+      "R",
+      "U",
+      "T"
+    ],
+    [
+      "S",
+      "L",
+      "C",
+      "Z",
+      "B",
+      "I",
+      "M",
+      "K",
+      "P",
+      "T"
+    ],
+    [
+      "P",
+      "E",
+      "S",
+      "V",
+      "A",
+      "Y",
+      "Y",
+      "M",
+      "G",
+      "H"
+    ],
+    [
+      "I",
+      "S",
+      "I",
+      "A",
+      "S",
+      "Z",
+      "F",
+      "S",
+      "I",
+      "Y"
+    ],
+    [
+      "C",
+      "T",
+      "T",
+      "V",
+      "I",
+      "V",
+      "C",
+      "A",
+      "I",
+      "M"
+    ],
+    [
+      "E",
+      "E",
+      "E",
+      "K",
+      "L",
+      "O",
+      "J",
+      "L",
+      "U",
+      "E"
+    ],
+    [
+      "W",
+      "W",
+      "A",
+      "T",
+      "B",
+      "Q",
+      "Z",
+      "T",
+      "Y",
+      "P"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "GARLIC",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BASIL",
+      "row": 4,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "THYME",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SPICE",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BREAD",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SALT",
+      "row": 6,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "HERB",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SOUP",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "STEW",
+      "row": 6,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "TEA",
+      "row": 7,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2311
+}

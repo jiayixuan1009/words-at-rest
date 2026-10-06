@@ -1,0 +1,208 @@
+{
+  "id": "photography-easy-01",
+  "slug": "photography-easy-01",
+  "themeId": "photography",
+  "title": "Photography: Lens Focus",
+  "primaryKeyword": "photography word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "FILM",
+    "FLASH",
+    "FOCUS",
+    "FRAME",
+    "LENS",
+    "LIGHT",
+    "PHOTO",
+    "PRINT",
+    "SHOT",
+    "VIEW"
+  ],
+  "grid": [
+    [
+      "N",
+      "P",
+      "R",
+      "I",
+      "N",
+      "T",
+      "X",
+      "O",
+      "F",
+      "V"
+    ],
+    [
+      "R",
+      "P",
+      "D",
+      "H",
+      "Z",
+      "X",
+      "F",
+      "I",
+      "L",
+      "O"
+    ],
+    [
+      "B",
+      "Q",
+      "V",
+      "I",
+      "E",
+      "W",
+      "I",
+      "N",
+      "A",
+      "U"
+    ],
+    [
+      "J",
+      "A",
+      "I",
+      "U",
+      "G",
+      "G",
+      "L",
+      "H",
+      "S",
+      "P"
+    ],
+    [
+      "F",
+      "O",
+      "C",
+      "U",
+      "S",
+      "F",
+      "M",
+      "S",
+      "H",
+      "H"
+    ],
+    [
+      "K",
+      "L",
+      "E",
+      "N",
+      "S",
+      "R",
+      "F",
+      "H",
+      "P",
+      "O"
+    ],
+    [
+      "J",
+      "C",
+      "Q",
+      "Y",
+      "Y",
+      "A",
+      "C",
+      "O",
+      "H",
+      "T"
+    ],
+    [
+      "K",
+      "L",
+      "U",
+      "V",
+      "M",
+      "M",
+      "R",
+      "T",
+      "J",
+      "O"
+    ],
+    [
+      "K",
+      "L",
+      "E",
+      "E",
+      "V",
+      "E",
+      "X",
+      "J",
+      "D",
+      "Q"
+    ],
+    [
+      "V",
+      "D",
+      "E",
+      "L",
+      "I",
+      "G",
+      "H",
+      "T",
+      "V",
+      "K"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PHOTO",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "FOCUS",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "FRAME",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "FLASH",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "LIGHT",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "PRINT",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "LENS",
+      "row": 5,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SHOT",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "FILM",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "VIEW",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8701
+}

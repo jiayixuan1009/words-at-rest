@@ -1,0 +1,173 @@
+{
+  "id": "farming-large-01",
+  "slug": "farming-large-01",
+  "themeId": "farming",
+  "title": "Large Print Farming: Soft Seed",
+  "primaryKeyword": "large print farming word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BARN",
+    "CORN",
+    "COW",
+    "FARM",
+    "FIELD",
+    "HAY",
+    "SEED",
+    "SUN"
+  ],
+  "grid": [
+    [
+      "S",
+      "U",
+      "M",
+      "Y",
+      "G",
+      "A",
+      "B",
+      "F",
+      "W"
+    ],
+    [
+      "S",
+      "P",
+      "L",
+      "B",
+      "C",
+      "O",
+      "W",
+      "N",
+      "G"
+    ],
+    [
+      "U",
+      "M",
+      "C",
+      "O",
+      "R",
+      "N",
+      "O",
+      "F",
+      "B"
+    ],
+    [
+      "N",
+      "J",
+      "I",
+      "N",
+      "M",
+      "F",
+      "D",
+      "I",
+      "A"
+    ],
+    [
+      "Y",
+      "B",
+      "E",
+      "H",
+      "A",
+      "Y",
+      "T",
+      "E",
+      "R"
+    ],
+    [
+      "W",
+      "F",
+      "A",
+      "R",
+      "M",
+      "I",
+      "S",
+      "L",
+      "N"
+    ],
+    [
+      "E",
+      "S",
+      "E",
+      "E",
+      "D",
+      "D",
+      "A",
+      "D",
+      "M"
+    ],
+    [
+      "R",
+      "T",
+      "D",
+      "M",
+      "S",
+      "J",
+      "X",
+      "B",
+      "K"
+    ],
+    [
+      "T",
+      "A",
+      "Q",
+      "Q",
+      "A",
+      "S",
+      "F",
+      "Y",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FIELD",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "FARM",
+      "row": 5,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SEED",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BARN",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "CORN",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "HAY",
+      "row": 4,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "COW",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SUN",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8096
+}

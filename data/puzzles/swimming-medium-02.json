@@ -1,0 +1,284 @@
+{
+  "id": "swimming-medium-02",
+  "slug": "swimming-medium-02",
+  "themeId": "swimming",
+  "title": "Swimming: Pool Morning",
+  "primaryKeyword": "swimming word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BLOCK",
+    "CURRENT",
+    "DEEP",
+    "DISTANCE",
+    "DRILL",
+    "ENDURANCE",
+    "LAKE",
+    "MEDLEY",
+    "OCEAN",
+    "RELAY",
+    "RIVER",
+    "SPRINT",
+    "SUIT",
+    "WARMUP"
+  ],
+  "grid": [
+    [
+      "S",
+      "N",
+      "E",
+      "N",
+      "D",
+      "U",
+      "R",
+      "A",
+      "N",
+      "C",
+      "E",
+      "I"
+    ],
+    [
+      "U",
+      "R",
+      "E",
+      "L",
+      "A",
+      "Y",
+      "W",
+      "A",
+      "R",
+      "M",
+      "U",
+      "P"
+    ],
+    [
+      "I",
+      "V",
+      "R",
+      "I",
+      "V",
+      "E",
+      "R",
+      "B",
+      "P",
+      "X",
+      "P",
+      "T"
+    ],
+    [
+      "T",
+      "E",
+      "C",
+      "N",
+      "K",
+      "R",
+      "C",
+      "N",
+      "B",
+      "R",
+      "G",
+      "D"
+    ],
+    [
+      "T",
+      "A",
+      "B",
+      "L",
+      "P",
+      "D",
+      "R",
+      "I",
+      "L",
+      "L",
+      "T",
+      "E"
+    ],
+    [
+      "D",
+      "I",
+      "S",
+      "T",
+      "A",
+      "N",
+      "C",
+      "E",
+      "I",
+      "N",
+      "L",
+      "P"
+    ],
+    [
+      "B",
+      "V",
+      "W",
+      "L",
+      "A",
+      "K",
+      "E",
+      "G",
+      "E",
+      "O",
+      "S",
+      "S"
+    ],
+    [
+      "L",
+      "M",
+      "E",
+      "D",
+      "L",
+      "E",
+      "Y",
+      "R",
+      "Q",
+      "P",
+      "S",
+      "P"
+    ],
+    [
+      "O",
+      "O",
+      "D",
+      "S",
+      "O",
+      "J",
+      "R",
+      "K",
+      "C",
+      "Z",
+      "D",
+      "R"
+    ],
+    [
+      "C",
+      "K",
+      "E",
+      "N",
+      "U",
+      "U",
+      "K",
+      "B",
+      "M",
+      "P",
+      "C",
+      "I"
+    ],
+    [
+      "K",
+      "P",
+      "E",
+      "E",
+      "C",
+      "U",
+      "E",
+      "O",
+      "C",
+      "E",
+      "A",
+      "N"
+    ],
+    [
+      "K",
+      "N",
+      "P",
+      "R",
+      "H",
+      "O",
+      "O",
+      "T",
+      "X",
+      "B",
+      "G",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ENDURANCE",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "DISTANCE",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CURRENT",
+      "row": 10,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "WARMUP",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "MEDLEY",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SPRINT",
+      "row": 6,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "DRILL",
+      "row": 4,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "RELAY",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "OCEAN",
+      "row": 10,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "RIVER",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BLOCK",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SUIT",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "LAKE",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "DEEP",
+      "row": 8,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8634
+}

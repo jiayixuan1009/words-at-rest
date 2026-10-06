@@ -1,0 +1,208 @@
+{
+  "id": "cooking-easy-01",
+  "slug": "cooking-easy-01",
+  "themeId": "cooking",
+  "title": "Cooking: Stove Basics",
+  "primaryKeyword": "cooking word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BAKE",
+    "BOIL",
+    "CHOP",
+    "COOK",
+    "FRY",
+    "GRILL",
+    "OIL",
+    "PAN",
+    "ROAST",
+    "SALT"
+  ],
+  "grid": [
+    [
+      "K",
+      "J",
+      "Y",
+      "G",
+      "T",
+      "H",
+      "C",
+      "W",
+      "T",
+      "P"
+    ],
+    [
+      "C",
+      "H",
+      "O",
+      "P",
+      "L",
+      "Y",
+      "R",
+      "N",
+      "N",
+      "A"
+    ],
+    [
+      "F",
+      "A",
+      "V",
+      "S",
+      "A",
+      "L",
+      "T",
+      "T",
+      "A",
+      "N"
+    ],
+    [
+      "D",
+      "J",
+      "C",
+      "O",
+      "M",
+      "R",
+      "O",
+      "F",
+      "S",
+      "W"
+    ],
+    [
+      "C",
+      "E",
+      "A",
+      "O",
+      "X",
+      "B",
+      "H",
+      "R",
+      "R",
+      "T"
+    ],
+    [
+      "F",
+      "P",
+      "N",
+      "R",
+      "J",
+      "O",
+      "Y",
+      "Y",
+      "X",
+      "B"
+    ],
+    [
+      "C",
+      "O",
+      "O",
+      "K",
+      "T",
+      "I",
+      "H",
+      "O",
+      "H",
+      "A"
+    ],
+    [
+      "G",
+      "R",
+      "I",
+      "L",
+      "L",
+      "L",
+      "E",
+      "I",
+      "K",
+      "K"
+    ],
+    [
+      "U",
+      "E",
+      "J",
+      "I",
+      "A",
+      "L",
+      "H",
+      "L",
+      "G",
+      "E"
+    ],
+    [
+      "P",
+      "R",
+      "O",
+      "A",
+      "S",
+      "T",
+      "T",
+      "R",
+      "L",
+      "O"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ROAST",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "GRILL",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "COOK",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BAKE",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "BOIL",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "CHOP",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SALT",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "FRY",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "OIL",
+      "row": 6,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "PAN",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8331
+}

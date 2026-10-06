@@ -1,0 +1,284 @@
+{
+  "id": "fishing-medium-02",
+  "slug": "fishing-medium-02",
+  "themeId": "fishing",
+  "title": "Fishing: Freshwater Catch",
+  "primaryKeyword": "fishing word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BASS",
+    "CATFISH",
+    "CREEL",
+    "CURRENT",
+    "LEADER",
+    "PERCH",
+    "RELEASE",
+    "SALMON",
+    "SHORE",
+    "SINKER",
+    "STREAM",
+    "TACKLE",
+    "TROUT",
+    "WADER"
+  ],
+  "grid": [
+    [
+      "X",
+      "N",
+      "C",
+      "O",
+      "F",
+      "T",
+      "C",
+      "B",
+      "U",
+      "C",
+      "V",
+      "S"
+    ],
+    [
+      "P",
+      "T",
+      "U",
+      "B",
+      "C",
+      "A",
+      "T",
+      "F",
+      "I",
+      "S",
+      "H",
+      "T"
+    ],
+    [
+      "V",
+      "R",
+      "R",
+      "F",
+      "G",
+      "I",
+      "I",
+      "T",
+      "I",
+      "S",
+      "T",
+      "R"
+    ],
+    [
+      "P",
+      "E",
+      "R",
+      "Q",
+      "S",
+      "Y",
+      "C",
+      "A",
+      "Z",
+      "H",
+      "O",
+      "E"
+    ],
+    [
+      "H",
+      "L",
+      "E",
+      "L",
+      "E",
+      "L",
+      "R",
+      "C",
+      "D",
+      "O",
+      "T",
+      "A"
+    ],
+    [
+      "N",
+      "E",
+      "N",
+      "A",
+      "B",
+      "E",
+      "E",
+      "K",
+      "A",
+      "R",
+      "R",
+      "M"
+    ],
+    [
+      "S",
+      "A",
+      "T",
+      "Z",
+      "T",
+      "A",
+      "E",
+      "L",
+      "G",
+      "E",
+      "W",
+      "S"
+    ],
+    [
+      "Y",
+      "S",
+      "D",
+      "P",
+      "R",
+      "D",
+      "L",
+      "E",
+      "K",
+      "B",
+      "A",
+      "A"
+    ],
+    [
+      "P",
+      "E",
+      "A",
+      "E",
+      "O",
+      "E",
+      "Q",
+      "N",
+      "S",
+      "L",
+      "D",
+      "L"
+    ],
+    [
+      "X",
+      "K",
+      "T",
+      "R",
+      "U",
+      "R",
+      "I",
+      "S",
+      "J",
+      "H",
+      "E",
+      "M"
+    ],
+    [
+      "I",
+      "I",
+      "X",
+      "C",
+      "T",
+      "S",
+      "A",
+      "Y",
+      "A",
+      "S",
+      "R",
+      "O"
+    ],
+    [
+      "S",
+      "K",
+      "O",
+      "H",
+      "N",
+      "B",
+      "Y",
+      "V",
+      "W",
+      "J",
+      "M",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CATFISH",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "RELEASE",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "CURRENT",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "SALMON",
+      "row": 6,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "STREAM",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "TACKLE",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SINKER",
+      "row": 10,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "LEADER",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "TROUT",
+      "row": 6,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "PERCH",
+      "row": 7,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "WADER",
+      "row": 6,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "CREEL",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "SHORE",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "BASS",
+      "row": 11,
+      "col": 5,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6044
+}

@@ -1,0 +1,284 @@
+{
+  "id": "wedding-medium-01",
+  "slug": "wedding-medium-01",
+  "themeId": "wedding",
+  "title": "Wedding: Garden Aisle",
+  "primaryKeyword": "wedding word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ALTAR",
+    "BOUQUET",
+    "BRIDE",
+    "CHAPEL",
+    "GARDEN",
+    "GROOM",
+    "HALL",
+    "LICENSE",
+    "MARRY",
+    "MUSIC",
+    "PROMISE",
+    "UNION",
+    "WEDDING",
+    "WITNESS"
+  ],
+  "grid": [
+    [
+      "C",
+      "H",
+      "A",
+      "P",
+      "E",
+      "L",
+      "U",
+      "Q",
+      "U",
+      "K",
+      "F",
+      "S"
+    ],
+    [
+      "F",
+      "J",
+      "A",
+      "V",
+      "D",
+      "D",
+      "M",
+      "A",
+      "R",
+      "R",
+      "Y",
+      "D"
+    ],
+    [
+      "E",
+      "T",
+      "Q",
+      "B",
+      "P",
+      "G",
+      "R",
+      "O",
+      "O",
+      "M",
+      "P",
+      "U"
+    ],
+    [
+      "Q",
+      "G",
+      "A",
+      "R",
+      "D",
+      "E",
+      "N",
+      "X",
+      "A",
+      "P",
+      "Z",
+      "M"
+    ],
+    [
+      "H",
+      "A",
+      "L",
+      "L",
+      "N",
+      "W",
+      "E",
+      "D",
+      "D",
+      "I",
+      "N",
+      "G"
+    ],
+    [
+      "L",
+      "F",
+      "B",
+      "M",
+      "J",
+      "Z",
+      "U",
+      "Q",
+      "D",
+      "F",
+      "L",
+      "V"
+    ],
+    [
+      "I",
+      "W",
+      "O",
+      "T",
+      "W",
+      "I",
+      "T",
+      "N",
+      "E",
+      "S",
+      "S",
+      "S"
+    ],
+    [
+      "C",
+      "V",
+      "U",
+      "X",
+      "F",
+      "E",
+      "Z",
+      "A",
+      "L",
+      "T",
+      "A",
+      "R"
+    ],
+    [
+      "E",
+      "D",
+      "Q",
+      "V",
+      "U",
+      "N",
+      "I",
+      "O",
+      "N",
+      "J",
+      "Z",
+      "A"
+    ],
+    [
+      "N",
+      "V",
+      "U",
+      "T",
+      "N",
+      "B",
+      "R",
+      "I",
+      "D",
+      "E",
+      "H",
+      "U"
+    ],
+    [
+      "S",
+      "X",
+      "E",
+      "P",
+      "M",
+      "U",
+      "S",
+      "I",
+      "C",
+      "O",
+      "H",
+      "N"
+    ],
+    [
+      "E",
+      "F",
+      "T",
+      "W",
+      "E",
+      "P",
+      "R",
+      "O",
+      "M",
+      "I",
+      "S",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "WEDDING",
+      "row": 4,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "BOUQUET",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "PROMISE",
+      "row": 11,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "WITNESS",
+      "row": 6,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "LICENSE",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CHAPEL",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "GARDEN",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "ALTAR",
+      "row": 7,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "MUSIC",
+      "row": 10,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "UNION",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "MARRY",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "BRIDE",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "GROOM",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "HALL",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8483
+}

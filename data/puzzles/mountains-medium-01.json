@@ -1,0 +1,284 @@
+{
+  "id": "mountains-medium-01",
+  "slug": "mountains-medium-01",
+  "themeId": "mountains",
+  "title": "Mountains: Alpine Air",
+  "primaryKeyword": "mountains word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ALPINE",
+    "ASCENT",
+    "BOULDER",
+    "CANYON",
+    "CASCADE",
+    "CAVE",
+    "CLOUD",
+    "DESCENT",
+    "GLACIER",
+    "HORIZON",
+    "LEDGE",
+    "MEADOW",
+    "SUMMIT",
+    "VISTA"
+  ],
+  "grid": [
+    [
+      "H",
+      "S",
+      "U",
+      "M",
+      "M",
+      "I",
+      "T",
+      "P",
+      "G",
+      "E",
+      "V",
+      "R"
+    ],
+    [
+      "O",
+      "M",
+      "Y",
+      "E",
+      "K",
+      "D",
+      "R",
+      "T",
+      "C",
+      "Q",
+      "S",
+      "N"
+    ],
+    [
+      "R",
+      "T",
+      "H",
+      "J",
+      "U",
+      "E",
+      "Y",
+      "U",
+      "Q",
+      "O",
+      "M",
+      "S"
+    ],
+    [
+      "I",
+      "B",
+      "I",
+      "O",
+      "D",
+      "C",
+      "A",
+      "N",
+      "Y",
+      "O",
+      "N",
+      "K"
+    ],
+    [
+      "Z",
+      "S",
+      "L",
+      "L",
+      "A",
+      "S",
+      "C",
+      "E",
+      "N",
+      "T",
+      "W",
+      "D"
+    ],
+    [
+      "O",
+      "C",
+      "U",
+      "B",
+      "Y",
+      "C",
+      "A",
+      "S",
+      "C",
+      "A",
+      "D",
+      "E"
+    ],
+    [
+      "N",
+      "O",
+      "W",
+      "U",
+      "M",
+      "E",
+      "A",
+      "D",
+      "O",
+      "W",
+      "V",
+      "C"
+    ],
+    [
+      "B",
+      "X",
+      "D",
+      "E",
+      "S",
+      "C",
+      "E",
+      "N",
+      "T",
+      "J",
+      "I",
+      "Z"
+    ],
+    [
+      "A",
+      "P",
+      "V",
+      "P",
+      "U",
+      "L",
+      "E",
+      "D",
+      "G",
+      "E",
+      "S",
+      "V"
+    ],
+    [
+      "K",
+      "A",
+      "L",
+      "P",
+      "I",
+      "N",
+      "E",
+      "F",
+      "I",
+      "W",
+      "T",
+      "P"
+    ],
+    [
+      "V",
+      "C",
+      "Z",
+      "G",
+      "L",
+      "C",
+      "A",
+      "V",
+      "E",
+      "O",
+      "A",
+      "E"
+    ],
+    [
+      "Y",
+      "W",
+      "L",
+      "S",
+      "G",
+      "L",
+      "A",
+      "C",
+      "I",
+      "E",
+      "R",
+      "A"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "DESCENT",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CASCADE",
+      "row": 5,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "GLACIER",
+      "row": 11,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BOULDER",
+      "row": 7,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "HORIZON",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SUMMIT",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CANYON",
+      "row": 3,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "ASCENT",
+      "row": 4,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "ALPINE",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "MEADOW",
+      "row": 6,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "LEDGE",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "VISTA",
+      "row": 6,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "CLOUD",
+      "row": 5,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "CAVE",
+      "row": 10,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8113
+}

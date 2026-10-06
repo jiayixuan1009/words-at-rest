@@ -1,0 +1,208 @@
+{
+  "id": "money-easy-02",
+  "slug": "money-easy-02",
+  "themeId": "money",
+  "title": "Money: Quiet Budget",
+  "primaryKeyword": "money word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CHANGE",
+    "DOLLAR",
+    "PURSE",
+    "SAFE",
+    "SPEND",
+    "TAX",
+    "TIP",
+    "VALUE",
+    "WALLET",
+    "WORTH"
+  ],
+  "grid": [
+    [
+      "L",
+      "X",
+      "T",
+      "T",
+      "A",
+      "X",
+      "Y",
+      "A",
+      "P",
+      "V"
+    ],
+    [
+      "P",
+      "S",
+      "I",
+      "C",
+      "D",
+      "C",
+      "E",
+      "F",
+      "K",
+      "O"
+    ],
+    [
+      "H",
+      "A",
+      "P",
+      "H",
+      "O",
+      "S",
+      "A",
+      "C",
+      "R",
+      "D"
+    ],
+    [
+      "M",
+      "F",
+      "P",
+      "A",
+      "L",
+      "P",
+      "W",
+      "E",
+      "W",
+      "W"
+    ],
+    [
+      "O",
+      "E",
+      "G",
+      "N",
+      "L",
+      "U",
+      "S",
+      "N",
+      "J",
+      "O"
+    ],
+    [
+      "W",
+      "V",
+      "C",
+      "G",
+      "A",
+      "R",
+      "P",
+      "T",
+      "I",
+      "R"
+    ],
+    [
+      "O",
+      "A",
+      "M",
+      "E",
+      "R",
+      "S",
+      "E",
+      "H",
+      "E",
+      "T"
+    ],
+    [
+      "X",
+      "L",
+      "G",
+      "D",
+      "M",
+      "E",
+      "N",
+      "T",
+      "D",
+      "H"
+    ],
+    [
+      "N",
+      "U",
+      "A",
+      "M",
+      "O",
+      "W",
+      "D",
+      "R",
+      "X",
+      "M"
+    ],
+    [
+      "Q",
+      "E",
+      "Y",
+      "W",
+      "A",
+      "L",
+      "L",
+      "E",
+      "T",
+      "A"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "DOLLAR",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "CHANGE",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "WALLET",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "PURSE",
+      "row": 3,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "SPEND",
+      "row": 4,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "VALUE",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "WORTH",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SAFE",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "TAX",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "TIP",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8352
+}

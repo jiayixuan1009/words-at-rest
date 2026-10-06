@@ -1,0 +1,173 @@
+{
+  "id": "islands-large-01",
+  "slug": "islands-large-01",
+  "themeId": "islands",
+  "title": "Large Print Islands: Soft Shore",
+  "primaryKeyword": "large print islands word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BAY",
+    "BOAT",
+    "ISLE",
+    "REEF",
+    "SAND",
+    "SHORE",
+    "TIDE",
+    "WAVE"
+  ],
+  "grid": [
+    [
+      "J",
+      "Z",
+      "J",
+      "I",
+      "S",
+      "L",
+      "E",
+      "C",
+      "G"
+    ],
+    [
+      "J",
+      "V",
+      "T",
+      "T",
+      "P",
+      "S",
+      "A",
+      "N",
+      "D"
+    ],
+    [
+      "N",
+      "J",
+      "Z",
+      "S",
+      "R",
+      "L",
+      "R",
+      "H",
+      "W"
+    ],
+    [
+      "D",
+      "Y",
+      "T",
+      "K",
+      "T",
+      "I",
+      "D",
+      "E",
+      "T"
+    ],
+    [
+      "B",
+      "W",
+      "M",
+      "D",
+      "R",
+      "E",
+      "E",
+      "F",
+      "G"
+    ],
+    [
+      "A",
+      "O",
+      "S",
+      "H",
+      "O",
+      "R",
+      "E",
+      "C",
+      "F"
+    ],
+    [
+      "Y",
+      "D",
+      "A",
+      "T",
+      "B",
+      "O",
+      "A",
+      "T",
+      "D"
+    ],
+    [
+      "O",
+      "Q",
+      "P",
+      "X",
+      "S",
+      "Z",
+      "A",
+      "C",
+      "G"
+    ],
+    [
+      "M",
+      "L",
+      "W",
+      "A",
+      "V",
+      "E",
+      "M",
+      "M",
+      "Y"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SHORE",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ISLE",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "REEF",
+      "row": 4,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BOAT",
+      "row": 6,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "TIDE",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SAND",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "WAVE",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BAY",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8686
+}

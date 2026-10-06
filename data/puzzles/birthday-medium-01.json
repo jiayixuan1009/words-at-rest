@@ -1,0 +1,284 @@
+{
+  "id": "birthday-medium-01",
+  "slug": "birthday-medium-01",
+  "themeId": "birthday",
+  "title": "Birthday: Party Table",
+  "primaryKeyword": "birthday word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "AGE",
+    "BALLOON",
+    "BIRTHDAY",
+    "COFFEE",
+    "FAMILY",
+    "FORK",
+    "FRIEND",
+    "FROST",
+    "ICING",
+    "NAPKIN",
+    "PRESENT",
+    "RIBBON",
+    "SURPRISE",
+    "TABLE"
+  ],
+  "grid": [
+    [
+      "E",
+      "F",
+      "R",
+      "I",
+      "E",
+      "N",
+      "D",
+      "R",
+      "D",
+      "V",
+      "I",
+      "G"
+    ],
+    [
+      "P",
+      "Z",
+      "V",
+      "F",
+      "A",
+      "M",
+      "I",
+      "L",
+      "Y",
+      "X",
+      "N",
+      "Y"
+    ],
+    [
+      "B",
+      "I",
+      "P",
+      "R",
+      "E",
+      "S",
+      "E",
+      "N",
+      "T",
+      "I",
+      "A",
+      "K"
+    ],
+    [
+      "A",
+      "C",
+      "O",
+      "H",
+      "H",
+      "G",
+      "M",
+      "V",
+      "C",
+      "D",
+      "T",
+      "E"
+    ],
+    [
+      "L",
+      "T",
+      "T",
+      "S",
+      "A",
+      "F",
+      "K",
+      "I",
+      "H",
+      "X",
+      "Z",
+      "X"
+    ],
+    [
+      "L",
+      "R",
+      "A",
+      "H",
+      "U",
+      "R",
+      "G",
+      "T",
+      "N",
+      "N",
+      "D",
+      "K"
+    ],
+    [
+      "O",
+      "I",
+      "B",
+      "O",
+      "O",
+      "R",
+      "R",
+      "R",
+      "A",
+      "O",
+      "F",
+      "G"
+    ],
+    [
+      "O",
+      "B",
+      "L",
+      "F",
+      "C",
+      "I",
+      "P",
+      "E",
+      "P",
+      "S",
+      "R",
+      "C"
+    ],
+    [
+      "N",
+      "B",
+      "E",
+      "G",
+      "B",
+      "K",
+      "J",
+      "R",
+      "K",
+      "H",
+      "O",
+      "N"
+    ],
+    [
+      "M",
+      "O",
+      "D",
+      "R",
+      "S",
+      "W",
+      "R",
+      "S",
+      "I",
+      "W",
+      "S",
+      "E"
+    ],
+    [
+      "N",
+      "N",
+      "C",
+      "O",
+      "F",
+      "F",
+      "E",
+      "E",
+      "N",
+      "S",
+      "T",
+      "D"
+    ],
+    [
+      "U",
+      "C",
+      "T",
+      "Q",
+      "W",
+      "L",
+      "W",
+      "Y",
+      "F",
+      "Q",
+      "E",
+      "Z"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BIRTHDAY",
+      "row": 8,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "SURPRISE",
+      "row": 4,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "BALLOON",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "PRESENT",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "RIBBON",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "COFFEE",
+      "row": 10,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "NAPKIN",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "FAMILY",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "FRIEND",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "ICING",
+      "row": 4,
+      "col": 7,
+      "direction": "NE"
+    },
+    {
+      "word": "FROST",
+      "row": 6,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "TABLE",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "FORK",
+      "row": 7,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "AGE",
+      "row": 4,
+      "col": 4,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8473
+}

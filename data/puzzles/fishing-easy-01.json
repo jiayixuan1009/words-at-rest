@@ -1,0 +1,208 @@
+{
+  "id": "fishing-easy-01",
+  "slug": "fishing-easy-01",
+  "themeId": "fishing",
+  "title": "Fishing: Rod & Reel",
+  "primaryKeyword": "fishing word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BAIT",
+    "CAST",
+    "DOCK",
+    "HAT",
+    "HOOK",
+    "LINE",
+    "LURE",
+    "NET",
+    "REEL",
+    "ROD"
+  ],
+  "grid": [
+    [
+      "W",
+      "T",
+      "J",
+      "K",
+      "T",
+      "C",
+      "N",
+      "O",
+      "L",
+      "L"
+    ],
+    [
+      "D",
+      "B",
+      "R",
+      "N",
+      "H",
+      "A",
+      "T",
+      "S",
+      "D",
+      "I"
+    ],
+    [
+      "E",
+      "A",
+      "E",
+      "E",
+      "Q",
+      "J",
+      "Y",
+      "H",
+      "O",
+      "N"
+    ],
+    [
+      "X",
+      "I",
+      "E",
+      "T",
+      "B",
+      "A",
+      "Q",
+      "O",
+      "J",
+      "E"
+    ],
+    [
+      "N",
+      "T",
+      "L",
+      "Z",
+      "Z",
+      "Q",
+      "G",
+      "O",
+      "A",
+      "S"
+    ],
+    [
+      "C",
+      "A",
+      "S",
+      "T",
+      "Q",
+      "M",
+      "E",
+      "K",
+      "Q",
+      "O"
+    ],
+    [
+      "L",
+      "Z",
+      "B",
+      "R",
+      "P",
+      "T",
+      "Z",
+      "Q",
+      "E",
+      "J"
+    ],
+    [
+      "C",
+      "D",
+      "O",
+      "C",
+      "K",
+      "Y",
+      "L",
+      "U",
+      "R",
+      "E"
+    ],
+    [
+      "G",
+      "I",
+      "S",
+      "B",
+      "G",
+      "D",
+      "E",
+      "I",
+      "C",
+      "F"
+    ],
+    [
+      "Y",
+      "C",
+      "T",
+      "R",
+      "O",
+      "D",
+      "S",
+      "V",
+      "O",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "REEL",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "LINE",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "HOOK",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "BAIT",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "LURE",
+      "row": 7,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "CAST",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "DOCK",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "ROD",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "NET",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "HAT",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6041
+}

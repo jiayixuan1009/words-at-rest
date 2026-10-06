@@ -1,0 +1,284 @@
+{
+  "id": "us-states-medium-02",
+  "slug": "us-states-medium-02",
+  "themeId": "us-states",
+  "title": "U.S. States: Capitol Tour",
+  "primaryKeyword": "us states word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ALABAMA",
+    "ARKANSAS",
+    "DELAWARE",
+    "FLORIDA",
+    "GEORGIA",
+    "IDAHO",
+    "KANSAS",
+    "MARYLAND",
+    "MISSOURI",
+    "MONTANA",
+    "NEBRASKA",
+    "NEVADA",
+    "OREGON",
+    "VERMONT"
+  ],
+  "grid": [
+    [
+      "M",
+      "B",
+      "A",
+      "L",
+      "A",
+      "B",
+      "A",
+      "M",
+      "A",
+      "V",
+      "Q",
+      "U"
+    ],
+    [
+      "B",
+      "I",
+      "F",
+      "K",
+      "W",
+      "U",
+      "H",
+      "D",
+      "H",
+      "Y",
+      "E",
+      "N"
+    ],
+    [
+      "Y",
+      "K",
+      "S",
+      "F",
+      "Y",
+      "C",
+      "I",
+      "S",
+      "F",
+      "R",
+      "S",
+      "E"
+    ],
+    [
+      "G",
+      "A",
+      "E",
+      "S",
+      "N",
+      "R",
+      "A",
+      "B",
+      "A",
+      "O",
+      "J",
+      "B"
+    ],
+    [
+      "E",
+      "N",
+      "O",
+      "S",
+      "O",
+      "S",
+      "M",
+      "W",
+      "J",
+      "R",
+      "M",
+      "R"
+    ],
+    [
+      "O",
+      "S",
+      "I",
+      "L",
+      "N",
+      "U",
+      "A",
+      "Y",
+      "V",
+      "E",
+      "O",
+      "A"
+    ],
+    [
+      "R",
+      "A",
+      "F",
+      "A",
+      "K",
+      "L",
+      "R",
+      "C",
+      "E",
+      "G",
+      "N",
+      "S"
+    ],
+    [
+      "G",
+      "S",
+      "K",
+      "G",
+      "E",
+      "T",
+      "Y",
+      "I",
+      "R",
+      "O",
+      "T",
+      "K"
+    ],
+    [
+      "I",
+      "R",
+      "M",
+      "D",
+      "Q",
+      "R",
+      "L",
+      "S",
+      "M",
+      "N",
+      "A",
+      "A"
+    ],
+    [
+      "A",
+      "F",
+      "H",
+      "C",
+      "Q",
+      "A",
+      "A",
+      "W",
+      "O",
+      "M",
+      "N",
+      "W"
+    ],
+    [
+      "I",
+      "D",
+      "A",
+      "H",
+      "O",
+      "D",
+      "N",
+      "G",
+      "N",
+      "Y",
+      "A",
+      "H"
+    ],
+    [
+      "V",
+      "Z",
+      "N",
+      "E",
+      "V",
+      "A",
+      "D",
+      "A",
+      "T",
+      "P",
+      "A",
+      "C"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ARKANSAS",
+      "row": 9,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "DELAWARE",
+      "row": 8,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "MARYLAND",
+      "row": 4,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "MISSOURI",
+      "row": 0,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "NEBRASKA",
+      "row": 1,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "VERMONT",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "ALABAMA",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "MONTANA",
+      "row": 4,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "FLORIDA",
+      "row": 6,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "GEORGIA",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "OREGON",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "KANSAS",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "NEVADA",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "IDAHO",
+      "row": 10,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8014
+}

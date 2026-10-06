@@ -1,0 +1,208 @@
+{
+  "id": "deserts-easy-02",
+  "slug": "deserts-easy-02",
+  "themeId": "deserts",
+  "title": "Deserts: Quiet Oasis",
+  "primaryKeyword": "deserts word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ARID",
+    "COOL",
+    "DAWN",
+    "DESERT",
+    "FLAT",
+    "MESA",
+    "NIGHT",
+    "OASIS",
+    "SALT",
+    "SHADE"
+  ],
+  "grid": [
+    [
+      "U",
+      "Z",
+      "Z",
+      "F",
+      "D",
+      "N",
+      "A",
+      "I",
+      "T",
+      "N"
+    ],
+    [
+      "S",
+      "H",
+      "A",
+      "D",
+      "E",
+      "A",
+      "F",
+      "B",
+      "D",
+      "H"
+    ],
+    [
+      "V",
+      "R",
+      "R",
+      "A",
+      "I",
+      "B",
+      "L",
+      "I",
+      "A",
+      "W"
+    ],
+    [
+      "B",
+      "U",
+      "S",
+      "A",
+      "L",
+      "T",
+      "A",
+      "Y",
+      "W",
+      "O"
+    ],
+    [
+      "G",
+      "I",
+      "O",
+      "J",
+      "G",
+      "A",
+      "T",
+      "M",
+      "N",
+      "W"
+    ],
+    [
+      "L",
+      "Y",
+      "A",
+      "D",
+      "D",
+      "E",
+      "S",
+      "E",
+      "R",
+      "T"
+    ],
+    [
+      "B",
+      "B",
+      "S",
+      "X",
+      "K",
+      "A",
+      "C",
+      "M",
+      "V",
+      "C"
+    ],
+    [
+      "A",
+      "M",
+      "I",
+      "X",
+      "U",
+      "R",
+      "O",
+      "N",
+      "D",
+      "D"
+    ],
+    [
+      "M",
+      "E",
+      "S",
+      "A",
+      "W",
+      "I",
+      "O",
+      "T",
+      "X",
+      "I"
+    ],
+    [
+      "N",
+      "I",
+      "G",
+      "H",
+      "T",
+      "D",
+      "L",
+      "H",
+      "F",
+      "Z"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "DESERT",
+      "row": 5,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "OASIS",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "SHADE",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "NIGHT",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "ARID",
+      "row": 6,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "MESA",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SALT",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "FLAT",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "COOL",
+      "row": 6,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "DAWN",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8542
+}

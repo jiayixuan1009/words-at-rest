@@ -1,0 +1,173 @@
+{
+  "id": "hiking-large-01",
+  "slug": "hiking-large-01",
+  "themeId": "hiking",
+  "title": "Large Print Hiking: Soft Path",
+  "primaryKeyword": "large print hiking word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BOOT",
+    "HIKE",
+    "MAP",
+    "PACK",
+    "PATH",
+    "REST",
+    "TRAIL",
+    "VIEW"
+  ],
+  "grid": [
+    [
+      "G",
+      "P",
+      "A",
+      "T",
+      "H",
+      "M",
+      "A",
+      "P",
+      "C"
+    ],
+    [
+      "S",
+      "H",
+      "Y",
+      "O",
+      "P",
+      "D",
+      "A",
+      "S",
+      "P"
+    ],
+    [
+      "T",
+      "I",
+      "R",
+      "F",
+      "M",
+      "N",
+      "G",
+      "N",
+      "X"
+    ],
+    [
+      "R",
+      "K",
+      "D",
+      "V",
+      "I",
+      "E",
+      "W",
+      "V",
+      "Y"
+    ],
+    [
+      "A",
+      "E",
+      "B",
+      "R",
+      "L",
+      "E",
+      "J",
+      "V",
+      "S"
+    ],
+    [
+      "I",
+      "Q",
+      "O",
+      "E",
+      "B",
+      "P",
+      "A",
+      "C",
+      "K"
+    ],
+    [
+      "L",
+      "S",
+      "O",
+      "S",
+      "S",
+      "X",
+      "B",
+      "H",
+      "Z"
+    ],
+    [
+      "W",
+      "S",
+      "T",
+      "T",
+      "W",
+      "B",
+      "S",
+      "P",
+      "Q"
+    ],
+    [
+      "L",
+      "C",
+      "Z",
+      "V",
+      "R",
+      "U",
+      "L",
+      "Z",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TRAIL",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "HIKE",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "BOOT",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "PACK",
+      "row": 5,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "VIEW",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "REST",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "PATH",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "MAP",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8646
+}

@@ -1,0 +1,208 @@
+{
+  "id": "swimming-easy-01",
+  "slug": "swimming-easy-01",
+  "themeId": "swimming",
+  "title": "Swimming: Lane Lap",
+  "primaryKeyword": "swimming word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CAP",
+    "DIVE",
+    "KICK",
+    "LANE",
+    "LAP",
+    "POOL",
+    "SWIM",
+    "TEAM",
+    "TURN",
+    "WAVE"
+  ],
+  "grid": [
+    [
+      "X",
+      "L",
+      "A",
+      "P",
+      "A",
+      "K",
+      "C",
+      "I",
+      "J",
+      "D"
+    ],
+    [
+      "T",
+      "U",
+      "R",
+      "N",
+      "M",
+      "Z",
+      "A",
+      "A",
+      "V",
+      "G"
+    ],
+    [
+      "E",
+      "N",
+      "M",
+      "N",
+      "M",
+      "B",
+      "P",
+      "J",
+      "W",
+      "F"
+    ],
+    [
+      "A",
+      "U",
+      "H",
+      "W",
+      "H",
+      "R",
+      "T",
+      "T",
+      "A",
+      "C"
+    ],
+    [
+      "M",
+      "N",
+      "L",
+      "X",
+      "N",
+      "O",
+      "E",
+      "K",
+      "V",
+      "K"
+    ],
+    [
+      "A",
+      "D",
+      "I",
+      "V",
+      "V",
+      "L",
+      "A",
+      "N",
+      "E",
+      "L"
+    ],
+    [
+      "H",
+      "X",
+      "D",
+      "Y",
+      "B",
+      "P",
+      "O",
+      "O",
+      "L",
+      "U"
+    ],
+    [
+      "S",
+      "W",
+      "I",
+      "M",
+      "W",
+      "I",
+      "A",
+      "Q",
+      "B",
+      "S"
+    ],
+    [
+      "A",
+      "H",
+      "V",
+      "I",
+      "Z",
+      "E",
+      "S",
+      "F",
+      "R",
+      "Q"
+    ],
+    [
+      "D",
+      "N",
+      "E",
+      "X",
+      "Z",
+      "K",
+      "I",
+      "C",
+      "K",
+      "J"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SWIM",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "LANE",
+      "row": 5,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "POOL",
+      "row": 6,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "KICK",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "DIVE",
+      "row": 6,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "TURN",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "TEAM",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "WAVE",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "LAP",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CAP",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8631
+}

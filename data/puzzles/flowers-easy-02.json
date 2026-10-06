@@ -1,0 +1,208 @@
+{
+  "id": "flowers-easy-02",
+  "slug": "flowers-easy-02",
+  "themeId": "flowers",
+  "title": "Flowers: Cut Blooms",
+  "primaryKeyword": "flowers word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ASTER",
+    "BED",
+    "BEE",
+    "BLOOM",
+    "CUT",
+    "LIGHT",
+    "PANSY",
+    "PEONY",
+    "PETAL",
+    "VIOLET"
+  ],
+  "grid": [
+    [
+      "E",
+      "U",
+      "P",
+      "A",
+      "N",
+      "S",
+      "Y",
+      "Y",
+      "I",
+      "W"
+    ],
+    [
+      "K",
+      "P",
+      "E",
+      "T",
+      "A",
+      "L",
+      "T",
+      "B",
+      "T",
+      "M"
+    ],
+    [
+      "G",
+      "Q",
+      "A",
+      "Z",
+      "Q",
+      "O",
+      "D",
+      "E",
+      "A",
+      "E"
+    ],
+    [
+      "N",
+      "N",
+      "A",
+      "B",
+      "E",
+      "E",
+      "I",
+      "D",
+      "J",
+      "C"
+    ],
+    [
+      "P",
+      "E",
+      "O",
+      "N",
+      "Y",
+      "Q",
+      "K",
+      "Y",
+      "M",
+      "U"
+    ],
+    [
+      "O",
+      "A",
+      "L",
+      "V",
+      "I",
+      "O",
+      "L",
+      "E",
+      "T",
+      "T"
+    ],
+    [
+      "Y",
+      "S",
+      "I",
+      "E",
+      "L",
+      "N",
+      "B",
+      "P",
+      "T",
+      "G"
+    ],
+    [
+      "K",
+      "T",
+      "G",
+      "H",
+      "O",
+      "H",
+      "R",
+      "X",
+      "B",
+      "N"
+    ],
+    [
+      "J",
+      "E",
+      "H",
+      "H",
+      "Y",
+      "N",
+      "M",
+      "R",
+      "P",
+      "Y"
+    ],
+    [
+      "F",
+      "R",
+      "T",
+      "R",
+      "B",
+      "L",
+      "O",
+      "O",
+      "M",
+      "L"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "VIOLET",
+      "row": 5,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "PANSY",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ASTER",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "PEONY",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BLOOM",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "PETAL",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "LIGHT",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "BED",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "CUT",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "BEE",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7162
+}

@@ -1,0 +1,208 @@
+{
+  "id": "photography-easy-02",
+  "slug": "photography-easy-02",
+  "themeId": "photography",
+  "title": "Photography: Quiet Frame",
+  "primaryKeyword": "photography word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ALBUM",
+    "CAMERA",
+    "CRAFT",
+    "IMAGE",
+    "ROLL",
+    "SCENE",
+    "SHADE",
+    "SPEED",
+    "WIDE",
+    "ZOOM"
+  ],
+  "grid": [
+    [
+      "D",
+      "O",
+      "S",
+      "S",
+      "H",
+      "A",
+      "D",
+      "E",
+      "M",
+      "W"
+    ],
+    [
+      "U",
+      "H",
+      "A",
+      "L",
+      "B",
+      "U",
+      "M",
+      "A",
+      "Y",
+      "I"
+    ],
+    [
+      "S",
+      "P",
+      "E",
+      "E",
+      "D",
+      "N",
+      "U",
+      "T",
+      "X",
+      "M"
+    ],
+    [
+      "V",
+      "T",
+      "C",
+      "F",
+      "Y",
+      "D",
+      "L",
+      "M",
+      "T",
+      "A"
+    ],
+    [
+      "L",
+      "I",
+      "A",
+      "O",
+      "Z",
+      "Z",
+      "O",
+      "O",
+      "M",
+      "G"
+    ],
+    [
+      "P",
+      "H",
+      "M",
+      "S",
+      "C",
+      "E",
+      "N",
+      "E",
+      "M",
+      "E"
+    ],
+    [
+      "P",
+      "R",
+      "E",
+      "F",
+      "F",
+      "G",
+      "W",
+      "I",
+      "D",
+      "E"
+    ],
+    [
+      "H",
+      "A",
+      "R",
+      "J",
+      "B",
+      "C",
+      "R",
+      "A",
+      "F",
+      "T"
+    ],
+    [
+      "B",
+      "T",
+      "A",
+      "V",
+      "L",
+      "R",
+      "O",
+      "L",
+      "L",
+      "O"
+    ],
+    [
+      "T",
+      "N",
+      "R",
+      "Y",
+      "S",
+      "D",
+      "Z",
+      "H",
+      "A",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CAMERA",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "SHADE",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SPEED",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SCENE",
+      "row": 5,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "ALBUM",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "IMAGE",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "CRAFT",
+      "row": 7,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "ROLL",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "ZOOM",
+      "row": 4,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "WIDE",
+      "row": 6,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8702
+}

@@ -1,0 +1,284 @@
+{
+  "id": "volcanoes-medium-01",
+  "slug": "volcanoes-medium-01",
+  "themeId": "volcanoes",
+  "title": "Volcanoes: Lava Flow",
+  "primaryKeyword": "volcanoes word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ARC",
+    "BASALT",
+    "CALDERA",
+    "CLOUD",
+    "ERUPT",
+    "FIERY",
+    "MOUNTAIN",
+    "PLUME",
+    "PUMICE",
+    "QUAKE",
+    "RING",
+    "SUMMIT",
+    "TREMOR",
+    "VOLCANO"
+  ],
+  "grid": [
+    [
+      "B",
+      "K",
+      "U",
+      "V",
+      "K",
+      "S",
+      "U",
+      "M",
+      "M",
+      "I",
+      "T",
+      "J"
+    ],
+    [
+      "C",
+      "Z",
+      "M",
+      "G",
+      "O",
+      "R",
+      "I",
+      "N",
+      "G",
+      "P",
+      "U",
+      "T"
+    ],
+    [
+      "L",
+      "Z",
+      "O",
+      "I",
+      "M",
+      "L",
+      "W",
+      "J",
+      "Y",
+      "F",
+      "L",
+      "F"
+    ],
+    [
+      "O",
+      "O",
+      "U",
+      "F",
+      "A",
+      "A",
+      "C",
+      "B",
+      "O",
+      "I",
+      "V",
+      "N"
+    ],
+    [
+      "U",
+      "M",
+      "N",
+      "X",
+      "D",
+      "Q",
+      "B",
+      "A",
+      "S",
+      "A",
+      "L",
+      "T"
+    ],
+    [
+      "D",
+      "P",
+      "T",
+      "C",
+      "X",
+      "G",
+      "V",
+      "C",
+      "N",
+      "Q",
+      "Z",
+      "V"
+    ],
+    [
+      "N",
+      "U",
+      "A",
+      "A",
+      "Q",
+      "U",
+      "A",
+      "K",
+      "E",
+      "O",
+      "O",
+      "F"
+    ],
+    [
+      "Z",
+      "M",
+      "I",
+      "L",
+      "T",
+      "R",
+      "E",
+      "M",
+      "O",
+      "R",
+      "W",
+      "P"
+    ],
+    [
+      "H",
+      "I",
+      "N",
+      "D",
+      "J",
+      "Q",
+      "E",
+      "R",
+      "U",
+      "P",
+      "T",
+      "L"
+    ],
+    [
+      "Q",
+      "C",
+      "A",
+      "E",
+      "O",
+      "M",
+      "R",
+      "W",
+      "T",
+      "M",
+      "Y",
+      "U"
+    ],
+    [
+      "K",
+      "E",
+      "R",
+      "R",
+      "F",
+      "I",
+      "E",
+      "R",
+      "Y",
+      "R",
+      "B",
+      "M"
+    ],
+    [
+      "U",
+      "E",
+      "C",
+      "A",
+      "I",
+      "W",
+      "R",
+      "D",
+      "A",
+      "O",
+      "N",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "MOUNTAIN",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "VOLCANO",
+      "row": 0,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "CALDERA",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "BASALT",
+      "row": 4,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "PUMICE",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "TREMOR",
+      "row": 7,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SUMMIT",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "ERUPT",
+      "row": 8,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "PLUME",
+      "row": 7,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "CLOUD",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "FIERY",
+      "row": 10,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "QUAKE",
+      "row": 6,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "RING",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "ARC",
+      "row": 9,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8513
+}

@@ -1,0 +1,284 @@
+{
+  "id": "food-medium-02",
+  "slug": "food-medium-02",
+  "themeId": "food",
+  "title": "Food: Market Basket",
+  "primaryKeyword": "food word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BROTH",
+    "CUMIN",
+    "FLOUR",
+    "GINGER",
+    "KITCHEN",
+    "MARKET",
+    "OLIVE",
+    "ONION",
+    "OREGANO",
+    "PEPPER",
+    "RISOTTO",
+    "ROSEMARY",
+    "SAFFRON",
+    "YEAST"
+  ],
+  "grid": [
+    [
+      "B",
+      "D",
+      "H",
+      "C",
+      "U",
+      "M",
+      "I",
+      "N",
+      "G",
+      "F",
+      "N",
+      "D"
+    ],
+    [
+      "W",
+      "H",
+      "M",
+      "Z",
+      "Q",
+      "R",
+      "I",
+      "S",
+      "O",
+      "T",
+      "T",
+      "O"
+    ],
+    [
+      "K",
+      "Y",
+      "E",
+      "A",
+      "S",
+      "T",
+      "S",
+      "N",
+      "G",
+      "B",
+      "F",
+      "P"
+    ],
+    [
+      "I",
+      "X",
+      "N",
+      "Z",
+      "G",
+      "D",
+      "A",
+      "W",
+      "I",
+      "O",
+      "T",
+      "E"
+    ],
+    [
+      "T",
+      "R",
+      "H",
+      "M",
+      "S",
+      "X",
+      "F",
+      "B",
+      "N",
+      "L",
+      "V",
+      "P"
+    ],
+    [
+      "C",
+      "O",
+      "R",
+      "A",
+      "T",
+      "B",
+      "F",
+      "R",
+      "G",
+      "I",
+      "Z",
+      "P"
+    ],
+    [
+      "H",
+      "S",
+      "W",
+      "R",
+      "S",
+      "N",
+      "R",
+      "O",
+      "E",
+      "V",
+      "X",
+      "E"
+    ],
+    [
+      "E",
+      "E",
+      "O",
+      "K",
+      "F",
+      "C",
+      "O",
+      "T",
+      "R",
+      "E",
+      "E",
+      "R"
+    ],
+    [
+      "N",
+      "M",
+      "N",
+      "E",
+      "H",
+      "M",
+      "N",
+      "H",
+      "K",
+      "U",
+      "V",
+      "S"
+    ],
+    [
+      "K",
+      "A",
+      "I",
+      "T",
+      "P",
+      "X",
+      "T",
+      "Z",
+      "D",
+      "K",
+      "O",
+      "X"
+    ],
+    [
+      "J",
+      "R",
+      "O",
+      "O",
+      "R",
+      "E",
+      "G",
+      "A",
+      "N",
+      "O",
+      "O",
+      "C"
+    ],
+    [
+      "U",
+      "Y",
+      "N",
+      "F",
+      "L",
+      "O",
+      "U",
+      "R",
+      "Y",
+      "F",
+      "E",
+      "P"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ROSEMARY",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "OREGANO",
+      "row": 10,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SAFFRON",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "KITCHEN",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "RISOTTO",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "GINGER",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "MARKET",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "PEPPER",
+      "row": 2,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "CUMIN",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BROTH",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "OLIVE",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "FLOUR",
+      "row": 11,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "YEAST",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "ONION",
+      "row": 7,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2312
+}

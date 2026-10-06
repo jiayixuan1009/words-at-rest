@@ -1,0 +1,208 @@
+{
+  "id": "weather-easy-02",
+  "slug": "weather-easy-02",
+  "themeId": "weather",
+  "title": "Weather: Clear Skies",
+  "primaryKeyword": "weather word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "COAT",
+    "DEW",
+    "DRY",
+    "FROST",
+    "GALE",
+    "HAIL",
+    "HAT",
+    "ICE",
+    "SLEET",
+    "STORM"
+  ],
+  "grid": [
+    [
+      "D",
+      "E",
+      "W",
+      "D",
+      "F",
+      "B",
+      "O",
+      "M",
+      "S",
+      "S"
+    ],
+    [
+      "A",
+      "X",
+      "I",
+      "F",
+      "Q",
+      "I",
+      "W",
+      "G",
+      "T",
+      "L"
+    ],
+    [
+      "Z",
+      "J",
+      "B",
+      "H",
+      "A",
+      "I",
+      "L",
+      "A",
+      "O",
+      "E"
+    ],
+    [
+      "E",
+      "D",
+      "S",
+      "K",
+      "T",
+      "I",
+      "V",
+      "L",
+      "R",
+      "E"
+    ],
+    [
+      "R",
+      "J",
+      "T",
+      "H",
+      "F",
+      "C",
+      "J",
+      "E",
+      "M",
+      "T"
+    ],
+    [
+      "A",
+      "C",
+      "D",
+      "A",
+      "R",
+      "E",
+      "O",
+      "C",
+      "S",
+      "D"
+    ],
+    [
+      "W",
+      "M",
+      "X",
+      "T",
+      "O",
+      "M",
+      "Q",
+      "O",
+      "A",
+      "L"
+    ],
+    [
+      "Q",
+      "C",
+      "I",
+      "K",
+      "S",
+      "G",
+      "N",
+      "A",
+      "O",
+      "C"
+    ],
+    [
+      "Y",
+      "C",
+      "B",
+      "D",
+      "T",
+      "O",
+      "U",
+      "T",
+      "X",
+      "W"
+    ],
+    [
+      "H",
+      "Y",
+      "A",
+      "H",
+      "D",
+      "R",
+      "Y",
+      "W",
+      "Q",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SLEET",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "STORM",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "FROST",
+      "row": 4,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "HAIL",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "GALE",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "COAT",
+      "row": 5,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "DEW",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "ICE",
+      "row": 3,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "DRY",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "HAT",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7182
+}

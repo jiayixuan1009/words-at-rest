@@ -1,0 +1,284 @@
+{
+  "id": "birthday-medium-02",
+  "slug": "birthday-medium-02",
+  "themeId": "birthday",
+  "title": "Birthday: Gift Wrap",
+  "primaryKeyword": "birthday word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BALLOON",
+    "CONFETTI",
+    "DATE",
+    "HUG",
+    "JOY",
+    "KIND",
+    "MEMORY",
+    "MONTH",
+    "NOTE",
+    "PEACE",
+    "PHOTO",
+    "STREAMER",
+    "THANKS",
+    "WARM"
+  ],
+  "grid": [
+    [
+      "L",
+      "S",
+      "C",
+      "A",
+      "I",
+      "L",
+      "N",
+      "C",
+      "Z",
+      "G",
+      "F",
+      "X"
+    ],
+    [
+      "R",
+      "D",
+      "N",
+      "O",
+      "M",
+      "L",
+      "Z",
+      "I",
+      "U",
+      "J",
+      "O",
+      "Y"
+    ],
+    [
+      "O",
+      "Y",
+      "L",
+      "B",
+      "N",
+      "O",
+      "S",
+      "H",
+      "Y",
+      "N",
+      "W",
+      "W"
+    ],
+    [
+      "Q",
+      "K",
+      "I",
+      "N",
+      "D",
+      "F",
+      "N",
+      "Y",
+      "N",
+      "S",
+      "A",
+      "E"
+    ],
+    [
+      "L",
+      "E",
+      "K",
+      "V",
+      "M",
+      "M",
+      "E",
+      "T",
+      "D",
+      "C",
+      "R",
+      "E"
+    ],
+    [
+      "L",
+      "P",
+      "H",
+      "O",
+      "T",
+      "O",
+      "Y",
+      "T",
+      "H",
+      "A",
+      "M",
+      "P"
+    ],
+    [
+      "B",
+      "A",
+      "L",
+      "L",
+      "O",
+      "O",
+      "N",
+      "A",
+      "T",
+      "C",
+      "T",
+      "Z"
+    ],
+    [
+      "T",
+      "U",
+      "Q",
+      "C",
+      "K",
+      "D",
+      "J",
+      "S",
+      "A",
+      "I",
+      "B",
+      "E"
+    ],
+    [
+      "M",
+      "E",
+      "M",
+      "O",
+      "R",
+      "Y",
+      "P",
+      "E",
+      "A",
+      "C",
+      "E",
+      "J"
+    ],
+    [
+      "R",
+      "B",
+      "T",
+      "H",
+      "A",
+      "N",
+      "K",
+      "S",
+      "M",
+      "V",
+      "S",
+      "U"
+    ],
+    [
+      "W",
+      "Q",
+      "P",
+      "Z",
+      "S",
+      "T",
+      "R",
+      "E",
+      "A",
+      "M",
+      "E",
+      "R"
+    ],
+    [
+      "A",
+      "T",
+      "T",
+      "N",
+      "N",
+      "O",
+      "T",
+      "E",
+      "T",
+      "L",
+      "P",
+      "Y"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "STREAMER",
+      "row": 10,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CONFETTI",
+      "row": 0,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "BALLOON",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "MEMORY",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "THANKS",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PHOTO",
+      "row": 5,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PEACE",
+      "row": 8,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "MONTH",
+      "row": 1,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "WARM",
+      "row": 2,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "KIND",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "NOTE",
+      "row": 11,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "DATE",
+      "row": 4,
+      "col": 8,
+      "direction": "SE"
+    },
+    {
+      "word": "JOY",
+      "row": 1,
+      "col": 9,
+      "direction": "E"
+    },
+    {
+      "word": "HUG",
+      "row": 2,
+      "col": 7,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8474
+}

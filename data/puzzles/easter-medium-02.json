@@ -1,0 +1,284 @@
+{
+  "id": "easter-medium-02",
+  "slug": "easter-medium-02",
+  "themeId": "easter",
+  "title": "Easter: Chapel & Hymn",
+  "primaryKeyword": "easter word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ALLELUIA",
+    "CHAPEL",
+    "CROSS",
+    "FAITH",
+    "GRACE",
+    "HOPE",
+    "HYMN",
+    "LIGHT",
+    "MORNING",
+    "PASCHAL",
+    "PEACE",
+    "REBIRTH",
+    "RENEWAL",
+    "SERVICE"
+  ],
+  "grid": [
+    [
+      "Y",
+      "D",
+      "Y",
+      "M",
+      "Z",
+      "S",
+      "R",
+      "P",
+      "E",
+      "A",
+      "C",
+      "E"
+    ],
+    [
+      "S",
+      "E",
+      "R",
+      "V",
+      "I",
+      "C",
+      "E",
+      "M",
+      "J",
+      "K",
+      "R",
+      "L"
+    ],
+    [
+      "L",
+      "J",
+      "D",
+      "O",
+      "P",
+      "V",
+      "N",
+      "O",
+      "G",
+      "Q",
+      "E",
+      "I"
+    ],
+    [
+      "C",
+      "P",
+      "A",
+      "C",
+      "I",
+      "S",
+      "E",
+      "R",
+      "V",
+      "Q",
+      "B",
+      "G"
+    ],
+    [
+      "C",
+      "R",
+      "A",
+      "L",
+      "T",
+      "Y",
+      "W",
+      "N",
+      "F",
+      "L",
+      "I",
+      "H"
+    ],
+    [
+      "H",
+      "M",
+      "O",
+      "S",
+      "L",
+      "W",
+      "A",
+      "I",
+      "D",
+      "Y",
+      "R",
+      "T"
+    ],
+    [
+      "A",
+      "G",
+      "L",
+      "S",
+      "C",
+      "E",
+      "L",
+      "N",
+      "Y",
+      "L",
+      "T",
+      "F"
+    ],
+    [
+      "P",
+      "O",
+      "R",
+      "G",
+      "S",
+      "H",
+      "L",
+      "G",
+      "U",
+      "F",
+      "H",
+      "A"
+    ],
+    [
+      "E",
+      "P",
+      "P",
+      "A",
+      "X",
+      "E",
+      "A",
+      "U",
+      "C",
+      "F",
+      "U",
+      "I"
+    ],
+    [
+      "L",
+      "I",
+      "E",
+      "M",
+      "C",
+      "N",
+      "B",
+      "L",
+      "I",
+      "I",
+      "N",
+      "T"
+    ],
+    [
+      "H",
+      "Y",
+      "M",
+      "N",
+      "B",
+      "E",
+      "M",
+      "R",
+      "N",
+      "A",
+      "T",
+      "H"
+    ],
+    [
+      "T",
+      "H",
+      "O",
+      "P",
+      "E",
+      "E",
+      "X",
+      "W",
+      "I",
+      "V",
+      "F",
+      "V"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ALLELUIA",
+      "row": 3,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "REBIRTH",
+      "row": 1,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "RENEWAL",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "SERVICE",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "PASCHAL",
+      "row": 3,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "MORNING",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "CHAPEL",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CROSS",
+      "row": 3,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "FAITH",
+      "row": 6,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "GRACE",
+      "row": 6,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "PEACE",
+      "row": 0,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "LIGHT",
+      "row": 1,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "HYMN",
+      "row": 10,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "HOPE",
+      "row": 11,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 4014
+}

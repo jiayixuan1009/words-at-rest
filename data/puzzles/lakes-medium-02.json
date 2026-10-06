@@ -1,0 +1,284 @@
+{
+  "id": "lakes-medium-02",
+  "slug": "lakes-medium-02",
+  "themeId": "lakes",
+  "title": "Lakes: Shore Mist",
+  "primaryKeyword": "lakes word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "DAM",
+    "DAWN",
+    "DEPTH",
+    "HERON",
+    "LOON",
+    "MIRROR",
+    "PEBBLE",
+    "REFLECT",
+    "ROCK",
+    "SHALLOW",
+    "STILL",
+    "STONE",
+    "TWILIGHT",
+    "WEIR"
+  ],
+  "grid": [
+    [
+      "D",
+      "A",
+      "W",
+      "N",
+      "L",
+      "I",
+      "S",
+      "T",
+      "I",
+      "L",
+      "L",
+      "D"
+    ],
+    [
+      "S",
+      "E",
+      "E",
+      "M",
+      "S",
+      "X",
+      "D",
+      "T",
+      "V",
+      "F",
+      "I",
+      "E"
+    ],
+    [
+      "H",
+      "O",
+      "O",
+      "E",
+      "B",
+      "T",
+      "C",
+      "E",
+      "Q",
+      "R",
+      "L",
+      "Z"
+    ],
+    [
+      "A",
+      "P",
+      "M",
+      "E",
+      "T",
+      "E",
+      "O",
+      "G",
+      "P",
+      "B",
+      "A",
+      "W"
+    ],
+    [
+      "L",
+      "N",
+      "H",
+      "K",
+      "L",
+      "W",
+      "B",
+      "N",
+      "B",
+      "T",
+      "C",
+      "H"
+    ],
+    [
+      "L",
+      "F",
+      "M",
+      "F",
+      "M",
+      "A",
+      "I",
+      "E",
+      "E",
+      "Z",
+      "H",
+      "E"
+    ],
+    [
+      "O",
+      "D",
+      "E",
+      "A",
+      "M",
+      "G",
+      "P",
+      "L",
+      "F",
+      "O",
+      "T",
+      "R"
+    ],
+    [
+      "W",
+      "R",
+      "T",
+      "P",
+      "I",
+      "Y",
+      "R",
+      "W",
+      "I",
+      "E",
+      "E",
+      "O"
+    ],
+    [
+      "L",
+      "O",
+      "O",
+      "N",
+      "R",
+      "V",
+      "O",
+      "W",
+      "K",
+      "G",
+      "Q",
+      "N"
+    ],
+    [
+      "A",
+      "D",
+      "D",
+      "X",
+      "R",
+      "S",
+      "C",
+      "E",
+      "F",
+      "E",
+      "H",
+      "X"
+    ],
+    [
+      "U",
+      "A",
+      "H",
+      "C",
+      "O",
+      "J",
+      "K",
+      "I",
+      "A",
+      "W",
+      "N",
+      "T"
+    ],
+    [
+      "M",
+      "M",
+      "L",
+      "V",
+      "R",
+      "W",
+      "D",
+      "R",
+      "Q",
+      "E",
+      "L",
+      "S"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TWILIGHT",
+      "row": 3,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "REFLECT",
+      "row": 7,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "SHALLOW",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "MIRROR",
+      "row": 6,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "PEBBLE",
+      "row": 6,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "HERON",
+      "row": 4,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "STILL",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "DEPTH",
+      "row": 1,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "STONE",
+      "row": 1,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "LOON",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "DAWN",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "ROCK",
+      "row": 7,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "WEIR",
+      "row": 8,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "DAM",
+      "row": 9,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8124
+}

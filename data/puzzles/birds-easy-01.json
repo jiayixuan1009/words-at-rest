@@ -1,0 +1,208 @@
+{
+  "id": "birds-easy-01",
+  "slug": "birds-easy-01",
+  "themeId": "birds",
+  "title": "Birds: Dawn Chorus",
+  "primaryKeyword": "birds word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CROW",
+    "DOVE",
+    "DUCK",
+    "HAWK",
+    "NEST",
+    "OWL",
+    "ROBIN",
+    "SONG",
+    "SWAN",
+    "WREN"
+  ],
+  "grid": [
+    [
+      "X",
+      "Y",
+      "V",
+      "V",
+      "D",
+      "S",
+      "O",
+      "X",
+      "R",
+      "T"
+    ],
+    [
+      "V",
+      "T",
+      "O",
+      "B",
+      "O",
+      "D",
+      "W",
+      "O",
+      "X",
+      "L"
+    ],
+    [
+      "V",
+      "Q",
+      "L",
+      "N",
+      "V",
+      "U",
+      "L",
+      "I",
+      "S",
+      "M"
+    ],
+    [
+      "D",
+      "D",
+      "I",
+      "E",
+      "E",
+      "C",
+      "W",
+      "R",
+      "E",
+      "N"
+    ],
+    [
+      "W",
+      "L",
+      "C",
+      "S",
+      "U",
+      "K",
+      "F",
+      "E",
+      "S",
+      "P"
+    ],
+    [
+      "W",
+      "S",
+      "R",
+      "T",
+      "E",
+      "S",
+      "H",
+      "K",
+      "W",
+      "V"
+    ],
+    [
+      "G",
+      "Y",
+      "O",
+      "V",
+      "F",
+      "O",
+      "A",
+      "F",
+      "A",
+      "O"
+    ],
+    [
+      "Y",
+      "D",
+      "W",
+      "R",
+      "Y",
+      "N",
+      "W",
+      "S",
+      "N",
+      "M"
+    ],
+    [
+      "R",
+      "J",
+      "X",
+      "W",
+      "N",
+      "G",
+      "K",
+      "O",
+      "K",
+      "M"
+    ],
+    [
+      "R",
+      "O",
+      "B",
+      "I",
+      "N",
+      "E",
+      "V",
+      "E",
+      "E",
+      "U"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ROBIN",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "WREN",
+      "row": 3,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "DOVE",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "CROW",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "HAWK",
+      "row": 5,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "SWAN",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "DUCK",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "NEST",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "SONG",
+      "row": 5,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "OWL",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7151
+}

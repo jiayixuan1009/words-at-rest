@@ -7,7 +7,7 @@ import { DIFFICULTIES } from "@/lib/types";
 // TODO (P1): split into sitemap index (pages / themes / puzzles / daily) via generateSitemaps.
 export default function sitemap(): MetadataRoute.Sitemap {
   const staticPaths = [
-    "/", "/daily", "/calendar", "/themes", "/large-print", "/how-to-play", "/adults",
+    "/", "/daily", "/calendar", "/themes", "/holidays", "/large-print", "/how-to-play", "/adults",
     "/about", "/accessibility", "/contact", "/privacy", "/terms",
   ];
   const daily = getDailyArchive(366); // dated pages from DAILY_START → current daily date (UTC)

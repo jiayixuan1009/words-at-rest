@@ -1,0 +1,208 @@
+{
+  "id": "cars-easy-02",
+  "slug": "cars-easy-02",
+  "themeId": "cars",
+  "title": "Cars: Garage Shelf",
+  "primaryKeyword": "cars word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BRAKE",
+    "DRIVE",
+    "GEAR",
+    "HOOD",
+    "HORN",
+    "KEY",
+    "LANE",
+    "LOCK",
+    "PEDAL",
+    "TRUNK"
+  ],
+  "grid": [
+    [
+      "E",
+      "G",
+      "E",
+      "A",
+      "R",
+      "L",
+      "A",
+      "N",
+      "E",
+      "A"
+    ],
+    [
+      "C",
+      "O",
+      "U",
+      "F",
+      "D",
+      "R",
+      "I",
+      "V",
+      "E",
+      "L"
+    ],
+    [
+      "E",
+      "B",
+      "I",
+      "A",
+      "B",
+      "K",
+      "E",
+      "Y",
+      "L",
+      "O"
+    ],
+    [
+      "P",
+      "R",
+      "T",
+      "H",
+      "U",
+      "H",
+      "P",
+      "D",
+      "O",
+      "C"
+    ],
+    [
+      "E",
+      "A",
+      "E",
+      "O",
+      "G",
+      "O",
+      "O",
+      "A",
+      "H",
+      "K"
+    ],
+    [
+      "D",
+      "K",
+      "L",
+      "R",
+      "H",
+      "O",
+      "L",
+      "T",
+      "X",
+      "R"
+    ],
+    [
+      "A",
+      "E",
+      "B",
+      "N",
+      "F",
+      "D",
+      "U",
+      "R",
+      "D",
+      "A"
+    ],
+    [
+      "L",
+      "L",
+      "I",
+      "Y",
+      "S",
+      "A",
+      "Q",
+      "U",
+      "O",
+      "C"
+    ],
+    [
+      "I",
+      "E",
+      "F",
+      "A",
+      "W",
+      "K",
+      "C",
+      "N",
+      "S",
+      "T"
+    ],
+    [
+      "A",
+      "O",
+      "U",
+      "M",
+      "G",
+      "N",
+      "E",
+      "K",
+      "G",
+      "A"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BRAKE",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "PEDAL",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "TRUNK",
+      "row": 5,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "DRIVE",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "GEAR",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "HOOD",
+      "row": 3,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "HORN",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "LANE",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "LOCK",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "KEY",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8062
+}

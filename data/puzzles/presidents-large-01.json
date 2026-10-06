@@ -1,0 +1,173 @@
+{
+  "id": "presidents-large-01",
+  "slug": "presidents-large-01",
+  "themeId": "presidents",
+  "title": "Large Print U.S. Presidents: Soft Term",
+  "primaryKeyword": "large print us presidents word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "ADAMS",
+    "BUSH",
+    "FORD",
+    "GRANT",
+    "POLK",
+    "TAFT",
+    "TERM",
+    "VETO"
+  ],
+  "grid": [
+    [
+      "S",
+      "T",
+      "E",
+      "R",
+      "M",
+      "T",
+      "K",
+      "O",
+      "Y"
+    ],
+    [
+      "K",
+      "B",
+      "U",
+      "S",
+      "H",
+      "A",
+      "G",
+      "N",
+      "B"
+    ],
+    [
+      "Q",
+      "M",
+      "A",
+      "Z",
+      "B",
+      "F",
+      "R",
+      "R",
+      "D"
+    ],
+    [
+      "F",
+      "P",
+      "D",
+      "G",
+      "R",
+      "T",
+      "A",
+      "C",
+      "C"
+    ],
+    [
+      "B",
+      "O",
+      "A",
+      "J",
+      "H",
+      "X",
+      "N",
+      "F",
+      "M"
+    ],
+    [
+      "F",
+      "L",
+      "M",
+      "C",
+      "D",
+      "B",
+      "T",
+      "C",
+      "U"
+    ],
+    [
+      "O",
+      "K",
+      "S",
+      "V",
+      "E",
+      "T",
+      "O",
+      "O",
+      "L"
+    ],
+    [
+      "R",
+      "Z",
+      "W",
+      "O",
+      "K",
+      "F",
+      "Q",
+      "O",
+      "E"
+    ],
+    [
+      "D",
+      "O",
+      "U",
+      "P",
+      "I",
+      "G",
+      "I",
+      "S",
+      "K"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ADAMS",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "GRANT",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "POLK",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "FORD",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BUSH",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TERM",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "VETO",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "TAFT",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8296
+}

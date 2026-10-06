@@ -1,0 +1,208 @@
+{
+  "id": "countries-easy-02",
+  "slug": "countries-easy-02",
+  "themeId": "countries",
+  "title": "Countries: Quiet Border",
+  "primaryKeyword": "countries word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CANADA",
+    "CHILE",
+    "GHANA",
+    "HAITI",
+    "KENYA",
+    "KOREA",
+    "NORWAY",
+    "POLAND",
+    "SWEDEN",
+    "WALES"
+  ],
+  "grid": [
+    [
+      "V",
+      "X",
+      "D",
+      "H",
+      "Y",
+      "F",
+      "T",
+      "A",
+      "N",
+      "M"
+    ],
+    [
+      "H",
+      "L",
+      "B",
+      "A",
+      "K",
+      "O",
+      "R",
+      "E",
+      "A",
+      "T"
+    ],
+    [
+      "X",
+      "K",
+      "W",
+      "I",
+      "P",
+      "O",
+      "L",
+      "A",
+      "N",
+      "D"
+    ],
+    [
+      "C",
+      "E",
+      "A",
+      "T",
+      "C",
+      "A",
+      "N",
+      "G",
+      "E",
+      "O"
+    ],
+    [
+      "E",
+      "N",
+      "L",
+      "I",
+      "D",
+      "M",
+      "D",
+      "H",
+      "G",
+      "S"
+    ],
+    [
+      "A",
+      "Y",
+      "E",
+      "K",
+      "M",
+      "W",
+      "V",
+      "A",
+      "Q",
+      "W"
+    ],
+    [
+      "N",
+      "A",
+      "S",
+      "C",
+      "O",
+      "K",
+      "V",
+      "N",
+      "V",
+      "E"
+    ],
+    [
+      "H",
+      "C",
+      "A",
+      "N",
+      "A",
+      "D",
+      "A",
+      "A",
+      "Z",
+      "D"
+    ],
+    [
+      "V",
+      "K",
+      "D",
+      "N",
+      "O",
+      "R",
+      "W",
+      "A",
+      "Y",
+      "E"
+    ],
+    [
+      "N",
+      "F",
+      "Z",
+      "A",
+      "C",
+      "H",
+      "I",
+      "L",
+      "E",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "NORWAY",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SWEDEN",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "POLAND",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CANADA",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "KENYA",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "GHANA",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "KOREA",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CHILE",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "HAITI",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "WALES",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8412
+}

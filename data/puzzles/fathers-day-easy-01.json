@@ -1,0 +1,208 @@
+{
+  "id": "fathers-day-easy-01",
+  "slug": "fathers-day-easy-01",
+  "themeId": "fathers-day",
+  "title": "Father's Day: Porch Morning",
+  "primaryKeyword": "fathers day word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CARD",
+    "DAD",
+    "FATHER",
+    "GRILL",
+    "HOME",
+    "HUG",
+    "LAWN",
+    "THANKS",
+    "TIE",
+    "TOOLS"
+  ],
+  "grid": [
+    [
+      "I",
+      "H",
+      "H",
+      "N",
+      "E",
+      "G",
+      "T",
+      "Y",
+      "C",
+      "R"
+    ],
+    [
+      "J",
+      "G",
+      "U",
+      "D",
+      "X",
+      "W",
+      "H",
+      "H",
+      "A",
+      "I"
+    ],
+    [
+      "O",
+      "R",
+      "G",
+      "B",
+      "Z",
+      "F",
+      "A",
+      "O",
+      "R",
+      "J"
+    ],
+    [
+      "C",
+      "I",
+      "F",
+      "U",
+      "T",
+      "A",
+      "N",
+      "M",
+      "D",
+      "K"
+    ],
+    [
+      "G",
+      "L",
+      "A",
+      "K",
+      "I",
+      "T",
+      "K",
+      "E",
+      "B",
+      "L"
+    ],
+    [
+      "K",
+      "L",
+      "S",
+      "D",
+      "E",
+      "H",
+      "S",
+      "H",
+      "C",
+      "J"
+    ],
+    [
+      "K",
+      "R",
+      "H",
+      "A",
+      "Q",
+      "E",
+      "Q",
+      "K",
+      "Q",
+      "X"
+    ],
+    [
+      "E",
+      "G",
+      "R",
+      "D",
+      "G",
+      "R",
+      "U",
+      "V",
+      "Z",
+      "H"
+    ],
+    [
+      "T",
+      "O",
+      "O",
+      "L",
+      "S",
+      "Q",
+      "Y",
+      "C",
+      "P",
+      "S"
+    ],
+    [
+      "U",
+      "K",
+      "Y",
+      "N",
+      "P",
+      "N",
+      "L",
+      "A",
+      "W",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FATHER",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "THANKS",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "TOOLS",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "GRILL",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "CARD",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "LAWN",
+      "row": 9,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "HOME",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "DAD",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "TIE",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "HUG",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7041
+}

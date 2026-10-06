@@ -1,0 +1,208 @@
+{
+  "id": "continents-easy-02",
+  "slug": "continents-easy-02",
+  "themeId": "continents",
+  "title": "Continents: Quiet Equator",
+  "primaryKeyword": "continents word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "COAST",
+    "DESERT",
+    "EARTH",
+    "EAST",
+    "FOREST",
+    "LAKE",
+    "PLAIN",
+    "RIVER",
+    "WEST",
+    "WORLD"
+  ],
+  "grid": [
+    [
+      "X",
+      "E",
+      "A",
+      "E",
+      "A",
+      "R",
+      "T",
+      "H",
+      "L",
+      "W"
+    ],
+    [
+      "P",
+      "M",
+      "N",
+      "S",
+      "F",
+      "L",
+      "A",
+      "K",
+      "E",
+      "M"
+    ],
+    [
+      "L",
+      "G",
+      "Z",
+      "Q",
+      "O",
+      "E",
+      "A",
+      "S",
+      "T",
+      "Y"
+    ],
+    [
+      "A",
+      "G",
+      "O",
+      "J",
+      "R",
+      "O",
+      "Z",
+      "D",
+      "K",
+      "H"
+    ],
+    [
+      "I",
+      "R",
+      "I",
+      "V",
+      "E",
+      "R",
+      "M",
+      "Q",
+      "I",
+      "M"
+    ],
+    [
+      "N",
+      "Z",
+      "M",
+      "X",
+      "S",
+      "K",
+      "J",
+      "F",
+      "V",
+      "G"
+    ],
+    [
+      "N",
+      "W",
+      "E",
+      "S",
+      "T",
+      "B",
+      "B",
+      "E",
+      "Z",
+      "T"
+    ],
+    [
+      "I",
+      "L",
+      "R",
+      "W",
+      "O",
+      "R",
+      "L",
+      "D",
+      "J",
+      "I"
+    ],
+    [
+      "G",
+      "W",
+      "M",
+      "D",
+      "E",
+      "S",
+      "E",
+      "R",
+      "T",
+      "T"
+    ],
+    [
+      "N",
+      "C",
+      "O",
+      "A",
+      "S",
+      "T",
+      "O",
+      "X",
+      "Z",
+      "X"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "DESERT",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "FOREST",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "COAST",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PLAIN",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "RIVER",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "WORLD",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "EARTH",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "LAKE",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "EAST",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "WEST",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8422
+}

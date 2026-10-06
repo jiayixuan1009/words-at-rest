@@ -1,0 +1,208 @@
+{
+  "id": "lakes-easy-02",
+  "slug": "lakes-easy-02",
+  "themeId": "lakes",
+  "title": "Lakes: Quiet Dock",
+  "primaryKeyword": "lakes word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CAST",
+    "DIVE",
+    "DUCK",
+    "FLOAT",
+    "MIST",
+    "OAR",
+    "PIER",
+    "POOL",
+    "REEL",
+    "SAND"
+  ],
+  "grid": [
+    [
+      "X",
+      "L",
+      "R",
+      "Q",
+      "H",
+      "P",
+      "I",
+      "E",
+      "R",
+      "V"
+    ],
+    [
+      "S",
+      "P",
+      "C",
+      "A",
+      "S",
+      "T",
+      "B",
+      "D",
+      "A",
+      "J"
+    ],
+    [
+      "K",
+      "F",
+      "A",
+      "D",
+      "G",
+      "Y",
+      "J",
+      "I",
+      "O",
+      "L"
+    ],
+    [
+      "P",
+      "L",
+      "T",
+      "U",
+      "G",
+      "B",
+      "P",
+      "V",
+      "A",
+      "P"
+    ],
+    [
+      "R",
+      "O",
+      "A",
+      "C",
+      "Q",
+      "Y",
+      "O",
+      "E",
+      "R",
+      "T"
+    ],
+    [
+      "M",
+      "A",
+      "S",
+      "K",
+      "M",
+      "R",
+      "O",
+      "C",
+      "P",
+      "V"
+    ],
+    [
+      "A",
+      "T",
+      "A",
+      "C",
+      "I",
+      "K",
+      "L",
+      "U",
+      "B",
+      "W"
+    ],
+    [
+      "Y",
+      "H",
+      "N",
+      "M",
+      "S",
+      "R",
+      "N",
+      "J",
+      "M",
+      "E"
+    ],
+    [
+      "Q",
+      "A",
+      "D",
+      "P",
+      "T",
+      "M",
+      "M",
+      "Y",
+      "X",
+      "V"
+    ],
+    [
+      "R",
+      "E",
+      "E",
+      "L",
+      "A",
+      "H",
+      "A",
+      "G",
+      "O",
+      "D"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FLOAT",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "POOL",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "PIER",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "REEL",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CAST",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "DIVE",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "DUCK",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "MIST",
+      "row": 5,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "SAND",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "OAR",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8122
+}

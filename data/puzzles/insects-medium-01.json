@@ -1,0 +1,284 @@
+{
+  "id": "insects-medium-01",
+  "slug": "insects-medium-01",
+  "themeId": "insects",
+  "title": "Insects: Meadow Buzz",
+  "primaryKeyword": "insects word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ABDOMEN",
+    "ANTENNA",
+    "BEETLE",
+    "BUTTERFLY",
+    "COCOON",
+    "CRICKET",
+    "GARDEN",
+    "INSECT",
+    "LADYBUG",
+    "LARVA",
+    "NECTAR",
+    "POLLEN",
+    "PUPA",
+    "THORAX"
+  ],
+  "grid": [
+    [
+      "S",
+      "T",
+      "I",
+      "N",
+      "S",
+      "E",
+      "C",
+      "T",
+      "Y",
+      "A",
+      "Z",
+      "T"
+    ],
+    [
+      "J",
+      "A",
+      "H",
+      "P",
+      "C",
+      "N",
+      "I",
+      "V",
+      "N",
+      "T",
+      "E",
+      "Q"
+    ],
+    [
+      "X",
+      "O",
+      "A",
+      "D",
+      "O",
+      "F",
+      "E",
+      "O",
+      "T",
+      "K",
+      "W",
+      "E"
+    ],
+    [
+      "V",
+      "P",
+      "V",
+      "N",
+      "I",
+      "L",
+      "O",
+      "C",
+      "C",
+      "X",
+      "L",
+      "G"
+    ],
+    [
+      "L",
+      "N",
+      "Q",
+      "R",
+      "T",
+      "C",
+      "L",
+      "I",
+      "T",
+      "T",
+      "R",
+      "A"
+    ],
+    [
+      "T",
+      "A",
+      "F",
+      "L",
+      "O",
+      "E",
+      "R",
+      "E",
+      "E",
+      "A",
+      "S",
+      "R"
+    ],
+    [
+      "H",
+      "G",
+      "R",
+      "C",
+      "Z",
+      "C",
+      "N",
+      "E",
+      "N",
+      "Y",
+      "R",
+      "D"
+    ],
+    [
+      "O",
+      "Z",
+      "C",
+      "V",
+      "P",
+      "O",
+      "B",
+      "N",
+      "R",
+      "S",
+      "J",
+      "E"
+    ],
+    [
+      "R",
+      "K",
+      "F",
+      "G",
+      "A",
+      "Y",
+      "M",
+      "H",
+      "A",
+      "M",
+      "C",
+      "N"
+    ],
+    [
+      "A",
+      "J",
+      "A",
+      "B",
+      "D",
+      "O",
+      "M",
+      "E",
+      "N",
+      "F",
+      "E",
+      "U"
+    ],
+    [
+      "X",
+      "B",
+      "U",
+      "T",
+      "T",
+      "E",
+      "R",
+      "F",
+      "L",
+      "Y",
+      "B",
+      "V"
+    ],
+    [
+      "L",
+      "A",
+      "D",
+      "Y",
+      "B",
+      "U",
+      "G",
+      "P",
+      "U",
+      "P",
+      "A",
+      "P"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BUTTERFLY",
+      "row": 10,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "LADYBUG",
+      "row": 11,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CRICKET",
+      "row": 6,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "ABDOMEN",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ANTENNA",
+      "row": 2,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "INSECT",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BEETLE",
+      "row": 7,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "COCOON",
+      "row": 6,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "THORAX",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "POLLEN",
+      "row": 1,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "NECTAR",
+      "row": 1,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "GARDEN",
+      "row": 3,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "LARVA",
+      "row": 4,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "PUPA",
+      "row": 11,
+      "col": 7,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8313
+}

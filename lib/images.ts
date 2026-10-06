@@ -92,13 +92,129 @@ const THEME_MOTIF: Record<string, string> = {
   travel: "an old suitcase, a map, a compass and a stamp",
   music: "a music stand, a record, headphones and a kettle",
   garden: "a potted plant and a trowel on a potting bench",
+  golf: "a golf tee, ball and putter on cropped grass",
+  baseball: "a baseball glove, ball and bat on a wooden bench",
+  tennis: "a tennis racket, balls and a folded towel by a clay court edge",
+  fishing: "a fishing rod, reel and tackle box by a quiet lakeshore",
+  baking: "a loaf of bread, a rolling pin and a bowl of flour on a kitchen table",
+  desserts: "a slice of cake, a berry tart and a cream jug on cream paper",
+  herbs: "bundles of basil, thyme and rosemary with a mortar and pestle",
+  fruits: "a market basket of apples, citrus and berries",
+  instruments: "a violin, flute and sheet music on a music stand",
+  jazz: "a muted trumpet, brushes and a small combo stool under soft light",
+  classical: "a conductor's baton, score and a quiet concert hall chair",
+  "music-terms": "an open theory workbook, a pencil and a metronome",
   bible: "a closed old Bible with a ribbon bookmark, an olive branch and an oil lamp on a wooden table",
+  thanksgiving: "a harvest table still life with a pumpkin, corn, acorns and a linen napkin",
+  winter: "a mug of cocoa, wool mittens and pine beside a frosted window",
+  valentines: "a sealed letter with a wax seal, a dried rose and a ribbon on cream paper",
+  easter: "a woven basket, a few pale eggs, daffodils and willow on a wooden table",
+  "new-year": "a desk calendar turned to January, a sparkler and confetti on cream paper",
+  "st-patricks": "a three-leaf clover, a tin whistle and green ribbon on linen",
+  "mothers-day": "a small bouquet, a handwritten card and a breakfast tray on a table",
+  "fathers-day": "a wooden toolbox, a folded newspaper and a coffee mug on a porch rail",
+  "independence-day": "a picnic blanket, a small flag and sparklers beside a summer pie",
+  spring: "daffodils, a bird nest and soft rain on a garden path",
+  summer: "a lemonade glass, sunhat and shell on a porch table",
+  vegetables: "a wooden crate of carrots, greens and peppers on a kitchen table",
+  breakfast: "toast, a soft-boiled egg and a coffee cup on a breakfast tray",
+  "coffee-tea": "a ceramic mug, loose tea leaves and a coffee press on linen",
+  kitchen: "a wooden spoon, mixing bowl and folded apron on a kitchen counter",
+  birds: "a robin on a branch, feathers and a small nest sketch",
+  flowers: "a vase of mixed blooms and loose petals on a garden table",
+  trees: "an oak leaf, acorn and pine cone on weathered wood",
+  weather: "a barometer, umbrella and cloud sketch beside a window",
+  "us-states": "a folded map of the United States, a compass and a travel stamp",
+  "world-capitals": "a globe, a small flag pin and an open atlas on a desk",
+  "human-body": "an anatomy sketchbook, a pencil and reading glasses on cream paper",
+  camping: "a tent peg, lantern and folded map beside pine needles",
+  horses: "a leather bridle, horseshoe and soft brush on barn wood",
+  cars: "a classic key fob, road map and spare tire sketch on a workbench",
+  trains: "a ticket stub, conductor's punch and miniature locomotive on linen",
+  airplanes: "a paper airplane, boarding pass stub and cloud sketch on a desk",
+  farming: "a wooden rake, seed packet and wheat sheaf on a farm table",
+  beach: "a seashell, towel and straw hat on sun-warmed sand",
+  mountains: "a hiking boot, trail map and pine cone against a ridge sketch",
+  lakes: "a wooden dock, canoe paddle and calm water reflection",
+  school: "an open notebook, pencil and reading glasses on a wooden desk",
+  jobs: "a fountain pen, name badge and tidy notepad on a desk",
+  friendship: "two teacups, a shared letter and a small pressed flower",
+  kindness: "a shared umbrella, a handwritten thank-you note and a small flower",
+  gratitude: "a small journal, a pressed leaf and a cup of tea on linen",
+  mindfulness: "a quiet cushion, a tea bowl and soft morning light on a mat",
+  colors: "paint swatches, a soft brush and a folded cloth in warm light",
+  tools: "a wooden-handled hammer, nails and a folded work apron",
+  soccer: "a soccer ball, grass cleats and a folded jersey on a bench",
+  basketball: "a basketball, hoop net and chalk court lines on warm wood",
+  "american-history": "an open history book, a quill and a folded parchment map",
+  presidents: "a small bust silhouette, a quill and a presidential seal sketch (generic)",
+  dinosaurs: "a fossil sketch, a small bone cast and a field notebook",
+  insects: "a beetle sketch, a magnifying glass and a leaf with dew",
+  reptiles: "a turtle shell sketch, a smooth stone and dry grass",
+  cooking: "a wooden spoon, simmering pot and recipe card on a stove edge",
+  shopping: "a woven basket, paper receipt and folded cloth tote",
+  money: "a coin dish, a small ledger and a fountain pen on a desk",
+  countries: "a small globe, border stamps and an open atlas on a desk",
+  continents: "a flat world map with continent outlines and a brass compass",
+  cities: "a skyline sketch, a metro ticket stub and a city map fold",
+  knitting: "knitting needles, a ball of yarn and a folded scarf on linen",
+  reading: "an open book, reading glasses and a bookmark ribbon",
+  painting: "a paintbrush, palette and small canvas on a wooden easel edge",
+  birthday: "a small cake, candles and a wrapped gift on cream paper",
+  wedding: "a simple gold band, a dried flower and a vow card on linen",
+  chemistry: "a flask sketch, a periodic table corner and a lab notebook",
+  mythology: "an olive wreath, a clay lamp and an open myth anthology",
+  volcanoes: "a crater sketch, cooled lava rock and a field notebook",
+  forests: "fern fronds, moss and a winding forest path sketch",
+  rivers: "a winding river map, a smooth stone and reed sketch",
+  deserts: "a sand dune sketch, a cactus and a water flask",
+  museums: "a gallery bench, a framed sketch and an exhibit label card",
+  sewing: "a needle, spool of thread and folded fabric on a sewing table",
+  quilting: "a quilt block, batting scrap and binding strip on cream cloth",
+  swimming: "goggles, a swim cap and lane-line sketch on blue paper",
+  hiking: "hiking boots, a trail map and a walking pole on pine needles",
+  cycling: "a bicycle wheel, helmet and folded route map on a bench",
+  geology: "rock samples, a hand lens and a field notebook on sandstone",
+  architecture: "a small facade sketch, a scale ruler and tracing paper",
+  islands: "a small island map, shell and ferry ticket stub",
+  emotions: "a small journal, a soft pencil and a pressed flower",
+  photography: "a simple camera outline, a lens cap and a contact sheet strip",
   "large-print-pack": "reading glasses on an open puzzle book under a lamp",
   "hard-pack": "a dense puzzle grid with a fountain pen",
 };
 
 /** Theme slug → 1200×900 painted cover (with a 640w variant).
+ *
+ * TEMPORARY covers for holiday Wave 1 (thanksgiving / winter / valentines / easter):
+ * public/images/themes/<slug>.webp (+ -640) currently reuse nearby seasonal art
+ * (fall / christmas / food / garden) until dedicated paintings from
+ * design/HOLIDAY-IMAGE-REQUEST.md land — swap those files only; no code change needed.
+ * Matching OG bases live at design/og-base/og-theme-<slug>.png (same swap rule).
+ *
+ * TEMPORARY covers for sub-theme Wave 1 (golf/baseball/tennis/fishing,
+ * baking/desserts/herbs/fruits, instruments/jazz/classical/music-terms):
+ * reuse parent sports/food/music art until design/SUBTHEME-IMAGE-REQUEST.md lands.
+ * Swap public/images/themes/<slug>.webp (+ -640) and design/og-base/og-theme-<slug>.png only.
+ *
+ * TEMPORARY covers for Wave C (new-year, st-patricks, mothers-day, fathers-day,
+ * independence-day, spring, summer, vegetables, breakfast, coffee-tea, kitchen,
+ * birds, flowers, trees, weather): borrow nearby seasonal/parent art until dedicated
+ * paintings land. Swap webp (+ -640) and og-base PNG / public/og/themes JPG only.
+ *
+ * TEMPORARY covers for Wave D (us-states, world-capitals, human-body, camping, horses,
+ * cars, trains, airplanes, farming, beach, mountains, lakes, school, jobs, friendship):
+ * borrow travel/ocean/fall/animals/space/garden/bible/valentines art until dedicated
+ * paintings land. Swap webp (+ -640) and og-base PNG / public/og/themes JPG only.
+ *
+ * TEMPORARY covers for Wave E (kindness, gratitude, mindfulness, colors, tools, soccer,
+ * basketball, american-history, presidents, dinosaurs, insects, reptiles, cooking,
+ * shopping, money): borrow nearby art until dedicated paintings land. Swap webp/OG only.
+ *
+ * TEMPORARY covers for Wave F (countries…museums): borrow nearby art; swap webp/OG only.
+ *
+ * TEMPORARY covers for Wave G (sewing…photography): borrow nearby art; swap webp/OG only.
  */
+
 export function themeArt(slug: string, themeName: string): Art {
   const src = `/images/themes/${slug}.webp`;
   return art(src, 1200, 900, themeImageAlt(slug, themeName), [640]);
@@ -122,8 +238,9 @@ export function themeImageAlt(slug: string, themeName: string): string {
  * Add a slug here only after all three levels exist.
  */
 export const DIFFICULTY_ART_THEMES: ReadonlySet<string> = new Set([
-  "animals", "bible", "cats", "christmas", "dogs", "fall", "food", "garden",
-  "hard-pack", "halloween", "large-print-pack", "music", "ocean", "space", "sports", "travel",
+  "animals", "bible", "cats", "christmas", "dogs", "easter", "fall", "food", "garden",
+  "hard-pack", "halloween", "large-print-pack", "music", "ocean", "space", "sports",
+  "thanksgiving", "travel", "valentines", "winter",
 ]);
 
 /** What the painting shows at each level (same scene, fuller as difficulty rises). */
@@ -143,6 +260,10 @@ const LEVEL_MOTIF: Record<string, Record<DifficultyKey, string>> = {
   ocean: { easy: "a single seashell on the sand", medium: "a seashell on the sand with gentle waves", hard: "a seashell, pebbles, waves and a distant lighthouse" },
   space: { easy: "a crescent moon in a pale sky", medium: "a crescent moon above soft clouds and a few stars", hard: "a telescope on a hill under a crescent moon, clouds and stars" },
   sports: { easy: "a tennis ball on a wooden bench", medium: "a tennis ball and a pair of trainers on a bench", hard: "a tennis ball, trainers and a bicycle wheel by a bench" },
+  thanksgiving: { easy: "a single small pumpkin on a warm wooden harvest table", medium: "a pumpkin with ears of corn and a folded linen napkin", hard: "a harvest table with a pumpkin, corn, acorns, napkin, wooden spoon and gravy boat" },
+  winter: { easy: "a single mug of cocoa on a frosted window ledge", medium: "a cocoa mug with a pair of wool mittens on the ledge", hard: "cocoa, mittens, a pine sprig and soft frost on the window" },
+  valentines: { easy: "a sealed cream envelope with a soft wax seal", medium: "a sealed letter beside a dried rose", hard: "a sealed letter, dried rose, ribbon and fountain pen on cream paper" },
+  easter: { easy: "a single pale egg in a small woven nest", medium: "a woven basket with a few pale eggs and a daffodil", hard: "a woven basket, pale eggs, daffodils and willow on a wooden table" },
   travel: { easy: "a brass compass on a wooden table", medium: "a compass with postcards and a stamp", hard: "a compass, postcards, a folded map and an old suitcase" },
 };
 

@@ -1,0 +1,173 @@
+{
+  "id": "baking-large-01",
+  "slug": "baking-large-01",
+  "themeId": "baking",
+  "title": "Large Print Baking: Warm Loaf",
+  "primaryKeyword": "large print baking word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BAKE",
+    "DOUGH",
+    "FLOUR",
+    "LOAF",
+    "OVEN",
+    "PIE",
+    "ROLL",
+    "YEAST"
+  ],
+  "grid": [
+    [
+      "K",
+      "D",
+      "B",
+      "A",
+      "K",
+      "E",
+      "V",
+      "C",
+      "T"
+    ],
+    [
+      "B",
+      "G",
+      "J",
+      "U",
+      "L",
+      "O",
+      "A",
+      "F",
+      "P"
+    ],
+    [
+      "T",
+      "D",
+      "U",
+      "P",
+      "T",
+      "F",
+      "T",
+      "J",
+      "S"
+    ],
+    [
+      "O",
+      "V",
+      "E",
+      "N",
+      "Y",
+      "L",
+      "D",
+      "H",
+      "S"
+    ],
+    [
+      "D",
+      "F",
+      "N",
+      "W",
+      "E",
+      "O",
+      "O",
+      "S",
+      "R"
+    ],
+    [
+      "P",
+      "F",
+      "I",
+      "Q",
+      "A",
+      "U",
+      "U",
+      "I",
+      "O"
+    ],
+    [
+      "I",
+      "M",
+      "B",
+      "I",
+      "S",
+      "R",
+      "G",
+      "D",
+      "L"
+    ],
+    [
+      "E",
+      "O",
+      "W",
+      "M",
+      "T",
+      "B",
+      "H",
+      "Y",
+      "L"
+    ],
+    [
+      "B",
+      "H",
+      "N",
+      "I",
+      "D",
+      "K",
+      "J",
+      "F",
+      "Y"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FLOUR",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "YEAST",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "DOUGH",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "OVEN",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BAKE",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "LOAF",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "ROLL",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "PIE",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6116
+}

@@ -1,0 +1,208 @@
+{
+  "id": "geology-easy-02",
+  "slug": "geology-easy-02",
+  "themeId": "geology",
+  "title": "Geology: Quiet Strata",
+  "primaryKeyword": "geology word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BASALT",
+    "CRUST",
+    "FAULT",
+    "FIELD",
+    "FOLD",
+    "GRANITE",
+    "LAB",
+    "LAVA",
+    "MARBLE",
+    "SOIL"
+  ],
+  "grid": [
+    [
+      "G",
+      "R",
+      "A",
+      "N",
+      "I",
+      "T",
+      "E",
+      "I",
+      "U",
+      "K"
+    ],
+    [
+      "Y",
+      "C",
+      "L",
+      "U",
+      "A",
+      "O",
+      "D",
+      "G",
+      "P",
+      "H"
+    ],
+    [
+      "N",
+      "B",
+      "E",
+      "M",
+      "B",
+      "S",
+      "S",
+      "O",
+      "I",
+      "L"
+    ],
+    [
+      "F",
+      "L",
+      "A",
+      "V",
+      "A",
+      "U",
+      "F",
+      "Q",
+      "E",
+      "B"
+    ],
+    [
+      "I",
+      "P",
+      "S",
+      "L",
+      "S",
+      "M",
+      "A",
+      "I",
+      "G",
+      "U"
+    ],
+    [
+      "E",
+      "W",
+      "F",
+      "F",
+      "A",
+      "A",
+      "U",
+      "S",
+      "C",
+      "L"
+    ],
+    [
+      "L",
+      "G",
+      "B",
+      "C",
+      "L",
+      "Q",
+      "L",
+      "T",
+      "R",
+      "F"
+    ],
+    [
+      "D",
+      "O",
+      "F",
+      "P",
+      "T",
+      "I",
+      "T",
+      "J",
+      "U",
+      "O"
+    ],
+    [
+      "M",
+      "A",
+      "R",
+      "B",
+      "L",
+      "E",
+      "L",
+      "R",
+      "S",
+      "L"
+    ],
+    [
+      "C",
+      "L",
+      "B",
+      "L",
+      "A",
+      "B",
+      "S",
+      "M",
+      "T",
+      "D"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "GRANITE",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BASALT",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "MARBLE",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "FAULT",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "CRUST",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "FIELD",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "FOLD",
+      "row": 6,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "LAVA",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SOIL",
+      "row": 2,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "LAB",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8662
+}

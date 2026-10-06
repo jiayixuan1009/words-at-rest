@@ -1,0 +1,284 @@
+{
+  "id": "music-terms-medium-02",
+  "slug": "music-terms-medium-02",
+  "themeId": "music-terms",
+  "title": "Musical Terms: Rehearsal Marks",
+  "primaryKeyword": "musical terms word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CADENCE",
+    "DYNAMICS",
+    "FERMATA",
+    "HARMONIZE",
+    "INTERVAL",
+    "LEDGER",
+    "MEASURE",
+    "MODULATE",
+    "OCTAVE",
+    "PHRASE",
+    "QUARTER",
+    "SIGNATURE",
+    "TRILL",
+    "VOLUME"
+  ],
+  "grid": [
+    [
+      "P",
+      "S",
+      "Q",
+      "U",
+      "A",
+      "R",
+      "T",
+      "E",
+      "R",
+      "M",
+      "X",
+      "A"
+    ],
+    [
+      "H",
+      "I",
+      "C",
+      "M",
+      "V",
+      "V",
+      "S",
+      "T",
+      "K",
+      "O",
+      "D",
+      "R"
+    ],
+    [
+      "R",
+      "G",
+      "A",
+      "E",
+      "O",
+      "L",
+      "L",
+      "R",
+      "N",
+      "D",
+      "Y",
+      "D"
+    ],
+    [
+      "A",
+      "N",
+      "D",
+      "A",
+      "L",
+      "L",
+      "E",
+      "I",
+      "O",
+      "U",
+      "N",
+      "Z"
+    ],
+    [
+      "S",
+      "A",
+      "E",
+      "S",
+      "U",
+      "Y",
+      "D",
+      "L",
+      "J",
+      "L",
+      "A",
+      "Z"
+    ],
+    [
+      "E",
+      "T",
+      "N",
+      "U",
+      "M",
+      "F",
+      "G",
+      "L",
+      "Y",
+      "A",
+      "M",
+      "O"
+    ],
+    [
+      "W",
+      "U",
+      "C",
+      "R",
+      "E",
+      "D",
+      "E",
+      "I",
+      "A",
+      "T",
+      "I",
+      "R"
+    ],
+    [
+      "A",
+      "R",
+      "E",
+      "E",
+      "L",
+      "Y",
+      "R",
+      "R",
+      "D",
+      "E",
+      "C",
+      "O"
+    ],
+    [
+      "O",
+      "E",
+      "V",
+      "Q",
+      "Z",
+      "W",
+      "D",
+      "H",
+      "M",
+      "V",
+      "S",
+      "F"
+    ],
+    [
+      "H",
+      "A",
+      "R",
+      "M",
+      "O",
+      "N",
+      "I",
+      "Z",
+      "E",
+      "A",
+      "Q",
+      "E"
+    ],
+    [
+      "I",
+      "N",
+      "T",
+      "E",
+      "R",
+      "V",
+      "A",
+      "L",
+      "B",
+      "U",
+      "T",
+      "G"
+    ],
+    [
+      "O",
+      "O",
+      "C",
+      "T",
+      "A",
+      "V",
+      "E",
+      "U",
+      "F",
+      "G",
+      "Z",
+      "A"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SIGNATURE",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "HARMONIZE",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "DYNAMICS",
+      "row": 1,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "MODULATE",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "INTERVAL",
+      "row": 10,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CADENCE",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "FERMATA",
+      "row": 5,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "MEASURE",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "QUARTER",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "LEDGER",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "OCTAVE",
+      "row": 11,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PHRASE",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "VOLUME",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "TRILL",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6264
+}

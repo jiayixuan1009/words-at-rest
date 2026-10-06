@@ -1,0 +1,173 @@
+{
+  "id": "garden-large-01",
+  "slug": "garden-large-01",
+  "themeId": "garden",
+  "title": "Large Print Garden: Soft Bloom",
+  "primaryKeyword": "large print garden word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BLOOM",
+    "MOSS",
+    "POT",
+    "RAKE",
+    "ROOT",
+    "SEED",
+    "SHADE",
+    "STEM"
+  ],
+  "grid": [
+    [
+      "L",
+      "B",
+      "J",
+      "M",
+      "R",
+      "R",
+      "A",
+      "K",
+      "E"
+    ],
+    [
+      "Q",
+      "J",
+      "W",
+      "D",
+      "X",
+      "S",
+      "F",
+      "V",
+      "E"
+    ],
+    [
+      "G",
+      "B",
+      "S",
+      "P",
+      "H",
+      "H",
+      "R",
+      "T",
+      "Q"
+    ],
+    [
+      "E",
+      "L",
+      "H",
+      "O",
+      "S",
+      "A",
+      "O",
+      "G",
+      "P"
+    ],
+    [
+      "X",
+      "O",
+      "O",
+      "T",
+      "T",
+      "D",
+      "O",
+      "U",
+      "G"
+    ],
+    [
+      "M",
+      "O",
+      "F",
+      "Z",
+      "E",
+      "E",
+      "T",
+      "N",
+      "J"
+    ],
+    [
+      "O",
+      "M",
+      "J",
+      "I",
+      "M",
+      "B",
+      "L",
+      "Y",
+      "G"
+    ],
+    [
+      "S",
+      "J",
+      "Z",
+      "E",
+      "K",
+      "Y",
+      "C",
+      "Z",
+      "T"
+    ],
+    [
+      "S",
+      "D",
+      "S",
+      "S",
+      "E",
+      "E",
+      "D",
+      "F",
+      "L"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BLOOM",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SHADE",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "SEED",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "MOSS",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "RAKE",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "ROOT",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "STEM",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "POT",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2914
+}

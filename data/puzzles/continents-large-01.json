@@ -1,0 +1,173 @@
+{
+  "id": "continents-large-01",
+  "slug": "continents-large-01",
+  "themeId": "continents",
+  "title": "Large Print Continents: Soft Map",
+  "primaryKeyword": "large print continents word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "ASIA",
+    "EARTH",
+    "EUROPE",
+    "MAP",
+    "NORTH",
+    "OCEAN",
+    "POLE",
+    "WORLD"
+  ],
+  "grid": [
+    [
+      "O",
+      "A",
+      "H",
+      "M",
+      "R",
+      "M",
+      "G",
+      "Y",
+      "C"
+    ],
+    [
+      "W",
+      "Z",
+      "U",
+      "A",
+      "S",
+      "P",
+      "O",
+      "L",
+      "E"
+    ],
+    [
+      "F",
+      "N",
+      "Q",
+      "P",
+      "F",
+      "J",
+      "C",
+      "G",
+      "P"
+    ],
+    [
+      "N",
+      "O",
+      "R",
+      "T",
+      "H",
+      "Z",
+      "U",
+      "T",
+      "M"
+    ],
+    [
+      "F",
+      "X",
+      "E",
+      "U",
+      "R",
+      "O",
+      "P",
+      "E",
+      "G"
+    ],
+    [
+      "W",
+      "W",
+      "O",
+      "R",
+      "L",
+      "D",
+      "X",
+      "P",
+      "K"
+    ],
+    [
+      "A",
+      "S",
+      "I",
+      "A",
+      "U",
+      "C",
+      "E",
+      "Q",
+      "L"
+    ],
+    [
+      "E",
+      "A",
+      "R",
+      "T",
+      "H",
+      "F",
+      "S",
+      "S",
+      "M"
+    ],
+    [
+      "M",
+      "M",
+      "O",
+      "C",
+      "E",
+      "A",
+      "N",
+      "O",
+      "X"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "EUROPE",
+      "row": 4,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "NORTH",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "OCEAN",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "WORLD",
+      "row": 5,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "EARTH",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "ASIA",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "POLE",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "MAP",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8426
+}

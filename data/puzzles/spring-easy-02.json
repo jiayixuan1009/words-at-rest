@@ -1,0 +1,208 @@
+{
+  "id": "spring-easy-02",
+  "slug": "spring-easy-02",
+  "themeId": "spring",
+  "title": "Spring: Garden Wake",
+  "primaryKeyword": "spring word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "FRESH",
+    "GREEN",
+    "LEAF",
+    "OPEN",
+    "PATH",
+    "SEED",
+    "SOFT",
+    "SONG",
+    "THAW",
+    "WALK"
+  ],
+  "grid": [
+    [
+      "G",
+      "P",
+      "A",
+      "T",
+      "H",
+      "J",
+      "Z",
+      "A",
+      "R",
+      "I"
+    ],
+    [
+      "G",
+      "F",
+      "R",
+      "E",
+      "S",
+      "H",
+      "O",
+      "D",
+      "Q",
+      "O"
+    ],
+    [
+      "R",
+      "Y",
+      "S",
+      "W",
+      "H",
+      "R",
+      "R",
+      "A",
+      "X",
+      "J"
+    ],
+    [
+      "E",
+      "M",
+      "O",
+      "A",
+      "K",
+      "L",
+      "E",
+      "A",
+      "F",
+      "L"
+    ],
+    [
+      "E",
+      "V",
+      "F",
+      "L",
+      "K",
+      "C",
+      "O",
+      "A",
+      "F",
+      "O"
+    ],
+    [
+      "N",
+      "T",
+      "T",
+      "K",
+      "C",
+      "W",
+      "B",
+      "I",
+      "S",
+      "P"
+    ],
+    [
+      "R",
+      "T",
+      "H",
+      "M",
+      "G",
+      "A",
+      "Y",
+      "W",
+      "O",
+      "E"
+    ],
+    [
+      "S",
+      "I",
+      "A",
+      "Z",
+      "L",
+      "I",
+      "I",
+      "O",
+      "N",
+      "N"
+    ],
+    [
+      "C",
+      "I",
+      "W",
+      "P",
+      "D",
+      "K",
+      "B",
+      "S",
+      "G",
+      "C"
+    ],
+    [
+      "F",
+      "S",
+      "E",
+      "E",
+      "D",
+      "E",
+      "B",
+      "R",
+      "L",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "GREEN",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "FRESH",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "THAW",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "LEAF",
+      "row": 3,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SEED",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PATH",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "WALK",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "SONG",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "OPEN",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SOFT",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7062
+}

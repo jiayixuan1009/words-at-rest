@@ -1,0 +1,208 @@
+{
+  "id": "kitchen-easy-01",
+  "slug": "kitchen-easy-01",
+  "themeId": "kitchen",
+  "title": "Kitchen: Counter Basics",
+  "primaryKeyword": "kitchen word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BOWL",
+    "FORK",
+    "KNIFE",
+    "OVEN",
+    "PAN",
+    "PEPPER",
+    "PLATE",
+    "POT",
+    "SALT",
+    "SPOON"
+  ],
+  "grid": [
+    [
+      "F",
+      "O",
+      "R",
+      "K",
+      "K",
+      "M",
+      "I",
+      "H",
+      "J",
+      "C"
+    ],
+    [
+      "G",
+      "S",
+      "S",
+      "A",
+      "L",
+      "T",
+      "Z",
+      "B",
+      "G",
+      "Q"
+    ],
+    [
+      "E",
+      "O",
+      "E",
+      "V",
+      "O",
+      "J",
+      "H",
+      "P",
+      "A",
+      "A"
+    ],
+    [
+      "G",
+      "V",
+      "E",
+      "V",
+      "Z",
+      "U",
+      "Z",
+      "E",
+      "R",
+      "S"
+    ],
+    [
+      "G",
+      "E",
+      "W",
+      "W",
+      "P",
+      "A",
+      "N",
+      "P",
+      "S",
+      "B"
+    ],
+    [
+      "G",
+      "N",
+      "W",
+      "K",
+      "K",
+      "G",
+      "P",
+      "P",
+      "H",
+      "S"
+    ],
+    [
+      "P",
+      "B",
+      "Q",
+      "N",
+      "D",
+      "L",
+      "L",
+      "E",
+      "O",
+      "P"
+    ],
+    [
+      "O",
+      "O",
+      "F",
+      "I",
+      "I",
+      "I",
+      "A",
+      "R",
+      "D",
+      "O"
+    ],
+    [
+      "T",
+      "W",
+      "M",
+      "F",
+      "V",
+      "R",
+      "T",
+      "M",
+      "O",
+      "O"
+    ],
+    [
+      "V",
+      "L",
+      "P",
+      "E",
+      "B",
+      "H",
+      "E",
+      "T",
+      "Q",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PEPPER",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SPOON",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "KNIFE",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "PLATE",
+      "row": 5,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "FORK",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BOWL",
+      "row": 6,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "OVEN",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SALT",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PAN",
+      "row": 4,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "POT",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7141
+}

@@ -1,0 +1,284 @@
+{
+  "id": "mountains-medium-02",
+  "slug": "mountains-medium-02",
+  "themeId": "mountains",
+  "title": "Mountains: Valley View",
+  "primaryKeyword": "mountains word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CABIN",
+    "CHILL",
+    "COL",
+    "COMPASS",
+    "LODGE",
+    "MIST",
+    "MOUNTAIN",
+    "PACK",
+    "POLE",
+    "RANGE",
+    "SADDLE",
+    "SHELTER",
+    "SPUR",
+    "TIMBERLINE"
+  ],
+  "grid": [
+    [
+      "R",
+      "H",
+      "P",
+      "C",
+      "H",
+      "I",
+      "L",
+      "L",
+      "T",
+      "Q",
+      "Z",
+      "C"
+    ],
+    [
+      "A",
+      "U",
+      "O",
+      "H",
+      "T",
+      "E",
+      "T",
+      "D",
+      "V",
+      "U",
+      "P",
+      "O"
+    ],
+    [
+      "N",
+      "I",
+      "L",
+      "X",
+      "L",
+      "P",
+      "I",
+      "X",
+      "Q",
+      "S",
+      "M",
+      "M"
+    ],
+    [
+      "G",
+      "D",
+      "E",
+      "D",
+      "P",
+      "V",
+      "M",
+      "I",
+      "M",
+      "Y",
+      "O",
+      "P"
+    ],
+    [
+      "E",
+      "A",
+      "D",
+      "S",
+      "P",
+      "R",
+      "B",
+      "S",
+      "I",
+      "U",
+      "U",
+      "A"
+    ],
+    [
+      "S",
+      "A",
+      "T",
+      "H",
+      "A",
+      "U",
+      "E",
+      "K",
+      "S",
+      "C",
+      "N",
+      "S"
+    ],
+    [
+      "S",
+      "S",
+      "C",
+      "E",
+      "C",
+      "C",
+      "R",
+      "N",
+      "T",
+      "C",
+      "T",
+      "S"
+    ],
+    [
+      "M",
+      "P",
+      "A",
+      "L",
+      "K",
+      "O",
+      "L",
+      "R",
+      "J",
+      "H",
+      "A",
+      "G"
+    ],
+    [
+      "I",
+      "U",
+      "B",
+      "T",
+      "C",
+      "L",
+      "I",
+      "K",
+      "X",
+      "X",
+      "I",
+      "Y"
+    ],
+    [
+      "T",
+      "R",
+      "I",
+      "E",
+      "P",
+      "N",
+      "N",
+      "L",
+      "O",
+      "O",
+      "N",
+      "T"
+    ],
+    [
+      "C",
+      "S",
+      "N",
+      "R",
+      "L",
+      "X",
+      "E",
+      "S",
+      "U",
+      "P",
+      "J",
+      "O"
+    ],
+    [
+      "J",
+      "L",
+      "O",
+      "D",
+      "G",
+      "E",
+      "N",
+      "X",
+      "F",
+      "J",
+      "P",
+      "L"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TIMBERLINE",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "MOUNTAIN",
+      "row": 2,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "COMPASS",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "SHELTER",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "SADDLE",
+      "row": 6,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "CHILL",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "CABIN",
+      "row": 6,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "LODGE",
+      "row": 11,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "RANGE",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "MIST",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "PACK",
+      "row": 4,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "POLE",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "SPUR",
+      "row": 6,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "COL",
+      "row": 6,
+      "col": 5,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8114
+}

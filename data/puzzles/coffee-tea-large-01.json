@@ -1,0 +1,173 @@
+{
+  "id": "coffee-tea-large-01",
+  "slug": "coffee-tea-large-01",
+  "themeId": "coffee-tea",
+  "title": "Large Print Coffee & Tea: Soft Steam",
+  "primaryKeyword": "large print coffee and tea word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BEAN",
+    "BREW",
+    "CUP",
+    "LEAF",
+    "MILK",
+    "MUG",
+    "TEA",
+    "WARM"
+  ],
+  "grid": [
+    [
+      "L",
+      "I",
+      "Z",
+      "K",
+      "N",
+      "V",
+      "A",
+      "V",
+      "Y"
+    ],
+    [
+      "L",
+      "O",
+      "T",
+      "X",
+      "P",
+      "C",
+      "U",
+      "P",
+      "R"
+    ],
+    [
+      "C",
+      "E",
+      "B",
+      "X",
+      "E",
+      "M",
+      "U",
+      "G",
+      "D"
+    ],
+    [
+      "X",
+      "O",
+      "Q",
+      "W",
+      "N",
+      "B",
+      "E",
+      "A",
+      "N"
+    ],
+    [
+      "Z",
+      "O",
+      "B",
+      "A",
+      "S",
+      "L",
+      "E",
+      "A",
+      "F"
+    ],
+    [
+      "N",
+      "F",
+      "R",
+      "R",
+      "L",
+      "I",
+      "A",
+      "Z",
+      "K"
+    ],
+    [
+      "M",
+      "R",
+      "E",
+      "M",
+      "N",
+      "T",
+      "I",
+      "B",
+      "R"
+    ],
+    [
+      "C",
+      "X",
+      "W",
+      "I",
+      "J",
+      "E",
+      "N",
+      "G",
+      "Y"
+    ],
+    [
+      "L",
+      "M",
+      "I",
+      "L",
+      "K",
+      "A",
+      "Z",
+      "Z",
+      "I"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BREW",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "BEAN",
+      "row": 3,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "LEAF",
+      "row": 4,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "MILK",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "WARM",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "TEA",
+      "row": 6,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "MUG",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "CUP",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7136
+}

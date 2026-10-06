@@ -1,0 +1,208 @@
+{
+  "id": "beach-easy-01",
+  "slug": "beach-easy-01",
+  "themeId": "beach",
+  "title": "Beach: Tide Line",
+  "primaryKeyword": "beach word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BEACH",
+    "CRAB",
+    "HAT",
+    "SAND",
+    "SHELL",
+    "SHORE",
+    "SUN",
+    "SWIM",
+    "TIDE",
+    "WAVE"
+  ],
+  "grid": [
+    [
+      "J",
+      "Y",
+      "X",
+      "N",
+      "H",
+      "B",
+      "G",
+      "R",
+      "F",
+      "S"
+    ],
+    [
+      "C",
+      "K",
+      "K",
+      "Q",
+      "Y",
+      "H",
+      "A",
+      "T",
+      "L",
+      "A"
+    ],
+    [
+      "A",
+      "W",
+      "G",
+      "B",
+      "V",
+      "G",
+      "Y",
+      "G",
+      "U",
+      "N"
+    ],
+    [
+      "Q",
+      "G",
+      "O",
+      "F",
+      "A",
+      "X",
+      "R",
+      "Y",
+      "D",
+      "D"
+    ],
+    [
+      "T",
+      "I",
+      "D",
+      "E",
+      "N",
+      "G",
+      "V",
+      "N",
+      "G",
+      "B"
+    ],
+    [
+      "U",
+      "B",
+      "E",
+      "A",
+      "C",
+      "H",
+      "W",
+      "A",
+      "V",
+      "E"
+    ],
+    [
+      "M",
+      "M",
+      "F",
+      "B",
+      "O",
+      "S",
+      "H",
+      "E",
+      "L",
+      "L"
+    ],
+    [
+      "V",
+      "C",
+      "R",
+      "A",
+      "B",
+      "S",
+      "W",
+      "I",
+      "M",
+      "H"
+    ],
+    [
+      "N",
+      "D",
+      "J",
+      "H",
+      "S",
+      "H",
+      "O",
+      "R",
+      "E",
+      "A"
+    ],
+    [
+      "Z",
+      "P",
+      "P",
+      "K",
+      "R",
+      "N",
+      "G",
+      "S",
+      "U",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BEACH",
+      "row": 5,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SHORE",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SHELL",
+      "row": 6,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SAND",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "TIDE",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "WAVE",
+      "row": 5,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "CRAB",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SWIM",
+      "row": 7,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "HAT",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SUN",
+      "row": 9,
+      "col": 7,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8101
+}

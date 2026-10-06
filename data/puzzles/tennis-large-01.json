@@ -1,0 +1,173 @@
+{
+  "id": "tennis-large-01",
+  "slug": "tennis-large-01",
+  "themeId": "tennis",
+  "title": "Large Print Tennis: Soft Rally",
+  "primaryKeyword": "large print tennis word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "ACE",
+    "COURT",
+    "GRIP",
+    "LOB",
+    "NET",
+    "SERVE",
+    "SET",
+    "SPIN"
+  ],
+  "grid": [
+    [
+      "X",
+      "I",
+      "X",
+      "G",
+      "N",
+      "I",
+      "H",
+      "R",
+      "S"
+    ],
+    [
+      "G",
+      "R",
+      "I",
+      "P",
+      "S",
+      "E",
+      "R",
+      "V",
+      "E"
+    ],
+    [
+      "W",
+      "N",
+      "E",
+      "T",
+      "Q",
+      "Z",
+      "H",
+      "N",
+      "N"
+    ],
+    [
+      "N",
+      "I",
+      "V",
+      "O",
+      "V",
+      "S",
+      "S",
+      "R",
+      "M"
+    ],
+    [
+      "I",
+      "S",
+      "B",
+      "W",
+      "K",
+      "L",
+      "Q",
+      "J",
+      "H"
+    ],
+    [
+      "H",
+      "E",
+      "D",
+      "D",
+      "T",
+      "O",
+      "S",
+      "P",
+      "F"
+    ],
+    [
+      "F",
+      "T",
+      "N",
+      "N",
+      "W",
+      "B",
+      "C",
+      "H",
+      "M"
+    ],
+    [
+      "S",
+      "P",
+      "I",
+      "N",
+      "I",
+      "E",
+      "L",
+      "K",
+      "F"
+    ],
+    [
+      "C",
+      "O",
+      "U",
+      "R",
+      "T",
+      "A",
+      "C",
+      "E",
+      "S"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SERVE",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "COURT",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "GRIP",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SPIN",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "ACE",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "NET",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SET",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "LOB",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6036
+}

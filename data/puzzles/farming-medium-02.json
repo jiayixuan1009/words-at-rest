@@ -1,0 +1,284 @@
+{
+  "id": "farming-medium-02",
+  "slug": "farming-medium-02",
+  "themeId": "farming",
+  "title": "Farming: Market Day",
+  "primaryKeyword": "farming word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BASKET",
+    "BEAN",
+    "CHORE",
+    "DAWN",
+    "FURROW",
+    "HOE",
+    "IRRIGATE",
+    "MARKET",
+    "RAIN",
+    "RAKE",
+    "RYE",
+    "SEASON",
+    "SOY",
+    "SPADE"
+  ],
+  "grid": [
+    [
+      "Y",
+      "S",
+      "A",
+      "Q",
+      "N",
+      "G",
+      "M",
+      "F",
+      "H",
+      "O",
+      "E",
+      "N"
+    ],
+    [
+      "S",
+      "J",
+      "D",
+      "E",
+      "M",
+      "B",
+      "T",
+      "Q",
+      "I",
+      "Q",
+      "W",
+      "E"
+    ],
+    [
+      "U",
+      "E",
+      "J",
+      "A",
+      "U",
+      "A",
+      "Y",
+      "X",
+      "R",
+      "W",
+      "T",
+      "C"
+    ],
+    [
+      "R",
+      "G",
+      "A",
+      "G",
+      "W",
+      "S",
+      "R",
+      "W",
+      "U",
+      "A",
+      "F",
+      "A"
+    ],
+    [
+      "B",
+      "A",
+      "J",
+      "S",
+      "L",
+      "N",
+      "O",
+      "K",
+      "G",
+      "X",
+      "K",
+      "U"
+    ],
+    [
+      "E",
+      "T",
+      "K",
+      "I",
+      "O",
+      "R",
+      "W",
+      "I",
+      "E",
+      "H",
+      "Z",
+      "A"
+    ],
+    [
+      "A",
+      "Y",
+      "E",
+      "E",
+      "R",
+      "N",
+      "R",
+      "S",
+      "M",
+      "T",
+      "Y",
+      "S"
+    ],
+    [
+      "N",
+      "D",
+      "I",
+      "U",
+      "I",
+      "R",
+      "B",
+      "A",
+      "S",
+      "K",
+      "E",
+      "T"
+    ],
+    [
+      "H",
+      "Z",
+      "F",
+      "A",
+      "I",
+      "R",
+      "Y",
+      "E",
+      "Z",
+      "C",
+      "D",
+      "E"
+    ],
+    [
+      "Z",
+      "P",
+      "R",
+      "O",
+      "Z",
+      "A",
+      "W",
+      "C",
+      "H",
+      "O",
+      "R",
+      "E"
+    ],
+    [
+      "P",
+      "X",
+      "X",
+      "R",
+      "V",
+      "A",
+      "J",
+      "A",
+      "T",
+      "Z",
+      "K",
+      "E"
+    ],
+    [
+      "J",
+      "P",
+      "J",
+      "S",
+      "O",
+      "Y",
+      "S",
+      "P",
+      "A",
+      "D",
+      "E",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "IRRIGATE",
+      "row": 8,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "FURROW",
+      "row": 8,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "BASKET",
+      "row": 7,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "MARKET",
+      "row": 1,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "SEASON",
+      "row": 1,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "SPADE",
+      "row": 11,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "CHORE",
+      "row": 9,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "RAKE",
+      "row": 3,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "DAWN",
+      "row": 1,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "RAIN",
+      "row": 9,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "BEAN",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "HOE",
+      "row": 0,
+      "col": 8,
+      "direction": "E"
+    },
+    {
+      "word": "RYE",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SOY",
+      "row": 11,
+      "col": 3,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8094
+}

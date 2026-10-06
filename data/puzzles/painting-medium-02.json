@@ -1,0 +1,284 @@
+{
+  "id": "painting-medium-02",
+  "slug": "painting-medium-02",
+  "themeId": "painting",
+  "title": "Painting: Palette Mix",
+  "primaryKeyword": "painting word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "APRON",
+    "BLEND",
+    "CRAFT",
+    "GOUACHE",
+    "JAR",
+    "LANDSCAPE",
+    "LIFE",
+    "MEDIUM",
+    "MIX",
+    "STILL",
+    "TUBE",
+    "VARNISH",
+    "WATER",
+    "WATERCOLOR"
+  ],
+  "grid": [
+    [
+      "G",
+      "K",
+      "W",
+      "A",
+      "T",
+      "E",
+      "R",
+      "A",
+      "P",
+      "H",
+      "Q",
+      "Z"
+    ],
+    [
+      "J",
+      "G",
+      "B",
+      "V",
+      "A",
+      "R",
+      "N",
+      "I",
+      "S",
+      "H",
+      "X",
+      "P"
+    ],
+    [
+      "K",
+      "L",
+      "A",
+      "N",
+      "D",
+      "S",
+      "C",
+      "A",
+      "P",
+      "E",
+      "A",
+      "R"
+    ],
+    [
+      "M",
+      "P",
+      "Y",
+      "G",
+      "T",
+      "U",
+      "B",
+      "E",
+      "N",
+      "N",
+      "O",
+      "F"
+    ],
+    [
+      "M",
+      "I",
+      "C",
+      "Q",
+      "O",
+      "L",
+      "Y",
+      "O",
+      "C",
+      "L",
+      "H",
+      "Z"
+    ],
+    [
+      "W",
+      "E",
+      "X",
+      "R",
+      "Q",
+      "U",
+      "R",
+      "W",
+      "O",
+      "U",
+      "G",
+      "S"
+    ],
+    [
+      "N",
+      "X",
+      "D",
+      "V",
+      "A",
+      "P",
+      "A",
+      "C",
+      "U",
+      "C",
+      "J",
+      "B"
+    ],
+    [
+      "C",
+      "I",
+      "Y",
+      "I",
+      "A",
+      "F",
+      "R",
+      "C",
+      "R",
+      "I",
+      "D",
+      "I"
+    ],
+    [
+      "S",
+      "Y",
+      "N",
+      "N",
+      "U",
+      "E",
+      "T",
+      "A",
+      "H",
+      "N",
+      "W",
+      "O"
+    ],
+    [
+      "L",
+      "I",
+      "F",
+      "E",
+      "T",
+      "M",
+      "J",
+      "N",
+      "E",
+      "E",
+      "B",
+      "L"
+    ],
+    [
+      "S",
+      "L",
+      "A",
+      "A",
+      "S",
+      "E",
+      "E",
+      "L",
+      "S",
+      "H",
+      "H",
+      "V"
+    ],
+    [
+      "W",
+      "O",
+      "W",
+      "E",
+      "O",
+      "V",
+      "B",
+      "S",
+      "T",
+      "I",
+      "L",
+      "L"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "WATERCOLOR",
+      "row": 11,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "LANDSCAPE",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "GOUACHE",
+      "row": 3,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "VARNISH",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "MEDIUM",
+      "row": 4,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "BLEND",
+      "row": 11,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "WATER",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "APRON",
+      "row": 7,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "CRAFT",
+      "row": 4,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "STILL",
+      "row": 11,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "TUBE",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "LIFE",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "MIX",
+      "row": 3,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "JAR",
+      "row": 9,
+      "col": 6,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8464
+}

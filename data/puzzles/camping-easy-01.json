@@ -1,0 +1,208 @@
+{
+  "id": "camping-easy-01",
+  "slug": "camping-easy-01",
+  "themeId": "camping",
+  "title": "Camping: Tent Night",
+  "primaryKeyword": "camping word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CAMP",
+    "FIRE",
+    "HIKE",
+    "LOG",
+    "MAP",
+    "PACK",
+    "PATH",
+    "PEG",
+    "POLE",
+    "TENT"
+  ],
+  "grid": [
+    [
+      "X",
+      "G",
+      "V",
+      "X",
+      "G",
+      "J",
+      "I",
+      "M",
+      "V",
+      "F"
+    ],
+    [
+      "P",
+      "C",
+      "C",
+      "Z",
+      "I",
+      "Z",
+      "A",
+      "H",
+      "J",
+      "T"
+    ],
+    [
+      "L",
+      "B",
+      "O",
+      "P",
+      "Q",
+      "S",
+      "F",
+      "P",
+      "E",
+      "G"
+    ],
+    [
+      "E",
+      "O",
+      "L",
+      "O",
+      "G",
+      "R",
+      "P",
+      "K",
+      "P",
+      "S"
+    ],
+    [
+      "T",
+      "E",
+      "N",
+      "T",
+      "W",
+      "T",
+      "R",
+      "H",
+      "Z",
+      "F"
+    ],
+    [
+      "M",
+      "V",
+      "E",
+      "H",
+      "I",
+      "K",
+      "E",
+      "H",
+      "N",
+      "U"
+    ],
+    [
+      "A",
+      "P",
+      "E",
+      "I",
+      "P",
+      "O",
+      "L",
+      "E",
+      "T",
+      "G"
+    ],
+    [
+      "P",
+      "A",
+      "C",
+      "A",
+      "M",
+      "P",
+      "Y",
+      "B",
+      "G",
+      "Z"
+    ],
+    [
+      "C",
+      "C",
+      "X",
+      "E",
+      "P",
+      "A",
+      "T",
+      "H",
+      "U",
+      "S"
+    ],
+    [
+      "P",
+      "K",
+      "F",
+      "U",
+      "F",
+      "I",
+      "R",
+      "E",
+      "G",
+      "M"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TENT",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "POLE",
+      "row": 6,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "FIRE",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "PATH",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "HIKE",
+      "row": 5,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "CAMP",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PACK",
+      "row": 6,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "PEG",
+      "row": 2,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "LOG",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "MAP",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8041
+}

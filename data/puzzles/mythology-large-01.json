@@ -1,0 +1,173 @@
+{
+  "id": "mythology-large-01",
+  "slug": "mythology-large-01",
+  "themeId": "mythology",
+  "title": "Large Print Mythology: Soft Myth",
+  "primaryKeyword": "large print mythology word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "CROWN",
+    "EPIC",
+    "FATE",
+    "HERO",
+    "MUSE",
+    "MYTH",
+    "QUEST",
+    "TALE"
+  ],
+  "grid": [
+    [
+      "W",
+      "M",
+      "Y",
+      "P",
+      "Q",
+      "E",
+      "D",
+      "S",
+      "G"
+    ],
+    [
+      "B",
+      "U",
+      "A",
+      "W",
+      "U",
+      "P",
+      "F",
+      "H",
+      "V"
+    ],
+    [
+      "G",
+      "S",
+      "O",
+      "Z",
+      "E",
+      "I",
+      "A",
+      "P",
+      "M"
+    ],
+    [
+      "J",
+      "E",
+      "K",
+      "X",
+      "S",
+      "C",
+      "T",
+      "M",
+      "Y"
+    ],
+    [
+      "T",
+      "T",
+      "F",
+      "F",
+      "T",
+      "G",
+      "E",
+      "W",
+      "T"
+    ],
+    [
+      "J",
+      "A",
+      "K",
+      "H",
+      "R",
+      "B",
+      "S",
+      "S",
+      "H"
+    ],
+    [
+      "P",
+      "L",
+      "S",
+      "E",
+      "C",
+      "R",
+      "O",
+      "W",
+      "N"
+    ],
+    [
+      "O",
+      "E",
+      "L",
+      "R",
+      "A",
+      "Z",
+      "G",
+      "D",
+      "U"
+    ],
+    [
+      "V",
+      "H",
+      "X",
+      "O",
+      "I",
+      "B",
+      "O",
+      "X",
+      "Z"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "QUEST",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "CROWN",
+      "row": 6,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "MYTH",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "TALE",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "HERO",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "MUSE",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "FATE",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "EPIC",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8506
+}

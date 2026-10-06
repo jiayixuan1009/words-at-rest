@@ -1,0 +1,284 @@
+{
+  "id": "weather-medium-02",
+  "slug": "weather-medium-02",
+  "themeId": "weather",
+  "title": "Weather: Quiet Forecast",
+  "primaryKeyword": "weather word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BAROMETER",
+    "BOOTS",
+    "CLEAR",
+    "DOWNPOUR",
+    "FRONT",
+    "HIGH",
+    "HORIZON",
+    "LIGHTNING",
+    "LOW",
+    "SCARF",
+    "SYSTEM",
+    "TEMPERATURE",
+    "THERMOMETER",
+    "TORRENT"
+  ],
+  "grid": [
+    [
+      "S",
+      "R",
+      "L",
+      "I",
+      "G",
+      "H",
+      "T",
+      "N",
+      "I",
+      "N",
+      "G",
+      "R"
+    ],
+    [
+      "T",
+      "E",
+      "M",
+      "P",
+      "E",
+      "R",
+      "A",
+      "T",
+      "U",
+      "R",
+      "E",
+      "D"
+    ],
+    [
+      "L",
+      "L",
+      "O",
+      "W",
+      "T",
+      "U",
+      "J",
+      "M",
+      "R",
+      "T",
+      "A",
+      "O"
+    ],
+    [
+      "X",
+      "A",
+      "H",
+      "N",
+      "H",
+      "T",
+      "E",
+      "E",
+      "E",
+      "E",
+      "R",
+      "W"
+    ],
+    [
+      "F",
+      "F",
+      "O",
+      "P",
+      "M",
+      "T",
+      "U",
+      "M",
+      "J",
+      "E",
+      "C",
+      "N"
+    ],
+    [
+      "O",
+      "R",
+      "R",
+      "F",
+      "S",
+      "A",
+      "O",
+      "T",
+      "T",
+      "H",
+      "S",
+      "P"
+    ],
+    [
+      "F",
+      "Q",
+      "F",
+      "Y",
+      "H",
+      "M",
+      "N",
+      "E",
+      "R",
+      "O",
+      "C",
+      "O"
+    ],
+    [
+      "L",
+      "V",
+      "S",
+      "G",
+      "R",
+      "E",
+      "M",
+      "C",
+      "B",
+      "R",
+      "A",
+      "U"
+    ],
+    [
+      "D",
+      "A",
+      "I",
+      "E",
+      "R",
+      "O",
+      "Z",
+      "L",
+      "O",
+      "I",
+      "R",
+      "R"
+    ],
+    [
+      "X",
+      "H",
+      "H",
+      "R",
+      "R",
+      "D",
+      "N",
+      "E",
+      "O",
+      "Z",
+      "F",
+      "Q"
+    ],
+    [
+      "O",
+      "T",
+      "O",
+      "A",
+      "N",
+      "V",
+      "K",
+      "A",
+      "T",
+      "O",
+      "N",
+      "G"
+    ],
+    [
+      "Z",
+      "T",
+      "B",
+      "G",
+      "T",
+      "F",
+      "S",
+      "R",
+      "S",
+      "N",
+      "D",
+      "I"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TEMPERATURE",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "THERMOMETER",
+      "row": 10,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "LIGHTNING",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BAROMETER",
+      "row": 11,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "DOWNPOUR",
+      "row": 1,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "TORRENT",
+      "row": 11,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "HORIZON",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SYSTEM",
+      "row": 7,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "CLEAR",
+      "row": 7,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "FRONT",
+      "row": 6,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "BOOTS",
+      "row": 7,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "SCARF",
+      "row": 5,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "HIGH",
+      "row": 9,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "LOW",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7184
+}

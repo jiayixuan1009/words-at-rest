@@ -8,7 +8,7 @@ import AdSlot from "@/components/AdSlot";
 import Byline from "@/components/Byline";
 import HubSchema from "@/components/HubSchema";
 import ThemeCard from "@/components/ThemeCard";
-import { getPuzzlesByTheme, getTheme, getThemes, puzzlePath } from "@/lib/data";
+import { getChildThemes, getPuzzlesByTheme, getTheme, getThemes, puzzlePath } from "@/lib/data";
 import { ART, themeArt, themeOgImage } from "@/lib/images";
 import Picture from "@/components/Picture";
 import { THEME_EXTRA } from "@/lib/theme-content";
@@ -59,9 +59,13 @@ export default async function ThemePage({ params }: Props) {
   const puzzles = getPuzzlesByTheme(theme.id);
   const extra = THEME_EXTRA[theme.slug];
   const themeSource = THEME_SOURCES[theme.slug] ?? THEME_GENERIC_SOURCE;
+  const parent = theme.parentSlug ? getTheme(theme.parentSlug) : undefined;
+  const children = getChildThemes(theme.slug);
   const all = getThemes();
   const idx = all.findIndex((t) => t.id === theme.id);
-  const others = [1, 2, 3].map((k) => all[(idx + k) % all.length]);
+  const others = [1, 2, 3]
+    .map((k) => all[(idx + k) % all.length])
+    .filter((t) => t.id !== theme.id);
   const words = [...theme.words].sort();
   const dates = themeDates(puzzles);
   const pageUrl = absoluteUrl(`/themes/${theme.slug}`);
@@ -70,6 +74,9 @@ export default async function ThemePage({ params }: Props) {
       <Breadcrumbs
         items={[
           { name: "Themes", href: "/themes" },
+          ...(parent
+            ? [{ name: parent.name, href: `/themes/${parent.slug}` }]
+            : []),
           { name: theme.name, href: `/themes/${theme.slug}` },
         ]}
       />
@@ -108,6 +115,28 @@ export default async function ThemePage({ params }: Props) {
             <PuzzleCard key={p.id} puzzle={p} />
           ))}
         </div>
+      )}
+
+      {children.length > 0 && (
+        <section className="mt-12">
+          <h2 className="font-serif text-2xl">Explore {theme.name.toLowerCase()} themes</h2>
+          <p className="mt-2 max-w-2xl text-lg text-[var(--ink-soft)]">
+            More focused word lists under {theme.name.toLowerCase()} — same calm adult style, no licensed names.
+          </p>
+          <ul className="mt-6 grid gap-8 sm:grid-cols-2 lg:grid-cols-4">
+            {children.map((child) => (
+              <li key={child.id}>
+                <ThemeCard theme={child} compact />
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
+
+      {parent && (
+        <p className="mt-8 text-lg text-[var(--ink-soft)]">
+          Part of our <Link href={`/themes/${parent.slug}`}>{parent.name} word search</Link> collection.
+        </p>
       )}
 
       <MobileMore id="theme-about" className="mt-12">

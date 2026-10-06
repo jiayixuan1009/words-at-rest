@@ -1,0 +1,284 @@
+{
+  "id": "reading-medium-02",
+  "slug": "reading-medium-02",
+  "themeId": "reading",
+  "title": "Reading: Library Hour",
+  "primaryKeyword": "reading word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BIOGRAPHY",
+    "BOOKMARK",
+    "CHARACTER",
+    "DIARY",
+    "EPILOGUE",
+    "EVENING",
+    "FOCUS",
+    "FONT",
+    "JOURNAL",
+    "LETTER",
+    "MARGIN",
+    "PAPER",
+    "TYPE",
+    "VERSE"
+  ],
+  "grid": [
+    [
+      "F",
+      "M",
+      "E",
+      "V",
+      "E",
+      "N",
+      "I",
+      "N",
+      "G",
+      "M",
+      "S",
+      "G"
+    ],
+    [
+      "O",
+      "E",
+      "P",
+      "I",
+      "L",
+      "O",
+      "G",
+      "U",
+      "E",
+      "G",
+      "M",
+      "X"
+    ],
+    [
+      "N",
+      "B",
+      "O",
+      "O",
+      "K",
+      "M",
+      "A",
+      "R",
+      "K",
+      "I",
+      "A",
+      "F"
+    ],
+    [
+      "L",
+      "D",
+      "G",
+      "E",
+      "X",
+      "Z",
+      "F",
+      "K",
+      "H",
+      "Y",
+      "R",
+      "O"
+    ],
+    [
+      "J",
+      "O",
+      "U",
+      "R",
+      "N",
+      "A",
+      "L",
+      "G",
+      "H",
+      "E",
+      "G",
+      "C"
+    ],
+    [
+      "G",
+      "L",
+      "E",
+      "T",
+      "T",
+      "E",
+      "R",
+      "P",
+      "P",
+      "V",
+      "I",
+      "U"
+    ],
+    [
+      "N",
+      "J",
+      "P",
+      "F",
+      "E",
+      "I",
+      "A",
+      "Y",
+      "Y",
+      "E",
+      "N",
+      "S"
+    ],
+    [
+      "D",
+      "I",
+      "A",
+      "R",
+      "Y",
+      "R",
+      "T",
+      "M",
+      "R",
+      "R",
+      "N",
+      "C"
+    ],
+    [
+      "R",
+      "T",
+      "X",
+      "R",
+      "G",
+      "K",
+      "M",
+      "E",
+      "X",
+      "S",
+      "D",
+      "Q"
+    ],
+    [
+      "I",
+      "X",
+      "X",
+      "O",
+      "W",
+      "I",
+      "P",
+      "C",
+      "Y",
+      "E",
+      "W",
+      "M"
+    ],
+    [
+      "G",
+      "O",
+      "I",
+      "C",
+      "H",
+      "A",
+      "R",
+      "A",
+      "C",
+      "T",
+      "E",
+      "R"
+    ],
+    [
+      "E",
+      "B",
+      "W",
+      "J",
+      "P",
+      "E",
+      "I",
+      "H",
+      "F",
+      "O",
+      "N",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CHARACTER",
+      "row": 10,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BIOGRAPHY",
+      "row": 11,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "EPILOGUE",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BOOKMARK",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "JOURNAL",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "EVENING",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "LETTER",
+      "row": 5,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "MARGIN",
+      "row": 1,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "DIARY",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "FOCUS",
+      "row": 2,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "VERSE",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "PAPER",
+      "row": 11,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "TYPE",
+      "row": 7,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "FONT",
+      "row": 11,
+      "col": 8,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8454
+}

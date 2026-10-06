@@ -1,0 +1,284 @@
+{
+  "id": "new-year-medium-01",
+  "slug": "new-year-medium-01",
+  "themeId": "new-year",
+  "title": "New Year: Resolutions",
+  "primaryKeyword": "new year word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CELEBRATE",
+    "CONFETTI",
+    "COUNTDOWN",
+    "FIREWORK",
+    "FUTURE",
+    "INTENTION",
+    "MEMORY",
+    "MIDNIGHT",
+    "PROMISE",
+    "REFRESH",
+    "RENEW",
+    "RESOLUTION",
+    "SPARKLER",
+    "STREAMER"
+  ],
+  "grid": [
+    [
+      "P",
+      "R",
+      "E",
+      "F",
+      "R",
+      "E",
+      "S",
+      "H",
+      "N",
+      "P",
+      "T",
+      "I"
+    ],
+    [
+      "R",
+      "F",
+      "Y",
+      "I",
+      "C",
+      "W",
+      "N",
+      "O",
+      "M",
+      "H",
+      "T",
+      "C"
+    ],
+    [
+      "O",
+      "U",
+      "N",
+      "C",
+      "E",
+      "G",
+      "I",
+      "O",
+      "G",
+      "T",
+      "M",
+      "E"
+    ],
+    [
+      "M",
+      "T",
+      "G",
+      "N",
+      "O",
+      "T",
+      "G",
+      "I",
+      "E",
+      "H",
+      "E",
+      "L"
+    ],
+    [
+      "I",
+      "U",
+      "E",
+      "S",
+      "N",
+      "U",
+      "N",
+      "F",
+      "U",
+      "H",
+      "M",
+      "E"
+    ],
+    [
+      "S",
+      "R",
+      "J",
+      "E",
+      "D",
+      "D",
+      "N",
+      "S",
+      "Q",
+      "U",
+      "O",
+      "B"
+    ],
+    [
+      "E",
+      "E",
+      "T",
+      "V",
+      "I",
+      "O",
+      "J",
+      "T",
+      "B",
+      "G",
+      "R",
+      "R"
+    ],
+    [
+      "N",
+      "N",
+      "I",
+      "M",
+      "C",
+      "P",
+      "A",
+      "B",
+      "D",
+      "K",
+      "Y",
+      "A"
+    ],
+    [
+      "I",
+      "R",
+      "E",
+      "S",
+      "O",
+      "L",
+      "U",
+      "T",
+      "I",
+      "O",
+      "N",
+      "T"
+    ],
+    [
+      "R",
+      "S",
+      "T",
+      "R",
+      "E",
+      "A",
+      "M",
+      "E",
+      "R",
+      "H",
+      "W",
+      "E"
+    ],
+    [
+      "H",
+      "J",
+      "L",
+      "F",
+      "I",
+      "R",
+      "E",
+      "W",
+      "O",
+      "R",
+      "K",
+      "N"
+    ],
+    [
+      "T",
+      "S",
+      "P",
+      "A",
+      "R",
+      "K",
+      "L",
+      "E",
+      "R",
+      "I",
+      "J",
+      "B"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "RESOLUTION",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "COUNTDOWN",
+      "row": 2,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "CELEBRATE",
+      "row": 1,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "INTENTION",
+      "row": 8,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "MIDNIGHT",
+      "row": 7,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "FIREWORK",
+      "row": 10,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "CONFETTI",
+      "row": 7,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "SPARKLER",
+      "row": 11,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "STREAMER",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PROMISE",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "REFRESH",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "FUTURE",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "MEMORY",
+      "row": 2,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "RENEW",
+      "row": 5,
+      "col": 1,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7013
+}

@@ -1,0 +1,284 @@
+{
+  "id": "kindness-medium-01",
+  "slug": "kindness-medium-01",
+  "themeId": "kindness",
+  "title": "Kindness: Warm Share",
+  "primaryKeyword": "kindness word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CHEER",
+    "COMFORT",
+    "GENTLE",
+    "GRACE",
+    "HONEST",
+    "LISTEN",
+    "LOYAL",
+    "MERCY",
+    "PATIENT",
+    "PEACE",
+    "POLITE",
+    "RESPECT",
+    "SUPPORT",
+    "THANKS"
+  ],
+  "grid": [
+    [
+      "C",
+      "O",
+      "O",
+      "V",
+      "U",
+      "N",
+      "B",
+      "C",
+      "X",
+      "T",
+      "G",
+      "L"
+    ],
+    [
+      "T",
+      "H",
+      "A",
+      "N",
+      "K",
+      "S",
+      "C",
+      "O",
+      "R",
+      "D",
+      "E",
+      "W"
+    ],
+    [
+      "P",
+      "P",
+      "E",
+      "A",
+      "C",
+      "E",
+      "M",
+      "M",
+      "E",
+      "D",
+      "N",
+      "D"
+    ],
+    [
+      "D",
+      "A",
+      "A",
+      "E",
+      "R",
+      "P",
+      "E",
+      "F",
+      "S",
+      "E",
+      "T",
+      "W"
+    ],
+    [
+      "L",
+      "L",
+      "T",
+      "L",
+      "R",
+      "Y",
+      "R",
+      "O",
+      "P",
+      "I",
+      "L",
+      "M"
+    ],
+    [
+      "L",
+      "S",
+      "T",
+      "I",
+      "O",
+      "Y",
+      "C",
+      "R",
+      "E",
+      "T",
+      "E",
+      "O"
+    ],
+    [
+      "P",
+      "U",
+      "B",
+      "F",
+      "E",
+      "Y",
+      "Y",
+      "T",
+      "C",
+      "V",
+      "M",
+      "L"
+    ],
+    [
+      "O",
+      "P",
+      "K",
+      "G",
+      "F",
+      "N",
+      "A",
+      "E",
+      "T",
+      "W",
+      "L",
+      "I"
+    ],
+    [
+      "L",
+      "P",
+      "T",
+      "C",
+      "W",
+      "D",
+      "T",
+      "L",
+      "H",
+      "R",
+      "E",
+      "S"
+    ],
+    [
+      "I",
+      "O",
+      "G",
+      "R",
+      "A",
+      "C",
+      "E",
+      "F",
+      "M",
+      "E",
+      "V",
+      "T"
+    ],
+    [
+      "T",
+      "R",
+      "W",
+      "V",
+      "B",
+      "U",
+      "I",
+      "N",
+      "F",
+      "G",
+      "U",
+      "E"
+    ],
+    [
+      "E",
+      "T",
+      "N",
+      "B",
+      "Z",
+      "H",
+      "O",
+      "N",
+      "E",
+      "S",
+      "T",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PATIENT",
+      "row": 2,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "RESPECT",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "COMFORT",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SUPPORT",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "GENTLE",
+      "row": 0,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "HONEST",
+      "row": 11,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "POLITE",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "LISTEN",
+      "row": 6,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "THANKS",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "LOYAL",
+      "row": 4,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "CHEER",
+      "row": 0,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "MERCY",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "GRACE",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PEACE",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8213
+}

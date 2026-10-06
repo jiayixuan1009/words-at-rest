@@ -1,0 +1,284 @@
+{
+  "id": "easter-medium-01",
+  "slug": "easter-medium-01",
+  "themeId": "easter",
+  "title": "Easter: Garden Blooms",
+  "primaryKeyword": "easter word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BLOSSOM",
+    "BONNET",
+    "DAFFODIL",
+    "GARDEN",
+    "HATCH",
+    "MEADOW",
+    "NEST",
+    "PARADE",
+    "PASTEL",
+    "REFRESH",
+    "SUNRISE",
+    "TULIP",
+    "VIOLET",
+    "WILLOW"
+  ],
+  "grid": [
+    [
+      "X",
+      "E",
+      "J",
+      "F",
+      "D",
+      "R",
+      "W",
+      "J",
+      "R",
+      "G",
+      "M",
+      "H"
+    ],
+    [
+      "Z",
+      "T",
+      "L",
+      "C",
+      "A",
+      "A",
+      "C",
+      "S",
+      "E",
+      "A",
+      "W",
+      "A"
+    ],
+    [
+      "I",
+      "U",
+      "Q",
+      "Y",
+      "F",
+      "W",
+      "B",
+      "U",
+      "F",
+      "C",
+      "I",
+      "T"
+    ],
+    [
+      "Y",
+      "L",
+      "O",
+      "X",
+      "F",
+      "L",
+      "Y",
+      "N",
+      "R",
+      "M",
+      "L",
+      "C"
+    ],
+    [
+      "N",
+      "I",
+      "F",
+      "M",
+      "O",
+      "A",
+      "G",
+      "R",
+      "E",
+      "E",
+      "L",
+      "H"
+    ],
+    [
+      "V",
+      "P",
+      "B",
+      "E",
+      "D",
+      "A",
+      "K",
+      "I",
+      "S",
+      "A",
+      "O",
+      "N"
+    ],
+    [
+      "I",
+      "H",
+      "L",
+      "O",
+      "I",
+      "G",
+      "W",
+      "S",
+      "H",
+      "D",
+      "W",
+      "E"
+    ],
+    [
+      "O",
+      "H",
+      "O",
+      "Z",
+      "L",
+      "X",
+      "A",
+      "E",
+      "M",
+      "O",
+      "N",
+      "S"
+    ],
+    [
+      "L",
+      "Y",
+      "S",
+      "P",
+      "A",
+      "S",
+      "T",
+      "E",
+      "L",
+      "W",
+      "B",
+      "T"
+    ],
+    [
+      "E",
+      "J",
+      "S",
+      "X",
+      "W",
+      "Z",
+      "B",
+      "O",
+      "N",
+      "N",
+      "E",
+      "T"
+    ],
+    [
+      "T",
+      "T",
+      "O",
+      "P",
+      "A",
+      "R",
+      "A",
+      "D",
+      "E",
+      "V",
+      "I",
+      "C"
+    ],
+    [
+      "N",
+      "W",
+      "M",
+      "N",
+      "A",
+      "B",
+      "G",
+      "A",
+      "R",
+      "D",
+      "E",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "DAFFODIL",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "BLOSSOM",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "SUNRISE",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "REFRESH",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "PASTEL",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BONNET",
+      "row": 9,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "PARADE",
+      "row": 10,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "GARDEN",
+      "row": 11,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "WILLOW",
+      "row": 1,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "MEADOW",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "VIOLET",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "TULIP",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "HATCH",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "NEST",
+      "row": 5,
+      "col": 11,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 4013
+}

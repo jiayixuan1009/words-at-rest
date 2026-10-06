@@ -1,0 +1,208 @@
+{
+  "id": "hiking-easy-02",
+  "slug": "hiking-easy-02",
+  "themeId": "hiking",
+  "title": "Hiking: Quiet Ridge",
+  "primaryKeyword": "hiking word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "DAWN",
+    "DUST",
+    "HAT",
+    "MILE",
+    "PACE",
+    "POLE",
+    "RIDGE",
+    "ROCK",
+    "ROOT",
+    "SLOPE"
+  ],
+  "grid": [
+    [
+      "T",
+      "G",
+      "H",
+      "G",
+      "Y",
+      "W",
+      "G",
+      "U",
+      "B",
+      "S"
+    ],
+    [
+      "P",
+      "C",
+      "M",
+      "P",
+      "Y",
+      "R",
+      "T",
+      "U",
+      "W",
+      "D"
+    ],
+    [
+      "D",
+      "P",
+      "I",
+      "A",
+      "J",
+      "I",
+      "H",
+      "A",
+      "T",
+      "A"
+    ],
+    [
+      "K",
+      "O",
+      "L",
+      "C",
+      "W",
+      "D",
+      "E",
+      "H",
+      "D",
+      "W"
+    ],
+    [
+      "J",
+      "L",
+      "E",
+      "E",
+      "Y",
+      "G",
+      "R",
+      "Q",
+      "S",
+      "N"
+    ],
+    [
+      "I",
+      "E",
+      "Z",
+      "O",
+      "L",
+      "E",
+      "F",
+      "X",
+      "L",
+      "X"
+    ],
+    [
+      "N",
+      "D",
+      "U",
+      "S",
+      "T",
+      "C",
+      "M",
+      "L",
+      "O",
+      "N"
+    ],
+    [
+      "R",
+      "O",
+      "C",
+      "K",
+      "N",
+      "U",
+      "A",
+      "X",
+      "P",
+      "B"
+    ],
+    [
+      "W",
+      "M",
+      "A",
+      "K",
+      "B",
+      "I",
+      "E",
+      "W",
+      "E",
+      "X"
+    ],
+    [
+      "R",
+      "O",
+      "O",
+      "T",
+      "D",
+      "S",
+      "M",
+      "C",
+      "H",
+      "D"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "RIDGE",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "SLOPE",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "POLE",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "MILE",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "ROCK",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "ROOT",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "DUST",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "DAWN",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "PACE",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "HAT",
+      "row": 2,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8642
+}

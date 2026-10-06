@@ -1,0 +1,208 @@
+{
+  "id": "quilting-easy-02",
+  "slug": "quilting-easy-02",
+  "themeId": "quilting",
+  "title": "Quilting: Quiet Patch",
+  "primaryKeyword": "quilting word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BORDER",
+    "CRAFT",
+    "IRON",
+    "LAYER",
+    "NEEDLE",
+    "PRESS",
+    "ROLL",
+    "SASH",
+    "SQUARE",
+    "THREAD"
+  ],
+  "grid": [
+    [
+      "E",
+      "O",
+      "A",
+      "L",
+      "I",
+      "F",
+      "R",
+      "I",
+      "B",
+      "L"
+    ],
+    [
+      "C",
+      "F",
+      "D",
+      "Z",
+      "R",
+      "P",
+      "R",
+      "E",
+      "S",
+      "S"
+    ],
+    [
+      "R",
+      "I",
+      "O",
+      "O",
+      "O",
+      "B",
+      "S",
+      "J",
+      "A",
+      "T"
+    ],
+    [
+      "A",
+      "F",
+      "X",
+      "L",
+      "N",
+      "O",
+      "N",
+      "O",
+      "S",
+      "H"
+    ],
+    [
+      "F",
+      "B",
+      "S",
+      "A",
+      "O",
+      "R",
+      "E",
+      "C",
+      "H",
+      "R"
+    ],
+    [
+      "T",
+      "B",
+      "T",
+      "Y",
+      "V",
+      "D",
+      "E",
+      "M",
+      "R",
+      "E"
+    ],
+    [
+      "M",
+      "K",
+      "A",
+      "E",
+      "D",
+      "E",
+      "D",
+      "N",
+      "O",
+      "A"
+    ],
+    [
+      "Y",
+      "N",
+      "Q",
+      "R",
+      "M",
+      "R",
+      "L",
+      "M",
+      "L",
+      "D"
+    ],
+    [
+      "S",
+      "Q",
+      "U",
+      "A",
+      "R",
+      "E",
+      "E",
+      "S",
+      "L",
+      "B"
+    ],
+    [
+      "U",
+      "U",
+      "B",
+      "V",
+      "M",
+      "L",
+      "L",
+      "L",
+      "A",
+      "H"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SQUARE",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BORDER",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "NEEDLE",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "THREAD",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "LAYER",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "PRESS",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "CRAFT",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SASH",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "IRON",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "ROLL",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8622
+}

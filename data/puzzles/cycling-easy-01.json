@@ -1,0 +1,208 @@
+{
+  "id": "cycling-easy-01",
+  "slug": "cycling-easy-01",
+  "themeId": "cycling",
+  "title": "Cycling: Pedal Pace",
+  "primaryKeyword": "cycling word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BELL",
+    "BIKE",
+    "CHAIN",
+    "GEAR",
+    "LANE",
+    "PEDAL",
+    "RIDE",
+    "ROAD",
+    "TIRE",
+    "WHEEL"
+  ],
+  "grid": [
+    [
+      "Y",
+      "B",
+      "I",
+      "K",
+      "E",
+      "E",
+      "P",
+      "I",
+      "L",
+      "G"
+    ],
+    [
+      "V",
+      "C",
+      "H",
+      "A",
+      "I",
+      "N",
+      "A",
+      "Q",
+      "A",
+      "E"
+    ],
+    [
+      "U",
+      "S",
+      "A",
+      "H",
+      "E",
+      "Q",
+      "O",
+      "R",
+      "N",
+      "A"
+    ],
+    [
+      "M",
+      "P",
+      "E",
+      "D",
+      "A",
+      "L",
+      "W",
+      "I",
+      "E",
+      "R"
+    ],
+    [
+      "R",
+      "H",
+      "B",
+      "E",
+      "L",
+      "L",
+      "F",
+      "D",
+      "Y",
+      "S"
+    ],
+    [
+      "U",
+      "W",
+      "D",
+      "Q",
+      "P",
+      "N",
+      "O",
+      "E",
+      "J",
+      "S"
+    ],
+    [
+      "W",
+      "H",
+      "D",
+      "Y",
+      "H",
+      "W",
+      "T",
+      "I",
+      "R",
+      "E"
+    ],
+    [
+      "R",
+      "E",
+      "N",
+      "C",
+      "C",
+      "B",
+      "O",
+      "V",
+      "E",
+      "O"
+    ],
+    [
+      "D",
+      "E",
+      "R",
+      "O",
+      "A",
+      "D",
+      "K",
+      "D",
+      "G",
+      "U"
+    ],
+    [
+      "U",
+      "L",
+      "K",
+      "L",
+      "G",
+      "W",
+      "R",
+      "D",
+      "J",
+      "F"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PEDAL",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CHAIN",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "WHEEL",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "BIKE",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "GEAR",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "TIRE",
+      "row": 6,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "BELL",
+      "row": 4,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "LANE",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "ROAD",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "RIDE",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8651
+}

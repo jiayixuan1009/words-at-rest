@@ -1,0 +1,284 @@
+{
+  "id": "reading-medium-01",
+  "slug": "reading-medium-01",
+  "themeId": "reading",
+  "title": "Reading: Chapter Night",
+  "primaryKeyword": "reading word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "AUTHOR",
+    "CHAPTER",
+    "FICTION",
+    "GENRE",
+    "HISTORY",
+    "INDEX",
+    "LIBRARY",
+    "PLOT",
+    "PREFACE",
+    "READER",
+    "SCENE",
+    "SPINE",
+    "THEME",
+    "VOLUME"
+  ],
+  "grid": [
+    [
+      "Y",
+      "I",
+      "Y",
+      "D",
+      "N",
+      "H",
+      "I",
+      "S",
+      "T",
+      "O",
+      "R",
+      "Y"
+    ],
+    [
+      "B",
+      "G",
+      "C",
+      "C",
+      "Y",
+      "X",
+      "K",
+      "L",
+      "D",
+      "R",
+      "O",
+      "Q"
+    ],
+    [
+      "B",
+      "U",
+      "G",
+      "H",
+      "P",
+      "S",
+      "C",
+      "E",
+      "N",
+      "E",
+      "V",
+      "L"
+    ],
+    [
+      "C",
+      "M",
+      "L",
+      "S",
+      "A",
+      "R",
+      "P",
+      "L",
+      "O",
+      "T",
+      "O",
+      "J"
+    ],
+    [
+      "C",
+      "A",
+      "E",
+      "T",
+      "C",
+      "P",
+      "E",
+      "R",
+      "Q",
+      "C",
+      "L",
+      "Y"
+    ],
+    [
+      "A",
+      "U",
+      "T",
+      "H",
+      "O",
+      "R",
+      "T",
+      "F",
+      "A",
+      "W",
+      "U",
+      "G"
+    ],
+    [
+      "I",
+      "F",
+      "F",
+      "S",
+      "X",
+      "S",
+      "T",
+      "E",
+      "A",
+      "C",
+      "M",
+      "E"
+    ],
+    [
+      "N",
+      "E",
+      "Q",
+      "V",
+      "B",
+      "P",
+      "M",
+      "H",
+      "R",
+      "C",
+      "E",
+      "N"
+    ],
+    [
+      "D",
+      "F",
+      "I",
+      "C",
+      "T",
+      "I",
+      "O",
+      "N",
+      "E",
+      "K",
+      "E",
+      "R"
+    ],
+    [
+      "E",
+      "Y",
+      "S",
+      "P",
+      "I",
+      "N",
+      "E",
+      "L",
+      "P",
+      "M",
+      "F",
+      "E"
+    ],
+    [
+      "X",
+      "S",
+      "L",
+      "I",
+      "B",
+      "R",
+      "A",
+      "R",
+      "Y",
+      "V",
+      "E",
+      "I"
+    ],
+    [
+      "M",
+      "S",
+      "R",
+      "E",
+      "A",
+      "D",
+      "E",
+      "R",
+      "H",
+      "R",
+      "F",
+      "U"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CHAPTER",
+      "row": 1,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "LIBRARY",
+      "row": 10,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PREFACE",
+      "row": 2,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "FICTION",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "HISTORY",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "AUTHOR",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "READER",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "VOLUME",
+      "row": 2,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "SPINE",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "INDEX",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SCENE",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "THEME",
+      "row": 6,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "GENRE",
+      "row": 5,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "PLOT",
+      "row": 3,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8453
+}

@@ -1,0 +1,284 @@
+{
+  "id": "classical-medium-02",
+  "slug": "classical-medium-02",
+  "themeId": "classical",
+  "title": "Classical: Score Study",
+  "primaryKeyword": "classical music word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CADENZA",
+    "CONCERTO",
+    "CONDUCTOR",
+    "CRESCENDO",
+    "DIMINUENDO",
+    "MOVEMENT",
+    "NOCTURNE",
+    "ORCHESTRA",
+    "OVERTURE",
+    "REPRISE",
+    "SOLOIST",
+    "STACCATO",
+    "SYMPHONY",
+    "VARIATION"
+  ],
+  "grid": [
+    [
+      "M",
+      "O",
+      "V",
+      "E",
+      "M",
+      "E",
+      "N",
+      "T",
+      "M",
+      "T",
+      "J",
+      "V"
+    ],
+    [
+      "R",
+      "D",
+      "I",
+      "M",
+      "I",
+      "N",
+      "U",
+      "E",
+      "N",
+      "D",
+      "O",
+      "F"
+    ],
+    [
+      "E",
+      "O",
+      "U",
+      "B",
+      "T",
+      "S",
+      "M",
+      "R",
+      "C",
+      "C",
+      "R",
+      "V"
+    ],
+    [
+      "G",
+      "R",
+      "A",
+      "C",
+      "N",
+      "Y",
+      "N",
+      "R",
+      "R",
+      "S",
+      "C",
+      "A"
+    ],
+    [
+      "O",
+      "C",
+      "C",
+      "O",
+      "S",
+      "M",
+      "N",
+      "R",
+      "E",
+      "T",
+      "O",
+      "R"
+    ],
+    [
+      "V",
+      "H",
+      "A",
+      "N",
+      "O",
+      "P",
+      "O",
+      "E",
+      "S",
+      "A",
+      "N",
+      "I"
+    ],
+    [
+      "E",
+      "E",
+      "D",
+      "C",
+      "L",
+      "H",
+      "C",
+      "P",
+      "C",
+      "C",
+      "D",
+      "A"
+    ],
+    [
+      "R",
+      "S",
+      "E",
+      "E",
+      "O",
+      "O",
+      "T",
+      "R",
+      "E",
+      "C",
+      "U",
+      "T"
+    ],
+    [
+      "T",
+      "T",
+      "N",
+      "R",
+      "I",
+      "N",
+      "U",
+      "I",
+      "N",
+      "A",
+      "C",
+      "I"
+    ],
+    [
+      "U",
+      "R",
+      "Z",
+      "T",
+      "S",
+      "Y",
+      "R",
+      "S",
+      "D",
+      "T",
+      "T",
+      "O"
+    ],
+    [
+      "R",
+      "A",
+      "A",
+      "O",
+      "T",
+      "H",
+      "N",
+      "E",
+      "O",
+      "O",
+      "O",
+      "N"
+    ],
+    [
+      "E",
+      "E",
+      "O",
+      "V",
+      "J",
+      "I",
+      "E",
+      "Q",
+      "M",
+      "H",
+      "R",
+      "Q"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "DIMINUENDO",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CRESCENDO",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "CONDUCTOR",
+      "row": 3,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "VARIATION",
+      "row": 2,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "ORCHESTRA",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SYMPHONY",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "CONCERTO",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "OVERTURE",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "NOCTURNE",
+      "row": 4,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "MOVEMENT",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "STACCATO",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "CADENZA",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "REPRISE",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SOLOIST",
+      "row": 4,
+      "col": 4,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6234
+}

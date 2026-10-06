@@ -1,0 +1,284 @@
+{
+  "id": "cars-medium-01",
+  "slug": "cars-medium-01",
+  "themeId": "cars",
+  "title": "Cars: Highway Mile",
+  "primaryKeyword": "cars word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BEAM",
+    "DASH",
+    "ENGINE",
+    "EXIT",
+    "GARAGE",
+    "LIGHT",
+    "MIRROR",
+    "MOTOR",
+    "RADIO",
+    "RAMP",
+    "SIGNAL",
+    "STEER",
+    "STREET",
+    "WINDOW"
+  ],
+  "grid": [
+    [
+      "J",
+      "Z",
+      "T",
+      "B",
+      "A",
+      "K",
+      "R",
+      "A",
+      "M",
+      "P",
+      "Z",
+      "D"
+    ],
+    [
+      "N",
+      "B",
+      "M",
+      "O",
+      "T",
+      "O",
+      "R",
+      "Y",
+      "D",
+      "B",
+      "B",
+      "A"
+    ],
+    [
+      "M",
+      "N",
+      "X",
+      "V",
+      "C",
+      "L",
+      "I",
+      "G",
+      "H",
+      "T",
+      "E",
+      "P"
+    ],
+    [
+      "I",
+      "M",
+      "S",
+      "I",
+      "G",
+      "N",
+      "A",
+      "L",
+      "V",
+      "S",
+      "A",
+      "Z"
+    ],
+    [
+      "R",
+      "F",
+      "L",
+      "U",
+      "L",
+      "I",
+      "Q",
+      "S",
+      "G",
+      "O",
+      "M",
+      "H"
+    ],
+    [
+      "R",
+      "S",
+      "T",
+      "E",
+      "E",
+      "R",
+      "E",
+      "N",
+      "G",
+      "I",
+      "N",
+      "E"
+    ],
+    [
+      "O",
+      "A",
+      "D",
+      "R",
+      "J",
+      "J",
+      "D",
+      "A",
+      "S",
+      "H",
+      "V",
+      "P"
+    ],
+    [
+      "R",
+      "O",
+      "U",
+      "A",
+      "D",
+      "S",
+      "T",
+      "R",
+      "E",
+      "E",
+      "T",
+      "L"
+    ],
+    [
+      "R",
+      "V",
+      "W",
+      "D",
+      "G",
+      "Q",
+      "C",
+      "F",
+      "E",
+      "X",
+      "I",
+      "T"
+    ],
+    [
+      "M",
+      "V",
+      "W",
+      "I",
+      "N",
+      "D",
+      "O",
+      "W",
+      "Z",
+      "J",
+      "Q",
+      "A"
+    ],
+    [
+      "S",
+      "M",
+      "P",
+      "O",
+      "U",
+      "F",
+      "D",
+      "B",
+      "D",
+      "G",
+      "I",
+      "L"
+    ],
+    [
+      "L",
+      "H",
+      "E",
+      "S",
+      "E",
+      "G",
+      "A",
+      "R",
+      "A",
+      "G",
+      "E",
+      "K"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ENGINE",
+      "row": 5,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "WINDOW",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "MIRROR",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "STREET",
+      "row": 7,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "GARAGE",
+      "row": 11,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SIGNAL",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "MOTOR",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "STEER",
+      "row": 5,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "RADIO",
+      "row": 6,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "LIGHT",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "DASH",
+      "row": 6,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "BEAM",
+      "row": 1,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "RAMP",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "EXIT",
+      "row": 8,
+      "col": 8,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8063
+}

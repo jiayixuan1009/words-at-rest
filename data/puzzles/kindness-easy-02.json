@@ -1,0 +1,208 @@
+{
+  "id": "kindness-easy-02",
+  "slug": "kindness-easy-02",
+  "themeId": "kindness",
+  "title": "Kindness: Quiet Care",
+  "primaryKeyword": "kindness word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CALM",
+    "CARD",
+    "FAIR",
+    "HAND",
+    "HEART",
+    "HOPE",
+    "JOY",
+    "NOTE",
+    "SOFT",
+    "TEA"
+  ],
+  "grid": [
+    [
+      "R",
+      "P",
+      "N",
+      "O",
+      "T",
+      "E",
+      "X",
+      "N",
+      "S",
+      "U"
+    ],
+    [
+      "P",
+      "W",
+      "K",
+      "P",
+      "V",
+      "U",
+      "D",
+      "S",
+      "F",
+      "H"
+    ],
+    [
+      "S",
+      "O",
+      "F",
+      "T",
+      "G",
+      "O",
+      "M",
+      "B",
+      "M",
+      "A"
+    ],
+    [
+      "J",
+      "N",
+      "J",
+      "H",
+      "E",
+      "A",
+      "R",
+      "T",
+      "W",
+      "N"
+    ],
+    [
+      "Y",
+      "M",
+      "O",
+      "Y",
+      "W",
+      "O",
+      "H",
+      "N",
+      "X",
+      "D"
+    ],
+    [
+      "V",
+      "K",
+      "Y",
+      "F",
+      "E",
+      "C",
+      "O",
+      "T",
+      "C",
+      "Q"
+    ],
+    [
+      "N",
+      "L",
+      "T",
+      "A",
+      "Q",
+      "A",
+      "P",
+      "Q",
+      "A",
+      "D"
+    ],
+    [
+      "A",
+      "Q",
+      "E",
+      "I",
+      "X",
+      "R",
+      "E",
+      "Q",
+      "L",
+      "R"
+    ],
+    [
+      "U",
+      "G",
+      "A",
+      "R",
+      "I",
+      "D",
+      "B",
+      "A",
+      "M",
+      "B"
+    ],
+    [
+      "R",
+      "T",
+      "A",
+      "K",
+      "M",
+      "N",
+      "V",
+      "R",
+      "N",
+      "U"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "HEART",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SOFT",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CALM",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "FAIR",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "HOPE",
+      "row": 4,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "HAND",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "NOTE",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CARD",
+      "row": 5,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "JOY",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "TEA",
+      "row": 6,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8212
+}

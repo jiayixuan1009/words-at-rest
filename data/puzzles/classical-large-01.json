@@ -1,0 +1,173 @@
+{
+  "id": "classical-large-01",
+  "slug": "classical-large-01",
+  "themeId": "classical",
+  "title": "Large Print Classical: Soft Aria",
+  "primaryKeyword": "large print classical word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "ARIA",
+    "CHOIR",
+    "DUET",
+    "PIANO",
+    "SCORE",
+    "SUITE",
+    "TEMPO",
+    "THEME"
+  ],
+  "grid": [
+    [
+      "W",
+      "C",
+      "Q",
+      "J",
+      "M",
+      "Z",
+      "S",
+      "B",
+      "Q"
+    ],
+    [
+      "U",
+      "G",
+      "Z",
+      "Q",
+      "S",
+      "U",
+      "C",
+      "F",
+      "V"
+    ],
+    [
+      "W",
+      "E",
+      "A",
+      "R",
+      "I",
+      "A",
+      "O",
+      "S",
+      "A"
+    ],
+    [
+      "W",
+      "T",
+      "E",
+      "M",
+      "P",
+      "O",
+      "R",
+      "I",
+      "C"
+    ],
+    [
+      "S",
+      "I",
+      "H",
+      "S",
+      "D",
+      "B",
+      "E",
+      "N",
+      "H"
+    ],
+    [
+      "U",
+      "T",
+      "R",
+      "U",
+      "D",
+      "U",
+      "E",
+      "T",
+      "O"
+    ],
+    [
+      "I",
+      "S",
+      "T",
+      "H",
+      "E",
+      "M",
+      "E",
+      "F",
+      "I"
+    ],
+    [
+      "T",
+      "Q",
+      "P",
+      "I",
+      "A",
+      "N",
+      "O",
+      "Z",
+      "R"
+    ],
+    [
+      "E",
+      "F",
+      "D",
+      "X",
+      "Z",
+      "R",
+      "S",
+      "K",
+      "Y"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TEMPO",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "THEME",
+      "row": 6,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SCORE",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "SUITE",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CHOIR",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "PIANO",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ARIA",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "DUET",
+      "row": 5,
+      "col": 4,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6236
+}

@@ -1,0 +1,284 @@
+{
+  "id": "jobs-medium-02",
+  "slug": "jobs-medium-02",
+  "themeId": "jobs",
+  "title": "Jobs: Career Path",
+  "primaryKeyword": "jobs careers word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ARTIST",
+    "BARBER",
+    "CARPENTER",
+    "EDITOR",
+    "GUIDE",
+    "HELPER",
+    "MANAGER",
+    "MECHANIC",
+    "MUSICIAN",
+    "PLUMBER",
+    "SERVER",
+    "TAILOR",
+    "TELLER",
+    "WRITER"
+  ],
+  "grid": [
+    [
+      "X",
+      "G",
+      "O",
+      "P",
+      "Y",
+      "V",
+      "A",
+      "R",
+      "T",
+      "I",
+      "S",
+      "T"
+    ],
+    [
+      "M",
+      "U",
+      "E",
+      "L",
+      "M",
+      "U",
+      "S",
+      "I",
+      "C",
+      "I",
+      "A",
+      "N"
+    ],
+    [
+      "E",
+      "I",
+      "A",
+      "U",
+      "W",
+      "R",
+      "I",
+      "T",
+      "E",
+      "R",
+      "H",
+      "H"
+    ],
+    [
+      "C",
+      "D",
+      "Z",
+      "M",
+      "G",
+      "C",
+      "X",
+      "A",
+      "N",
+      "D",
+      "N",
+      "E"
+    ],
+    [
+      "H",
+      "E",
+      "L",
+      "B",
+      "B",
+      "A",
+      "R",
+      "B",
+      "E",
+      "R",
+      "N",
+      "L"
+    ],
+    [
+      "A",
+      "T",
+      "O",
+      "E",
+      "P",
+      "R",
+      "I",
+      "S",
+      "M",
+      "O",
+      "E",
+      "P"
+    ],
+    [
+      "N",
+      "A",
+      "E",
+      "R",
+      "Q",
+      "P",
+      "P",
+      "E",
+      "A",
+      "T",
+      "W",
+      "E"
+    ],
+    [
+      "I",
+      "I",
+      "D",
+      "D",
+      "R",
+      "E",
+      "J",
+      "R",
+      "N",
+      "E",
+      "A",
+      "R"
+    ],
+    [
+      "C",
+      "L",
+      "I",
+      "Y",
+      "X",
+      "N",
+      "C",
+      "V",
+      "A",
+      "L",
+      "V",
+      "T"
+    ],
+    [
+      "I",
+      "O",
+      "T",
+      "O",
+      "F",
+      "T",
+      "F",
+      "E",
+      "G",
+      "L",
+      "V",
+      "W"
+    ],
+    [
+      "K",
+      "R",
+      "O",
+      "Y",
+      "H",
+      "E",
+      "Y",
+      "R",
+      "E",
+      "E",
+      "V",
+      "V"
+    ],
+    [
+      "V",
+      "R",
+      "R",
+      "Z",
+      "N",
+      "R",
+      "E",
+      "L",
+      "R",
+      "R",
+      "R",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CARPENTER",
+      "row": 3,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "MECHANIC",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "MUSICIAN",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "PLUMBER",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "MANAGER",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "TAILOR",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "BARBER",
+      "row": 4,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "TELLER",
+      "row": 6,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "WRITER",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "EDITOR",
+      "row": 6,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "ARTIST",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "SERVER",
+      "row": 5,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "HELPER",
+      "row": 2,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "GUIDE",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8144
+}

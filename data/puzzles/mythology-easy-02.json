@@ -1,0 +1,208 @@
+{
+  "id": "mythology-easy-02",
+  "slug": "mythology-easy-02",
+  "themeId": "mythology",
+  "title": "Mythology: Temple Tale",
+  "primaryKeyword": "mythology word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ALTAR",
+    "DAY",
+    "FABLE",
+    "GOD",
+    "JOY",
+    "LEGEND",
+    "NYMPH",
+    "SHIELD",
+    "SPEAR",
+    "VERSE"
+  ],
+  "grid": [
+    [
+      "S",
+      "N",
+      "D",
+      "Q",
+      "N",
+      "H",
+      "Q",
+      "J",
+      "O",
+      "Y"
+    ],
+    [
+      "P",
+      "U",
+      "T",
+      "S",
+      "H",
+      "I",
+      "E",
+      "L",
+      "D",
+      "A"
+    ],
+    [
+      "E",
+      "L",
+      "E",
+      "G",
+      "E",
+      "N",
+      "D",
+      "X",
+      "O",
+      "A"
+    ],
+    [
+      "A",
+      "N",
+      "Y",
+      "M",
+      "P",
+      "H",
+      "Y",
+      "M",
+      "A",
+      "W"
+    ],
+    [
+      "R",
+      "R",
+      "P",
+      "A",
+      "K",
+      "G",
+      "O",
+      "D",
+      "L",
+      "M"
+    ],
+    [
+      "S",
+      "V",
+      "Q",
+      "M",
+      "N",
+      "X",
+      "S",
+      "W",
+      "T",
+      "W"
+    ],
+    [
+      "Z",
+      "X",
+      "V",
+      "E",
+      "R",
+      "S",
+      "E",
+      "I",
+      "A",
+      "S"
+    ],
+    [
+      "F",
+      "A",
+      "B",
+      "L",
+      "E",
+      "Q",
+      "J",
+      "H",
+      "R",
+      "X"
+    ],
+    [
+      "I",
+      "Z",
+      "Y",
+      "N",
+      "F",
+      "X",
+      "F",
+      "T",
+      "S",
+      "L"
+    ],
+    [
+      "D",
+      "D",
+      "B",
+      "Y",
+      "D",
+      "A",
+      "Y",
+      "R",
+      "T",
+      "U"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "LEGEND",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SHIELD",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "FABLE",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "ALTAR",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "NYMPH",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SPEAR",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "VERSE",
+      "row": 6,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "GOD",
+      "row": 4,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "JOY",
+      "row": 0,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "DAY",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8502
+}

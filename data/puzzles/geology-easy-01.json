@@ -1,0 +1,208 @@
+{
+  "id": "geology-easy-01",
+  "slug": "geology-easy-01",
+  "themeId": "geology",
+  "title": "Geology: Rock Desk",
+  "primaryKeyword": "geology word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CLAY",
+    "MAP",
+    "MICA",
+    "QUARTZ",
+    "ROCK",
+    "SAND",
+    "SHALE",
+    "SILT",
+    "SLATE",
+    "STONE"
+  ],
+  "grid": [
+    [
+      "N",
+      "B",
+      "Y",
+      "U",
+      "P",
+      "U",
+      "U",
+      "C",
+      "M",
+      "K"
+    ],
+    [
+      "S",
+      "I",
+      "L",
+      "T",
+      "Z",
+      "M",
+      "X",
+      "A",
+      "I",
+      "W"
+    ],
+    [
+      "G",
+      "Q",
+      "U",
+      "A",
+      "R",
+      "T",
+      "Z",
+      "Q",
+      "C",
+      "G"
+    ],
+    [
+      "S",
+      "T",
+      "O",
+      "N",
+      "E",
+      "Y",
+      "C",
+      "K",
+      "A",
+      "M"
+    ],
+    [
+      "Z",
+      "H",
+      "K",
+      "P",
+      "N",
+      "D",
+      "R",
+      "E",
+      "Q",
+      "A"
+    ],
+    [
+      "C",
+      "R",
+      "R",
+      "D",
+      "S",
+      "C",
+      "L",
+      "A",
+      "Y",
+      "P"
+    ],
+    [
+      "L",
+      "O",
+      "M",
+      "C",
+      "A",
+      "H",
+      "X",
+      "G",
+      "Y",
+      "R"
+    ],
+    [
+      "F",
+      "C",
+      "G",
+      "Z",
+      "Z",
+      "S",
+      "L",
+      "A",
+      "T",
+      "E"
+    ],
+    [
+      "Y",
+      "K",
+      "F",
+      "D",
+      "B",
+      "O",
+      "Z",
+      "E",
+      "R",
+      "D"
+    ],
+    [
+      "S",
+      "A",
+      "N",
+      "D",
+      "S",
+      "H",
+      "A",
+      "L",
+      "E",
+      "H"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "QUARTZ",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "STONE",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SLATE",
+      "row": 7,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SHALE",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "ROCK",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "MICA",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "CLAY",
+      "row": 5,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SILT",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SAND",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "MAP",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8661
+}

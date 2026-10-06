@@ -1,0 +1,208 @@
+{
+  "id": "cooking-easy-02",
+  "slug": "cooking-easy-02",
+  "themeId": "cooking",
+  "title": "Cooking: Quiet Simmer",
+  "primaryKeyword": "cooking word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "DICE",
+    "HERB",
+    "OVEN",
+    "PEEL",
+    "POT",
+    "SERVE",
+    "SLICE",
+    "STEAM",
+    "STIR",
+    "TASTE"
+  ],
+  "grid": [
+    [
+      "A",
+      "C",
+      "L",
+      "C",
+      "J",
+      "Y",
+      "R",
+      "S",
+      "Q",
+      "S"
+    ],
+    [
+      "Q",
+      "P",
+      "O",
+      "T",
+      "A",
+      "Q",
+      "G",
+      "Y",
+      "W",
+      "E"
+    ],
+    [
+      "B",
+      "I",
+      "A",
+      "A",
+      "Q",
+      "P",
+      "O",
+      "P",
+      "Q",
+      "R"
+    ],
+    [
+      "X",
+      "H",
+      "K",
+      "T",
+      "A",
+      "S",
+      "T",
+      "E",
+      "L",
+      "V"
+    ],
+    [
+      "D",
+      "I",
+      "C",
+      "E",
+      "N",
+      "O",
+      "M",
+      "A",
+      "U",
+      "E"
+    ],
+    [
+      "A",
+      "F",
+      "B",
+      "V",
+      "M",
+      "S",
+      "Z",
+      "W",
+      "P",
+      "J"
+    ],
+    [
+      "K",
+      "C",
+      "Y",
+      "S",
+      "T",
+      "E",
+      "A",
+      "M",
+      "E",
+      "M"
+    ],
+    [
+      "S",
+      "T",
+      "I",
+      "R",
+      "H",
+      "E",
+      "R",
+      "B",
+      "E",
+      "P"
+    ],
+    [
+      "Y",
+      "S",
+      "L",
+      "I",
+      "C",
+      "E",
+      "G",
+      "P",
+      "L",
+      "Z"
+    ],
+    [
+      "W",
+      "E",
+      "O",
+      "V",
+      "E",
+      "N",
+      "F",
+      "A",
+      "E",
+      "Q"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "STEAM",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SLICE",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TASTE",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SERVE",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "STIR",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "DICE",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "PEEL",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "HERB",
+      "row": 7,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "OVEN",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "POT",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8332
+}

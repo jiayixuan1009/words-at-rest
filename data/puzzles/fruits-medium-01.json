@@ -1,0 +1,284 @@
+{
+  "id": "fruits-medium-01",
+  "slug": "fruits-medium-01",
+  "themeId": "fruits",
+  "title": "Fruits: Berry Patch",
+  "primaryKeyword": "fruits word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "APPLE",
+    "APRICOT",
+    "BANANA",
+    "CHERRY",
+    "GRAPE",
+    "KIWI",
+    "LEMON",
+    "MANGO",
+    "MELON",
+    "ORANGE",
+    "PAPAYA",
+    "PEACH",
+    "PEAR",
+    "PLUM"
+  ],
+  "grid": [
+    [
+      "O",
+      "K",
+      "L",
+      "E",
+      "M",
+      "O",
+      "N",
+      "X",
+      "A",
+      "T",
+      "T",
+      "X"
+    ],
+    [
+      "M",
+      "M",
+      "A",
+      "X",
+      "V",
+      "E",
+      "J",
+      "Y",
+      "A",
+      "P",
+      "U",
+      "S"
+    ],
+    [
+      "I",
+      "E",
+      "B",
+      "V",
+      "G",
+      "N",
+      "A",
+      "U",
+      "X",
+      "J",
+      "E",
+      "C"
+    ],
+    [
+      "W",
+      "L",
+      "L",
+      "N",
+      "L",
+      "P",
+      "C",
+      "W",
+      "S",
+      "P",
+      "C",
+      "D"
+    ],
+    [
+      "A",
+      "M",
+      "A",
+      "O",
+      "A",
+      "B",
+      "V",
+      "H",
+      "A",
+      "T",
+      "I",
+      "M"
+    ],
+    [
+      "G",
+      "R",
+      "I",
+      "P",
+      "N",
+      "O",
+      "A",
+      "R",
+      "E",
+      "W",
+      "Z",
+      "H"
+    ],
+    [
+      "O",
+      "A",
+      "L",
+      "A",
+      "G",
+      "E",
+      "G",
+      "N",
+      "Q",
+      "R",
+      "C",
+      "R"
+    ],
+    [
+      "P",
+      "L",
+      "X",
+      "N",
+      "P",
+      "Z",
+      "B",
+      "Z",
+      "A",
+      "A",
+      "R",
+      "I"
+    ],
+    [
+      "L",
+      "Z",
+      "A",
+      "G",
+      "C",
+      "P",
+      "R",
+      "Y",
+      "E",
+      "N",
+      "W",
+      "Y"
+    ],
+    [
+      "U",
+      "M",
+      "U",
+      "N",
+      "U",
+      "A",
+      "L",
+      "P",
+      "W",
+      "I",
+      "A",
+      "V"
+    ],
+    [
+      "M",
+      "O",
+      "E",
+      "W",
+      "E",
+      "H",
+      "Q",
+      "E",
+      "K",
+      "I",
+      "R",
+      "C"
+    ],
+    [
+      "Y",
+      "N",
+      "Z",
+      "P",
+      "G",
+      "A",
+      "P",
+      "R",
+      "I",
+      "C",
+      "O",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "APRICOT",
+      "row": 11,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "PAPAYA",
+      "row": 5,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "ORANGE",
+      "row": 6,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "BANANA",
+      "row": 4,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "CHERRY",
+      "row": 3,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "MANGO",
+      "row": 9,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "MELON",
+      "row": 1,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "GRAPE",
+      "row": 6,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "LEMON",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PEACH",
+      "row": 9,
+      "col": 7,
+      "direction": "NE"
+    },
+    {
+      "word": "APPLE",
+      "row": 6,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "PLUM",
+      "row": 7,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "PEAR",
+      "row": 11,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "KIWI",
+      "row": 10,
+      "col": 8,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6153
+}

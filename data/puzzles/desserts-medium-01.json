@@ -1,0 +1,284 @@
+{
+  "id": "desserts-medium-01",
+  "slug": "desserts-medium-01",
+  "themeId": "desserts",
+  "title": "Desserts: Bakery Case",
+  "primaryKeyword": "desserts word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BROWNIE",
+    "CARAMEL",
+    "COBBLER",
+    "COOKIE",
+    "CRUMBLE",
+    "CUSTARD",
+    "FROSTING",
+    "GANACHE",
+    "LAYER",
+    "MERINGUE",
+    "PARFAIT",
+    "PUDDING",
+    "TRIFLE",
+    "VANILLA"
+  ],
+  "grid": [
+    [
+      "F",
+      "C",
+      "J",
+      "Q",
+      "Q",
+      "I",
+      "G",
+      "Y",
+      "K",
+      "M",
+      "L",
+      "P"
+    ],
+    [
+      "C",
+      "F",
+      "R",
+      "O",
+      "S",
+      "T",
+      "I",
+      "N",
+      "G",
+      "E",
+      "Q",
+      "C"
+    ],
+    [
+      "P",
+      "O",
+      "K",
+      "U",
+      "H",
+      "P",
+      "E",
+      "L",
+      "I",
+      "Z",
+      "Q",
+      "T"
+    ],
+    [
+      "A",
+      "G",
+      "B",
+      "F",
+      "M",
+      "I",
+      "U",
+      "N",
+      "O",
+      "A",
+      "M",
+      "R"
+    ],
+    [
+      "R",
+      "A",
+      "W",
+      "B",
+      "K",
+      "B",
+      "W",
+      "D",
+      "L",
+      "J",
+      "E",
+      "I"
+    ],
+    [
+      "F",
+      "N",
+      "L",
+      "O",
+      "L",
+      "O",
+      "L",
+      "L",
+      "D",
+      "L",
+      "R",
+      "F"
+    ],
+    [
+      "A",
+      "A",
+      "O",
+      "A",
+      "R",
+      "E",
+      "I",
+      "E",
+      "E",
+      "I",
+      "I",
+      "L"
+    ],
+    [
+      "I",
+      "C",
+      "P",
+      "B",
+      "Y",
+      "N",
+      "R",
+      "M",
+      "M",
+      "I",
+      "N",
+      "E"
+    ],
+    [
+      "T",
+      "H",
+      "P",
+      "X",
+      "A",
+      "E",
+      "A",
+      "I",
+      "S",
+      "Y",
+      "G",
+      "G"
+    ],
+    [
+      "N",
+      "E",
+      "Z",
+      "V",
+      "T",
+      "R",
+      "R",
+      "B",
+      "D",
+      "T",
+      "U",
+      "H"
+    ],
+    [
+      "K",
+      "Z",
+      "G",
+      "G",
+      "A",
+      "O",
+      "C",
+      "S",
+      "T",
+      "Y",
+      "E",
+      "C"
+    ],
+    [
+      "O",
+      "O",
+      "D",
+      "C",
+      "U",
+      "S",
+      "T",
+      "A",
+      "R",
+      "D",
+      "Q",
+      "K"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "MERINGUE",
+      "row": 3,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "FROSTING",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PUDDING",
+      "row": 2,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "CUSTARD",
+      "row": 11,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "PARFAIT",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BROWNIE",
+      "row": 7,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "COBBLER",
+      "row": 1,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "CRUMBLE",
+      "row": 0,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "GANACHE",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "CARAMEL",
+      "row": 11,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "VANILLA",
+      "row": 9,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "COOKIE",
+      "row": 7,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "TRIFLE",
+      "row": 2,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "LAYER",
+      "row": 5,
+      "col": 2,
+      "direction": "SE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6123
+}

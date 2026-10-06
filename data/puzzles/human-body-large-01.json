@@ -1,0 +1,173 @@
+{
+  "id": "human-body-large-01",
+  "slug": "human-body-large-01",
+  "themeId": "human-body",
+  "title": "Large Print Human Body: Soft Bone",
+  "primaryKeyword": "large print human body word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "ARM",
+    "BONE",
+    "EYE",
+    "HAND",
+    "HEART",
+    "LEG",
+    "LUNG",
+    "SKIN"
+  ],
+  "grid": [
+    [
+      "F",
+      "C",
+      "O",
+      "M",
+      "S",
+      "S",
+      "L",
+      "E",
+      "G"
+    ],
+    [
+      "Q",
+      "Y",
+      "B",
+      "O",
+      "N",
+      "E",
+      "E",
+      "X",
+      "J"
+    ],
+    [
+      "E",
+      "Y",
+      "E",
+      "K",
+      "W",
+      "A",
+      "H",
+      "C",
+      "Z"
+    ],
+    [
+      "I",
+      "K",
+      "Q",
+      "H",
+      "S",
+      "W",
+      "E",
+      "B",
+      "H"
+    ],
+    [
+      "W",
+      "J",
+      "X",
+      "Z",
+      "Q",
+      "B",
+      "A",
+      "R",
+      "M"
+    ],
+    [
+      "U",
+      "L",
+      "H",
+      "A",
+      "N",
+      "D",
+      "R",
+      "X",
+      "S"
+    ],
+    [
+      "Y",
+      "U",
+      "R",
+      "C",
+      "G",
+      "D",
+      "T",
+      "B",
+      "E"
+    ],
+    [
+      "O",
+      "N",
+      "F",
+      "S",
+      "K",
+      "I",
+      "N",
+      "B",
+      "V"
+    ],
+    [
+      "E",
+      "G",
+      "O",
+      "R",
+      "E",
+      "A",
+      "H",
+      "L",
+      "V"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "HEART",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "BONE",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SKIN",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "HAND",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "LUNG",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "ARM",
+      "row": 4,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "LEG",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "EYE",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8036
+}

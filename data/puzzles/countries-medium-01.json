@@ -1,0 +1,284 @@
+{
+  "id": "countries-medium-01",
+  "slug": "countries-medium-01",
+  "themeId": "countries",
+  "title": "Countries: Coast Nations",
+  "primaryKeyword": "countries word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "AUSTRALIA",
+    "AUSTRIA",
+    "BRAZIL",
+    "GERMANY",
+    "IRELAND",
+    "ISRAEL",
+    "JORDAN",
+    "MEXICO",
+    "NIGERIA",
+    "PORTUGAL",
+    "THAILAND",
+    "TURKEY",
+    "UKRAINE",
+    "VIETNAM"
+  ],
+  "grid": [
+    [
+      "X",
+      "B",
+      "R",
+      "A",
+      "Z",
+      "I",
+      "L",
+      "L",
+      "E",
+      "J",
+      "M",
+      "T"
+    ],
+    [
+      "M",
+      "E",
+      "X",
+      "I",
+      "C",
+      "O",
+      "A",
+      "W",
+      "R",
+      "Y",
+      "A",
+      "H"
+    ],
+    [
+      "X",
+      "V",
+      "A",
+      "S",
+      "Z",
+      "G",
+      "A",
+      "D",
+      "Z",
+      "I",
+      "G",
+      "A"
+    ],
+    [
+      "E",
+      "T",
+      "W",
+      "U",
+      "U",
+      "I",
+      "D",
+      "B",
+      "L",
+      "I",
+      "E",
+      "I"
+    ],
+    [
+      "J",
+      "K",
+      "U",
+      "T",
+      "S",
+      "N",
+      "W",
+      "A",
+      "I",
+      "S",
+      "R",
+      "L"
+    ],
+    [
+      "W",
+      "O",
+      "R",
+      "R",
+      "A",
+      "T",
+      "R",
+      "Y",
+      "W",
+      "R",
+      "M",
+      "A"
+    ],
+    [
+      "T",
+      "O",
+      "R",
+      "L",
+      "K",
+      "T",
+      "R",
+      "U",
+      "W",
+      "A",
+      "A",
+      "N"
+    ],
+    [
+      "P",
+      "Q",
+      "E",
+      "D",
+      "S",
+      "E",
+      "W",
+      "I",
+      "O",
+      "E",
+      "N",
+      "D"
+    ],
+    [
+      "O",
+      "R",
+      "K",
+      "U",
+      "A",
+      "V",
+      "Y",
+      "D",
+      "A",
+      "L",
+      "Y",
+      "Z"
+    ],
+    [
+      "I",
+      "P",
+      "A",
+      "X",
+      "Z",
+      "N",
+      "I",
+      "G",
+      "E",
+      "R",
+      "I",
+      "A"
+    ],
+    [
+      "W",
+      "D",
+      "V",
+      "I",
+      "E",
+      "T",
+      "N",
+      "A",
+      "M",
+      "Q",
+      "N",
+      "K"
+    ],
+    [
+      "M",
+      "Q",
+      "U",
+      "K",
+      "R",
+      "A",
+      "I",
+      "N",
+      "E",
+      "O",
+      "W",
+      "I"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "AUSTRALIA",
+      "row": 9,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "THAILAND",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "PORTUGAL",
+      "row": 7,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "NIGERIA",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "VIETNAM",
+      "row": 10,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "IRELAND",
+      "row": 9,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "GERMANY",
+      "row": 2,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "AUSTRIA",
+      "row": 2,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "UKRAINE",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BRAZIL",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "MEXICO",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "TURKEY",
+      "row": 3,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "ISRAEL",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "JORDAN",
+      "row": 4,
+      "col": 0,
+      "direction": "SE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8413
+}

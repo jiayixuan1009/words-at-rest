@@ -1,0 +1,208 @@
+{
+  "id": "tools-easy-01",
+  "slug": "tools-easy-01",
+  "themeId": "tools",
+  "title": "Tools: Bench Basics",
+  "primaryKeyword": "tools word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BOLT",
+    "BROOM",
+    "BRUSH",
+    "FILE",
+    "MOP",
+    "NAIL",
+    "NUT",
+    "SAW",
+    "SCREW",
+    "TAPE"
+  ],
+  "grid": [
+    [
+      "L",
+      "B",
+      "O",
+      "L",
+      "T",
+      "Y",
+      "K",
+      "D",
+      "D",
+      "H"
+    ],
+    [
+      "A",
+      "W",
+      "N",
+      "U",
+      "T",
+      "B",
+      "O",
+      "B",
+      "I",
+      "U"
+    ],
+    [
+      "D",
+      "M",
+      "O",
+      "Z",
+      "R",
+      "A",
+      "R",
+      "L",
+      "Y",
+      "J"
+    ],
+    [
+      "U",
+      "D",
+      "K",
+      "S",
+      "V",
+      "P",
+      "S",
+      "X",
+      "J",
+      "B"
+    ],
+    [
+      "K",
+      "T",
+      "A",
+      "P",
+      "E",
+      "J",
+      "A",
+      "H",
+      "O",
+      "S"
+    ],
+    [
+      "P",
+      "F",
+      "F",
+      "V",
+      "M",
+      "C",
+      "W",
+      "T",
+      "I",
+      "C"
+    ],
+    [
+      "H",
+      "I",
+      "B",
+      "R",
+      "O",
+      "O",
+      "M",
+      "E",
+      "M",
+      "R"
+    ],
+    [
+      "L",
+      "L",
+      "N",
+      "A",
+      "I",
+      "L",
+      "T",
+      "O",
+      "O",
+      "E"
+    ],
+    [
+      "V",
+      "E",
+      "V",
+      "Z",
+      "N",
+      "Y",
+      "E",
+      "D",
+      "P",
+      "W"
+    ],
+    [
+      "F",
+      "Z",
+      "Y",
+      "X",
+      "X",
+      "B",
+      "R",
+      "U",
+      "S",
+      "H"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SCREW",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "BRUSH",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "BROOM",
+      "row": 6,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "NAIL",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BOLT",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "FILE",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "TAPE",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "NUT",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SAW",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "MOP",
+      "row": 6,
+      "col": 8,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8251
+}
