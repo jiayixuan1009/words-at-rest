@@ -26,7 +26,7 @@
 ## 2026-10-06 — master（已推送 origin/master）
 
 ### 新增 — Daily 日程与日历（daily calendar，2026-10-06 晚间部署）
-- `d549e91` … `2ff2abd`（约 20:45–20:50）从 2026-10-07 起每天预生成一道**唯一** Daily 谜题（`data/daily.json`），缓冲 today+7；`npm run daily:add` / `daily:check` / `daily:test`。2026-10-06 仍走原 hash 选中（`animals-hard-01` Hard Animals，与线上一致），不入日程。
+- `d549e91` … `9e6f70f`（约 20:45–20:50）从 2026-10-07 起每天预生成一道**唯一** Daily 谜题（`data/daily.json`），缓冲 today+7；`npm run daily:add` / `daily:check` / `daily:test`。2026-10-06 仍走原 hash 选中（`animals-hard-01` Hard Animals，与线上一致），不入日程。
   - 难度按 UTC 星期：日 / 一 / 三 easy；二 / 四 / 五 medium；六 hard；主题轮换避开 packs、5 天内不重复，十月优先 Halloween / Fall；词集与同主题重叠 &lt;70%；永不 large print。
   - 新页 `/calendar`、`/calendar/YYYY-MM`：月历（≥44px 触控、手机列表）+ 倒序 “What’s new” 日志；未来日灰显且不链出；`/daily/calendar` 非日期 → 404。
   - `/daily` 加 “See the full calendar”；日期页点明主题/难度并链主题页；页脚、sitemap、`llms.txt`、JSON-LD（CollectionPage + ItemList）已接。
