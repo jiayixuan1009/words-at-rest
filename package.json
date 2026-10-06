@@ -32,9 +32,12 @@
     "generate": "node scripts/generate-puzzles.ts",
     "typecheck": "tsc --noEmit",
     "deploy:dry-run": "vinext-cloudflare deploy --dry-run",
-    "deploy": "vinext-cloudflare deploy"
+    "deploy": "vinext-cloudflare deploy",
+    "daily:add": "node scripts/add-daily.ts",
+    "daily:check": "node scripts/check-daily.ts",
+    "daily:test": "node scripts/test-daily.mjs"
   },
-  "description": "Words at Rest (wordsatrest.com) — calm word search puzzles for adults. vinext (Next.js API on Vite) + Cloudflare Workers.",
+  "description": "Words at Rest (wordsatrest.com) \u2014 calm word search puzzles for adults. vinext (Next.js API on Vite) + Cloudflare Workers.",
   "engines": {
     "node": ">=22.18"
   }

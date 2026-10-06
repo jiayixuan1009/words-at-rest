@@ -4,7 +4,7 @@
 // Usage: node scripts/check-jsonld.mjs [baseUrl]   (default http://localhost:4173)
 const base = (process.argv[2] || "http://localhost:4173").replace(/\/$/, "");
 const PAGES = [
-  "/", "/daily", "/daily/2026-10-06", "/themes", "/themes/bible", "/themes/bible/bible-easy-01",
+  "/", "/daily", "/daily/2026-10-06", "/calendar", "/calendar/2026-10", "/themes", "/themes/bible", "/themes/bible/bible-easy-01",
   "/themes/halloween/halloween-hard-01", "/how-to-play", "/large-print", "/adults", "/about",
   "/contact", "/difficulty/easy", "/difficulty/hard",
 ];

@@ -1,0 +1,1888 @@
+{
+  "version": 1,
+  "difficultyPattern": "UTC weekday: Sun easy, Mon easy, Tue medium, Wed easy, Thu medium, Fri medium, Sat hard",
+  "entries": [
+    {
+      "date": "2026-10-07",
+      "id": "daily-2026-10-07",
+      "slug": "daily-2026-10-07",
+      "themeId": "halloween",
+      "difficulty": "easy",
+      "title": "Daily Word Search: Halloween (Easy)",
+      "primaryKeyword": "daily halloween word search",
+      "gridSize": 10,
+      "largePrint": false,
+      "words": [
+        "HARVEST",
+        "MASK",
+        "MIDNIGHT",
+        "MYSTERY",
+        "PARADE",
+        "PORCH",
+        "PUMPKIN",
+        "TOMBSTONE",
+        "VAMPIRE",
+        "WITCH"
+      ],
+      "grid": [
+        [
+          "P",
+          "C",
+          "K",
+          "M",
+          "A",
+          "S",
+          "K",
+          "U",
+          "K",
+          "K"
+        ],
+        [
+          "S",
+          "M",
+          "Y",
+          "S",
+          "T",
+          "E",
+          "R",
+          "Y",
+          "A",
+          "H"
+        ],
+        [
+          "G",
+          "O",
+          "V",
+          "V",
+          "A",
+          "M",
+          "P",
+          "I",
+          "R",
+          "E"
+        ],
+        [
+          "H",
+          "V",
+          "P",
+          "A",
+          "R",
+          "A",
+          "D",
+          "E",
+          "Z",
+          "D"
+        ],
+        [
+          "A",
+          "V",
+          "M",
+          "I",
+          "D",
+          "N",
+          "I",
+          "G",
+          "H",
+          "T"
+        ],
+        [
+          "R",
+          "B",
+          "W",
+          "I",
+          "T",
+          "C",
+          "H",
+          "R",
+          "N",
+          "Q"
+        ],
+        [
+          "V",
+          "T",
+          "O",
+          "M",
+          "B",
+          "S",
+          "T",
+          "O",
+          "N",
+          "E"
+        ],
+        [
+          "E",
+          "Q",
+          "L",
+          "P",
+          "U",
+          "M",
+          "P",
+          "K",
+          "I",
+          "N"
+        ],
+        [
+          "S",
+          "V",
+          "E",
+          "T",
+          "M",
+          "T",
+          "P",
+          "Z",
+          "Q",
+          "C"
+        ],
+        [
+          "T",
+          "B",
+          "H",
+          "Z",
+          "P",
+          "O",
+          "R",
+          "C",
+          "H",
+          "W"
+        ]
+      ],
+      "placements": [
+        {
+          "word": "TOMBSTONE",
+          "row": 6,
+          "col": 1,
+          "direction": "E"
+        },
+        {
+          "word": "MIDNIGHT",
+          "row": 4,
+          "col": 2,
+          "direction": "E"
+        },
+        {
+          "word": "VAMPIRE",
+          "row": 2,
+          "col": 3,
+          "direction": "E"
+        },
+        {
+          "word": "PUMPKIN",
+          "row": 7,
+          "col": 3,
+          "direction": "E"
+        },
+        {
+          "word": "MYSTERY",
+          "row": 1,
+          "col": 1,
+          "direction": "E"
+        },
+        {
+          "word": "HARVEST",
+          "row": 3,
+          "col": 0,
+          "direction": "S"
+        },
+        {
+          "word": "PARADE",
+          "row": 3,
+          "col": 2,
+          "direction": "E"
+        },
+        {
+          "word": "PORCH",
+          "row": 9,
+          "col": 4,
+          "direction": "E"
+        },
+        {
+          "word": "WITCH",
+          "row": 5,
+          "col": 2,
+          "direction": "E"
+        },
+        {
+          "word": "MASK",
+          "row": 0,
+          "col": 3,
+          "direction": "E"
+        }
+      ],
+      "seed": 931937942,
+      "createdAt": "2026-10-06T12:40:54.072Z"
+    },
+    {
+      "date": "2026-10-08",
+      "id": "daily-2026-10-08",
+      "slug": "daily-2026-10-08",
+      "themeId": "fall",
+      "difficulty": "medium",
+      "title": "Daily Word Search: Fall (Medium)",
+      "primaryKeyword": "daily fall word search",
+      "gridSize": 12,
+      "largePrint": false,
+      "words": [
+        "BREEZE",
+        "CHILL",
+        "FOLIAGE",
+        "FOOTPATH",
+        "GOURD",
+        "LEAVES",
+        "MIGRATING",
+        "MIGRATION",
+        "NOVEMBER",
+        "OCTOBER",
+        "PUMPKIN",
+        "RUST",
+        "SCARECROW",
+        "THICKET"
+      ],
+      "grid": [
+        [
+          "L",
+          "B",
+          "R",
+          "E",
+          "E",
+          "Z",
+          "E",
+          "O",
+          "U",
+          "A",
+          "N",
+          "E"
+        ],
+        [
+          "E",
+          "X",
+          "C",
+          "H",
+          "I",
+          "L",
+          "L",
+          "C",
+          "R",
+          "F",
+          "O",
+          "Z"
+        ],
+        [
+          "A",
+          "G",
+          "M",
+          "M",
+          "C",
+          "L",
+          "M",
+          "T",
+          "U",
+          "M",
+          "V",
+          "D"
+        ],
+        [
+          "V",
+          "O",
+          "H",
+          "I",
+          "K",
+          "K",
+          "B",
+          "O",
+          "S",
+          "I",
+          "E",
+          "S"
+        ],
+        [
+          "E",
+          "U",
+          "Y",
+          "G",
+          "P",
+          "F",
+          "L",
+          "B",
+          "T",
+          "G",
+          "M",
+          "C"
+        ],
+        [
+          "S",
+          "R",
+          "B",
+          "R",
+          "U",
+          "Z",
+          "O",
+          "E",
+          "H",
+          "R",
+          "B",
+          "A"
+        ],
+        [
+          "M",
+          "D",
+          "N",
+          "A",
+          "M",
+          "G",
+          "P",
+          "R",
+          "I",
+          "A",
+          "E",
+          "R"
+        ],
+        [
+          "F",
+          "O",
+          "O",
+          "T",
+          "P",
+          "A",
+          "T",
+          "H",
+          "C",
+          "T",
+          "R",
+          "E"
+        ],
+        [
+          "L",
+          "H",
+          "G",
+          "I",
+          "K",
+          "K",
+          "B",
+          "L",
+          "K",
+          "I",
+          "P",
+          "C"
+        ],
+        [
+          "R",
+          "H",
+          "I",
+          "N",
+          "I",
+          "Y",
+          "C",
+          "Z",
+          "E",
+          "O",
+          "Q",
+          "R"
+        ],
+        [
+          "C",
+          "A",
+          "O",
+          "G",
+          "N",
+          "L",
+          "Q",
+          "Z",
+          "T",
+          "N",
+          "Y",
+          "O"
+        ],
+        [
+          "K",
+          "F",
+          "O",
+          "L",
+          "I",
+          "A",
+          "G",
+          "E",
+          "R",
+          "A",
+          "T",
+          "W"
+        ]
+      ],
+      "placements": [
+        {
+          "word": "MIGRATING",
+          "row": 2,
+          "col": 3,
+          "direction": "S"
+        },
+        {
+          "word": "MIGRATION",
+          "row": 2,
+          "col": 9,
+          "direction": "S"
+        },
+        {
+          "word": "SCARECROW",
+          "row": 3,
+          "col": 11,
+          "direction": "S"
+        },
+        {
+          "word": "FOOTPATH",
+          "row": 7,
+          "col": 0,
+          "direction": "E"
+        },
+        {
+          "word": "NOVEMBER",
+          "row": 0,
+          "col": 10,
+          "direction": "S"
+        },
+        {
+          "word": "OCTOBER",
+          "row": 0,
+          "col": 7,
+          "direction": "S"
+        },
+        {
+          "word": "PUMPKIN",
+          "row": 4,
+          "col": 4,
+          "direction": "S"
+        },
+        {
+          "word": "FOLIAGE",
+          "row": 11,
+          "col": 1,
+          "direction": "E"
+        },
+        {
+          "word": "THICKET",
+          "row": 4,
+          "col": 8,
+          "direction": "S"
+        },
+        {
+          "word": "BREEZE",
+          "row": 0,
+          "col": 1,
+          "direction": "E"
+        },
+        {
+          "word": "LEAVES",
+          "row": 0,
+          "col": 0,
+          "direction": "S"
+        },
+        {
+          "word": "CHILL",
+          "row": 1,
+          "col": 2,
+          "direction": "E"
+        },
+        {
+          "word": "GOURD",
+          "row": 2,
+          "col": 1,
+          "direction": "S"
+        },
+        {
+          "word": "RUST",
+          "row": 1,
+          "col": 8,
+          "direction": "S"
+        }
+      ],
+      "seed": 1116491751,
+      "createdAt": "2026-10-06T12:40:54.076Z"
+    },
+    {
+      "date": "2026-10-09",
+      "id": "daily-2026-10-09",
+      "slug": "daily-2026-10-09",
+      "themeId": "animals",
+      "difficulty": "medium",
+      "title": "Daily Word Search: Animals (Medium)",
+      "primaryKeyword": "daily animals word search",
+      "gridSize": 12,
+      "largePrint": false,
+      "words": [
+        "BISON",
+        "CHIPMUNK",
+        "DEER",
+        "DOLPHIN",
+        "FALCON",
+        "HERON",
+        "KANGAROO",
+        "LEOPARD",
+        "MOOSE",
+        "PENGUIN",
+        "SALMON",
+        "SQUIRREL",
+        "TORTOISE",
+        "ZEBRA"
+      ],
+      "grid": [
+        [
+          "L",
+          "E",
+          "O",
+          "P",
+          "A",
+          "R",
+          "D",
+          "I",
+          "U",
+          "L",
+          "I",
+          "C"
+        ],
+        [
+          "C",
+          "D",
+          "R",
+          "D",
+          "E",
+          "E",
+          "R",
+          "C",
+          "E",
+          "K",
+          "T",
+          "Z"
+        ],
+        [
+          "C",
+          "B",
+          "I",
+          "S",
+          "O",
+          "N",
+          "S",
+          "R",
+          "A",
+          "G",
+          "S",
+          "D"
+        ],
+        [
+          "W",
+          "R",
+          "E",
+          "N",
+          "I",
+          "U",
+          "R",
+          "R",
+          "C",
+          "H",
+          "A",
+          "O"
+        ],
+        [
+          "K",
+          "L",
+          "A",
+          "D",
+          "W",
+          "I",
+          "B",
+          "S",
+          "H",
+          "T",
+          "L",
+          "L"
+        ],
+        [
+          "A",
+          "P",
+          "U",
+          "P",
+          "U",
+          "E",
+          "E",
+          "H",
+          "I",
+          "O",
+          "M",
+          "P"
+        ],
+        [
+          "N",
+          "F",
+          "E",
+          "Q",
+          "Z",
+          "S",
+          "X",
+          "E",
+          "P",
+          "R",
+          "O",
+          "H"
+        ],
+        [
+          "G",
+          "A",
+          "S",
+          "N",
+          "O",
+          "J",
+          "O",
+          "R",
+          "M",
+          "T",
+          "N",
+          "I"
+        ],
+        [
+          "A",
+          "L",
+          "Z",
+          "O",
+          "G",
+          "V",
+          "H",
+          "O",
+          "U",
+          "O",
+          "W",
+          "N"
+        ],
+        [
+          "R",
+          "C",
+          "M",
+          "L",
+          "Y",
+          "U",
+          "K",
+          "N",
+          "N",
+          "I",
+          "G",
+          "X"
+        ],
+        [
+          "O",
+          "O",
+          "O",
+          "P",
+          "N",
+          "H",
+          "I",
+          "F",
+          "K",
+          "S",
+          "V",
+          "Q"
+        ],
+        [
+          "O",
+          "N",
+          "G",
+          "E",
+          "W",
+          "X",
+          "P",
+          "N",
+          "G",
+          "E",
+          "D",
+          "C"
+        ]
+      ],
+      "placements": [
+        {
+          "word": "CHIPMUNK",
+          "row": 3,
+          "col": 8,
+          "direction": "S"
+        },
+        {
+          "word": "SQUIRREL",
+          "row": 7,
+          "col": 2,
+          "direction": "NE"
+        },
+        {
+          "word": "TORTOISE",
+          "row": 4,
+          "col": 9,
+          "direction": "S"
+        },
+        {
+          "word": "KANGAROO",
+          "row": 4,
+          "col": 0,
+          "direction": "S"
+        },
+        {
+          "word": "DOLPHIN",
+          "row": 2,
+          "col": 11,
+          "direction": "S"
+        },
+        {
+          "word": "PENGUIN",
+          "row": 5,
+          "col": 1,
+          "direction": "SE"
+        },
+        {
+          "word": "LEOPARD",
+          "row": 0,
+          "col": 0,
+          "direction": "E"
+        },
+        {
+          "word": "FALCON",
+          "row": 6,
+          "col": 1,
+          "direction": "S"
+        },
+        {
+          "word": "SALMON",
+          "row": 2,
+          "col": 10,
+          "direction": "S"
+        },
+        {
+          "word": "BISON",
+          "row": 2,
+          "col": 1,
+          "direction": "E"
+        },
+        {
+          "word": "MOOSE",
+          "row": 9,
+          "col": 2,
+          "direction": "NE"
+        },
+        {
+          "word": "HERON",
+          "row": 5,
+          "col": 7,
+          "direction": "S"
+        },
+        {
+          "word": "ZEBRA",
+          "row": 6,
+          "col": 4,
+          "direction": "NE"
+        },
+        {
+          "word": "DEER",
+          "row": 1,
+          "col": 3,
+          "direction": "E"
+        }
+      ],
+      "seed": 1099714132,
+      "createdAt": "2026-10-06T12:40:54.077Z"
+    },
+    {
+      "date": "2026-10-10",
+      "id": "daily-2026-10-10",
+      "slug": "daily-2026-10-10",
+      "themeId": "bible",
+      "difficulty": "hard",
+      "title": "Daily Word Search: Bible (Hard)",
+      "primaryKeyword": "daily bible word search",
+      "gridSize": 15,
+      "largePrint": false,
+      "words": [
+        "BABYLON",
+        "BETHLEHEM",
+        "CALVARY",
+        "DAMASCUS",
+        "ELIJAH",
+        "GLORY",
+        "GOODNESS",
+        "GRACE",
+        "MICAH",
+        "PAUL",
+        "PEACE",
+        "PHILEMON",
+        "PHILIP",
+        "PSALMS",
+        "SAMUEL",
+        "SIMON",
+        "SOLOMON",
+        "TIMOTHY"
+      ],
+      "grid": [
+        [
+          "P",
+          "A",
+          "U",
+          "L",
+          "D",
+          "S",
+          "C",
+          "E",
+          "M",
+          "A",
+          "M",
+          "G",
+          "N",
+          "M",
+          "Y"
+        ],
+        [
+          "I",
+          "P",
+          "V",
+          "D",
+          "Y",
+          "X",
+          "V",
+          "K",
+          "W",
+          "T",
+          "A",
+          "F",
+          "O",
+          "P",
+          "R"
+        ],
+        [
+          "S",
+          "T",
+          "I",
+          "M",
+          "O",
+          "T",
+          "H",
+          "Y",
+          "R",
+          "B",
+          "Y",
+          "P",
+          "I",
+          "S",
+          "A"
+        ],
+        [
+          "K",
+          "N",
+          "G",
+          "N",
+          "X",
+          "S",
+          "M",
+          "L",
+          "A",
+          "S",
+          "P",
+          "L",
+          "B",
+          "K",
+          "V"
+        ],
+        [
+          "F",
+          "O",
+          "P",
+          "O",
+          "Y",
+          "U",
+          "X",
+          "Q",
+          "J",
+          "H",
+          "I",
+          "V",
+          "B",
+          "G",
+          "L"
+        ],
+        [
+          "H",
+          "M",
+          "P",
+          "H",
+          "O",
+          "R",
+          "G",
+          "S",
+          "S",
+          "H",
+          "L",
+          "M",
+          "M",
+          "A",
+          "A"
+        ],
+        [
+          "C",
+          "I",
+          "I",
+          "W",
+          "I",
+          "D",
+          "O",
+          "R",
+          "P",
+          "J",
+          "D",
+          "E",
+          "C",
+          "T",
+          "C"
+        ],
+        [
+          "E",
+          "S",
+          "F",
+          "G",
+          "W",
+          "L",
+          "N",
+          "L",
+          "C",
+          "W",
+          "E",
+          "H",
+          "H",
+          "P",
+          "C"
+        ],
+        [
+          "C",
+          "M",
+          "N",
+          "M",
+          "O",
+          "S",
+          "E",
+          "E",
+          "G",
+          "X",
+          "L",
+          "E",
+          "R",
+          "X",
+          "R"
+        ],
+        [
+          "A",
+          "V",
+          "Y",
+          "M",
+          "K",
+          "G",
+          "A",
+          "M",
+          "S",
+          "J",
+          "I",
+          "L",
+          "Y",
+          "U",
+          "P"
+        ],
+        [
+          "R",
+          "Q",
+          "O",
+          "N",
+          "G",
+          "S",
+          "D",
+          "M",
+          "O",
+          "S",
+          "J",
+          "H",
+          "B",
+          "J",
+          "E"
+        ],
+        [
+          "G",
+          "N",
+          "M",
+          "I",
+          "C",
+          "A",
+          "H",
+          "P",
+          "U",
+          "N",
+          "A",
+          "T",
+          "K",
+          "D",
+          "A"
+        ],
+        [
+          "H",
+          "B",
+          "O",
+          "G",
+          "W",
+          "V",
+          "U",
+          "F",
+          "Z",
+          "E",
+          "H",
+          "E",
+          "F",
+          "F",
+          "C"
+        ],
+        [
+          "B",
+          "A",
+          "B",
+          "Y",
+          "L",
+          "O",
+          "N",
+          "T",
+          "I",
+          "H",
+          "L",
+          "B",
+          "D",
+          "K",
+          "E"
+        ],
+        [
+          "X",
+          "Q",
+          "J",
+          "O",
+          "K",
+          "S",
+          "U",
+          "C",
+          "S",
+          "A",
+          "M",
+          "A",
+          "D",
+          "N",
+          "B"
+        ]
+      ],
+      "placements": [
+        {
+          "word": "BETHLEHEM",
+          "row": 13,
+          "col": 11,
+          "direction": "N"
+        },
+        {
+          "word": "GOODNESS",
+          "row": 3,
+          "col": 2,
+          "direction": "SE"
+        },
+        {
+          "word": "PHILEMON",
+          "row": 4,
+          "col": 2,
+          "direction": "SE"
+        },
+        {
+          "word": "DAMASCUS",
+          "row": 14,
+          "col": 12,
+          "direction": "W"
+        },
+        {
+          "word": "SOLOMON",
+          "row": 5,
+          "col": 7,
+          "direction": "SW"
+        },
+        {
+          "word": "TIMOTHY",
+          "row": 2,
+          "col": 1,
+          "direction": "E"
+        },
+        {
+          "word": "BABYLON",
+          "row": 13,
+          "col": 0,
+          "direction": "E"
+        },
+        {
+          "word": "CALVARY",
+          "row": 6,
+          "col": 14,
+          "direction": "N"
+        },
+        {
+          "word": "PSALMS",
+          "row": 3,
+          "col": 10,
+          "direction": "W"
+        },
+        {
+          "word": "SAMUEL",
+          "row": 8,
+          "col": 5,
+          "direction": "SE"
+        },
+        {
+          "word": "PHILIP",
+          "row": 6,
+          "col": 8,
+          "direction": "NE"
+        },
+        {
+          "word": "ELIJAH",
+          "row": 7,
+          "col": 10,
+          "direction": "S"
+        },
+        {
+          "word": "SIMON",
+          "row": 7,
+          "col": 1,
+          "direction": "N"
+        },
+        {
+          "word": "MICAH",
+          "row": 11,
+          "col": 2,
+          "direction": "E"
+        },
+        {
+          "word": "GLORY",
+          "row": 8,
+          "col": 8,
+          "direction": "NW"
+        },
+        {
+          "word": "PEACE",
+          "row": 9,
+          "col": 14,
+          "direction": "S"
+        },
+        {
+          "word": "GRACE",
+          "row": 11,
+          "col": 0,
+          "direction": "N"
+        },
+        {
+          "word": "PAUL",
+          "row": 0,
+          "col": 0,
+          "direction": "E"
+        }
+      ],
+      "seed": 881457990,
+      "createdAt": "2026-10-06T12:40:54.079Z"
+    },
+    {
+      "date": "2026-10-11",
+      "id": "daily-2026-10-11",
+      "slug": "daily-2026-10-11",
+      "themeId": "cats",
+      "difficulty": "easy",
+      "title": "Daily Word Search: Cats (Easy)",
+      "primaryKeyword": "daily cats word search",
+      "gridSize": 10,
+      "largePrint": false,
+      "words": [
+        "COZY",
+        "CURIOUS",
+        "CUSHION",
+        "LAZY",
+        "LITTER",
+        "SHELF",
+        "SIAMESE",
+        "STRETCH",
+        "TREAT",
+        "YARN"
+      ],
+      "grid": [
+        [
+          "D",
+          "G",
+          "P",
+          "S",
+          "T",
+          "R",
+          "E",
+          "T",
+          "C",
+          "H"
+        ],
+        [
+          "T",
+          "L",
+          "A",
+          "Z",
+          "Y",
+          "P",
+          "N",
+          "C",
+          "X",
+          "S"
+        ],
+        [
+          "P",
+          "E",
+          "F",
+          "L",
+          "J",
+          "Y",
+          "B",
+          "U",
+          "T",
+          "H"
+        ],
+        [
+          "M",
+          "Q",
+          "S",
+          "I",
+          "A",
+          "M",
+          "E",
+          "S",
+          "E",
+          "E"
+        ],
+        [
+          "G",
+          "J",
+          "Y",
+          "T",
+          "M",
+          "A",
+          "C",
+          "H",
+          "E",
+          "L"
+        ],
+        [
+          "L",
+          "F",
+          "A",
+          "T",
+          "L",
+          "A",
+          "O",
+          "I",
+          "N",
+          "F"
+        ],
+        [
+          "N",
+          "I",
+          "R",
+          "E",
+          "F",
+          "O",
+          "Z",
+          "O",
+          "M",
+          "E"
+        ],
+        [
+          "J",
+          "E",
+          "N",
+          "R",
+          "R",
+          "R",
+          "Y",
+          "N",
+          "Z",
+          "U"
+        ],
+        [
+          "N",
+          "Q",
+          "U",
+          "T",
+          "R",
+          "E",
+          "A",
+          "T",
+          "W",
+          "E"
+        ],
+        [
+          "C",
+          "U",
+          "R",
+          "I",
+          "O",
+          "U",
+          "S",
+          "S",
+          "U",
+          "R"
+        ]
+      ],
+      "placements": [
+        {
+          "word": "STRETCH",
+          "row": 0,
+          "col": 3,
+          "direction": "E"
+        },
+        {
+          "word": "CUSHION",
+          "row": 1,
+          "col": 7,
+          "direction": "S"
+        },
+        {
+          "word": "SIAMESE",
+          "row": 3,
+          "col": 2,
+          "direction": "E"
+        },
+        {
+          "word": "CURIOUS",
+          "row": 9,
+          "col": 0,
+          "direction": "E"
+        },
+        {
+          "word": "LITTER",
+          "row": 2,
+          "col": 3,
+          "direction": "S"
+        },
+        {
+          "word": "SHELF",
+          "row": 1,
+          "col": 9,
+          "direction": "S"
+        },
+        {
+          "word": "TREAT",
+          "row": 8,
+          "col": 3,
+          "direction": "E"
+        },
+        {
+          "word": "YARN",
+          "row": 4,
+          "col": 2,
+          "direction": "S"
+        },
+        {
+          "word": "COZY",
+          "row": 4,
+          "col": 6,
+          "direction": "S"
+        },
+        {
+          "word": "LAZY",
+          "row": 1,
+          "col": 1,
+          "direction": "E"
+        }
+      ],
+      "seed": 898235609,
+      "createdAt": "2026-10-06T12:40:54.080Z"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "daily-2026-10-12",
+      "slug": "daily-2026-10-12",
+      "themeId": "dogs",
+      "difficulty": "easy",
+      "title": "Daily Word Search: Dogs (Easy)",
+      "primaryKeyword": "daily dogs word search",
+      "gridSize": 10,
+      "largePrint": false,
+      "words": [
+        "BED",
+        "CANINE",
+        "FRIEND",
+        "KENNEL",
+        "PAW",
+        "PUPPY",
+        "SPANIEL",
+        "STAY",
+        "TREAT",
+        "WATER"
+      ],
+      "grid": [
+        [
+          "U",
+          "S",
+          "F",
+          "R",
+          "I",
+          "E",
+          "N",
+          "D",
+          "J",
+          "A"
+        ],
+        [
+          "D",
+          "W",
+          "C",
+          "A",
+          "N",
+          "I",
+          "N",
+          "E",
+          "E",
+          "W"
+        ],
+        [
+          "P",
+          "A",
+          "W",
+          "A",
+          "G",
+          "D",
+          "Y",
+          "J",
+          "P",
+          "O"
+        ],
+        [
+          "V",
+          "K",
+          "G",
+          "H",
+          "X",
+          "T",
+          "R",
+          "E",
+          "A",
+          "T"
+        ],
+        [
+          "V",
+          "J",
+          "S",
+          "P",
+          "A",
+          "N",
+          "I",
+          "E",
+          "L",
+          "U"
+        ],
+        [
+          "R",
+          "P",
+          "U",
+          "P",
+          "P",
+          "Y",
+          "B",
+          "K",
+          "W",
+          "G"
+        ],
+        [
+          "J",
+          "H",
+          "M",
+          "O",
+          "N",
+          "E",
+          "K",
+          "X",
+          "A",
+          "U"
+        ],
+        [
+          "I",
+          "Q",
+          "T",
+          "W",
+          "M",
+          "N",
+          "K",
+          "F",
+          "T",
+          "U"
+        ],
+        [
+          "S",
+          "T",
+          "A",
+          "Y",
+          "N",
+          "B",
+          "E",
+          "D",
+          "E",
+          "O"
+        ],
+        [
+          "N",
+          "K",
+          "E",
+          "N",
+          "N",
+          "E",
+          "L",
+          "I",
+          "R",
+          "V"
+        ]
+      ],
+      "placements": [
+        {
+          "word": "SPANIEL",
+          "row": 4,
+          "col": 2,
+          "direction": "E"
+        },
+        {
+          "word": "CANINE",
+          "row": 1,
+          "col": 2,
+          "direction": "E"
+        },
+        {
+          "word": "FRIEND",
+          "row": 0,
+          "col": 2,
+          "direction": "E"
+        },
+        {
+          "word": "KENNEL",
+          "row": 9,
+          "col": 1,
+          "direction": "E"
+        },
+        {
+          "word": "PUPPY",
+          "row": 5,
+          "col": 1,
+          "direction": "E"
+        },
+        {
+          "word": "TREAT",
+          "row": 3,
+          "col": 5,
+          "direction": "E"
+        },
+        {
+          "word": "WATER",
+          "row": 5,
+          "col": 8,
+          "direction": "S"
+        },
+        {
+          "word": "STAY",
+          "row": 8,
+          "col": 0,
+          "direction": "E"
+        },
+        {
+          "word": "PAW",
+          "row": 2,
+          "col": 0,
+          "direction": "E"
+        },
+        {
+          "word": "BED",
+          "row": 8,
+          "col": 5,
+          "direction": "E"
+        }
+      ],
+      "seed": 847902752,
+      "createdAt": "2026-10-06T12:40:54.081Z"
+    },
+    {
+      "date": "2026-10-13",
+      "id": "daily-2026-10-13",
+      "slug": "daily-2026-10-13",
+      "themeId": "halloween",
+      "difficulty": "medium",
+      "title": "Daily Word Search: Halloween (Medium)",
+      "primaryKeyword": "daily halloween word search",
+      "gridSize": 12,
+      "largePrint": false,
+      "words": [
+        "AUTUMN",
+        "BAT",
+        "CAULDRON",
+        "CROW",
+        "FOG",
+        "HAUNTED",
+        "LEGEND",
+        "MOONLIGHT",
+        "OCTOBER",
+        "PARADE",
+        "SKELETON",
+        "SPOOKY",
+        "VAMPIRE",
+        "WITCH"
+      ],
+      "grid": [
+        [
+          "L",
+          "E",
+          "G",
+          "E",
+          "N",
+          "D",
+          "H",
+          "T",
+          "P",
+          "J",
+          "U",
+          "V"
+        ],
+        [
+          "Y",
+          "N",
+          "F",
+          "E",
+          "P",
+          "S",
+          "P",
+          "O",
+          "O",
+          "K",
+          "Y",
+          "W"
+        ],
+        [
+          "V",
+          "O",
+          "Z",
+          "O",
+          "O",
+          "C",
+          "T",
+          "O",
+          "B",
+          "E",
+          "R",
+          "I"
+        ],
+        [
+          "A",
+          "H",
+          "Z",
+          "M",
+          "G",
+          "X",
+          "E",
+          "J",
+          "P",
+          "B",
+          "N",
+          "T"
+        ],
+        [
+          "M",
+          "R",
+          "A",
+          "C",
+          "O",
+          "D",
+          "A",
+          "O",
+          "N",
+          "O",
+          "D",
+          "C"
+        ],
+        [
+          "P",
+          "C",
+          "B",
+          "U",
+          "A",
+          "O",
+          "W",
+          "A",
+          "T",
+          "B",
+          "M",
+          "H"
+        ],
+        [
+          "I",
+          "C",
+          "R",
+          "R",
+          "N",
+          "U",
+          "N",
+          "E",
+          "G",
+          "K",
+          "G",
+          "Z"
+        ],
+        [
+          "R",
+          "W",
+          "A",
+          "O",
+          "R",
+          "T",
+          "L",
+          "L",
+          "G",
+          "Y",
+          "A",
+          "O"
+        ],
+        [
+          "E",
+          "P",
+          "Q",
+          "I",
+          "W",
+          "E",
+          "E",
+          "D",
+          "I",
+          "T",
+          "V",
+          "Q"
+        ],
+        [
+          "N",
+          "Y",
+          "U",
+          "G",
+          "K",
+          "T",
+          "V",
+          "D",
+          "R",
+          "G",
+          "G",
+          "A"
+        ],
+        [
+          "X",
+          "G",
+          "Y",
+          "S",
+          "A",
+          "E",
+          "C",
+          "R",
+          "N",
+          "O",
+          "H",
+          "M"
+        ],
+        [
+          "V",
+          "M",
+          "T",
+          "B",
+          "A",
+          "U",
+          "T",
+          "U",
+          "M",
+          "N",
+          "N",
+          "T"
+        ]
+      ],
+      "placements": [
+        {
+          "word": "MOONLIGHT",
+          "row": 3,
+          "col": 3,
+          "direction": "SE"
+        },
+        {
+          "word": "SKELETON",
+          "row": 10,
+          "col": 3,
+          "direction": "NE"
+        },
+        {
+          "word": "CAULDRON",
+          "row": 4,
+          "col": 3,
+          "direction": "SE"
+        },
+        {
+          "word": "HAUNTED",
+          "row": 3,
+          "col": 1,
+          "direction": "SE"
+        },
+        {
+          "word": "OCTOBER",
+          "row": 2,
+          "col": 4,
+          "direction": "E"
+        },
+        {
+          "word": "VAMPIRE",
+          "row": 2,
+          "col": 0,
+          "direction": "S"
+        },
+        {
+          "word": "SPOOKY",
+          "row": 1,
+          "col": 5,
+          "direction": "E"
+        },
+        {
+          "word": "AUTUMN",
+          "row": 11,
+          "col": 4,
+          "direction": "E"
+        },
+        {
+          "word": "LEGEND",
+          "row": 0,
+          "col": 0,
+          "direction": "E"
+        },
+        {
+          "word": "PARADE",
+          "row": 8,
+          "col": 1,
+          "direction": "NE"
+        },
+        {
+          "word": "WITCH",
+          "row": 1,
+          "col": 11,
+          "direction": "S"
+        },
+        {
+          "word": "CROW",
+          "row": 5,
+          "col": 1,
+          "direction": "SE"
+        },
+        {
+          "word": "FOG",
+          "row": 1,
+          "col": 2,
+          "direction": "SE"
+        },
+        {
+          "word": "BAT",
+          "row": 11,
+          "col": 3,
+          "direction": "NE"
+        }
+      ],
+      "seed": 864680371,
+      "createdAt": "2026-10-06T12:40:54.082Z"
+    }
+  ]
+}

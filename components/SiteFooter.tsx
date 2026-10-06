@@ -24,6 +24,8 @@ export default function SiteFooter() {
         </div>
         <nav aria-label="Footer">
           <ul className="flex flex-wrap gap-x-5 [&_a]:inline-flex [&_a]:min-h-10 [&_a]:items-center">
+            <li><Link href="/daily">Daily</Link></li>
+            <li><Link href="/calendar">Calendar</Link></li>
             <li><Link href="/about">About</Link></li>
             <li><Link href="/adults">For adults</Link></li>
             <li><Link href="/accessibility">Accessibility</Link></li>

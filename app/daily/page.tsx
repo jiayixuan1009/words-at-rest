@@ -27,7 +27,7 @@ export const metadata: Metadata = seo({
 const FAQ: FaqItem[] = [
   {
     q: "What is the daily word search?",
-    a: "The daily word search is one free puzzle chosen for each calendar day. Everyone who visits on the same day gets the same grid, so you can solve it alongside a friend or family member and compare notes. It is drawn from our themed puzzles and is never a large print or timed puzzle.",
+    a: "The daily word search is one free puzzle for each calendar day. Everyone who visits on the same day gets the same grid, so you can solve it alongside a friend or family member and compare notes. From October 7, 2026 each day has its own unique grid (never large print, never timed). Launch day, October 6, keeps its original puzzle.",
   },
   {
     q: "When does the daily puzzle change?",
@@ -35,7 +35,7 @@ const FAQ: FaqItem[] = [
   },
   {
     q: "Can I play yesterday’s daily word search?",
-    a: "Yes. Every past daily puzzle since our launch on October 6, 2026 has its own dated page in the archive below, for example /daily/2026-10-06. Archive puzzles are free and work exactly like today’s puzzle, with progress saved on your device.",
+    a: "Yes. Every past daily puzzle since our launch on October 6, 2026 has its own dated page, for example /daily/2026-10-06. Browse the full month view and a reverse-chronological log on the daily calendar at /calendar. Archive puzzles are free and work exactly like today’s puzzle, with progress saved on your device.",
   },
   {
     q: "Is the daily puzzle free? Do I need an account?",
@@ -88,20 +88,28 @@ export default function DailyPage() {
       <Sources items={DAILY_CITED} />
       <section className="mt-10">
         <h2 className="text-xl font-semibold">Past daily puzzles</h2>
+        <p className="mt-2 text-lg text-stone-700">
+          <Link href="/calendar" className="font-semibold">
+            See the full calendar
+          </Link>{" "}
+          for a month view and a “What’s new” log of every daily puzzle.
+        </p>
         {archive.length === 0 ? (
           <div className="mt-3 flex flex-col items-start gap-4 sm:flex-row sm:items-center">
           <Picture art={ART.dailyArchiveEmpty} sizes="240px" className="h-auto w-60 shrink-0" />
           <p className="text-stone-600">
-            The archive starts today ({formatLongDate(date)}). Each new day adds a dated page here —
+            The archive starts today ({formatLongDate(date)}). Each new day adds a dated page —
             check back tomorrow, or play today&apos;s puzzle at its{" "}
             <Link href={`/daily/${date}`}>permanent link</Link>.
           </p>
           </div>
         ) : (
-          <ul className="mt-2 grid gap-1 sm:grid-cols-2">
-            {archive.map((d) => (
+          <ul className="mt-3 grid gap-1 sm:grid-cols-2">
+            {archive.slice(0, 14).map((d) => (
               <li key={d}>
-                <Link href={`/daily/${d}`}>{formatLongDate(d)}</Link>
+                <Link href={`/daily/${d}`} className="inline-flex min-h-10 items-center">
+                  {formatLongDate(d)}
+                </Link>
               </li>
             ))}
           </ul>

@@ -1,8 +1,14 @@
 import { puzzles } from "../data/puzzles";
 import { themes } from "../data/themes";
+import dailySchedule from "../data/daily.json";
 import { SITE } from "./site";
 import type { Difficulty, Puzzle, Theme } from "./types";
 import { DIFFICULTIES } from "./types";
+import {
+  dailyEntryToPuzzle,
+  type DailyEntry,
+  type DailyScheduleFile,
+} from "./daily";
 
 export function getThemes(): Theme[] {
   return themes;
@@ -41,15 +47,32 @@ export function puzzlePath(p: Puzzle): string {
 }
 
 // ---- Daily ---------------------------------------------------------------
-// Daily rotation: deterministic FNV-ish hash of the UTC date (YYYY-MM-DD) over
-// the non-large-print pool. Archive /sitemap only include dates from
-// SITE.dailyStart (DAILY_START, default 2026-10-06) through today UTC.
-// Pre-launch dates 404 via isValidDailyDate. Later: commit data/daily.json
-// (date -> puzzleId) so archive pages never reshuffle when the pool grows.
+// From 2026-10-07: unique puzzles in data/daily.json (pre-queued; unlock at
+// midnight UTC with no deploy). 2026-10-06 keeps the original hash pick over
+// the non-large-print catalog so the already-live page never changes.
+// Archive /sitemap /calendar only include dates from SITE.dailyStart through
+// today UTC. Future dates 404 via isValidDailyDate. "calendar" is not a date.
 
 export const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
 
+const schedule = dailySchedule as DailyScheduleFile;
+const scheduledByDate = new Map(schedule.entries.map((e) => [e.date, e]));
+
+export function getDailyScheduleEntries(): DailyEntry[] {
+  return schedule.entries;
+}
+
+export function getScheduledDailyEntry(date: string): DailyEntry | undefined {
+  return scheduledByDate.get(date);
+}
+
+/**
+ * UTC "today" for the daily rotation. Override with env DAILY_TODAY=YYYY-MM-DD
+ * for local QA (preview builds, check scripts). Production leaves it unset.
+ */
 export function todayUtc(): string {
+  const override = process.env.DAILY_TODAY?.trim();
+  if (override && DATE_RE.test(override)) return override;
   return new Date().toISOString().slice(0, 10);
 }
 
@@ -75,14 +98,21 @@ export function isValidDailyDate(date: string): boolean {
   return date >= SITE.dailyStart && date <= currentDailyDate();
 }
 
-export function getDailyPuzzle(date: string): Puzzle {
+/** Hash pick over the non-large-print catalog (launch-day fallback). */
+export function hashDailyPuzzle(date: string): Puzzle {
   const pool = puzzles.filter((p) => !p.largePrint);
   let h = 2166136261;
   for (const ch of date) h = Math.imul(h ^ ch.charCodeAt(0), 16777619);
   return pool[(h >>> 0) % pool.length];
 }
 
-/** Archive dates, newest first. */
+export function getDailyPuzzle(date: string): Puzzle {
+  const scheduled = scheduledByDate.get(date);
+  if (scheduled) return dailyEntryToPuzzle(scheduled);
+  return hashDailyPuzzle(date);
+}
+
+/** Archive dates, newest first (past + today only). */
 export function getDailyArchive(limit = 30): string[] {
   const out: string[] = [];
   const start = new Date(`${SITE.dailyStart}T00:00:00Z`).getTime();
@@ -92,6 +122,22 @@ export function getDailyArchive(limit = 30): string[] {
     t -= 86400000;
   }
   return out;
+}
+
+/** Latest scheduled daily date that is ≤ today (for calendar dateModified). */
+export function latestVisibleDailyDate(): string {
+  const today = currentDailyDate();
+  let best = SITE.dailyStart;
+  for (const e of schedule.entries) {
+    if (e.date <= today && e.date > best) best = e.date;
+  }
+  if (SITE.dailyStart <= today && SITE.dailyStart > best) best = SITE.dailyStart;
+  // Launch day always counts even without a schedule entry
+  if (today >= SITE.dailyStart) {
+    const archive = getDailyArchive(1);
+    if (archive[0] && archive[0] > best) best = archive[0];
+  }
+  return best;
 }
 
 export function formatLongDate(date: string): string {
