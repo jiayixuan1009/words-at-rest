@@ -9,7 +9,10 @@ const pub = join(root, "public/images");
 const jobs = [];
 const add = (rel, widths) => jobs.push({ rel, widths });
 
-for (const f of readdirSync(join(pub, "themes"))) if (/^[a-z_-]+\.webp$/.test(f) && !f.startsWith("_")) add(`themes/${f}`, [640]);
+// Theme covers get a 640w variant; per-difficulty art (<slug>-easy|medium|hard.webp) also gets
+// a 320w thumbnail for the puzzle lists (cards render it at ~128 CSS px, so 320w covers 2x).
+for (const f of readdirSync(join(pub, "themes")))
+  if (/^[a-z_-]+\.webp$/.test(f) && !f.startsWith("_")) add(`themes/${f}`, /-(easy|medium|hard)\.webp$/.test(f) ? [640, 320] : [640]);
 for (const l of ["easy", "medium", "hard"]) add(`difficulty/${l}.webp`, [640]);
 add("home/hero-desktop.webp", [1200]);
 add("home/hero-mobile.webp", [800]);

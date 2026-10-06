@@ -114,6 +114,58 @@ export function themeImageAlt(slug: string, themeName: string): string {
   return motif ? `${themeName} word search — painted illustration of ${motif}` : `${themeName} theme illustration`;
 }
 
+/**
+ * Themes that have the progressive Easy/Medium/Hard art set (design/DIFFICULTY-IMAGE-REQUEST.md):
+ * public/images/themes/<slug>-<easy|medium|hard>.webp (1200×900) plus -640 and -320 variants.
+ * The Workers runtime can't stat files, so this list is the source of truth;
+ * scripts/check-images.mjs fails the build check if a listed file is missing.
+ * Add a slug here only after all three levels exist.
+ */
+export const DIFFICULTY_ART_THEMES: ReadonlySet<string> = new Set([
+  "animals", "bible", "cats", "christmas", "dogs", "fall", "food", "garden",
+  "hard-pack", "halloween", "large-print-pack", "music", "ocean", "space", "sports", "travel",
+]);
+
+/** What the painting shows at each level (same scene, fuller as difficulty rises). */
+const LEVEL_MOTIF: Record<string, Record<DifficultyKey, string>> = {
+  animals: { easy: "a red fox standing alone on a patch of grass", medium: "a red fox with a small bird and a few ferns", hard: "a red fox among ferns, wildflowers, a bird and a rabbit" },
+  bible: { easy: "a closed old Bible with a ribbon bookmark on a wooden table", medium: "a closed Bible beside an olive branch and a clay oil lamp", hard: "a closed Bible with an olive branch, an oil lamp and wheat stalks" },
+  cats: { easy: "a ball of yarn on a sunny windowsill", medium: "a ball of yarn on a windowsill in warm evening light", hard: "a cat asleep on a sunny windowsill beside a ball of yarn" },
+  christmas: { easy: "a single pine sprig on a wooden table", medium: "a pine sprig and a bundle of cinnamon sticks", hard: "pine sprigs, cinnamon, a ribbon, a pine cone and a lit white candle" },
+  dogs: { easy: "a green dog lead on a wooden floor", medium: "a dog lead and a collar with a name tag", hard: "a golden dog resting beside its lead, collar and water bowl" },
+  fall: { easy: "a single maple leaf on a wooden table", medium: "a maple leaf and an acorn", hard: "a maple leaf, acorns and a folded plaid blanket" },
+  food: { easy: "a bowl of vegetable soup on a kitchen table", medium: "a bowl of soup with a wooden spoon and fresh herbs", hard: "a bowl of soup, herbs, a wooden spoon and a loaf of fresh bread" },
+  garden: { easy: "one seedling in a clay pot on a potting bench", medium: "a few potted plants and a trowel on a potting bench", hard: "a potting bench crowded with lavender, herbs and flowering pots" },
+  halloween: { easy: "a single pumpkin on a wooden table", medium: "a pumpkin with a lit candle and autumn leaves", hard: "a pumpkin, a lit candle, autumn leaves and a paper bat" },
+  "hard-pack": { easy: "a fountain pen on a wooden desk", medium: "a fountain pen, an ink bottle and a notebook", hard: "a desk full of pens, ink, notebooks and a brass tray" },
+  "large-print-pack": { easy: "a pair of reading glasses on cream paper", medium: "reading glasses on a reading table under a lamp", hard: "reading glasses on an open puzzle book under a lamp, with books and a plant" },
+  music: { easy: "a pair of headphones on a small side table", medium: "headphones and a vinyl record on a side table", hard: "headphones, a record, a teapot and a music stand with sheet music" },
+  ocean: { easy: "a single seashell on the sand", medium: "a seashell on the sand with gentle waves", hard: "a seashell, pebbles, waves and a distant lighthouse" },
+  space: { easy: "a crescent moon in a pale sky", medium: "a crescent moon above soft clouds and a few stars", hard: "a telescope on a hill under a crescent moon, clouds and stars" },
+  sports: { easy: "a tennis ball on a wooden bench", medium: "a tennis ball and a pair of trainers on a bench", hard: "a tennis ball, trainers and a bicycle wheel by a bench" },
+  travel: { easy: "a brass compass on a wooden table", medium: "a compass with postcards and a stamp", hard: "a compass, postcards, a folded map and an old suitcase" },
+};
+
+/** Puzzle level → art level. Large-print puzzles reuse the Easy painting (per the manifest). */
+export function artLevel(p: { difficulty: DifficultyKey; largePrint?: boolean }): DifficultyKey {
+  return p.largePrint ? "easy" : p.difficulty;
+}
+
+/**
+ * Art for one puzzle: the theme's <slug>-<level> painting when the set exists,
+ * otherwise the theme cover. Alt names the puzzle level and describes the scene.
+ */
+export function puzzleArt(p: { themeId: string; difficulty: DifficultyKey; largePrint?: boolean }, themeName: string): Art {
+  const level = artLevel(p);
+  if (!DIFFICULTY_ART_THEMES.has(p.themeId)) return themeArt(p.themeId, themeName);
+  const motif = LEVEL_MOTIF[p.themeId]?.[level];
+  const label = p.largePrint ? "large print" : level;
+  const alt = motif
+    ? `${themeName} word search, ${label} — painted illustration of ${motif}`
+    : `${themeName} word search, ${label} — painted illustration`;
+  return art(`/images/themes/${p.themeId}-${level}.webp`, 1200, 900, alt, [320, 640]);
+}
+
 /** Per-theme 1200×630 social card (scripts/generate-og.mjs). */
 export function themeOgImage(slug: string): string {
   return `/og/themes/${slug}.jpg`;

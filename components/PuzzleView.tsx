@@ -9,7 +9,8 @@ import { getPuzzlesByTheme, getTheme } from "@/lib/data";
 import { absoluteUrl, SITE } from "@/lib/site";
 import { authorRef, ORG_ID, themeNoun, webPageNode } from "@/lib/seo";
 import { puzzleDates, type PageDates } from "@/lib/content-dates";
-import { themeOgImage } from "@/lib/images";
+import { puzzleArt, themeOgImage } from "@/lib/images";
+import Picture from "./Picture";
 import { THEME_EXTRA } from "@/lib/theme-content";
 import type { Puzzle } from "@/lib/types";
 
@@ -39,6 +40,7 @@ export default function PuzzleView({
   const dates = pageDates ?? gameDates;
   const url = absoluteUrl(canonicalPath);
   const image = themeOgImage(puzzle.themeId);
+  const art = puzzleArt(puzzle, theme?.name ?? puzzle.themeId);
   return (
     <article>
       <h1 className="text-3xl font-semibold tracking-tight text-stone-900 sm:text-4xl">
@@ -63,6 +65,13 @@ export default function PuzzleView({
       <AdSlot slot="below-grid" />
 
       <section className="mt-8 max-w-3xl">
+        {/* Level art: below the grid (never the LCP), lazy, and display:none on phones so it
+            costs nothing there. <theme>-<level> painting, or the theme cover as fallback. */}
+        <Picture
+          art={art}
+          sizes="288px"
+          className="float-right mb-3 ml-6 hidden aspect-[4/3] w-72 rounded-[3px] border border-[#d4cbb8] bg-[#efe7d9] object-cover sm:block"
+        />
         <h2 className="text-xl font-semibold">About this puzzle</h2>
         <p className="mt-2 text-lg leading-relaxed text-stone-700">
           {puzzle.largePrint
@@ -75,6 +84,7 @@ export default function PuzzleView({
           </p>
         )}
         <Byline dates={dates} />
+        <div className="clear-both" />
       </section>
 
       <section className="mt-8">
@@ -132,7 +142,10 @@ export default function PuzzleView({
               genre: "Word search puzzle",
               description: `${puzzle.words.length} words in a ${puzzle.gridSize}×${puzzle.gridSize} grid (${puzzle.largePrint ? "large print" : puzzle.difficulty}).`,
               keywords: puzzle.words.map((w) => w.toLowerCase()).join(", "),
-              image: absoluteUrl(image),
+              image: [
+                { "@type": "ImageObject", url: absoluteUrl(art.src), width: art.width, height: art.height, caption: art.alt },
+                absoluteUrl(image),
+              ],
               inLanguage: SITE.language,
               audience: { "@type": "PeopleAudience", suggestedMinAge: 13 },
               isAccessibleForFree: true,
