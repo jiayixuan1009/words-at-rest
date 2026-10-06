@@ -8,7 +8,8 @@ import Byline from "@/components/Byline";
 import HubSchema from "@/components/HubSchema";
 import ThemeCard from "@/components/ThemeCard";
 import { getPuzzlesByTheme, getTheme, getThemes, puzzlePath } from "@/lib/data";
-import { themeImage, themeImageAlt, themeOgImage } from "@/lib/images";
+import { ART, themeArt, themeOgImage } from "@/lib/images";
+import Picture from "@/components/Picture";
 import { THEME_EXTRA } from "@/lib/theme-content";
 import { clamp, seo, themeNoun } from "@/lib/seo";
 import { absoluteUrl } from "@/lib/site";
@@ -65,20 +66,27 @@ export default async function ThemePage({ params }: Props) {
           <Byline />
           <p className="mt-4 max-w-2xl text-lg leading-relaxed text-[var(--ink-soft)]">{theme.description}</p>
         </div>
-        {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img
-          src={themeImage(theme.slug)}
-          alt={themeImageAlt(theme.slug, theme.name)}
-          className="aspect-[16/10] w-full object-cover sm:aspect-auto sm:min-h-full"
+        <Picture
+          art={themeArt(theme.slug, theme.name)}
+          priority
+          sizes="(min-width: 1152px) 500px, (min-width: 640px) 45vw, 100vw"
+          className="aspect-[4/3] w-full object-cover sm:aspect-auto sm:h-full"
         />
       </div>
 
       <h2 className="font-serif text-3xl">{theme.name} puzzles</h2>
-      <div className="mt-2 max-w-2xl">
-        {puzzles.map((p) => (
-          <PuzzleCard key={p.id} puzzle={p} />
-        ))}
-      </div>
+      {puzzles.length === 0 ? (
+        <div className="mt-4 max-w-md text-center">
+          <Picture art={ART.empty} sizes="320px" className="mx-auto h-auto w-80" />
+          <p className="mt-2 text-lg text-[var(--ink-soft)]">No puzzles in this theme yet — try <Link href="/daily">today&apos;s daily puzzle</Link>.</p>
+        </div>
+      ) : (
+        <div className="mt-2 max-w-2xl">
+          {puzzles.map((p) => (
+            <PuzzleCard key={p.id} puzzle={p} />
+          ))}
+        </div>
+      )}
 
       <div className="mt-12 max-w-3xl space-y-4 text-lg leading-relaxed text-[var(--ink-soft)]">
         {extra && (

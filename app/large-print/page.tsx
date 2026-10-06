@@ -7,7 +7,8 @@ import Byline from "@/components/Byline";
 import Faq, { type FaqItem } from "@/components/Faq";
 import HubSchema from "@/components/HubSchema";
 import { getLargePrintPuzzles } from "@/lib/data";
-import { IMAGES, IMAGE_ALT } from "@/lib/images";
+import { ART } from "@/lib/images";
+import Picture from "@/components/Picture";
 import { seo } from "@/lib/seo";
 
 const DESCRIPTION =
@@ -59,10 +60,10 @@ export default function LargePrintPage() {
               down. No timer — just a calm puzzle at your own pace.
             </p>
           </div>
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img
-            src={IMAGES.largePrint}
-            alt={IMAGE_ALT.largePrint}
+          <Picture
+            art={ART.largePrintPromo}
+            priority
+            sizes="(min-width: 1152px) 560px, (min-width: 640px) 50vw, 100vw"
             className="aspect-[4/3] h-full w-full object-cover sm:aspect-auto"
           />
         </div>
@@ -71,11 +72,21 @@ export default function LargePrintPage() {
         You can also switch <strong className="text-[var(--ink)]">any</strong> puzzle on the site to
         large print with the button above the grid. Your choice is remembered on this device.
       </p>
-      <h2 className="mt-12 font-serif text-3xl">Large print puzzles</h2>
-      <div className="mt-2 max-w-2xl">
-        {puzzles.map((p) => (
-          <PuzzleCard key={p.id} puzzle={p} />
-        ))}
+      <div className="mt-12 grid gap-10 lg:grid-cols-[1.2fr_0.8fr] lg:items-start">
+        <div>
+          <h2 className="font-serif text-3xl">Large print puzzles</h2>
+          <div className="mt-2">
+            {puzzles.map((p) => (
+              <PuzzleCard key={p.id} puzzle={p} />
+            ))}
+          </div>
+        </div>
+        <figure>
+          <Picture art={ART.largePrintComfort} sizes="(min-width: 1024px) 420px, 92vw" className="aspect-[3/2] w-full object-contain" />
+          <figcaption className="mt-2 font-sans text-sm italic text-[var(--ink-soft)]">
+            Large print grids scale to fill a tablet held in landscape.
+          </figcaption>
+        </figure>
       </div>
 
       <div className="mt-12">

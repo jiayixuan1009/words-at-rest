@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import Breadcrumbs from "@/components/Breadcrumbs";
+import { Ornament } from "@/components/Picture";
+import { ART } from "@/lib/images";
 import Prose from "@/components/Prose";
 import { SITE } from "@/lib/site";
 
@@ -18,6 +20,7 @@ export default function TermsPage() {
     <>
       <Breadcrumbs items={[{ name: "Terms of Use", href: "/terms" }]} />
       <Prose>
+        <Ornament art={ART.legalOrnament} width={200} className="!justify-start" />
         <h1 className="text-4xl font-semibold tracking-tight">Terms of Use</h1>
         <p className="text-base text-stone-600">Last updated: {SITE.lastUpdatedLegal}</p>
         <p>

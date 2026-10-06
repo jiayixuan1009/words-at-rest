@@ -285,12 +285,30 @@ export default function PuzzleGrid({
             ))}
           </ul>
           {complete && (
-            <p className="mt-4 rounded-sm bg-[var(--found)] p-3 text-[var(--moss)]" role="status">
+            <p className="mt-4 flex items-center gap-3 rounded-sm bg-[var(--found)] p-3 text-[var(--moss)] lg:hidden" role="status">
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img src="/images/puzzle/complete-compact.png" width={48} height={48} alt="" className="h-12 w-12 shrink-0" />
               All words found. Take a breath, then try another puzzle.
             </p>
           )}
         </div>
       </div>
+      {complete && (
+        <figure className="no-print paper-deep hidden items-center gap-6 rounded-[4px] border border-[#cbbfa6] p-4 lg:flex">
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img
+            src="/images/puzzle/complete.webp"
+            width={900}
+            height={500}
+            alt="A finished puzzle — an empty coffee cup and a ticked tile, well done"
+            className="h-auto w-72 shrink-0"
+          />
+          <figcaption className="text-[var(--moss)]" role="status">
+            <span className="block font-serif text-3xl text-[var(--ink)]">Puzzle complete — well done.</span>
+            <span className="mt-1 block text-lg">All words found. Take a breath, then try another puzzle.</span>
+          </figcaption>
+        </figure>
+      )}
       <p className="text-sm text-[var(--ink-soft)]">
         Tip: drag across a word, or tap its first letter and then its last letter.
       </p>

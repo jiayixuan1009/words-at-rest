@@ -7,7 +7,8 @@ import Byline from "@/components/Byline";
 import DifficultyTable from "@/components/DifficultyTable";
 import Faq, { type FaqItem } from "@/components/Faq";
 import HubSchema from "@/components/HubSchema";
-import { IMAGES, IMAGE_ALT } from "@/lib/images";
+import { ART } from "@/lib/images";
+import Picture from "@/components/Picture";
 import { absoluteUrl } from "@/lib/site";
 import { seo } from "@/lib/seo";
 
@@ -61,8 +62,7 @@ export default function HowToPlayPage() {
     <>
       <Breadcrumbs items={[{ name: "How to Play", href: "/how-to-play" }]} />
       <div className="mb-10 overflow-hidden rounded-sm border border-[#d4cbb8]">
-        {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img src={IMAGES.howTo} alt={IMAGE_ALT.howTo} className="aspect-[21/9] w-full object-cover" />
+        <Picture art={ART.howToBanner} priority sizes="(min-width: 1152px) 1088px, 100vw" className="aspect-[21/9] w-full object-cover" />
       </div>
       <Prose>
         <h1 className="font-serif text-4xl tracking-tight">How to play word search online</h1>
@@ -82,6 +82,14 @@ export default function HowToPlayPage() {
         </p>
 
         <h2>How do you play? Step by step</h2>
+        <div className="not-prose grid grid-cols-2 gap-4 py-2 sm:grid-cols-4">
+          {[0, 1, 2, 4].map((si, i) => (
+            <figure key={STEPS[si].name}>
+              <Picture art={ART.howToSteps[i]} sizes="(min-width: 640px) 180px, 45vw" className="aspect-[4/3] w-full object-contain" />
+              <figcaption className="mt-1 text-center font-sans text-sm text-[var(--ink-soft)]">{STEPS[si].name}</figcaption>
+            </figure>
+          ))}
+        </div>
         <ol>
           {STEPS.map((s) => (
             <li key={s.name}>

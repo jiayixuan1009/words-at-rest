@@ -6,6 +6,8 @@ import Byline from "@/components/Byline";
 import HubSchema from "@/components/HubSchema";
 import { getPuzzles, getThemes } from "@/lib/data";
 import { seo } from "@/lib/seo";
+import { ART } from "@/lib/images";
+import Picture from "@/components/Picture";
 
 const DESCRIPTION =
   "Browse free word search puzzles by theme: Halloween, fall, Christmas, animals, ocean, garden, music, space, large print and more. Original word lists, playable online.";
@@ -22,6 +24,7 @@ export default function ThemesPage() {
   return (
     <>
       <Breadcrumbs items={[{ name: "Themes", href: "/themes" }]} />
+      <Picture art={ART.themesBanner} priority sizes="(min-width: 1152px) 1088px, 100vw" className="mb-8 aspect-[16/5] w-full rounded-[3px] object-cover" />
       <h1 className="font-serif text-4xl tracking-tight sm:text-5xl">Word search themes</h1>
       <Byline />
       <p className="mt-4 max-w-2xl text-lg leading-relaxed text-[var(--ink-soft)]">

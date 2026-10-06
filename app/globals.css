@@ -22,8 +22,10 @@
     font-size: 1.125rem;
     line-height: 1.65;
     background-color: var(--paper);
-    background-image: url("/images/paper-grain.svg");
-    background-blend-mode: multiply;
+    /* 512px seamless gouache paper tile (~9KB). */
+    background-image: url("/images/textures/paper-grain.webp");
+    background-size: 512px 512px;
+    background-repeat: repeat;
   }
 
   h1, h2, h3 {
@@ -72,6 +74,112 @@
     background: linear-gradient(135deg, #efe6d6 0%, #f4efe6 45%, #e8dfd0 100%);
   }
 
+  /* Deeper paper for insets (launcher card, asides, footer). */
+  .paper-deep {
+    background-color: var(--paper-deep);
+    background-image: url("/images/textures/paper-deep.webp");
+    background-size: 512px 512px;
+  }
+
+  .site-header {
+    background: rgba(244, 239, 230, 0.86);
+  }
+
+  .site-footer {
+    background-color: var(--paper-deep);
+    background-image: url("/images/textures/paper-deep.webp");
+    background-size: 512px 512px;
+  }
+
+  .nav-link {
+    text-underline-offset: 6px;
+  }
+  .nav-link:hover {
+    text-decoration: underline;
+    text-decoration-color: var(--highlight);
+    text-decoration-thickness: 3px;
+  }
+
+  /* Editorial kicker: small caps label with a rule. */
+  .kicker {
+    font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+    font-size: 0.8rem;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--moss);
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+  }
+  .kicker::after {
+    content: "";
+    height: 1px;
+    flex: 1;
+    max-width: 6rem;
+    background: #b8a990;
+  }
+
+  .display {
+    font-size: clamp(2.5rem, 5vw, 4.25rem);
+    line-height: 1.02;
+    letter-spacing: -0.035em;
+  }
+
+  .drop-cap::first-letter {
+    float: left;
+    font-family: "Iowan Old Style", Palatino, Georgia, serif;
+    font-size: 3.6em;
+    line-height: 0.85;
+    padding: 0.08em 0.12em 0 0;
+    color: var(--moss);
+  }
+
+  .btn-primary {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.6rem;
+    border-radius: 999px;
+    background: var(--moss);
+    color: #faf6ee;
+    padding: 1rem 2rem;
+    font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+    font-size: 1.2rem;
+    font-weight: 600;
+    text-decoration: none;
+    box-shadow: 0 2px 0 #2a3f30;
+    transition: background 0.15s, transform 0.15s;
+  }
+  .btn-primary:hover {
+    background: #2f4736;
+    color: #faf6ee;
+    transform: translateY(-1px);
+  }
+
+  .chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    border: 1px solid #b8a990;
+    border-radius: 999px;
+    padding: 0.5rem 1rem;
+    min-height: 44px;
+    font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+    font-size: 1rem;
+    color: var(--ink);
+    text-decoration: none;
+    background: rgba(250, 246, 238, 0.7);
+  }
+  .chip:hover {
+    border-color: var(--moss);
+    color: var(--moss);
+    background: #faf6ee;
+  }
+
+  .mini-grid {
+    font-family: "Courier New", Courier, ui-monospace, monospace;
+    font-weight: 600;
+  }
+
   .soft-rule {
     border: none;
     border-top: 1px solid #d4cbb8;
@@ -82,5 +190,15 @@
 @media print {
   header, footer, nav, button, [data-ad-slot], .no-print { display: none !important; }
   body { background: white; }
+  /* Painted ornament across the top of printed puzzles. */
+  main::before {
+    content: "";
+    display: block;
+    height: 0.8in;
+    margin-bottom: 0.2in;
+    background: url("/images/print/header-ornament.png") center / contain no-repeat;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
   .puzzle-board { box-shadow: none; border-color: #999; }
 }

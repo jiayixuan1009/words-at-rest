@@ -1,14 +1,21 @@
 import Link from "next/link";
 import { SITE } from "@/lib/site";
+import { ART } from "@/lib/images";
+import { Ornament } from "./Picture";
 
 export default function SiteFooter() {
   return (
-    <footer className="mt-auto border-t border-[#d4cbb8]/70 bg-[#ebe4d6]/50">
-      <div className="mx-auto flex max-w-5xl flex-col gap-4 px-5 py-10 text-sm text-[var(--ink-soft)] sm:flex-row sm:items-start sm:justify-between sm:px-6">
+    <footer className="site-footer mt-auto border-t border-[#d4cbb8]/70">
+      <Ornament art={ART.flourish} width={120} className="-mt-5 mb-2" />
+      <div className="mx-auto flex max-w-6xl flex-col gap-6 px-5 pb-10 pt-4 text-[1rem] text-[var(--ink-soft)] sm:flex-row sm:items-start sm:justify-between sm:px-8">
         <div>
-          <p className="font-serif text-lg text-[var(--ink)]">{SITE.name}</p>
-          <p className="mt-1 max-w-sm leading-relaxed">
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img src={ART.lockup.src} width={240} height={72} alt={SITE.name} loading="lazy" decoding="async" className="h-auto w-[200px] sm:w-[240px]" />
+          <p className="mt-3 max-w-sm leading-relaxed">
             Free word search puzzles for adults — large print, daily and seasonal. No timer, no fuss.
+          </p>
+          <p className="mt-2 max-w-sm text-sm leading-relaxed">
+            Illustrations were made for {SITE.name} — no stock photos.
           </p>
         </div>
         <nav aria-label="Footer">

@@ -4,10 +4,13 @@ import ThemeCard from "@/components/ThemeCard";
 import AdSlot from "@/components/AdSlot";
 import JsonLd from "@/components/JsonLd";
 import DifficultyTable from "@/components/DifficultyTable";
-import { currentDailyDate, getDailyPuzzle, getLargePrintPuzzles, getPuzzles, getThemes } from "@/lib/data";
-import { IMAGES, IMAGE_ALT } from "@/lib/images";
+import DailyPreview, { LauncherChips, LauncherCta } from "@/components/DailyLauncher";
+import Picture, { Ornament } from "@/components/Picture";
+import { currentDailyDate, getDailyPuzzle, getLargePrintPuzzles, getPuzzles, getTheme, getThemes } from "@/lib/data";
+import { ART, DIFFICULTY_ART } from "@/lib/images";
 import { SITE } from "@/lib/site";
 import { ORG_ID, WEBSITE_ID, seo } from "@/lib/seo";
+import type { Theme } from "@/lib/types";
 
 export const dynamic = "force-dynamic";
 
@@ -20,125 +23,191 @@ export const metadata = seo({
   imageAlt: "Words at Rest — calm word search puzzles for adults",
 });
 
+const FEATURED_THEMES = ["halloween", "fall", "christmas", "garden", "ocean", "cats", "travel"];
+
+const STEPS = [
+  { title: "Pick a puzzle", text: "Start with today’s daily grid, or choose a theme and a difficulty you like." },
+  { title: "Read the word list", text: "Every answer is already listed beside the grid — no trivia, no spelling test." },
+  { title: "Mark each word", text: "Drag across a word, or tap its first letter and then its last letter." },
+  { title: "Finish at your pace", text: "No timer and no score. Progress is saved on your device for next time." },
+];
+
+const LEVEL_COPY = {
+  easy: { name: "Easy", line: "10×10 · across and down only", body: "A gentle warm-up with words that always read forwards." },
+  medium: { name: "Medium", line: "12×12 · diagonals added", body: "A fuller grid for regular solvers; still nothing backwards." },
+  hard: { name: "Hard", line: "15×15 · all eight directions", body: "Backwards, upwards and diagonal — a real search." },
+} as const;
+
 export default function HomePage() {
-  const daily = getDailyPuzzle(currentDailyDate());
+  const date = currentDailyDate();
+  const daily = getDailyPuzzle(date);
   const totalPuzzles = getPuzzles().length;
   const totalThemes = getThemes().length;
-  const themes = getThemes().slice(0, 6);
+  const themes = FEATURED_THEMES.map((s) => getTheme(s)).filter((t): t is Theme => Boolean(t));
+  const [lead, ...rest] = themes;
   const featured = getPuzzles().filter((p) => !p.largePrint).slice(0, 6);
   const largePrint = getLargePrintPuzzles().slice(0, 4);
   return (
-    <div className="space-y-16">
-      <section className="hero-band -mx-5 overflow-hidden rounded-sm border border-[#d4cbb8]/80 sm:-mx-0 sm:grid sm:grid-cols-2 sm:gap-0">
-        <div className="flex flex-col justify-center p-8 sm:p-10 lg:p-12">
-          <p className="font-sans text-xs uppercase tracking-[0.2em] text-[var(--ink-soft)]">
-            Free · Online · No timer
-          </p>
-          <h1 className="mt-3 font-serif text-4xl leading-tight sm:text-5xl">
+    <div className="space-y-20 sm:space-y-24">
+      {/* 1 · Launcher: today's daily puzzle in one click */}
+      <section aria-labelledby="home-title" className="grid gap-10 lg:grid-cols-[minmax(0,1fr)_minmax(0,1fr)] lg:gap-14">
+        <div className="lg:pt-4">
+          <p className="kicker">Free · Online · No timer</p>
+          <h1 id="home-title" className="display mt-4 font-serif">
             Free word search puzzles, at your own pace.
           </h1>
-          <p className="mt-5 max-w-md text-lg leading-relaxed text-[var(--ink-soft)]">
-            Calm grids for adults and seniors — large print, daily and seasonal themes. No download,
-            no sign-up. Just a quiet cup and a list of words.
+          <p className="mt-5 max-w-[30rem] text-[1.25rem] leading-relaxed text-[var(--ink-soft)]">
+            Calm grids for adults and seniors — large print, daily and seasonal themes. No download, no
+            sign-up. Just a quiet cup and a list of words.
           </p>
-          <div className="mt-8 flex flex-wrap gap-3">
-            <Link
-              href="/daily"
-              className="rounded-full bg-[var(--accent-deep)] px-6 py-3 font-sans text-base font-medium text-[#faf6ee] no-underline hover:bg-[var(--ink)]"
-            >
-              Play today&apos;s puzzle
-            </Link>
-            <Link
-              href="/large-print"
-              className="rounded-full border border-[#b8a990] px-6 py-3 font-sans text-base font-medium text-[var(--ink)] no-underline hover:bg-white/50"
-            >
-              Large print
-            </Link>
+          <div className="mt-8">
+            <LauncherCta puzzle={daily} />
           </div>
-          <p className="mt-5 font-sans text-sm text-[var(--ink-soft)]">
-            Today: <Link href="/daily">{daily.title}</Link>
-          </p>
+          <div className="mt-8 hidden border-t border-[#d4cbb8] pt-6 lg:block">
+            <LauncherChips />
+          </div>
         </div>
-        <div className="relative min-h-[220px] sm:min-h-full">
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img
-            src={IMAGES.hero}
-            alt={IMAGE_ALT.hero}
-            className="absolute inset-0 h-full w-full object-cover"
-            fetchPriority="high"
-          />
+        <div>
+          <picture>
+            <source media="(min-width: 768px)" srcSet={`${ART.heroDesktop.variants?.[0][0]} 1200w, ${ART.heroDesktop.src} 1600w`} sizes="(min-width: 1024px) 540px, 100vw" width={1600} height={1200} />
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
+              src={ART.heroMobile.variants?.[0][0]}
+              srcSet={`${ART.heroMobile.variants?.[0][0]} 800w, ${ART.heroMobile.src} 1200w`}
+              sizes="100vw"
+              width={1200}
+              height={900}
+              alt={ART.heroDesktop.alt}
+              fetchPriority="high"
+              loading="eager"
+              className="aspect-[4/3] w-full rounded-[4px] border border-[#d4cbb8] object-cover"
+            />
+          </picture>
+          <div className="relative z-10 -mt-16 px-3 sm:-mt-24 sm:px-8 lg:-ml-10 lg:mr-6 lg:px-0">
+            <DailyPreview puzzle={daily} date={date} />
+          </div>
+          <div className="mt-8 lg:hidden">
+            <LauncherChips />
+          </div>
         </div>
       </section>
 
-      <section>
-        <div className="flex items-end justify-between gap-4">
-          <h2 className="font-serif text-3xl">Browse by theme</h2>
-          <Link href="/themes" className="font-sans text-sm no-underline">
-            All themes →
-          </Link>
+      <Ornament art={ART.dividerRule} width={560} />
+
+      {/* 2 · Themes — editorial grid, one lead story + six */}
+      <section aria-labelledby="themes-h">
+        <div className="flex flex-col items-center text-center">
+          <Ornament art={ART.homeThemesOrnament} width={120} />
+          <h2 id="themes-h" className="mt-3 font-serif text-4xl sm:text-5xl">Browse by theme</h2>
+          <p className="mt-3 max-w-2xl text-lg text-[var(--ink-soft)]">
+            {totalThemes} themes with original, grown-up word lists — from the seasons to the sea.
+          </p>
         </div>
-        <ul className="mt-6 grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
-          {themes.map((t) => (
+        <div className="mt-10 grid gap-10 lg:grid-cols-[1.35fr_1fr] lg:gap-12">
+          {lead && <ThemeCard theme={lead} feature />}
+          <ul className="grid grid-cols-2 content-between gap-x-6 gap-y-8">
+            {rest.slice(0, 4).map((t) => (
+              <li key={t.id}>
+                <ThemeCard theme={t} compact sizes="(min-width: 1024px) 240px, 45vw" />
+              </li>
+            ))}
+          </ul>
+        </div>
+        <ul className="mt-8 grid grid-cols-2 gap-x-6 gap-y-8 sm:grid-cols-2 lg:grid-cols-2">
+          {rest.slice(4).map((t) => (
             <li key={t.id}>
-              <ThemeCard theme={t} />
+              <ThemeCard theme={t} compact sizes="(min-width: 1024px) 540px, 45vw" />
             </li>
           ))}
         </ul>
+        <p className="mt-8 text-center">
+          <Link href="/themes" className="chip">See all {totalThemes} themes →</Link>
+        </p>
       </section>
 
       <AdSlot slot="home-mid" />
 
-      <section className="grid gap-10 lg:grid-cols-[1.2fr_0.8fr]">
-        <div>
-          <h2 className="font-serif text-3xl">Featured puzzles</h2>
-          <div className="mt-2">
-            {featured.map((p) => (
-              <PuzzleCard key={p.id} puzzle={p} />
-            ))}
+      {/* 3 · Difficulty */}
+      <section aria-labelledby="difficulty-h">
+        <div className="grid items-end gap-6 lg:grid-cols-[1fr_auto]">
+          <div className="max-w-2xl">
+            <p className="kicker">Choose your pace</p>
+            <h2 id="difficulty-h" className="mt-3 font-serif text-4xl sm:text-5xl">Which difficulty should you choose?</h2>
+            <p className="mt-4 text-lg leading-relaxed text-[var(--ink-soft)]">
+              Every puzzle uses one of four layouts. Start easy or large print if you are new; move up
+              when a grid starts to feel quick.
+            </p>
           </div>
+          <Picture art={ART.homeDifficulty} sizes="320px" className="hidden h-auto w-[320px] rounded-[3px] lg:block" />
         </div>
-        <aside className="rounded-sm border border-[#d4cbb8] bg-[#ebe4d6]/40 p-6">
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img
-            src={IMAGES.largePrint}
-            alt={IMAGE_ALT.largePrint}
-            className="mb-5 aspect-[4/3] w-full rounded-sm object-cover"
-            loading="lazy"
-          />
-          <h2 className="font-serif text-2xl">Large print, easy on the eyes</h2>
-          <p className="mt-3 leading-relaxed text-[var(--ink-soft)]">
-            Bigger letters, smaller grids, high contrast. Switch any puzzle to large print with one tap.
+        <ul className="mt-10 grid gap-8 sm:grid-cols-3">
+          {(["easy", "medium", "hard"] as const).map((d) => (
+            <li key={d} className="border-t-2 border-[var(--ink)] pt-4">
+              <Link href={`/difficulty/${d}`} className="group block no-underline">
+                <Picture art={DIFFICULTY_ART[d].image} sizes="(min-width: 640px) 33vw, 92vw" className="aspect-[2/1] w-full rounded-[3px] border border-[#d4cbb8] object-cover" />
+                <div className="mt-4 flex items-center gap-3">
+                  <Picture art={DIFFICULTY_ART[d].badge} decorative className="h-11 w-11" />
+                  <h3 className="font-serif text-3xl text-[var(--ink)] group-hover:text-[var(--moss)]">{LEVEL_COPY[d].name}</h3>
+                </div>
+                <p className="mt-1 font-sans text-sm uppercase tracking-[0.12em] text-[var(--ink-soft)]">{LEVEL_COPY[d].line}</p>
+                <p className="mt-2 text-lg leading-relaxed text-[var(--ink-soft)]">{LEVEL_COPY[d].body}</p>
+              </Link>
+            </li>
+          ))}
+        </ul>
+        <div className="mt-10 max-w-4xl">
+          <DifficultyTable />
+        </div>
+      </section>
+
+      {/* 4 · Large print aside */}
+      <section aria-labelledby="lp-h" className="paper-deep -mx-5 grid gap-8 border-y border-[#cbbfa6] px-5 py-10 sm:mx-0 sm:rounded-[4px] sm:border sm:px-10 lg:grid-cols-[0.9fr_1.1fr] lg:items-start">
+        <Picture art={ART.homeAsideLargePrint} sizes="(min-width: 1024px) 460px, 92vw" className="aspect-[4/3] w-full rounded-[3px] border border-[#cbbfa6] object-cover" />
+        <div>
+          <p className="kicker">Easy on the eyes</p>
+          <h2 id="lp-h" className="mt-3 font-serif text-4xl">Large print, made comfortable</h2>
+          <p className="mt-4 text-xl leading-relaxed text-[var(--ink-soft)]">
+            Bigger letters, smaller grids, high contrast. Switch any puzzle to large print with one tap,
+            or start with a dedicated 9×9 grid.
           </p>
-          <ul className="mt-4 space-y-1">
+          <ul className="mt-4">
             {largePrint.map((p) => (
               <li key={p.id}>
                 <PuzzleCard puzzle={p} />
               </li>
             ))}
           </ul>
-          <p className="mt-4">
-            <Link href="/large-print">See all large print →</Link>
+          <p className="mt-6">
+            <Link href="/large-print" className="chip">See all large print →</Link>
           </p>
-        </aside>
+        </div>
       </section>
 
-      <section className="max-w-3xl">
-        <h2 className="font-serif text-3xl">Which difficulty should you choose?</h2>
-        <p className="mt-3 text-lg leading-relaxed text-[var(--ink-soft)]">
-          Every puzzle uses one of four layouts. Start easy or large print if you are new; move up
-          when a grid starts to feel quick.
+      {/* 5 · How to play strip */}
+      <section aria-labelledby="howto-h">
+        <div className="text-center">
+          <p className="kicker justify-center">Four quiet steps</p>
+          <h2 id="howto-h" className="mt-3 font-serif text-4xl sm:text-5xl">How to play</h2>
+        </div>
+        <ol className="mt-10 grid gap-8 sm:grid-cols-2 lg:grid-cols-4">
+          {STEPS.map((s, i) => (
+            <li key={s.title}>
+              <Picture art={ART.howToSteps[i]} sizes="(min-width: 1024px) 260px, (min-width: 640px) 45vw, 92vw" className="aspect-[4/3] w-full object-contain" />
+              <p className="mt-2 font-serif text-5xl leading-none text-[var(--highlight)]" aria-hidden="true">{i + 1}</p>
+              <h3 className="mt-1 font-serif text-2xl">{s.title}</h3>
+              <p className="mt-2 text-lg leading-relaxed text-[var(--ink-soft)]">{s.text}</p>
+            </li>
+          ))}
+        </ol>
+        <p className="mt-8 text-center">
+          <Link href="/how-to-play" className="chip">Read the full guide →</Link>
         </p>
-        <DifficultyTable />
-        <ul className="mt-4 flex flex-wrap gap-x-6 gap-y-2 text-lg">
-          <li><Link href="/difficulty/easy">Easy</Link></li>
-          <li><Link href="/difficulty/medium">Medium</Link></li>
-          <li><Link href="/difficulty/hard">Hard</Link></li>
-          <li><Link href="/adults">For adults</Link></li>
-          <li><Link href="/how-to-play">How to play</Link></li>
-        </ul>
       </section>
 
-      <section className="grid gap-10 lg:grid-cols-2">
+      <Ornament art={ART.dividerRule} width={560} />
+
+      {/* 6 · Definition + why (AEO copy kept verbatim) */}
+      <section className="grid gap-12 lg:grid-cols-2">
         <div className="space-y-4 text-lg leading-relaxed text-[var(--ink-soft)]">
           <h2 className="font-serif text-3xl text-[var(--ink)]">What is a word search?</h2>
           <p id="definition" className="rounded-sm border-l-4 border-[var(--moss)] bg-[#ebe4d6]/50 py-3 pl-4">
@@ -178,6 +247,32 @@ export default function HomePage() {
             Words at Rest is an independent site edited by{" "}
             <Link href={SITE.editor.aboutPath}>{SITE.editor.name}</Link>.{" "}
             <Link href="/about">More about us</Link>.
+          </p>
+        </div>
+      </section>
+
+      {/* 7 · Featured puzzles — compact index */}
+      <section aria-labelledby="featured-h">
+        <h2 id="featured-h" className="font-serif text-3xl">Featured puzzles</h2>
+        <div className="mt-2 grid gap-x-10 sm:grid-cols-2 lg:grid-cols-3">
+          {featured.map((p) => (
+            <PuzzleCard key={p.id} puzzle={p} />
+          ))}
+        </div>
+      </section>
+
+      {/* 8 · Come back tomorrow (no sign-up; just a reminder) */}
+      <section aria-labelledby="cta-h" className="grid items-center gap-8 overflow-hidden rounded-[4px] border border-[#cbbfa6] bg-[#faf6ee]/70 sm:grid-cols-[1fr_1fr]">
+        <Picture art={ART.ctaComeBack} sizes="(min-width: 640px) 50vw, 100vw" className="aspect-[5/3] h-full w-full object-cover" />
+        <div className="px-6 pb-8 sm:py-8 sm:pr-10">
+          <p className="kicker">Tomorrow’s grid</p>
+          <h2 id="cta-h" className="mt-3 font-serif text-4xl">A fresh puzzle every morning</h2>
+          <p className="mt-4 text-lg leading-relaxed text-[var(--ink-soft)]">
+            A new daily word search arrives at midnight UTC. Bookmark this page (Ctrl+D, or ⌘+D on a
+            Mac) and come back tomorrow — nothing to sign up for.
+          </p>
+          <p className="mt-6">
+            <Link href="/daily" className="btn-primary">Play today&apos;s puzzle →</Link>
           </p>
         </div>
       </section>

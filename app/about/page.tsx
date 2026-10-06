@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import Breadcrumbs from "@/components/Breadcrumbs";
+import Picture from "@/components/Picture";
+import { ART } from "@/lib/images";
 import Prose from "@/components/Prose";
 import Byline from "@/components/Byline";
 import HubSchema from "@/components/HubSchema";
@@ -27,6 +29,7 @@ export default function AboutPage() {
       <Prose>
         <h1 className="text-4xl font-semibold tracking-tight">About Words at Rest</h1>
         <Byline />
+        <Picture art={ART.aboutSpot} priority sizes="(min-width: 768px) 720px, 100vw" className="my-6 aspect-[3/2] w-full max-w-xl object-contain" />
         <p>
           Words at Rest is a small, independent puzzle site with one simple idea: word searches
           should be relaxing. We publish free online word search puzzles for adults, seniors and

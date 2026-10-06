@@ -5,6 +5,8 @@ import PuzzleView from "@/components/PuzzleView";
 import Faq, { type FaqItem } from "@/components/Faq";
 import { currentDailyDate, formatLongDate, getDailyArchive, getDailyPuzzle } from "@/lib/data";
 import { seo } from "@/lib/seo";
+import { ART } from "@/lib/images";
+import Picture from "@/components/Picture";
 
 export const dynamic = "force-dynamic";
 
@@ -48,6 +50,7 @@ export default function DailyPage() {
   return (
     <>
       <Breadcrumbs items={[{ name: "Daily", href: "/daily" }]} />
+      <Picture art={ART.dailyHeader} priority sizes="(min-width: 1152px) 1088px, 100vw" className="mb-6 aspect-[10/3] w-full rounded-[3px] border border-[#d4cbb8] object-cover" />
       <p className="text-sm uppercase tracking-wide text-stone-500">
         <time dateTime={date}>{formatLongDate(date)}</time>
       </p>
@@ -60,11 +63,14 @@ export default function DailyPage() {
       <section className="mt-10">
         <h2 className="text-xl font-semibold">Past daily puzzles</h2>
         {archive.length === 0 ? (
-          <p className="mt-2 text-stone-600">
+          <div className="mt-3 flex flex-col items-start gap-4 sm:flex-row sm:items-center">
+          <Picture art={ART.dailyArchiveEmpty} sizes="240px" className="h-auto w-60 shrink-0" />
+          <p className="text-stone-600">
             The archive starts today ({formatLongDate(date)}). Each new day adds a dated page here —
             check back tomorrow, or play today&apos;s puzzle at its{" "}
             <Link href={`/daily/${date}`}>permanent link</Link>.
           </p>
+          </div>
         ) : (
           <ul className="mt-2 grid gap-1 sm:grid-cols-2">
             {archive.map((d) => (

@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import Breadcrumbs from "@/components/Breadcrumbs";
+import Picture from "@/components/Picture";
+import { DIFFICULTY_ART } from "@/lib/images";
 import PuzzleCard from "@/components/PuzzleCard";
 import Byline from "@/components/Byline";
 import DifficultyTable from "@/components/DifficultyTable";
@@ -84,9 +86,17 @@ export default async function DifficultyPage({ params }: Props) {
   return (
     <>
       <Breadcrumbs items={[{ name: c.h1, href: `/difficulty/${level}` }]} />
-      <h1 className="text-4xl font-semibold tracking-tight">{c.h1}</h1>
-      <Byline />
-      <p className="mt-4 max-w-3xl text-lg text-stone-700">{c.intro}</p>
+      <div className="grid gap-8 lg:grid-cols-[1fr_0.9fr] lg:items-center">
+        <div>
+          <div className="flex items-center gap-4">
+            <Picture art={DIFFICULTY_ART[level].badge} decorative priority className="h-14 w-14" />
+            <h1 className="font-serif text-4xl font-semibold tracking-tight sm:text-5xl">{c.h1}</h1>
+          </div>
+          <Byline />
+          <p className="mt-4 max-w-3xl text-lg text-stone-700">{c.intro}</p>
+        </div>
+        <Picture art={DIFFICULTY_ART[level].image} priority sizes="(min-width: 1024px) 480px, 100vw" className="aspect-[2/1] w-full rounded-[3px] border border-[#d4cbb8] object-cover" />
+      </div>
       <nav aria-label="Difficulty" className="mt-6 flex gap-4">
         {DIFFICULTIES.map((d) => (
           <Link

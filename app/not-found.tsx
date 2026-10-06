@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { IMAGES, IMAGE_ALT } from "@/lib/images";
+import { ART } from "@/lib/images";
+import Picture from "@/components/Picture";
 
 export const metadata: Metadata = {
   title: { absolute: "Page not found | Words at Rest" },
@@ -10,11 +11,11 @@ export const metadata: Metadata = {
 export default function NotFound() {
   return (
     <div className="mx-auto max-w-lg py-8 text-center">
-      {/* eslint-disable-next-line @next/next/no-img-element */}
-      <img
-        src={IMAGES.empty}
-        alt={IMAGE_ALT.empty}
-        className="mx-auto mb-8 aspect-[16/10] w-full max-w-md rounded-sm object-cover opacity-90"
+      <Picture
+        art={ART.notFound}
+        priority
+        sizes="(min-width: 640px) 448px, 92vw"
+        className="mx-auto mb-8 aspect-[16/10] w-full max-w-md rounded-[3px] object-cover"
       />
       <h1 className="font-serif text-4xl">Page not found</h1>
       <p className="mt-4 text-lg text-[var(--ink-soft)]">That puzzle seems to have wandered off the page.</p>

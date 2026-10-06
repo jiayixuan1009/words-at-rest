@@ -1,37 +1,45 @@
 import Link from "next/link";
 import { getPuzzlesByTheme } from "@/lib/data";
-import { themeImage, themeImageAlt } from "@/lib/images";
+import { themeArt } from "@/lib/images";
 import type { Theme } from "@/lib/types";
+import Picture from "./Picture";
 
-export default function ThemeCard({ theme, compact = false }: { theme: Theme; compact?: boolean }) {
+/** Editorial theme entry: painted cover, serif title below (no overlay gradient). */
+export default function ThemeCard({
+  theme,
+  compact = false,
+  feature = false,
+  sizes = "(min-width: 1024px) 360px, (min-width: 640px) 45vw, 92vw",
+}: {
+  theme: Theme;
+  compact?: boolean;
+  feature?: boolean;
+  sizes?: string;
+}) {
   const count = getPuzzlesByTheme(theme.id).length;
-  const src = themeImage(theme.slug);
+  const a = themeArt(theme.slug, theme.name);
   return (
-    <Link
-      href={`/themes/${theme.slug}`}
-      className="group block overflow-hidden no-underline"
-    >
-      <div className={`relative overflow-hidden rounded-sm ${compact ? "aspect-[5/3]" : "aspect-[4/3]"}`}>
-        {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img
-          src={src}
-          alt={themeImageAlt(theme.slug, theme.name)}
-          className="h-full w-full object-cover transition duration-500 group-hover:scale-[1.03]"
-          loading="lazy"
+    <Link href={`/themes/${theme.slug}`} className="group block no-underline">
+      <div className={`overflow-hidden rounded-[3px] border border-[#d4cbb8] bg-[#efe7d9] ${compact ? "aspect-[5/3]" : "aspect-[4/3]"}`}>
+        <Picture
+          art={a}
+          sizes={feature ? "(min-width: 1024px) 720px, 92vw" : sizes}
+          className="h-full w-full object-cover transition duration-700 group-hover:scale-[1.02]"
         />
-        <div className="absolute inset-0 bg-gradient-to-t from-[rgba(44,36,27,0.55)] via-transparent to-transparent" />
-        <p className="absolute bottom-3 left-3 right-3 font-serif text-xl text-[#faf6ee] drop-shadow">
+      </div>
+      <div className="mt-3 flex min-w-0 flex-wrap items-baseline justify-between gap-x-3 border-b border-[#d4cbb8] pb-2">
+        <h3 className={`font-serif text-[var(--ink)] group-hover:text-[var(--moss)] ${feature ? "text-3xl" : "text-2xl"}`}>
           {theme.name}
+        </h3>
+        <p className="font-sans text-sm uppercase tracking-[0.12em] text-[var(--ink-soft)]">
+          {count} puzzle{count === 1 ? "" : "s"}
         </p>
       </div>
       {!compact && (
-        <p className="mt-3 line-clamp-2 text-[0.95rem] leading-relaxed text-[var(--ink-soft)]">
-          {theme.description.slice(0, 110).replace(/\s+\S*$/, "")}…
+        <p className={`mt-2 leading-relaxed text-[var(--ink-soft)] ${feature ? "text-lg" : "line-clamp-2 text-[1rem]"}`}>
+          {feature ? theme.description.slice(0, 220).replace(/\s+\S*$/, "") : theme.description.slice(0, 110).replace(/\s+\S*$/, "")}…
         </p>
       )}
-      <p className="mt-1 font-sans text-xs uppercase tracking-[0.12em] text-[var(--ink-soft)]">
-        {count} puzzle{count === 1 ? "" : "s"}
-      </p>
     </Link>
   );
 }

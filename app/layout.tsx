@@ -38,7 +38,15 @@ export const metadata: Metadata = {
     images: [DEFAULT_IMAGE],
   },
   twitter: { card: "summary_large_image", images: [DEFAULT_IMAGE.url] },
-  icons: { apple: "/apple-touch-icon.png" },
+  icons: {
+    icon: [
+      { url: "/favicon.ico", sizes: "any" },
+      { url: "/images/brand/favicon-32.png", sizes: "32x32", type: "image/png" },
+      { url: "/images/brand/favicon-16.png", sizes: "16x16", type: "image/png" },
+    ],
+    apple: [{ url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" }],
+  },
+  manifest: "/site.webmanifest",
 };
 
 export const viewport: Viewport = {
@@ -55,7 +63,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
           Skip to content
         </a>
         <SiteHeader />
-        <main id="main" className="mx-auto w-full max-w-5xl flex-1 px-5 py-10 sm:px-6">
+        <main id="main" className="mx-auto w-full max-w-6xl flex-1 px-5 py-10 sm:px-8">
           {children}
         </main>
         <SiteFooter />

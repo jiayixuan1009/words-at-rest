@@ -1,11 +1,12 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import Breadcrumbs from "@/components/Breadcrumbs";
+import Picture, { Ornament } from "@/components/Picture";
+import { ART } from "@/lib/images";
 import Prose from "@/components/Prose";
 import Byline from "@/components/Byline";
 import Faq, { type FaqItem } from "@/components/Faq";
 import HubSchema from "@/components/HubSchema";
-import { IMAGES, IMAGE_ALT } from "@/lib/images";
 import { seo } from "@/lib/seo";
 
 const DESCRIPTION =
@@ -54,8 +55,7 @@ export default function AdultsPage() {
             Built for grown-ups who want a quiet puzzle — not a kids&apos; app, not a pop-up carnival.
           </p>
         </div>
-        {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img src={IMAGES.adults} alt={IMAGE_ALT.adults} className="aspect-[4/3] w-full rounded-sm object-cover" />
+        <Picture art={ART.adultsHero} priority sizes="(min-width: 640px) 50vw, 100vw" className="aspect-[4/3] w-full rounded-[3px] border border-[#d4cbb8] object-cover" />
       </div>
       <Prose>
         <p>
@@ -89,6 +89,9 @@ export default function AdultsPage() {
             account, no email address.
           </li>
         </ul>
+        <figure className="not-prose float-right ml-6 mt-2 hidden w-56 sm:block">
+          <Picture art={ART.adultsNoTimer} sizes="224px" className="h-auto w-full" />
+        </figure>
         <h2>Why do adults enjoy word searches?</h2>
         <p>
           A word search asks for just enough attention to quiet the rest of the day. There is a clear

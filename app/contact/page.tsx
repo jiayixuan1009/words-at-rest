@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import Breadcrumbs from "@/components/Breadcrumbs";
+import Picture from "@/components/Picture";
+import { ART } from "@/lib/images";
 import Prose from "@/components/Prose";
 import HubSchema from "@/components/HubSchema";
 import { SITE } from "@/lib/site";
@@ -21,6 +23,7 @@ export default function ContactPage() {
       <Breadcrumbs items={[{ name: "Contact", href: "/contact" }]} />
       <Prose>
         <h1 className="text-4xl font-semibold tracking-tight">Contact us</h1>
+        <Picture art={ART.contactSpot} priority sizes="(min-width: 640px) 360px, 80vw" className="my-4 h-auto w-full max-w-[360px]" />
         <p>
           Words at Rest is an independent site edited by{" "}
           <Link href={SITE.editor.aboutPath}>{SITE.editor.name}</Link>. We read every message and aim

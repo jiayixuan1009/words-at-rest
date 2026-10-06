@@ -28,7 +28,7 @@ across reload, large-print toggle works, zero console errors.
 ## Routes (all SSR, grid letters in initial HTML)
 `/` · `/daily` · `/daily/[date]` (valid from DAILY_START to today UTC, else 404) · `/themes` · `/themes/[theme]` ·
 `/themes/[theme]/[slug]` · `/difficulty/easy|medium|hard` · `/large-print` · `/how-to-play` (HowTo JSON-LD) · `/adults` ·
-`/privacy` · `/terms` · `/about` · `/contact` · `/sitemap.xml` · `/robots.txt` · `/icon.svg` · custom 404.
+`/privacy` · `/terms` · `/about` · `/contact` · `/sitemap.xml` · `/robots.txt` · `/favicon.ico` · `/site.webmanifest` · custom 404.
 Each page: unique title/description, canonical (https://wordsatrest.com/...), breadcrumbs + BreadcrumbList JSON-LD;
 puzzle pages add WebPage/Game JSON-LD.
 
@@ -63,3 +63,16 @@ it changes their Cloudflare account.)
    (Git OAuth link can't be done via API — user must click it.)
 3. Then do the domain move above.
 CLI alternative: `npx cf auth login` (interactive, user) or `CLOUDFLARE_API_TOKEN` + `CLOUDFLARE_ACCOUNT_ID`, then `npm run deploy`.
+
+## Art set (2026-10-06)
+
+- All imagery is the hand-made gouache/risograph illustration set (no stock photos; the old
+  Unsplash photos and `public/images/ATTRIBUTION.md` were removed). Files live in
+  `public/images/<group>/…` per `design/asset-manifest.csv` (`original_application_path`).
+- Registry + alts: `lib/images.ts` (`ART`, `DIFFICULTY_ART`, `themeArt`). Render with
+  `components/Picture.tsx` (width/height, srcset, lazy by default, `priority` for LCP).
+- Responsive variants (`-480/-640/-800/-960/-1200.webp`, `brand/logo-lockup-480.webp`):
+  `node scripts/derive-images.mjs`.
+- Social cards: `node scripts/generate-og.mjs` overlays titles on the text-free bases in
+  `design/og-base/` → `public/og/*.jpg` (same URLs as before, ~40–80KB each).
+- Home: first screen is the Daily launcher (`components/DailyLauncher.tsx`).

@@ -1,3 +1,5 @@
+import { ART } from "@/lib/images";
+
 /**
  * AdSense placeholder. Reserves space (avoids layout shift) but loads NO ad script.
  * After AdSense approval: render <ins class="adsbygoogle" data-ad-client={ADSENSE_CLIENT}
@@ -6,8 +8,13 @@
  */
 export default function AdSlot({ slot, label = "Advertisement" }: { slot: string; label?: string }) {
   if (process.env.NODE_ENV === "production" && !process.env.SHOW_AD_PLACEHOLDERS) {
-    // Keep space reserved but invisible in production until ads are enabled.
-    return <div data-ad-slot={slot} aria-hidden="true" className="my-8 min-h-[90px]" />;
+    // Space stays reserved; until ads are enabled it shows a quiet painted rule (decorative).
+    return (
+      <div data-ad-slot={slot} aria-hidden="true" className="no-print my-8 flex min-h-[90px] items-center justify-center">
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img src={ART.adSpacer.src} width={364} height={20} alt="" loading="lazy" decoding="async" className="max-w-full opacity-70" style={{ height: "auto" }} />
+      </div>
+    );
   }
   return (
     <div
