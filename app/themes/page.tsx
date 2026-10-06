@@ -43,7 +43,7 @@ export default function ThemesPage() {
         ))}
       </ul>
       <section className="mt-14 max-w-3xl space-y-4 text-lg leading-relaxed text-[var(--ink-soft)]">
-        <h2 className="font-serif text-2xl font-semibold text-[var(--ink)]">How are the themes organised?</h2>
+        <h2 className="font-serif text-2xl font-semibold text-[var(--ink)]">How are the themes organized?</h2>
         <p>
           <strong className="text-[var(--ink)]">Seasonal themes</strong> —{" "}
           <Link href="/themes/halloween">Halloween</Link>, <Link href="/themes/fall">fall</Link> and{" "}

@@ -25,6 +25,40 @@ export default function PrivacyPage() {
         <Ornament art={ART.legalOrnament} width={200} className="!justify-start" />
         <h1 className="text-4xl font-semibold tracking-tight">Privacy Policy</h1>
         <p className="text-base text-stone-600">Last updated: {SITE.lastUpdatedLegal}</p>
+        <section
+          aria-labelledby="privacy-summary"
+          className="rounded-[4px] border border-[#cbbfa6] bg-[var(--paper-deep)] p-5 [&_li]:ml-5"
+        >
+          <h2 id="privacy-summary" className="!mt-0">Privacy in plain English</h2>
+          <ul className="mt-3 space-y-2">
+            <li>
+              <strong>What we collect:</strong> aggregate traffic statistics from Google Analytics 4, such
+              as which pages are visited, roughly from where, and on what kind of device. GA4 uses
+              cookies to do this. Our host, Cloudflare, also processes standard technical data such as IP
+              addresses to deliver and protect the Site.{" "}
+              <a href="#analytics">How analytics works</a>
+            </li>
+            <li>
+              <strong>What we don’t:</strong> there are no accounts, so we never ask for your name or
+              email address. We only have your email if you write to us.{" "}
+              <a href="#collect">What we collect</a>
+            </li>
+            <li>
+              <strong>Your puzzle progress</strong> (found words and your large-print setting) is saved
+              only in your own browser. We never receive it, and clearing your browser data erases it.{" "}
+              <a href="#cookies">Cookies and storage</a>
+            </li>
+            <li>
+              <strong>We do not sell your personal information.</strong> Ads are planned to keep the
+              site free; this policy explains what changes when they go live.{" "}
+              <a href="#advertising">Advertising</a>
+            </li>
+            <li>
+              <strong>Your choices:</strong> you can opt out of Google Analytics and ask us about your
+              data at any time. <a href="#your-rights">Your rights</a>
+            </li>
+          </ul>
+        </section>
         <p>
           This Privacy Policy describes how {SITE.name} (“we”, “us”) operates the website{" "}
           {SITE.domain} (the “Site”) and how information is handled when you visit. The Site offers
@@ -39,7 +73,7 @@ export default function PrivacyPage() {
           separate business street address on this Site.
         </p>
 
-        <h2>Information we collect</h2>
+        <h2 id="collect">Information we collect</h2>
         <ul>
           <li>
             <strong>Information stored only on your device.</strong> Puzzle progress (which words you
@@ -64,7 +98,7 @@ export default function PrivacyPage() {
           health data, or payment card numbers). The Site does not process payments.
         </p>
 
-        <h2>Cookies and similar technologies</h2>
+        <h2 id="cookies">Cookies and similar technologies</h2>
         <p>
           We and our partners may use cookies, local storage, pixels and similar technologies to:
         </p>
@@ -79,7 +113,7 @@ export default function PrivacyPage() {
           before non-essential cookies are used.
         </p>
 
-        <h2>Analytics</h2>
+        <h2 id="analytics">Analytics</h2>
         <p>
           We use Google Analytics 4 (GA4) to see aggregate traffic statistics — for example which
           pages and puzzles are popular — so we can improve the Site. GA4 sets cookies and collects
@@ -95,7 +129,7 @@ export default function PrivacyPage() {
           , or by blocking cookies in your browser.
         </p>
 
-        <h2>Advertising (Google AdSense)</h2>
+        <h2 id="advertising">Advertising (Google AdSense)</h2>
         <p>
           The Site is intended to be supported by advertising. We use, or plan to use, Google AdSense
           (and may use related Google advertising services). Third-party vendors, including Google,
@@ -132,7 +166,7 @@ export default function PrivacyPage() {
           <li>To protect against abuse and to comply with law.</li>
         </ul>
 
-        <h2>Sharing</h2>
+        <h2 id="sharing">Sharing</h2>
         <p>
           We do not sell your personal information for money. We share information only with service
           providers that help us run the Site (such as hosting/CDN, analytics and advertising
@@ -140,7 +174,7 @@ export default function PrivacyPage() {
           data under their own privacy policies (for example Cloudflare and Google).
         </p>
 
-        <h2>Your rights and choices</h2>
+        <h2 id="your-rights">Your rights and choices</h2>
         <p>
           Depending on where you live (for example under the GDPR, UK GDPR, or California privacy
           laws such as the CCPA/CPRA), you may have the right to access, correct, delete or obtain a
@@ -187,7 +221,7 @@ export default function PrivacyPage() {
           policy.
         </p>
 
-        <h2>Contact</h2>
+        <h2 id="contact">Contact</h2>
         <p>
           Privacy questions or requests:{" "}
           <a href={`mailto:${SITE.contactEmail}`}>{SITE.contactEmail}</a>.

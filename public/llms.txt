@@ -20,6 +20,7 @@ Key facts:
 
 ## About
 - [About Words at Rest and the editor](https://wordsatrest.com/about)
+- [Accessibility statement](https://wordsatrest.com/accessibility): large print, contrast, keyboard and screen reader status, known issues
 - [Contact](https://wordsatrest.com/contact)
 - [Privacy policy](https://wordsatrest.com/privacy) · [Terms](https://wordsatrest.com/terms)
 

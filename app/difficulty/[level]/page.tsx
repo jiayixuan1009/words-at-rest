@@ -44,7 +44,7 @@ const COPY: Record<
     how: "Each medium grid hides 14 words in 144 letters. Words can run across, down or diagonally (top-left to bottom-right, or bottom-left to top-right), but always read forwards. Diagonal words are the ones most people miss, so they are worth looking for on purpose.",
     tips: [
       "After rows and columns, scan each diagonal line once in both diagonal directions.",
-      "Look for the first letter of a word, then check its diagonal neighbours.",
+      "Look for the first letter of a word, then check its diagonal neighbors.",
       "Words can cross and share letters — do not skip highlighted cells.",
     ],
     next: { href: "/difficulty/hard", label: "Want a real challenge? Try hard puzzles" },

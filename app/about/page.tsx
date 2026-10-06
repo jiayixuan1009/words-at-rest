@@ -17,6 +17,30 @@ const CITED = [CITATIONS.wcagContrast, CITATIONS.niaCognitiveHealth, CITATIONS.a
 
 const DATES = routeDates("/about");
 
+const RULES: Record<string, string> = {
+  easy: "words read forwards only, across or down.",
+  medium: "adds diagonals; nothing is hidden backwards.",
+  hard: "all eight directions, including backwards and upwards.",
+  large: "across and down only, with extra-large letters.",
+};
+
+/** Real grid sizes / word counts, read from the published puzzles. */
+function levelFacts() {
+  const all = getPuzzles();
+  const pick = (name: string, key: string, ps: typeof all) => ({
+    name,
+    size: ps[0]?.gridSize,
+    words: ps[0]?.words.length,
+    rule: RULES[key],
+  });
+  return [
+    pick("Easy", "easy", all.filter((p) => !p.largePrint && p.difficulty === "easy")),
+    pick("Medium", "medium", all.filter((p) => p.difficulty === "medium")),
+    pick("Hard", "hard", all.filter((p) => p.difficulty === "hard")),
+    pick("Large print", "large", all.filter((p) => p.largePrint)),
+  ];
+}
+
 const DESCRIPTION =
   "Who makes Words at Rest: an independent site publishing calm, free word search puzzles for adults and seniors, edited by Reggie J. Our principles and how puzzles are made.";
 
@@ -29,6 +53,7 @@ export const metadata: Metadata = seo({
 export default function AboutPage() {
   const themes = getThemes().length;
   const puzzles = getPuzzles().length;
+  const LEVELS = levelFacts();
   return (
     <>
       <Breadcrumbs items={[{ name: "About", href: "/about" }]} />
@@ -71,19 +96,35 @@ export default function AboutPage() {
           </li>
         </ul>
 
-        <h2>How are the puzzles made?</h2>
+        <h2 id="how-we-make-puzzles">How we make our puzzles</h2>
         <p>
-          Each theme starts as a hand-written word bank of around 40 words. We remove brand names,
-          characters and anything that might be upsetting, and favour words that are pleasant to
-          read. A small in-house generator then places a selection of those words into a
-          grid — across and down for easy puzzles, adding diagonals for medium and all eight
-          directions for hard — and fills the gaps with random letters. Every grid is generated once
-          and stored, so a puzzle never changes after it is published.
+          <strong>Written and reviewed by a person.</strong> Every theme starts as a word bank of
+          about 40 words that {SITE.editor.name} writes and reviews. Lists use American
+          English spelling, leave out brand names, licensed characters and anything that might be
+          upsetting, and favor words that are pleasant to read. Every list is our own; we do not copy
+          word lists from other puzzle sites.
         </p>
         <p>
-          The generator records the exact position of every word, which is how the grid knows when
-          you have found one. Large print puzzles use a separate, smaller layout with only across and
-          down words, so they stay comfortable on a small phone.
+          <strong>Placed by a small in-house generator.</strong> A script picks words from the
+          theme’s bank, places them in the grid and fills the gaps with random letters. It records
+          the exact position of every word, which is how the page knows when you have found one.
+          Each grid is generated once and saved, so a puzzle never changes after it is published.
+        </p>
+        <p>
+          <strong>Clear difficulty rules.</strong> These are the settings the generator actually
+          uses for the puzzles on the site today:
+        </p>
+        <ul>
+          {LEVELS.map((l) => (
+            <li key={l.name}>
+              <strong>{l.name}:</strong> {l.size}×{l.size} grid, {l.words} words — {l.rule}
+            </li>
+          ))}
+        </ul>
+        <p>
+          <strong>Corrections.</strong> If you spot a typo, a misspelled word or a word that does not
+          belong, tell us through the <Link href="/contact">contact page</Link>. We fix the list or
+          puzzle, and the “Updated” date on that page changes automatically when the fix goes live.
         </p>
 
         <h2>Our principles</h2>
@@ -116,6 +157,23 @@ export default function AboutPage() {
             <Link href="/adults">word search for adults</Link>.
           </li>
         </ul>
+
+        <h2 id="promises">Our promises</h2>
+        <p>Plain commitments we can keep, and that you can hold us to:</p>
+        <ul>
+          <li>You will never need an account or sign-up to play.</li>
+          <li>The puzzles stay free to play.</li>
+          <li>We do not sell your personal information.</li>
+          <li>Your puzzle progress stays in your own browser — we do not collect it.</li>
+          <li>No countdown timers, and ads (when shown) never cover the puzzle.</li>
+          <li>When we get something wrong, we fix it and update the page date.</li>
+        </ul>
+        <p>
+          How we handle data is explained in plain English at the top of our{" "}
+          <Link href="/privacy">privacy policy</Link>, and our{" "}
+          <Link href="/accessibility">accessibility statement</Link> lists what works today and
+          what does not yet.
+        </p>
 
         <h2>Who is it for?</h2>
         <p>

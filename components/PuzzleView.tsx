@@ -4,6 +4,7 @@ import AdSlot from "./AdSlot";
 import JsonLd from "./JsonLd";
 import PuzzleCard from "./PuzzleCard";
 import Byline from "./Byline";
+import TrustFacts from "./TrustFacts";
 import { getPuzzlesByTheme, getTheme } from "@/lib/data";
 import { absoluteUrl, SITE } from "@/lib/site";
 import { authorRef, ORG_ID, themeNoun, webPageNode } from "@/lib/seo";
@@ -56,6 +57,7 @@ export default function PuzzleView({
           placements={puzzle.placements}
           defaultLargePrint={puzzle.largePrint}
         />
+        <TrustFacts variant="compact" className="mt-4" />
       </div>
 
       <AdSlot slot="below-grid" />

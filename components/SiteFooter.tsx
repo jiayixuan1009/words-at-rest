@@ -2,11 +2,15 @@ import Link from "next/link";
 import { SITE } from "@/lib/site";
 import { ART } from "@/lib/images";
 import { Ornament } from "./Picture";
+import TrustFacts from "./TrustFacts";
 
 export default function SiteFooter() {
   return (
     <footer className="site-footer mt-auto border-t border-[#d4cbb8]/70">
       <Ornament art={ART.flourish} width={120} className="-mt-5 mb-2" />
+      <div className="mx-auto max-w-6xl px-5 pb-2 sm:px-8">
+        <TrustFacts className="border-b border-[#d4cbb8]/70 pb-4" />
+      </div>
       <div className="mx-auto flex max-w-6xl flex-col gap-6 px-5 pb-10 pt-4 text-[1rem] text-[var(--ink-soft)] sm:flex-row sm:items-start sm:justify-between sm:px-8">
         <div>
           {/* eslint-disable-next-line @next/next/no-img-element */}
@@ -19,9 +23,10 @@ export default function SiteFooter() {
           </p>
         </div>
         <nav aria-label="Footer">
-          <ul className="flex flex-wrap gap-x-5 gap-y-2">
+          <ul className="flex flex-wrap gap-x-5 [&_a]:inline-flex [&_a]:min-h-10 [&_a]:items-center">
             <li><Link href="/about">About</Link></li>
             <li><Link href="/adults">For adults</Link></li>
+            <li><Link href="/accessibility">Accessibility</Link></li>
             <li><Link href="/privacy">Privacy</Link></li>
             <li><Link href="/terms">Terms</Link></li>
             <li><Link href="/contact">Contact</Link></li>

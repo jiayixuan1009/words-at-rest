@@ -214,14 +214,14 @@ export default function PuzzleGrid({
           type="button"
           onClick={toggleLargePrint}
           aria-pressed={largePrint}
-          className="rounded-full border border-[#b8a990] px-4 py-2 font-medium hover:bg-[#ebe4d6]/60"
+          className="min-h-10 rounded-full border border-[#b8a990] px-4 py-2 font-medium hover:bg-[#ebe4d6]/60"
         >
           {largePrint ? "Standard print" : "Large print"}
         </button>
         <button
           type="button"
           onClick={reset}
-          className="rounded-full border border-[#d4cbb8] px-4 py-2 hover:bg-[#ebe4d6]/60"
+          className="min-h-10 rounded-full border border-[#d4cbb8] px-4 py-2 hover:bg-[#ebe4d6]/60"
         >
           Reset
         </button>

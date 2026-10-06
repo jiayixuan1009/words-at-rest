@@ -21,7 +21,7 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
   },
   fall: {
     vocabulary:
-      "The fall list leans into the slow texture of the season: acorns, maple, chestnuts, woodsmoke, haybales, footpaths and frost. Colour words such as amber, golden and rust sit beside months and walks, so the puzzle reads a little like a country diary.",
+      "The fall list leans into the slow texture of the season: acorns, maple, chestnuts, woodsmoke, haybales, footpaths and frost. Color words such as amber, golden and rust sit beside months and walks, so the puzzle reads a little like a country diary.",
     goodFor:
       "A good choice for September to November mornings, autumn-themed clubs and anyone who wants a seasonal puzzle that is not about Halloween. Words are everyday English with no brand names.",
     tip: "Several fall words share endings — MIGRATION and MIGRATING, CORNFIELD and CORNMAZE. When you find one, check the letters nearby before you move on; the grid often places related words close together by chance.",
@@ -37,7 +37,7 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
     vocabulary:
       "The animals list ranges from back-garden creatures (hedgehog, robin, sparrow, mole) to the wider world (giraffe, kangaroo, walrus, flamingo). Every word is a common English animal name — no cartoon mascots, no zoo brands.",
     goodFor:
-      "A good all-ages-adult theme: easy to recognise, pleasant to read aloud and well suited to grandparents solving with grandchildren of 13 and up. Animal names are also a classic choice for gentle memory and vocabulary practice.",
+      "A good all-ages-adult theme: easy to recognize, pleasant to read aloud and well suited to grandparents solving with grandchildren of 13 and up. Animal names are also a classic choice for gentle memory and vocabulary practice.",
     tip: "Animal names often start with less common letters — K for KOALA and KANGAROO, Z for ZEBRA, W for WALRUS. Scan the grid for those first letters and follow each one outwards.",
   },
   space: {
@@ -45,7 +45,7 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
       "Space puzzles use real astronomy vocabulary: the eight planets, nebulae, comets, quasars and pulsars, eclipses, equinoxes and constellations. There are no film or franchise names — just the sky as astronomers describe it.",
     goodFor:
       "Ideal for curious adults, stargazers and anyone who enjoys words with unusual letters. Longer words on the list such as CONSTELLATION, TELESCOPE and ASTRONOMY make the search feel satisfying.",
-    tip: "Q and Z are rare in a grid, so QUASAR and ZENITH are quick wins whenever they appear. Look for the letter, then check all eight neighbours for the second letter of the word.",
+    tip: "Q and Z are rare in a grid, so QUASAR and ZENITH are quick wins whenever they appear. Look for the letter, then check all eight neighbors for the second letter of the word.",
   },
   sports: {
     vocabulary:
@@ -86,7 +86,7 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
     vocabulary:
       "Travel puzzles draw on maps, trains, ferries, inns, markets, museums and postcards — the vocabulary of slow journeys rather than airports. No airline, hotel or booking brands.",
     goodFor:
-      "A good theme for armchair travellers, retirees planning a trip and anyone who likes to daydream between words. The medium grid adds diagonals for a little extra wandering.",
+      "A good theme for armchair travelers, retirees planning a trip and anyone who likes to daydream between words. The medium grid adds diagonals for a little extra wandering.",
     tip: "Longer travel words have patterns that stand out: the “OU” in SOUVENIR, the “SSP” in PASSPORT, the repeating I-T-I at the start of ITINERARY. Spot the pattern, then trace it in a straight line in both directions.",
   },
   music: {

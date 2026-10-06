@@ -7,7 +7,7 @@ import { DIFFICULTIES } from "@/lib/types";
 export default function sitemap(): MetadataRoute.Sitemap {
   const staticPaths = [
     "/", "/daily", "/themes", "/large-print", "/how-to-play", "/adults",
-    "/about", "/contact", "/privacy", "/terms",
+    "/about", "/accessibility", "/contact", "/privacy", "/terms",
   ];
   const daily = getDailyArchive(366); // dated pages from DAILY_START → current daily date (UTC)
   return [
