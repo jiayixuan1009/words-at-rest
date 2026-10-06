@@ -8,6 +8,7 @@ import {
   currentDailyDate,
   formatLongDate,
   getDailyPuzzle,
+  isValidDailyDate,
   getTheme,
   latestVisibleDailyDate,
 } from "@/lib/data";
@@ -83,7 +84,7 @@ export default async function CalendarMonthPage({ params }: Props) {
   const visibleInMonth: string[] = [];
   for (let d = 1; d <= dim; d++) {
     const date = `${ym}-${String(d).padStart(2, "0")}`;
-    if (date >= SITE.dailyStart && date <= today) visibleInMonth.push(date);
+    if (isValidDailyDate(date)) visibleInMonth.push(date);
   }
 
   const itemList = {
@@ -169,7 +170,7 @@ export default async function CalendarMonthPage({ params }: Props) {
                   const beforeLaunch = date < SITE.dailyStart;
                   const isFuture = date > today;
                   const isToday = date === today;
-                  if (beforeLaunch || isFuture) {
+                  if (beforeLaunch || isFuture || !isValidDailyDate(date)) {
                     return (
                       <td
                         key={date}
@@ -177,6 +178,7 @@ export default async function CalendarMonthPage({ params }: Props) {
                       >
                         <span className="text-base font-semibold">{day}</span>
                         {isFuture && <span className="mt-1 block text-sm">Coming soon</span>}
+                        {!beforeLaunch && !isFuture && <span className="mt-1 block text-sm">Not published</span>}
                       </td>
                     );
                   }
@@ -211,11 +213,11 @@ export default async function CalendarMonthPage({ params }: Props) {
           const day = i + 1;
           const date = `${ym}-${String(day).padStart(2, "0")}`;
           if (date < SITE.dailyStart) return null;
-          if (date > today) {
+          if (!isValidDailyDate(date)) {
             return (
               <li key={date} className="rounded border border-[#efe7d9] bg-[#f0ebe3] px-4 py-3 text-base text-stone-400">
                 <span className="font-semibold">{formatLongDate(date)}</span>
-                <span className="mt-1 block">Coming soon</span>
+                <span className="mt-1 block">{date > today ? "Coming soon" : "Not published"}</span>
               </li>
             );
           }

@@ -5,10 +5,10 @@
  * - No sign-up: there are no accounts, logins or forms.
  * - No timer: PuzzleGrid has no clock or countdown (Calm Mode).
  * - Original word lists: themes are hand-written in data/themes (no licensed characters/brands).
- * - Progress stays on your device: found words + large-print preference live in
- *   localStorage only (PuzzleGrid); nothing about progress is sent to a server.
+ * - Saved paths + grid size preference stay in localStorage. Consented analytics
+ *   may report found-word counts and game events, never the selected paths.
  * Deliberately NOT claimed: "ad-free" / "ad-light" (AdSense is planned) and
- * "no tracking" (GA4 aggregate analytics is on).
+ * "no tracking" (GA4 runs after analytics is accepted).
  */
 const ICON = "h-[1.05em] w-[1.05em] shrink-0 text-[var(--moss)]";
 const svg = { viewBox: "0 0 24 24", fill: "none", stroke: "currentColor", strokeWidth: 1.7, strokeLinecap: "round", strokeLinejoin: "round", "aria-hidden": true, focusable: false } as const;

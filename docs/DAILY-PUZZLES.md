@@ -3,7 +3,7 @@
 ## How the schedule works
 
 - **Timezone:** All daily dates use **UTC**. A new puzzle unlocks at **00:00 UTC** (08:00 Asia/Shanghai). Every visitor worldwide sees the same dated puzzle.
-- **Launch day:** `2026-10-06` is **not** in `data/daily.json`. `getDailyPuzzle("2026-10-06")` still uses the original hash pick over the non-large-print catalog (`animals-hard-01` / Hard Animals Word Search — same as live) so that dated page never changes.
+- **Launch day:** `2026-10-06` is frozen in `data/daily-launch.json` (`animals-hard-01` / Hard Animals Word Search), independent of catalog changes. It is not part of the generated schedule.
 - **From `2026-10-07`:** Each day has a **unique** committed entry in `data/daily.json` (grid, words, placements, seed). Entries are generated ahead of time so midnight UTC does **not** need a deploy.
 - **Never large print.** Daily puzzles use normal easy / medium / hard sizes (10×10 / 12×12 / 15×15).
 - **Difficulty (UTC weekday):**
@@ -22,6 +22,10 @@
 | `/daily/YYYY-MM-DD` | Dated archive (≤ today UTC) |
 | `/calendar` | Current month + “What’s new” log |
 | `/calendar/YYYY-MM` | Specific month (from `2026-10` through current month) |
+
+## Publication safety
+
+Launch day is frozen in `data/daily-launch.json` (original `animals-hard-01` ID, grid and progress key), independent of the catalog. There is no hash fallback. A missing date is **unpublished**: the dated URL returns 404, calendar/sitemap do not link it, and `/daily` and the homepage explain that today's puzzle is not ready. Do not replace an already public entry or the frozen launch snapshot. `npm run deploy` runs the buffer check and regression tests first.
 
 ## Daily routine (operator)
 
@@ -44,7 +48,7 @@ CLOUDFLARE_ACCOUNT_ID=b79c11a97188ceeb150acb0b6c4cda97 npm run deploy
 
 Then verify:
 
-1. https://wordsatrest.com/daily — today’s title matches the schedule (or launch hash pick on 2026-10-06).
+1. https://wordsatrest.com/daily — today’s title matches the schedule (or frozen launch snapshot on 2026-10-06).
 2. https://wordsatrest.com/calendar — today is linked; tomorrow is greyed.
 3. Tomorrow’s URL (`/daily/YYYY-MM-DD` for a future day) returns **404** until that UTC day.
 4. Optional: `DAILY_TODAY=YYYY-MM-DD npm run daily:check` to simulate another “today”.

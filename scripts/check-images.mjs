@@ -4,8 +4,9 @@
 // Usage: node scripts/check-images.mjs
 import { existsSync, readdirSync, readFileSync } from "node:fs";
 import { join } from "node:path";
+import { fileURLToPath } from "node:url";
 
-const root = new URL("..", import.meta.url).pathname;
+const root = fileURLToPath(new URL("..", import.meta.url));
 const dir = join(root, "public/images/themes");
 const src = readFileSync(join(root, "lib/images.ts"), "utf8");
 const block = src.match(/DIFFICULTY_ART_THEMES[^=]*=\s*new Set\(\[([\s\S]*?)\]\)/);

@@ -1,62 +1,30 @@
 "use client";
 
-/**
- * Lightweight cookie-notice stub. Hidden unless NEXT_PUBLIC_COOKIE_CONSENT=1.
- * Does not block scripts yet — wire Consent Mode v2 before enabling AdSense
- * personalized ads for EEA/UK. Dismissal is stored in localStorage only.
- */
 import { useEffect, useState } from "react";
 import Link from "next/link";
-
-const STORAGE_KEY = "war:cookie-consent";
+import { readConsent, setConsent } from "@/lib/analytics";
+import { SITE } from "@/lib/site";
 
 export default function CookieConsent() {
-  const enabled = process.env.NEXT_PUBLIC_COOKIE_CONSENT === "1";
   const [visible, setVisible] = useState(false);
-
   useEffect(() => {
-    if (!enabled) return;
-    try {
-      if (localStorage.getItem(STORAGE_KEY) !== "1") setVisible(true);
-    } catch {
-      setVisible(true);
-    }
-  }, [enabled]);
-
-  if (!enabled || !visible) return null;
-
-  const dismiss = () => {
-    try {
-      localStorage.setItem(STORAGE_KEY, "1");
-    } catch {
-      /* ignore */
-    }
+    setVisible(readConsent() === null);
+    const open = () => setVisible(true);
+    window.addEventListener("war:open-analytics-choices", open);
+    return () => window.removeEventListener("war:open-analytics-choices", open);
+  }, []);
+  if (!/^G-[A-Z0-9]+$/i.test(SITE.gaId) || !visible) return null;
+  const choose = (value: "accepted" | "rejected") => {
+    setConsent(value);
     setVisible(false);
   };
-
   return (
-    <div
-      role="dialog"
-      aria-label="Cookie notice"
-      className="fixed inset-x-0 bottom-0 z-50 border-t border-[#d4cbb8] bg-[#F4EFE6]/95 p-4 shadow-lg backdrop-blur sm:p-5"
-    >
-      <div className="mx-auto flex max-w-5xl flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
-        <p className="font-sans text-base text-[var(--ink)]">
-          We use cookies and similar technologies for preferences, analytics (when enabled), and
-          advertising (when enabled). See our{" "}
-          <Link href="/privacy" className="underline">
-            Privacy Policy
-          </Link>
-          .
-        </p>
-        <button
-          type="button"
-          onClick={dismiss}
-          className="min-h-11 shrink-0 rounded-full border border-[#b8a990] bg-white px-4 py-2 text-base font-medium hover:bg-[#ebe4d6]/60"
-        >
-          Got it
-        </button>
+    <aside aria-label="Analytics choices" className="no-print border-y border-[#d4cbb8] bg-[#efe7d9]">
+      <div className="mx-auto flex max-w-6xl flex-wrap items-center gap-3 px-4 py-3 font-sans text-base sm:px-8">
+        <p className="flex-1 basis-64">Allow optional analytics to help improve our puzzles? Playing and saving progress work either way. <Link href="/privacy#analytics">Privacy details</Link></p>
+        <button type="button" onClick={() => choose("rejected")} className="min-h-11 rounded-full border border-[#b8a990] px-4 py-2">Reject analytics</button>
+        <button type="button" onClick={() => choose("accepted")} className="min-h-11 rounded-full border border-[#b8a990] px-4 py-2">Allow analytics</button>
       </div>
-    </div>
+    </aside>
   );
 }

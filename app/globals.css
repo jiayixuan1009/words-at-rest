@@ -482,6 +482,8 @@
   }
 }
 
+.puzzle-cell:focus-visible { outline: 3px solid #9a4b10; outline-offset: -3px; z-index: 1; }
+
 @media print {
   header, footer, nav, button, [data-ad-slot], .no-print { display: none !important; }
   body { background: white; }

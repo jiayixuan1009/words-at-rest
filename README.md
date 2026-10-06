@@ -89,5 +89,8 @@ custom domains `wordsatrest.com` + `www` off the Pages project (and delete the t
 and attach them to the Worker as Custom Domains. CLI alternative: `npx cf auth login` (or `CLOUDFLARE_API_TOKEN`) +
 `CLOUDFLARE_ACCOUNT_ID`, then `npm run deploy:dry-run` / `npm run deploy`.
 
-**Stubbed:** placement engine (swap/harden; MIT engine TBD), hashed daily rotation, contact inbox, legal drafts,
-analytics/ads/consent not wired.
+**Still needs operational verification:** contact inbox, Search Console, advertising approval/CMP and real analytics reports. Daily uses a committed schedule with a frozen launch snapshot; missing dates are unpublished. Keyboard and pointer selection accept real word occurrences and save their actual paths.
+
+**Measurement:** Analytics is opt-in. Disable GA4 Enhanced Measurement's browser-history page views when using our explicit SPA `page_view` events, then verify events in DebugView. See `docs/AUDIT-REMEDIATION.md` for status and remaining checks.
+
+**Not enabled:** advertising integration. The analytics-only consent controls are not a certified advertising CMP.

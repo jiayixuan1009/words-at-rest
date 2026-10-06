@@ -28,10 +28,15 @@ export const metadata: Metadata = seo({
 export default function ThemesPage() {
   const themes = getThemes();
   const total = getPuzzles().length;
+  const groups = [
+    { id: "seasonal", name: "Seasonal", items: themes.filter((t) => t.season !== "evergreen") },
+    { id: "evergreen", name: "Anytime themes", items: themes.filter((t) => t.season === "evergreen" && !t.slug.endsWith("-pack")) },
+    { id: "packs", name: "Large print & challenge packs", items: themes.filter((t) => t.slug.endsWith("-pack")) },
+  ].filter((g) => g.items.length);
   return (
     <>
       <Breadcrumbs items={[{ name: "Themes", href: "/themes" }]} />
-      <Picture art={ART.themesBanner} priority sizes="(min-width: 1152px) 1088px, 100vw" className="mb-8 aspect-[16/5] w-full rounded-[3px] object-cover" />
+      <Picture art={ART.themesBanner} sizes="(min-width: 1152px) 1088px, 100vw" className="mb-8 hidden aspect-[16/5] w-full rounded-[3px] object-cover sm:block" />
       <h1 className="font-serif text-4xl tracking-tight sm:text-5xl">Word search themes</h1>
       <Byline dates={DATES} />
       <p className="mt-4 max-w-2xl text-lg leading-relaxed text-[var(--ink-soft)]">
@@ -39,13 +44,15 @@ export default function ThemesPage() {
         and several puzzles across difficulty levels — written for adults, free of licensed
         characters.
       </p>
-      <ul className="mt-10 grid gap-10 sm:grid-cols-2 lg:grid-cols-3">
-        {themes.map((t) => (
-          <li key={t.id}>
-            <ThemeCard theme={t} />
-          </li>
-        ))}
-      </ul>
+      <nav aria-label="Theme groups" className="mt-4 flex flex-wrap gap-2">
+        {groups.map((g) => <Link key={g.id} href={`#${g.id}`} className="chip min-h-11">{g.name}</Link>)}
+      </nav>
+      {groups.map((g) => <section key={g.id} id={g.id} aria-labelledby={`${g.id}-heading`} className="mt-10 scroll-mt-4">
+        <h2 id={`${g.id}-heading`} className="font-serif text-3xl">{g.name}</h2>
+        <ul className="mt-5 grid gap-10 sm:grid-cols-2 lg:grid-cols-3">
+          {g.items.map((t) => <li key={t.id}><ThemeCard theme={t} /></li>)}
+        </ul>
+      </section>)}
       <section className="mt-14 max-w-3xl space-y-4 text-lg leading-relaxed text-[var(--ink-soft)]">
         <h2 className="font-serif text-2xl font-semibold text-[var(--ink)]">How are the themes organized?</h2>
         <p>

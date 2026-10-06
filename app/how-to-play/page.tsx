@@ -35,7 +35,7 @@ const STEPS = [
   { name: "Read the word list", text: "The words to find are listed beside (or below) the grid." },
   {
     name: "Select a word",
-    text: "Drag across the letters of a word, or tap its first letter and then its last letter.",
+    text: "Drag across a word, tap its first and last letters, or use arrow keys and Enter or Space to select each end.",
   },
   { name: "Watch it highlight", text: "Found words stay highlighted in the grid and are crossed off the list." },
   { name: "Finish at your pace", text: "There is no timer. Your progress is saved on this device." },
@@ -44,7 +44,7 @@ const STEPS = [
 const FAQ: FaqItem[] = [
   {
     q: "How do you play word search on a phone or tablet?",
-    a: "Tap the first letter of the word, then tap its last letter — the letters in between are selected for you. You can also drag your finger across the word. If the letters feel small, press Large print above the grid for bigger letters.",
+    a: "Tap the first letter of the word, then tap its last letter — the letters in between are selected for you. You can also drag your finger across the word. If the letters feel small, choose Larger in the Grid size switch above the grid.",
   },
   {
     q: "Can words go backwards or diagonally?",
@@ -75,6 +75,7 @@ export default function HowToPlayPage() {
         <h1 className="font-serif text-4xl tracking-tight">How to play word search online</h1>
         <Byline dates={DATES} />
         <h2>What is a word search?</h2>
+        <p>Keyboard: Tab into the letter grid, use arrow keys to move, and press Enter or Space on the first and last letters. Escape cancels a selection. Home and End move to the ends of a row; Ctrl+Home and Ctrl+End move to the first and last cells.</p>
         <p id="definition" className="definition rounded-sm border-l-4 border-[var(--moss)] bg-[#ebe4d6]/50 py-3 pl-4">
           <strong className="text-[var(--ink)]">A word search</strong> is a puzzle made of a square
           grid of letters with a list of words hidden inside it. The goal is to find and mark every

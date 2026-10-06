@@ -1,6 +1,7 @@
 import { puzzles } from "../data/puzzles";
 import { themes } from "../data/themes";
 import dailySchedule from "../data/daily.json";
+import launchPuzzle from "../data/daily-launch.json";
 import { SITE } from "./site";
 import type { Difficulty, Puzzle, Theme } from "./types";
 import { DIFFICULTIES } from "./types";
@@ -48,8 +49,8 @@ export function puzzlePath(p: Puzzle): string {
 
 // ---- Daily ---------------------------------------------------------------
 // From 2026-10-07: unique puzzles in data/daily.json (pre-queued; unlock at
-// midnight UTC with no deploy). 2026-10-06 keeps the original hash pick over
-// the non-large-print catalog so the already-live page never changes.
+// midnight UTC with no deploy). Launch day is a frozen snapshot, independent
+// of catalog size/order. Unscheduled dates are not published.
 // Archive /sitemap /calendar only include dates from SITE.dailyStart through
 // today UTC. Future dates 404 via isValidDailyDate. "calendar" is not a date.
 
@@ -95,21 +96,18 @@ export function isValidDailyDate(date: string): boolean {
   if (!DATE_RE.test(date)) return false;
   const d = new Date(`${date}T00:00:00Z`);
   if (Number.isNaN(d.getTime()) || d.toISOString().slice(0, 10) !== date) return false;
-  return date >= SITE.dailyStart && date <= currentDailyDate();
+  return date >= SITE.dailyStart && date <= currentDailyDate() && hasDailyPuzzle(date);
 }
 
-/** Hash pick over the non-large-print catalog (launch-day fallback). */
-export function hashDailyPuzzle(date: string): Puzzle {
-  const pool = puzzles.filter((p) => !p.largePrint);
-  let h = 2166136261;
-  for (const ch of date) h = Math.imul(h ^ ch.charCodeAt(0), 16777619);
-  return pool[(h >>> 0) % pool.length];
+export function hasDailyPuzzle(date: string): boolean {
+  return date === "2026-10-06" || scheduledByDate.has(date);
 }
 
 export function getDailyPuzzle(date: string): Puzzle {
   const scheduled = scheduledByDate.get(date);
   if (scheduled) return dailyEntryToPuzzle(scheduled);
-  return hashDailyPuzzle(date);
+  if (date === "2026-10-06") return launchPuzzle as Puzzle;
+  throw new Error(`Daily puzzle not published: ${date}`);
 }
 
 /** Archive dates, newest first (past + today only). */
@@ -118,7 +116,8 @@ export function getDailyArchive(limit = 30): string[] {
   const start = new Date(`${SITE.dailyStart}T00:00:00Z`).getTime();
   let t = new Date(`${currentDailyDate()}T00:00:00Z`).getTime();
   while (t >= start && out.length < limit) {
-    out.push(new Date(t).toISOString().slice(0, 10));
+    const date = new Date(t).toISOString().slice(0, 10);
+    if (hasDailyPuzzle(date)) out.push(date);
     t -= 86400000;
   }
   return out;
@@ -132,11 +131,8 @@ export function latestVisibleDailyDate(): string {
     if (e.date <= today && e.date > best) best = e.date;
   }
   if (SITE.dailyStart <= today && SITE.dailyStart > best) best = SITE.dailyStart;
-  // Launch day always counts even without a schedule entry
-  if (today >= SITE.dailyStart) {
-    const archive = getDailyArchive(1);
-    if (archive[0] && archive[0] > best) best = archive[0];
-  }
+  const archive = getDailyArchive(1);
+  if (archive[0] && archive[0] > best) best = archive[0];
   return best;
 }
 

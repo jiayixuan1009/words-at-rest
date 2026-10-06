@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import PlayOptions from "@/components/PlayOptions";
 import Link from "next/link";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import MobileMore from "@/components/MobileMore";
@@ -58,12 +59,13 @@ export default function AdultsPage() {
       <div className="mb-10 grid gap-8 sm:grid-cols-2 sm:items-end">
         <div>
           <h1 className="font-serif text-4xl tracking-tight sm:text-5xl">Word search for adults</h1>
+          <PlayOptions />
           <Byline dates={DATES} />
           <p className="mt-4 text-lg leading-relaxed text-[var(--ink-soft)]">
             Built for grown-ups who want a quiet puzzle — not a kids&apos; app, not a pop-up carnival.
           </p>
         </div>
-        <Picture art={ART.adultsHero} priority sizes="(min-width: 640px) 50vw, 100vw" className="aspect-[4/3] w-full rounded-[3px] border border-[#d4cbb8] object-cover" />
+        <Picture art={ART.adultsHero} priority sizes="(min-width: 640px) 50vw, 100vw" className="hidden aspect-[4/3] w-full rounded-[3px] border border-[#d4cbb8] object-cover sm:block" />
       </div>
       <Prose>
         <p>

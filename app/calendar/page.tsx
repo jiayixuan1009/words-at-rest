@@ -7,6 +7,7 @@ import {
   currentDailyDate,
   formatLongDate,
   getDailyPuzzle,
+  isValidDailyDate,
   getDailyScheduleEntries,
   getTheme,
   latestVisibleDailyDate,
@@ -106,7 +107,7 @@ function MonthGrid({ ym, today }: { ym: string; today: string }) {
                   const beforeLaunch = date < SITE.dailyStart;
                   const isFuture = date > today;
                   const isToday = date === today;
-                  if (beforeLaunch || isFuture) {
+                  if (beforeLaunch || isFuture || !isValidDailyDate(date)) {
                     return (
                       <td
                         key={date}
@@ -114,6 +115,7 @@ function MonthGrid({ ym, today }: { ym: string; today: string }) {
                       >
                         <span className="text-base font-semibold">{day}</span>
                         {isFuture && <span className="mt-1 block text-sm">Coming soon</span>}
+                        {!beforeLaunch && !isFuture && <span className="mt-1 block text-sm">Not published</span>}
                       </td>
                     );
                   }
@@ -149,14 +151,14 @@ function MonthGrid({ ym, today }: { ym: string; today: string }) {
           const day = i + 1;
           const date = `${ym}-${String(day).padStart(2, "0")}`;
           if (date < SITE.dailyStart) return null;
-          if (date > today) {
+          if (!isValidDailyDate(date)) {
             return (
               <li
                 key={date}
                 className="rounded border border-[#efe7d9] bg-[#f0ebe3] px-4 py-3 text-base text-stone-400"
               >
                 <span className="font-semibold">{formatLongDate(date)}</span>
-                <span className="mt-1 block">Coming soon</span>
+                <span className="mt-1 block">{date > today ? "Coming soon" : "Not published"}</span>
               </li>
             );
           }
@@ -190,9 +192,9 @@ function WhatsNew({ today }: { today: string }) {
     .filter((e) => e.date <= today)
     .sort((a, b) => b.date.localeCompare(a.date));
 
-  // Include launch day (hash pick) if visible and not in schedule
+  // Include the frozen launch snapshot if visible and not in schedule.
   const items: Array<{ date: string; title: string; themeId: string; difficulty: string }> = [];
-  if (SITE.dailyStart <= today && !scheduled.some((e) => e.date === SITE.dailyStart)) {
+  if (isValidDailyDate(SITE.dailyStart) && !scheduled.some((e) => e.date === SITE.dailyStart)) {
     const p = getDailyPuzzle(SITE.dailyStart);
     items.push({
       date: SITE.dailyStart,
@@ -261,7 +263,7 @@ export default function CalendarPage() {
     const out: string[] = [];
     let d = SITE.dailyStart;
     while (d <= today) {
-      out.push(d);
+      if (isValidDailyDate(d)) out.push(d);
       const t = new Date(`${d}T00:00:00Z`).getTime() + 86400000;
       d = new Date(t).toISOString().slice(0, 10);
     }
