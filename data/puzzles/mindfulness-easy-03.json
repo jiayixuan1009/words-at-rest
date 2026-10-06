@@ -1,0 +1,208 @@
+{
+  "id": "mindfulness-easy-03",
+  "slug": "mindfulness-easy-03",
+  "themeId": "mindfulness",
+  "title": "Mindfulness: Gentle Walk",
+  "primaryKeyword": "mindfulness word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ATTEND",
+    "AWARE",
+    "FOCUS",
+    "GROUND",
+    "HEAR",
+    "LEAF",
+    "RELAX",
+    "REST",
+    "SLOW",
+    "SPACE"
+  ],
+  "grid": [
+    [
+      "U",
+      "S",
+      "L",
+      "O",
+      "W",
+      "L",
+      "E",
+      "A",
+      "F",
+      "L"
+    ],
+    [
+      "P",
+      "Q",
+      "A",
+      "R",
+      "E",
+      "L",
+      "A",
+      "X",
+      "J",
+      "I"
+    ],
+    [
+      "S",
+      "Q",
+      "I",
+      "Z",
+      "R",
+      "V",
+      "F",
+      "D",
+      "O",
+      "H"
+    ],
+    [
+      "C",
+      "R",
+      "U",
+      "Y",
+      "E",
+      "C",
+      "L",
+      "Y",
+      "T",
+      "F"
+    ],
+    [
+      "H",
+      "U",
+      "A",
+      "G",
+      "S",
+      "I",
+      "M",
+      "Q",
+      "A",
+      "O"
+    ],
+    [
+      "E",
+      "Q",
+      "W",
+      "A",
+      "T",
+      "T",
+      "E",
+      "N",
+      "D",
+      "C"
+    ],
+    [
+      "A",
+      "R",
+      "A",
+      "S",
+      "P",
+      "A",
+      "C",
+      "E",
+      "N",
+      "U"
+    ],
+    [
+      "R",
+      "F",
+      "R",
+      "R",
+      "G",
+      "I",
+      "B",
+      "N",
+      "P",
+      "S"
+    ],
+    [
+      "D",
+      "C",
+      "E",
+      "F",
+      "M",
+      "Z",
+      "O",
+      "T",
+      "J",
+      "B"
+    ],
+    [
+      "G",
+      "R",
+      "O",
+      "U",
+      "N",
+      "D",
+      "N",
+      "H",
+      "E",
+      "G"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "GROUND",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "ATTEND",
+      "row": 5,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "AWARE",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "SPACE",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "RELAX",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "FOCUS",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "REST",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "HEAR",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "LEAF",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SLOW",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9308
+}

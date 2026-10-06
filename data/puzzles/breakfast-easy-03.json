@@ -1,0 +1,208 @@
+{
+  "id": "breakfast-easy-03",
+  "slug": "breakfast-easy-03",
+  "themeId": "breakfast",
+  "title": "Breakfast: Soft Path",
+  "primaryKeyword": "breakfast word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BAGEL",
+    "CEREAL",
+    "EGG",
+    "JAM",
+    "NAPKIN",
+    "ORANGE",
+    "PLATE",
+    "SPREAD",
+    "TRAY",
+    "WAFFLE"
+  ],
+  "grid": [
+    [
+      "O",
+      "Z",
+      "A",
+      "D",
+      "U",
+      "A",
+      "V",
+      "Q",
+      "V",
+      "S"
+    ],
+    [
+      "I",
+      "E",
+      "G",
+      "G",
+      "S",
+      "P",
+      "R",
+      "E",
+      "A",
+      "D"
+    ],
+    [
+      "C",
+      "Y",
+      "J",
+      "C",
+      "E",
+      "R",
+      "E",
+      "A",
+      "L",
+      "E"
+    ],
+    [
+      "W",
+      "A",
+      "F",
+      "F",
+      "L",
+      "E",
+      "Q",
+      "J",
+      "A",
+      "M"
+    ],
+    [
+      "B",
+      "A",
+      "G",
+      "E",
+      "L",
+      "V",
+      "Q",
+      "S",
+      "V",
+      "X"
+    ],
+    [
+      "V",
+      "A",
+      "M",
+      "G",
+      "T",
+      "R",
+      "A",
+      "Y",
+      "B",
+      "P"
+    ],
+    [
+      "R",
+      "J",
+      "D",
+      "V",
+      "N",
+      "A",
+      "P",
+      "K",
+      "I",
+      "N"
+    ],
+    [
+      "O",
+      "R",
+      "A",
+      "N",
+      "G",
+      "E",
+      "T",
+      "M",
+      "W",
+      "P"
+    ],
+    [
+      "O",
+      "P",
+      "L",
+      "A",
+      "T",
+      "E",
+      "C",
+      "B",
+      "O",
+      "B"
+    ],
+    [
+      "J",
+      "U",
+      "X",
+      "I",
+      "Q",
+      "P",
+      "L",
+      "R",
+      "R",
+      "G"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "NAPKIN",
+      "row": 6,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SPREAD",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CEREAL",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "ORANGE",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "WAFFLE",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "PLATE",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BAGEL",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "TRAY",
+      "row": 5,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "JAM",
+      "row": 3,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "EGG",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9220
+}

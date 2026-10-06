@@ -1,0 +1,284 @@
+{
+  "id": "birdwatching-medium-02",
+  "slug": "birdwatching-medium-02",
+  "themeId": "birdwatching",
+  "title": "Birdwatching: Dawn Chorus",
+  "primaryKeyword": "birdwatching word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BINOCULAR",
+    "BLIND",
+    "DIVE",
+    "DUSK",
+    "EGG",
+    "GUIDE",
+    "HIDE",
+    "MAP",
+    "PATIENCE",
+    "QUIET",
+    "SEED",
+    "SPOT",
+    "SWAN",
+    "WATER"
+  ],
+  "grid": [
+    [
+      "W",
+      "G",
+      "I",
+      "X",
+      "R",
+      "Z",
+      "B",
+      "L",
+      "T",
+      "E",
+      "D",
+      "K"
+    ],
+    [
+      "A",
+      "U",
+      "B",
+      "T",
+      "G",
+      "Z",
+      "J",
+      "N",
+      "O",
+      "Q",
+      "J",
+      "P"
+    ],
+    [
+      "W",
+      "I",
+      "I",
+      "D",
+      "S",
+      "W",
+      "A",
+      "N",
+      "L",
+      "T",
+      "Y",
+      "K"
+    ],
+    [
+      "B",
+      "D",
+      "N",
+      "Z",
+      "P",
+      "A",
+      "T",
+      "I",
+      "E",
+      "N",
+      "C",
+      "E"
+    ],
+    [
+      "Q",
+      "E",
+      "O",
+      "H",
+      "I",
+      "D",
+      "E",
+      "I",
+      "E",
+      "P",
+      "J",
+      "Y"
+    ],
+    [
+      "D",
+      "R",
+      "C",
+      "A",
+      "I",
+      "Q",
+      "U",
+      "M",
+      "D",
+      "I",
+      "S",
+      "H"
+    ],
+    [
+      "U",
+      "I",
+      "U",
+      "S",
+      "T",
+      "Q",
+      "X",
+      "N",
+      "S",
+      "T",
+      "R",
+      "S"
+    ],
+    [
+      "S",
+      "S",
+      "L",
+      "P",
+      "P",
+      "I",
+      "I",
+      "M",
+      "S",
+      "E",
+      "G",
+      "G"
+    ],
+    [
+      "K",
+      "L",
+      "A",
+      "O",
+      "P",
+      "L",
+      "U",
+      "M",
+      "T",
+      "Z",
+      "E",
+      "J"
+    ],
+    [
+      "V",
+      "S",
+      "R",
+      "T",
+      "B",
+      "D",
+      "A",
+      "A",
+      "I",
+      "X",
+      "T",
+      "D"
+    ],
+    [
+      "G",
+      "P",
+      "J",
+      "I",
+      "B",
+      "N",
+      "W",
+      "P",
+      "D",
+      "I",
+      "V",
+      "E"
+    ],
+    [
+      "M",
+      "W",
+      "N",
+      "D",
+      "N",
+      "R",
+      "L",
+      "G",
+      "M",
+      "O",
+      "J",
+      "U"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BINOCULAR",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "PATIENCE",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "GUIDE",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "WATER",
+      "row": 10,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "QUIET",
+      "row": 6,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "BLIND",
+      "row": 9,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "SEED",
+      "row": 6,
+      "col": 8,
+      "direction": "SE"
+    },
+    {
+      "word": "DUSK",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SPOT",
+      "row": 6,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "HIDE",
+      "row": 4,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "DIVE",
+      "row": 10,
+      "col": 8,
+      "direction": "E"
+    },
+    {
+      "word": "SWAN",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "MAP",
+      "row": 8,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "EGG",
+      "row": 7,
+      "col": 9,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9014
+}

@@ -1,0 +1,173 @@
+{
+  "id": "dogs-large-02",
+  "slug": "dogs-large-02",
+  "themeId": "dogs",
+  "title": "Large Print Dogs: Soft Pup",
+  "primaryKeyword": "large print dogs word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "HOME",
+    "JOG",
+    "NOSE",
+    "PARK",
+    "PATH",
+    "PUP",
+    "TAIL",
+    "WALK"
+  ],
+  "grid": [
+    [
+      "Z",
+      "P",
+      "U",
+      "P",
+      "F",
+      "P",
+      "A",
+      "R",
+      "K"
+    ],
+    [
+      "V",
+      "F",
+      "Z",
+      "J",
+      "V",
+      "O",
+      "H",
+      "R",
+      "H"
+    ],
+    [
+      "H",
+      "G",
+      "V",
+      "J",
+      "O",
+      "I",
+      "Y",
+      "E",
+      "O"
+    ],
+    [
+      "P",
+      "L",
+      "X",
+      "N",
+      "O",
+      "J",
+      "O",
+      "G",
+      "M"
+    ],
+    [
+      "A",
+      "O",
+      "W",
+      "T",
+      "T",
+      "A",
+      "I",
+      "L",
+      "E"
+    ],
+    [
+      "T",
+      "V",
+      "W",
+      "H",
+      "M",
+      "J",
+      "D",
+      "F",
+      "T"
+    ],
+    [
+      "H",
+      "P",
+      "A",
+      "E",
+      "N",
+      "O",
+      "S",
+      "E",
+      "G"
+    ],
+    [
+      "J",
+      "O",
+      "L",
+      "M",
+      "G",
+      "V",
+      "D",
+      "E",
+      "G"
+    ],
+    [
+      "J",
+      "A",
+      "K",
+      "Q",
+      "U",
+      "X",
+      "N",
+      "O",
+      "V"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "WALK",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "PATH",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "PARK",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "TAIL",
+      "row": 4,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "NOSE",
+      "row": 6,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "HOME",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "PUP",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "JOG",
+      "row": 3,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2824
+}

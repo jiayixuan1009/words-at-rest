@@ -1,0 +1,284 @@
+{
+  "id": "astronomy-medium-01",
+  "slug": "astronomy-medium-01",
+  "themeId": "astronomy",
+  "title": "Astronomy: Telescope Night",
+  "primaryKeyword": "astronomy word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ATLAS",
+    "AURORA",
+    "CHART",
+    "CLUSTER",
+    "ECLIPSE",
+    "EQUATOR",
+    "GRAVITY",
+    "HORIZON",
+    "NOVA",
+    "PULSAR",
+    "QUASAR",
+    "TELESCOPE",
+    "TWILIGHT",
+    "ZENITH"
+  ],
+  "grid": [
+    [
+      "M",
+      "Q",
+      "J",
+      "E",
+      "H",
+      "O",
+      "R",
+      "I",
+      "Z",
+      "O",
+      "N",
+      "I"
+    ],
+    [
+      "F",
+      "T",
+      "A",
+      "C",
+      "L",
+      "O",
+      "T",
+      "C",
+      "N",
+      "O",
+      "V",
+      "A"
+    ],
+    [
+      "B",
+      "G",
+      "U",
+      "L",
+      "C",
+      "L",
+      "U",
+      "S",
+      "T",
+      "E",
+      "R",
+      "H"
+    ],
+    [
+      "T",
+      "Y",
+      "R",
+      "I",
+      "G",
+      "R",
+      "A",
+      "V",
+      "I",
+      "T",
+      "Y",
+      "J"
+    ],
+    [
+      "Z",
+      "S",
+      "O",
+      "P",
+      "T",
+      "W",
+      "I",
+      "L",
+      "I",
+      "G",
+      "H",
+      "T"
+    ],
+    [
+      "E",
+      "D",
+      "R",
+      "S",
+      "Y",
+      "T",
+      "A",
+      "T",
+      "L",
+      "A",
+      "S",
+      "A"
+    ],
+    [
+      "N",
+      "W",
+      "A",
+      "E",
+      "F",
+      "T",
+      "P",
+      "U",
+      "L",
+      "S",
+      "A",
+      "R"
+    ],
+    [
+      "I",
+      "T",
+      "E",
+      "L",
+      "E",
+      "S",
+      "C",
+      "O",
+      "P",
+      "E",
+      "D",
+      "N"
+    ],
+    [
+      "T",
+      "O",
+      "O",
+      "S",
+      "S",
+      "X",
+      "N",
+      "A",
+      "G",
+      "C",
+      "T",
+      "G"
+    ],
+    [
+      "H",
+      "F",
+      "N",
+      "E",
+      "Q",
+      "U",
+      "A",
+      "T",
+      "O",
+      "R",
+      "E",
+      "F"
+    ],
+    [
+      "L",
+      "E",
+      "F",
+      "P",
+      "Q",
+      "U",
+      "A",
+      "S",
+      "A",
+      "R",
+      "Q",
+      "J"
+    ],
+    [
+      "Q",
+      "N",
+      "C",
+      "H",
+      "A",
+      "R",
+      "T",
+      "E",
+      "J",
+      "K",
+      "K",
+      "X"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TELESCOPE",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TWILIGHT",
+      "row": 4,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "ECLIPSE",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "CLUSTER",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "HORIZON",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "GRAVITY",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "EQUATOR",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "AURORA",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "QUASAR",
+      "row": 10,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "PULSAR",
+      "row": 6,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "ZENITH",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CHART",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ATLAS",
+      "row": 5,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "NOVA",
+      "row": 1,
+      "col": 8,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8853
+}

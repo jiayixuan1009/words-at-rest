@@ -1,0 +1,208 @@
+{
+  "id": "american-history-easy-03",
+  "slug": "american-history-easy-03",
+  "themeId": "american-history",
+  "title": "American History: Quiet Hour",
+  "primaryKeyword": "american history word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ALLIES",
+    "ARMISTICE",
+    "CANAL",
+    "FARM",
+    "FREEDOM",
+    "HOUSE",
+    "PIONEER",
+    "SHIP",
+    "STRIKE",
+    "WAR"
+  ],
+  "grid": [
+    [
+      "I",
+      "H",
+      "U",
+      "J",
+      "B",
+      "I",
+      "V",
+      "V",
+      "A",
+      "X"
+    ],
+    [
+      "A",
+      "T",
+      "V",
+      "A",
+      "W",
+      "C",
+      "F",
+      "P",
+      "R",
+      "H"
+    ],
+    [
+      "A",
+      "R",
+      "A",
+      "R",
+      "J",
+      "D",
+      "R",
+      "I",
+      "N",
+      "O"
+    ],
+    [
+      "C",
+      "O",
+      "L",
+      "M",
+      "U",
+      "S",
+      "E",
+      "O",
+      "T",
+      "U"
+    ],
+    [
+      "S",
+      "C",
+      "L",
+      "I",
+      "S",
+      "H",
+      "E",
+      "N",
+      "F",
+      "S"
+    ],
+    [
+      "C",
+      "W",
+      "I",
+      "S",
+      "T",
+      "I",
+      "D",
+      "E",
+      "A",
+      "E"
+    ],
+    [
+      "W",
+      "V",
+      "E",
+      "T",
+      "R",
+      "P",
+      "O",
+      "E",
+      "R",
+      "T"
+    ],
+    [
+      "A",
+      "C",
+      "S",
+      "I",
+      "I",
+      "N",
+      "M",
+      "R",
+      "M",
+      "R"
+    ],
+    [
+      "R",
+      "R",
+      "G",
+      "C",
+      "K",
+      "D",
+      "L",
+      "Z",
+      "Q",
+      "U"
+    ],
+    [
+      "D",
+      "P",
+      "Y",
+      "E",
+      "E",
+      "C",
+      "A",
+      "N",
+      "A",
+      "L"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ARMISTICE",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "PIONEER",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "FREEDOM",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "STRIKE",
+      "row": 4,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "ALLIES",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "CANAL",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "HOUSE",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SHIP",
+      "row": 3,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "FARM",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "WAR",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9202
+}

@@ -1,0 +1,208 @@
+{
+  "id": "garden-easy-03",
+  "slug": "garden-easy-03",
+  "themeId": "garden",
+  "title": "Garden: Herb Corner",
+  "primaryKeyword": "garden word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BASIL",
+    "BED",
+    "BEE",
+    "DEW",
+    "DILL",
+    "MINT",
+    "PATH",
+    "ROW",
+    "SAGE",
+    "SUN"
+  ],
+  "grid": [
+    [
+      "B",
+      "L",
+      "Q",
+      "S",
+      "A",
+      "G",
+      "E",
+      "R",
+      "O",
+      "W"
+    ],
+    [
+      "T",
+      "B",
+      "M",
+      "K",
+      "X",
+      "U",
+      "H",
+      "D",
+      "D",
+      "D"
+    ],
+    [
+      "N",
+      "R",
+      "P",
+      "M",
+      "G",
+      "M",
+      "P",
+      "I",
+      "E",
+      "Y"
+    ],
+    [
+      "U",
+      "K",
+      "W",
+      "V",
+      "H",
+      "I",
+      "K",
+      "L",
+      "W",
+      "M"
+    ],
+    [
+      "B",
+      "E",
+      "D",
+      "R",
+      "G",
+      "N",
+      "C",
+      "L",
+      "U",
+      "S"
+    ],
+    [
+      "S",
+      "S",
+      "J",
+      "J",
+      "G",
+      "T",
+      "D",
+      "O",
+      "E",
+      "C"
+    ],
+    [
+      "U",
+      "G",
+      "U",
+      "X",
+      "B",
+      "A",
+      "S",
+      "I",
+      "L",
+      "F"
+    ],
+    [
+      "N",
+      "B",
+      "E",
+      "E",
+      "V",
+      "F",
+      "H",
+      "H",
+      "P",
+      "Z"
+    ],
+    [
+      "S",
+      "K",
+      "Y",
+      "P",
+      "A",
+      "T",
+      "H",
+      "M",
+      "F",
+      "Z"
+    ],
+    [
+      "S",
+      "V",
+      "Y",
+      "B",
+      "E",
+      "P",
+      "F",
+      "G",
+      "C",
+      "K"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BASIL",
+      "row": 6,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "MINT",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "SAGE",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "DILL",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "PATH",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BED",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "ROW",
+      "row": 0,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "BEE",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SUN",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "DEW",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2921
+}

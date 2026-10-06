@@ -1,0 +1,208 @@
+{
+  "id": "food-easy-03",
+  "slug": "food-easy-03",
+  "themeId": "food",
+  "title": "Food: Breakfast Tray",
+  "primaryKeyword": "food word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BOWL",
+    "EGG",
+    "FORK",
+    "FRUIT",
+    "HONEY",
+    "JAM",
+    "MILK",
+    "OAT",
+    "PLATE",
+    "TOAST"
+  ],
+  "grid": [
+    [
+      "K",
+      "P",
+      "I",
+      "E",
+      "G",
+      "G",
+      "H",
+      "I",
+      "L",
+      "D"
+    ],
+    [
+      "K",
+      "F",
+      "O",
+      "R",
+      "K",
+      "X",
+      "O",
+      "V",
+      "R",
+      "G"
+    ],
+    [
+      "F",
+      "S",
+      "T",
+      "Z",
+      "H",
+      "G",
+      "N",
+      "T",
+      "J",
+      "N"
+    ],
+    [
+      "H",
+      "P",
+      "T",
+      "M",
+      "B",
+      "Y",
+      "E",
+      "U",
+      "P",
+      "V"
+    ],
+    [
+      "Y",
+      "L",
+      "O",
+      "I",
+      "D",
+      "P",
+      "Y",
+      "Y",
+      "F",
+      "F"
+    ],
+    [
+      "P",
+      "A",
+      "A",
+      "L",
+      "J",
+      "F",
+      "K",
+      "A",
+      "R",
+      "C"
+    ],
+    [
+      "K",
+      "T",
+      "S",
+      "K",
+      "D",
+      "R",
+      "H",
+      "T",
+      "U",
+      "O"
+    ],
+    [
+      "X",
+      "E",
+      "T",
+      "L",
+      "Q",
+      "Y",
+      "Q",
+      "D",
+      "I",
+      "A"
+    ],
+    [
+      "Y",
+      "Z",
+      "G",
+      "B",
+      "O",
+      "W",
+      "L",
+      "U",
+      "T",
+      "T"
+    ],
+    [
+      "S",
+      "F",
+      "P",
+      "J",
+      "A",
+      "M",
+      "V",
+      "E",
+      "R",
+      "M"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TOAST",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "HONEY",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "FRUIT",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "PLATE",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "MILK",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "BOWL",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "FORK",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "EGG",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "OAT",
+      "row": 6,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "JAM",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2321
+}

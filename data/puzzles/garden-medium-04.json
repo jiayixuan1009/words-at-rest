@@ -1,0 +1,284 @@
+{
+  "id": "garden-medium-04",
+  "slug": "garden-medium-04",
+  "themeId": "garden",
+  "title": "Garden: Evening Water",
+  "primaryKeyword": "garden word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BENCH",
+    "BLOOM",
+    "BORDER",
+    "DAMP",
+    "EDGE",
+    "EVENING",
+    "HERB",
+    "LANTERN",
+    "MINT",
+    "MULCH",
+    "PATH",
+    "ROSE",
+    "THYME",
+    "WATERING"
+  ],
+  "grid": [
+    [
+      "Y",
+      "W",
+      "A",
+      "T",
+      "E",
+      "R",
+      "I",
+      "N",
+      "G",
+      "S",
+      "B",
+      "M"
+    ],
+    [
+      "P",
+      "U",
+      "S",
+      "D",
+      "F",
+      "P",
+      "B",
+      "T",
+      "A",
+      "K",
+      "V",
+      "U"
+    ],
+    [
+      "E",
+      "A",
+      "W",
+      "E",
+      "A",
+      "F",
+      "I",
+      "L",
+      "I",
+      "X",
+      "M",
+      "L"
+    ],
+    [
+      "L",
+      "D",
+      "T",
+      "H",
+      "Y",
+      "M",
+      "E",
+      "R",
+      "O",
+      "M",
+      "G",
+      "C"
+    ],
+    [
+      "W",
+      "M",
+      "G",
+      "H",
+      "H",
+      "E",
+      "R",
+      "B",
+      "A",
+      "O",
+      "E",
+      "H"
+    ],
+    [
+      "B",
+      "P",
+      "X",
+      "E",
+      "V",
+      "E",
+      "N",
+      "I",
+      "N",
+      "G",
+      "M",
+      "A"
+    ],
+    [
+      "E",
+      "B",
+      "C",
+      "R",
+      "I",
+      "W",
+      "X",
+      "M",
+      "I",
+      "N",
+      "T",
+      "M"
+    ],
+    [
+      "N",
+      "U",
+      "L",
+      "A",
+      "N",
+      "T",
+      "E",
+      "R",
+      "N",
+      "K",
+      "P",
+      "Y"
+    ],
+    [
+      "C",
+      "X",
+      "R",
+      "F",
+      "V",
+      "N",
+      "S",
+      "O",
+      "D",
+      "A",
+      "M",
+      "P"
+    ],
+    [
+      "H",
+      "F",
+      "P",
+      "Z",
+      "A",
+      "P",
+      "J",
+      "X",
+      "A",
+      "U",
+      "A",
+      "Y"
+    ],
+    [
+      "J",
+      "Z",
+      "F",
+      "P",
+      "U",
+      "F",
+      "R",
+      "O",
+      "S",
+      "E",
+      "A",
+      "R"
+    ],
+    [
+      "R",
+      "L",
+      "S",
+      "E",
+      "H",
+      "H",
+      "B",
+      "O",
+      "R",
+      "D",
+      "E",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "WATERING",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "EVENING",
+      "row": 5,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "LANTERN",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BORDER",
+      "row": 11,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "MULCH",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "BENCH",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "THYME",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BLOOM",
+      "row": 1,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "DAMP",
+      "row": 8,
+      "col": 8,
+      "direction": "E"
+    },
+    {
+      "word": "EDGE",
+      "row": 2,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "PATH",
+      "row": 1,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "HERB",
+      "row": 4,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "MINT",
+      "row": 6,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "ROSE",
+      "row": 10,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2932
+}

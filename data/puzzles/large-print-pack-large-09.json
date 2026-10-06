@@ -1,0 +1,173 @@
+{
+  "id": "large-print-pack-large-09",
+  "slug": "large-print-pack-large-09",
+  "themeId": "large-print-pack",
+  "title": "Large Print Word Search: Trail Morning",
+  "primaryKeyword": "large print large print word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "AIR",
+    "BIRD",
+    "BOOT",
+    "MAP",
+    "PATH",
+    "PINE",
+    "SUN",
+    "TRAIL"
+  ],
+  "grid": [
+    [
+      "B",
+      "G",
+      "A",
+      "S",
+      "F",
+      "C",
+      "W",
+      "T",
+      "K"
+    ],
+    [
+      "E",
+      "P",
+      "I",
+      "F",
+      "K",
+      "S",
+      "B",
+      "G",
+      "D"
+    ],
+    [
+      "E",
+      "K",
+      "R",
+      "E",
+      "Z",
+      "P",
+      "Q",
+      "X",
+      "L"
+    ],
+    [
+      "V",
+      "K",
+      "W",
+      "E",
+      "B",
+      "I",
+      "V",
+      "Y",
+      "C"
+    ],
+    [
+      "O",
+      "D",
+      "O",
+      "S",
+      "U",
+      "N",
+      "V",
+      "X",
+      "P"
+    ],
+    [
+      "T",
+      "R",
+      "A",
+      "I",
+      "L",
+      "E",
+      "P",
+      "T",
+      "A"
+    ],
+    [
+      "D",
+      "S",
+      "M",
+      "N",
+      "B",
+      "I",
+      "R",
+      "D",
+      "T"
+    ],
+    [
+      "T",
+      "S",
+      "A",
+      "H",
+      "S",
+      "E",
+      "U",
+      "V",
+      "H"
+    ],
+    [
+      "V",
+      "A",
+      "P",
+      "E",
+      "P",
+      "B",
+      "O",
+      "O",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TRAIL",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BOOT",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "PINE",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "BIRD",
+      "row": 6,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "PATH",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "MAP",
+      "row": 6,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "SUN",
+      "row": 4,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "AIR",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 3021
+}

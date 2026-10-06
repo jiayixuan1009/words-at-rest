@@ -1,0 +1,284 @@
+{
+  "id": "world-capitals-medium-03",
+  "slug": "world-capitals-medium-03",
+  "themeId": "world-capitals",
+  "title": "World Capitals: Nested Calm",
+  "primaryKeyword": "world capitals word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "AMSTERDAM",
+    "BAGHDAD",
+    "BERLIN",
+    "BRUSSELS",
+    "BUDAPEST",
+    "CANBERRA",
+    "COPENHAGEN",
+    "HANOI",
+    "HELSINKI",
+    "LAGOS",
+    "MANILA",
+    "NAIROBI",
+    "OSLO",
+    "PRETORIA"
+  ],
+  "grid": [
+    [
+      "E",
+      "B",
+      "P",
+      "V",
+      "O",
+      "B",
+      "X",
+      "X",
+      "A",
+      "E",
+      "C",
+      "I"
+    ],
+    [
+      "E",
+      "A",
+      "M",
+      "H",
+      "R",
+      "R",
+      "D",
+      "C",
+      "M",
+      "B",
+      "C",
+      "N"
+    ],
+    [
+      "C",
+      "G",
+      "O",
+      "E",
+      "E",
+      "U",
+      "C",
+      "Q",
+      "S",
+      "E",
+      "A",
+      "A"
+    ],
+    [
+      "B",
+      "H",
+      "O",
+      "L",
+      "R",
+      "S",
+      "O",
+      "P",
+      "T",
+      "R",
+      "N",
+      "I"
+    ],
+    [
+      "U",
+      "D",
+      "S",
+      "S",
+      "G",
+      "S",
+      "P",
+      "R",
+      "E",
+      "L",
+      "B",
+      "R"
+    ],
+    [
+      "D",
+      "A",
+      "L",
+      "I",
+      "G",
+      "E",
+      "E",
+      "E",
+      "R",
+      "I",
+      "E",
+      "O"
+    ],
+    [
+      "A",
+      "D",
+      "O",
+      "N",
+      "C",
+      "L",
+      "N",
+      "T",
+      "D",
+      "N",
+      "R",
+      "B"
+    ],
+    [
+      "P",
+      "G",
+      "T",
+      "K",
+      "B",
+      "S",
+      "H",
+      "O",
+      "A",
+      "H",
+      "R",
+      "I"
+    ],
+    [
+      "E",
+      "C",
+      "D",
+      "I",
+      "G",
+      "B",
+      "A",
+      "R",
+      "M",
+      "A",
+      "A",
+      "N"
+    ],
+    [
+      "S",
+      "L",
+      "A",
+      "G",
+      "O",
+      "S",
+      "G",
+      "I",
+      "G",
+      "N",
+      "L",
+      "A"
+    ],
+    [
+      "T",
+      "I",
+      "M",
+      "L",
+      "Y",
+      "M",
+      "E",
+      "A",
+      "V",
+      "O",
+      "F",
+      "Y"
+    ],
+    [
+      "M",
+      "A",
+      "N",
+      "I",
+      "L",
+      "A",
+      "N",
+      "O",
+      "C",
+      "I",
+      "A",
+      "F"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "COPENHAGEN",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "AMSTERDAM",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "BRUSSELS",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "HELSINKI",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "CANBERRA",
+      "row": 1,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "BUDAPEST",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "PRETORIA",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "BAGHDAD",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "NAIROBI",
+      "row": 1,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "MANILA",
+      "row": 11,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BERLIN",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "LAGOS",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "HANOI",
+      "row": 7,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "OSLO",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9369
+}

@@ -1,0 +1,284 @@
+{
+  "id": "halloween-medium-04",
+  "slug": "halloween-medium-04",
+  "themeId": "halloween",
+  "title": "Halloween: Attic Trunk",
+  "primaryKeyword": "halloween word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ATTIC",
+    "BOOT",
+    "CAPE",
+    "COSTUME",
+    "FABRIC",
+    "LANTERN",
+    "LIGHTS",
+    "MASK",
+    "NIGHT",
+    "PORCH",
+    "STEP",
+    "STRING",
+    "TRUNK",
+    "WIG"
+  ],
+  "grid": [
+    [
+      "U",
+      "K",
+      "T",
+      "F",
+      "P",
+      "P",
+      "B",
+      "N",
+      "I",
+      "G",
+      "H",
+      "T"
+    ],
+    [
+      "F",
+      "J",
+      "R",
+      "A",
+      "O",
+      "S",
+      "A",
+      "H",
+      "W",
+      "D",
+      "E",
+      "A"
+    ],
+    [
+      "B",
+      "B",
+      "U",
+      "B",
+      "R",
+      "F",
+      "T",
+      "S",
+      "W",
+      "W",
+      "A",
+      "Z"
+    ],
+    [
+      "O",
+      "C",
+      "N",
+      "R",
+      "C",
+      "Y",
+      "P",
+      "R",
+      "S",
+      "N",
+      "C",
+      "X"
+    ],
+    [
+      "O",
+      "J",
+      "K",
+      "I",
+      "H",
+      "E",
+      "P",
+      "Z",
+      "I",
+      "Y",
+      "X",
+      "Y"
+    ],
+    [
+      "T",
+      "I",
+      "W",
+      "C",
+      "T",
+      "C",
+      "Z",
+      "W",
+      "K",
+      "N",
+      "E",
+      "Z"
+    ],
+    [
+      "Z",
+      "T",
+      "R",
+      "S",
+      "I",
+      "F",
+      "H",
+      "G",
+      "X",
+      "M",
+      "G",
+      "L"
+    ],
+    [
+      "W",
+      "I",
+      "G",
+      "T",
+      "D",
+      "S",
+      "C",
+      "D",
+      "U",
+      "J",
+      "W",
+      "I"
+    ],
+    [
+      "C",
+      "T",
+      "T",
+      "X",
+      "L",
+      "A",
+      "N",
+      "T",
+      "E",
+      "R",
+      "N",
+      "G"
+    ],
+    [
+      "A",
+      "A",
+      "S",
+      "G",
+      "X",
+      "A",
+      "S",
+      "O",
+      "A",
+      "B",
+      "E",
+      "H"
+    ],
+    [
+      "P",
+      "Y",
+      "E",
+      "B",
+      "T",
+      "O",
+      "M",
+      "A",
+      "S",
+      "K",
+      "I",
+      "T"
+    ],
+    [
+      "E",
+      "C",
+      "Q",
+      "F",
+      "C",
+      "V",
+      "S",
+      "M",
+      "E",
+      "A",
+      "T",
+      "S"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "COSTUME",
+      "row": 11,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "LANTERN",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "FABRIC",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "STRING",
+      "row": 1,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "LIGHTS",
+      "row": 6,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "ATTIC",
+      "row": 9,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "TRUNK",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "PORCH",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "NIGHT",
+      "row": 0,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "MASK",
+      "row": 10,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "CAPE",
+      "row": 8,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BOOT",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "STEP",
+      "row": 6,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "WIG",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 1062
+}

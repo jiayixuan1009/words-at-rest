@@ -1,0 +1,173 @@
+{
+  "id": "large-print-pack-large-19",
+  "slug": "large-print-pack-large-19",
+  "themeId": "large-print-pack",
+  "title": "Large Print Word Search: Garden Gate",
+  "primaryKeyword": "large print large print word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BEE",
+    "DEW",
+    "GARDEN",
+    "GATE",
+    "LEAF",
+    "PATH",
+    "ROSE",
+    "SUN"
+  ],
+  "grid": [
+    [
+      "P",
+      "B",
+      "X",
+      "D",
+      "F",
+      "F",
+      "D",
+      "B",
+      "V"
+    ],
+    [
+      "A",
+      "G",
+      "A",
+      "R",
+      "D",
+      "E",
+      "N",
+      "E",
+      "G"
+    ],
+    [
+      "G",
+      "A",
+      "T",
+      "E",
+      "U",
+      "V",
+      "B",
+      "E",
+      "T"
+    ],
+    [
+      "C",
+      "E",
+      "O",
+      "S",
+      "G",
+      "C",
+      "U",
+      "P",
+      "Z"
+    ],
+    [
+      "R",
+      "G",
+      "L",
+      "P",
+      "A",
+      "T",
+      "H",
+      "R",
+      "S"
+    ],
+    [
+      "S",
+      "E",
+      "E",
+      "Q",
+      "C",
+      "N",
+      "G",
+      "O",
+      "I"
+    ],
+    [
+      "U",
+      "Y",
+      "A",
+      "Y",
+      "T",
+      "T",
+      "B",
+      "S",
+      "D"
+    ],
+    [
+      "N",
+      "W",
+      "F",
+      "W",
+      "O",
+      "R",
+      "V",
+      "E",
+      "E"
+    ],
+    [
+      "H",
+      "J",
+      "X",
+      "A",
+      "X",
+      "T",
+      "U",
+      "N",
+      "W"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "GARDEN",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "ROSE",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "PATH",
+      "row": 4,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "GATE",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "LEAF",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "BEE",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SUN",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "DEW",
+      "row": 6,
+      "col": 8,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 3043
+}

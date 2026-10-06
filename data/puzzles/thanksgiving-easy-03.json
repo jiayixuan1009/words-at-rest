@@ -1,0 +1,208 @@
+{
+  "id": "thanksgiving-easy-03",
+  "slug": "thanksgiving-easy-03",
+  "themeId": "thanksgiving",
+  "title": "Thanksgiving: Table Set",
+  "primaryKeyword": "thanksgiving word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CORN",
+    "FORK",
+    "HOME",
+    "PIE",
+    "PLATE",
+    "ROLL",
+    "SHARE",
+    "TABLE",
+    "WARM",
+    "YAM"
+  ],
+  "grid": [
+    [
+      "I",
+      "P",
+      "Y",
+      "T",
+      "W",
+      "R",
+      "E",
+      "Y",
+      "R",
+      "H"
+    ],
+    [
+      "C",
+      "G",
+      "D",
+      "R",
+      "S",
+      "H",
+      "M",
+      "T",
+      "O",
+      "O"
+    ],
+    [
+      "F",
+      "O",
+      "P",
+      "I",
+      "E",
+      "F",
+      "Y",
+      "A",
+      "L",
+      "M"
+    ],
+    [
+      "J",
+      "S",
+      "I",
+      "H",
+      "O",
+      "W",
+      "P",
+      "B",
+      "L",
+      "E"
+    ],
+    [
+      "V",
+      "S",
+      "H",
+      "A",
+      "R",
+      "E",
+      "L",
+      "L",
+      "B",
+      "P"
+    ],
+    [
+      "O",
+      "G",
+      "D",
+      "B",
+      "U",
+      "Y",
+      "A",
+      "E",
+      "C",
+      "K"
+    ],
+    [
+      "I",
+      "L",
+      "W",
+      "F",
+      "Z",
+      "A",
+      "T",
+      "B",
+      "J",
+      "I"
+    ],
+    [
+      "V",
+      "Y",
+      "A",
+      "O",
+      "B",
+      "M",
+      "E",
+      "Q",
+      "E",
+      "U"
+    ],
+    [
+      "L",
+      "D",
+      "R",
+      "R",
+      "C",
+      "S",
+      "C",
+      "O",
+      "R",
+      "N"
+    ],
+    [
+      "R",
+      "Y",
+      "M",
+      "K",
+      "A",
+      "Z",
+      "Y",
+      "Q",
+      "P",
+      "U"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TABLE",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "PLATE",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "SHARE",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "FORK",
+      "row": 6,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "ROLL",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "CORN",
+      "row": 8,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "WARM",
+      "row": 6,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "HOME",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "PIE",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "YAM",
+      "row": 5,
+      "col": 5,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 1131
+}

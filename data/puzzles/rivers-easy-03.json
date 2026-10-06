@@ -1,0 +1,208 @@
+{
+  "id": "rivers-easy-03",
+  "slug": "rivers-easy-03",
+  "themeId": "rivers",
+  "title": "Rivers: Open Window",
+  "primaryKeyword": "rivers word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CANYON",
+    "CASCADE",
+    "DELTA",
+    "FERRY",
+    "HERON",
+    "MOUTH",
+    "QUIET",
+    "SEDIMENT",
+    "STREAM",
+    "WETLAND"
+  ],
+  "grid": [
+    [
+      "P",
+      "S",
+      "E",
+      "D",
+      "I",
+      "M",
+      "E",
+      "N",
+      "T",
+      "O"
+    ],
+    [
+      "D",
+      "S",
+      "R",
+      "D",
+      "C",
+      "U",
+      "H",
+      "Q",
+      "Q",
+      "W"
+    ],
+    [
+      "S",
+      "L",
+      "C",
+      "E",
+      "A",
+      "A",
+      "H",
+      "M",
+      "U",
+      "E"
+    ],
+    [
+      "T",
+      "M",
+      "A",
+      "L",
+      "N",
+      "Y",
+      "E",
+      "O",
+      "I",
+      "T"
+    ],
+    [
+      "R",
+      "T",
+      "S",
+      "T",
+      "Y",
+      "L",
+      "R",
+      "U",
+      "E",
+      "L"
+    ],
+    [
+      "E",
+      "O",
+      "C",
+      "A",
+      "O",
+      "R",
+      "O",
+      "T",
+      "T",
+      "A"
+    ],
+    [
+      "A",
+      "X",
+      "A",
+      "X",
+      "N",
+      "S",
+      "N",
+      "H",
+      "Z",
+      "N"
+    ],
+    [
+      "M",
+      "Z",
+      "D",
+      "J",
+      "F",
+      "E",
+      "R",
+      "R",
+      "Y",
+      "D"
+    ],
+    [
+      "C",
+      "W",
+      "E",
+      "E",
+      "B",
+      "O",
+      "J",
+      "U",
+      "S",
+      "E"
+    ],
+    [
+      "X",
+      "T",
+      "L",
+      "P",
+      "G",
+      "W",
+      "L",
+      "A",
+      "Q",
+      "J"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SEDIMENT",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CASCADE",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "WETLAND",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "CANYON",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "STREAM",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "FERRY",
+      "row": 7,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "MOUTH",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "DELTA",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "QUIET",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "HERON",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9332
+}

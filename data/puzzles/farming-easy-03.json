@@ -1,0 +1,208 @@
+{
+  "id": "farming-easy-03",
+  "slug": "farming-easy-03",
+  "themeId": "farming",
+  "title": "Farming: Still Room",
+  "primaryKeyword": "farming word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BASKET",
+    "DAWN",
+    "GOAT",
+    "PASTURE",
+    "PLOW",
+    "ROW",
+    "SEASON",
+    "SEED",
+    "SHEEP",
+    "SILO"
+  ],
+  "grid": [
+    [
+      "O",
+      "L",
+      "S",
+      "E",
+      "A",
+      "S",
+      "O",
+      "N",
+      "T",
+      "F"
+    ],
+    [
+      "S",
+      "I",
+      "L",
+      "O",
+      "B",
+      "T",
+      "X",
+      "L",
+      "C",
+      "R"
+    ],
+    [
+      "H",
+      "F",
+      "H",
+      "P",
+      "K",
+      "D",
+      "A",
+      "W",
+      "N",
+      "O"
+    ],
+    [
+      "E",
+      "G",
+      "Z",
+      "Q",
+      "B",
+      "V",
+      "J",
+      "P",
+      "G",
+      "W"
+    ],
+    [
+      "E",
+      "O",
+      "L",
+      "B",
+      "A",
+      "B",
+      "S",
+      "A",
+      "X",
+      "S"
+    ],
+    [
+      "P",
+      "A",
+      "P",
+      "F",
+      "S",
+      "J",
+      "E",
+      "S",
+      "P",
+      "P"
+    ],
+    [
+      "B",
+      "T",
+      "L",
+      "G",
+      "K",
+      "E",
+      "E",
+      "T",
+      "L",
+      "L"
+    ],
+    [
+      "R",
+      "X",
+      "W",
+      "T",
+      "E",
+      "I",
+      "D",
+      "U",
+      "C",
+      "O"
+    ],
+    [
+      "C",
+      "F",
+      "J",
+      "J",
+      "T",
+      "O",
+      "N",
+      "R",
+      "J",
+      "W"
+    ],
+    [
+      "A",
+      "H",
+      "F",
+      "X",
+      "R",
+      "I",
+      "W",
+      "E",
+      "C",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PASTURE",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "BASKET",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "SEASON",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SHEEP",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "DAWN",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "GOAT",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "PLOW",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SEED",
+      "row": 4,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "SILO",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "ROW",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9256
+}

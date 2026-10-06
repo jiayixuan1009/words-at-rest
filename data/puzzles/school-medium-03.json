@@ -1,0 +1,284 @@
+{
+  "id": "school-medium-03",
+  "slug": "school-medium-03",
+  "themeId": "school",
+  "title": "School: Nested Calm",
+  "primaryKeyword": "school word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BELL",
+    "CLOCK",
+    "ERASER",
+    "FOLDER",
+    "GRADE",
+    "LOCKER",
+    "MATH",
+    "QUIZ",
+    "RECESS",
+    "ROOM",
+    "SCHOOL",
+    "SEMESTER",
+    "STUDENT",
+    "WRITING"
+  ],
+  "grid": [
+    [
+      "B",
+      "R",
+      "S",
+      "C",
+      "H",
+      "O",
+      "O",
+      "L",
+      "D",
+      "K",
+      "K",
+      "Q"
+    ],
+    [
+      "T",
+      "O",
+      "H",
+      "L",
+      "V",
+      "Y",
+      "S",
+      "V",
+      "K",
+      "R",
+      "J",
+      "R"
+    ],
+    [
+      "G",
+      "O",
+      "L",
+      "D",
+      "Q",
+      "S",
+      "W",
+      "M",
+      "E",
+      "G",
+      "E",
+      "U"
+    ],
+    [
+      "R",
+      "M",
+      "Z",
+      "E",
+      "E",
+      "E",
+      "Z",
+      "T",
+      "N",
+      "D",
+      "U",
+      "Q"
+    ],
+    [
+      "A",
+      "D",
+      "X",
+      "C",
+      "Y",
+      "Z",
+      "S",
+      "I",
+      "L",
+      "K",
+      "J",
+      "O"
+    ],
+    [
+      "D",
+      "Y",
+      "E",
+      "P",
+      "K",
+      "E",
+      "T",
+      "O",
+      "H",
+      "I",
+      "L",
+      "S"
+    ],
+    [
+      "E",
+      "R",
+      "G",
+      "I",
+      "M",
+      "I",
+      "F",
+      "T",
+      "G",
+      "Z",
+      "L",
+      "T"
+    ],
+    [
+      "G",
+      "C",
+      "A",
+      "E",
+      "R",
+      "U",
+      "A",
+      "B",
+      "E",
+      "L",
+      "L",
+      "U"
+    ],
+    [
+      "W",
+      "L",
+      "S",
+      "W",
+      "A",
+      "M",
+      "S",
+      "Z",
+      "D",
+      "E",
+      "H",
+      "D"
+    ],
+    [
+      "S",
+      "O",
+      "Q",
+      "U",
+      "I",
+      "Z",
+      "P",
+      "D",
+      "Y",
+      "Y",
+      "F",
+      "E"
+    ],
+    [
+      "X",
+      "C",
+      "L",
+      "O",
+      "C",
+      "K",
+      "E",
+      "R",
+      "W",
+      "K",
+      "G",
+      "N"
+    ],
+    [
+      "T",
+      "K",
+      "P",
+      "P",
+      "E",
+      "R",
+      "A",
+      "S",
+      "E",
+      "R",
+      "K",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SEMESTER",
+      "row": 8,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "STUDENT",
+      "row": 5,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "WRITING",
+      "row": 8,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "LOCKER",
+      "row": 10,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "FOLDER",
+      "row": 6,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "ERASER",
+      "row": 11,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SCHOOL",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "RECESS",
+      "row": 6,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "CLOCK",
+      "row": 7,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "GRADE",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "QUIZ",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "MATH",
+      "row": 8,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "BELL",
+      "row": 7,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "ROOM",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9335
+}

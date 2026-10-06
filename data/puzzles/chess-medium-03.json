@@ -1,0 +1,284 @@
+{
+  "id": "chess-medium-03",
+  "slug": "chess-medium-03",
+  "themeId": "chess",
+  "title": "Chess: Slow Pace",
+  "primaryKeyword": "chess word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ATTACK",
+    "BISHOP",
+    "BLUNDER",
+    "BOARD",
+    "CASTLE",
+    "CENTER",
+    "CHECK",
+    "CHESS",
+    "DEFENSE",
+    "DEVELOP",
+    "RANK",
+    "ROOK",
+    "SACRIFICE",
+    "STRATEGY"
+  ],
+  "grid": [
+    [
+      "X",
+      "A",
+      "H",
+      "C",
+      "E",
+      "N",
+      "T",
+      "E",
+      "R",
+      "B",
+      "W",
+      "D"
+    ],
+    [
+      "D",
+      "E",
+      "V",
+      "E",
+      "L",
+      "O",
+      "P",
+      "D",
+      "R",
+      "R",
+      "R",
+      "P"
+    ],
+    [
+      "E",
+      "G",
+      "I",
+      "S",
+      "C",
+      "H",
+      "E",
+      "S",
+      "S",
+      "A",
+      "S",
+      "F"
+    ],
+    [
+      "T",
+      "D",
+      "T",
+      "A",
+      "Y",
+      "W",
+      "F",
+      "F",
+      "O",
+      "N",
+      "T",
+      "F"
+    ],
+    [
+      "B",
+      "Y",
+      "G",
+      "N",
+      "J",
+      "N",
+      "Y",
+      "B",
+      "W",
+      "K",
+      "R",
+      "O"
+    ],
+    [
+      "L",
+      "C",
+      "D",
+      "E",
+      "F",
+      "E",
+      "N",
+      "S",
+      "E",
+      "R",
+      "A",
+      "E"
+    ],
+    [
+      "U",
+      "A",
+      "C",
+      "H",
+      "E",
+      "C",
+      "K",
+      "N",
+      "N",
+      "O",
+      "T",
+      "O"
+    ],
+    [
+      "N",
+      "S",
+      "A",
+      "T",
+      "T",
+      "A",
+      "C",
+      "K",
+      "I",
+      "O",
+      "E",
+      "B"
+    ],
+    [
+      "D",
+      "T",
+      "B",
+      "I",
+      "S",
+      "H",
+      "O",
+      "P",
+      "Y",
+      "K",
+      "G",
+      "B"
+    ],
+    [
+      "E",
+      "L",
+      "K",
+      "N",
+      "P",
+      "M",
+      "J",
+      "P",
+      "V",
+      "R",
+      "Y",
+      "C"
+    ],
+    [
+      "R",
+      "E",
+      "S",
+      "A",
+      "C",
+      "R",
+      "I",
+      "F",
+      "I",
+      "C",
+      "E",
+      "N"
+    ],
+    [
+      "B",
+      "X",
+      "D",
+      "I",
+      "B",
+      "W",
+      "T",
+      "F",
+      "V",
+      "J",
+      "O",
+      "Z"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SACRIFICE",
+      "row": 10,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "STRATEGY",
+      "row": 2,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "BLUNDER",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "DEVELOP",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "DEFENSE",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CASTLE",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "CENTER",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BISHOP",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ATTACK",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BOARD",
+      "row": 4,
+      "col": 7,
+      "direction": "NE"
+    },
+    {
+      "word": "CHESS",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CHECK",
+      "row": 6,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "RANK",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "ROOK",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9229
+}

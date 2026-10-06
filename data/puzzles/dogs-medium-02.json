@@ -1,0 +1,284 @@
+{
+  "id": "dogs-medium-02",
+  "slug": "dogs-medium-02",
+  "themeId": "dogs",
+  "title": "Dogs: Trail Buddy",
+  "primaryKeyword": "dogs word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BARK",
+    "COLLAR",
+    "COME",
+    "HARNESS",
+    "HEEL",
+    "LEASH",
+    "PUPPY",
+    "SIT",
+    "SNIFF",
+    "STAY",
+    "TRAIL",
+    "TRAINING",
+    "TREAT",
+    "WAG"
+  ],
+  "grid": [
+    [
+      "Z",
+      "V",
+      "O",
+      "P",
+      "H",
+      "E",
+      "E",
+      "L",
+      "Y",
+      "A",
+      "T",
+      "V"
+    ],
+    [
+      "S",
+      "N",
+      "I",
+      "F",
+      "F",
+      "O",
+      "F",
+      "O",
+      "B",
+      "A",
+      "R",
+      "K"
+    ],
+    [
+      "Q",
+      "T",
+      "A",
+      "C",
+      "O",
+      "M",
+      "E",
+      "M",
+      "I",
+      "Q",
+      "E",
+      "M"
+    ],
+    [
+      "V",
+      "R",
+      "Y",
+      "A",
+      "K",
+      "S",
+      "R",
+      "Z",
+      "I",
+      "B",
+      "X",
+      "C"
+    ],
+    [
+      "T",
+      "E",
+      "E",
+      "H",
+      "N",
+      "R",
+      "S",
+      "B",
+      "Q",
+      "N",
+      "E",
+      "O"
+    ],
+    [
+      "R",
+      "A",
+      "D",
+      "G",
+      "C",
+      "O",
+      "L",
+      "L",
+      "A",
+      "R",
+      "N",
+      "L"
+    ],
+    [
+      "A",
+      "T",
+      "U",
+      "V",
+      "K",
+      "S",
+      "I",
+      "T",
+      "A",
+      "N",
+      "P",
+      "E"
+    ],
+    [
+      "I",
+      "S",
+      "T",
+      "R",
+      "A",
+      "I",
+      "N",
+      "I",
+      "N",
+      "G",
+      "I",
+      "A"
+    ],
+    [
+      "L",
+      "O",
+      "E",
+      "E",
+      "P",
+      "U",
+      "P",
+      "P",
+      "Y",
+      "T",
+      "T",
+      "S"
+    ],
+    [
+      "D",
+      "D",
+      "O",
+      "W",
+      "A",
+      "G",
+      "S",
+      "Y",
+      "Q",
+      "G",
+      "R",
+      "H"
+    ],
+    [
+      "A",
+      "H",
+      "A",
+      "R",
+      "N",
+      "E",
+      "S",
+      "S",
+      "G",
+      "R",
+      "G",
+      "F"
+    ],
+    [
+      "S",
+      "T",
+      "A",
+      "Y",
+      "J",
+      "E",
+      "B",
+      "O",
+      "C",
+      "I",
+      "M",
+      "J"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TRAINING",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "HARNESS",
+      "row": 10,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "COLLAR",
+      "row": 5,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "PUPPY",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "LEASH",
+      "row": 5,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "TREAT",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SNIFF",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "TRAIL",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "STAY",
+      "row": 11,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "HEEL",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "COME",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BARK",
+      "row": 1,
+      "col": 8,
+      "direction": "E"
+    },
+    {
+      "word": "SIT",
+      "row": 6,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "WAG",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2812
+}

@@ -1,0 +1,284 @@
+{
+  "id": "astronomy-medium-02",
+  "slug": "astronomy-medium-02",
+  "themeId": "astronomy",
+  "title": "Astronomy: Horizon Glow",
+  "primaryKeyword": "astronomy word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CLUSTER",
+    "COSMOS",
+    "EYEPIECE",
+    "LENS",
+    "LIGHTYEAR",
+    "LUNAR",
+    "MAGNITUDE",
+    "METEOR",
+    "MOUNT",
+    "OBSERVATORY",
+    "PARALLAX",
+    "SOLAR",
+    "SUPERNOVA",
+    "UNIVERSE"
+  ],
+  "grid": [
+    [
+      "M",
+      "E",
+      "T",
+      "E",
+      "O",
+      "R",
+      "R",
+      "M",
+      "O",
+      "C",
+      "J",
+      "J"
+    ],
+    [
+      "O",
+      "L",
+      "L",
+      "G",
+      "G",
+      "G",
+      "Q",
+      "Z",
+      "L",
+      "E",
+      "D",
+      "M"
+    ],
+    [
+      "B",
+      "M",
+      "M",
+      "S",
+      "X",
+      "P",
+      "A",
+      "L",
+      "M",
+      "Y",
+      "S",
+      "H"
+    ],
+    [
+      "S",
+      "D",
+      "A",
+      "U",
+      "C",
+      "A",
+      "C",
+      "U",
+      "U",
+      "E",
+      "U",
+      "L"
+    ],
+    [
+      "E",
+      "N",
+      "G",
+      "P",
+      "O",
+      "R",
+      "L",
+      "N",
+      "X",
+      "P",
+      "N",
+      "I"
+    ],
+    [
+      "R",
+      "E",
+      "N",
+      "E",
+      "S",
+      "A",
+      "U",
+      "A",
+      "C",
+      "I",
+      "I",
+      "G"
+    ],
+    [
+      "V",
+      "U",
+      "I",
+      "R",
+      "M",
+      "L",
+      "S",
+      "R",
+      "Z",
+      "E",
+      "V",
+      "H"
+    ],
+    [
+      "A",
+      "S",
+      "T",
+      "N",
+      "O",
+      "L",
+      "T",
+      "Q",
+      "L",
+      "C",
+      "E",
+      "T"
+    ],
+    [
+      "T",
+      "O",
+      "U",
+      "O",
+      "S",
+      "A",
+      "E",
+      "I",
+      "E",
+      "E",
+      "R",
+      "Y"
+    ],
+    [
+      "O",
+      "L",
+      "D",
+      "V",
+      "H",
+      "X",
+      "R",
+      "F",
+      "N",
+      "E",
+      "S",
+      "E"
+    ],
+    [
+      "R",
+      "A",
+      "E",
+      "A",
+      "O",
+      "P",
+      "F",
+      "A",
+      "S",
+      "K",
+      "E",
+      "A"
+    ],
+    [
+      "Y",
+      "R",
+      "S",
+      "C",
+      "S",
+      "M",
+      "O",
+      "U",
+      "N",
+      "T",
+      "Y",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "OBSERVATORY",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "MAGNITUDE",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "LIGHTYEAR",
+      "row": 3,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "SUPERNOVA",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "EYEPIECE",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "PARALLAX",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "UNIVERSE",
+      "row": 3,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "CLUSTER",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "COSMOS",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "METEOR",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "MOUNT",
+      "row": 11,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SOLAR",
+      "row": 7,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "LUNAR",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "LENS",
+      "row": 7,
+      "col": 8,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8854
+}

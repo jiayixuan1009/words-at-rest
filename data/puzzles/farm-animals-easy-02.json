@@ -1,0 +1,208 @@
+{
+  "id": "farm-animals-easy-02",
+  "slug": "farm-animals-easy-02",
+  "themeId": "farm-animals",
+  "title": "Farm Animals: Quiet Pasture",
+  "primaryKeyword": "farm animals word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CALF",
+    "CHICK",
+    "FEED",
+    "GATE",
+    "GOOSE",
+    "HERD",
+    "HORSE",
+    "PONY",
+    "SHEEP",
+    "YARD"
+  ],
+  "grid": [
+    [
+      "C",
+      "H",
+      "I",
+      "C",
+      "K",
+      "J",
+      "P",
+      "O",
+      "N",
+      "Y"
+    ],
+    [
+      "Y",
+      "K",
+      "A",
+      "G",
+      "P",
+      "J",
+      "Y",
+      "A",
+      "R",
+      "D"
+    ],
+    [
+      "A",
+      "S",
+      "X",
+      "I",
+      "U",
+      "U",
+      "L",
+      "Q",
+      "E",
+      "U"
+    ],
+    [
+      "W",
+      "H",
+      "R",
+      "I",
+      "H",
+      "E",
+      "R",
+      "D",
+      "X",
+      "U"
+    ],
+    [
+      "C",
+      "E",
+      "X",
+      "D",
+      "V",
+      "Z",
+      "I",
+      "E",
+      "M",
+      "Q"
+    ],
+    [
+      "V",
+      "E",
+      "U",
+      "H",
+      "O",
+      "R",
+      "S",
+      "E",
+      "X",
+      "X"
+    ],
+    [
+      "H",
+      "P",
+      "E",
+      "N",
+      "Z",
+      "G",
+      "A",
+      "T",
+      "E",
+      "F"
+    ],
+    [
+      "F",
+      "S",
+      "E",
+      "G",
+      "O",
+      "O",
+      "S",
+      "E",
+      "W",
+      "E"
+    ],
+    [
+      "W",
+      "Z",
+      "L",
+      "S",
+      "X",
+      "M",
+      "F",
+      "M",
+      "V",
+      "E"
+    ],
+    [
+      "K",
+      "S",
+      "A",
+      "C",
+      "A",
+      "L",
+      "F",
+      "Y",
+      "H",
+      "D"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "HORSE",
+      "row": 5,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SHEEP",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "CHICK",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "GOOSE",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "PONY",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "CALF",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "YARD",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "GATE",
+      "row": 6,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "FEED",
+      "row": 6,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "HERD",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8832
+}

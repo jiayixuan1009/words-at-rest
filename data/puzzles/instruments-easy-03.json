@@ -1,0 +1,208 @@
+{
+  "id": "instruments-easy-03",
+  "slug": "instruments-easy-03",
+  "themeId": "instruments",
+  "title": "Instruments: Gentle Walk",
+  "primaryKeyword": "musical instruments word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CASTANET",
+    "FLUTE",
+    "GONG",
+    "GUITAR",
+    "HARP",
+    "MARIMBA",
+    "SITAR",
+    "TRIANGLE",
+    "VIOLA",
+    "VIOLIN"
+  ],
+  "grid": [
+    [
+      "U",
+      "R",
+      "E",
+      "O",
+      "G",
+      "S",
+      "N",
+      "H",
+      "T",
+      "G"
+    ],
+    [
+      "V",
+      "Q",
+      "G",
+      "U",
+      "I",
+      "T",
+      "A",
+      "R",
+      "R",
+      "O"
+    ],
+    [
+      "C",
+      "A",
+      "S",
+      "T",
+      "A",
+      "N",
+      "E",
+      "T",
+      "I",
+      "N"
+    ],
+    [
+      "L",
+      "U",
+      "C",
+      "R",
+      "L",
+      "M",
+      "H",
+      "U",
+      "A",
+      "G"
+    ],
+    [
+      "I",
+      "V",
+      "I",
+      "O",
+      "L",
+      "A",
+      "A",
+      "C",
+      "N",
+      "F"
+    ],
+    [
+      "S",
+      "I",
+      "R",
+      "V",
+      "L",
+      "R",
+      "R",
+      "K",
+      "G",
+      "L"
+    ],
+    [
+      "I",
+      "O",
+      "M",
+      "K",
+      "F",
+      "I",
+      "P",
+      "T",
+      "L",
+      "U"
+    ],
+    [
+      "T",
+      "L",
+      "U",
+      "X",
+      "O",
+      "M",
+      "W",
+      "S",
+      "E",
+      "T"
+    ],
+    [
+      "A",
+      "I",
+      "C",
+      "K",
+      "E",
+      "B",
+      "H",
+      "S",
+      "H",
+      "E"
+    ],
+    [
+      "R",
+      "N",
+      "J",
+      "Q",
+      "M",
+      "A",
+      "D",
+      "K",
+      "T",
+      "G"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CASTANET",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "TRIANGLE",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "MARIMBA",
+      "row": 3,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "GUITAR",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "VIOLIN",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "FLUTE",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SITAR",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "VIOLA",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "HARP",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "GONG",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9290
+}

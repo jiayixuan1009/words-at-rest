@@ -1,0 +1,208 @@
+{
+  "id": "astronomy-easy-02",
+  "slug": "astronomy-easy-02",
+  "themeId": "astronomy",
+  "title": "Astronomy: Quiet Orbit",
+  "primaryKeyword": "astronomy word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "AXIS",
+    "CRATER",
+    "DUST",
+    "GALAXY",
+    "GAS",
+    "NEBULA",
+    "PHASE",
+    "PLANET",
+    "POLE",
+    "VOID"
+  ],
+  "grid": [
+    [
+      "L",
+      "D",
+      "F",
+      "D",
+      "G",
+      "J",
+      "P",
+      "O",
+      "L",
+      "E"
+    ],
+    [
+      "G",
+      "A",
+      "L",
+      "A",
+      "X",
+      "Y",
+      "T",
+      "V",
+      "Z",
+      "K"
+    ],
+    [
+      "A",
+      "X",
+      "I",
+      "S",
+      "U",
+      "Z",
+      "P",
+      "O",
+      "N",
+      "C"
+    ],
+    [
+      "K",
+      "T",
+      "P",
+      "C",
+      "Y",
+      "T",
+      "L",
+      "I",
+      "Z",
+      "R"
+    ],
+    [
+      "M",
+      "L",
+      "Q",
+      "S",
+      "O",
+      "E",
+      "A",
+      "D",
+      "O",
+      "A"
+    ],
+    [
+      "J",
+      "Z",
+      "Z",
+      "M",
+      "Y",
+      "K",
+      "N",
+      "L",
+      "P",
+      "T"
+    ],
+    [
+      "E",
+      "T",
+      "R",
+      "U",
+      "R",
+      "S",
+      "E",
+      "K",
+      "H",
+      "E"
+    ],
+    [
+      "M",
+      "G",
+      "A",
+      "S",
+      "G",
+      "A",
+      "T",
+      "Z",
+      "A",
+      "R"
+    ],
+    [
+      "Q",
+      "F",
+      "D",
+      "U",
+      "S",
+      "T",
+      "R",
+      "T",
+      "S",
+      "S"
+    ],
+    [
+      "R",
+      "I",
+      "N",
+      "E",
+      "B",
+      "U",
+      "L",
+      "A",
+      "E",
+      "D"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PLANET",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "NEBULA",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "GALAXY",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CRATER",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "PHASE",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "POLE",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "AXIS",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "DUST",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "VOID",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "GAS",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8852
+}

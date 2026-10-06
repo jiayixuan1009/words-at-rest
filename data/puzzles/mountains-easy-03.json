@@ -1,0 +1,208 @@
+{
+  "id": "mountains-easy-03",
+  "slug": "mountains-easy-03",
+  "themeId": "mountains",
+  "title": "Mountains: Pass View",
+  "primaryKeyword": "mountains word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CLOUD",
+    "HIKE",
+    "PASS",
+    "PEAK",
+    "REST",
+    "RIDGE",
+    "ROCK",
+    "SNOW",
+    "VIEW",
+    "WIND"
+  ],
+  "grid": [
+    [
+      "S",
+      "W",
+      "Q",
+      "C",
+      "L",
+      "O",
+      "U",
+      "D",
+      "T",
+      "H"
+    ],
+    [
+      "N",
+      "B",
+      "K",
+      "E",
+      "M",
+      "S",
+      "N",
+      "O",
+      "W",
+      "L"
+    ],
+    [
+      "E",
+      "J",
+      "G",
+      "W",
+      "T",
+      "X",
+      "S",
+      "B",
+      "R",
+      "V"
+    ],
+    [
+      "T",
+      "R",
+      "O",
+      "C",
+      "K",
+      "Y",
+      "X",
+      "Y",
+      "E",
+      "I"
+    ],
+    [
+      "N",
+      "A",
+      "F",
+      "Y",
+      "I",
+      "B",
+      "U",
+      "D",
+      "S",
+      "E"
+    ],
+    [
+      "H",
+      "Q",
+      "G",
+      "P",
+      "R",
+      "W",
+      "C",
+      "O",
+      "T",
+      "W"
+    ],
+    [
+      "I",
+      "D",
+      "L",
+      "E",
+      "I",
+      "I",
+      "H",
+      "P",
+      "J",
+      "K"
+    ],
+    [
+      "K",
+      "K",
+      "H",
+      "A",
+      "D",
+      "N",
+      "D",
+      "A",
+      "F",
+      "C"
+    ],
+    [
+      "E",
+      "K",
+      "G",
+      "K",
+      "G",
+      "D",
+      "O",
+      "S",
+      "K",
+      "V"
+    ],
+    [
+      "C",
+      "C",
+      "V",
+      "H",
+      "E",
+      "O",
+      "P",
+      "S",
+      "L",
+      "V"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "RIDGE",
+      "row": 5,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "CLOUD",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "PASS",
+      "row": 6,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "VIEW",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "PEAK",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "SNOW",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "ROCK",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "WIND",
+      "row": 5,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "HIKE",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "REST",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 3411
+}

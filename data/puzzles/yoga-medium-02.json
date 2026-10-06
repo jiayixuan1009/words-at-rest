@@ -1,0 +1,284 @@
+{
+  "id": "yoga-medium-02",
+  "slug": "yoga-medium-02",
+  "themeId": "yoga",
+  "title": "Yoga: Studio Calm",
+  "primaryKeyword": "yoga word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BRIDGE",
+    "CENTER",
+    "CLASS",
+    "EVENING",
+    "FLEX",
+    "FOLD",
+    "GROUND",
+    "HAND",
+    "RELAX",
+    "RESTORE",
+    "RISE",
+    "ROOT",
+    "TWIST",
+    "WARRIOR"
+  ],
+  "grid": [
+    [
+      "W",
+      "A",
+      "G",
+      "T",
+      "T",
+      "M",
+      "F",
+      "E",
+      "M",
+      "R",
+      "T",
+      "C"
+    ],
+    [
+      "A",
+      "T",
+      "I",
+      "J",
+      "S",
+      "P",
+      "J",
+      "V",
+      "R",
+      "E",
+      "W",
+      "P"
+    ],
+    [
+      "R",
+      "B",
+      "R",
+      "I",
+      "D",
+      "G",
+      "E",
+      "E",
+      "L",
+      "S",
+      "I",
+      "K"
+    ],
+    [
+      "R",
+      "M",
+      "K",
+      "J",
+      "O",
+      "K",
+      "T",
+      "N",
+      "F",
+      "T",
+      "S",
+      "K"
+    ],
+    [
+      "I",
+      "R",
+      "H",
+      "Z",
+      "F",
+      "N",
+      "N",
+      "I",
+      "L",
+      "O",
+      "T",
+      "V"
+    ],
+    [
+      "O",
+      "E",
+      "W",
+      "K",
+      "E",
+      "Y",
+      "G",
+      "N",
+      "E",
+      "R",
+      "X",
+      "R"
+    ],
+    [
+      "R",
+      "L",
+      "F",
+      "C",
+      "C",
+      "G",
+      "J",
+      "G",
+      "X",
+      "E",
+      "F",
+      "O"
+    ],
+    [
+      "P",
+      "A",
+      "O",
+      "A",
+      "Q",
+      "X",
+      "R",
+      "O",
+      "O",
+      "Q",
+      "W",
+      "O"
+    ],
+    [
+      "W",
+      "X",
+      "L",
+      "R",
+      "I",
+      "S",
+      "E",
+      "O",
+      "Y",
+      "Z",
+      "H",
+      "T"
+    ],
+    [
+      "G",
+      "H",
+      "D",
+      "C",
+      "L",
+      "Q",
+      "O",
+      "I",
+      "U",
+      "J",
+      "H",
+      "J"
+    ],
+    [
+      "X",
+      "V",
+      "Z",
+      "C",
+      "L",
+      "A",
+      "S",
+      "S",
+      "S",
+      "N",
+      "P",
+      "U"
+    ],
+    [
+      "G",
+      "V",
+      "Z",
+      "J",
+      "H",
+      "A",
+      "N",
+      "D",
+      "Z",
+      "K",
+      "D",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "EVENING",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "RESTORE",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "WARRIOR",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CENTER",
+      "row": 6,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "GROUND",
+      "row": 6,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "BRIDGE",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "RELAX",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "TWIST",
+      "row": 0,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "CLASS",
+      "row": 10,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "ROOT",
+      "row": 5,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "RISE",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "FOLD",
+      "row": 6,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "HAND",
+      "row": 11,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "FLEX",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8874
+}

@@ -1,0 +1,173 @@
+{
+  "id": "meditation-large-01",
+  "slug": "meditation-large-01",
+  "themeId": "meditation",
+  "title": "Large Print Meditation: Soft Mat",
+  "primaryKeyword": "large print meditation word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BREATH",
+    "CALM",
+    "PEACE",
+    "QUIET",
+    "REST",
+    "SIT",
+    "SOFT",
+    "STILL"
+  ],
+  "grid": [
+    [
+      "U",
+      "W",
+      "Q",
+      "L",
+      "E",
+      "Y",
+      "Q",
+      "B",
+      "V"
+    ],
+    [
+      "D",
+      "P",
+      "S",
+      "N",
+      "B",
+      "N",
+      "Q",
+      "J",
+      "C"
+    ],
+    [
+      "P",
+      "E",
+      "A",
+      "C",
+      "E",
+      "O",
+      "U",
+      "B",
+      "Y"
+    ],
+    [
+      "D",
+      "O",
+      "K",
+      "W",
+      "Y",
+      "X",
+      "I",
+      "U",
+      "Z"
+    ],
+    [
+      "Q",
+      "S",
+      "O",
+      "F",
+      "T",
+      "R",
+      "E",
+      "U",
+      "E"
+    ],
+    [
+      "C",
+      "P",
+      "M",
+      "S",
+      "C",
+      "Y",
+      "T",
+      "G",
+      "D"
+    ],
+    [
+      "A",
+      "B",
+      "B",
+      "R",
+      "E",
+      "A",
+      "T",
+      "H",
+      "J"
+    ],
+    [
+      "L",
+      "R",
+      "E",
+      "S",
+      "T",
+      "I",
+      "L",
+      "L",
+      "A"
+    ],
+    [
+      "M",
+      "S",
+      "I",
+      "T",
+      "V",
+      "F",
+      "V",
+      "I",
+      "K"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BREATH",
+      "row": 6,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "STILL",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "QUIET",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "PEACE",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CALM",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SOFT",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "REST",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SIT",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9006
+}

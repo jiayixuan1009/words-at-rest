@@ -1,0 +1,284 @@
+{
+  "id": "calligraphy-medium-03",
+  "slug": "calligraphy-medium-03",
+  "themeId": "calligraphy",
+  "title": "Calligraphy: Warm Corner",
+  "primaryKeyword": "calligraphy word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ART",
+    "ASCENDER",
+    "BASELINE",
+    "BEAUTY",
+    "BLOTTER",
+    "DESK",
+    "PAPER",
+    "PRACTICE",
+    "QUIET",
+    "RHYTHM",
+    "SEAL",
+    "SERIF",
+    "SHEET",
+    "SLANT"
+  ],
+  "grid": [
+    [
+      "A",
+      "P",
+      "W",
+      "E",
+      "F",
+      "B",
+      "U",
+      "K",
+      "U",
+      "H",
+      "P",
+      "A"
+    ],
+    [
+      "J",
+      "F",
+      "K",
+      "S",
+      "Q",
+      "E",
+      "Y",
+      "N",
+      "Q",
+      "S",
+      "A",
+      "H"
+    ],
+    [
+      "S",
+      "H",
+      "E",
+      "E",
+      "T",
+      "A",
+      "D",
+      "Q",
+      "H",
+      "L",
+      "P",
+      "D"
+    ],
+    [
+      "G",
+      "S",
+      "E",
+      "B",
+      "U",
+      "U",
+      "G",
+      "U",
+      "C",
+      "A",
+      "E",
+      "E"
+    ],
+    [
+      "F",
+      "E",
+      "B",
+      "S",
+      "W",
+      "T",
+      "Z",
+      "I",
+      "R",
+      "N",
+      "R",
+      "S"
+    ],
+    [
+      "E",
+      "A",
+      "A",
+      "E",
+      "B",
+      "Y",
+      "I",
+      "E",
+      "H",
+      "T",
+      "T",
+      "K"
+    ],
+    [
+      "G",
+      "L",
+      "S",
+      "R",
+      "A",
+      "N",
+      "M",
+      "T",
+      "Y",
+      "O",
+      "I",
+      "X"
+    ],
+    [
+      "Y",
+      "R",
+      "E",
+      "I",
+      "P",
+      "R",
+      "A",
+      "C",
+      "T",
+      "I",
+      "C",
+      "E"
+    ],
+    [
+      "B",
+      "C",
+      "L",
+      "F",
+      "Z",
+      "C",
+      "T",
+      "D",
+      "H",
+      "M",
+      "A",
+      "C"
+    ],
+    [
+      "L",
+      "C",
+      "I",
+      "P",
+      "O",
+      "B",
+      "O",
+      "B",
+      "M",
+      "E",
+      "J",
+      "B"
+    ],
+    [
+      "C",
+      "X",
+      "N",
+      "F",
+      "A",
+      "S",
+      "C",
+      "E",
+      "N",
+      "D",
+      "E",
+      "R"
+    ],
+    [
+      "T",
+      "I",
+      "E",
+      "B",
+      "L",
+      "O",
+      "T",
+      "T",
+      "E",
+      "R",
+      "X",
+      "M"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PRACTICE",
+      "row": 7,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "ASCENDER",
+      "row": 10,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BASELINE",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "BLOTTER",
+      "row": 11,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "RHYTHM",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "BEAUTY",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "SHEET",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "QUIET",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SLANT",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "PAPER",
+      "row": 0,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "SERIF",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "SEAL",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "DESK",
+      "row": 2,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "ART",
+      "row": 6,
+      "col": 4,
+      "direction": "SE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9223
+}

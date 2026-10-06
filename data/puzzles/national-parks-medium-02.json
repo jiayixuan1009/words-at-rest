@@ -1,0 +1,284 @@
+{
+  "id": "national-parks-medium-02",
+  "slug": "national-parks-medium-02",
+  "themeId": "national-parks",
+  "title": "National Parks: Canyon Light",
+  "primaryKeyword": "national parks word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ARCH",
+    "BACKPACK",
+    "BASIN",
+    "BISON",
+    "CAVE",
+    "CENTER",
+    "DUNE",
+    "MAP",
+    "NATURE",
+    "PRESERVE",
+    "QUIET",
+    "REEF",
+    "SHORE",
+    "WILDERNESS"
+  ],
+  "grid": [
+    [
+      "X",
+      "M",
+      "T",
+      "R",
+      "W",
+      "A",
+      "F",
+      "O",
+      "S",
+      "W",
+      "T",
+      "B"
+    ],
+    [
+      "U",
+      "P",
+      "N",
+      "P",
+      "D",
+      "R",
+      "L",
+      "S",
+      "R",
+      "X",
+      "M",
+      "C"
+    ],
+    [
+      "F",
+      "N",
+      "Q",
+      "A",
+      "T",
+      "C",
+      "L",
+      "G",
+      "K",
+      "N",
+      "E",
+      "E"
+    ],
+    [
+      "D",
+      "R",
+      "U",
+      "M",
+      "T",
+      "H",
+      "N",
+      "C",
+      "G",
+      "V",
+      "H",
+      "N"
+    ],
+    [
+      "U",
+      "E",
+      "I",
+      "A",
+      "N",
+      "U",
+      "A",
+      "Z",
+      "R",
+      "N",
+      "F",
+      "T"
+    ],
+    [
+      "N",
+      "E",
+      "E",
+      "P",
+      "C",
+      "P",
+      "R",
+      "E",
+      "C",
+      "J",
+      "U",
+      "E"
+    ],
+    [
+      "E",
+      "F",
+      "T",
+      "K",
+      "K",
+      "N",
+      "S",
+      "E",
+      "Z",
+      "A",
+      "R",
+      "R"
+    ],
+    [
+      "B",
+      "S",
+      "C",
+      "C",
+      "T",
+      "E",
+      "N",
+      "B",
+      "K",
+      "O",
+      "V",
+      "G"
+    ],
+    [
+      "Q",
+      "A",
+      "A",
+      "S",
+      "R",
+      "O",
+      "Z",
+      "B",
+      "H",
+      "E",
+      "Y",
+      "E"
+    ],
+    [
+      "C",
+      "B",
+      "S",
+      "P",
+      "S",
+      "K",
+      "N",
+      "S",
+      "R",
+      "W",
+      "W",
+      "U"
+    ],
+    [
+      "B",
+      "C",
+      "W",
+      "I",
+      "L",
+      "D",
+      "E",
+      "R",
+      "N",
+      "E",
+      "S",
+      "S"
+    ],
+    [
+      "Z",
+      "Z",
+      "B",
+      "E",
+      "N",
+      "O",
+      "X",
+      "M",
+      "K",
+      "X",
+      "R",
+      "J"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "WILDERNESS",
+      "row": 10,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PRESERVE",
+      "row": 9,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "BACKPACK",
+      "row": 9,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "NATURE",
+      "row": 1,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "CENTER",
+      "row": 1,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "BASIN",
+      "row": 7,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "SHORE",
+      "row": 9,
+      "col": 7,
+      "direction": "NE"
+    },
+    {
+      "word": "BISON",
+      "row": 11,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "QUIET",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "DUNE",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "REEF",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "CAVE",
+      "row": 5,
+      "col": 8,
+      "direction": "SE"
+    },
+    {
+      "word": "ARCH",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "MAP",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8814
+}

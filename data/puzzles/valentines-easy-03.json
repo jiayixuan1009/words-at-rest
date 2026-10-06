@@ -1,0 +1,208 @@
+{
+  "id": "valentines-easy-03",
+  "slug": "valentines-easy-03",
+  "themeId": "valentines",
+  "title": "Valentine's Day: Calm Desk",
+  "primaryKeyword": "valentine word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BLOOM",
+    "DANCE",
+    "ENVELOPE",
+    "HANDHOLD",
+    "KINDNESS",
+    "RIBBON",
+    "ROMANCE",
+    "SERENADE",
+    "SWEET",
+    "TENDERNESS"
+  ],
+  "grid": [
+    [
+      "E",
+      "I",
+      "R",
+      "O",
+      "M",
+      "A",
+      "N",
+      "C",
+      "E",
+      "I"
+    ],
+    [
+      "E",
+      "N",
+      "S",
+      "E",
+      "R",
+      "E",
+      "N",
+      "A",
+      "D",
+      "E"
+    ],
+    [
+      "K",
+      "I",
+      "N",
+      "D",
+      "N",
+      "E",
+      "S",
+      "S",
+      "D",
+      "N"
+    ],
+    [
+      "H",
+      "D",
+      "A",
+      "N",
+      "C",
+      "E",
+      "E",
+      "N",
+      "G",
+      "N"
+    ],
+    [
+      "T",
+      "E",
+      "N",
+      "D",
+      "E",
+      "R",
+      "N",
+      "E",
+      "S",
+      "S"
+    ],
+    [
+      "A",
+      "A",
+      "D",
+      "T",
+      "M",
+      "S",
+      "W",
+      "E",
+      "E",
+      "T"
+    ],
+    [
+      "T",
+      "V",
+      "E",
+      "N",
+      "V",
+      "E",
+      "L",
+      "O",
+      "P",
+      "E"
+    ],
+    [
+      "E",
+      "H",
+      "A",
+      "N",
+      "D",
+      "H",
+      "O",
+      "L",
+      "D",
+      "C"
+    ],
+    [
+      "W",
+      "C",
+      "R",
+      "R",
+      "I",
+      "B",
+      "B",
+      "O",
+      "N",
+      "B"
+    ],
+    [
+      "Z",
+      "N",
+      "J",
+      "B",
+      "L",
+      "O",
+      "O",
+      "M",
+      "F",
+      "G"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TENDERNESS",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "KINDNESS",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "HANDHOLD",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "ENVELOPE",
+      "row": 6,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SERENADE",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ROMANCE",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "RIBBON",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BLOOM",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "DANCE",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SWEET",
+      "row": 5,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9354
+}

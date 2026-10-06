@@ -1,0 +1,284 @@
+{
+  "id": "baking-medium-03",
+  "slug": "baking-medium-03",
+  "themeId": "baking",
+  "title": "Baking: Nested Calm",
+  "primaryKeyword": "baking word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BUTTER",
+    "CINNAMON",
+    "COOKIE",
+    "DOUGH",
+    "KNEAD",
+    "MILK",
+    "MIX",
+    "PROOF",
+    "RACK",
+    "SCONE",
+    "SCORE",
+    "TIMER",
+    "YEAST",
+    "ZEST"
+  ],
+  "grid": [
+    [
+      "E",
+      "O",
+      "F",
+      "Y",
+      "D",
+      "O",
+      "U",
+      "G",
+      "H",
+      "F",
+      "Y",
+      "T"
+    ],
+    [
+      "Z",
+      "Y",
+      "M",
+      "O",
+      "A",
+      "A",
+      "R",
+      "P",
+      "P",
+      "U",
+      "Z",
+      "A"
+    ],
+    [
+      "E",
+      "M",
+      "C",
+      "P",
+      "F",
+      "O",
+      "A",
+      "F",
+      "Z",
+      "P",
+      "U",
+      "S"
+    ],
+    [
+      "S",
+      "L",
+      "O",
+      "C",
+      "C",
+      "C",
+      "C",
+      "C",
+      "P",
+      "M",
+      "H",
+      "C"
+    ],
+    [
+      "T",
+      "M",
+      "O",
+      "M",
+      "N",
+      "I",
+      "K",
+      "Y",
+      "G",
+      "I",
+      "V",
+      "O"
+    ],
+    [
+      "E",
+      "K",
+      "K",
+      "I",
+      "U",
+      "N",
+      "V",
+      "E",
+      "I",
+      "X",
+      "F",
+      "N"
+    ],
+    [
+      "T",
+      "K",
+      "I",
+      "L",
+      "B",
+      "N",
+      "I",
+      "A",
+      "O",
+      "O",
+      "P",
+      "E"
+    ],
+    [
+      "S",
+      "N",
+      "E",
+      "K",
+      "U",
+      "A",
+      "B",
+      "S",
+      "X",
+      "R",
+      "R",
+      "I"
+    ],
+    [
+      "C",
+      "E",
+      "D",
+      "H",
+      "T",
+      "M",
+      "J",
+      "T",
+      "E",
+      "K",
+      "O",
+      "X"
+    ],
+    [
+      "O",
+      "A",
+      "Q",
+      "C",
+      "T",
+      "O",
+      "G",
+      "M",
+      "G",
+      "B",
+      "O",
+      "J"
+    ],
+    [
+      "R",
+      "D",
+      "B",
+      "D",
+      "E",
+      "N",
+      "I",
+      "R",
+      "H",
+      "Y",
+      "F",
+      "O"
+    ],
+    [
+      "E",
+      "Y",
+      "E",
+      "P",
+      "R",
+      "T",
+      "Z",
+      "W",
+      "B",
+      "Q",
+      "K",
+      "X"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CINNAMON",
+      "row": 3,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "COOKIE",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "BUTTER",
+      "row": 6,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "PROOF",
+      "row": 6,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "SCONE",
+      "row": 2,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "KNEAD",
+      "row": 6,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "DOUGH",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "YEAST",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SCORE",
+      "row": 7,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "TIMER",
+      "row": 11,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "ZEST",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "RACK",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "MILK",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "MIX",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9209
+}

@@ -1,0 +1,208 @@
+{
+  "id": "gardening-tools-easy-02",
+  "slug": "gardening-tools-easy-02",
+  "themeId": "gardening-tools",
+  "title": "Gardening Tools: Quiet Trowel",
+  "primaryKeyword": "gardening tools word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BOOT",
+    "GLOVE",
+    "HOSE",
+    "PRUNER",
+    "SHEARS",
+    "SHED",
+    "STAKE",
+    "TRAY",
+    "TROWEL",
+    "TWINE"
+  ],
+  "grid": [
+    [
+      "T",
+      "S",
+      "S",
+      "H",
+      "E",
+      "A",
+      "R",
+      "S",
+      "Q",
+      "H"
+    ],
+    [
+      "D",
+      "T",
+      "T",
+      "E",
+      "K",
+      "H",
+      "O",
+      "S",
+      "E",
+      "S"
+    ],
+    [
+      "W",
+      "A",
+      "R",
+      "J",
+      "D",
+      "E",
+      "P",
+      "N",
+      "P",
+      "H"
+    ],
+    [
+      "N",
+      "K",
+      "A",
+      "P",
+      "O",
+      "P",
+      "R",
+      "F",
+      "B",
+      "E"
+    ],
+    [
+      "A",
+      "E",
+      "Y",
+      "B",
+      "Z",
+      "J",
+      "U",
+      "L",
+      "F",
+      "D"
+    ],
+    [
+      "G",
+      "Z",
+      "E",
+      "O",
+      "G",
+      "W",
+      "N",
+      "G",
+      "X",
+      "K"
+    ],
+    [
+      "L",
+      "Z",
+      "M",
+      "O",
+      "E",
+      "S",
+      "E",
+      "R",
+      "O",
+      "N"
+    ],
+    [
+      "O",
+      "H",
+      "M",
+      "T",
+      "L",
+      "Z",
+      "R",
+      "A",
+      "B",
+      "D"
+    ],
+    [
+      "V",
+      "K",
+      "B",
+      "V",
+      "T",
+      "W",
+      "I",
+      "N",
+      "E",
+      "S"
+    ],
+    [
+      "E",
+      "T",
+      "R",
+      "O",
+      "W",
+      "E",
+      "L",
+      "H",
+      "U",
+      "G"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TROWEL",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PRUNER",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "SHEARS",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "GLOVE",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "TWINE",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "STAKE",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "HOSE",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "BOOT",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "TRAY",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "SHED",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8952
+}

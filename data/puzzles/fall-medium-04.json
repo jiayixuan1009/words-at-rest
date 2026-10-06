@@ -1,0 +1,284 @@
+{
+  "id": "fall-medium-04",
+  "slug": "fall-medium-04",
+  "themeId": "fall",
+  "title": "Fall: Orchard Gate",
+  "primaryKeyword": "fall word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BASKET",
+    "BUSHEL",
+    "CIDER",
+    "CRATE",
+    "FENCE",
+    "GATE",
+    "GOLD",
+    "LADDER",
+    "LEAF",
+    "ORCHARD",
+    "PATH",
+    "PILE",
+    "PRESS",
+    "RUST"
+  ],
+  "grid": [
+    [
+      "L",
+      "K",
+      "C",
+      "J",
+      "R",
+      "D",
+      "R",
+      "C",
+      "C",
+      "O",
+      "D",
+      "E"
+    ],
+    [
+      "T",
+      "I",
+      "P",
+      "R",
+      "E",
+      "S",
+      "S",
+      "R",
+      "I",
+      "L",
+      "B",
+      "T"
+    ],
+    [
+      "E",
+      "B",
+      "T",
+      "M",
+      "K",
+      "F",
+      "E",
+      "D",
+      "O",
+      "D",
+      "Q",
+      "M"
+    ],
+    [
+      "B",
+      "A",
+      "S",
+      "K",
+      "E",
+      "T",
+      "E",
+      "G",
+      "S",
+      "N",
+      "E",
+      "Z"
+    ],
+    [
+      "U",
+      "O",
+      "O",
+      "J",
+      "S",
+      "E",
+      "G",
+      "N",
+      "A",
+      "X",
+      "R",
+      "R"
+    ],
+    [
+      "S",
+      "M",
+      "C",
+      "U",
+      "L",
+      "G",
+      "A",
+      "D",
+      "C",
+      "F",
+      "M",
+      "L"
+    ],
+    [
+      "H",
+      "S",
+      "R",
+      "I",
+      "N",
+      "B",
+      "T",
+      "M",
+      "K",
+      "E",
+      "C",
+      "E"
+    ],
+    [
+      "E",
+      "I",
+      "P",
+      "S",
+      "A",
+      "T",
+      "E",
+      "Z",
+      "Y",
+      "W",
+      "C",
+      "A"
+    ],
+    [
+      "L",
+      "A",
+      "F",
+      "O",
+      "R",
+      "C",
+      "H",
+      "A",
+      "R",
+      "D",
+      "R",
+      "F"
+    ],
+    [
+      "F",
+      "P",
+      "A",
+      "T",
+      "H",
+      "I",
+      "F",
+      "O",
+      "T",
+      "D",
+      "A",
+      "J"
+    ],
+    [
+      "H",
+      "F",
+      "H",
+      "D",
+      "D",
+      "J",
+      "T",
+      "E",
+      "Y",
+      "N",
+      "T",
+      "R"
+    ],
+    [
+      "L",
+      "A",
+      "D",
+      "D",
+      "E",
+      "R",
+      "U",
+      "X",
+      "F",
+      "G",
+      "E",
+      "W"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ORCHARD",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "LADDER",
+      "row": 11,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BUSHEL",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BASKET",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CIDER",
+      "row": 0,
+      "col": 7,
+      "direction": "SE"
+    },
+    {
+      "word": "PRESS",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CRATE",
+      "row": 7,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "FENCE",
+      "row": 2,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "GATE",
+      "row": 4,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "LEAF",
+      "row": 5,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "PILE",
+      "row": 7,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "PATH",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "RUST",
+      "row": 6,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "GOLD",
+      "row": 3,
+      "col": 7,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 1142
+}

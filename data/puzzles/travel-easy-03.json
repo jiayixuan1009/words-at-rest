@@ -1,0 +1,208 @@
+{
+  "id": "travel-easy-03",
+  "slug": "travel-easy-03",
+  "themeId": "travel",
+  "title": "Travel: Harbor Morning",
+  "primaryKeyword": "travel word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BAG",
+    "CRANE",
+    "DOCK",
+    "HARBOR",
+    "HAT",
+    "QUIET",
+    "SHIP",
+    "SUN",
+    "VIEW",
+    "WALK"
+  ],
+  "grid": [
+    [
+      "U",
+      "R",
+      "S",
+      "H",
+      "A",
+      "T",
+      "D",
+      "N",
+      "A",
+      "Z"
+    ],
+    [
+      "Y",
+      "V",
+      "S",
+      "H",
+      "I",
+      "P",
+      "B",
+      "C",
+      "B",
+      "V"
+    ],
+    [
+      "F",
+      "B",
+      "R",
+      "F",
+      "K",
+      "J",
+      "A",
+      "R",
+      "D",
+      "B"
+    ],
+    [
+      "W",
+      "Q",
+      "R",
+      "L",
+      "V",
+      "I",
+      "Y",
+      "A",
+      "O",
+      "V"
+    ],
+    [
+      "Z",
+      "U",
+      "H",
+      "W",
+      "A",
+      "L",
+      "K",
+      "N",
+      "C",
+      "Q"
+    ],
+    [
+      "V",
+      "I",
+      "A",
+      "Z",
+      "S",
+      "M",
+      "U",
+      "E",
+      "K",
+      "I"
+    ],
+    [
+      "I",
+      "E",
+      "R",
+      "A",
+      "U",
+      "D",
+      "M",
+      "X",
+      "V",
+      "V"
+    ],
+    [
+      "E",
+      "T",
+      "B",
+      "X",
+      "N",
+      "K",
+      "H",
+      "B",
+      "N",
+      "I"
+    ],
+    [
+      "W",
+      "G",
+      "O",
+      "O",
+      "P",
+      "H",
+      "Y",
+      "A",
+      "R",
+      "V"
+    ],
+    [
+      "N",
+      "P",
+      "R",
+      "F",
+      "H",
+      "K",
+      "Q",
+      "G",
+      "T",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "HARBOR",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "CRANE",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "QUIET",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SHIP",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "DOCK",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "WALK",
+      "row": 4,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "VIEW",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BAG",
+      "row": 7,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "HAT",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SUN",
+      "row": 5,
+      "col": 4,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2521
+}

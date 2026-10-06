@@ -1,0 +1,208 @@
+{
+  "id": "music-terms-easy-03",
+  "slug": "music-terms-easy-03",
+  "themeId": "music-terms",
+  "title": "Musical Terms: Gentle Walk",
+  "primaryKeyword": "musical terms word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ACCENT",
+    "DYNAMICS",
+    "FLAT",
+    "HARMONY",
+    "KEY",
+    "MELODY",
+    "SHARP",
+    "STAFF",
+    "TIE",
+    "UNISON"
+  ],
+  "grid": [
+    [
+      "S",
+      "T",
+      "A",
+      "F",
+      "F",
+      "O",
+      "W",
+      "S",
+      "B",
+      "C"
+    ],
+    [
+      "K",
+      "B",
+      "R",
+      "M",
+      "E",
+      "L",
+      "O",
+      "D",
+      "Y",
+      "L"
+    ],
+    [
+      "J",
+      "T",
+      "U",
+      "A",
+      "Y",
+      "D",
+      "C",
+      "H",
+      "A",
+      "O"
+    ],
+    [
+      "V",
+      "U",
+      "N",
+      "O",
+      "K",
+      "Y",
+      "F",
+      "A",
+      "C",
+      "Z"
+    ],
+    [
+      "Y",
+      "S",
+      "I",
+      "S",
+      "E",
+      "N",
+      "L",
+      "R",
+      "C",
+      "V"
+    ],
+    [
+      "R",
+      "G",
+      "S",
+      "H",
+      "Y",
+      "A",
+      "A",
+      "M",
+      "E",
+      "G"
+    ],
+    [
+      "O",
+      "O",
+      "O",
+      "A",
+      "J",
+      "M",
+      "T",
+      "O",
+      "N",
+      "F"
+    ],
+    [
+      "W",
+      "M",
+      "N",
+      "R",
+      "N",
+      "I",
+      "J",
+      "N",
+      "T",
+      "T"
+    ],
+    [
+      "I",
+      "O",
+      "K",
+      "P",
+      "H",
+      "C",
+      "F",
+      "Y",
+      "E",
+      "N"
+    ],
+    [
+      "O",
+      "O",
+      "N",
+      "V",
+      "R",
+      "S",
+      "J",
+      "T",
+      "I",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "DYNAMICS",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "HARMONY",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "UNISON",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "MELODY",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "ACCENT",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "SHARP",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "STAFF",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "FLAT",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "KEY",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "TIE",
+      "row": 9,
+      "col": 7,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9316
+}

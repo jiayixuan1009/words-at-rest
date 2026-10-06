@@ -1,0 +1,284 @@
+{
+  "id": "ocean-medium-03",
+  "slug": "ocean-medium-03",
+  "themeId": "ocean",
+  "title": "Ocean: Channel Run",
+  "primaryKeyword": "ocean word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ANCHOR",
+    "BUOY",
+    "CAPTAIN",
+    "CHANNEL",
+    "CREW",
+    "HORIZON",
+    "HULL",
+    "JETTY",
+    "MARINA",
+    "MAST",
+    "SAIL",
+    "SPRAY",
+    "SURF",
+    "SWELL"
+  ],
+  "grid": [
+    [
+      "T",
+      "I",
+      "J",
+      "F",
+      "X",
+      "Q",
+      "Y",
+      "E",
+      "M",
+      "B",
+      "F",
+      "Y"
+    ],
+    [
+      "N",
+      "F",
+      "V",
+      "U",
+      "M",
+      "A",
+      "S",
+      "T",
+      "T",
+      "E",
+      "O",
+      "P"
+    ],
+    [
+      "J",
+      "Q",
+      "E",
+      "C",
+      "H",
+      "A",
+      "N",
+      "N",
+      "E",
+      "L",
+      "C",
+      "H"
+    ],
+    [
+      "Q",
+      "M",
+      "C",
+      "W",
+      "S",
+      "K",
+      "Q",
+      "F",
+      "M",
+      "Z",
+      "G",
+      "O"
+    ],
+    [
+      "U",
+      "S",
+      "A",
+      "I",
+      "L",
+      "U",
+      "B",
+      "A",
+      "Y",
+      "B",
+      "V",
+      "R"
+    ],
+    [
+      "A",
+      "B",
+      "N",
+      "E",
+      "J",
+      "E",
+      "R",
+      "T",
+      "S",
+      "J",
+      "P",
+      "I"
+    ],
+    [
+      "S",
+      "U",
+      "C",
+      "C",
+      "U",
+      "A",
+      "T",
+      "F",
+      "P",
+      "H",
+      "P",
+      "Z"
+    ],
+    [
+      "W",
+      "O",
+      "H",
+      "S",
+      "N",
+      "E",
+      "C",
+      "E",
+      "R",
+      "V",
+      "C",
+      "O"
+    ],
+    [
+      "E",
+      "Y",
+      "O",
+      "I",
+      "J",
+      "O",
+      "N",
+      "H",
+      "A",
+      "W",
+      "W",
+      "N"
+    ],
+    [
+      "L",
+      "I",
+      "R",
+      "H",
+      "U",
+      "L",
+      "L",
+      "C",
+      "Y",
+      "A",
+      "D",
+      "W"
+    ],
+    [
+      "L",
+      "A",
+      "R",
+      "W",
+      "C",
+      "R",
+      "E",
+      "W",
+      "D",
+      "P",
+      "O",
+      "F"
+    ],
+    [
+      "M",
+      "Q",
+      "M",
+      "U",
+      "C",
+      "A",
+      "P",
+      "T",
+      "A",
+      "I",
+      "N",
+      "U"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CHANNEL",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "CAPTAIN",
+      "row": 11,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "HORIZON",
+      "row": 2,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "MARINA",
+      "row": 11,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "ANCHOR",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "JETTY",
+      "row": 8,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "SWELL",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SPRAY",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "BUOY",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SAIL",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "MAST",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "HULL",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "CREW",
+      "row": 10,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SURF",
+      "row": 3,
+      "col": 4,
+      "direction": "SE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2422
+}

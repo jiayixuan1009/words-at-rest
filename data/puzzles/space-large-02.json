@@ -1,0 +1,173 @@
+{
+  "id": "space-large-02",
+  "slug": "space-large-02",
+  "themeId": "space",
+  "title": "Large Print Space: Soft Hatch",
+  "primaryKeyword": "large print space word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "AIR",
+    "CALM",
+    "CREW",
+    "HATCH",
+    "LOCK",
+    "PORT",
+    "STAR",
+    "VIEW"
+  ],
+  "grid": [
+    [
+      "P",
+      "O",
+      "R",
+      "T",
+      "S",
+      "N",
+      "C",
+      "P",
+      "K"
+    ],
+    [
+      "V",
+      "X",
+      "V",
+      "J",
+      "Y",
+      "L",
+      "O",
+      "C",
+      "K"
+    ],
+    [
+      "K",
+      "V",
+      "I",
+      "E",
+      "W",
+      "X",
+      "K",
+      "U",
+      "M"
+    ],
+    [
+      "O",
+      "C",
+      "A",
+      "N",
+      "D",
+      "I",
+      "E",
+      "O",
+      "O"
+    ],
+    [
+      "F",
+      "C",
+      "R",
+      "E",
+      "W",
+      "M",
+      "Q",
+      "H",
+      "X"
+    ],
+    [
+      "R",
+      "P",
+      "R",
+      "I",
+      "C",
+      "X",
+      "A",
+      "A",
+      "A"
+    ],
+    [
+      "P",
+      "N",
+      "E",
+      "C",
+      "W",
+      "W",
+      "R",
+      "T",
+      "I"
+    ],
+    [
+      "V",
+      "C",
+      "A",
+      "L",
+      "M",
+      "U",
+      "I",
+      "C",
+      "R"
+    ],
+    [
+      "I",
+      "S",
+      "T",
+      "A",
+      "R",
+      "T",
+      "S",
+      "H",
+      "V"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "HATCH",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "CREW",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "LOCK",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "PORT",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "VIEW",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "STAR",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CALM",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "AIR",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2124
+}

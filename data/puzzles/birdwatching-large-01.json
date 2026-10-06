@@ -1,0 +1,173 @@
+{
+  "id": "birdwatching-large-01",
+  "slug": "birdwatching-large-01",
+  "themeId": "birdwatching",
+  "title": "Large Print Birdwatching: Soft Wing",
+  "primaryKeyword": "large print birdwatching word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BIRD",
+    "DAWN",
+    "FIELD",
+    "NEST",
+    "NOTE",
+    "PERCH",
+    "SONG",
+    "TRAIL"
+  ],
+  "grid": [
+    [
+      "Z",
+      "F",
+      "I",
+      "E",
+      "L",
+      "D",
+      "D",
+      "N",
+      "A"
+    ],
+    [
+      "C",
+      "H",
+      "T",
+      "P",
+      "M",
+      "J",
+      "A",
+      "E",
+      "D"
+    ],
+    [
+      "T",
+      "B",
+      "R",
+      "P",
+      "Y",
+      "Z",
+      "W",
+      "S",
+      "I"
+    ],
+    [
+      "D",
+      "I",
+      "A",
+      "E",
+      "A",
+      "B",
+      "N",
+      "T",
+      "U"
+    ],
+    [
+      "P",
+      "R",
+      "I",
+      "R",
+      "T",
+      "V",
+      "I",
+      "Y",
+      "U"
+    ],
+    [
+      "X",
+      "D",
+      "L",
+      "C",
+      "D",
+      "D",
+      "D",
+      "N",
+      "T"
+    ],
+    [
+      "K",
+      "L",
+      "K",
+      "H",
+      "X",
+      "L",
+      "C",
+      "T",
+      "A"
+    ],
+    [
+      "N",
+      "O",
+      "T",
+      "E",
+      "Q",
+      "W",
+      "G",
+      "R",
+      "V"
+    ],
+    [
+      "S",
+      "O",
+      "N",
+      "G",
+      "P",
+      "J",
+      "Z",
+      "U",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TRAIL",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "FIELD",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PERCH",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "BIRD",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "NOTE",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SONG",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "NEST",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "DAWN",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9016
+}

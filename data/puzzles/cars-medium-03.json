@@ -1,0 +1,284 @@
+{
+  "id": "cars-medium-03",
+  "slug": "cars-medium-03",
+  "themeId": "cars",
+  "title": "Cars: Clear Sky",
+  "primaryKeyword": "cars word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BELT",
+    "CAR",
+    "CLUTCH",
+    "DOOR",
+    "ENGINE",
+    "FILTER",
+    "GARAGE",
+    "LOCK",
+    "ODOMETER",
+    "PARK",
+    "RADIO",
+    "STREET",
+    "TRUNK",
+    "WIPER"
+  ],
+  "grid": [
+    [
+      "K",
+      "L",
+      "C",
+      "J",
+      "F",
+      "O",
+      "O",
+      "B",
+      "B",
+      "B",
+      "V",
+      "L"
+    ],
+    [
+      "M",
+      "E",
+      "F",
+      "P",
+      "A",
+      "R",
+      "K",
+      "M",
+      "V",
+      "O",
+      "W",
+      "E"
+    ],
+    [
+      "N",
+      "G",
+      "B",
+      "I",
+      "W",
+      "I",
+      "P",
+      "E",
+      "R",
+      "C",
+      "A",
+      "R"
+    ],
+    [
+      "B",
+      "S",
+      "Y",
+      "X",
+      "L",
+      "R",
+      "R",
+      "A",
+      "D",
+      "I",
+      "O",
+      "K"
+    ],
+    [
+      "E",
+      "T",
+      "F",
+      "I",
+      "O",
+      "T",
+      "R",
+      "L",
+      "P",
+      "O",
+      "G",
+      "G"
+    ],
+    [
+      "L",
+      "V",
+      "R",
+      "I",
+      "C",
+      "D",
+      "E",
+      "D",
+      "W",
+      "P",
+      "Y",
+      "A"
+    ],
+    [
+      "T",
+      "L",
+      "O",
+      "C",
+      "K",
+      "L",
+      "O",
+      "R",
+      "O",
+      "S",
+      "W",
+      "R"
+    ],
+    [
+      "B",
+      "G",
+      "U",
+      "X",
+      "K",
+      "H",
+      "U",
+      "M",
+      "O",
+      "O",
+      "Y",
+      "A"
+    ],
+    [
+      "K",
+      "C",
+      "S",
+      "T",
+      "R",
+      "E",
+      "E",
+      "T",
+      "E",
+      "E",
+      "R",
+      "G"
+    ],
+    [
+      "X",
+      "D",
+      "P",
+      "T",
+      "R",
+      "U",
+      "N",
+      "K",
+      "C",
+      "T",
+      "V",
+      "E"
+    ],
+    [
+      "D",
+      "V",
+      "Z",
+      "P",
+      "V",
+      "B",
+      "M",
+      "U",
+      "W",
+      "H",
+      "E",
+      "I"
+    ],
+    [
+      "I",
+      "X",
+      "E",
+      "E",
+      "E",
+      "N",
+      "G",
+      "I",
+      "N",
+      "E",
+      "J",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ODOMETER",
+      "row": 4,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "FILTER",
+      "row": 1,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "CLUTCH",
+      "row": 5,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "STREET",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ENGINE",
+      "row": 11,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "GARAGE",
+      "row": 4,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "WIPER",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "RADIO",
+      "row": 3,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "TRUNK",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BELT",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "PARK",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "DOOR",
+      "row": 5,
+      "col": 7,
+      "direction": "SE"
+    },
+    {
+      "word": "LOCK",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CAR",
+      "row": 2,
+      "col": 9,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9225
+}

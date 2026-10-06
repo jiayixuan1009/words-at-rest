@@ -1,0 +1,208 @@
+{
+  "id": "basketball-easy-03",
+  "slug": "basketball-easy-03",
+  "themeId": "basketball",
+  "title": "Basketball: Calm Desk",
+  "primaryKeyword": "basketball word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BASKET",
+    "CLOCK",
+    "DRIBBLE",
+    "FREE",
+    "GUARD",
+    "PICK",
+    "PIVOT",
+    "REBOUND",
+    "REF",
+    "TIMEOUT"
+  ],
+  "grid": [
+    [
+      "F",
+      "U",
+      "B",
+      "X",
+      "R",
+      "E",
+      "F",
+      "G",
+      "T",
+      "Z"
+    ],
+    [
+      "D",
+      "F",
+      "A",
+      "K",
+      "E",
+      "I",
+      "J",
+      "D",
+      "H",
+      "F"
+    ],
+    [
+      "R",
+      "P",
+      "S",
+      "F",
+      "X",
+      "G",
+      "J",
+      "P",
+      "V",
+      "I"
+    ],
+    [
+      "I",
+      "I",
+      "K",
+      "S",
+      "W",
+      "F",
+      "A",
+      "I",
+      "S",
+      "T"
+    ],
+    [
+      "B",
+      "V",
+      "E",
+      "L",
+      "E",
+      "K",
+      "F",
+      "C",
+      "X",
+      "I"
+    ],
+    [
+      "B",
+      "O",
+      "T",
+      "G",
+      "J",
+      "U",
+      "S",
+      "K",
+      "B",
+      "M"
+    ],
+    [
+      "L",
+      "T",
+      "M",
+      "A",
+      "N",
+      "K",
+      "F",
+      "R",
+      "E",
+      "E"
+    ],
+    [
+      "E",
+      "H",
+      "R",
+      "E",
+      "B",
+      "O",
+      "U",
+      "N",
+      "D",
+      "O"
+    ],
+    [
+      "U",
+      "C",
+      "W",
+      "O",
+      "G",
+      "U",
+      "A",
+      "R",
+      "D",
+      "U"
+    ],
+    [
+      "O",
+      "S",
+      "C",
+      "L",
+      "O",
+      "C",
+      "K",
+      "X",
+      "W",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "REBOUND",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "DRIBBLE",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "TIMEOUT",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "BASKET",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "CLOCK",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PIVOT",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "GUARD",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "PICK",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "FREE",
+      "row": 6,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "REF",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9212
+}

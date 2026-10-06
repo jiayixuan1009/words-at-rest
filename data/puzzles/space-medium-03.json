@@ -1,0 +1,284 @@
+{
+  "id": "space-medium-03",
+  "slug": "space-medium-03",
+  "themeId": "space",
+  "title": "Space: Signal Night",
+  "primaryKeyword": "space word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ANTENNA",
+    "BEACON",
+    "BOOSTER",
+    "COURSE",
+    "DRIFT",
+    "NAV",
+    "ORBITER",
+    "RECEIVE",
+    "SHUTTLE",
+    "SIGNAL",
+    "STAGE",
+    "THRUSTER",
+    "TRANSMIT",
+    "VECTOR"
+  ],
+  "grid": [
+    [
+      "M",
+      "T",
+      "N",
+      "A",
+      "V",
+      "L",
+      "C",
+      "M",
+      "S",
+      "N",
+      "Q",
+      "S"
+    ],
+    [
+      "A",
+      "H",
+      "L",
+      "N",
+      "Z",
+      "H",
+      "D",
+      "D",
+      "S",
+      "X",
+      "N",
+      "H"
+    ],
+    [
+      "B",
+      "R",
+      "U",
+      "T",
+      "I",
+      "Y",
+      "T",
+      "R",
+      "I",
+      "T",
+      "Z",
+      "T"
+    ],
+    [
+      "O",
+      "U",
+      "U",
+      "E",
+      "C",
+      "R",
+      "R",
+      "I",
+      "G",
+      "O",
+      "B",
+      "G"
+    ],
+    [
+      "O",
+      "S",
+      "B",
+      "N",
+      "O",
+      "H",
+      "A",
+      "F",
+      "N",
+      "V",
+      "D",
+      "S"
+    ],
+    [
+      "S",
+      "T",
+      "R",
+      "N",
+      "U",
+      "J",
+      "N",
+      "T",
+      "A",
+      "S",
+      "O",
+      "H"
+    ],
+    [
+      "T",
+      "E",
+      "E",
+      "A",
+      "R",
+      "A",
+      "S",
+      "S",
+      "L",
+      "T",
+      "R",
+      "U"
+    ],
+    [
+      "E",
+      "R",
+      "C",
+      "T",
+      "S",
+      "K",
+      "M",
+      "U",
+      "K",
+      "A",
+      "B",
+      "T"
+    ],
+    [
+      "R",
+      "Z",
+      "E",
+      "F",
+      "E",
+      "W",
+      "I",
+      "J",
+      "H",
+      "G",
+      "I",
+      "T"
+    ],
+    [
+      "D",
+      "Y",
+      "I",
+      "W",
+      "X",
+      "W",
+      "T",
+      "J",
+      "N",
+      "E",
+      "T",
+      "L"
+    ],
+    [
+      "X",
+      "A",
+      "V",
+      "L",
+      "V",
+      "E",
+      "C",
+      "T",
+      "O",
+      "R",
+      "E",
+      "E"
+    ],
+    [
+      "U",
+      "T",
+      "E",
+      "O",
+      "B",
+      "E",
+      "A",
+      "C",
+      "O",
+      "N",
+      "R",
+      "H"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TRANSMIT",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "THRUSTER",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "ANTENNA",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "RECEIVE",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "ORBITER",
+      "row": 5,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "SHUTTLE",
+      "row": 4,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "BOOSTER",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SIGNAL",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "BEACON",
+      "row": 11,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "VECTOR",
+      "row": 10,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "COURSE",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "STAGE",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "DRIFT",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "NAV",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2122
+}

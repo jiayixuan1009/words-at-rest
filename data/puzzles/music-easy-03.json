@@ -1,0 +1,208 @@
+{
+  "id": "music-easy-03",
+  "slug": "music-easy-03",
+  "themeId": "music",
+  "title": "Music: Soft Prelude",
+  "primaryKeyword": "music word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BASS",
+    "DRUM",
+    "FLUTE",
+    "HARP",
+    "PLAY",
+    "PRELUDE",
+    "REST",
+    "SOFT",
+    "SONG",
+    "TUNE"
+  ],
+  "grid": [
+    [
+      "M",
+      "P",
+      "I",
+      "Q",
+      "D",
+      "O",
+      "R",
+      "E",
+      "S",
+      "T"
+    ],
+    [
+      "P",
+      "S",
+      "N",
+      "H",
+      "A",
+      "R",
+      "P",
+      "R",
+      "Q",
+      "L"
+    ],
+    [
+      "R",
+      "O",
+      "N",
+      "K",
+      "L",
+      "B",
+      "Z",
+      "O",
+      "C",
+      "Y"
+    ],
+    [
+      "E",
+      "F",
+      "U",
+      "L",
+      "T",
+      "B",
+      "A",
+      "Z",
+      "J",
+      "K"
+    ],
+    [
+      "L",
+      "T",
+      "T",
+      "U",
+      "N",
+      "E",
+      "H",
+      "S",
+      "E",
+      "A"
+    ],
+    [
+      "U",
+      "D",
+      "F",
+      "L",
+      "U",
+      "T",
+      "E",
+      "O",
+      "Z",
+      "Y"
+    ],
+    [
+      "D",
+      "R",
+      "B",
+      "A",
+      "S",
+      "S",
+      "S",
+      "N",
+      "A",
+      "P"
+    ],
+    [
+      "E",
+      "U",
+      "H",
+      "X",
+      "L",
+      "H",
+      "J",
+      "G",
+      "L",
+      "L"
+    ],
+    [
+      "X",
+      "M",
+      "B",
+      "A",
+      "Q",
+      "K",
+      "L",
+      "B",
+      "P",
+      "A"
+    ],
+    [
+      "R",
+      "N",
+      "T",
+      "Z",
+      "P",
+      "O",
+      "Z",
+      "J",
+      "P",
+      "Y"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PRELUDE",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "FLUTE",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SONG",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "TUNE",
+      "row": 4,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "HARP",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "DRUM",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "BASS",
+      "row": 6,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "REST",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "SOFT",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "PLAY",
+      "row": 6,
+      "col": 9,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2621
+}

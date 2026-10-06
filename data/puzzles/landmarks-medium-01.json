@@ -1,0 +1,284 @@
+{
+  "id": "landmarks-medium-01",
+  "slug": "landmarks-medium-01",
+  "themeId": "landmarks",
+  "title": "Landmarks: Bridge Walk",
+  "primaryKeyword": "landmarks word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ARENA",
+    "BASILICA",
+    "CAPITOL",
+    "CATHEDRAL",
+    "CLOISTER",
+    "FOUNTAIN",
+    "LIBRARY",
+    "LOOKOUT",
+    "MARBLE",
+    "MONUMENT",
+    "OBELISK",
+    "PYRAMID",
+    "SCENIC",
+    "STADIUM"
+  ],
+  "grid": [
+    [
+      "C",
+      "U",
+      "W",
+      "C",
+      "Z",
+      "L",
+      "I",
+      "B",
+      "R",
+      "A",
+      "R",
+      "Y"
+    ],
+    [
+      "C",
+      "Y",
+      "V",
+      "I",
+      "B",
+      "A",
+      "S",
+      "I",
+      "L",
+      "I",
+      "C",
+      "A"
+    ],
+    [
+      "Z",
+      "H",
+      "S",
+      "T",
+      "A",
+      "D",
+      "I",
+      "U",
+      "M",
+      "F",
+      "M",
+      "M"
+    ],
+    [
+      "C",
+      "X",
+      "O",
+      "B",
+      "E",
+      "L",
+      "I",
+      "S",
+      "K",
+      "L",
+      "H",
+      "L"
+    ],
+    [
+      "L",
+      "F",
+      "M",
+      "O",
+      "N",
+      "U",
+      "M",
+      "E",
+      "N",
+      "T",
+      "A",
+      "L"
+    ],
+    [
+      "O",
+      "O",
+      "S",
+      "C",
+      "E",
+      "N",
+      "I",
+      "C",
+      "A",
+      "R",
+      "O",
+      "O"
+    ],
+    [
+      "I",
+      "U",
+      "M",
+      "T",
+      "G",
+      "Q",
+      "J",
+      "N",
+      "D",
+      "T",
+      "Y",
+      "O"
+    ],
+    [
+      "S",
+      "N",
+      "A",
+      "R",
+      "J",
+      "P",
+      "E",
+      "E",
+      "I",
+      "K",
+      "B",
+      "K"
+    ],
+    [
+      "T",
+      "T",
+      "R",
+      "Z",
+      "G",
+      "R",
+      "H",
+      "P",
+      "R",
+      "Z",
+      "Q",
+      "O"
+    ],
+    [
+      "E",
+      "A",
+      "B",
+      "O",
+      "A",
+      "T",
+      "A",
+      "T",
+      "B",
+      "U",
+      "P",
+      "U"
+    ],
+    [
+      "R",
+      "I",
+      "L",
+      "J",
+      "A",
+      "C",
+      "W",
+      "L",
+      "U",
+      "T",
+      "C",
+      "T"
+    ],
+    [
+      "L",
+      "N",
+      "E",
+      "C",
+      "R",
+      "P",
+      "Y",
+      "R",
+      "A",
+      "M",
+      "I",
+      "D"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CATHEDRAL",
+      "row": 11,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "MONUMENT",
+      "row": 4,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "FOUNTAIN",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "BASILICA",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CLOISTER",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "OBELISK",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PYRAMID",
+      "row": 11,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "STADIUM",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "LIBRARY",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "CAPITOL",
+      "row": 10,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "LOOKOUT",
+      "row": 4,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "SCENIC",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "MARBLE",
+      "row": 6,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "ARENA",
+      "row": 9,
+      "col": 4,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8823
+}

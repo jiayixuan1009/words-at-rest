@@ -1,0 +1,284 @@
+{
+  "id": "weather-medium-03",
+  "slug": "weather-medium-03",
+  "themeId": "weather",
+  "title": "Weather: Harbor Light",
+  "primaryKeyword": "weather word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BAROMETER",
+    "BLIZZARD",
+    "DEGREE",
+    "FOG",
+    "FORECAST",
+    "FROST",
+    "HORIZON",
+    "HUMID",
+    "PARKA",
+    "STORM",
+    "SUN",
+    "TEMPERATURE",
+    "THERMOMETER",
+    "UMBRELLA"
+  ],
+  "grid": [
+    [
+      "T",
+      "T",
+      "E",
+      "M",
+      "P",
+      "E",
+      "R",
+      "A",
+      "T",
+      "U",
+      "R",
+      "E"
+    ],
+    [
+      "O",
+      "H",
+      "G",
+      "S",
+      "G",
+      "D",
+      "V",
+      "Z",
+      "Z",
+      "Z",
+      "K",
+      "S"
+    ],
+    [
+      "D",
+      "D",
+      "E",
+      "H",
+      "O",
+      "R",
+      "I",
+      "Z",
+      "O",
+      "N",
+      "M",
+      "T"
+    ],
+    [
+      "K",
+      "A",
+      "E",
+      "R",
+      "B",
+      "F",
+      "R",
+      "O",
+      "S",
+      "T",
+      "H",
+      "O"
+    ],
+    [
+      "B",
+      "P",
+      "N",
+      "G",
+      "M",
+      "L",
+      "W",
+      "D",
+      "Y",
+      "P",
+      "U",
+      "R"
+    ],
+    [
+      "Y",
+      "A",
+      "M",
+      "E",
+      "R",
+      "O",
+      "I",
+      "P",
+      "D",
+      "G",
+      "M",
+      "M"
+    ],
+    [
+      "I",
+      "D",
+      "V",
+      "G",
+      "B",
+      "E",
+      "M",
+      "Z",
+      "J",
+      "Q",
+      "I",
+      "K"
+    ],
+    [
+      "P",
+      "A",
+      "R",
+      "K",
+      "A",
+      "Y",
+      "E",
+      "E",
+      "Z",
+      "X",
+      "D",
+      "D"
+    ],
+    [
+      "F",
+      "O",
+      "R",
+      "E",
+      "C",
+      "A",
+      "S",
+      "T",
+      "T",
+      "A",
+      "I",
+      "D"
+    ],
+    [
+      "S",
+      "Y",
+      "F",
+      "O",
+      "G",
+      "S",
+      "U",
+      "N",
+      "C",
+      "E",
+      "R",
+      "M"
+    ],
+    [
+      "H",
+      "B",
+      "A",
+      "R",
+      "O",
+      "M",
+      "E",
+      "T",
+      "E",
+      "R",
+      "R",
+      "D"
+    ],
+    [
+      "S",
+      "G",
+      "U",
+      "M",
+      "B",
+      "R",
+      "E",
+      "L",
+      "L",
+      "A",
+      "M",
+      "L"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "THERMOMETER",
+      "row": 0,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "TEMPERATURE",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BAROMETER",
+      "row": 10,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "FORECAST",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BLIZZARD",
+      "row": 3,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "UMBRELLA",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "HORIZON",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "DEGREE",
+      "row": 2,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "HUMID",
+      "row": 3,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "PARKA",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "STORM",
+      "row": 1,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "FROST",
+      "row": 3,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SUN",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "FOG",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9363
+}

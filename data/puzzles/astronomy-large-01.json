@@ -1,0 +1,173 @@
+{
+  "id": "astronomy-large-01",
+  "slug": "astronomy-large-01",
+  "themeId": "astronomy",
+  "title": "Large Print Astronomy: Soft Moon",
+  "primaryKeyword": "large print astronomy word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "DAWN",
+    "MOON",
+    "NIGHT",
+    "ORBIT",
+    "RING",
+    "SKY",
+    "STAR",
+    "SUN"
+  ],
+  "grid": [
+    [
+      "G",
+      "O",
+      "M",
+      "O",
+      "O",
+      "N",
+      "U",
+      "R",
+      "B"
+    ],
+    [
+      "M",
+      "S",
+      "T",
+      "A",
+      "R",
+      "H",
+      "S",
+      "J",
+      "S"
+    ],
+    [
+      "G",
+      "R",
+      "J",
+      "A",
+      "K",
+      "S",
+      "G",
+      "A",
+      "K"
+    ],
+    [
+      "Z",
+      "T",
+      "D",
+      "U",
+      "N",
+      "Z",
+      "B",
+      "J",
+      "Y"
+    ],
+    [
+      "N",
+      "I",
+      "G",
+      "H",
+      "T",
+      "W",
+      "C",
+      "N",
+      "O"
+    ],
+    [
+      "B",
+      "K",
+      "U",
+      "U",
+      "O",
+      "R",
+      "B",
+      "I",
+      "T"
+    ],
+    [
+      "D",
+      "O",
+      "Q",
+      "X",
+      "F",
+      "H",
+      "X",
+      "R",
+      "Y"
+    ],
+    [
+      "D",
+      "A",
+      "W",
+      "N",
+      "S",
+      "U",
+      "N",
+      "O",
+      "X"
+    ],
+    [
+      "O",
+      "Z",
+      "A",
+      "R",
+      "R",
+      "I",
+      "N",
+      "G",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "NIGHT",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "ORBIT",
+      "row": 5,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "STAR",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "MOON",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "DAWN",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "RING",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SUN",
+      "row": 7,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SKY",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8856
+}

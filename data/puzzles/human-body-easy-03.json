@@ -1,0 +1,208 @@
+{
+  "id": "human-body-easy-03",
+  "slug": "human-body-easy-03",
+  "themeId": "human-body",
+  "title": "Human Body: Calm Desk",
+  "primaryKeyword": "human body word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ANKLE",
+    "BLOOD",
+    "CHEST",
+    "EYE",
+    "HAIR",
+    "HEEL",
+    "KIDNEY",
+    "LUNG",
+    "SHOULDER",
+    "WAIST"
+  ],
+  "grid": [
+    [
+      "A",
+      "T",
+      "U",
+      "P",
+      "E",
+      "E",
+      "F",
+      "T",
+      "Y",
+      "A"
+    ],
+    [
+      "L",
+      "M",
+      "E",
+      "H",
+      "A",
+      "I",
+      "R",
+      "F",
+      "T",
+      "G"
+    ],
+    [
+      "H",
+      "K",
+      "I",
+      "D",
+      "N",
+      "E",
+      "Y",
+      "C",
+      "J",
+      "S"
+    ],
+    [
+      "C",
+      "H",
+      "A",
+      "E",
+      "Y",
+      "E",
+      "Z",
+      "E",
+      "J",
+      "H"
+    ],
+    [
+      "W",
+      "E",
+      "N",
+      "W",
+      "A",
+      "I",
+      "S",
+      "T",
+      "X",
+      "O"
+    ],
+    [
+      "B",
+      "E",
+      "K",
+      "W",
+      "M",
+      "Q",
+      "Z",
+      "V",
+      "R",
+      "U"
+    ],
+    [
+      "K",
+      "L",
+      "L",
+      "Y",
+      "E",
+      "I",
+      "D",
+      "J",
+      "C",
+      "L"
+    ],
+    [
+      "C",
+      "H",
+      "E",
+      "S",
+      "T",
+      "B",
+      "L",
+      "O",
+      "O",
+      "D"
+    ],
+    [
+      "C",
+      "T",
+      "L",
+      "U",
+      "N",
+      "G",
+      "P",
+      "J",
+      "Y",
+      "E"
+    ],
+    [
+      "B",
+      "E",
+      "A",
+      "T",
+      "G",
+      "G",
+      "L",
+      "N",
+      "W",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SHOULDER",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "KIDNEY",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "ANKLE",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "CHEST",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BLOOD",
+      "row": 7,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "WAIST",
+      "row": 4,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "HAIR",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "LUNG",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "HEEL",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "EYE",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9284
+}

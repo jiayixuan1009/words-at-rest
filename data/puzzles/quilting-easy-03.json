@@ -1,0 +1,208 @@
+{
+  "id": "quilting-easy-03",
+  "slug": "quilting-easy-03",
+  "themeId": "quilting",
+  "title": "Quilting: Soft Square",
+  "primaryKeyword": "quilting word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BLOCK",
+    "EDGE",
+    "IRON",
+    "JOIN",
+    "PIN",
+    "SEAM",
+    "SOFT",
+    "SQUARE",
+    "STRIP",
+    "WARM"
+  ],
+  "grid": [
+    [
+      "Z",
+      "K",
+      "S",
+      "B",
+      "E",
+      "N",
+      "V",
+      "G",
+      "A",
+      "A"
+    ],
+    [
+      "J",
+      "E",
+      "E",
+      "L",
+      "C",
+      "S",
+      "M",
+      "Q",
+      "R",
+      "L"
+    ],
+    [
+      "W",
+      "S",
+      "A",
+      "O",
+      "S",
+      "Q",
+      "S",
+      "Y",
+      "D",
+      "E"
+    ],
+    [
+      "A",
+      "O",
+      "M",
+      "C",
+      "T",
+      "U",
+      "L",
+      "W",
+      "N",
+      "D"
+    ],
+    [
+      "R",
+      "F",
+      "S",
+      "K",
+      "R",
+      "A",
+      "X",
+      "L",
+      "H",
+      "G"
+    ],
+    [
+      "M",
+      "T",
+      "D",
+      "M",
+      "I",
+      "R",
+      "R",
+      "D",
+      "C",
+      "E"
+    ],
+    [
+      "N",
+      "C",
+      "A",
+      "E",
+      "P",
+      "E",
+      "H",
+      "C",
+      "L",
+      "P"
+    ],
+    [
+      "U",
+      "I",
+      "I",
+      "L",
+      "H",
+      "Z",
+      "H",
+      "E",
+      "X",
+      "I"
+    ],
+    [
+      "L",
+      "L",
+      "Z",
+      "M",
+      "E",
+      "P",
+      "I",
+      "R",
+      "O",
+      "N"
+    ],
+    [
+      "Q",
+      "O",
+      "P",
+      "I",
+      "V",
+      "I",
+      "J",
+      "O",
+      "I",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SQUARE",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "BLOCK",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "STRIP",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "SEAM",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "IRON",
+      "row": 8,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "WARM",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SOFT",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "EDGE",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "JOIN",
+      "row": 9,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "PIN",
+      "row": 6,
+      "col": 9,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 3911
+}

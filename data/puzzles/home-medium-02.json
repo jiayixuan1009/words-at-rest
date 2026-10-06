@@ -1,0 +1,284 @@
+{
+  "id": "home-medium-02",
+  "slug": "home-medium-02",
+  "themeId": "home",
+  "title": "Home: Hearth Hour",
+  "primaryKeyword": "home word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ABODE",
+    "CELLAR",
+    "DWELLING",
+    "FIREPLACE",
+    "GATE",
+    "HOUSE",
+    "LANDING",
+    "LOCK",
+    "MAIL",
+    "NEST",
+    "PATIO",
+    "SHELTER",
+    "STAIR",
+    "YARD"
+  ],
+  "grid": [
+    [
+      "D",
+      "T",
+      "I",
+      "F",
+      "M",
+      "M",
+      "R",
+      "F",
+      "Z",
+      "N",
+      "T",
+      "P"
+    ],
+    [
+      "J",
+      "S",
+      "R",
+      "F",
+      "D",
+      "H",
+      "S",
+      "P",
+      "E",
+      "M",
+      "C",
+      "U"
+    ],
+    [
+      "X",
+      "N",
+      "N",
+      "I",
+      "J",
+      "O",
+      "S",
+      "A",
+      "P",
+      "W",
+      "Q",
+      "G"
+    ],
+    [
+      "L",
+      "A",
+      "E",
+      "R",
+      "E",
+      "U",
+      "T",
+      "T",
+      "C",
+      "P",
+      "N",
+      "X"
+    ],
+    [
+      "A",
+      "V",
+      "S",
+      "E",
+      "K",
+      "S",
+      "A",
+      "I",
+      "E",
+      "I",
+      "N",
+      "N"
+    ],
+    [
+      "N",
+      "Y",
+      "T",
+      "P",
+      "S",
+      "E",
+      "I",
+      "O",
+      "L",
+      "O",
+      "C",
+      "K"
+    ],
+    [
+      "D",
+      "Y",
+      "B",
+      "L",
+      "I",
+      "H",
+      "R",
+      "L",
+      "L",
+      "G",
+      "D",
+      "U"
+    ],
+    [
+      "I",
+      "D",
+      "A",
+      "A",
+      "B",
+      "A",
+      "E",
+      "D",
+      "A",
+      "A",
+      "N",
+      "E"
+    ],
+    [
+      "N",
+      "R",
+      "B",
+      "C",
+      "K",
+      "W",
+      "R",
+      "L",
+      "R",
+      "T",
+      "T",
+      "M"
+    ],
+    [
+      "G",
+      "Q",
+      "O",
+      "E",
+      "D",
+      "A",
+      "B",
+      "G",
+      "T",
+      "E",
+      "Z",
+      "A"
+    ],
+    [
+      "B",
+      "F",
+      "D",
+      "G",
+      "Y",
+      "P",
+      "W",
+      "Q",
+      "U",
+      "E",
+      "R",
+      "I"
+    ],
+    [
+      "J",
+      "A",
+      "E",
+      "G",
+      "A",
+      "O",
+      "N",
+      "U",
+      "G",
+      "A",
+      "R",
+      "L"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FIREPLACE",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "DWELLING",
+      "row": 9,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "LANDING",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SHELTER",
+      "row": 5,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "CELLAR",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "PATIO",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "STAIR",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "ABODE",
+      "row": 7,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "HOUSE",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "LOCK",
+      "row": 5,
+      "col": 8,
+      "direction": "E"
+    },
+    {
+      "word": "MAIL",
+      "row": 8,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "YARD",
+      "row": 10,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "GATE",
+      "row": 6,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "NEST",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8844
+}

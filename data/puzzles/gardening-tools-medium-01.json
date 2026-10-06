@@ -1,0 +1,284 @@
+{
+  "id": "gardening-tools-medium-01",
+  "slug": "gardening-tools-medium-01",
+  "themeId": "gardening-tools",
+  "title": "Gardening Tools: Pruner Hour",
+  "primaryKeyword": "gardening tools word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "APRON",
+    "BASKET",
+    "BENCH",
+    "BUCKET",
+    "CLEAN",
+    "CLIPPERS",
+    "DIBBER",
+    "FRAME",
+    "LOPPER",
+    "NOZZLE",
+    "SHARPEN",
+    "SHELF",
+    "SPRINKLER",
+    "STONE"
+  ],
+  "grid": [
+    [
+      "W",
+      "J",
+      "U",
+      "C",
+      "Q",
+      "O",
+      "M",
+      "S",
+      "W",
+      "I",
+      "T",
+      "D"
+    ],
+    [
+      "R",
+      "O",
+      "F",
+      "L",
+      "D",
+      "Q",
+      "P",
+      "P",
+      "S",
+      "D",
+      "S",
+      "H"
+    ],
+    [
+      "G",
+      "X",
+      "P",
+      "I",
+      "V",
+      "M",
+      "Z",
+      "R",
+      "H",
+      "V",
+      "H",
+      "M"
+    ],
+    [
+      "U",
+      "D",
+      "B",
+      "P",
+      "S",
+      "N",
+      "A",
+      "I",
+      "A",
+      "L",
+      "E",
+      "F"
+    ],
+    [
+      "O",
+      "I",
+      "A",
+      "P",
+      "T",
+      "A",
+      "Z",
+      "N",
+      "R",
+      "O",
+      "L",
+      "R"
+    ],
+    [
+      "R",
+      "B",
+      "S",
+      "E",
+      "O",
+      "C",
+      "F",
+      "K",
+      "P",
+      "P",
+      "F",
+      "A"
+    ],
+    [
+      "E",
+      "B",
+      "K",
+      "R",
+      "N",
+      "C",
+      "L",
+      "L",
+      "E",
+      "P",
+      "A",
+      "M"
+    ],
+    [
+      "O",
+      "E",
+      "E",
+      "S",
+      "E",
+      "C",
+      "V",
+      "E",
+      "N",
+      "E",
+      "P",
+      "E"
+    ],
+    [
+      "Y",
+      "R",
+      "T",
+      "T",
+      "S",
+      "P",
+      "Y",
+      "R",
+      "A",
+      "R",
+      "R",
+      "U"
+    ],
+    [
+      "W",
+      "L",
+      "N",
+      "O",
+      "Z",
+      "Z",
+      "L",
+      "E",
+      "L",
+      "N",
+      "O",
+      "B"
+    ],
+    [
+      "J",
+      "C",
+      "B",
+      "E",
+      "N",
+      "C",
+      "H",
+      "E",
+      "M",
+      "P",
+      "N",
+      "A"
+    ],
+    [
+      "B",
+      "U",
+      "C",
+      "K",
+      "E",
+      "T",
+      "E",
+      "K",
+      "A",
+      "H",
+      "P",
+      "S"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SPRINKLER",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "CLIPPERS",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "SHARPEN",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "LOPPER",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "DIBBER",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "NOZZLE",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BASKET",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "BUCKET",
+      "row": 11,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "APRON",
+      "row": 6,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "FRAME",
+      "row": 3,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "BENCH",
+      "row": 10,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SHELF",
+      "row": 1,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "STONE",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "CLEAN",
+      "row": 5,
+      "col": 5,
+      "direction": "SE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8953
+}

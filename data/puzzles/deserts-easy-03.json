@@ -1,0 +1,208 @@
+{
+  "id": "deserts-easy-03",
+  "slug": "deserts-easy-03",
+  "themeId": "deserts",
+  "title": "Deserts: Still Room",
+  "primaryKeyword": "deserts word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "HEAT",
+    "HORIZON",
+    "NIGHT",
+    "OASIS",
+    "PLATEAU",
+    "RAIN",
+    "SALT",
+    "SNAKE",
+    "TWILIGHT",
+    "WASH"
+  ],
+  "grid": [
+    [
+      "P",
+      "L",
+      "A",
+      "T",
+      "E",
+      "A",
+      "U",
+      "J",
+      "K",
+      "W"
+    ],
+    [
+      "H",
+      "P",
+      "B",
+      "S",
+      "O",
+      "W",
+      "M",
+      "E",
+      "T",
+      "D"
+    ],
+    [
+      "T",
+      "C",
+      "O",
+      "N",
+      "I",
+      "A",
+      "E",
+      "L",
+      "W",
+      "H"
+    ],
+    [
+      "W",
+      "H",
+      "A",
+      "A",
+      "W",
+      "S",
+      "D",
+      "J",
+      "S",
+      "N"
+    ],
+    [
+      "I",
+      "O",
+      "S",
+      "K",
+      "F",
+      "H",
+      "J",
+      "S",
+      "A",
+      "I"
+    ],
+    [
+      "L",
+      "R",
+      "I",
+      "E",
+      "R",
+      "X",
+      "H",
+      "Z",
+      "L",
+      "G"
+    ],
+    [
+      "I",
+      "I",
+      "S",
+      "W",
+      "X",
+      "D",
+      "K",
+      "X",
+      "T",
+      "H"
+    ],
+    [
+      "G",
+      "Z",
+      "U",
+      "H",
+      "E",
+      "A",
+      "T",
+      "O",
+      "F",
+      "T"
+    ],
+    [
+      "H",
+      "O",
+      "T",
+      "V",
+      "Q",
+      "R",
+      "A",
+      "I",
+      "N",
+      "X"
+    ],
+    [
+      "T",
+      "N",
+      "G",
+      "X",
+      "Z",
+      "E",
+      "O",
+      "S",
+      "U",
+      "H"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TWILIGHT",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "HORIZON",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "PLATEAU",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "OASIS",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "NIGHT",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SNAKE",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "SALT",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "RAIN",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "HEAT",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "WASH",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9244
+}

@@ -1,0 +1,208 @@
+{
+  "id": "continents-easy-03",
+  "slug": "continents-easy-03",
+  "themeId": "continents",
+  "title": "Continents: Calm Desk",
+  "primaryKeyword": "continents word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ANTARCTICA",
+    "EAST",
+    "LAKE",
+    "LANDMASS",
+    "REGION",
+    "SAVANNA",
+    "SEA",
+    "SOUTH",
+    "TROPIC",
+    "WEST"
+  ],
+  "grid": [
+    [
+      "S",
+      "M",
+      "P",
+      "E",
+      "A",
+      "S",
+      "T",
+      "S",
+      "E",
+      "A"
+    ],
+    [
+      "A",
+      "I",
+      "M",
+      "S",
+      "A",
+      "J",
+      "L",
+      "R",
+      "R",
+      "N"
+    ],
+    [
+      "V",
+      "L",
+      "D",
+      "G",
+      "Y",
+      "T",
+      "A",
+      "M",
+      "E",
+      "T"
+    ],
+    [
+      "A",
+      "A",
+      "Y",
+      "F",
+      "J",
+      "R",
+      "N",
+      "C",
+      "G",
+      "A"
+    ],
+    [
+      "N",
+      "K",
+      "J",
+      "T",
+      "Q",
+      "O",
+      "D",
+      "M",
+      "I",
+      "R"
+    ],
+    [
+      "N",
+      "E",
+      "G",
+      "T",
+      "J",
+      "P",
+      "M",
+      "S",
+      "O",
+      "C"
+    ],
+    [
+      "A",
+      "W",
+      "E",
+      "I",
+      "V",
+      "I",
+      "A",
+      "O",
+      "N",
+      "T"
+    ],
+    [
+      "G",
+      "W",
+      "E",
+      "S",
+      "T",
+      "C",
+      "S",
+      "U",
+      "V",
+      "I"
+    ],
+    [
+      "N",
+      "N",
+      "W",
+      "J",
+      "D",
+      "L",
+      "S",
+      "T",
+      "T",
+      "C"
+    ],
+    [
+      "F",
+      "W",
+      "R",
+      "K",
+      "Z",
+      "S",
+      "R",
+      "H",
+      "M",
+      "A"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ANTARCTICA",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "LANDMASS",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "SAVANNA",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "REGION",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "TROPIC",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "SOUTH",
+      "row": 5,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "WEST",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "EAST",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "LAKE",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SEA",
+      "row": 0,
+      "col": 7,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9238
+}

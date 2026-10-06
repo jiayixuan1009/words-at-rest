@@ -1,0 +1,208 @@
+{
+  "id": "photography-easy-03",
+  "slug": "photography-easy-03",
+  "themeId": "photography",
+  "title": "Photography: Gentle Walk",
+  "primaryKeyword": "photography word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "DARKROOM",
+    "ISO",
+    "MACRO",
+    "MEMORY",
+    "NEGATIVE",
+    "PRINT",
+    "ROLL",
+    "SCENE",
+    "SHOT",
+    "STRAP"
+  ],
+  "grid": [
+    [
+      "I",
+      "S",
+      "T",
+      "R",
+      "A",
+      "P",
+      "R",
+      "O",
+      "L",
+      "L"
+    ],
+    [
+      "T",
+      "D",
+      "T",
+      "K",
+      "F",
+      "N",
+      "F",
+      "K",
+      "P",
+      "Y"
+    ],
+    [
+      "B",
+      "A",
+      "R",
+      "M",
+      "M",
+      "E",
+      "M",
+      "O",
+      "R",
+      "Y"
+    ],
+    [
+      "E",
+      "R",
+      "S",
+      "X",
+      "X",
+      "G",
+      "D",
+      "F",
+      "C",
+      "T"
+    ],
+    [
+      "L",
+      "K",
+      "S",
+      "L",
+      "G",
+      "A",
+      "S",
+      "H",
+      "O",
+      "T"
+    ],
+    [
+      "J",
+      "R",
+      "C",
+      "P",
+      "M",
+      "T",
+      "R",
+      "P",
+      "P",
+      "A"
+    ],
+    [
+      "J",
+      "O",
+      "E",
+      "R",
+      "A",
+      "I",
+      "Z",
+      "R",
+      "H",
+      "Q"
+    ],
+    [
+      "M",
+      "O",
+      "N",
+      "I",
+      "C",
+      "V",
+      "I",
+      "A",
+      "Y",
+      "P"
+    ],
+    [
+      "Z",
+      "M",
+      "E",
+      "N",
+      "R",
+      "E",
+      "S",
+      "M",
+      "B",
+      "Z"
+    ],
+    [
+      "T",
+      "V",
+      "N",
+      "T",
+      "O",
+      "R",
+      "O",
+      "N",
+      "P",
+      "U"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "DARKROOM",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "NEGATIVE",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "MEMORY",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "MACRO",
+      "row": 5,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "STRAP",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SCENE",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "PRINT",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "ROLL",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "SHOT",
+      "row": 4,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "ISO",
+      "row": 7,
+      "col": 6,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9324
+}

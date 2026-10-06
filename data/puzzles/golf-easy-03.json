@@ -1,0 +1,208 @@
+{
+  "id": "golf-easy-03",
+  "slug": "golf-easy-03",
+  "themeId": "golf",
+  "title": "Golf: Morning Light",
+  "primaryKeyword": "golf word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BIRDIE",
+    "BUNKER",
+    "CHIP",
+    "DIVOT",
+    "GRIP",
+    "HAZARD",
+    "IRON",
+    "PAR",
+    "SANDTRAP",
+    "TEE"
+  ],
+  "grid": [
+    [
+      "J",
+      "F",
+      "X",
+      "K",
+      "V",
+      "D",
+      "S",
+      "H",
+      "R",
+      "Z"
+    ],
+    [
+      "M",
+      "Q",
+      "C",
+      "H",
+      "I",
+      "P",
+      "A",
+      "W",
+      "O",
+      "B"
+    ],
+    [
+      "B",
+      "I",
+      "R",
+      "D",
+      "I",
+      "E",
+      "N",
+      "I",
+      "D",
+      "U"
+    ],
+    [
+      "V",
+      "T",
+      "E",
+      "E",
+      "Q",
+      "K",
+      "D",
+      "L",
+      "V",
+      "N"
+    ],
+    [
+      "F",
+      "Q",
+      "I",
+      "G",
+      "D",
+      "O",
+      "T",
+      "T",
+      "H",
+      "K"
+    ],
+    [
+      "B",
+      "Q",
+      "S",
+      "R",
+      "I",
+      "K",
+      "R",
+      "Z",
+      "A",
+      "E"
+    ],
+    [
+      "I",
+      "B",
+      "R",
+      "I",
+      "V",
+      "I",
+      "A",
+      "N",
+      "Z",
+      "R"
+    ],
+    [
+      "R",
+      "L",
+      "B",
+      "P",
+      "O",
+      "F",
+      "P",
+      "C",
+      "A",
+      "C"
+    ],
+    [
+      "O",
+      "B",
+      "A",
+      "G",
+      "T",
+      "K",
+      "C",
+      "R",
+      "R",
+      "X"
+    ],
+    [
+      "N",
+      "W",
+      "D",
+      "Y",
+      "P",
+      "A",
+      "R",
+      "T",
+      "D",
+      "L"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SANDTRAP",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "BIRDIE",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "HAZARD",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "BUNKER",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "DIVOT",
+      "row": 4,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "GRIP",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "CHIP",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "IRON",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "TEE",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PAR",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9274
+}

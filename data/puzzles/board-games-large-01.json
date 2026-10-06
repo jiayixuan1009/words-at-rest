@@ -1,0 +1,173 @@
+{
+  "id": "board-games-large-01",
+  "slug": "board-games-large-01",
+  "themeId": "board-games",
+  "title": "Large Print Board Games: Soft Dice",
+  "primaryKeyword": "large print board games word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BOARD",
+    "CARD",
+    "DICE",
+    "GAME",
+    "PLAY",
+    "ROLL",
+    "TURN",
+    "WIN"
+  ],
+  "grid": [
+    [
+      "M",
+      "O",
+      "T",
+      "A",
+      "T",
+      "U",
+      "R",
+      "N",
+      "E"
+    ],
+    [
+      "Y",
+      "S",
+      "B",
+      "L",
+      "K",
+      "W",
+      "N",
+      "H",
+      "B"
+    ],
+    [
+      "P",
+      "R",
+      "O",
+      "L",
+      "L",
+      "G",
+      "U",
+      "M",
+      "O"
+    ],
+    [
+      "L",
+      "B",
+      "M",
+      "T",
+      "C",
+      "W",
+      "D",
+      "A",
+      "A"
+    ],
+    [
+      "A",
+      "H",
+      "V",
+      "X",
+      "A",
+      "H",
+      "P",
+      "T",
+      "R"
+    ],
+    [
+      "Y",
+      "N",
+      "H",
+      "S",
+      "R",
+      "Z",
+      "Y",
+      "D",
+      "D"
+    ],
+    [
+      "D",
+      "I",
+      "C",
+      "E",
+      "D",
+      "W",
+      "I",
+      "N",
+      "A"
+    ],
+    [
+      "G",
+      "A",
+      "M",
+      "E",
+      "J",
+      "J",
+      "T",
+      "W",
+      "H"
+    ],
+    [
+      "R",
+      "B",
+      "N",
+      "D",
+      "H",
+      "D",
+      "Q",
+      "D",
+      "O"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BOARD",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "GAME",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "DICE",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CARD",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "TURN",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "ROLL",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PLAY",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "WIN",
+      "row": 6,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8866
+}

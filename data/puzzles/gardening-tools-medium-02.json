@@ -1,0 +1,284 @@
+{
+  "id": "gardening-tools-medium-02",
+  "slug": "gardening-tools-medium-02",
+  "themeId": "gardening-tools",
+  "title": "Gardening Tools: Hose Coil",
+  "primaryKeyword": "gardening tools word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CART",
+    "COLDFRAME",
+    "CRAFT",
+    "CULTIVATOR",
+    "GREENHOUSE",
+    "HAND",
+    "KNIFE",
+    "NET",
+    "OIL",
+    "STORE",
+    "TIE",
+    "WAND",
+    "WATERING",
+    "WHEELBARROW"
+  ],
+  "grid": [
+    [
+      "L",
+      "X",
+      "K",
+      "H",
+      "H",
+      "D",
+      "B",
+      "D",
+      "H",
+      "D",
+      "J",
+      "G"
+    ],
+    [
+      "U",
+      "E",
+      "W",
+      "M",
+      "Y",
+      "D",
+      "E",
+      "W",
+      "N",
+      "S",
+      "Z",
+      "R"
+    ],
+    [
+      "G",
+      "G",
+      "H",
+      "H",
+      "C",
+      "C",
+      "M",
+      "A",
+      "C",
+      "C",
+      "N",
+      "E"
+    ],
+    [
+      "I",
+      "U",
+      "E",
+      "G",
+      "U",
+      "O",
+      "W",
+      "T",
+      "R",
+      "A",
+      "E",
+      "E"
+    ],
+    [
+      "T",
+      "X",
+      "E",
+      "S",
+      "L",
+      "L",
+      "E",
+      "E",
+      "A",
+      "R",
+      "T",
+      "N"
+    ],
+    [
+      "K",
+      "R",
+      "L",
+      "T",
+      "T",
+      "D",
+      "T",
+      "R",
+      "F",
+      "T",
+      "A",
+      "H"
+    ],
+    [
+      "N",
+      "H",
+      "B",
+      "O",
+      "I",
+      "F",
+      "I",
+      "I",
+      "T",
+      "T",
+      "L",
+      "O"
+    ],
+    [
+      "I",
+      "A",
+      "A",
+      "R",
+      "V",
+      "R",
+      "E",
+      "N",
+      "U",
+      "S",
+      "N",
+      "U"
+    ],
+    [
+      "F",
+      "N",
+      "R",
+      "E",
+      "A",
+      "A",
+      "M",
+      "G",
+      "J",
+      "A",
+      "O",
+      "S"
+    ],
+    [
+      "E",
+      "D",
+      "R",
+      "U",
+      "T",
+      "M",
+      "X",
+      "F",
+      "Q",
+      "E",
+      "I",
+      "E"
+    ],
+    [
+      "A",
+      "O",
+      "O",
+      "R",
+      "O",
+      "E",
+      "Q",
+      "Y",
+      "Y",
+      "N",
+      "L",
+      "K"
+    ],
+    [
+      "H",
+      "D",
+      "W",
+      "N",
+      "R",
+      "U",
+      "L",
+      "U",
+      "J",
+      "O",
+      "Q",
+      "V"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "WHEELBARROW",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "CULTIVATOR",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "GREENHOUSE",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "COLDFRAME",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "WATERING",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "STORE",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "CRAFT",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "KNIFE",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CART",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "WAND",
+      "row": 3,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "HAND",
+      "row": 6,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "NET",
+      "row": 2,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "TIE",
+      "row": 5,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "OIL",
+      "row": 8,
+      "col": 10,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8954
+}

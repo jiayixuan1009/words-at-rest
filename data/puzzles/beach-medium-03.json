@@ -1,0 +1,284 @@
+{
+  "id": "beach-medium-03",
+  "slug": "beach-medium-03",
+  "themeId": "beach",
+  "title": "Beach: Boardwalk Hour",
+  "primaryKeyword": "beach word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BOARDWALK",
+    "BREEZE",
+    "BUCKET",
+    "COOLER",
+    "DRIFTWOOD",
+    "DUNE",
+    "GRASS",
+    "LOTION",
+    "PIER",
+    "SEAGLASS",
+    "SHADE",
+    "SNACK",
+    "SPADE",
+    "UMBRELLA"
+  ],
+  "grid": [
+    [
+      "Z",
+      "H",
+      "U",
+      "D",
+      "S",
+      "G",
+      "Y",
+      "E",
+      "O",
+      "I",
+      "R",
+      "L"
+    ],
+    [
+      "I",
+      "B",
+      "B",
+      "R",
+      "A",
+      "E",
+      "R",
+      "D",
+      "U",
+      "N",
+      "E",
+      "X"
+    ],
+    [
+      "Z",
+      "O",
+      "U",
+      "I",
+      "W",
+      "G",
+      "A",
+      "A",
+      "X",
+      "Z",
+      "R",
+      "J"
+    ],
+    [
+      "A",
+      "A",
+      "C",
+      "F",
+      "W",
+      "L",
+      "L",
+      "G",
+      "S",
+      "B",
+      "T",
+      "P"
+    ],
+    [
+      "K",
+      "R",
+      "K",
+      "T",
+      "Q",
+      "N",
+      "O",
+      "S",
+      "L",
+      "S",
+      "S",
+      "I"
+    ],
+    [
+      "N",
+      "D",
+      "E",
+      "W",
+      "S",
+      "O",
+      "N",
+      "T",
+      "N",
+      "A",
+      "R",
+      "E"
+    ],
+    [
+      "S",
+      "W",
+      "T",
+      "O",
+      "P",
+      "K",
+      "B",
+      "N",
+      "I",
+      "E",
+      "S",
+      "R"
+    ],
+    [
+      "N",
+      "A",
+      "O",
+      "O",
+      "A",
+      "E",
+      "G",
+      "R",
+      "L",
+      "O",
+      "O",
+      "S"
+    ],
+    [
+      "A",
+      "L",
+      "K",
+      "D",
+      "D",
+      "G",
+      "G",
+      "O",
+      "E",
+      "D",
+      "N",
+      "A"
+    ],
+    [
+      "C",
+      "K",
+      "P",
+      "A",
+      "E",
+      "D",
+      "O",
+      "T",
+      "F",
+      "E",
+      "F",
+      "Q"
+    ],
+    [
+      "K",
+      "U",
+      "H",
+      "G",
+      "T",
+      "C",
+      "W",
+      "B",
+      "K",
+      "X",
+      "Z",
+      "S"
+    ],
+    [
+      "D",
+      "S",
+      "U",
+      "U",
+      "M",
+      "B",
+      "R",
+      "E",
+      "L",
+      "L",
+      "A",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BOARDWALK",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "DRIFTWOOD",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "UMBRELLA",
+      "row": 11,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SEAGLASS",
+      "row": 0,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "COOLER",
+      "row": 10,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "LOTION",
+      "row": 3,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "BREEZE",
+      "row": 6,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "BUCKET",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "SNACK",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SHADE",
+      "row": 11,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "GRASS",
+      "row": 0,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "SPADE",
+      "row": 5,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "PIER",
+      "row": 3,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "DUNE",
+      "row": 1,
+      "col": 7,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 3212
+}

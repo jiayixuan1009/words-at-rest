@@ -1,0 +1,173 @@
+{
+  "id": "large-print-pack-large-23",
+  "slug": "large-print-pack-large-23",
+  "themeId": "large-print-pack",
+  "title": "Large Print Word Search: Kitchen Rest",
+  "primaryKeyword": "large print large print word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BOWL",
+    "BREAD",
+    "HOME",
+    "KITCHEN",
+    "REST",
+    "SPOON",
+    "TEA",
+    "WARM"
+  ],
+  "grid": [
+    [
+      "N",
+      "P",
+      "Q",
+      "W",
+      "G",
+      "M",
+      "B",
+      "J",
+      "K"
+    ],
+    [
+      "K",
+      "F",
+      "W",
+      "A",
+      "T",
+      "F",
+      "O",
+      "M",
+      "I"
+    ],
+    [
+      "B",
+      "Q",
+      "R",
+      "R",
+      "B",
+      "S",
+      "W",
+      "H",
+      "T"
+    ],
+    [
+      "R",
+      "Q",
+      "Z",
+      "M",
+      "A",
+      "P",
+      "L",
+      "Y",
+      "C"
+    ],
+    [
+      "E",
+      "H",
+      "O",
+      "M",
+      "E",
+      "O",
+      "T",
+      "T",
+      "H"
+    ],
+    [
+      "A",
+      "M",
+      "P",
+      "T",
+      "R",
+      "O",
+      "D",
+      "E",
+      "E"
+    ],
+    [
+      "D",
+      "X",
+      "F",
+      "M",
+      "R",
+      "N",
+      "Q",
+      "A",
+      "N"
+    ],
+    [
+      "J",
+      "V",
+      "C",
+      "O",
+      "J",
+      "A",
+      "B",
+      "F",
+      "G"
+    ],
+    [
+      "J",
+      "Y",
+      "Q",
+      "F",
+      "R",
+      "E",
+      "S",
+      "T",
+      "D"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "KITCHEN",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "SPOON",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "BREAD",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BOWL",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "WARM",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "REST",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "HOME",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TEA",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 3047
+}

@@ -1,0 +1,284 @@
+{
+  "id": "new-year-medium-03",
+  "slug": "new-year-medium-03",
+  "themeId": "new-year",
+  "title": "New Year: Long Afternoon",
+  "primaryKeyword": "new year word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CLOCK",
+    "DAWN",
+    "FUTURE",
+    "GRATITUDE",
+    "HABIT",
+    "INTENTION",
+    "MIDNIGHT",
+    "PATIENCE",
+    "PEACE",
+    "PLAN",
+    "REFLECT",
+    "RENEW",
+    "STREAMER",
+    "SYNE"
+  ],
+  "grid": [
+    [
+      "B",
+      "R",
+      "G",
+      "R",
+      "A",
+      "T",
+      "I",
+      "T",
+      "U",
+      "D",
+      "E",
+      "J"
+    ],
+    [
+      "U",
+      "B",
+      "M",
+      "H",
+      "M",
+      "I",
+      "D",
+      "N",
+      "I",
+      "G",
+      "H",
+      "T"
+    ],
+    [
+      "I",
+      "T",
+      "P",
+      "S",
+      "A",
+      "F",
+      "C",
+      "P",
+      "P",
+      "J",
+      "Z",
+      "M"
+    ],
+    [
+      "P",
+      "N",
+      "A",
+      "E",
+      "T",
+      "B",
+      "F",
+      "R",
+      "E",
+      "N",
+      "E",
+      "W"
+    ],
+    [
+      "T",
+      "O",
+      "T",
+      "D",
+      "R",
+      "R",
+      "I",
+      "C",
+      "Q",
+      "A",
+      "N",
+      "O"
+    ],
+    [
+      "K",
+      "B",
+      "I",
+      "E",
+      "K",
+      "E",
+      "E",
+      "T",
+      "L",
+      "A",
+      "C",
+      "S"
+    ],
+    [
+      "A",
+      "W",
+      "E",
+      "F",
+      "N",
+      "H",
+      "F",
+      "A",
+      "J",
+      "O",
+      "P",
+      "E"
+    ],
+    [
+      "H",
+      "D",
+      "N",
+      "K",
+      "U",
+      "T",
+      "C",
+      "L",
+      "M",
+      "Z",
+      "C",
+      "R"
+    ],
+    [
+      "V",
+      "P",
+      "C",
+      "S",
+      "U",
+      "T",
+      "I",
+      "M",
+      "E",
+      "E",
+      "M",
+      "K"
+    ],
+    [
+      "T",
+      "L",
+      "E",
+      "S",
+      "Y",
+      "V",
+      "U",
+      "O",
+      "A",
+      "C",
+      "R",
+      "C"
+    ],
+    [
+      "A",
+      "A",
+      "D",
+      "A",
+      "W",
+      "N",
+      "R",
+      "R",
+      "N",
+      "J",
+      "T",
+      "K"
+    ],
+    [
+      "R",
+      "N",
+      "A",
+      "W",
+      "E",
+      "K",
+      "E",
+      "R",
+      "E",
+      "P",
+      "G",
+      "L"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "INTENTION",
+      "row": 2,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "GRATITUDE",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "STREAMER",
+      "row": 2,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "MIDNIGHT",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "PATIENCE",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "REFLECT",
+      "row": 4,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "FUTURE",
+      "row": 6,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "RENEW",
+      "row": 3,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "PEACE",
+      "row": 2,
+      "col": 7,
+      "direction": "SE"
+    },
+    {
+      "word": "CLOCK",
+      "row": 4,
+      "col": 7,
+      "direction": "SE"
+    },
+    {
+      "word": "HABIT",
+      "row": 1,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "DAWN",
+      "row": 10,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SYNE",
+      "row": 8,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "PLAN",
+      "row": 8,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9323
+}

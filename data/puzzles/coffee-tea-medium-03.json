@@ -1,0 +1,284 @@
+{
+  "id": "coffee-tea-medium-03",
+  "slug": "coffee-tea-medium-03",
+  "themeId": "coffee-tea",
+  "title": "Coffee & Tea: Border Path",
+  "primaryKeyword": "coffee and tea word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BLACK",
+    "BLEND",
+    "BREW",
+    "CHAMOMILE",
+    "COCOA",
+    "COFFEE",
+    "FILTER",
+    "GRIND",
+    "LEAF",
+    "MILK",
+    "POT",
+    "PRESS",
+    "TEA",
+    "VANILLA"
+  ],
+  "grid": [
+    [
+      "B",
+      "C",
+      "H",
+      "A",
+      "M",
+      "O",
+      "M",
+      "I",
+      "L",
+      "E",
+      "Q",
+      "V"
+    ],
+    [
+      "G",
+      "L",
+      "E",
+      "Q",
+      "V",
+      "H",
+      "Y",
+      "T",
+      "U",
+      "U",
+      "U",
+      "A"
+    ],
+    [
+      "R",
+      "H",
+      "E",
+      "D",
+      "R",
+      "R",
+      "X",
+      "C",
+      "Y",
+      "B",
+      "N",
+      "N"
+    ],
+    [
+      "I",
+      "P",
+      "Z",
+      "N",
+      "F",
+      "K",
+      "A",
+      "W",
+      "O",
+      "D",
+      "Y",
+      "I"
+    ],
+    [
+      "N",
+      "G",
+      "V",
+      "A",
+      "D",
+      "J",
+      "W",
+      "Q",
+      "K",
+      "C",
+      "J",
+      "L"
+    ],
+    [
+      "D",
+      "S",
+      "E",
+      "C",
+      "L",
+      "P",
+      "R",
+      "E",
+      "S",
+      "S",
+      "O",
+      "L"
+    ],
+    [
+      "R",
+      "L",
+      "R",
+      "T",
+      "E",
+      "A",
+      "I",
+      "S",
+      "X",
+      "I",
+      "X",
+      "A"
+    ],
+    [
+      "B",
+      "E",
+      "G",
+      "P",
+      "O",
+      "T",
+      "C",
+      "O",
+      "F",
+      "F",
+      "E",
+      "E"
+    ],
+    [
+      "K",
+      "F",
+      "I",
+      "L",
+      "T",
+      "E",
+      "R",
+      "R",
+      "A",
+      "L",
+      "F",
+      "Q"
+    ],
+    [
+      "B",
+      "R",
+      "E",
+      "W",
+      "E",
+      "O",
+      "R",
+      "U",
+      "E",
+      "I",
+      "B",
+      "P"
+    ],
+    [
+      "M",
+      "Q",
+      "S",
+      "W",
+      "P",
+      "V",
+      "J",
+      "N",
+      "M",
+      "I",
+      "L",
+      "K"
+    ],
+    [
+      "H",
+      "J",
+      "E",
+      "B",
+      "B",
+      "L",
+      "A",
+      "C",
+      "K",
+      "R",
+      "Q",
+      "S"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CHAMOMILE",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "VANILLA",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "FILTER",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "COFFEE",
+      "row": 7,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "BLEND",
+      "row": 0,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "PRESS",
+      "row": 5,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "COCOA",
+      "row": 2,
+      "col": 7,
+      "direction": "SE"
+    },
+    {
+      "word": "BLACK",
+      "row": 11,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "GRIND",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BREW",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "LEAF",
+      "row": 6,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "MILK",
+      "row": 10,
+      "col": 8,
+      "direction": "E"
+    },
+    {
+      "word": "TEA",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "POT",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9235
+}

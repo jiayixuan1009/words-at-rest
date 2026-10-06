@@ -1,0 +1,284 @@
+{
+  "id": "valentines-medium-03",
+  "slug": "valentines-medium-03",
+  "themeId": "valentines",
+  "title": "Valentine's Day: Border Path",
+  "primaryKeyword": "valentine word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "AFFECTION",
+    "CANDLELIT",
+    "CARD",
+    "CHERISH",
+    "CHOCOLATE",
+    "DEVOTION",
+    "HEART",
+    "KISS",
+    "MEMENTO",
+    "POEM",
+    "PROMISE",
+    "ROSE",
+    "SWEETHEART",
+    "WARMTH"
+  ],
+  "grid": [
+    [
+      "C",
+      "H",
+      "O",
+      "C",
+      "O",
+      "L",
+      "A",
+      "T",
+      "E",
+      "U",
+      "R",
+      "F"
+    ],
+    [
+      "N",
+      "Q",
+      "E",
+      "F",
+      "H",
+      "I",
+      "P",
+      "O",
+      "E",
+      "M",
+      "Y",
+      "W"
+    ],
+    [
+      "U",
+      "C",
+      "S",
+      "W",
+      "E",
+      "E",
+      "T",
+      "H",
+      "E",
+      "A",
+      "R",
+      "T"
+    ],
+    [
+      "D",
+      "M",
+      "A",
+      "P",
+      "R",
+      "O",
+      "R",
+      "L",
+      "G",
+      "G",
+      "A",
+      "X"
+    ],
+    [
+      "E",
+      "H",
+      "E",
+      "N",
+      "R",
+      "F",
+      "Q",
+      "I",
+      "S",
+      "B",
+      "F",
+      "N"
+    ],
+    [
+      "V",
+      "K",
+      "P",
+      "M",
+      "D",
+      "O",
+      "X",
+      "R",
+      "S",
+      "R",
+      "F",
+      "J"
+    ],
+    [
+      "O",
+      "I",
+      "M",
+      "W",
+      "E",
+      "L",
+      "M",
+      "O",
+      "Q",
+      "H",
+      "E",
+      "K"
+    ],
+    [
+      "T",
+      "S",
+      "X",
+      "A",
+      "H",
+      "N",
+      "E",
+      "I",
+      "O",
+      "G",
+      "C",
+      "M"
+    ],
+    [
+      "I",
+      "S",
+      "R",
+      "R",
+      "E",
+      "B",
+      "T",
+      "L",
+      "S",
+      "Z",
+      "T",
+      "T"
+    ],
+    [
+      "O",
+      "V",
+      "O",
+      "M",
+      "A",
+      "O",
+      "V",
+      "O",
+      "I",
+      "E",
+      "I",
+      "R"
+    ],
+    [
+      "N",
+      "W",
+      "S",
+      "T",
+      "R",
+      "A",
+      "W",
+      "Q",
+      "M",
+      "T",
+      "O",
+      "E"
+    ],
+    [
+      "D",
+      "K",
+      "E",
+      "H",
+      "T",
+      "C",
+      "A",
+      "R",
+      "D",
+      "Q",
+      "N",
+      "K"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SWEETHEART",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "AFFECTION",
+      "row": 3,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "CANDLELIT",
+      "row": 2,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "CHOCOLATE",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "DEVOTION",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "PROMISE",
+      "row": 3,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "CHERISH",
+      "row": 0,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "MEMENTO",
+      "row": 3,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "WARMTH",
+      "row": 6,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "HEART",
+      "row": 7,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "KISS",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "ROSE",
+      "row": 8,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "CARD",
+      "row": 11,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "POEM",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9355
+}

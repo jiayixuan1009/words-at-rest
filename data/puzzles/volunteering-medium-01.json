@@ -1,0 +1,284 @@
+{
+  "id": "volunteering-medium-01",
+  "slug": "volunteering-medium-01",
+  "themeId": "volunteering",
+  "title": "Volunteering: Pantry Sort",
+  "primaryKeyword": "volunteering word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BOOTH",
+    "DONATE",
+    "EVENT",
+    "GARDEN",
+    "GREET",
+    "GUIDE",
+    "LISTEN",
+    "PANTRY",
+    "SHELTER",
+    "TABLE",
+    "TEACH",
+    "TUTOR",
+    "VISIT",
+    "WELCOME"
+  ],
+  "grid": [
+    [
+      "F",
+      "L",
+      "I",
+      "S",
+      "T",
+      "E",
+      "N",
+      "J",
+      "V",
+      "M",
+      "L",
+      "P"
+    ],
+    [
+      "I",
+      "S",
+      "U",
+      "R",
+      "D",
+      "D",
+      "T",
+      "G",
+      "I",
+      "H",
+      "M",
+      "E"
+    ],
+    [
+      "L",
+      "G",
+      "H",
+      "I",
+      "O",
+      "N",
+      "P",
+      "A",
+      "S",
+      "M",
+      "Z",
+      "L"
+    ],
+    [
+      "T",
+      "W",
+      "U",
+      "E",
+      "E",
+      "Z",
+      "P",
+      "R",
+      "I",
+      "T",
+      "P",
+      "L"
+    ],
+    [
+      "U",
+      "G",
+      "R",
+      "V",
+      "L",
+      "A",
+      "R",
+      "D",
+      "T",
+      "E",
+      "M",
+      "W"
+    ],
+    [
+      "T",
+      "J",
+      "E",
+      "V",
+      "Y",
+      "T",
+      "E",
+      "E",
+      "P",
+      "A",
+      "W",
+      "C"
+    ],
+    [
+      "O",
+      "E",
+      "T",
+      "L",
+      "H",
+      "T",
+      "E",
+      "N",
+      "P",
+      "C",
+      "E",
+      "I"
+    ],
+    [
+      "R",
+      "U",
+      "N",
+      "A",
+      "A",
+      "A",
+      "Y",
+      "R",
+      "T",
+      "H",
+      "L",
+      "T"
+    ],
+    [
+      "M",
+      "O",
+      "V",
+      "N",
+      "G",
+      "R",
+      "E",
+      "E",
+      "T",
+      "Z",
+      "C",
+      "T"
+    ],
+    [
+      "B",
+      "O",
+      "O",
+      "T",
+      "H",
+      "P",
+      "O",
+      "H",
+      "E",
+      "X",
+      "O",
+      "X"
+    ],
+    [
+      "U",
+      "D",
+      "Y",
+      "Y",
+      "T",
+      "A",
+      "B",
+      "L",
+      "E",
+      "K",
+      "M",
+      "F"
+    ],
+    [
+      "H",
+      "U",
+      "P",
+      "A",
+      "N",
+      "T",
+      "R",
+      "Y",
+      "R",
+      "P",
+      "E",
+      "I"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SHELTER",
+      "row": 1,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "WELCOME",
+      "row": 5,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "PANTRY",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "GARDEN",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "LISTEN",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "DONATE",
+      "row": 10,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "TEACH",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "TUTOR",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "VISIT",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "GREET",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "GUIDE",
+      "row": 4,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "EVENT",
+      "row": 5,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "BOOTH",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "TABLE",
+      "row": 10,
+      "col": 4,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8943
+}

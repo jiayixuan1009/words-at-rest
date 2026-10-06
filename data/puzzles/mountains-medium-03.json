@@ -1,0 +1,284 @@
+{
+  "id": "mountains-medium-03",
+  "slug": "mountains-medium-03",
+  "themeId": "mountains",
+  "title": "Mountains: Alpine Meadow",
+  "primaryKeyword": "mountains word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ALPINE",
+    "CAIRN",
+    "CIRQUE",
+    "COL",
+    "CREVASSE",
+    "GLACIER",
+    "MEADOW",
+    "SADDLE",
+    "SCREE",
+    "SUMMIT",
+    "SWITCHBACK",
+    "TALUS",
+    "VISTA",
+    "WILDFLOWER"
+  ],
+  "grid": [
+    [
+      "V",
+      "S",
+      "W",
+      "V",
+      "S",
+      "U",
+      "M",
+      "M",
+      "I",
+      "T",
+      "N",
+      "S"
+    ],
+    [
+      "M",
+      "I",
+      "W",
+      "I",
+      "C",
+      "K",
+      "V",
+      "X",
+      "U",
+      "R",
+      "T",
+      "G"
+    ],
+    [
+      "M",
+      "E",
+      "S",
+      "I",
+      "L",
+      "S",
+      "S",
+      "C",
+      "R",
+      "E",
+      "E",
+      "L"
+    ],
+    [
+      "U",
+      "E",
+      "A",
+      "T",
+      "T",
+      "D",
+      "A",
+      "X",
+      "R",
+      "R",
+      "C",
+      "A"
+    ],
+    [
+      "S",
+      "C",
+      "O",
+      "D",
+      "A",
+      "C",
+      "F",
+      "D",
+      "Z",
+      "I",
+      "Q",
+      "C"
+    ],
+    [
+      "F",
+      "U",
+      "O",
+      "M",
+      "O",
+      "E",
+      "H",
+      "L",
+      "D",
+      "O",
+      "B",
+      "I"
+    ],
+    [
+      "S",
+      "T",
+      "D",
+      "L",
+      "U",
+      "W",
+      "V",
+      "B",
+      "O",
+      "L",
+      "A",
+      "E"
+    ],
+    [
+      "U",
+      "Z",
+      "L",
+      "Q",
+      "Z",
+      "P",
+      "F",
+      "Y",
+      "A",
+      "W",
+      "E",
+      "R"
+    ],
+    [
+      "O",
+      "C",
+      "R",
+      "E",
+      "V",
+      "A",
+      "S",
+      "S",
+      "E",
+      "C",
+      "E",
+      "S"
+    ],
+    [
+      "E",
+      "I",
+      "A",
+      "L",
+      "P",
+      "I",
+      "N",
+      "E",
+      "I",
+      "N",
+      "K",
+      "R"
+    ],
+    [
+      "C",
+      "T",
+      "A",
+      "L",
+      "U",
+      "S",
+      "S",
+      "P",
+      "L",
+      "Z",
+      "W",
+      "G"
+    ],
+    [
+      "W",
+      "B",
+      "T",
+      "O",
+      "M",
+      "N",
+      "X",
+      "C",
+      "A",
+      "I",
+      "R",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "WILDFLOWER",
+      "row": 0,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "SWITCHBACK",
+      "row": 0,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "CREVASSE",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "GLACIER",
+      "row": 1,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "ALPINE",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "MEADOW",
+      "row": 1,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "SUMMIT",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SADDLE",
+      "row": 2,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "CIRQUE",
+      "row": 10,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "TALUS",
+      "row": 10,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SCREE",
+      "row": 2,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "CAIRN",
+      "row": 11,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "VISTA",
+      "row": 0,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "COL",
+      "row": 4,
+      "col": 1,
+      "direction": "SE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 3412
+}

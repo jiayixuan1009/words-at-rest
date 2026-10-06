@@ -1,0 +1,208 @@
+{
+  "id": "cats-easy-03",
+  "slug": "cats-easy-03",
+  "themeId": "cats",
+  "title": "Cats: Sunny Sill",
+  "primaryKeyword": "cats word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CURL",
+    "EAR",
+    "EYE",
+    "NAP",
+    "PAW",
+    "PURR",
+    "SILL",
+    "SOFT",
+    "SUN",
+    "WARM"
+  ],
+  "grid": [
+    [
+      "H",
+      "V",
+      "N",
+      "A",
+      "P",
+      "E",
+      "A",
+      "R",
+      "K",
+      "P"
+    ],
+    [
+      "S",
+      "G",
+      "N",
+      "W",
+      "M",
+      "H",
+      "Z",
+      "P",
+      "C",
+      "A"
+    ],
+    [
+      "N",
+      "K",
+      "G",
+      "X",
+      "S",
+      "U",
+      "N",
+      "U",
+      "R",
+      "W"
+    ],
+    [
+      "L",
+      "T",
+      "E",
+      "W",
+      "F",
+      "X",
+      "X",
+      "R",
+      "G",
+      "A"
+    ],
+    [
+      "W",
+      "W",
+      "S",
+      "G",
+      "T",
+      "X",
+      "Y",
+      "R",
+      "F",
+      "A"
+    ],
+    [
+      "W",
+      "A",
+      "B",
+      "U",
+      "P",
+      "S",
+      "N",
+      "Z",
+      "Y",
+      "J"
+    ],
+    [
+      "E",
+      "R",
+      "U",
+      "Q",
+      "R",
+      "Q",
+      "S",
+      "I",
+      "L",
+      "L"
+    ],
+    [
+      "P",
+      "M",
+      "Z",
+      "D",
+      "S",
+      "O",
+      "F",
+      "T",
+      "S",
+      "H"
+    ],
+    [
+      "K",
+      "Y",
+      "C",
+      "U",
+      "R",
+      "L",
+      "M",
+      "O",
+      "P",
+      "J"
+    ],
+    [
+      "K",
+      "F",
+      "O",
+      "V",
+      "H",
+      "M",
+      "T",
+      "E",
+      "Y",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SILL",
+      "row": 6,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "PURR",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SOFT",
+      "row": 7,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "WARM",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "CURL",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SUN",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "NAP",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PAW",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "EAR",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "EYE",
+      "row": 9,
+      "col": 7,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2721
+}

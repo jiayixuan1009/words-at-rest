@@ -1,0 +1,208 @@
+{
+  "id": "kitchen-easy-03",
+  "slug": "kitchen-easy-03",
+  "themeId": "kitchen",
+  "title": "Kitchen: Still Room",
+  "primaryKeyword": "kitchen word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "APRON",
+    "CHOP",
+    "KETTLE",
+    "PAN",
+    "PLATE",
+    "SHELF",
+    "STIR",
+    "TAP",
+    "TOWEL",
+    "WHISK"
+  ],
+  "grid": [
+    [
+      "A",
+      "G",
+      "Q",
+      "T",
+      "A",
+      "E",
+      "A",
+      "Q",
+      "R",
+      "H"
+    ],
+    [
+      "Y",
+      "B",
+      "F",
+      "T",
+      "K",
+      "E",
+      "T",
+      "T",
+      "L",
+      "E"
+    ],
+    [
+      "N",
+      "G",
+      "N",
+      "O",
+      "S",
+      "H",
+      "E",
+      "L",
+      "F",
+      "J"
+    ],
+    [
+      "B",
+      "R",
+      "B",
+      "W",
+      "I",
+      "T",
+      "A",
+      "P",
+      "H",
+      "U"
+    ],
+    [
+      "C",
+      "H",
+      "S",
+      "E",
+      "P",
+      "R",
+      "A",
+      "J",
+      "N",
+      "C"
+    ],
+    [
+      "H",
+      "N",
+      "J",
+      "L",
+      "A",
+      "G",
+      "P",
+      "K",
+      "P",
+      "O"
+    ],
+    [
+      "O",
+      "R",
+      "O",
+      "J",
+      "P",
+      "Y",
+      "R",
+      "R",
+      "L",
+      "S"
+    ],
+    [
+      "P",
+      "Q",
+      "C",
+      "W",
+      "A",
+      "R",
+      "O",
+      "X",
+      "A",
+      "T"
+    ],
+    [
+      "B",
+      "C",
+      "C",
+      "C",
+      "N",
+      "W",
+      "N",
+      "B",
+      "T",
+      "I"
+    ],
+    [
+      "W",
+      "H",
+      "I",
+      "S",
+      "K",
+      "Q",
+      "W",
+      "E",
+      "E",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "KETTLE",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "APRON",
+      "row": 4,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "TOWEL",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "PLATE",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "WHISK",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SHELF",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CHOP",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "STIR",
+      "row": 6,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "TAP",
+      "row": 3,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "PAN",
+      "row": 6,
+      "col": 4,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9300
+}

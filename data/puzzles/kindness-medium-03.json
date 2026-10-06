@@ -1,0 +1,284 @@
+{
+  "id": "kindness-medium-03",
+  "slug": "kindness-medium-03",
+  "themeId": "kindness",
+  "title": "Kindness: Long Afternoon",
+  "primaryKeyword": "kindness word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CALM",
+    "CARD",
+    "FORGIVE",
+    "GENTLE",
+    "GIVE",
+    "GRACE",
+    "HONEST",
+    "KIND",
+    "LIFT",
+    "PATIENT",
+    "PEACE",
+    "SUPPORT",
+    "TABLE",
+    "WELCOME"
+  ],
+  "grid": [
+    [
+      "G",
+      "R",
+      "V",
+      "N",
+      "W",
+      "E",
+      "L",
+      "C",
+      "O",
+      "M",
+      "E",
+      "M"
+    ],
+    [
+      "K",
+      "X",
+      "L",
+      "P",
+      "L",
+      "G",
+      "G",
+      "E",
+      "N",
+      "T",
+      "L",
+      "E"
+    ],
+    [
+      "I",
+      "U",
+      "I",
+      "E",
+      "V",
+      "F",
+      "R",
+      "Y",
+      "J",
+      "A",
+      "S",
+      "O"
+    ],
+    [
+      "I",
+      "P",
+      "F",
+      "C",
+      "Q",
+      "S",
+      "H",
+      "A",
+      "C",
+      "A",
+      "R",
+      "H"
+    ],
+    [
+      "T",
+      "A",
+      "T",
+      "Y",
+      "N",
+      "U",
+      "V",
+      "O",
+      "C",
+      "D",
+      "Z",
+      "Z"
+    ],
+    [
+      "A",
+      "T",
+      "E",
+      "W",
+      "I",
+      "P",
+      "C",
+      "K",
+      "N",
+      "E",
+      "J",
+      "E"
+    ],
+    [
+      "B",
+      "I",
+      "B",
+      "L",
+      "H",
+      "P",
+      "A",
+      "I",
+      "B",
+      "E",
+      "V",
+      "S"
+    ],
+    [
+      "L",
+      "E",
+      "P",
+      "W",
+      "L",
+      "O",
+      "K",
+      "K",
+      "P",
+      "I",
+      "S",
+      "A"
+    ],
+    [
+      "E",
+      "N",
+      "J",
+      "E",
+      "D",
+      "R",
+      "P",
+      "G",
+      "G",
+      "B",
+      "X",
+      "T"
+    ],
+    [
+      "E",
+      "T",
+      "C",
+      "R",
+      "A",
+      "T",
+      "D",
+      "R",
+      "I",
+      "E",
+      "C",
+      "B"
+    ],
+    [
+      "F",
+      "J",
+      "A",
+      "W",
+      "Y",
+      "C",
+      "O",
+      "T",
+      "V",
+      "V",
+      "C",
+      "X"
+    ],
+    [
+      "W",
+      "C",
+      "I",
+      "N",
+      "Z",
+      "F",
+      "E",
+      "O",
+      "A",
+      "K",
+      "E",
+      "B"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "WELCOME",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SUPPORT",
+      "row": 3,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "FORGIVE",
+      "row": 11,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "PATIENT",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "GENTLE",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "HONEST",
+      "row": 3,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "PEACE",
+      "row": 7,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "GRACE",
+      "row": 1,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "TABLE",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "KIND",
+      "row": 7,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "CALM",
+      "row": 3,
+      "col": 8,
+      "direction": "NE"
+    },
+    {
+      "word": "CARD",
+      "row": 11,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "GIVE",
+      "row": 8,
+      "col": 7,
+      "direction": "SE"
+    },
+    {
+      "word": "LIFT",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9299
+}

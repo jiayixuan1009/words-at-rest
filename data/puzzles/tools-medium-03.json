@@ -1,0 +1,284 @@
+{
+  "id": "tools-medium-03",
+  "slug": "tools-medium-03",
+  "themeId": "tools",
+  "title": "Tools: Shop Drawer",
+  "primaryKeyword": "tools word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BIT",
+    "CHALK",
+    "CUTTER",
+    "DRAWER",
+    "DRIVER",
+    "LEVEL",
+    "LINE",
+    "MEASURE",
+    "PLIERS",
+    "SOCKET",
+    "SQUARE",
+    "TAPE",
+    "TORQUE",
+    "WRENCH"
+  ],
+  "grid": [
+    [
+      "H",
+      "O",
+      "B",
+      "B",
+      "J",
+      "K",
+      "V",
+      "X",
+      "P",
+      "R",
+      "E",
+      "R"
+    ],
+    [
+      "C",
+      "S",
+      "G",
+      "A",
+      "D",
+      "H",
+      "A",
+      "S",
+      "M",
+      "R",
+      "C",
+      "M"
+    ],
+    [
+      "D",
+      "C",
+      "B",
+      "I",
+      "T",
+      "A",
+      "H",
+      "O",
+      "E",
+      "D",
+      "K",
+      "W"
+    ],
+    [
+      "R",
+      "U",
+      "W",
+      "G",
+      "K",
+      "X",
+      "Q",
+      "C",
+      "A",
+      "R",
+      "H",
+      "P"
+    ],
+    [
+      "A",
+      "T",
+      "Z",
+      "R",
+      "D",
+      "V",
+      "Y",
+      "K",
+      "S",
+      "I",
+      "E",
+      "K"
+    ],
+    [
+      "W",
+      "T",
+      "S",
+      "I",
+      "E",
+      "S",
+      "K",
+      "E",
+      "U",
+      "V",
+      "T",
+      "D"
+    ],
+    [
+      "E",
+      "E",
+      "Q",
+      "M",
+      "P",
+      "N",
+      "X",
+      "T",
+      "R",
+      "E",
+      "O",
+      "G"
+    ],
+    [
+      "R",
+      "R",
+      "U",
+      "C",
+      "L",
+      "L",
+      "C",
+      "T",
+      "E",
+      "R",
+      "R",
+      "Z"
+    ],
+    [
+      "J",
+      "E",
+      "A",
+      "H",
+      "I",
+      "O",
+      "K",
+      "H",
+      "A",
+      "Z",
+      "Q",
+      "L"
+    ],
+    [
+      "J",
+      "V",
+      "R",
+      "A",
+      "E",
+      "A",
+      "G",
+      "Y",
+      "H",
+      "P",
+      "U",
+      "I"
+    ],
+    [
+      "A",
+      "N",
+      "E",
+      "L",
+      "R",
+      "S",
+      "E",
+      "R",
+      "Z",
+      "E",
+      "E",
+      "N"
+    ],
+    [
+      "P",
+      "P",
+      "P",
+      "K",
+      "S",
+      "S",
+      "L",
+      "E",
+      "V",
+      "E",
+      "L",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "MEASURE",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "DRAWER",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SOCKET",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "WRENCH",
+      "row": 3,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "PLIERS",
+      "row": 6,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "CUTTER",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "DRIVER",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "TORQUE",
+      "row": 5,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "SQUARE",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "LEVEL",
+      "row": 11,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "CHALK",
+      "row": 7,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "LINE",
+      "row": 8,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "TAPE",
+      "row": 7,
+      "col": 7,
+      "direction": "SE"
+    },
+    {
+      "word": "BIT",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 4312
+}

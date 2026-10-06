@@ -1,0 +1,284 @@
+{
+  "id": "dogs-medium-03",
+  "slug": "dogs-medium-03",
+  "themeId": "dogs",
+  "title": "Dogs: Rainy Day In",
+  "primaryKeyword": "dogs word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BALL",
+    "BASKET",
+    "BLANKET",
+    "BONE",
+    "CHEW",
+    "CUSHION",
+    "PAWPRINT",
+    "RAINY",
+    "REST",
+    "SHAKE",
+    "SNUG",
+    "SOFA",
+    "TOWEL",
+    "TOY"
+  ],
+  "grid": [
+    [
+      "T",
+      "A",
+      "B",
+      "X",
+      "P",
+      "H",
+      "P",
+      "M",
+      "J",
+      "S",
+      "V",
+      "I"
+    ],
+    [
+      "R",
+      "L",
+      "O",
+      "D",
+      "J",
+      "A",
+      "I",
+      "E",
+      "S",
+      "N",
+      "K",
+      "Q"
+    ],
+    [
+      "N",
+      "C",
+      "N",
+      "S",
+      "Y",
+      "L",
+      "W",
+      "K",
+      "M",
+      "U",
+      "B",
+      "O"
+    ],
+    [
+      "D",
+      "H",
+      "E",
+      "O",
+      "S",
+      "R",
+      "R",
+      "P",
+      "B",
+      "G",
+      "R",
+      "C"
+    ],
+    [
+      "C",
+      "U",
+      "S",
+      "H",
+      "I",
+      "O",
+      "N",
+      "E",
+      "R",
+      "A",
+      "V",
+      "D"
+    ],
+    [
+      "G",
+      "O",
+      "H",
+      "R",
+      "N",
+      "B",
+      "G",
+      "B",
+      "S",
+      "I",
+      "L",
+      "M"
+    ],
+    [
+      "C",
+      "M",
+      "A",
+      "A",
+      "N",
+      "A",
+      "T",
+      "L",
+      "B",
+      "T",
+      "N",
+      "L"
+    ],
+    [
+      "O",
+      "N",
+      "K",
+      "I",
+      "S",
+      "S",
+      "O",
+      "A",
+      "S",
+      "D",
+      "C",
+      "T"
+    ],
+    [
+      "C",
+      "Q",
+      "E",
+      "N",
+      "K",
+      "K",
+      "W",
+      "N",
+      "O",
+      "F",
+      "H",
+      "O"
+    ],
+    [
+      "S",
+      "B",
+      "P",
+      "Y",
+      "P",
+      "E",
+      "E",
+      "K",
+      "F",
+      "M",
+      "E",
+      "Y"
+    ],
+    [
+      "F",
+      "I",
+      "G",
+      "I",
+      "U",
+      "T",
+      "L",
+      "E",
+      "A",
+      "V",
+      "W",
+      "Q"
+    ],
+    [
+      "M",
+      "J",
+      "T",
+      "V",
+      "O",
+      "X",
+      "Y",
+      "T",
+      "N",
+      "E",
+      "I",
+      "I"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PAWPRINT",
+      "row": 0,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "CUSHION",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BLANKET",
+      "row": 5,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "BASKET",
+      "row": 5,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "RAINY",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "TOWEL",
+      "row": 6,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "SHAKE",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "CHEW",
+      "row": 7,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "BONE",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "BALL",
+      "row": 3,
+      "col": 8,
+      "direction": "SE"
+    },
+    {
+      "word": "SOFA",
+      "row": 7,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "REST",
+      "row": 3,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "SNUG",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "TOY",
+      "row": 7,
+      "col": 11,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2822
+}

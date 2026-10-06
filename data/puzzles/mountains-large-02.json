@@ -1,0 +1,173 @@
+{
+  "id": "mountains-large-02",
+  "slug": "mountains-large-02",
+  "themeId": "mountains",
+  "title": "Large Print Mountains: Soft Peak",
+  "primaryKeyword": "large print mountains word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "HIKE",
+    "PASS",
+    "PEAK",
+    "REST",
+    "ROCK",
+    "SNOW",
+    "VIEW",
+    "WIND"
+  ],
+  "grid": [
+    [
+      "N",
+      "N",
+      "G",
+      "E",
+      "J",
+      "N",
+      "O",
+      "S",
+      "H"
+    ],
+    [
+      "R",
+      "O",
+      "C",
+      "K",
+      "S",
+      "T",
+      "F",
+      "D",
+      "I"
+    ],
+    [
+      "H",
+      "K",
+      "A",
+      "U",
+      "P",
+      "A",
+      "K",
+      "G",
+      "K"
+    ],
+    [
+      "O",
+      "N",
+      "U",
+      "K",
+      "A",
+      "J",
+      "G",
+      "V",
+      "E"
+    ],
+    [
+      "S",
+      "N",
+      "O",
+      "W",
+      "S",
+      "H",
+      "A",
+      "R",
+      "F"
+    ],
+    [
+      "V",
+      "P",
+      "T",
+      "X",
+      "S",
+      "V",
+      "Q",
+      "C",
+      "R"
+    ],
+    [
+      "W",
+      "E",
+      "H",
+      "C",
+      "W",
+      "I",
+      "N",
+      "D",
+      "E"
+    ],
+    [
+      "O",
+      "A",
+      "N",
+      "Y",
+      "O",
+      "E",
+      "U",
+      "T",
+      "S"
+    ],
+    [
+      "D",
+      "K",
+      "C",
+      "N",
+      "K",
+      "W",
+      "L",
+      "V",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PASS",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "VIEW",
+      "row": 5,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "PEAK",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SNOW",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "ROCK",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "WIND",
+      "row": 6,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "HIKE",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "REST",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 3414
+}

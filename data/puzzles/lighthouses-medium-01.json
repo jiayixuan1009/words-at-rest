@@ -1,0 +1,284 @@
+{
+  "id": "lighthouses-medium-01",
+  "slug": "lighthouses-medium-01",
+  "themeId": "lighthouses",
+  "title": "Lighthouses: Fog Watch",
+  "primaryKeyword": "lighthouses word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CHANNEL",
+    "COAST",
+    "FLASH",
+    "GALE",
+    "GALLERY",
+    "GLASS",
+    "HARBOR",
+    "KEEPER",
+    "LANTERN",
+    "PRISM",
+    "ROTATE",
+    "SIGNAL",
+    "STAIR",
+    "STORM"
+  ],
+  "grid": [
+    [
+      "S",
+      "I",
+      "G",
+      "N",
+      "A",
+      "L",
+      "D",
+      "T",
+      "C",
+      "H",
+      "Q",
+      "W"
+    ],
+    [
+      "K",
+      "P",
+      "S",
+      "R",
+      "Y",
+      "K",
+      "P",
+      "L",
+      "F",
+      "C",
+      "U",
+      "H"
+    ],
+    [
+      "E",
+      "P",
+      "A",
+      "C",
+      "B",
+      "S",
+      "Z",
+      "R",
+      "I",
+      "G",
+      "S",
+      "R"
+    ],
+    [
+      "E",
+      "G",
+      "A",
+      "O",
+      "X",
+      "T",
+      "T",
+      "Q",
+      "I",
+      "A",
+      "R",
+      "N"
+    ],
+    [
+      "P",
+      "L",
+      "S",
+      "A",
+      "G",
+      "O",
+      "P",
+      "E",
+      "L",
+      "S",
+      "R",
+      "Y"
+    ],
+    [
+      "E",
+      "A",
+      "R",
+      "S",
+      "A",
+      "R",
+      "R",
+      "F",
+      "W",
+      "E",
+      "M",
+      "R"
+    ],
+    [
+      "R",
+      "S",
+      "H",
+      "T",
+      "L",
+      "M",
+      "O",
+      "N",
+      "T",
+      "C",
+      "I",
+      "G"
+    ],
+    [
+      "R",
+      "S",
+      "A",
+      "N",
+      "L",
+      "P",
+      "T",
+      "N",
+      "W",
+      "A",
+      "Q",
+      "A"
+    ],
+    [
+      "G",
+      "T",
+      "R",
+      "V",
+      "E",
+      "N",
+      "A",
+      "S",
+      "T",
+      "W",
+      "Y",
+      "L"
+    ],
+    [
+      "Q",
+      "D",
+      "B",
+      "H",
+      "R",
+      "L",
+      "T",
+      "S",
+      "K",
+      "J",
+      "T",
+      "E"
+    ],
+    [
+      "H",
+      "L",
+      "O",
+      "V",
+      "Y",
+      "C",
+      "E",
+      "I",
+      "H",
+      "N",
+      "C",
+      "A"
+    ],
+    [
+      "Z",
+      "G",
+      "R",
+      "C",
+      "H",
+      "A",
+      "N",
+      "N",
+      "E",
+      "L",
+      "K",
+      "X"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "LANTERN",
+      "row": 9,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "GALLERY",
+      "row": 4,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "CHANNEL",
+      "row": 11,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "KEEPER",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SIGNAL",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "ROTATE",
+      "row": 5,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "HARBOR",
+      "row": 6,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "STAIR",
+      "row": 9,
+      "col": 7,
+      "direction": "NE"
+    },
+    {
+      "word": "FLASH",
+      "row": 5,
+      "col": 7,
+      "direction": "NE"
+    },
+    {
+      "word": "PRISM",
+      "row": 1,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "GLASS",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "STORM",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "COAST",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "GALE",
+      "row": 6,
+      "col": 11,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9023
+}

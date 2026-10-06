@@ -1,0 +1,208 @@
+{
+  "id": "dinosaurs-easy-03",
+  "slug": "dinosaurs-easy-03",
+  "themeId": "dinosaurs",
+  "title": "Dinosaurs: Soft Path",
+  "primaryKeyword": "dinosaurs word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "AGE",
+    "EGG",
+    "EXHIBIT",
+    "HERBIVORE",
+    "IGUANODON",
+    "JURASSIC",
+    "MOSASAUR",
+    "NEST",
+    "SCALE",
+    "TAIL"
+  ],
+  "grid": [
+    [
+      "I",
+      "K",
+      "H",
+      "G",
+      "E",
+      "T",
+      "M",
+      "B",
+      "C",
+      "Q"
+    ],
+    [
+      "G",
+      "H",
+      "A",
+      "E",
+      "K",
+      "A",
+      "O",
+      "Y",
+      "J",
+      "N"
+    ],
+    [
+      "U",
+      "N",
+      "G",
+      "X",
+      "Q",
+      "I",
+      "S",
+      "S",
+      "U",
+      "E"
+    ],
+    [
+      "A",
+      "O",
+      "E",
+      "H",
+      "X",
+      "L",
+      "A",
+      "C",
+      "R",
+      "S"
+    ],
+    [
+      "N",
+      "J",
+      "G",
+      "I",
+      "X",
+      "G",
+      "S",
+      "A",
+      "A",
+      "T"
+    ],
+    [
+      "O",
+      "E",
+      "G",
+      "B",
+      "F",
+      "D",
+      "A",
+      "L",
+      "S",
+      "X"
+    ],
+    [
+      "D",
+      "Z",
+      "B",
+      "I",
+      "A",
+      "N",
+      "U",
+      "E",
+      "S",
+      "R"
+    ],
+    [
+      "O",
+      "V",
+      "Y",
+      "T",
+      "U",
+      "X",
+      "R",
+      "I",
+      "I",
+      "I"
+    ],
+    [
+      "N",
+      "A",
+      "F",
+      "S",
+      "U",
+      "L",
+      "R",
+      "V",
+      "C",
+      "B"
+    ],
+    [
+      "M",
+      "H",
+      "E",
+      "R",
+      "B",
+      "I",
+      "V",
+      "O",
+      "R",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "HERBIVORE",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "IGUANODON",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "JURASSIC",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "MOSASAUR",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "EXHIBIT",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "SCALE",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "TAIL",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "NEST",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "AGE",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "EGG",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9248
+}

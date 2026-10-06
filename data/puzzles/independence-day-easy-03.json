@@ -1,0 +1,208 @@
+{
+  "id": "independence-day-easy-03",
+  "slug": "independence-day-easy-03",
+  "themeId": "independence-day",
+  "title": "Independence Day: Quiet Hour",
+  "primaryKeyword": "fourth of july word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BASKET",
+    "COURTHOUSE",
+    "FLOAT",
+    "FOURTH",
+    "MARCH",
+    "NIGHT",
+    "PICNIC",
+    "SPARKLER",
+    "STRIPE",
+    "WATERMELON"
+  ],
+  "grid": [
+    [
+      "X",
+      "M",
+      "M",
+      "A",
+      "R",
+      "C",
+      "H",
+      "U",
+      "W",
+      "W"
+    ],
+    [
+      "U",
+      "H",
+      "F",
+      "P",
+      "I",
+      "C",
+      "N",
+      "I",
+      "C",
+      "U"
+    ],
+    [
+      "A",
+      "B",
+      "A",
+      "S",
+      "K",
+      "E",
+      "T",
+      "R",
+      "E",
+      "C"
+    ],
+    [
+      "N",
+      "I",
+      "G",
+      "H",
+      "T",
+      "E",
+      "Y",
+      "G",
+      "Z",
+      "I"
+    ],
+    [
+      "C",
+      "O",
+      "U",
+      "R",
+      "T",
+      "H",
+      "O",
+      "U",
+      "S",
+      "E"
+    ],
+    [
+      "N",
+      "Z",
+      "G",
+      "E",
+      "F",
+      "O",
+      "U",
+      "R",
+      "T",
+      "H"
+    ],
+    [
+      "W",
+      "A",
+      "T",
+      "E",
+      "R",
+      "M",
+      "E",
+      "L",
+      "O",
+      "N"
+    ],
+    [
+      "M",
+      "U",
+      "J",
+      "W",
+      "S",
+      "T",
+      "R",
+      "I",
+      "P",
+      "E"
+    ],
+    [
+      "U",
+      "I",
+      "G",
+      "R",
+      "Y",
+      "F",
+      "L",
+      "O",
+      "A",
+      "T"
+    ],
+    [
+      "S",
+      "P",
+      "A",
+      "R",
+      "K",
+      "L",
+      "E",
+      "R",
+      "M",
+      "L"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "WATERMELON",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "COURTHOUSE",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SPARKLER",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "PICNIC",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "FOURTH",
+      "row": 5,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BASKET",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "STRIPE",
+      "row": 7,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "FLOAT",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "NIGHT",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "MARCH",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9286
+}

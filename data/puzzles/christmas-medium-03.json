@@ -1,0 +1,284 @@
+{
+  "id": "christmas-medium-03",
+  "slug": "christmas-medium-03",
+  "themeId": "christmas",
+  "title": "Christmas: Ribbon Drawer",
+  "primaryKeyword": "christmas word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ANGEL",
+    "BELL",
+    "CANDLELIGHT",
+    "CHIMNEY",
+    "FIREPLACE",
+    "MANGER",
+    "ORNAMENT",
+    "PRESENTS",
+    "REINDEER",
+    "RIBBON",
+    "SNOW",
+    "SNOWMAN",
+    "WINTERGREEN",
+    "YULE"
+  ],
+  "grid": [
+    [
+      "L",
+      "D",
+      "F",
+      "C",
+      "L",
+      "Z",
+      "C",
+      "S",
+      "K",
+      "I",
+      "P",
+      "A"
+    ],
+    [
+      "G",
+      "W",
+      "I",
+      "H",
+      "Q",
+      "R",
+      "A",
+      "N",
+      "J",
+      "S",
+      "R",
+      "R"
+    ],
+    [
+      "L",
+      "I",
+      "R",
+      "I",
+      "S",
+      "E",
+      "N",
+      "O",
+      "L",
+      "N",
+      "E",
+      "I"
+    ],
+    [
+      "A",
+      "N",
+      "E",
+      "M",
+      "K",
+      "I",
+      "D",
+      "W",
+      "M",
+      "O",
+      "S",
+      "B"
+    ],
+    [
+      "K",
+      "T",
+      "P",
+      "N",
+      "M",
+      "N",
+      "L",
+      "M",
+      "E",
+      "W",
+      "E",
+      "B"
+    ],
+    [
+      "Q",
+      "E",
+      "L",
+      "E",
+      "U",
+      "D",
+      "E",
+      "M",
+      "W",
+      "M",
+      "N",
+      "O"
+    ],
+    [
+      "O",
+      "R",
+      "A",
+      "Y",
+      "B",
+      "E",
+      "L",
+      "A",
+      "G",
+      "A",
+      "T",
+      "N"
+    ],
+    [
+      "A",
+      "G",
+      "C",
+      "B",
+      "E",
+      "E",
+      "I",
+      "N",
+      "S",
+      "N",
+      "S",
+      "X"
+    ],
+    [
+      "N",
+      "R",
+      "E",
+      "O",
+      "L",
+      "R",
+      "G",
+      "G",
+      "X",
+      "G",
+      "R",
+      "E"
+    ],
+    [
+      "G",
+      "E",
+      "Y",
+      "U",
+      "L",
+      "E",
+      "H",
+      "E",
+      "T",
+      "M",
+      "P",
+      "S"
+    ],
+    [
+      "E",
+      "E",
+      "Z",
+      "V",
+      "H",
+      "G",
+      "T",
+      "R",
+      "J",
+      "A",
+      "O",
+      "Z"
+    ],
+    [
+      "L",
+      "N",
+      "Q",
+      "O",
+      "R",
+      "N",
+      "A",
+      "M",
+      "E",
+      "N",
+      "T",
+      "V"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CANDLELIGHT",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "WINTERGREEN",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "FIREPLACE",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "ORNAMENT",
+      "row": 11,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "REINDEER",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "PRESENTS",
+      "row": 0,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "SNOWMAN",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "CHIMNEY",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "RIBBON",
+      "row": 1,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "MANGER",
+      "row": 5,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "ANGEL",
+      "row": 7,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "YULE",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BELL",
+      "row": 6,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "SNOW",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 1242
+}

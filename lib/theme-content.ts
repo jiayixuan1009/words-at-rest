@@ -676,6 +676,139 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
       "Soft evergreen for seniors' hours.",
     tip: "Long words like GRATITUDE and COMPASSION anchor harder grids.",
   },
+  chess: {
+    vocabulary:
+      "Board and piece English — no brand or titled-game names.",
+    goodFor:
+      "Quiet strategy evenings for adults.",
+    tip: "Long words like ENDGAME and STRATEGY stand out first.",
+  },
+  "national-parks": {
+    vocabulary:
+      "Trail and ranger English — no concession brands. Companion to Camping.",
+    goodFor:
+      "Outdoor adults who like park vocabulary.",
+    tip: "Long words such as WILDERNESS and LOOKOUT anchor harder grids.",
+  },
+  landmarks: {
+    vocabulary:
+      "Monument and vista English — generic place nouns only.",
+    goodFor:
+      "Travel companion without named attractions.",
+    tip: "Long words like CATHEDRAL and LIGHTHOUSE jump out quickly.",
+  },
+  "farm-animals": {
+    vocabulary:
+      "Barn and pasture English — no farm brands. Companion to Animals.",
+    goodFor:
+      "Calm barnyard vocabulary for seniors' hours.",
+    tip: "Long words such as PASTURE and ROOSTER stand out.",
+  },
+  home: {
+    vocabulary:
+      "Room and household English — no product brands.",
+    goodFor:
+      "Evergreen living-space words.",
+    tip: "Long words like FIREPLACE and BOOKCASE anchor the hard grid.",
+  },
+  astronomy: {
+    vocabulary:
+      "Star and sky English — companion to Space, not a duplicate hub focus.",
+    goodFor:
+      "Night-sky vocabulary for curious adults.",
+    tip: "Long words such as TELESCOPE and SUPERNOVA stand out first.",
+  },
+  "board-games": {
+    vocabulary:
+      "Tabletop English — dice, token, turn — no game titles or brands.",
+    goodFor:
+      "Quiet play-night companion.",
+    tip: "Long words like STRATEGY and FRIEND are easier than DIE or WIN.",
+  },
+  pottery: {
+    vocabulary:
+      "Clay and kiln English — no pottery-brand names.",
+    goodFor:
+      "Quiet studio craft for adults.",
+    tip: "Long words like BISQUE and STUDIO stand out first.",
+  },
+  woodworking: {
+    vocabulary:
+      "Shop and joinery English — no tool brands. Companion to Tools.",
+    goodFor:
+      "Bench vocabulary for calm hobby hours.",
+    tip: "Long words such as DOVETAIL and MORTISE anchor harder grids.",
+  },
+  calligraphy: {
+    vocabulary:
+      "Pen and ink English — no brand names. Companion to Painting.",
+    goodFor:
+      "Desk craft for adults who like quiet focus.",
+    tip: "Long words like FLOURISH and BASELINE jump out quickly.",
+  },
+  libraries: {
+    vocabulary:
+      "Shelf and quiet-reading English — no publisher brands. Companion to Reading.",
+    goodFor:
+      "Calm room vocabulary for seniors' hours.",
+    tip: "Long words such as CATALOG and ARCHIVE stand out.",
+  },
+  volunteering: {
+    vocabulary:
+      "Service and community English — no organization brands. Companion to Kindness.",
+    goodFor:
+      "Giving vocabulary without medical claims.",
+    tip: "Long words like COMMUNITY and SHELTER anchor the hard grid.",
+  },
+  meditation: {
+    vocabulary:
+      "Calm practice English — no medical claims; no brand names. Companion to Mindfulness.",
+    goodFor:
+      "Quiet sit vocabulary for adults.",
+    tip: "Long words like PRACTICE and CUSHION stand out first.",
+  },
+  birdwatching: {
+    vocabulary:
+      "Field and binocular English — companion to Birds; no brand names.",
+    goodFor:
+      "Outdoor observation vocabulary.",
+    tip: "Long words such as BINOCULAR and MIGRATE anchor harder grids.",
+  },
+  lighthouses: {
+    vocabulary:
+      "Beacon and shore English — companion to Ocean; no brand names.",
+    goodFor:
+      "Coastal calm for adults and seniors.",
+    tip: "Long words like LANTERN and CHANNEL jump out quickly.",
+  },
+  journaling: {
+    vocabulary:
+      "Pen and page English — companion to Reading; no brand names.",
+    goodFor:
+      "Desk habit vocabulary.",
+    tip: "Long words such as GRATITUDE and JOURNAL stand out.",
+  },
+  apothecary: {
+    vocabulary:
+      "Jar and herb English — companion to Herbs; common nouns only; no medical claims.",
+    goodFor:
+      "Quiet shop-shelf vocabulary.",
+    tip: "Long words like TINCTURE and CHAMOMILE anchor the hard grid.",
+  },
+  "gardening-tools": {
+    vocabulary:
+      "Hand-tool English — companion to Garden and Tools; no brands.",
+    goodFor:
+      "Shed vocabulary for outdoor adults.",
+    tip: "Long words such as WHEELBARROW and GREENHOUSE stand out first.",
+  },
+  yoga: {
+    vocabulary:
+      "Calm practice English — no studio brands; no medical claims.",
+    goodFor:
+      "Soft stretch vocabulary for adults.",
+    tip: "Long words such as PRACTICE and BOLSTER anchor harder grids.",
+  },
   photography: {
     vocabulary:
       "Camera craft English — no camera brands.",

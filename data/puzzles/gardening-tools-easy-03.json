@@ -1,0 +1,208 @@
+{
+  "id": "gardening-tools-easy-03",
+  "slug": "gardening-tools-easy-03",
+  "themeId": "gardening-tools",
+  "title": "Gardening Tools: Still Room",
+  "primaryKeyword": "gardening tools word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BENCH",
+    "BOOT",
+    "COLDFRAME",
+    "HAT",
+    "NET",
+    "PRUNER",
+    "SHED",
+    "SPADE",
+    "SPRINKLER",
+    "WATERING"
+  ],
+  "grid": [
+    [
+      "B",
+      "E",
+      "N",
+      "C",
+      "H",
+      "A",
+      "R",
+      "G",
+      "Z",
+      "F"
+    ],
+    [
+      "C",
+      "O",
+      "L",
+      "D",
+      "F",
+      "R",
+      "A",
+      "M",
+      "E",
+      "F"
+    ],
+    [
+      "O",
+      "D",
+      "R",
+      "B",
+      "O",
+      "O",
+      "T",
+      "X",
+      "O",
+      "A"
+    ],
+    [
+      "P",
+      "S",
+      "P",
+      "A",
+      "D",
+      "E",
+      "W",
+      "W",
+      "D",
+      "Y"
+    ],
+    [
+      "H",
+      "A",
+      "T",
+      "C",
+      "L",
+      "T",
+      "I",
+      "C",
+      "E",
+      "S"
+    ],
+    [
+      "W",
+      "A",
+      "T",
+      "E",
+      "R",
+      "I",
+      "N",
+      "G",
+      "W",
+      "Z"
+    ],
+    [
+      "T",
+      "H",
+      "S",
+      "H",
+      "E",
+      "D",
+      "R",
+      "V",
+      "V",
+      "U"
+    ],
+    [
+      "W",
+      "S",
+      "P",
+      "R",
+      "I",
+      "N",
+      "K",
+      "L",
+      "E",
+      "R"
+    ],
+    [
+      "E",
+      "N",
+      "V",
+      "P",
+      "R",
+      "U",
+      "N",
+      "E",
+      "R",
+      "V"
+    ],
+    [
+      "N",
+      "E",
+      "T",
+      "A",
+      "E",
+      "L",
+      "K",
+      "Z",
+      "G",
+      "S"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "COLDFRAME",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SPRINKLER",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "WATERING",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "PRUNER",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BENCH",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SPADE",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SHED",
+      "row": 6,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BOOT",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "HAT",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "NET",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9270
+}

@@ -1,0 +1,284 @@
+{
+  "id": "thanksgiving-medium-04",
+  "slug": "thanksgiving-medium-04",
+  "themeId": "thanksgiving",
+  "title": "Thanksgiving: After Glow",
+  "primaryKeyword": "thanksgiving word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BLANKET",
+    "COFFEE",
+    "COUCH",
+    "FAMILY",
+    "GRATITUDE",
+    "LAUGH",
+    "LEFTOVER",
+    "NAP",
+    "PEACE",
+    "PIE",
+    "QUIET",
+    "SANDWICH",
+    "SLICE",
+    "STORY"
+  ],
+  "grid": [
+    [
+      "L",
+      "N",
+      "C",
+      "R",
+      "K",
+      "H",
+      "D",
+      "S",
+      "L",
+      "I",
+      "C",
+      "E"
+    ],
+    [
+      "E",
+      "X",
+      "N",
+      "T",
+      "G",
+      "P",
+      "E",
+      "A",
+      "C",
+      "E",
+      "C",
+      "U"
+    ],
+    [
+      "F",
+      "Y",
+      "F",
+      "U",
+      "G",
+      "B",
+      "L",
+      "A",
+      "N",
+      "K",
+      "E",
+      "T"
+    ],
+    [
+      "T",
+      "E",
+      "A",
+      "S",
+      "R",
+      "C",
+      "C",
+      "V",
+      "E",
+      "D",
+      "Q",
+      "I"
+    ],
+    [
+      "O",
+      "L",
+      "M",
+      "J",
+      "A",
+      "I",
+      "J",
+      "V",
+      "N",
+      "V",
+      "E",
+      "D"
+    ],
+    [
+      "V",
+      "P",
+      "I",
+      "E",
+      "T",
+      "N",
+      "E",
+      "J",
+      "R",
+      "O",
+      "S",
+      "S"
+    ],
+    [
+      "E",
+      "H",
+      "L",
+      "T",
+      "I",
+      "C",
+      "D",
+      "T",
+      "H",
+      "H",
+      "T",
+      "W"
+    ],
+    [
+      "R",
+      "Q",
+      "Y",
+      "U",
+      "T",
+      "O",
+      "V",
+      "W",
+      "B",
+      "L",
+      "O",
+      "D"
+    ],
+    [
+      "H",
+      "U",
+      "O",
+      "P",
+      "U",
+      "F",
+      "E",
+      "C",
+      "I",
+      "C",
+      "R",
+      "H"
+    ],
+    [
+      "B",
+      "I",
+      "M",
+      "N",
+      "D",
+      "F",
+      "L",
+      "V",
+      "R",
+      "C",
+      "Y",
+      "B"
+    ],
+    [
+      "W",
+      "E",
+      "M",
+      "A",
+      "E",
+      "E",
+      "C",
+      "O",
+      "U",
+      "C",
+      "H",
+      "H"
+    ],
+    [
+      "G",
+      "T",
+      "D",
+      "P",
+      "L",
+      "E",
+      "V",
+      "S",
+      "H",
+      "F",
+      "T",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "GRATITUDE",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "LEFTOVER",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SANDWICH",
+      "row": 3,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "BLANKET",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "COFFEE",
+      "row": 6,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "FAMILY",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "SLICE",
+      "row": 0,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "COUCH",
+      "row": 10,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "STORY",
+      "row": 5,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "LAUGH",
+      "row": 4,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "QUIET",
+      "row": 7,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "PEACE",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "PIE",
+      "row": 5,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "NAP",
+      "row": 9,
+      "col": 3,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 1146
+}

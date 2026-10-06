@@ -1,0 +1,208 @@
+{
+  "id": "meditation-easy-02",
+  "slug": "meditation-easy-02",
+  "themeId": "meditation",
+  "title": "Meditation: Soft Breath",
+  "primaryKeyword": "meditation word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "DAWN",
+    "EASE",
+    "EXHALE",
+    "FOCUS",
+    "GAZE",
+    "INHALE",
+    "LIGHT",
+    "PAUSE",
+    "ROOM",
+    "WARM"
+  ],
+  "grid": [
+    [
+      "G",
+      "X",
+      "I",
+      "Y",
+      "C",
+      "T",
+      "E",
+      "Y",
+      "O",
+      "Z"
+    ],
+    [
+      "L",
+      "P",
+      "V",
+      "H",
+      "E",
+      "X",
+      "H",
+      "A",
+      "L",
+      "E"
+    ],
+    [
+      "U",
+      "A",
+      "S",
+      "D",
+      "H",
+      "J",
+      "R",
+      "M",
+      "I",
+      "A"
+    ],
+    [
+      "H",
+      "U",
+      "D",
+      "C",
+      "G",
+      "A",
+      "Z",
+      "E",
+      "N",
+      "S"
+    ],
+    [
+      "U",
+      "S",
+      "A",
+      "Y",
+      "B",
+      "K",
+      "F",
+      "V",
+      "H",
+      "E"
+    ],
+    [
+      "Q",
+      "E",
+      "W",
+      "C",
+      "Q",
+      "V",
+      "H",
+      "F",
+      "A",
+      "W"
+    ],
+    [
+      "D",
+      "Q",
+      "N",
+      "F",
+      "O",
+      "C",
+      "U",
+      "S",
+      "L",
+      "A"
+    ],
+    [
+      "A",
+      "L",
+      "I",
+      "G",
+      "H",
+      "T",
+      "J",
+      "V",
+      "E",
+      "R"
+    ],
+    [
+      "W",
+      "Z",
+      "W",
+      "J",
+      "Z",
+      "O",
+      "D",
+      "R",
+      "C",
+      "M"
+    ],
+    [
+      "A",
+      "T",
+      "I",
+      "R",
+      "O",
+      "O",
+      "M",
+      "Q",
+      "E",
+      "G"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "INHALE",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "EXHALE",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "FOCUS",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "LIGHT",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PAUSE",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "GAZE",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "ROOM",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "DAWN",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "EASE",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "WARM",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9002
+}

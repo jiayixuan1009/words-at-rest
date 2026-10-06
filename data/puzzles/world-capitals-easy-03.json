@@ -1,0 +1,208 @@
+{
+  "id": "world-capitals-easy-03",
+  "slug": "world-capitals-easy-03",
+  "themeId": "world-capitals",
+  "title": "World Capitals: Open Window",
+  "primaryKeyword": "world capitals word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ANKARA",
+    "ATHENS",
+    "DUBLIN",
+    "JAKARTA",
+    "KYIV",
+    "LIMA",
+    "SEOUL",
+    "TEHRAN",
+    "TOKYO",
+    "VIENNA"
+  ],
+  "grid": [
+    [
+      "W",
+      "D",
+      "T",
+      "E",
+      "H",
+      "R",
+      "A",
+      "N",
+      "U",
+      "F"
+    ],
+    [
+      "Z",
+      "U",
+      "P",
+      "X",
+      "S",
+      "O",
+      "A",
+      "R",
+      "A",
+      "T"
+    ],
+    [
+      "O",
+      "B",
+      "I",
+      "I",
+      "E",
+      "Y",
+      "T",
+      "J",
+      "N",
+      "O"
+    ],
+    [
+      "W",
+      "L",
+      "L",
+      "F",
+      "Q",
+      "T",
+      "H",
+      "A",
+      "K",
+      "Z"
+    ],
+    [
+      "U",
+      "I",
+      "N",
+      "V",
+      "Q",
+      "S",
+      "E",
+      "K",
+      "A",
+      "S"
+    ],
+    [
+      "K",
+      "N",
+      "D",
+      "I",
+      "T",
+      "E",
+      "N",
+      "A",
+      "R",
+      "P"
+    ],
+    [
+      "Y",
+      "R",
+      "L",
+      "E",
+      "O",
+      "O",
+      "S",
+      "R",
+      "A",
+      "N"
+    ],
+    [
+      "I",
+      "O",
+      "I",
+      "N",
+      "K",
+      "U",
+      "V",
+      "T",
+      "F",
+      "G"
+    ],
+    [
+      "V",
+      "H",
+      "M",
+      "N",
+      "Y",
+      "L",
+      "A",
+      "A",
+      "G",
+      "K"
+    ],
+    [
+      "F",
+      "K",
+      "A",
+      "A",
+      "O",
+      "I",
+      "C",
+      "Q",
+      "O",
+      "U"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "JAKARTA",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "ATHENS",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "DUBLIN",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "ANKARA",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "VIENNA",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "TEHRAN",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "TOKYO",
+      "row": 5,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "SEOUL",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "LIMA",
+      "row": 6,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "KYIV",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9368
+}

@@ -1,0 +1,208 @@
+{
+  "id": "volunteering-easy-03",
+  "slug": "volunteering-easy-03",
+  "themeId": "volunteering",
+  "title": "Volunteering: Morning Light",
+  "primaryKeyword": "volunteering word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "DELIVER",
+    "DONATE",
+    "DRIVE",
+    "HEART",
+    "NEIGHBOR",
+    "PANTRY",
+    "SERVICE",
+    "TIME",
+    "TOTE",
+    "TUTOR"
+  ],
+  "grid": [
+    [
+      "O",
+      "A",
+      "S",
+      "P",
+      "K",
+      "T",
+      "I",
+      "M",
+      "E",
+      "S"
+    ],
+    [
+      "P",
+      "S",
+      "E",
+      "R",
+      "V",
+      "I",
+      "C",
+      "E",
+      "K",
+      "Q"
+    ],
+    [
+      "A",
+      "N",
+      "E",
+      "I",
+      "G",
+      "H",
+      "B",
+      "O",
+      "R",
+      "H"
+    ],
+    [
+      "N",
+      "N",
+      "X",
+      "N",
+      "T",
+      "U",
+      "T",
+      "O",
+      "R",
+      "X"
+    ],
+    [
+      "T",
+      "Z",
+      "K",
+      "D",
+      "R",
+      "I",
+      "V",
+      "E",
+      "B",
+      "R"
+    ],
+    [
+      "R",
+      "X",
+      "D",
+      "O",
+      "N",
+      "A",
+      "T",
+      "E",
+      "I",
+      "B"
+    ],
+    [
+      "Y",
+      "X",
+      "H",
+      "E",
+      "A",
+      "R",
+      "T",
+      "R",
+      "T",
+      "I"
+    ],
+    [
+      "U",
+      "D",
+      "E",
+      "L",
+      "I",
+      "V",
+      "E",
+      "R",
+      "O",
+      "Z"
+    ],
+    [
+      "Y",
+      "G",
+      "X",
+      "H",
+      "O",
+      "M",
+      "Q",
+      "C",
+      "T",
+      "I"
+    ],
+    [
+      "S",
+      "K",
+      "O",
+      "I",
+      "H",
+      "Y",
+      "M",
+      "L",
+      "E",
+      "Z"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "NEIGHBOR",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "DELIVER",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SERVICE",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "DONATE",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PANTRY",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "HEART",
+      "row": 6,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "TUTOR",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "DRIVE",
+      "row": 4,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "TOTE",
+      "row": 6,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "TIME",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9360
+}

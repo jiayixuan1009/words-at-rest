@@ -1,0 +1,284 @@
+{
+  "id": "apothecary-medium-01",
+  "slug": "apothecary-medium-01",
+  "themeId": "apothecary",
+  "title": "Apothecary: Mortar Hour",
+  "primaryKeyword": "apothecary word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BUNDLE",
+    "CABINET",
+    "COUNTER",
+    "HONEY",
+    "INFUSE",
+    "LAVENDER",
+    "MORTAR",
+    "PESTLE",
+    "SACHET",
+    "SCALE",
+    "STEEP",
+    "STRING",
+    "TINCTURE",
+    "WEIGHT"
+  ],
+  "grid": [
+    [
+      "H",
+      "H",
+      "B",
+      "U",
+      "N",
+      "D",
+      "L",
+      "E",
+      "Y",
+      "M",
+      "L",
+      "B"
+    ],
+    [
+      "S",
+      "T",
+      "R",
+      "I",
+      "N",
+      "G",
+      "F",
+      "B",
+      "T",
+      "O",
+      "R",
+      "J"
+    ],
+    [
+      "M",
+      "U",
+      "B",
+      "U",
+      "A",
+      "T",
+      "Z",
+      "M",
+      "M",
+      "R",
+      "I",
+      "G"
+    ],
+    [
+      "M",
+      "W",
+      "Y",
+      "Y",
+      "M",
+      "I",
+      "U",
+      "C",
+      "V",
+      "T",
+      "A",
+      "F"
+    ],
+    [
+      "I",
+      "P",
+      "S",
+      "H",
+      "L",
+      "N",
+      "D",
+      "A",
+      "W",
+      "A",
+      "S",
+      "G"
+    ],
+    [
+      "N",
+      "C",
+      "A",
+      "O",
+      "A",
+      "C",
+      "K",
+      "B",
+      "E",
+      "R",
+      "T",
+      "B"
+    ],
+    [
+      "F",
+      "O",
+      "C",
+      "N",
+      "V",
+      "T",
+      "U",
+      "I",
+      "I",
+      "Q",
+      "E",
+      "O"
+    ],
+    [
+      "U",
+      "U",
+      "H",
+      "E",
+      "E",
+      "U",
+      "Q",
+      "N",
+      "G",
+      "J",
+      "E",
+      "J"
+    ],
+    [
+      "S",
+      "N",
+      "E",
+      "Y",
+      "N",
+      "R",
+      "D",
+      "E",
+      "H",
+      "Q",
+      "P",
+      "M"
+    ],
+    [
+      "E",
+      "T",
+      "T",
+      "P",
+      "D",
+      "E",
+      "N",
+      "T",
+      "T",
+      "K",
+      "X",
+      "W"
+    ],
+    [
+      "G",
+      "E",
+      "O",
+      "Q",
+      "E",
+      "L",
+      "D",
+      "S",
+      "C",
+      "A",
+      "L",
+      "E"
+    ],
+    [
+      "X",
+      "R",
+      "V",
+      "V",
+      "R",
+      "P",
+      "E",
+      "S",
+      "T",
+      "L",
+      "E",
+      "W"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TINCTURE",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "LAVENDER",
+      "row": 4,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "CABINET",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "COUNTER",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "INFUSE",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "MORTAR",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "PESTLE",
+      "row": 11,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "WEIGHT",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "BUNDLE",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "STRING",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SACHET",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "STEEP",
+      "row": 4,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "SCALE",
+      "row": 10,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "HONEY",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9043
+}

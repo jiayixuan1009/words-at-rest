@@ -1,0 +1,284 @@
+{
+  "id": "board-games-medium-02",
+  "slug": "board-games-medium-02",
+  "themeId": "board-games",
+  "title": "Board Games: Score Round",
+  "primaryKeyword": "board games word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "COZY",
+    "DEAL",
+    "DIE",
+    "HAND",
+    "HOME",
+    "LOSS",
+    "LUCK",
+    "NIGHT",
+    "PATH",
+    "PLAY",
+    "QUIET",
+    "SET",
+    "START",
+    "TIE"
+  ],
+  "grid": [
+    [
+      "X",
+      "P",
+      "A",
+      "T",
+      "H",
+      "E",
+      "T",
+      "P",
+      "Z",
+      "S",
+      "K",
+      "Z"
+    ],
+    [
+      "E",
+      "I",
+      "Y",
+      "Y",
+      "M",
+      "R",
+      "A",
+      "N",
+      "T",
+      "I",
+      "E",
+      "C"
+    ],
+    [
+      "M",
+      "U",
+      "V",
+      "O",
+      "A",
+      "G",
+      "R",
+      "D",
+      "J",
+      "W",
+      "T",
+      "V"
+    ],
+    [
+      "D",
+      "Z",
+      "H",
+      "T",
+      "F",
+      "Y",
+      "T",
+      "V",
+      "H",
+      "E",
+      "T",
+      "V"
+    ],
+    [
+      "T",
+      "C",
+      "S",
+      "T",
+      "Z",
+      "H",
+      "G",
+      "K",
+      "S",
+      "T",
+      "A",
+      "T"
+    ],
+    [
+      "R",
+      "Z",
+      "W",
+      "O",
+      "L",
+      "L",
+      "C",
+      "L",
+      "E",
+      "S",
+      "H",
+      "L"
+    ],
+    [
+      "W",
+      "O",
+      "C",
+      "A",
+      "W",
+      "U",
+      "L",
+      "I",
+      "G",
+      "G",
+      "X",
+      "Q"
+    ],
+    [
+      "K",
+      "W",
+      "E",
+      "Y",
+      "L",
+      "X",
+      "U",
+      "O",
+      "I",
+      "E",
+      "N",
+      "P"
+    ],
+    [
+      "J",
+      "D",
+      "W",
+      "R",
+      "R",
+      "Q",
+      "I",
+      "N",
+      "S",
+      "P",
+      "S",
+      "Y"
+    ],
+    [
+      "I",
+      "R",
+      "I",
+      "Q",
+      "K",
+      "J",
+      "Q",
+      "X",
+      "U",
+      "S",
+      "W",
+      "I"
+    ],
+    [
+      "D",
+      "I",
+      "E",
+      "H",
+      "A",
+      "N",
+      "D",
+      "N",
+      "P",
+      "L",
+      "A",
+      "Y"
+    ],
+    [
+      "E",
+      "J",
+      "C",
+      "P",
+      "R",
+      "M",
+      "W",
+      "B",
+      "I",
+      "T",
+      "F",
+      "S"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "NIGHT",
+      "row": 8,
+      "col": 7,
+      "direction": "NE"
+    },
+    {
+      "word": "QUIET",
+      "row": 8,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "START",
+      "row": 4,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "COZY",
+      "row": 6,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "LUCK",
+      "row": 7,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "PATH",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "HOME",
+      "row": 3,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "DEAL",
+      "row": 8,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "HAND",
+      "row": 10,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "LOSS",
+      "row": 6,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "PLAY",
+      "row": 10,
+      "col": 8,
+      "direction": "E"
+    },
+    {
+      "word": "SET",
+      "row": 4,
+      "col": 8,
+      "direction": "NE"
+    },
+    {
+      "word": "TIE",
+      "row": 1,
+      "col": 8,
+      "direction": "E"
+    },
+    {
+      "word": "DIE",
+      "row": 10,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8864
+}

@@ -1,0 +1,284 @@
+{
+  "id": "golf-medium-03",
+  "slug": "golf-medium-03",
+  "themeId": "golf",
+  "title": "Golf: Clear Sky",
+  "primaryKeyword": "golf word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BACKSWING",
+    "BOGEY",
+    "CADDIE",
+    "CUP",
+    "DRIVE",
+    "FAIRWAY",
+    "FORE",
+    "HANDICAP",
+    "MATCH",
+    "PIN",
+    "PUTTER",
+    "ROUGH",
+    "SCORECARD",
+    "STROKE"
+  ],
+  "grid": [
+    [
+      "J",
+      "B",
+      "U",
+      "P",
+      "U",
+      "T",
+      "T",
+      "E",
+      "R",
+      "L",
+      "P",
+      "B"
+    ],
+    [
+      "C",
+      "D",
+      "T",
+      "W",
+      "I",
+      "U",
+      "L",
+      "D",
+      "G",
+      "X",
+      "I",
+      "A"
+    ],
+    [
+      "M",
+      "U",
+      "E",
+      "G",
+      "A",
+      "Y",
+      "P",
+      "I",
+      "N",
+      "S",
+      "D",
+      "C"
+    ],
+    [
+      "L",
+      "G",
+      "P",
+      "X",
+      "V",
+      "J",
+      "W",
+      "P",
+      "V",
+      "T",
+      "R",
+      "K"
+    ],
+    [
+      "H",
+      "A",
+      "N",
+      "D",
+      "I",
+      "C",
+      "A",
+      "P",
+      "U",
+      "R",
+      "I",
+      "S"
+    ],
+    [
+      "V",
+      "I",
+      "D",
+      "C",
+      "J",
+      "U",
+      "S",
+      "Y",
+      "X",
+      "O",
+      "V",
+      "W"
+    ],
+    [
+      "G",
+      "X",
+      "C",
+      "A",
+      "D",
+      "D",
+      "I",
+      "E",
+      "F",
+      "K",
+      "E",
+      "I"
+    ],
+    [
+      "R",
+      "U",
+      "B",
+      "O",
+      "G",
+      "E",
+      "Y",
+      "Z",
+      "R",
+      "E",
+      "Z",
+      "N"
+    ],
+    [
+      "O",
+      "F",
+      "O",
+      "R",
+      "E",
+      "D",
+      "L",
+      "E",
+      "W",
+      "Y",
+      "F",
+      "G"
+    ],
+    [
+      "U",
+      "J",
+      "E",
+      "S",
+      "C",
+      "O",
+      "R",
+      "E",
+      "C",
+      "A",
+      "R",
+      "D"
+    ],
+    [
+      "G",
+      "F",
+      "A",
+      "I",
+      "R",
+      "W",
+      "A",
+      "Y",
+      "H",
+      "Y",
+      "V",
+      "K"
+    ],
+    [
+      "H",
+      "D",
+      "L",
+      "E",
+      "I",
+      "P",
+      "O",
+      "M",
+      "A",
+      "T",
+      "C",
+      "H"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SCORECARD",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BACKSWING",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "HANDICAP",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "FAIRWAY",
+      "row": 10,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "STROKE",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "CADDIE",
+      "row": 6,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PUTTER",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "MATCH",
+      "row": 11,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "ROUGH",
+      "row": 7,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BOGEY",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "DRIVE",
+      "row": 2,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "FORE",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PIN",
+      "row": 2,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "CUP",
+      "row": 1,
+      "col": 0,
+      "direction": "SE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9275
+}

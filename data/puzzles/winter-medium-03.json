@@ -1,0 +1,284 @@
+{
+  "id": "winter-medium-03",
+  "slug": "winter-medium-03",
+  "themeId": "winter",
+  "title": "Winter: Ember Evening",
+  "primaryKeyword": "winter word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BLANKET",
+    "DRIZZLE",
+    "EMBER",
+    "FLANNEL",
+    "FROSTBITE",
+    "GLOVE",
+    "HEARTH",
+    "HOOD",
+    "ICICLE",
+    "PARKA",
+    "SLEET",
+    "SNOWBANK",
+    "THERMOS",
+    "WOOL"
+  ],
+  "grid": [
+    [
+      "H",
+      "G",
+      "M",
+      "C",
+      "F",
+      "L",
+      "A",
+      "N",
+      "N",
+      "E",
+      "L",
+      "A"
+    ],
+    [
+      "E",
+      "E",
+      "F",
+      "M",
+      "B",
+      "P",
+      "I",
+      "C",
+      "I",
+      "C",
+      "L",
+      "E"
+    ],
+    [
+      "A",
+      "Z",
+      "R",
+      "S",
+      "F",
+      "N",
+      "H",
+      "O",
+      "O",
+      "D",
+      "A",
+      "B"
+    ],
+    [
+      "R",
+      "D",
+      "O",
+      "N",
+      "A",
+      "J",
+      "N",
+      "N",
+      "I",
+      "U",
+      "Y",
+      "N"
+    ],
+    [
+      "T",
+      "R",
+      "S",
+      "O",
+      "N",
+      "L",
+      "W",
+      "V",
+      "W",
+      "G",
+      "V",
+      "V"
+    ],
+    [
+      "H",
+      "I",
+      "T",
+      "W",
+      "B",
+      "L",
+      "A",
+      "N",
+      "K",
+      "E",
+      "T",
+      "K"
+    ],
+    [
+      "H",
+      "Z",
+      "B",
+      "B",
+      "L",
+      "H",
+      "M",
+      "E",
+      "M",
+      "B",
+      "E",
+      "R"
+    ],
+    [
+      "E",
+      "Z",
+      "I",
+      "A",
+      "K",
+      "Y",
+      "P",
+      "A",
+      "R",
+      "K",
+      "A",
+      "W"
+    ],
+    [
+      "N",
+      "L",
+      "T",
+      "N",
+      "S",
+      "D",
+      "E",
+      "H",
+      "K",
+      "B",
+      "E",
+      "O"
+    ],
+    [
+      "I",
+      "E",
+      "E",
+      "K",
+      "G",
+      "L",
+      "O",
+      "V",
+      "E",
+      "E",
+      "B",
+      "O"
+    ],
+    [
+      "U",
+      "I",
+      "D",
+      "V",
+      "T",
+      "H",
+      "E",
+      "R",
+      "M",
+      "O",
+      "S",
+      "L"
+    ],
+    [
+      "S",
+      "L",
+      "E",
+      "E",
+      "T",
+      "P",
+      "G",
+      "Q",
+      "T",
+      "J",
+      "U",
+      "D"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FROSTBITE",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "SNOWBANK",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "BLANKET",
+      "row": 5,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "FLANNEL",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "THERMOS",
+      "row": 10,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "DRIZZLE",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "HEARTH",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "ICICLE",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "EMBER",
+      "row": 6,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "SLEET",
+      "row": 11,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "PARKA",
+      "row": 7,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "GLOVE",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "HOOD",
+      "row": 2,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "WOOL",
+      "row": 7,
+      "col": 11,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 1222
+}

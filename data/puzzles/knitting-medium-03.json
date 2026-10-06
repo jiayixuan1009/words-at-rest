@@ -1,0 +1,284 @@
+{
+  "id": "knitting-medium-03",
+  "slug": "knitting-medium-03",
+  "themeId": "knitting",
+  "title": "Knitting: Cable Evening",
+  "primaryKeyword": "knitting word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BLOCK",
+    "CABLE",
+    "CHART",
+    "DECREASE",
+    "GARTER",
+    "INCREASE",
+    "KNIT",
+    "MARKER",
+    "PATTERN",
+    "PROJECT",
+    "PURL",
+    "RIBBING",
+    "STEAM",
+    "STOCKINETTE"
+  ],
+  "grid": [
+    [
+      "U",
+      "C",
+      "B",
+      "L",
+      "O",
+      "C",
+      "K",
+      "S",
+      "Y",
+      "N",
+      "B",
+      "B"
+    ],
+    [
+      "C",
+      "C",
+      "H",
+      "A",
+      "R",
+      "T",
+      "N",
+      "T",
+      "G",
+      "T",
+      "P",
+      "S"
+    ],
+    [
+      "A",
+      "M",
+      "G",
+      "U",
+      "O",
+      "D",
+      "P",
+      "O",
+      "A",
+      "S",
+      "R",
+      "Z"
+    ],
+    [
+      "D",
+      "P",
+      "H",
+      "T",
+      "W",
+      "E",
+      "U",
+      "C",
+      "R",
+      "W",
+      "O",
+      "S"
+    ],
+    [
+      "M",
+      "A",
+      "P",
+      "X",
+      "G",
+      "C",
+      "R",
+      "K",
+      "T",
+      "I",
+      "J",
+      "Q"
+    ],
+    [
+      "A",
+      "T",
+      "K",
+      "C",
+      "S",
+      "R",
+      "L",
+      "I",
+      "E",
+      "N",
+      "E",
+      "Y"
+    ],
+    [
+      "R",
+      "T",
+      "Y",
+      "A",
+      "E",
+      "E",
+      "M",
+      "N",
+      "R",
+      "C",
+      "C",
+      "B"
+    ],
+    [
+      "K",
+      "E",
+      "M",
+      "B",
+      "G",
+      "A",
+      "V",
+      "E",
+      "K",
+      "R",
+      "T",
+      "V"
+    ],
+    [
+      "E",
+      "R",
+      "Y",
+      "L",
+      "G",
+      "S",
+      "X",
+      "T",
+      "N",
+      "E",
+      "Q",
+      "R"
+    ],
+    [
+      "R",
+      "N",
+      "T",
+      "E",
+      "A",
+      "E",
+      "U",
+      "T",
+      "I",
+      "A",
+      "Z",
+      "U"
+    ],
+    [
+      "R",
+      "I",
+      "B",
+      "B",
+      "I",
+      "N",
+      "G",
+      "E",
+      "T",
+      "S",
+      "T",
+      "M"
+    ],
+    [
+      "B",
+      "S",
+      "V",
+      "S",
+      "T",
+      "E",
+      "A",
+      "M",
+      "S",
+      "E",
+      "B",
+      "F"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "STOCKINETTE",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "INCREASE",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "DECREASE",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "RIBBING",
+      "row": 10,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "PATTERN",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "PROJECT",
+      "row": 1,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "GARTER",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "MARKER",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CABLE",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "CHART",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BLOCK",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "STEAM",
+      "row": 11,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "PURL",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "KNIT",
+      "row": 7,
+      "col": 8,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 3512
+}

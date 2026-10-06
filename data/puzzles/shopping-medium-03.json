@@ -1,0 +1,284 @@
+{
+  "id": "shopping-medium-03",
+  "slug": "shopping-medium-03",
+  "themeId": "shopping",
+  "title": "Shopping: Long Afternoon",
+  "primaryKeyword": "shopping word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "AISLE",
+    "BOX",
+    "COUNTER",
+    "COUPON",
+    "DAIRY",
+    "EXCHANGE",
+    "FABRIC",
+    "FRESH",
+    "HOME",
+    "LINE",
+    "LIST",
+    "MALL",
+    "TAG",
+    "WRAP"
+  ],
+  "grid": [
+    [
+      "I",
+      "F",
+      "W",
+      "B",
+      "M",
+      "C",
+      "Q",
+      "T",
+      "A",
+      "G",
+      "I",
+      "E"
+    ],
+    [
+      "G",
+      "A",
+      "L",
+      "F",
+      "D",
+      "O",
+      "M",
+      "A",
+      "L",
+      "L",
+      "G",
+      "X"
+    ],
+    [
+      "F",
+      "B",
+      "C",
+      "P",
+      "A",
+      "U",
+      "N",
+      "B",
+      "V",
+      "N",
+      "O",
+      "H"
+    ],
+    [
+      "X",
+      "R",
+      "O",
+      "M",
+      "D",
+      "P",
+      "F",
+      "X",
+      "A",
+      "B",
+      "I",
+      "F"
+    ],
+    [
+      "J",
+      "I",
+      "U",
+      "S",
+      "C",
+      "O",
+      "J",
+      "H",
+      "K",
+      "E",
+      "R",
+      "Y"
+    ],
+    [
+      "G",
+      "C",
+      "N",
+      "M",
+      "N",
+      "N",
+      "C",
+      "I",
+      "L",
+      "C",
+      "R",
+      "A"
+    ],
+    [
+      "V",
+      "E",
+      "T",
+      "E",
+      "D",
+      "X",
+      "L",
+      "S",
+      "E",
+      "I",
+      "R",
+      "V"
+    ],
+    [
+      "V",
+      "F",
+      "E",
+      "M",
+      "E",
+      "O",
+      "I",
+      "D",
+      "A",
+      "Q",
+      "W",
+      "S"
+    ],
+    [
+      "J",
+      "A",
+      "R",
+      "B",
+      "J",
+      "A",
+      "N",
+      "D",
+      "L",
+      "I",
+      "S",
+      "T"
+    ],
+    [
+      "S",
+      "S",
+      "M",
+      "E",
+      "C",
+      "R",
+      "E",
+      "K",
+      "X",
+      "F",
+      "U",
+      "E"
+    ],
+    [
+      "W",
+      "R",
+      "A",
+      "P",
+      "S",
+      "K",
+      "A",
+      "H",
+      "O",
+      "M",
+      "E",
+      "S"
+    ],
+    [
+      "M",
+      "S",
+      "O",
+      "J",
+      "K",
+      "H",
+      "B",
+      "E",
+      "F",
+      "O",
+      "R",
+      "C"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "EXCHANGE",
+      "row": 7,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "COUNTER",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "FABRIC",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "COUPON",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "AISLE",
+      "row": 8,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "DAIRY",
+      "row": 8,
+      "col": 7,
+      "direction": "NE"
+    },
+    {
+      "word": "FRESH",
+      "row": 7,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "MALL",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "LIST",
+      "row": 8,
+      "col": 8,
+      "direction": "E"
+    },
+    {
+      "word": "WRAP",
+      "row": 10,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "HOME",
+      "row": 10,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "LINE",
+      "row": 6,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "TAG",
+      "row": 0,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "BOX",
+      "row": 3,
+      "col": 9,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9337
+}

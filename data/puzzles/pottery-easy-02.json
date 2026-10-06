@@ -1,0 +1,208 @@
+{
+  "id": "pottery-easy-02",
+  "slug": "pottery-easy-02",
+  "themeId": "pottery",
+  "title": "Pottery: Quiet Wheel",
+  "primaryKeyword": "pottery word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "COIL",
+    "GLAZE",
+    "HANDLE",
+    "JAR",
+    "PINCH",
+    "PLATE",
+    "THROW",
+    "TILE",
+    "TRIM",
+    "WARE"
+  ],
+  "grid": [
+    [
+      "E",
+      "L",
+      "J",
+      "M",
+      "R",
+      "X",
+      "A",
+      "V",
+      "B",
+      "M"
+    ],
+    [
+      "P",
+      "W",
+      "A",
+      "R",
+      "E",
+      "O",
+      "K",
+      "F",
+      "Z",
+      "V"
+    ],
+    [
+      "P",
+      "U",
+      "V",
+      "K",
+      "T",
+      "R",
+      "I",
+      "M",
+      "D",
+      "E"
+    ],
+    [
+      "Z",
+      "N",
+      "O",
+      "Q",
+      "P",
+      "F",
+      "D",
+      "C",
+      "U",
+      "A"
+    ],
+    [
+      "P",
+      "I",
+      "N",
+      "C",
+      "H",
+      "T",
+      "U",
+      "V",
+      "G",
+      "H"
+    ],
+    [
+      "M",
+      "C",
+      "Q",
+      "K",
+      "Y",
+      "R",
+      "D",
+      "X",
+      "V",
+      "A"
+    ],
+    [
+      "K",
+      "O",
+      "J",
+      "G",
+      "L",
+      "A",
+      "Z",
+      "E",
+      "J",
+      "N"
+    ],
+    [
+      "K",
+      "I",
+      "T",
+      "H",
+      "R",
+      "O",
+      "W",
+      "B",
+      "A",
+      "D"
+    ],
+    [
+      "L",
+      "L",
+      "X",
+      "P",
+      "L",
+      "A",
+      "T",
+      "E",
+      "R",
+      "L"
+    ],
+    [
+      "T",
+      "I",
+      "L",
+      "E",
+      "D",
+      "P",
+      "T",
+      "L",
+      "B",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "HANDLE",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "GLAZE",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "PINCH",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "THROW",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PLATE",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "COIL",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "TRIM",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "TILE",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "WARE",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "JAR",
+      "row": 6,
+      "col": 8,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8902
+}

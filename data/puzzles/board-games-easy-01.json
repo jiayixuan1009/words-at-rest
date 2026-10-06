@@ -1,0 +1,208 @@
+{
+  "id": "board-games-easy-01",
+  "slug": "board-games-easy-01",
+  "themeId": "board-games",
+  "title": "Board Games: Dice Night",
+  "primaryKeyword": "board games word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BOARD",
+    "CARD",
+    "DICE",
+    "GAME",
+    "PASS",
+    "PLAY",
+    "ROLL",
+    "TILE",
+    "TURN",
+    "WIN"
+  ],
+  "grid": [
+    [
+      "B",
+      "P",
+      "A",
+      "S",
+      "S",
+      "M",
+      "I",
+      "O",
+      "W",
+      "Y"
+    ],
+    [
+      "T",
+      "W",
+      "W",
+      "N",
+      "M",
+      "T",
+      "X",
+      "L",
+      "I",
+      "B"
+    ],
+    [
+      "I",
+      "O",
+      "Z",
+      "P",
+      "M",
+      "U",
+      "G",
+      "E",
+      "N",
+      "Z"
+    ],
+    [
+      "L",
+      "P",
+      "U",
+      "T",
+      "D",
+      "R",
+      "A",
+      "H",
+      "J",
+      "G"
+    ],
+    [
+      "E",
+      "P",
+      "O",
+      "L",
+      "I",
+      "N",
+      "M",
+      "C",
+      "J",
+      "T"
+    ],
+    [
+      "J",
+      "L",
+      "F",
+      "F",
+      "C",
+      "B",
+      "E",
+      "W",
+      "L",
+      "Y"
+    ],
+    [
+      "D",
+      "A",
+      "L",
+      "P",
+      "E",
+      "E",
+      "E",
+      "O",
+      "J",
+      "W"
+    ],
+    [
+      "G",
+      "Y",
+      "C",
+      "I",
+      "Q",
+      "D",
+      "R",
+      "O",
+      "L",
+      "L"
+    ],
+    [
+      "L",
+      "B",
+      "O",
+      "A",
+      "R",
+      "D",
+      "Q",
+      "J",
+      "K",
+      "U"
+    ],
+    [
+      "A",
+      "C",
+      "A",
+      "R",
+      "D",
+      "M",
+      "C",
+      "Y",
+      "S",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BOARD",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "GAME",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "DICE",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "CARD",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TILE",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "TURN",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "ROLL",
+      "row": 7,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "PLAY",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "PASS",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "WIN",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8861
+}

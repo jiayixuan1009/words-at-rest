@@ -1,0 +1,284 @@
+{
+  "id": "christmas-medium-04",
+  "slug": "christmas-medium-04",
+  "themeId": "christmas",
+  "title": "Christmas: Choir Loft",
+  "primaryKeyword": "christmas word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CANDLE",
+    "CHOIR",
+    "CLOVE",
+    "EGGNOG",
+    "HYMN",
+    "MINCE",
+    "NUTMEG",
+    "ORGAN",
+    "PEACE",
+    "POINSETTIA",
+    "PUDDING",
+    "SPICE",
+    "TRIFLE",
+    "WREATH"
+  ],
+  "grid": [
+    [
+      "U",
+      "R",
+      "C",
+      "R",
+      "G",
+      "D",
+      "P",
+      "F",
+      "K",
+      "K",
+      "J",
+      "Q"
+    ],
+    [
+      "X",
+      "J",
+      "H",
+      "W",
+      "Y",
+      "P",
+      "O",
+      "L",
+      "X",
+      "T",
+      "P",
+      "W"
+    ],
+    [
+      "E",
+      "U",
+      "O",
+      "T",
+      "F",
+      "Q",
+      "I",
+      "R",
+      "E",
+      "R",
+      "U",
+      "R"
+    ],
+    [
+      "C",
+      "V",
+      "I",
+      "H",
+      "Y",
+      "M",
+      "N",
+      "S",
+      "X",
+      "I",
+      "D",
+      "E"
+    ],
+    [
+      "A",
+      "O",
+      "R",
+      "O",
+      "J",
+      "Q",
+      "S",
+      "P",
+      "O",
+      "F",
+      "D",
+      "A"
+    ],
+    [
+      "N",
+      "U",
+      "T",
+      "M",
+      "E",
+      "G",
+      "E",
+      "I",
+      "R",
+      "L",
+      "I",
+      "T"
+    ],
+    [
+      "D",
+      "B",
+      "Z",
+      "I",
+      "X",
+      "I",
+      "T",
+      "C",
+      "G",
+      "E",
+      "N",
+      "H"
+    ],
+    [
+      "L",
+      "K",
+      "W",
+      "N",
+      "T",
+      "W",
+      "T",
+      "E",
+      "A",
+      "K",
+      "G",
+      "E"
+    ],
+    [
+      "E",
+      "T",
+      "N",
+      "C",
+      "R",
+      "W",
+      "I",
+      "Y",
+      "N",
+      "U",
+      "V",
+      "L"
+    ],
+    [
+      "L",
+      "K",
+      "U",
+      "E",
+      "P",
+      "E",
+      "A",
+      "C",
+      "E",
+      "O",
+      "I",
+      "D"
+    ],
+    [
+      "A",
+      "G",
+      "E",
+      "G",
+      "G",
+      "N",
+      "O",
+      "G",
+      "L",
+      "O",
+      "U",
+      "H"
+    ],
+    [
+      "J",
+      "D",
+      "D",
+      "C",
+      "O",
+      "K",
+      "S",
+      "C",
+      "Y",
+      "Y",
+      "Z",
+      "H"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "POINSETTIA",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "PUDDING",
+      "row": 1,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "CANDLE",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "WREATH",
+      "row": 1,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "NUTMEG",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "EGGNOG",
+      "row": 10,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "TRIFLE",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "CHOIR",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "ORGAN",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "CLOVE",
+      "row": 11,
+      "col": 7,
+      "direction": "NE"
+    },
+    {
+      "word": "MINCE",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "SPICE",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "PEACE",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "HYMN",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 1252
+}

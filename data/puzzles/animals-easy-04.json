@@ -1,0 +1,208 @@
+{
+  "id": "animals-easy-04",
+  "slug": "animals-easy-04",
+  "themeId": "animals",
+  "title": "Animals: Garden Visit",
+  "primaryKeyword": "animals word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ANT",
+    "BEE",
+    "BIRD",
+    "DEW",
+    "FROG",
+    "LEAF",
+    "NEST",
+    "SNAIL",
+    "TOAD",
+    "WORM"
+  ],
+  "grid": [
+    [
+      "H",
+      "G",
+      "X",
+      "A",
+      "T",
+      "O",
+      "A",
+      "D",
+      "P",
+      "L"
+    ],
+    [
+      "W",
+      "I",
+      "V",
+      "N",
+      "O",
+      "N",
+      "E",
+      "S",
+      "T",
+      "I"
+    ],
+    [
+      "D",
+      "E",
+      "W",
+      "T",
+      "C",
+      "F",
+      "R",
+      "O",
+      "G",
+      "K"
+    ],
+    [
+      "M",
+      "O",
+      "S",
+      "N",
+      "A",
+      "I",
+      "L",
+      "E",
+      "U",
+      "V"
+    ],
+    [
+      "U",
+      "T",
+      "E",
+      "R",
+      "F",
+      "Z",
+      "Z",
+      "U",
+      "Y",
+      "B"
+    ],
+    [
+      "M",
+      "T",
+      "X",
+      "G",
+      "J",
+      "M",
+      "Z",
+      "B",
+      "D",
+      "E"
+    ],
+    [
+      "N",
+      "A",
+      "Z",
+      "R",
+      "C",
+      "C",
+      "W",
+      "I",
+      "K",
+      "E"
+    ],
+    [
+      "N",
+      "L",
+      "E",
+      "A",
+      "F",
+      "I",
+      "O",
+      "R",
+      "Q",
+      "C"
+    ],
+    [
+      "E",
+      "X",
+      "J",
+      "V",
+      "M",
+      "F",
+      "R",
+      "D",
+      "Z",
+      "W"
+    ],
+    [
+      "Z",
+      "C",
+      "S",
+      "D",
+      "A",
+      "J",
+      "M",
+      "Z",
+      "O",
+      "D"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SNAIL",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "WORM",
+      "row": 6,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "TOAD",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "FROG",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "BIRD",
+      "row": 5,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "NEST",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "LEAF",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BEE",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "ANT",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "DEW",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2031
+}

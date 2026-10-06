@@ -1,0 +1,173 @@
+{
+  "id": "halloween-large-02",
+  "slug": "halloween-large-02",
+  "themeId": "halloween",
+  "title": "Large Print Halloween: Soft Moon",
+  "primaryKeyword": "large print halloween word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BAG",
+    "BOWL",
+    "CAT",
+    "DARK",
+    "DOOR",
+    "HAT",
+    "MOON",
+    "STEP"
+  ],
+  "grid": [
+    [
+      "C",
+      "C",
+      "K",
+      "V",
+      "H",
+      "H",
+      "A",
+      "T",
+      "H"
+    ],
+    [
+      "R",
+      "F",
+      "W",
+      "Y",
+      "Q",
+      "P",
+      "O",
+      "Y",
+      "W"
+    ],
+    [
+      "K",
+      "C",
+      "U",
+      "H",
+      "N",
+      "D",
+      "O",
+      "O",
+      "R"
+    ],
+    [
+      "O",
+      "K",
+      "A",
+      "U",
+      "D",
+      "J",
+      "W",
+      "C",
+      "N"
+    ],
+    [
+      "V",
+      "B",
+      "U",
+      "N",
+      "A",
+      "J",
+      "G",
+      "G",
+      "X"
+    ],
+    [
+      "B",
+      "O",
+      "L",
+      "R",
+      "R",
+      "C",
+      "J",
+      "M",
+      "G"
+    ],
+    [
+      "A",
+      "W",
+      "S",
+      "B",
+      "K",
+      "E",
+      "B",
+      "O",
+      "D"
+    ],
+    [
+      "G",
+      "L",
+      "O",
+      "S",
+      "T",
+      "E",
+      "P",
+      "O",
+      "R"
+    ],
+    [
+      "R",
+      "C",
+      "A",
+      "T",
+      "R",
+      "C",
+      "A",
+      "N",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "MOON",
+      "row": 5,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "DOOR",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "STEP",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "DARK",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "BOWL",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "CAT",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "HAT",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "BAG",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 1054
+}

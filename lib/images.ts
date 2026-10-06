@@ -179,6 +179,25 @@ const THEME_MOTIF: Record<string, string> = {
   islands: "a small island map, shell and ferry ticket stub",
   emotions: "a small journal, a soft pencil and a pressed flower",
   photography: "a simple camera outline, a lens cap and a contact sheet strip",
+  chess: "a chessboard corner, a king and a pawn on wood",
+  "national-parks": "a park map, ranger hat outline and pine vista sketch",
+  landmarks: "a small tower sketch, bridge outline and postcard stamp",
+  "farm-animals": "a barn outline, hen and hay bale on cream paper",
+  home: "a porch light, key and small house sketch",
+  astronomy: "a small telescope, star chart and crescent moon",
+  "board-games": "dice, a token and a folded board edge on a table",
+  yoga: "a rolled mat, block and soft studio light sketch",
+  pottery: "a clay bowl on a wheel, sponge and glaze jar",
+  woodworking: "a wood plane, chisel and scrap of oak on a bench",
+  calligraphy: "a nib pen, ink bottle and flourish on cream paper",
+  libraries: "stacked books, a library card and reading lamp",
+  volunteering: "a name badge, tote and sign-up clipboard",
+  "gardening-tools": "a trowel, pruners and coiled hose on a potting bench",
+  meditation: "a cushion, bowl and soft morning light on a mat",
+  birdwatching: "binoculars, a field notebook and a perched songbird sketch",
+  lighthouses: "a lighthouse tower, lamp and rocky shore sketch",
+  journaling: "an open journal, pen and soft desk lamp",
+  apothecary: "herb jars, a mortar and a small brass scale on a shelf",
   "large-print-pack": "reading glasses on an open puzzle book under a lamp",
   "hard-pack": "a dense puzzle grid with a fountain pen",
 };
@@ -213,6 +232,12 @@ const THEME_MOTIF: Record<string, string> = {
  * TEMPORARY covers for Wave F (countries…museums): borrow nearby art; swap webp/OG only.
  *
  * TEMPORARY covers for Wave G (sewing…photography): borrow nearby art; swap webp/OG only.
+ *
+ * TEMPORARY covers for Wave H (chess…yoga): borrow nearby art; swap webp/OG only.
+ *
+ * TEMPORARY covers for Wave I (pottery…gardening-tools): borrow nearby art; swap webp/OG only.
+ *
+ * TEMPORARY covers for Wave JK (meditation…apothecary): borrow nearby art; swap webp/OG only.
  */
 
 export function themeArt(slug: string, themeName: string): Art {

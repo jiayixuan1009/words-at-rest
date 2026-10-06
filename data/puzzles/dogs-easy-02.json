@@ -1,0 +1,208 @@
+{
+  "id": "dogs-easy-02",
+  "slug": "dogs-easy-02",
+  "themeId": "dogs",
+  "title": "Dogs: Park Loop",
+  "primaryKeyword": "dogs word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BALL",
+    "BONE",
+    "DOG",
+    "FETCH",
+    "LEAD",
+    "PARK",
+    "PUP",
+    "RUN",
+    "TAIL",
+    "WALK"
+  ],
+  "grid": [
+    [
+      "N",
+      "B",
+      "A",
+      "L",
+      "L",
+      "L",
+      "E",
+      "A",
+      "D",
+      "W"
+    ],
+    [
+      "C",
+      "W",
+      "S",
+      "P",
+      "A",
+      "R",
+      "K",
+      "W",
+      "D",
+      "I"
+    ],
+    [
+      "P",
+      "A",
+      "E",
+      "W",
+      "J",
+      "R",
+      "E",
+      "A",
+      "S",
+      "D"
+    ],
+    [
+      "E",
+      "D",
+      "W",
+      "M",
+      "K",
+      "U",
+      "Q",
+      "L",
+      "M",
+      "I"
+    ],
+    [
+      "X",
+      "K",
+      "X",
+      "V",
+      "N",
+      "F",
+      "A",
+      "K",
+      "K",
+      "H"
+    ],
+    [
+      "R",
+      "C",
+      "I",
+      "V",
+      "T",
+      "A",
+      "I",
+      "L",
+      "V",
+      "T"
+    ],
+    [
+      "G",
+      "J",
+      "Q",
+      "X",
+      "E",
+      "S",
+      "P",
+      "U",
+      "P",
+      "U"
+    ],
+    [
+      "F",
+      "E",
+      "T",
+      "C",
+      "H",
+      "Z",
+      "B",
+      "O",
+      "N",
+      "E"
+    ],
+    [
+      "R",
+      "D",
+      "O",
+      "G",
+      "D",
+      "K",
+      "W",
+      "G",
+      "K",
+      "R"
+    ],
+    [
+      "T",
+      "R",
+      "S",
+      "K",
+      "Q",
+      "R",
+      "W",
+      "R",
+      "U",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FETCH",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "WALK",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "PARK",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BALL",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "LEAD",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "BONE",
+      "row": 7,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "TAIL",
+      "row": 5,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "DOG",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PUP",
+      "row": 6,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "RUN",
+      "row": 9,
+      "col": 7,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2811
+}

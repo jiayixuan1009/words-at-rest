@@ -1,0 +1,284 @@
+{
+  "id": "farm-animals-medium-02",
+  "slug": "farm-animals-medium-02",
+  "themeId": "farm-animals",
+  "title": "Farm Animals: Hay Loft",
+  "primaryKeyword": "farm animals word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ALPACA",
+    "BULL",
+    "CAT",
+    "DOG",
+    "FIELD",
+    "FOAL",
+    "KID",
+    "LLAMA",
+    "MARE",
+    "MILK",
+    "MULE",
+    "PEN",
+    "SOW",
+    "TAIL"
+  ],
+  "grid": [
+    [
+      "L",
+      "M",
+      "F",
+      "E",
+      "G",
+      "G",
+      "M",
+      "V",
+      "C",
+      "M",
+      "J",
+      "Q"
+    ],
+    [
+      "A",
+      "L",
+      "I",
+      "S",
+      "K",
+      "I",
+      "D",
+      "N",
+      "A",
+      "R",
+      "E",
+      "S"
+    ],
+    [
+      "E",
+      "L",
+      "A",
+      "L",
+      "O",
+      "U",
+      "A",
+      "G",
+      "T",
+      "L",
+      "W",
+      "Z"
+    ],
+    [
+      "A",
+      "P",
+      "N",
+      "M",
+      "K",
+      "A",
+      "O",
+      "L",
+      "U",
+      "X",
+      "U",
+      "B"
+    ],
+    [
+      "A",
+      "G",
+      "V",
+      "L",
+      "A",
+      "D",
+      "U",
+      "M",
+      "P",
+      "C",
+      "X",
+      "Z"
+    ],
+    [
+      "T",
+      "L",
+      "O",
+      "H",
+      "K",
+      "L",
+      "R",
+      "G",
+      "L",
+      "A",
+      "Y",
+      "W"
+    ],
+    [
+      "P",
+      "A",
+      "O",
+      "Y",
+      "C",
+      "H",
+      "U",
+      "A",
+      "S",
+      "D",
+      "C",
+      "R"
+    ],
+    [
+      "N",
+      "G",
+      "I",
+      "F",
+      "T",
+      "W",
+      "O",
+      "P",
+      "Q",
+      "V",
+      "P",
+      "A"
+    ],
+    [
+      "M",
+      "T",
+      "Q",
+      "L",
+      "I",
+      "F",
+      "P",
+      "G",
+      "R",
+      "S",
+      "X",
+      "L"
+    ],
+    [
+      "A",
+      "P",
+      "G",
+      "S",
+      "O",
+      "E",
+      "C",
+      "P",
+      "B",
+      "U",
+      "L",
+      "L"
+    ],
+    [
+      "R",
+      "E",
+      "F",
+      "O",
+      "E",
+      "I",
+      "L",
+      "B",
+      "B",
+      "A",
+      "Z",
+      "G"
+    ],
+    [
+      "E",
+      "N",
+      "B",
+      "W",
+      "N",
+      "V",
+      "L",
+      "D",
+      "K",
+      "G",
+      "F",
+      "V"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ALPACA",
+      "row": 2,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "LLAMA",
+      "row": 0,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "FIELD",
+      "row": 7,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "FOAL",
+      "row": 8,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "MARE",
+      "row": 8,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "MULE",
+      "row": 4,
+      "col": 7,
+      "direction": "NE"
+    },
+    {
+      "word": "TAIL",
+      "row": 5,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "MILK",
+      "row": 0,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "BULL",
+      "row": 9,
+      "col": 8,
+      "direction": "E"
+    },
+    {
+      "word": "PEN",
+      "row": 9,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "CAT",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "DOG",
+      "row": 4,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "SOW",
+      "row": 9,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "KID",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8834
+}

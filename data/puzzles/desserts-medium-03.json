@@ -1,0 +1,284 @@
+{
+  "id": "desserts-medium-03",
+  "slug": "desserts-medium-03",
+  "themeId": "desserts",
+  "title": "Desserts: Long Afternoon",
+  "primaryKeyword": "desserts word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BAKE",
+    "BROWNIE",
+    "CARAMEL",
+    "CHILL",
+    "COOKIE",
+    "CUSTARD",
+    "GANACHE",
+    "ICING",
+    "PROFITEROLE",
+    "SHORTCAKE",
+    "SLICE",
+    "SUNDAE",
+    "TOFFEE",
+    "VANILLA"
+  ],
+  "grid": [
+    [
+      "U",
+      "A",
+      "L",
+      "D",
+      "B",
+      "V",
+      "T",
+      "W",
+      "A",
+      "Q",
+      "Z",
+      "N"
+    ],
+    [
+      "Y",
+      "R",
+      "S",
+      "Z",
+      "R",
+      "R",
+      "P",
+      "O",
+      "J",
+      "E",
+      "G",
+      "Y"
+    ],
+    [
+      "N",
+      "Z",
+      "L",
+      "S",
+      "O",
+      "S",
+      "R",
+      "R",
+      "F",
+      "D",
+      "A",
+      "D"
+    ],
+    [
+      "T",
+      "G",
+      "B",
+      "C",
+      "W",
+      "H",
+      "O",
+      "K",
+      "V",
+      "F",
+      "E",
+      "Z"
+    ],
+    [
+      "L",
+      "M",
+      "A",
+      "O",
+      "N",
+      "O",
+      "F",
+      "G",
+      "A",
+      "W",
+      "E",
+      "O"
+    ],
+    [
+      "C",
+      "T",
+      "K",
+      "O",
+      "I",
+      "R",
+      "I",
+      "A",
+      "N",
+      "C",
+      "U",
+      "E"
+    ],
+    [
+      "A",
+      "I",
+      "E",
+      "K",
+      "E",
+      "T",
+      "T",
+      "N",
+      "I",
+      "U",
+      "J",
+      "S"
+    ],
+    [
+      "R",
+      "C",
+      "J",
+      "I",
+      "K",
+      "C",
+      "E",
+      "A",
+      "L",
+      "S",
+      "C",
+      "U"
+    ],
+    [
+      "A",
+      "I",
+      "A",
+      "E",
+      "N",
+      "A",
+      "R",
+      "C",
+      "L",
+      "T",
+      "H",
+      "N"
+    ],
+    [
+      "M",
+      "N",
+      "I",
+      "F",
+      "T",
+      "K",
+      "O",
+      "H",
+      "A",
+      "A",
+      "I",
+      "D"
+    ],
+    [
+      "E",
+      "G",
+      "Q",
+      "A",
+      "J",
+      "E",
+      "L",
+      "E",
+      "U",
+      "R",
+      "L",
+      "A"
+    ],
+    [
+      "L",
+      "S",
+      "L",
+      "I",
+      "C",
+      "E",
+      "E",
+      "I",
+      "J",
+      "D",
+      "L",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PROFITEROLE",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "SHORTCAKE",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "CUSTARD",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "VANILLA",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "GANACHE",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "CARAMEL",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BROWNIE",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "SUNDAE",
+      "row": 6,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "COOKIE",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "TOFFEE",
+      "row": 0,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "SLICE",
+      "row": 11,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CHILL",
+      "row": 7,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "ICING",
+      "row": 6,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "BAKE",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9247
+}

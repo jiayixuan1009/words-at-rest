@@ -1,0 +1,208 @@
+{
+  "id": "new-year-easy-03",
+  "slug": "new-year-easy-03",
+  "themeId": "new-year",
+  "title": "New Year: Quiet Hour",
+  "primaryKeyword": "new year word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "AULD",
+    "BALLOON",
+    "CHAMPAGNE",
+    "CHANGE",
+    "CONFETTI",
+    "FOCUS",
+    "HORIZON",
+    "REFRESH",
+    "START",
+    "TOAST"
+  ],
+  "grid": [
+    [
+      "F",
+      "O",
+      "C",
+      "U",
+      "S",
+      "C",
+      "A",
+      "G",
+      "B",
+      "O"
+    ],
+    [
+      "B",
+      "B",
+      "W",
+      "C",
+      "R",
+      "O",
+      "E",
+      "A",
+      "A",
+      "P"
+    ],
+    [
+      "H",
+      "R",
+      "Q",
+      "H",
+      "E",
+      "N",
+      "A",
+      "C",
+      "L",
+      "F"
+    ],
+    [
+      "O",
+      "K",
+      "S",
+      "A",
+      "F",
+      "F",
+      "U",
+      "H",
+      "L",
+      "Y"
+    ],
+    [
+      "R",
+      "W",
+      "T",
+      "M",
+      "R",
+      "E",
+      "G",
+      "A",
+      "O",
+      "E"
+    ],
+    [
+      "I",
+      "X",
+      "A",
+      "P",
+      "E",
+      "T",
+      "T",
+      "N",
+      "O",
+      "M"
+    ],
+    [
+      "Z",
+      "A",
+      "R",
+      "A",
+      "S",
+      "T",
+      "O",
+      "G",
+      "N",
+      "X"
+    ],
+    [
+      "O",
+      "U",
+      "T",
+      "G",
+      "H",
+      "I",
+      "A",
+      "E",
+      "J",
+      "I"
+    ],
+    [
+      "N",
+      "L",
+      "F",
+      "N",
+      "U",
+      "J",
+      "S",
+      "N",
+      "P",
+      "U"
+    ],
+    [
+      "Z",
+      "D",
+      "V",
+      "E",
+      "Q",
+      "Y",
+      "T",
+      "O",
+      "A",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CHAMPAGNE",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "CONFETTI",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "HORIZON",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "REFRESH",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "BALLOON",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "CHANGE",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "FOCUS",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "START",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "TOAST",
+      "row": 5,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "AULD",
+      "row": 6,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9322
+}

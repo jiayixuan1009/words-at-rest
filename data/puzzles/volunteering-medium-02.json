@@ -1,0 +1,284 @@
+{
+  "id": "volunteering-medium-02",
+  "slug": "volunteering-medium-02",
+  "themeId": "volunteering",
+  "title": "Volunteering: Community Day",
+  "primaryKeyword": "volunteering word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CALL",
+    "COLLECT",
+    "COMMUNITY",
+    "DELIVER",
+    "HAND",
+    "HEART",
+    "KINDNESS",
+    "NEIGHBOR",
+    "PACK",
+    "QUIET",
+    "READ",
+    "SERVICE",
+    "SORT",
+    "TOWN"
+  ],
+  "grid": [
+    [
+      "C",
+      "O",
+      "L",
+      "L",
+      "E",
+      "C",
+      "T",
+      "I",
+      "F",
+      "X",
+      "I",
+      "I"
+    ],
+    [
+      "F",
+      "N",
+      "A",
+      "P",
+      "Y",
+      "Q",
+      "I",
+      "H",
+      "E",
+      "A",
+      "R",
+      "T"
+    ],
+    [
+      "O",
+      "K",
+      "J",
+      "N",
+      "A",
+      "J",
+      "L",
+      "T",
+      "D",
+      "D",
+      "K",
+      "K"
+    ],
+    [
+      "V",
+      "D",
+      "C",
+      "N",
+      "Q",
+      "C",
+      "M",
+      "K",
+      "E",
+      "J",
+      "T",
+      "I"
+    ],
+    [
+      "Y",
+      "B",
+      "O",
+      "E",
+      "T",
+      "Y",
+      "K",
+      "Y",
+      "L",
+      "X",
+      "S",
+      "N"
+    ],
+    [
+      "S",
+      "L",
+      "M",
+      "I",
+      "O",
+      "Q",
+      "C",
+      "K",
+      "I",
+      "X",
+      "E",
+      "D"
+    ],
+    [
+      "O",
+      "G",
+      "M",
+      "G",
+      "W",
+      "U",
+      "A",
+      "X",
+      "V",
+      "G",
+      "R",
+      "N"
+    ],
+    [
+      "R",
+      "M",
+      "U",
+      "H",
+      "N",
+      "I",
+      "L",
+      "M",
+      "E",
+      "S",
+      "V",
+      "E"
+    ],
+    [
+      "T",
+      "K",
+      "N",
+      "B",
+      "H",
+      "E",
+      "L",
+      "D",
+      "R",
+      "O",
+      "I",
+      "S"
+    ],
+    [
+      "D",
+      "P",
+      "I",
+      "O",
+      "W",
+      "T",
+      "N",
+      "O",
+      "J",
+      "H",
+      "C",
+      "S"
+    ],
+    [
+      "L",
+      "E",
+      "T",
+      "R",
+      "I",
+      "A",
+      "R",
+      "Q",
+      "C",
+      "F",
+      "E",
+      "L"
+    ],
+    [
+      "O",
+      "H",
+      "Y",
+      "Z",
+      "H",
+      "H",
+      "L",
+      "R",
+      "E",
+      "A",
+      "D",
+      "D"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "COMMUNITY",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "NEIGHBOR",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "KINDNESS",
+      "row": 2,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "COLLECT",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "DELIVER",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "SERVICE",
+      "row": 4,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "HEART",
+      "row": 1,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "QUIET",
+      "row": 5,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "SORT",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "PACK",
+      "row": 1,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "TOWN",
+      "row": 4,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "HAND",
+      "row": 11,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "CALL",
+      "row": 5,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "READ",
+      "row": 11,
+      "col": 7,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8944
+}

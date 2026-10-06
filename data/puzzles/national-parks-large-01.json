@@ -1,0 +1,173 @@
+{
+  "id": "national-parks-large-01",
+  "slug": "national-parks-large-01",
+  "themeId": "national-parks",
+  "title": "Large Print National Parks: Soft Trail",
+  "primaryKeyword": "large print national parks word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BEAR",
+    "CAMP",
+    "HIKE",
+    "LAKE",
+    "PARK",
+    "PASS",
+    "PEAK",
+    "TRAIL"
+  ],
+  "grid": [
+    [
+      "D",
+      "P",
+      "A",
+      "S",
+      "S",
+      "P",
+      "E",
+      "A",
+      "K"
+    ],
+    [
+      "M",
+      "T",
+      "H",
+      "N",
+      "I",
+      "E",
+      "Q",
+      "W",
+      "B"
+    ],
+    [
+      "D",
+      "R",
+      "I",
+      "Y",
+      "J",
+      "L",
+      "E",
+      "Z",
+      "P"
+    ],
+    [
+      "N",
+      "A",
+      "K",
+      "S",
+      "V",
+      "E",
+      "W",
+      "Q",
+      "R"
+    ],
+    [
+      "L",
+      "I",
+      "E",
+      "Y",
+      "W",
+      "L",
+      "A",
+      "K",
+      "E"
+    ],
+    [
+      "A",
+      "L",
+      "B",
+      "E",
+      "A",
+      "R",
+      "I",
+      "K",
+      "V"
+    ],
+    [
+      "T",
+      "K",
+      "F",
+      "P",
+      "A",
+      "R",
+      "K",
+      "W",
+      "J"
+    ],
+    [
+      "U",
+      "Q",
+      "T",
+      "E",
+      "S",
+      "C",
+      "A",
+      "M",
+      "P"
+    ],
+    [
+      "D",
+      "P",
+      "R",
+      "S",
+      "V",
+      "L",
+      "X",
+      "L",
+      "I"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TRAIL",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "PARK",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "LAKE",
+      "row": 4,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "PEAK",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "HIKE",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "CAMP",
+      "row": 7,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "PASS",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BEAR",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8816
+}

@@ -1,0 +1,208 @@
+{
+  "id": "emotions-easy-03",
+  "slug": "emotions-easy-03",
+  "themeId": "emotions",
+  "title": "Emotions: Quiet Hour",
+  "primaryKeyword": "emotions word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CHEER",
+    "COMFORT",
+    "COMPASSION",
+    "COURAGE",
+    "DOUBT",
+    "HAPPY",
+    "JOY",
+    "KIND",
+    "SERENE",
+    "TRUE"
+  ],
+  "grid": [
+    [
+      "L",
+      "E",
+      "K",
+      "I",
+      "N",
+      "D",
+      "J",
+      "O",
+      "Y",
+      "A"
+    ],
+    [
+      "D",
+      "O",
+      "U",
+      "B",
+      "T",
+      "V",
+      "Z",
+      "Q",
+      "V",
+      "J"
+    ],
+    [
+      "J",
+      "A",
+      "C",
+      "G",
+      "G",
+      "I",
+      "Z",
+      "V",
+      "W",
+      "R"
+    ],
+    [
+      "C",
+      "Y",
+      "X",
+      "C",
+      "O",
+      "M",
+      "F",
+      "O",
+      "R",
+      "T"
+    ],
+    [
+      "H",
+      "Z",
+      "S",
+      "E",
+      "R",
+      "E",
+      "N",
+      "E",
+      "Z",
+      "Y"
+    ],
+    [
+      "E",
+      "A",
+      "H",
+      "A",
+      "P",
+      "P",
+      "Y",
+      "I",
+      "H",
+      "O"
+    ],
+    [
+      "E",
+      "Z",
+      "B",
+      "T",
+      "R",
+      "U",
+      "E",
+      "E",
+      "P",
+      "Q"
+    ],
+    [
+      "R",
+      "W",
+      "K",
+      "V",
+      "V",
+      "C",
+      "F",
+      "C",
+      "T",
+      "K"
+    ],
+    [
+      "C",
+      "O",
+      "M",
+      "P",
+      "A",
+      "S",
+      "S",
+      "I",
+      "O",
+      "N"
+    ],
+    [
+      "Z",
+      "C",
+      "O",
+      "U",
+      "R",
+      "A",
+      "G",
+      "E",
+      "S",
+      "W"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "COMPASSION",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "COMFORT",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "COURAGE",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SERENE",
+      "row": 4,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "DOUBT",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "HAPPY",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CHEER",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "TRUE",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "KIND",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "JOY",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9252
+}

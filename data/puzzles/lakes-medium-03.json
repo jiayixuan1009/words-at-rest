@@ -1,0 +1,284 @@
+{
+  "id": "lakes-medium-03",
+  "slug": "lakes-medium-03",
+  "themeId": "lakes",
+  "title": "Lakes: Slow Pace",
+  "primaryKeyword": "lakes word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BANK",
+    "BOAT",
+    "CALM",
+    "DUCK",
+    "FISH",
+    "FROG",
+    "PIER",
+    "POOL",
+    "SHALLOW",
+    "STONE",
+    "STREAM",
+    "TWILIGHT",
+    "WATER",
+    "WEIR"
+  ],
+  "grid": [
+    [
+      "C",
+      "G",
+      "Q",
+      "P",
+      "F",
+      "U",
+      "M",
+      "P",
+      "C",
+      "A",
+      "L",
+      "M"
+    ],
+    [
+      "S",
+      "G",
+      "T",
+      "F",
+      "R",
+      "R",
+      "W",
+      "A",
+      "T",
+      "E",
+      "R",
+      "A"
+    ],
+    [
+      "H",
+      "G",
+      "W",
+      "S",
+      "T",
+      "R",
+      "E",
+      "A",
+      "M",
+      "U",
+      "X",
+      "L"
+    ],
+    [
+      "A",
+      "B",
+      "I",
+      "H",
+      "E",
+      "Q",
+      "G",
+      "V",
+      "P",
+      "Z",
+      "H",
+      "D"
+    ],
+    [
+      "L",
+      "V",
+      "L",
+      "D",
+      "L",
+      "O",
+      "N",
+      "V",
+      "D",
+      "Y",
+      "X",
+      "B"
+    ],
+    [
+      "L",
+      "Y",
+      "I",
+      "Z",
+      "R",
+      "H",
+      "F",
+      "I",
+      "S",
+      "H",
+      "G",
+      "P"
+    ],
+    [
+      "O",
+      "J",
+      "G",
+      "F",
+      "T",
+      "P",
+      "S",
+      "T",
+      "O",
+      "N",
+      "E",
+      "B"
+    ],
+    [
+      "W",
+      "C",
+      "H",
+      "E",
+      "Z",
+      "P",
+      "X",
+      "P",
+      "Q",
+      "W",
+      "Z",
+      "A"
+    ],
+    [
+      "I",
+      "Q",
+      "T",
+      "P",
+      "I",
+      "E",
+      "R",
+      "D",
+      "O",
+      "N",
+      "Q",
+      "N"
+    ],
+    [
+      "N",
+      "M",
+      "W",
+      "T",
+      "B",
+      "O",
+      "A",
+      "T",
+      "H",
+      "O",
+      "M",
+      "K"
+    ],
+    [
+      "O",
+      "Z",
+      "G",
+      "G",
+      "L",
+      "D",
+      "U",
+      "C",
+      "K",
+      "C",
+      "L",
+      "L"
+    ],
+    [
+      "X",
+      "S",
+      "F",
+      "W",
+      "O",
+      "W",
+      "E",
+      "I",
+      "R",
+      "F",
+      "W",
+      "K"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TWILIGHT",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "SHALLOW",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "STREAM",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "WATER",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "STONE",
+      "row": 6,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "DUCK",
+      "row": 10,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "POOL",
+      "row": 7,
+      "col": 7,
+      "direction": "SE"
+    },
+    {
+      "word": "BANK",
+      "row": 6,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "BOAT",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "FISH",
+      "row": 5,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "CALM",
+      "row": 0,
+      "col": 8,
+      "direction": "E"
+    },
+    {
+      "word": "FROG",
+      "row": 6,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "WEIR",
+      "row": 11,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "PIER",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9303
+}

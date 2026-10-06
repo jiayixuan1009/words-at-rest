@@ -1,0 +1,208 @@
+{
+  "id": "shopping-easy-03",
+  "slug": "shopping-easy-03",
+  "themeId": "shopping",
+  "title": "Shopping: Quiet Hour",
+  "primaryKeyword": "shopping word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BAKERY",
+    "BASKET",
+    "BREAD",
+    "CARD",
+    "CHECKOUT",
+    "CHOOSE",
+    "DEAL",
+    "MARKET",
+    "PAPER",
+    "PRODUCE"
+  ],
+  "grid": [
+    [
+      "B",
+      "V",
+      "M",
+      "P",
+      "A",
+      "P",
+      "E",
+      "R",
+      "M",
+      "S"
+    ],
+    [
+      "A",
+      "P",
+      "A",
+      "Z",
+      "B",
+      "R",
+      "E",
+      "A",
+      "D",
+      "U"
+    ],
+    [
+      "Y",
+      "G",
+      "R",
+      "B",
+      "C",
+      "C",
+      "D",
+      "E",
+      "A",
+      "L"
+    ],
+    [
+      "B",
+      "P",
+      "K",
+      "A",
+      "H",
+      "A",
+      "F",
+      "G",
+      "K",
+      "I"
+    ],
+    [
+      "A",
+      "R",
+      "E",
+      "K",
+      "E",
+      "R",
+      "C",
+      "F",
+      "A",
+      "M"
+    ],
+    [
+      "S",
+      "O",
+      "T",
+      "E",
+      "C",
+      "D",
+      "H",
+      "M",
+      "P",
+      "A"
+    ],
+    [
+      "K",
+      "D",
+      "G",
+      "R",
+      "K",
+      "J",
+      "O",
+      "H",
+      "A",
+      "A"
+    ],
+    [
+      "E",
+      "U",
+      "T",
+      "Y",
+      "O",
+      "B",
+      "O",
+      "Q",
+      "L",
+      "M"
+    ],
+    [
+      "T",
+      "C",
+      "U",
+      "B",
+      "U",
+      "H",
+      "S",
+      "A",
+      "C",
+      "U"
+    ],
+    [
+      "P",
+      "E",
+      "U",
+      "K",
+      "T",
+      "I",
+      "E",
+      "K",
+      "K",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CHECKOUT",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "PRODUCE",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "MARKET",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "BASKET",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BAKERY",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "CHOOSE",
+      "row": 4,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "BREAD",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "PAPER",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "CARD",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "DEAL",
+      "row": 2,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9336
+}

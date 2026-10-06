@@ -1,0 +1,284 @@
+{
+  "id": "horses-medium-03",
+  "slug": "horses-medium-03",
+  "themeId": "horses",
+  "title": "Horses: Nested Calm",
+  "primaryKeyword": "horses word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CANTER",
+    "COMB",
+    "FENCE",
+    "FIELD",
+    "GATE",
+    "HALTER",
+    "LANE",
+    "MEADOW",
+    "OATS",
+    "PADDOCK",
+    "STALL",
+    "TRAIL",
+    "TROT",
+    "WALK"
+  ],
+  "grid": [
+    [
+      "W",
+      "N",
+      "V",
+      "Q",
+      "P",
+      "D",
+      "V",
+      "K",
+      "W",
+      "T",
+      "C",
+      "B"
+    ],
+    [
+      "N",
+      "M",
+      "A",
+      "B",
+      "M",
+      "D",
+      "L",
+      "X",
+      "R",
+      "G",
+      "L",
+      "B"
+    ],
+    [
+      "R",
+      "L",
+      "O",
+      "N",
+      "G",
+      "S",
+      "M",
+      "A",
+      "W",
+      "R",
+      "M",
+      "V"
+    ],
+    [
+      "F",
+      "I",
+      "E",
+      "L",
+      "D",
+      "P",
+      "E",
+      "M",
+      "N",
+      "O",
+      "W",
+      "H"
+    ],
+    [
+      "T",
+      "F",
+      "E",
+      "N",
+      "C",
+      "E",
+      "A",
+      "A",
+      "C",
+      "E",
+      "J",
+      "I"
+    ],
+    [
+      "R",
+      "F",
+      "G",
+      "C",
+      "Y",
+      "O",
+      "D",
+      "D",
+      "N",
+      "L",
+      "L",
+      "H"
+    ],
+    [
+      "A",
+      "O",
+      "A",
+      "A",
+      "H",
+      "A",
+      "O",
+      "S",
+      "D",
+      "L",
+      "B",
+      "S"
+    ],
+    [
+      "I",
+      "F",
+      "T",
+      "N",
+      "J",
+      "A",
+      "W",
+      "A",
+      "A",
+      "O",
+      "T",
+      "O"
+    ],
+    [
+      "L",
+      "Y",
+      "E",
+      "T",
+      "X",
+      "K",
+      "L",
+      "T",
+      "W",
+      "A",
+      "C",
+      "T"
+    ],
+    [
+      "L",
+      "M",
+      "X",
+      "E",
+      "A",
+      "Z",
+      "S",
+      "T",
+      "O",
+      "A",
+      "O",
+      "K"
+    ],
+    [
+      "K",
+      "Q",
+      "C",
+      "R",
+      "X",
+      "C",
+      "Y",
+      "L",
+      "E",
+      "R",
+      "L",
+      "D"
+    ],
+    [
+      "K",
+      "J",
+      "V",
+      "E",
+      "A",
+      "N",
+      "O",
+      "O",
+      "T",
+      "R",
+      "L",
+      "K"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PADDOCK",
+      "row": 3,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "MEADOW",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "HALTER",
+      "row": 6,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "CANTER",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "FENCE",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "FIELD",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "TRAIL",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "STALL",
+      "row": 9,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "GATE",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "LANE",
+      "row": 1,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "COMB",
+      "row": 4,
+      "col": 8,
+      "direction": "NE"
+    },
+    {
+      "word": "WALK",
+      "row": 8,
+      "col": 8,
+      "direction": "SE"
+    },
+    {
+      "word": "OATS",
+      "row": 9,
+      "col": 8,
+      "direction": "NE"
+    },
+    {
+      "word": "TROT",
+      "row": 11,
+      "col": 8,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9283
+}

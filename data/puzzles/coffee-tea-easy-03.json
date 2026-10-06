@@ -1,0 +1,208 @@
+{
+  "id": "coffee-tea-easy-03",
+  "slug": "coffee-tea-easy-03",
+  "themeId": "coffee-tea",
+  "title": "Coffee & Tea: Calm Desk",
+  "primaryKeyword": "coffee and tea word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BISCUIT",
+    "ESPRESSO",
+    "KETTLE",
+    "LATTE",
+    "ROAST",
+    "SCONE",
+    "SPICE",
+    "STEAM",
+    "STEEP",
+    "TABLE"
+  ],
+  "grid": [
+    [
+      "N",
+      "A",
+      "H",
+      "S",
+      "T",
+      "E",
+      "X",
+      "W",
+      "V",
+      "W"
+    ],
+    [
+      "O",
+      "Z",
+      "U",
+      "R",
+      "O",
+      "S",
+      "Y",
+      "I",
+      "T",
+      "P"
+    ],
+    [
+      "T",
+      "S",
+      "E",
+      "O",
+      "S",
+      "P",
+      "S",
+      "M",
+      "O",
+      "P"
+    ],
+    [
+      "A",
+      "C",
+      "B",
+      "A",
+      "T",
+      "R",
+      "T",
+      "D",
+      "W",
+      "X"
+    ],
+    [
+      "B",
+      "O",
+      "I",
+      "S",
+      "E",
+      "E",
+      "E",
+      "K",
+      "K",
+      "S"
+    ],
+    [
+      "L",
+      "N",
+      "S",
+      "T",
+      "E",
+      "S",
+      "A",
+      "E",
+      "L",
+      "P"
+    ],
+    [
+      "E",
+      "E",
+      "C",
+      "V",
+      "P",
+      "S",
+      "M",
+      "T",
+      "A",
+      "I"
+    ],
+    [
+      "R",
+      "J",
+      "U",
+      "K",
+      "M",
+      "O",
+      "J",
+      "T",
+      "T",
+      "C"
+    ],
+    [
+      "L",
+      "L",
+      "I",
+      "P",
+      "W",
+      "O",
+      "N",
+      "L",
+      "T",
+      "E"
+    ],
+    [
+      "T",
+      "X",
+      "T",
+      "N",
+      "N",
+      "F",
+      "D",
+      "E",
+      "E",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ESPRESSO",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "BISCUIT",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "KETTLE",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SPICE",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "STEAM",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "SCONE",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "TABLE",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "ROAST",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "LATTE",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "STEEP",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9234
+}

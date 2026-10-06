@@ -1,0 +1,173 @@
+{
+  "id": "dogs-large-01",
+  "slug": "dogs-large-01",
+  "themeId": "dogs",
+  "title": "Large Print Dogs: Soft Walk",
+  "primaryKeyword": "large print dogs word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BALL",
+    "BONE",
+    "DOG",
+    "LEAD",
+    "PARK",
+    "PUP",
+    "TAIL",
+    "WALK"
+  ],
+  "grid": [
+    [
+      "V",
+      "T",
+      "D",
+      "O",
+      "G",
+      "X",
+      "L",
+      "U",
+      "P"
+    ],
+    [
+      "T",
+      "A",
+      "B",
+      "B",
+      "O",
+      "N",
+      "E",
+      "Y",
+      "U"
+    ],
+    [
+      "P",
+      "I",
+      "A",
+      "K",
+      "J",
+      "X",
+      "V",
+      "S",
+      "P"
+    ],
+    [
+      "J",
+      "L",
+      "L",
+      "X",
+      "R",
+      "O",
+      "L",
+      "R",
+      "D"
+    ],
+    [
+      "H",
+      "O",
+      "L",
+      "W",
+      "A",
+      "L",
+      "K",
+      "J",
+      "R"
+    ],
+    [
+      "P",
+      "A",
+      "R",
+      "K",
+      "F",
+      "V",
+      "E",
+      "M",
+      "H"
+    ],
+    [
+      "Z",
+      "G",
+      "Q",
+      "G",
+      "Y",
+      "D",
+      "U",
+      "P",
+      "A"
+    ],
+    [
+      "L",
+      "E",
+      "A",
+      "D",
+      "M",
+      "R",
+      "Y",
+      "R",
+      "K"
+    ],
+    [
+      "I",
+      "D",
+      "X",
+      "U",
+      "N",
+      "W",
+      "X",
+      "G",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "WALK",
+      "row": 4,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "PARK",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BALL",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "LEAD",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BONE",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "TAIL",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "DOG",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PUP",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2814
+}

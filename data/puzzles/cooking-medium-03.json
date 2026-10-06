@@ -1,0 +1,284 @@
+{
+  "id": "cooking-medium-03",
+  "slug": "cooking-medium-03",
+  "themeId": "cooking",
+  "title": "Cooking: Harbor Light",
+  "primaryKeyword": "cooking word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BAKE",
+    "BLEND",
+    "BOIL",
+    "FOLD",
+    "FRY",
+    "GRILL",
+    "HEAT",
+    "KNEAD",
+    "LADLE",
+    "PAN",
+    "SAUCE",
+    "SEAR",
+    "SIMMER",
+    "SKILLET"
+  ],
+  "grid": [
+    [
+      "L",
+      "R",
+      "A",
+      "B",
+      "A",
+      "K",
+      "E",
+      "O",
+      "Z",
+      "K",
+      "V",
+      "C"
+    ],
+    [
+      "Q",
+      "R",
+      "B",
+      "F",
+      "O",
+      "L",
+      "D",
+      "O",
+      "K",
+      "L",
+      "G",
+      "F"
+    ],
+    [
+      "Y",
+      "P",
+      "C",
+      "S",
+      "K",
+      "I",
+      "L",
+      "L",
+      "E",
+      "T",
+      "G",
+      "G"
+    ],
+    [
+      "D",
+      "F",
+      "R",
+      "Y",
+      "S",
+      "A",
+      "U",
+      "C",
+      "E",
+      "H",
+      "R",
+      "L"
+    ],
+    [
+      "B",
+      "O",
+      "I",
+      "L",
+      "S",
+      "K",
+      "R",
+      "M",
+      "X",
+      "E",
+      "I",
+      "A"
+    ],
+    [
+      "E",
+      "S",
+      "P",
+      "I",
+      "Z",
+      "I",
+      "S",
+      "U",
+      "R",
+      "A",
+      "L",
+      "D"
+    ],
+    [
+      "L",
+      "H",
+      "B",
+      "J",
+      "D",
+      "G",
+      "M",
+      "F",
+      "U",
+      "T",
+      "L",
+      "L"
+    ],
+    [
+      "M",
+      "M",
+      "X",
+      "N",
+      "R",
+      "K",
+      "D",
+      "M",
+      "Q",
+      "X",
+      "I",
+      "E"
+    ],
+    [
+      "K",
+      "N",
+      "E",
+      "A",
+      "D",
+      "T",
+      "N",
+      "P",
+      "E",
+      "P",
+      "T",
+      "H"
+    ],
+    [
+      "N",
+      "L",
+      "E",
+      "G",
+      "C",
+      "L",
+      "W",
+      "I",
+      "A",
+      "R",
+      "D",
+      "U"
+    ],
+    [
+      "B",
+      "S",
+      "M",
+      "Z",
+      "C",
+      "Q",
+      "W",
+      "L",
+      "Z",
+      "N",
+      "N",
+      "W"
+    ],
+    [
+      "X",
+      "L",
+      "C",
+      "O",
+      "N",
+      "W",
+      "Z",
+      "O",
+      "O",
+      "M",
+      "Q",
+      "P"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SKILLET",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SIMMER",
+      "row": 4,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "GRILL",
+      "row": 2,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "KNEAD",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SAUCE",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BLEND",
+      "row": 10,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "LADLE",
+      "row": 3,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "FOLD",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BOIL",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "HEAT",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "BAKE",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SEAR",
+      "row": 10,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "PAN",
+      "row": 8,
+      "col": 7,
+      "direction": "SE"
+    },
+    {
+      "word": "FRY",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9241
+}

@@ -1,0 +1,208 @@
+{
+  "id": "halloween-easy-03",
+  "slug": "halloween-easy-03",
+  "themeId": "halloween",
+  "title": "Halloween: Candy Bowl",
+  "primaryKeyword": "halloween word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BAG",
+    "BOWL",
+    "CANDY",
+    "CAT",
+    "DARK",
+    "DOOR",
+    "GHOST",
+    "HAT",
+    "MOON",
+    "STEP"
+  ],
+  "grid": [
+    [
+      "Z",
+      "D",
+      "M",
+      "P",
+      "Y",
+      "L",
+      "P",
+      "P",
+      "B",
+      "W"
+    ],
+    [
+      "N",
+      "T",
+      "J",
+      "H",
+      "Y",
+      "M",
+      "O",
+      "U",
+      "A",
+      "S"
+    ],
+    [
+      "R",
+      "Q",
+      "P",
+      "P",
+      "D",
+      "O",
+      "Q",
+      "G",
+      "G",
+      "S"
+    ],
+    [
+      "N",
+      "I",
+      "H",
+      "A",
+      "T",
+      "O",
+      "V",
+      "H",
+      "C",
+      "T"
+    ],
+    [
+      "D",
+      "L",
+      "R",
+      "X",
+      "E",
+      "N",
+      "O",
+      "O",
+      "U",
+      "E"
+    ],
+    [
+      "C",
+      "A",
+      "N",
+      "D",
+      "Y",
+      "X",
+      "H",
+      "S",
+      "S",
+      "P"
+    ],
+    [
+      "K",
+      "Y",
+      "D",
+      "Z",
+      "L",
+      "C",
+      "Z",
+      "T",
+      "W",
+      "U"
+    ],
+    [
+      "L",
+      "C",
+      "A",
+      "T",
+      "X",
+      "O",
+      "D",
+      "A",
+      "R",
+      "K"
+    ],
+    [
+      "L",
+      "D",
+      "O",
+      "O",
+      "R",
+      "B",
+      "O",
+      "W",
+      "L",
+      "J"
+    ],
+    [
+      "V",
+      "C",
+      "W",
+      "D",
+      "K",
+      "M",
+      "F",
+      "U",
+      "D",
+      "V"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CANDY",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "GHOST",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "BOWL",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "MOON",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "DOOR",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "STEP",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "DARK",
+      "row": 7,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "CAT",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "HAT",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BAG",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 1051
+}

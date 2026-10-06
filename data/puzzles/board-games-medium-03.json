@@ -1,0 +1,284 @@
+{
+  "id": "board-games-medium-03",
+  "slug": "board-games-medium-03",
+  "themeId": "board-games",
+  "title": "Board Games: Warm Corner",
+  "primaryKeyword": "board games word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BANK",
+    "BOARD",
+    "COZY",
+    "FRIEND",
+    "HOME",
+    "LOSS",
+    "MARKET",
+    "ROUND",
+    "RULE",
+    "SET",
+    "STRATEGY",
+    "TABLE",
+    "TRACK",
+    "TRADE"
+  ],
+  "grid": [
+    [
+      "U",
+      "S",
+      "W",
+      "D",
+      "B",
+      "O",
+      "A",
+      "R",
+      "D",
+      "H",
+      "N",
+      "L"
+    ],
+    [
+      "C",
+      "R",
+      "O",
+      "U",
+      "N",
+      "D",
+      "M",
+      "L",
+      "N",
+      "O",
+      "L",
+      "K"
+    ],
+    [
+      "K",
+      "D",
+      "T",
+      "D",
+      "A",
+      "S",
+      "F",
+      "W",
+      "G",
+      "M",
+      "W",
+      "B"
+    ],
+    [
+      "Q",
+      "B",
+      "J",
+      "Q",
+      "P",
+      "T",
+      "F",
+      "R",
+      "I",
+      "E",
+      "N",
+      "D"
+    ],
+    [
+      "S",
+      "F",
+      "Q",
+      "M",
+      "A",
+      "R",
+      "K",
+      "E",
+      "T",
+      "I",
+      "I",
+      "E"
+    ],
+    [
+      "E",
+      "I",
+      "G",
+      "J",
+      "D",
+      "A",
+      "I",
+      "C",
+      "J",
+      "O",
+      "L",
+      "S"
+    ],
+    [
+      "T",
+      "I",
+      "C",
+      "P",
+      "H",
+      "T",
+      "G",
+      "M",
+      "L",
+      "B",
+      "L",
+      "S"
+    ],
+    [
+      "T",
+      "Y",
+      "O",
+      "Y",
+      "L",
+      "E",
+      "B",
+      "T",
+      "A",
+      "J",
+      "S",
+      "M"
+    ],
+    [
+      "R",
+      "T",
+      "Z",
+      "M",
+      "K",
+      "G",
+      "A",
+      "T",
+      "R",
+      "O",
+      "K",
+      "Q"
+    ],
+    [
+      "A",
+      "O",
+      "Y",
+      "N",
+      "L",
+      "Y",
+      "N",
+      "N",
+      "L",
+      "A",
+      "P",
+      "A"
+    ],
+    [
+      "D",
+      "R",
+      "U",
+      "L",
+      "E",
+      "U",
+      "K",
+      "J",
+      "X",
+      "S",
+      "C",
+      "C"
+    ],
+    [
+      "E",
+      "F",
+      "B",
+      "V",
+      "Y",
+      "D",
+      "H",
+      "M",
+      "H",
+      "E",
+      "N",
+      "K"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "STRATEGY",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "FRIEND",
+      "row": 3,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "MARKET",
+      "row": 4,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "TRADE",
+      "row": 7,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "TABLE",
+      "row": 8,
+      "col": 7,
+      "direction": "NE"
+    },
+    {
+      "word": "ROUND",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TRACK",
+      "row": 7,
+      "col": 7,
+      "direction": "SE"
+    },
+    {
+      "word": "BOARD",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "RULE",
+      "row": 10,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BANK",
+      "row": 7,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "LOSS",
+      "row": 9,
+      "col": 8,
+      "direction": "NE"
+    },
+    {
+      "word": "COZY",
+      "row": 6,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "HOME",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SET",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9219
+}

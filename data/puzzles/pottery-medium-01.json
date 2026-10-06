@@ -1,0 +1,284 @@
+{
+  "id": "pottery-medium-01",
+  "slug": "pottery-medium-01",
+  "themeId": "pottery",
+  "title": "Pottery: Glaze Shelf",
+  "primaryKeyword": "pottery word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BISQUE",
+    "CENTER",
+    "CRAFT",
+    "ENGOBE",
+    "FINISH",
+    "GLOSS",
+    "MATTE",
+    "SCULPT",
+    "SPEED",
+    "SPONGE",
+    "SPOUT",
+    "STUDIO",
+    "WATER",
+    "WEDGE"
+  ],
+  "grid": [
+    [
+      "B",
+      "A",
+      "B",
+      "M",
+      "H",
+      "B",
+      "N",
+      "H",
+      "K",
+      "T",
+      "U",
+      "J"
+    ],
+    [
+      "V",
+      "M",
+      "I",
+      "A",
+      "W",
+      "E",
+      "D",
+      "G",
+      "E",
+      "P",
+      "F",
+      "H"
+    ],
+    [
+      "C",
+      "V",
+      "S",
+      "T",
+      "X",
+      "L",
+      "S",
+      "B",
+      "C",
+      "C",
+      "S",
+      "O"
+    ],
+    [
+      "U",
+      "D",
+      "Q",
+      "T",
+      "D",
+      "W",
+      "O",
+      "K",
+      "R",
+      "E",
+      "F",
+      "Y"
+    ],
+    [
+      "S",
+      "M",
+      "U",
+      "E",
+      "G",
+      "G",
+      "C",
+      "O",
+      "A",
+      "N",
+      "I",
+      "V"
+    ],
+    [
+      "P",
+      "P",
+      "E",
+      "K",
+      "N",
+      "R",
+      "L",
+      "J",
+      "F",
+      "T",
+      "N",
+      "C"
+    ],
+    [
+      "O",
+      "W",
+      "S",
+      "E",
+      "M",
+      "L",
+      "S",
+      "I",
+      "T",
+      "E",
+      "I",
+      "Z"
+    ],
+    [
+      "N",
+      "A",
+      "T",
+      "G",
+      "L",
+      "O",
+      "O",
+      "U",
+      "W",
+      "R",
+      "S",
+      "P"
+    ],
+    [
+      "G",
+      "T",
+      "U",
+      "L",
+      "X",
+      "E",
+      "O",
+      "Q",
+      "E",
+      "V",
+      "H",
+      "I"
+    ],
+    [
+      "E",
+      "E",
+      "D",
+      "O",
+      "M",
+      "P",
+      "C",
+      "W",
+      "Z",
+      "K",
+      "O",
+      "R"
+    ],
+    [
+      "K",
+      "R",
+      "I",
+      "S",
+      "S",
+      "P",
+      "E",
+      "E",
+      "D",
+      "B",
+      "P",
+      "S"
+    ],
+    [
+      "H",
+      "N",
+      "O",
+      "S",
+      "C",
+      "U",
+      "L",
+      "P",
+      "T",
+      "D",
+      "U",
+      "O"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BISQUE",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "SCULPT",
+      "row": 11,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "FINISH",
+      "row": 3,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "ENGOBE",
+      "row": 6,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "CENTER",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SPONGE",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "STUDIO",
+      "row": 6,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "SPOUT",
+      "row": 10,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "MATTE",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "GLOSS",
+      "row": 7,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "WEDGE",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CRAFT",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "WATER",
+      "row": 6,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SPEED",
+      "row": 10,
+      "col": 4,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8903
+}

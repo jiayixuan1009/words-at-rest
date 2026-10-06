@@ -1,0 +1,208 @@
+{
+  "id": "colors-easy-03",
+  "slug": "colors-easy-03",
+  "themeId": "colors",
+  "title": "Colors: Open Window",
+  "primaryKeyword": "colors word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "AMBER",
+    "CREAM",
+    "GREEN",
+    "LAVENDER",
+    "LEAF",
+    "MAROON",
+    "ORANGE",
+    "SILVER",
+    "SKY",
+    "WHITE"
+  ],
+  "grid": [
+    [
+      "X",
+      "T",
+      "P",
+      "C",
+      "R",
+      "E",
+      "A",
+      "M",
+      "W",
+      "L"
+    ],
+    [
+      "R",
+      "E",
+      "O",
+      "Y",
+      "G",
+      "R",
+      "E",
+      "E",
+      "N",
+      "A"
+    ],
+    [
+      "S",
+      "N",
+      "R",
+      "O",
+      "L",
+      "H",
+      "Y",
+      "O",
+      "S",
+      "M"
+    ],
+    [
+      "B",
+      "L",
+      "A",
+      "V",
+      "E",
+      "N",
+      "D",
+      "E",
+      "R",
+      "B"
+    ],
+    [
+      "T",
+      "E",
+      "N",
+      "X",
+      "P",
+      "X",
+      "S",
+      "D",
+      "E",
+      "E"
+    ],
+    [
+      "G",
+      "A",
+      "G",
+      "R",
+      "N",
+      "L",
+      "T",
+      "N",
+      "K",
+      "R"
+    ],
+    [
+      "S",
+      "F",
+      "E",
+      "T",
+      "K",
+      "I",
+      "U",
+      "C",
+      "D",
+      "T"
+    ],
+    [
+      "K",
+      "Q",
+      "M",
+      "L",
+      "S",
+      "I",
+      "L",
+      "V",
+      "E",
+      "R"
+    ],
+    [
+      "Y",
+      "Z",
+      "I",
+      "M",
+      "R",
+      "W",
+      "H",
+      "I",
+      "T",
+      "E"
+    ],
+    [
+      "E",
+      "H",
+      "A",
+      "H",
+      "M",
+      "A",
+      "R",
+      "O",
+      "O",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "LAVENDER",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "ORANGE",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "MAROON",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SILVER",
+      "row": 7,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CREAM",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "GREEN",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "AMBER",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "WHITE",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "LEAF",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SKY",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9236
+}

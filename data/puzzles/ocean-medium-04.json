@@ -1,0 +1,284 @@
+{
+  "id": "ocean-medium-04",
+  "slug": "ocean-medium-04",
+  "themeId": "ocean",
+  "title": "Ocean: Kelp Forest",
+  "primaryKeyword": "ocean word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ANEMONE",
+    "CORAL",
+    "CURRENT",
+    "DEPTH",
+    "FISH",
+    "FOREST",
+    "KELP",
+    "LIGHT",
+    "OTTER",
+    "REEF",
+    "SCHOOL",
+    "SHADOW",
+    "STARFISH",
+    "URCHIN"
+  ],
+  "grid": [
+    [
+      "U",
+      "J",
+      "P",
+      "A",
+      "A",
+      "K",
+      "E",
+      "L",
+      "P",
+      "Y",
+      "S",
+      "L"
+    ],
+    [
+      "K",
+      "O",
+      "F",
+      "N",
+      "X",
+      "C",
+      "E",
+      "K",
+      "Y",
+      "N",
+      "H",
+      "I"
+    ],
+    [
+      "P",
+      "Z",
+      "Q",
+      "E",
+      "E",
+      "K",
+      "U",
+      "A",
+      "Y",
+      "W",
+      "A",
+      "G"
+    ],
+    [
+      "I",
+      "Y",
+      "K",
+      "M",
+      "V",
+      "K",
+      "K",
+      "R",
+      "H",
+      "O",
+      "D",
+      "H"
+    ],
+    [
+      "S",
+      "C",
+      "H",
+      "O",
+      "O",
+      "L",
+      "R",
+      "J",
+      "R",
+      "X",
+      "O",
+      "T"
+    ],
+    [
+      "C",
+      "H",
+      "P",
+      "N",
+      "T",
+      "E",
+      "F",
+      "G",
+      "F",
+      "E",
+      "W",
+      "O"
+    ],
+    [
+      "O",
+      "Y",
+      "T",
+      "E",
+      "T",
+      "F",
+      "A",
+      "Z",
+      "F",
+      "G",
+      "N",
+      "T"
+    ],
+    [
+      "R",
+      "C",
+      "N",
+      "T",
+      "E",
+      "U",
+      "R",
+      "C",
+      "H",
+      "I",
+      "N",
+      "T"
+    ],
+    [
+      "A",
+      "C",
+      "O",
+      "E",
+      "P",
+      "Z",
+      "T",
+      "L",
+      "B",
+      "W",
+      "S",
+      "S"
+    ],
+    [
+      "L",
+      "A",
+      "R",
+      "C",
+      "F",
+      "O",
+      "R",
+      "E",
+      "S",
+      "T",
+      "W",
+      "H"
+    ],
+    [
+      "N",
+      "R",
+      "S",
+      "T",
+      "A",
+      "R",
+      "F",
+      "I",
+      "S",
+      "H",
+      "R",
+      "H"
+    ],
+    [
+      "I",
+      "K",
+      "D",
+      "E",
+      "P",
+      "T",
+      "H",
+      "R",
+      "R",
+      "C",
+      "E",
+      "C"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "STARFISH",
+      "row": 10,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ANEMONE",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "CURRENT",
+      "row": 1,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "FOREST",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "URCHIN",
+      "row": 7,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SCHOOL",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SHADOW",
+      "row": 0,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "OTTER",
+      "row": 8,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "LIGHT",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "DEPTH",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CORAL",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "KELP",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "FISH",
+      "row": 6,
+      "col": 8,
+      "direction": "SE"
+    },
+    {
+      "word": "REEF",
+      "row": 9,
+      "col": 2,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2432
+}

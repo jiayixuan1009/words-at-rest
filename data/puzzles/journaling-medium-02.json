@@ -1,0 +1,284 @@
+{
+  "id": "journaling-medium-02",
+  "slug": "journaling-medium-02",
+  "themeId": "journaling",
+  "title": "Journaling: Desk Habit",
+  "primaryKeyword": "journaling word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BEGIN",
+    "CLARITY",
+    "DOODLE",
+    "FILLED",
+    "FOCUS",
+    "GENTLE",
+    "HONEST",
+    "PAPER",
+    "PROMPT",
+    "RETURN",
+    "SCRIPT",
+    "SKETCH",
+    "THEME",
+    "WARM"
+  ],
+  "grid": [
+    [
+      "J",
+      "P",
+      "N",
+      "I",
+      "Y",
+      "D",
+      "O",
+      "O",
+      "D",
+      "L",
+      "E",
+      "P"
+    ],
+    [
+      "J",
+      "Y",
+      "R",
+      "E",
+      "F",
+      "O",
+      "C",
+      "U",
+      "S",
+      "Y",
+      "J",
+      "A"
+    ],
+    [
+      "X",
+      "E",
+      "T",
+      "O",
+      "P",
+      "U",
+      "M",
+      "F",
+      "C",
+      "J",
+      "V",
+      "P"
+    ],
+    [
+      "S",
+      "A",
+      "M",
+      "H",
+      "M",
+      "Q",
+      "L",
+      "G",
+      "C",
+      "W",
+      "I",
+      "E"
+    ],
+    [
+      "C",
+      "Z",
+      "R",
+      "X",
+      "E",
+      "P",
+      "B",
+      "E",
+      "L",
+      "A",
+      "I",
+      "R"
+    ],
+    [
+      "R",
+      "Y",
+      "O",
+      "E",
+      "N",
+      "M",
+      "T",
+      "N",
+      "A",
+      "R",
+      "O",
+      "S"
+    ],
+    [
+      "I",
+      "P",
+      "S",
+      "I",
+      "T",
+      "D",
+      "E",
+      "T",
+      "R",
+      "M",
+      "Q",
+      "K"
+    ],
+    [
+      "P",
+      "T",
+      "G",
+      "M",
+      "E",
+      "U",
+      "Q",
+      "L",
+      "I",
+      "R",
+      "U",
+      "E"
+    ],
+    [
+      "T",
+      "E",
+      "V",
+      "L",
+      "B",
+      "Y",
+      "R",
+      "E",
+      "T",
+      "G",
+      "Y",
+      "T"
+    ],
+    [
+      "B",
+      "P",
+      "L",
+      "R",
+      "B",
+      "O",
+      "N",
+      "N",
+      "Y",
+      "X",
+      "Z",
+      "C"
+    ],
+    [
+      "I",
+      "I",
+      "Y",
+      "N",
+      "M",
+      "L",
+      "B",
+      "S",
+      "I",
+      "G",
+      "Q",
+      "H"
+    ],
+    [
+      "F",
+      "C",
+      "F",
+      "A",
+      "H",
+      "O",
+      "N",
+      "E",
+      "S",
+      "T",
+      "J",
+      "J"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CLARITY",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "FILLED",
+      "row": 11,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "SKETCH",
+      "row": 5,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "DOODLE",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "PROMPT",
+      "row": 0,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "HONEST",
+      "row": 11,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "GENTLE",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "RETURN",
+      "row": 4,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "SCRIPT",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "PAPER",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "THEME",
+      "row": 2,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "FOCUS",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BEGIN",
+      "row": 9,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "WARM",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9034
+}

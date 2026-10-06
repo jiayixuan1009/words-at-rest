@@ -1,0 +1,208 @@
+{
+  "id": "airplanes-easy-03",
+  "slug": "airplanes-easy-03",
+  "themeId": "airplanes",
+  "title": "Airplanes: Soft Path",
+  "primaryKeyword": "airplanes word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ARRIVE",
+    "ATTENDANT",
+    "DOOR",
+    "LUGGAGE",
+    "PLANE",
+    "PROPELLER",
+    "RADIO",
+    "SEAT",
+    "TURBULENCE",
+    "WING"
+  ],
+  "grid": [
+    [
+      "V",
+      "P",
+      "R",
+      "O",
+      "P",
+      "E",
+      "L",
+      "L",
+      "E",
+      "R"
+    ],
+    [
+      "O",
+      "D",
+      "R",
+      "A",
+      "D",
+      "I",
+      "O",
+      "I",
+      "I",
+      "E"
+    ],
+    [
+      "W",
+      "I",
+      "N",
+      "G",
+      "D",
+      "O",
+      "O",
+      "R",
+      "F",
+      "A"
+    ],
+    [
+      "T",
+      "A",
+      "T",
+      "T",
+      "E",
+      "N",
+      "D",
+      "A",
+      "N",
+      "T"
+    ],
+    [
+      "K",
+      "P",
+      "L",
+      "A",
+      "N",
+      "E",
+      "S",
+      "H",
+      "X",
+      "N"
+    ],
+    [
+      "X",
+      "W",
+      "J",
+      "K",
+      "U",
+      "B",
+      "W",
+      "Y",
+      "T",
+      "S"
+    ],
+    [
+      "T",
+      "U",
+      "R",
+      "B",
+      "U",
+      "L",
+      "E",
+      "N",
+      "C",
+      "E"
+    ],
+    [
+      "L",
+      "U",
+      "G",
+      "G",
+      "A",
+      "G",
+      "E",
+      "C",
+      "V",
+      "A"
+    ],
+    [
+      "O",
+      "Q",
+      "E",
+      "A",
+      "N",
+      "L",
+      "Q",
+      "B",
+      "P",
+      "T"
+    ],
+    [
+      "X",
+      "Y",
+      "A",
+      "R",
+      "R",
+      "I",
+      "V",
+      "E",
+      "D",
+      "H"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TURBULENCE",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "ATTENDANT",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PROPELLER",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "LUGGAGE",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "ARRIVE",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "RADIO",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PLANE",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "WING",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "DOOR",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SEAT",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9200
+}

@@ -1,0 +1,284 @@
+{
+  "id": "flowers-medium-03",
+  "slug": "flowers-medium-03",
+  "themeId": "flowers",
+  "title": "Flowers: Harbor Light",
+  "primaryKeyword": "flowers word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ASTER",
+    "AZALEA",
+    "BLOOM",
+    "BUD",
+    "BUTTERFLY",
+    "CAMELLIA",
+    "CUT",
+    "DAHLIA",
+    "DAISY",
+    "GARDEN",
+    "HYACINTH",
+    "JASMINE",
+    "LILAC",
+    "PEONY"
+  ],
+  "grid": [
+    [
+      "D",
+      "C",
+      "A",
+      "M",
+      "A",
+      "A",
+      "W",
+      "V",
+      "N",
+      "Q",
+      "X",
+      "H"
+    ],
+    [
+      "G",
+      "A",
+      "A",
+      "S",
+      "C",
+      "E",
+      "P",
+      "E",
+      "O",
+      "N",
+      "Y",
+      "U"
+    ],
+    [
+      "B",
+      "Z",
+      "H",
+      "M",
+      "T",
+      "U",
+      "C",
+      "L",
+      "N",
+      "W",
+      "Y",
+      "B"
+    ],
+    [
+      "U",
+      "R",
+      "J",
+      "L",
+      "E",
+      "E",
+      "T",
+      "V",
+      "B",
+      "S",
+      "O",
+      "B"
+    ],
+    [
+      "T",
+      "B",
+      "A",
+      "H",
+      "I",
+      "L",
+      "R",
+      "C",
+      "I",
+      "Z",
+      "N",
+      "L"
+    ],
+    [
+      "T",
+      "U",
+      "S",
+      "P",
+      "Q",
+      "A",
+      "L",
+      "A",
+      "R",
+      "E",
+      "L",
+      "O"
+    ],
+    [
+      "E",
+      "D",
+      "M",
+      "S",
+      "J",
+      "R",
+      "D",
+      "I",
+      "D",
+      "K",
+      "I",
+      "O"
+    ],
+    [
+      "R",
+      "O",
+      "I",
+      "D",
+      "U",
+      "B",
+      "U",
+      "R",
+      "A",
+      "Q",
+      "L",
+      "M"
+    ],
+    [
+      "F",
+      "J",
+      "N",
+      "B",
+      "V",
+      "Z",
+      "A",
+      "C",
+      "B",
+      "F",
+      "A",
+      "F"
+    ],
+    [
+      "L",
+      "U",
+      "E",
+      "X",
+      "E",
+      "G",
+      "T",
+      "W",
+      "V",
+      "X",
+      "C",
+      "K"
+    ],
+    [
+      "Y",
+      "X",
+      "H",
+      "Y",
+      "A",
+      "C",
+      "I",
+      "N",
+      "T",
+      "H",
+      "T",
+      "U"
+    ],
+    [
+      "F",
+      "K",
+      "F",
+      "Q",
+      "W",
+      "A",
+      "Z",
+      "A",
+      "L",
+      "E",
+      "A",
+      "Z"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BUTTERFLY",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CAMELLIA",
+      "row": 0,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "HYACINTH",
+      "row": 10,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "JASMINE",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "DAHLIA",
+      "row": 0,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "GARDEN",
+      "row": 9,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "AZALEA",
+      "row": 11,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "ASTER",
+      "row": 0,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "PEONY",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "BLOOM",
+      "row": 3,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "DAISY",
+      "row": 6,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "LILAC",
+      "row": 5,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "CUT",
+      "row": 1,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "BUD",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9263
+}

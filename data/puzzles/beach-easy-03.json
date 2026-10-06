@@ -1,0 +1,208 @@
+{
+  "id": "beach-easy-03",
+  "slug": "beach-easy-03",
+  "themeId": "beach",
+  "title": "Beach: Tide Line",
+  "primaryKeyword": "beach word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CRAB",
+    "FOAM",
+    "GULL",
+    "HAT",
+    "LINE",
+    "SAND",
+    "SHELL",
+    "TIDE",
+    "TOWEL",
+    "WARM"
+  ],
+  "grid": [
+    [
+      "L",
+      "I",
+      "N",
+      "E",
+      "W",
+      "A",
+      "R",
+      "M",
+      "L",
+      "I"
+    ],
+    [
+      "S",
+      "L",
+      "R",
+      "Y",
+      "I",
+      "S",
+      "Y",
+      "G",
+      "G",
+      "K"
+    ],
+    [
+      "S",
+      "A",
+      "N",
+      "D",
+      "O",
+      "A",
+      "H",
+      "I",
+      "U",
+      "A"
+    ],
+    [
+      "A",
+      "F",
+      "L",
+      "T",
+      "T",
+      "I",
+      "D",
+      "E",
+      "L",
+      "T"
+    ],
+    [
+      "D",
+      "Z",
+      "T",
+      "F",
+      "O",
+      "A",
+      "M",
+      "O",
+      "L",
+      "O"
+    ],
+    [
+      "T",
+      "D",
+      "H",
+      "C",
+      "S",
+      "L",
+      "A",
+      "Z",
+      "W",
+      "W"
+    ],
+    [
+      "W",
+      "Z",
+      "T",
+      "Z",
+      "H",
+      "C",
+      "R",
+      "A",
+      "B",
+      "E"
+    ],
+    [
+      "K",
+      "Z",
+      "J",
+      "E",
+      "E",
+      "B",
+      "K",
+      "U",
+      "Y",
+      "L"
+    ],
+    [
+      "H",
+      "E",
+      "J",
+      "Y",
+      "L",
+      "H",
+      "A",
+      "T",
+      "D",
+      "V"
+    ],
+    [
+      "T",
+      "Z",
+      "O",
+      "E",
+      "L",
+      "T",
+      "P",
+      "X",
+      "Y",
+      "D"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SHELL",
+      "row": 5,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "TOWEL",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "TIDE",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "LINE",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CRAB",
+      "row": 6,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "GULL",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "FOAM",
+      "row": 4,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "WARM",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SAND",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "HAT",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 3211
+}

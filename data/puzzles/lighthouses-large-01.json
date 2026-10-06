@@ -1,0 +1,173 @@
+{
+  "id": "lighthouses-large-01",
+  "slug": "lighthouses-large-01",
+  "themeId": "lighthouses",
+  "title": "Large Print Lighthouses: Soft Beam",
+  "primaryKeyword": "large print lighthouses word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BEAM",
+    "FOG",
+    "LAMP",
+    "LIGHT",
+    "ROCK",
+    "SHORE",
+    "TOWER",
+    "WAVE"
+  ],
+  "grid": [
+    [
+      "S",
+      "S",
+      "L",
+      "T",
+      "L",
+      "W",
+      "A",
+      "V",
+      "E"
+    ],
+    [
+      "H",
+      "Z",
+      "I",
+      "O",
+      "A",
+      "R",
+      "P",
+      "U",
+      "M"
+    ],
+    [
+      "O",
+      "O",
+      "G",
+      "W",
+      "M",
+      "O",
+      "S",
+      "H",
+      "N"
+    ],
+    [
+      "R",
+      "D",
+      "H",
+      "E",
+      "P",
+      "C",
+      "T",
+      "H",
+      "P"
+    ],
+    [
+      "E",
+      "U",
+      "T",
+      "R",
+      "S",
+      "K",
+      "L",
+      "M",
+      "U"
+    ],
+    [
+      "G",
+      "T",
+      "S",
+      "D",
+      "I",
+      "W",
+      "B",
+      "J",
+      "L"
+    ],
+    [
+      "G",
+      "P",
+      "E",
+      "B",
+      "O",
+      "K",
+      "B",
+      "H",
+      "M"
+    ],
+    [
+      "N",
+      "Q",
+      "B",
+      "E",
+      "A",
+      "M",
+      "F",
+      "O",
+      "G"
+    ],
+    [
+      "L",
+      "E",
+      "B",
+      "L",
+      "J",
+      "E",
+      "D",
+      "L",
+      "Q"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "LIGHT",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "TOWER",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "SHORE",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "LAMP",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "BEAM",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ROCK",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "WAVE",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "FOG",
+      "row": 7,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9026
+}

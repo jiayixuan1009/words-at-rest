@@ -1,0 +1,284 @@
+{
+  "id": "mothers-day-medium-03",
+  "slug": "mothers-day-medium-03",
+  "themeId": "mothers-day",
+  "title": "Mother's Day: Warm Corner",
+  "primaryKeyword": "mothers day word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ADMIRE",
+    "CARD",
+    "FLOWER",
+    "HOME",
+    "MAMA",
+    "MEMORY",
+    "MOM",
+    "MOTHER",
+    "POEM",
+    "RESPECT",
+    "RIBBON",
+    "SHARE",
+    "STORY",
+    "SUNDAY"
+  ],
+  "grid": [
+    [
+      "O",
+      "X",
+      "A",
+      "U",
+      "L",
+      "N",
+      "C",
+      "U",
+      "T",
+      "B",
+      "M",
+      "M"
+    ],
+    [
+      "X",
+      "C",
+      "R",
+      "K",
+      "V",
+      "N",
+      "C",
+      "C",
+      "I",
+      "E",
+      "O",
+      "E"
+    ],
+    [
+      "Z",
+      "H",
+      "E",
+      "Z",
+      "O",
+      "N",
+      "E",
+      "A",
+      "R",
+      "S",
+      "T",
+      "M"
+    ],
+    [
+      "M",
+      "S",
+      "P",
+      "B",
+      "R",
+      "P",
+      "N",
+      "I",
+      "R",
+      "P",
+      "H",
+      "O"
+    ],
+    [
+      "H",
+      "A",
+      "B",
+      "O",
+      "S",
+      "L",
+      "M",
+      "T",
+      "R",
+      "D",
+      "E",
+      "R"
+    ],
+    [
+      "C",
+      "I",
+      "M",
+      "E",
+      "E",
+      "D",
+      "T",
+      "S",
+      "T",
+      "O",
+      "R",
+      "Y"
+    ],
+    [
+      "R",
+      "N",
+      "R",
+      "A",
+      "A",
+      "M",
+      "X",
+      "T",
+      "H",
+      "I",
+      "L",
+      "S"
+    ],
+    [
+      "V",
+      "D",
+      "Q",
+      "Y",
+      "R",
+      "G",
+      "L",
+      "A",
+      "V",
+      "E",
+      "I",
+      "U"
+    ],
+    [
+      "I",
+      "T",
+      "O",
+      "P",
+      "S",
+      "H",
+      "O",
+      "M",
+      "E",
+      "F",
+      "W",
+      "N"
+    ],
+    [
+      "F",
+      "O",
+      "P",
+      "B",
+      "P",
+      "J",
+      "D",
+      "K",
+      "N",
+      "W",
+      "C",
+      "D"
+    ],
+    [
+      "M",
+      "O",
+      "M",
+      "F",
+      "L",
+      "O",
+      "W",
+      "E",
+      "R",
+      "C",
+      "N",
+      "A"
+    ],
+    [
+      "P",
+      "Z",
+      "C",
+      "S",
+      "H",
+      "A",
+      "R",
+      "E",
+      "F",
+      "T",
+      "M",
+      "Y"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "RESPECT",
+      "row": 6,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "MEMORY",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "ADMIRE",
+      "row": 6,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "SUNDAY",
+      "row": 6,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "RIBBON",
+      "row": 6,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "FLOWER",
+      "row": 10,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "MOTHER",
+      "row": 0,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "SHARE",
+      "row": 11,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "STORY",
+      "row": 5,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "MAMA",
+      "row": 3,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "HOME",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "CARD",
+      "row": 1,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "POEM",
+      "row": 3,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "MOM",
+      "row": 10,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9313
+}

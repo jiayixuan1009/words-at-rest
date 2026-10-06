@@ -1,0 +1,173 @@
+{
+  "id": "large-print-pack-large-11",
+  "slug": "large-print-pack-large-11",
+  "themeId": "large-print-pack",
+  "title": "Large Print Word Search: Star Night",
+  "primaryKeyword": "large print large print word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "CALM",
+    "DARK",
+    "MOON",
+    "NIGHT",
+    "REST",
+    "SKY",
+    "SOFT",
+    "STAR"
+  ],
+  "grid": [
+    [
+      "R",
+      "E",
+      "S",
+      "T",
+      "W",
+      "K",
+      "R",
+      "C",
+      "L"
+    ],
+    [
+      "M",
+      "L",
+      "P",
+      "I",
+      "S",
+      "W",
+      "F",
+      "A",
+      "D"
+    ],
+    [
+      "O",
+      "U",
+      "U",
+      "X",
+      "O",
+      "J",
+      "Q",
+      "L",
+      "A"
+    ],
+    [
+      "O",
+      "Y",
+      "O",
+      "D",
+      "F",
+      "S",
+      "T",
+      "M",
+      "R"
+    ],
+    [
+      "N",
+      "M",
+      "S",
+      "Z",
+      "T",
+      "A",
+      "E",
+      "N",
+      "K"
+    ],
+    [
+      "A",
+      "X",
+      "S",
+      "T",
+      "A",
+      "R",
+      "N",
+      "I",
+      "K"
+    ],
+    [
+      "Q",
+      "S",
+      "N",
+      "J",
+      "S",
+      "K",
+      "P",
+      "G",
+      "O"
+    ],
+    [
+      "F",
+      "K",
+      "C",
+      "W",
+      "K",
+      "L",
+      "U",
+      "H",
+      "W"
+    ],
+    [
+      "M",
+      "Y",
+      "A",
+      "A",
+      "P",
+      "L",
+      "F",
+      "T",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "NIGHT",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "STAR",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "MOON",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CALM",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "REST",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "DARK",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "SOFT",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "SKY",
+      "row": 6,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 3023
+}

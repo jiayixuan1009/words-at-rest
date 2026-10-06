@@ -1,0 +1,208 @@
+{
+  "id": "apothecary-easy-01",
+  "slug": "apothecary-easy-01",
+  "themeId": "apothecary",
+  "title": "Apothecary: Jar Shelf",
+  "primaryKeyword": "apothecary word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BELL",
+    "CORK",
+    "HERB",
+    "JAR",
+    "LEAF",
+    "OIL",
+    "ROOT",
+    "SHELF",
+    "SOFT",
+    "TEA"
+  ],
+  "grid": [
+    [
+      "D",
+      "O",
+      "I",
+      "H",
+      "E",
+      "R",
+      "B",
+      "F",
+      "O",
+      "C"
+    ],
+    [
+      "S",
+      "I",
+      "H",
+      "M",
+      "D",
+      "R",
+      "O",
+      "S",
+      "D",
+      "O"
+    ],
+    [
+      "H",
+      "L",
+      "L",
+      "U",
+      "S",
+      "O",
+      "F",
+      "T",
+      "U",
+      "R"
+    ],
+    [
+      "E",
+      "C",
+      "T",
+      "W",
+      "Z",
+      "O",
+      "T",
+      "B",
+      "B",
+      "K"
+    ],
+    [
+      "L",
+      "C",
+      "E",
+      "W",
+      "T",
+      "T",
+      "U",
+      "E",
+      "B",
+      "Y"
+    ],
+    [
+      "F",
+      "L",
+      "A",
+      "G",
+      "T",
+      "G",
+      "H",
+      "L",
+      "V",
+      "U"
+    ],
+    [
+      "R",
+      "E",
+      "X",
+      "J",
+      "A",
+      "R",
+      "V",
+      "L",
+      "N",
+      "C"
+    ],
+    [
+      "W",
+      "A",
+      "G",
+      "E",
+      "Q",
+      "R",
+      "A",
+      "C",
+      "T",
+      "Z"
+    ],
+    [
+      "F",
+      "F",
+      "A",
+      "E",
+      "X",
+      "G",
+      "F",
+      "A",
+      "C",
+      "W"
+    ],
+    [
+      "I",
+      "T",
+      "T",
+      "Q",
+      "T",
+      "I",
+      "S",
+      "G",
+      "J",
+      "P"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SHELF",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "HERB",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "LEAF",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "ROOT",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "CORK",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "BELL",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SOFT",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "JAR",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "OIL",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "TEA",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9041
+}

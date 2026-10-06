@@ -1,0 +1,284 @@
+{
+  "id": "gardening-tools-medium-03",
+  "slug": "gardening-tools-medium-03",
+  "themeId": "gardening-tools",
+  "title": "Gardening Tools: Harbor Light",
+  "primaryKeyword": "gardening tools word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "APRON",
+    "CAN",
+    "CRAFT",
+    "FORK",
+    "GLOVE",
+    "HAND",
+    "HOOK",
+    "HOSE",
+    "KNIFE",
+    "SHARPEN",
+    "STAKE",
+    "STONE",
+    "STORE",
+    "TWINE"
+  ],
+  "grid": [
+    [
+      "P",
+      "R",
+      "B",
+      "S",
+      "G",
+      "S",
+      "Q",
+      "R",
+      "R",
+      "K",
+      "S",
+      "N"
+    ],
+    [
+      "K",
+      "J",
+      "H",
+      "O",
+      "S",
+      "E",
+      "M",
+      "P",
+      "Z",
+      "F",
+      "A",
+      "Q"
+    ],
+    [
+      "R",
+      "L",
+      "S",
+      "T",
+      "C",
+      "R",
+      "Q",
+      "C",
+      "A",
+      "N",
+      "K",
+      "K"
+    ],
+    [
+      "R",
+      "Q",
+      "H",
+      "T",
+      "W",
+      "I",
+      "N",
+      "E",
+      "U",
+      "E",
+      "M",
+      "N"
+    ],
+    [
+      "D",
+      "P",
+      "A",
+      "B",
+      "C",
+      "B",
+      "C",
+      "R",
+      "A",
+      "F",
+      "T",
+      "I"
+    ],
+    [
+      "T",
+      "X",
+      "R",
+      "V",
+      "S",
+      "T",
+      "A",
+      "K",
+      "E",
+      "B",
+      "H",
+      "F"
+    ],
+    [
+      "S",
+      "I",
+      "P",
+      "G",
+      "H",
+      "H",
+      "W",
+      "U",
+      "B",
+      "A",
+      "J",
+      "E"
+    ],
+    [
+      "T",
+      "S",
+      "E",
+      "J",
+      "X",
+      "A",
+      "M",
+      "B",
+      "Z",
+      "P",
+      "A",
+      "M"
+    ],
+    [
+      "O",
+      "Z",
+      "N",
+      "F",
+      "Z",
+      "N",
+      "S",
+      "T",
+      "O",
+      "R",
+      "E",
+      "Q"
+    ],
+    [
+      "N",
+      "H",
+      "O",
+      "O",
+      "K",
+      "D",
+      "O",
+      "T",
+      "E",
+      "O",
+      "O",
+      "K"
+    ],
+    [
+      "E",
+      "O",
+      "Q",
+      "R",
+      "G",
+      "L",
+      "O",
+      "V",
+      "E",
+      "N",
+      "N",
+      "Y"
+    ],
+    [
+      "G",
+      "H",
+      "X",
+      "K",
+      "Z",
+      "R",
+      "N",
+      "N",
+      "A",
+      "I",
+      "N",
+      "J"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SHARPEN",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "APRON",
+      "row": 6,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "GLOVE",
+      "row": 10,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "STAKE",
+      "row": 5,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CRAFT",
+      "row": 4,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "TWINE",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "STONE",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "KNIFE",
+      "row": 2,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "STORE",
+      "row": 8,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "HOOK",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "HOSE",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "FORK",
+      "row": 8,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "HAND",
+      "row": 6,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "CAN",
+      "row": 2,
+      "col": 7,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9271
+}

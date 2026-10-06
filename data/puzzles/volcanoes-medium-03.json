@@ -1,0 +1,284 @@
+{
+  "id": "volcanoes-medium-03",
+  "slug": "volcanoes-medium-03",
+  "themeId": "volcanoes",
+  "title": "Volcanoes: Side Shelf",
+  "primaryKeyword": "volcanoes word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CORE",
+    "CRYSTAL",
+    "FLOW",
+    "GEOLOGY",
+    "HOT",
+    "LAPILLI",
+    "MINERAL",
+    "OBSIDIAN",
+    "PLUME",
+    "PRESSURE",
+    "RING",
+    "SILL",
+    "VENT",
+    "VOLCANO"
+  ],
+  "grid": [
+    [
+      "S",
+      "R",
+      "I",
+      "N",
+      "G",
+      "W",
+      "T",
+      "Q",
+      "T",
+      "B",
+      "F",
+      "G"
+    ],
+    [
+      "L",
+      "V",
+      "O",
+      "L",
+      "C",
+      "A",
+      "N",
+      "O",
+      "E",
+      "Q",
+      "J",
+      "L"
+    ],
+    [
+      "F",
+      "O",
+      "A",
+      "F",
+      "T",
+      "T",
+      "H",
+      "H",
+      "G",
+      "T",
+      "C",
+      "G"
+    ],
+    [
+      "S",
+      "B",
+      "B",
+      "U",
+      "C",
+      "O",
+      "R",
+      "E",
+      "E",
+      "F",
+      "R",
+      "H"
+    ],
+    [
+      "P",
+      "S",
+      "L",
+      "V",
+      "C",
+      "L",
+      "S",
+      "H",
+      "O",
+      "L",
+      "Y",
+      "G"
+    ],
+    [
+      "R",
+      "I",
+      "M",
+      "A",
+      "W",
+      "F",
+      "X",
+      "B",
+      "L",
+      "M",
+      "S",
+      "W"
+    ],
+    [
+      "E",
+      "D",
+      "E",
+      "I",
+      "P",
+      "H",
+      "P",
+      "I",
+      "O",
+      "E",
+      "T",
+      "I"
+    ],
+    [
+      "S",
+      "I",
+      "H",
+      "L",
+      "N",
+      "I",
+      "S",
+      "Y",
+      "G",
+      "P",
+      "A",
+      "B"
+    ],
+    [
+      "S",
+      "A",
+      "Z",
+      "P",
+      "P",
+      "E",
+      "L",
+      "Z",
+      "Y",
+      "L",
+      "L",
+      "V"
+    ],
+    [
+      "U",
+      "N",
+      "V",
+      "K",
+      "K",
+      "H",
+      "R",
+      "L",
+      "A",
+      "U",
+      "F",
+      "E"
+    ],
+    [
+      "R",
+      "U",
+      "F",
+      "W",
+      "J",
+      "S",
+      "V",
+      "A",
+      "I",
+      "M",
+      "N",
+      "N"
+    ],
+    [
+      "E",
+      "F",
+      "L",
+      "O",
+      "W",
+      "L",
+      "G",
+      "N",
+      "L",
+      "E",
+      "J",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "OBSIDIAN",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "PRESSURE",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "GEOLOGY",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "LAPILLI",
+      "row": 4,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "CRYSTAL",
+      "row": 2,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "MINERAL",
+      "row": 5,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "VOLCANO",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PLUME",
+      "row": 7,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "CORE",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "RING",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "FLOW",
+      "row": 11,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SILL",
+      "row": 7,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "VENT",
+      "row": 8,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "HOT",
+      "row": 2,
+      "col": 6,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9359
+}

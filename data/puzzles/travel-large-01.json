@@ -1,0 +1,173 @@
+{
+  "id": "travel-large-01",
+  "slug": "travel-large-01",
+  "themeId": "travel",
+  "title": "Large Print Travel: Soft Map",
+  "primaryKeyword": "large print travel word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BAG",
+    "GATE",
+    "HOTEL",
+    "INN",
+    "MAP",
+    "PASS",
+    "TRAIN",
+    "TRIP"
+  ],
+  "grid": [
+    [
+      "M",
+      "A",
+      "P",
+      "W",
+      "T",
+      "R",
+      "I",
+      "P",
+      "B"
+    ],
+    [
+      "G",
+      "F",
+      "Y",
+      "R",
+      "T",
+      "K",
+      "S",
+      "Q",
+      "G"
+    ],
+    [
+      "D",
+      "A",
+      "E",
+      "U",
+      "U",
+      "W",
+      "V",
+      "X",
+      "Q"
+    ],
+    [
+      "T",
+      "R",
+      "A",
+      "I",
+      "N",
+      "U",
+      "S",
+      "B",
+      "Y"
+    ],
+    [
+      "S",
+      "J",
+      "D",
+      "K",
+      "A",
+      "P",
+      "B",
+      "A",
+      "M"
+    ],
+    [
+      "U",
+      "P",
+      "H",
+      "O",
+      "T",
+      "E",
+      "L",
+      "G",
+      "Y"
+    ],
+    [
+      "P",
+      "B",
+      "Q",
+      "G",
+      "A",
+      "T",
+      "E",
+      "I",
+      "Y"
+    ],
+    [
+      "H",
+      "S",
+      "I",
+      "L",
+      "A",
+      "R",
+      "W",
+      "L",
+      "I"
+    ],
+    [
+      "P",
+      "A",
+      "S",
+      "S",
+      "I",
+      "N",
+      "N",
+      "H",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TRAIN",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "HOTEL",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "TRIP",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "PASS",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "GATE",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "MAP",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BAG",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "INN",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2514
+}

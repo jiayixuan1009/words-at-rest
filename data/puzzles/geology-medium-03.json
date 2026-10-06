@@ -1,0 +1,284 @@
+{
+  "id": "geology-medium-03",
+  "slug": "geology-medium-03",
+  "themeId": "geology",
+  "title": "Geology: Harbor Light",
+  "primaryKeyword": "geology word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BOULDER",
+    "CANYON",
+    "CRUST",
+    "EROSION",
+    "FOSSIL",
+    "GEOLOGY",
+    "GLACIER",
+    "MAGMA",
+    "MANTLE",
+    "OUTCROP",
+    "SOIL",
+    "STONE",
+    "STRATA",
+    "SURVEY"
+  ],
+  "grid": [
+    [
+      "S",
+      "O",
+      "E",
+      "X",
+      "W",
+      "U",
+      "C",
+      "R",
+      "U",
+      "S",
+      "T",
+      "F"
+    ],
+    [
+      "L",
+      "X",
+      "X",
+      "G",
+      "S",
+      "U",
+      "R",
+      "V",
+      "E",
+      "Y",
+      "L",
+      "I"
+    ],
+    [
+      "S",
+      "F",
+      "G",
+      "F",
+      "E",
+      "O",
+      "U",
+      "T",
+      "C",
+      "R",
+      "O",
+      "P"
+    ],
+    [
+      "T",
+      "E",
+      "L",
+      "M",
+      "O",
+      "O",
+      "I",
+      "X",
+      "V",
+      "N",
+      "U",
+      "L"
+    ],
+    [
+      "O",
+      "R",
+      "A",
+      "M",
+      "A",
+      "S",
+      "L",
+      "P",
+      "J",
+      "C",
+      "L",
+      "X"
+    ],
+    [
+      "N",
+      "O",
+      "C",
+      "P",
+      "A",
+      "G",
+      "S",
+      "O",
+      "A",
+      "A",
+      "M",
+      "Y"
+    ],
+    [
+      "E",
+      "S",
+      "I",
+      "Y",
+      "F",
+      "N",
+      "M",
+      "I",
+      "G",
+      "N",
+      "K",
+      "G"
+    ],
+    [
+      "L",
+      "I",
+      "E",
+      "M",
+      "D",
+      "O",
+      "T",
+      "A",
+      "L",
+      "Y",
+      "X",
+      "P"
+    ],
+    [
+      "H",
+      "O",
+      "R",
+      "P",
+      "P",
+      "M",
+      "U",
+      "L",
+      "Z",
+      "O",
+      "S",
+      "J"
+    ],
+    [
+      "X",
+      "N",
+      "S",
+      "W",
+      "I",
+      "J",
+      "N",
+      "F",
+      "E",
+      "N",
+      "O",
+      "P"
+    ],
+    [
+      "Z",
+      "Q",
+      "B",
+      "O",
+      "U",
+      "L",
+      "D",
+      "E",
+      "R",
+      "U",
+      "I",
+      "G"
+    ],
+    [
+      "M",
+      "B",
+      "M",
+      "S",
+      "T",
+      "R",
+      "A",
+      "T",
+      "A",
+      "N",
+      "L",
+      "F"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "GEOLOGY",
+      "row": 1,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "OUTCROP",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "BOULDER",
+      "row": 10,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "GLACIER",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "EROSION",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "MANTLE",
+      "row": 4,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "CANYON",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SURVEY",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "FOSSIL",
+      "row": 2,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "STRATA",
+      "row": 11,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "STONE",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "MAGMA",
+      "row": 3,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "CRUST",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "SOIL",
+      "row": 8,
+      "col": 10,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9273
+}

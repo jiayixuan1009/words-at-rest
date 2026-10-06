@@ -1,0 +1,284 @@
+{
+  "id": "st-patricks-medium-03",
+  "slug": "st-patricks-medium-03",
+  "themeId": "st-patricks",
+  "title": "St. Patrick's Day: Warm Corner",
+  "primaryKeyword": "st patricks day word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BAGPIPE",
+    "CABBAGE",
+    "CHARM",
+    "CHURCH",
+    "CLOVER",
+    "EMERALD",
+    "HONEY",
+    "IRISH",
+    "POTATO",
+    "SHAMROCK",
+    "STOUT",
+    "THYME",
+    "TINWHISTLE",
+    "VERSE"
+  ],
+  "grid": [
+    [
+      "W",
+      "K",
+      "G",
+      "V",
+      "E",
+      "R",
+      "S",
+      "E",
+      "O",
+      "V",
+      "T",
+      "I"
+    ],
+    [
+      "M",
+      "T",
+      "I",
+      "N",
+      "W",
+      "H",
+      "I",
+      "S",
+      "T",
+      "L",
+      "E",
+      "R"
+    ],
+    [
+      "Z",
+      "S",
+      "D",
+      "G",
+      "W",
+      "S",
+      "C",
+      "P",
+      "H",
+      "Z",
+      "H",
+      "I"
+    ],
+    [
+      "C",
+      "H",
+      "U",
+      "R",
+      "C",
+      "H",
+      "H",
+      "Z",
+      "O",
+      "U",
+      "D",
+      "S"
+    ],
+    [
+      "O",
+      "M",
+      "U",
+      "E",
+      "A",
+      "A",
+      "A",
+      "S",
+      "N",
+      "C",
+      "Y",
+      "H"
+    ],
+    [
+      "C",
+      "R",
+      "E",
+      "M",
+      "Q",
+      "M",
+      "R",
+      "T",
+      "E",
+      "L",
+      "B",
+      "I"
+    ],
+    [
+      "A",
+      "P",
+      "Y",
+      "E",
+      "M",
+      "R",
+      "M",
+      "O",
+      "Y",
+      "O",
+      "A",
+      "O"
+    ],
+    [
+      "B",
+      "O",
+      "T",
+      "R",
+      "T",
+      "O",
+      "Z",
+      "U",
+      "F",
+      "V",
+      "G",
+      "W"
+    ],
+    [
+      "B",
+      "T",
+      "H",
+      "A",
+      "V",
+      "C",
+      "U",
+      "T",
+      "A",
+      "E",
+      "P",
+      "A"
+    ],
+    [
+      "A",
+      "A",
+      "Y",
+      "L",
+      "V",
+      "K",
+      "E",
+      "C",
+      "D",
+      "R",
+      "I",
+      "W"
+    ],
+    [
+      "G",
+      "T",
+      "M",
+      "D",
+      "N",
+      "I",
+      "N",
+      "J",
+      "M",
+      "X",
+      "P",
+      "T"
+    ],
+    [
+      "E",
+      "O",
+      "E",
+      "I",
+      "G",
+      "P",
+      "R",
+      "Y",
+      "Q",
+      "W",
+      "E",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TINWHISTLE",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SHAMROCK",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "BAGPIPE",
+      "row": 5,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "EMERALD",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "CABBAGE",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "POTATO",
+      "row": 6,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "CHURCH",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CLOVER",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "VERSE",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "HONEY",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "IRISH",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "CHARM",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "THYME",
+      "row": 7,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "STOUT",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9343
+}

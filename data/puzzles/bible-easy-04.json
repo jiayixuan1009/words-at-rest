@@ -1,0 +1,208 @@
+{
+  "id": "bible-easy-04",
+  "slug": "bible-easy-04",
+  "themeId": "bible",
+  "title": "Bible: Quiet Psalm Walk",
+  "primaryKeyword": "bible word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "HEART",
+    "LAMP",
+    "LORD",
+    "PATH",
+    "PSALM",
+    "REST",
+    "ROCK",
+    "SHEEP",
+    "SONG",
+    "WORD"
+  ],
+  "grid": [
+    [
+      "W",
+      "S",
+      "V",
+      "W",
+      "L",
+      "O",
+      "R",
+      "D",
+      "W",
+      "K"
+    ],
+    [
+      "Y",
+      "H",
+      "P",
+      "N",
+      "L",
+      "O",
+      "M",
+      "N",
+      "P",
+      "N"
+    ],
+    [
+      "D",
+      "E",
+      "L",
+      "S",
+      "W",
+      "H",
+      "Q",
+      "W",
+      "S",
+      "P"
+    ],
+    [
+      "I",
+      "E",
+      "V",
+      "O",
+      "M",
+      "E",
+      "H",
+      "O",
+      "A",
+      "P"
+    ],
+    [
+      "T",
+      "P",
+      "W",
+      "N",
+      "D",
+      "A",
+      "L",
+      "R",
+      "L",
+      "J"
+    ],
+    [
+      "W",
+      "A",
+      "P",
+      "G",
+      "W",
+      "R",
+      "Z",
+      "D",
+      "M",
+      "L"
+    ],
+    [
+      "R",
+      "Q",
+      "A",
+      "A",
+      "N",
+      "T",
+      "N",
+      "S",
+      "S",
+      "A"
+    ],
+    [
+      "E",
+      "U",
+      "T",
+      "S",
+      "R",
+      "C",
+      "Z",
+      "M",
+      "R",
+      "M"
+    ],
+    [
+      "S",
+      "Z",
+      "H",
+      "O",
+      "A",
+      "P",
+      "M",
+      "Q",
+      "U",
+      "P"
+    ],
+    [
+      "T",
+      "X",
+      "R",
+      "O",
+      "C",
+      "K",
+      "Y",
+      "C",
+      "U",
+      "L"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PSALM",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "HEART",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "SHEEP",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SONG",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "LORD",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "PATH",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "ROCK",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "LAMP",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "WORD",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "REST",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 5011
+}

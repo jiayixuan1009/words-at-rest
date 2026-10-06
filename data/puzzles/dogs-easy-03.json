@@ -1,0 +1,208 @@
+{
+  "id": "dogs-easy-03",
+  "slug": "dogs-easy-03",
+  "themeId": "dogs",
+  "title": "Dogs: Morning Walk",
+  "primaryKeyword": "dogs word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "DAWN",
+    "HOME",
+    "JOG",
+    "NOSE",
+    "PARK",
+    "PATH",
+    "PUP",
+    "SNIFF",
+    "TAIL",
+    "WALK"
+  ],
+  "grid": [
+    [
+      "N",
+      "P",
+      "A",
+      "R",
+      "K",
+      "D",
+      "H",
+      "O",
+      "M",
+      "E"
+    ],
+    [
+      "O",
+      "Q",
+      "A",
+      "Y",
+      "O",
+      "I",
+      "V",
+      "U",
+      "N",
+      "Q"
+    ],
+    [
+      "X",
+      "P",
+      "U",
+      "P",
+      "V",
+      "W",
+      "A",
+      "L",
+      "K",
+      "D"
+    ],
+    [
+      "U",
+      "Z",
+      "J",
+      "F",
+      "Y",
+      "N",
+      "O",
+      "S",
+      "E",
+      "J"
+    ],
+    [
+      "P",
+      "G",
+      "M",
+      "I",
+      "S",
+      "B",
+      "E",
+      "S",
+      "A",
+      "O"
+    ],
+    [
+      "R",
+      "R",
+      "U",
+      "P",
+      "S",
+      "U",
+      "T",
+      "E",
+      "F",
+      "G"
+    ],
+    [
+      "S",
+      "N",
+      "I",
+      "F",
+      "F",
+      "P",
+      "A",
+      "T",
+      "H",
+      "M"
+    ],
+    [
+      "Q",
+      "W",
+      "F",
+      "Z",
+      "O",
+      "Z",
+      "D",
+      "A",
+      "W",
+      "N"
+    ],
+    [
+      "U",
+      "T",
+      "A",
+      "I",
+      "L",
+      "F",
+      "J",
+      "L",
+      "W",
+      "S"
+    ],
+    [
+      "H",
+      "V",
+      "W",
+      "U",
+      "A",
+      "T",
+      "Q",
+      "Y",
+      "E",
+      "P"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SNIFF",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "DAWN",
+      "row": 7,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "WALK",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "PATH",
+      "row": 6,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "PARK",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TAIL",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "NOSE",
+      "row": 3,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "HOME",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "PUP",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "JOG",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2821
+}

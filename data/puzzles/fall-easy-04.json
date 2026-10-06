@@ -1,0 +1,208 @@
+{
+  "id": "fall-easy-04",
+  "slug": "fall-easy-04",
+  "themeId": "fall",
+  "title": "Fall: Wool Blanket",
+  "primaryKeyword": "fall word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BLANKET",
+    "BOOK",
+    "CHAIR",
+    "COCOA",
+    "DUSK",
+    "HOME",
+    "REST",
+    "SOFT",
+    "WARM",
+    "WOOL"
+  ],
+  "grid": [
+    [
+      "B",
+      "O",
+      "B",
+      "E",
+      "X",
+      "F",
+      "C",
+      "B",
+      "J",
+      "Y"
+    ],
+    [
+      "C",
+      "U",
+      "L",
+      "S",
+      "E",
+      "Q",
+      "H",
+      "J",
+      "A",
+      "I"
+    ],
+    [
+      "O",
+      "D",
+      "A",
+      "R",
+      "W",
+      "A",
+      "R",
+      "M",
+      "N",
+      "E"
+    ],
+    [
+      "C",
+      "L",
+      "N",
+      "M",
+      "L",
+      "I",
+      "Q",
+      "U",
+      "P",
+      "U"
+    ],
+    [
+      "O",
+      "H",
+      "K",
+      "L",
+      "Y",
+      "P",
+      "I",
+      "A",
+      "V",
+      "Z"
+    ],
+    [
+      "A",
+      "O",
+      "E",
+      "Z",
+      "C",
+      "S",
+      "B",
+      "J",
+      "Q",
+      "W"
+    ],
+    [
+      "R",
+      "M",
+      "T",
+      "W",
+      "H",
+      "O",
+      "O",
+      "Y",
+      "Q",
+      "O"
+    ],
+    [
+      "R",
+      "E",
+      "S",
+      "T",
+      "A",
+      "F",
+      "O",
+      "Y",
+      "E",
+      "O"
+    ],
+    [
+      "D",
+      "U",
+      "S",
+      "K",
+      "I",
+      "T",
+      "K",
+      "J",
+      "Z",
+      "L"
+    ],
+    [
+      "H",
+      "K",
+      "T",
+      "S",
+      "R",
+      "Z",
+      "P",
+      "Y",
+      "S",
+      "X"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BLANKET",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "COCOA",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CHAIR",
+      "row": 5,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "WOOL",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "BOOK",
+      "row": 5,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "WARM",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SOFT",
+      "row": 5,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "DUSK",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "HOME",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "REST",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 1141
+}

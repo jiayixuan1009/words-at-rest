@@ -1,0 +1,173 @@
+{
+  "id": "travel-large-02",
+  "slug": "travel-large-02",
+  "themeId": "travel",
+  "title": "Large Print Travel: Soft View",
+  "primaryKeyword": "large print travel word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BAG",
+    "DOCK",
+    "HAT",
+    "QUIET",
+    "SHIP",
+    "SUN",
+    "VIEW",
+    "WALK"
+  ],
+  "grid": [
+    [
+      "T",
+      "V",
+      "I",
+      "E",
+      "W",
+      "Z",
+      "Y",
+      "C",
+      "U"
+    ],
+    [
+      "R",
+      "D",
+      "D",
+      "S",
+      "B",
+      "A",
+      "G",
+      "U",
+      "B"
+    ],
+    [
+      "O",
+      "A",
+      "O",
+      "U",
+      "T",
+      "G",
+      "M",
+      "K",
+      "N"
+    ],
+    [
+      "Y",
+      "N",
+      "C",
+      "N",
+      "T",
+      "N",
+      "F",
+      "Z",
+      "R"
+    ],
+    [
+      "G",
+      "Z",
+      "K",
+      "J",
+      "D",
+      "C",
+      "R",
+      "F",
+      "M"
+    ],
+    [
+      "V",
+      "L",
+      "Q",
+      "Q",
+      "H",
+      "B",
+      "T",
+      "D",
+      "S"
+    ],
+    [
+      "W",
+      "A",
+      "L",
+      "K",
+      "A",
+      "L",
+      "P",
+      "Q",
+      "H"
+    ],
+    [
+      "J",
+      "J",
+      "J",
+      "S",
+      "T",
+      "W",
+      "E",
+      "U",
+      "I"
+    ],
+    [
+      "J",
+      "M",
+      "H",
+      "Q",
+      "U",
+      "I",
+      "E",
+      "T",
+      "P"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "QUIET",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "VIEW",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "WALK",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SHIP",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "DOCK",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "SUN",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "HAT",
+      "row": 5,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "BAG",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2524
+}

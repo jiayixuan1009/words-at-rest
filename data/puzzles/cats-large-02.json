@@ -1,0 +1,173 @@
+{
+  "id": "cats-large-02",
+  "slug": "cats-large-02",
+  "themeId": "cats",
+  "title": "Large Print Cats: Soft Curl",
+  "primaryKeyword": "large print cats word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "CURL",
+    "EAR",
+    "EYE",
+    "NAP",
+    "PAW",
+    "PURR",
+    "SOFT",
+    "WARM"
+  ],
+  "grid": [
+    [
+      "S",
+      "O",
+      "F",
+      "T",
+      "J",
+      "X",
+      "W",
+      "U",
+      "T"
+    ],
+    [
+      "T",
+      "E",
+      "Z",
+      "B",
+      "P",
+      "Y",
+      "P",
+      "E",
+      "V"
+    ],
+    [
+      "N",
+      "H",
+      "R",
+      "M",
+      "A",
+      "P",
+      "S",
+      "Y",
+      "X"
+    ],
+    [
+      "B",
+      "O",
+      "Y",
+      "P",
+      "W",
+      "L",
+      "X",
+      "E",
+      "T"
+    ],
+    [
+      "V",
+      "C",
+      "P",
+      "U",
+      "R",
+      "E",
+      "U",
+      "B",
+      "Z"
+    ],
+    [
+      "N",
+      "B",
+      "X",
+      "R",
+      "A",
+      "A",
+      "G",
+      "D",
+      "Z"
+    ],
+    [
+      "A",
+      "O",
+      "X",
+      "R",
+      "B",
+      "R",
+      "B",
+      "E",
+      "U"
+    ],
+    [
+      "P",
+      "F",
+      "W",
+      "A",
+      "R",
+      "M",
+      "Q",
+      "B",
+      "E"
+    ],
+    [
+      "L",
+      "L",
+      "W",
+      "Z",
+      "C",
+      "U",
+      "R",
+      "L",
+      "S"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PURR",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "SOFT",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "WARM",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CURL",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "NAP",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "PAW",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "EAR",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "EYE",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2724
+}

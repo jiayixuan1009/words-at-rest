@@ -1,0 +1,208 @@
+{
+  "id": "calligraphy-easy-02",
+  "slug": "calligraphy-easy-02",
+  "themeId": "calligraphy",
+  "title": "Calligraphy: Quiet Stroke",
+  "primaryKeyword": "calligraphy word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BRUSH",
+    "CRAFT",
+    "GUIDE",
+    "LETTER",
+    "PAPER",
+    "QUILL",
+    "SCRIPT",
+    "SERIF",
+    "SHEET",
+    "STROKE"
+  ],
+  "grid": [
+    [
+      "T",
+      "B",
+      "R",
+      "U",
+      "S",
+      "H",
+      "X",
+      "W",
+      "I",
+      "C"
+    ],
+    [
+      "P",
+      "T",
+      "H",
+      "G",
+      "Q",
+      "U",
+      "I",
+      "L",
+      "L",
+      "S"
+    ],
+    [
+      "S",
+      "T",
+      "R",
+      "O",
+      "K",
+      "E",
+      "T",
+      "F",
+      "G",
+      "H"
+    ],
+    [
+      "K",
+      "N",
+      "L",
+      "R",
+      "T",
+      "S",
+      "P",
+      "I",
+      "T",
+      "E"
+    ],
+    [
+      "M",
+      "S",
+      "E",
+      "X",
+      "J",
+      "E",
+      "A",
+      "L",
+      "Z",
+      "E"
+    ],
+    [
+      "G",
+      "C",
+      "T",
+      "L",
+      "R",
+      "R",
+      "P",
+      "S",
+      "E",
+      "T"
+    ],
+    [
+      "U",
+      "R",
+      "T",
+      "D",
+      "Q",
+      "I",
+      "E",
+      "J",
+      "M",
+      "K"
+    ],
+    [
+      "I",
+      "I",
+      "E",
+      "H",
+      "O",
+      "F",
+      "R",
+      "M",
+      "N",
+      "T"
+    ],
+    [
+      "D",
+      "P",
+      "R",
+      "Q",
+      "O",
+      "M",
+      "V",
+      "X",
+      "R",
+      "T"
+    ],
+    [
+      "E",
+      "T",
+      "H",
+      "E",
+      "X",
+      "C",
+      "R",
+      "A",
+      "F",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SCRIPT",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "LETTER",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "STROKE",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SERIF",
+      "row": 3,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "GUIDE",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SHEET",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "PAPER",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "QUILL",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BRUSH",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CRAFT",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8922
+}

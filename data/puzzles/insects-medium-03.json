@@ -1,0 +1,284 @@
+{
+  "id": "insects-medium-03",
+  "slug": "insects-medium-03",
+  "themeId": "insects",
+  "title": "Insects: Harbor Light",
+  "primaryKeyword": "insects word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ANT",
+    "ANTENNA",
+    "APHID",
+    "BEE",
+    "BEETLE",
+    "BUTTERFLY",
+    "BUZZ",
+    "DRAGONFLY",
+    "INSECT",
+    "LARVA",
+    "MANTIS",
+    "MEADOW",
+    "TERMITE",
+    "THORAX"
+  ],
+  "grid": [
+    [
+      "B",
+      "A",
+      "P",
+      "H",
+      "I",
+      "D",
+      "B",
+      "A",
+      "K",
+      "B",
+      "Y",
+      "B"
+    ],
+    [
+      "I",
+      "T",
+      "M",
+      "A",
+      "N",
+      "T",
+      "I",
+      "S",
+      "D",
+      "U",
+      "A",
+      "U"
+    ],
+    [
+      "L",
+      "A",
+      "R",
+      "V",
+      "A",
+      "K",
+      "O",
+      "C",
+      "U",
+      "T",
+      "N",
+      "Z"
+    ],
+    [
+      "X",
+      "B",
+      "G",
+      "U",
+      "B",
+      "E",
+      "E",
+      "W",
+      "Y",
+      "T",
+      "T",
+      "Z"
+    ],
+    [
+      "T",
+      "E",
+      "R",
+      "M",
+      "I",
+      "T",
+      "E",
+      "L",
+      "L",
+      "E",
+      "E",
+      "T"
+    ],
+    [
+      "I",
+      "N",
+      "S",
+      "E",
+      "C",
+      "T",
+      "F",
+      "O",
+      "N",
+      "R",
+      "N",
+      "G"
+    ],
+    [
+      "Y",
+      "Z",
+      "J",
+      "P",
+      "O",
+      "N",
+      "S",
+      "I",
+      "X",
+      "F",
+      "N",
+      "M"
+    ],
+    [
+      "O",
+      "X",
+      "L",
+      "F",
+      "O",
+      "C",
+      "B",
+      "A",
+      "W",
+      "L",
+      "A",
+      "E"
+    ],
+    [
+      "L",
+      "O",
+      "Z",
+      "G",
+      "Q",
+      "H",
+      "R",
+      "S",
+      "S",
+      "Y",
+      "X",
+      "A"
+    ],
+    [
+      "P",
+      "X",
+      "A",
+      "R",
+      "I",
+      "O",
+      "H",
+      "Z",
+      "K",
+      "Q",
+      "Y",
+      "D"
+    ],
+    [
+      "E",
+      "R",
+      "N",
+      "Q",
+      "H",
+      "Z",
+      "U",
+      "K",
+      "P",
+      "A",
+      "P",
+      "O"
+    ],
+    [
+      "D",
+      "Z",
+      "T",
+      "T",
+      "B",
+      "E",
+      "E",
+      "T",
+      "L",
+      "E",
+      "W",
+      "W"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BUTTERFLY",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "DRAGONFLY",
+      "row": 11,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "TERMITE",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "ANTENNA",
+      "row": 1,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "BEETLE",
+      "row": 11,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "INSECT",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "MEADOW",
+      "row": 6,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "THORAX",
+      "row": 11,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "MANTIS",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "APHID",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "LARVA",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BUZZ",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "BEE",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "ANT",
+      "row": 9,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9289
+}

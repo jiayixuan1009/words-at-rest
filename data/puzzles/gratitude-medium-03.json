@@ -1,0 +1,284 @@
+{
+  "id": "gratitude-medium-03",
+  "slug": "gratitude-medium-03",
+  "themeId": "gratitude",
+  "title": "Gratitude: Side Shelf",
+  "primaryKeyword": "gratitude word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BREAD",
+    "CARE",
+    "DAWN",
+    "FAMILY",
+    "GRACE",
+    "HEALTH",
+    "HOPE",
+    "HOST",
+    "LAUGH",
+    "QUIET",
+    "SONG",
+    "STILL",
+    "STORY",
+    "SUPPORT"
+  ],
+  "grid": [
+    [
+      "F",
+      "N",
+      "L",
+      "B",
+      "V",
+      "K",
+      "S",
+      "W",
+      "L",
+      "X",
+      "F",
+      "S"
+    ],
+    [
+      "A",
+      "H",
+      "X",
+      "A",
+      "R",
+      "K",
+      "Z",
+      "T",
+      "A",
+      "E",
+      "F",
+      "U"
+    ],
+    [
+      "M",
+      "O",
+      "W",
+      "J",
+      "U",
+      "E",
+      "I",
+      "G",
+      "I",
+      "F",
+      "J",
+      "P"
+    ],
+    [
+      "I",
+      "S",
+      "B",
+      "H",
+      "S",
+      "G",
+      "A",
+      "Z",
+      "K",
+      "L",
+      "S",
+      "P"
+    ],
+    [
+      "L",
+      "T",
+      "R",
+      "O",
+      "V",
+      "S",
+      "H",
+      "D",
+      "Q",
+      "J",
+      "L",
+      "O"
+    ],
+    [
+      "Y",
+      "H",
+      "U",
+      "P",
+      "M",
+      "Y",
+      "T",
+      "G",
+      "E",
+      "W",
+      "I",
+      "R"
+    ],
+    [
+      "K",
+      "J",
+      "U",
+      "E",
+      "D",
+      "W",
+      "V",
+      "O",
+      "R",
+      "E",
+      "G",
+      "T"
+    ],
+    [
+      "J",
+      "D",
+      "H",
+      "E",
+      "A",
+      "L",
+      "T",
+      "H",
+      "R",
+      "A",
+      "V",
+      "R"
+    ],
+    [
+      "S",
+      "O",
+      "N",
+      "G",
+      "W",
+      "E",
+      "A",
+      "A",
+      "B",
+      "Y",
+      "C",
+      "Q"
+    ],
+    [
+      "U",
+      "W",
+      "Z",
+      "Q",
+      "N",
+      "V",
+      "C",
+      "Y",
+      "W",
+      "G",
+      "L",
+      "E"
+    ],
+    [
+      "R",
+      "L",
+      "P",
+      "H",
+      "Z",
+      "H",
+      "L",
+      "U",
+      "P",
+      "G",
+      "K",
+      "Y"
+    ],
+    [
+      "M",
+      "P",
+      "Y",
+      "M",
+      "K",
+      "Q",
+      "U",
+      "I",
+      "E",
+      "T",
+      "E",
+      "Q"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SUPPORT",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "FAMILY",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "HEALTH",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "QUIET",
+      "row": 11,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "GRACE",
+      "row": 5,
+      "col": 7,
+      "direction": "SE"
+    },
+    {
+      "word": "LAUGH",
+      "row": 0,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "STILL",
+      "row": 0,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "STORY",
+      "row": 4,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "BREAD",
+      "row": 0,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "HOST",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SONG",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "HOPE",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "DAWN",
+      "row": 6,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "CARE",
+      "row": 9,
+      "col": 6,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9277
+}

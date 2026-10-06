@@ -1,0 +1,208 @@
+{
+  "id": "board-games-easy-02",
+  "slug": "board-games-easy-02",
+  "themeId": "board-games",
+  "title": "Board Games: Quiet Table",
+  "primaryKeyword": "board games word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "DECK",
+    "DRAW",
+    "MOVE",
+    "PAWN",
+    "PIECE",
+    "POINT",
+    "ROUND",
+    "RULE",
+    "SCORE",
+    "TOKEN"
+  ],
+  "grid": [
+    [
+      "P",
+      "I",
+      "E",
+      "C",
+      "E",
+      "Y",
+      "T",
+      "D",
+      "J",
+      "P"
+    ],
+    [
+      "S",
+      "P",
+      "A",
+      "W",
+      "N",
+      "X",
+      "K",
+      "E",
+      "C",
+      "W"
+    ],
+    [
+      "M",
+      "O",
+      "V",
+      "E",
+      "S",
+      "A",
+      "V",
+      "C",
+      "Z",
+      "P"
+    ],
+    [
+      "C",
+      "S",
+      "Z",
+      "G",
+      "C",
+      "P",
+      "Z",
+      "K",
+      "K",
+      "I"
+    ],
+    [
+      "D",
+      "T",
+      "T",
+      "S",
+      "O",
+      "O",
+      "R",
+      "U",
+      "L",
+      "E"
+    ],
+    [
+      "R",
+      "H",
+      "O",
+      "C",
+      "R",
+      "I",
+      "T",
+      "U",
+      "Y",
+      "T"
+    ],
+    [
+      "O",
+      "P",
+      "K",
+      "G",
+      "E",
+      "N",
+      "D",
+      "R",
+      "A",
+      "W"
+    ],
+    [
+      "U",
+      "P",
+      "E",
+      "F",
+      "M",
+      "T",
+      "U",
+      "I",
+      "I",
+      "C"
+    ],
+    [
+      "N",
+      "D",
+      "N",
+      "O",
+      "N",
+      "O",
+      "B",
+      "T",
+      "P",
+      "I"
+    ],
+    [
+      "D",
+      "V",
+      "Z",
+      "H",
+      "E",
+      "J",
+      "Z",
+      "F",
+      "X",
+      "G"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TOKEN",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "PIECE",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "ROUND",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SCORE",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "POINT",
+      "row": 3,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "PAWN",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "DECK",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "RULE",
+      "row": 4,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "MOVE",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "DRAW",
+      "row": 6,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8862
+}

@@ -1,0 +1,284 @@
+{
+  "id": "volunteering-medium-03",
+  "slug": "volunteering-medium-03",
+  "themeId": "volunteering",
+  "title": "Volunteering: Clear Sky",
+  "primaryKeyword": "volunteering word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BUILD",
+    "CALL",
+    "COLLECT",
+    "GARDEN",
+    "GIVE",
+    "GREET",
+    "GUIDE",
+    "HOPE",
+    "KINDNESS",
+    "LIST",
+    "SIGN",
+    "TABLE",
+    "TEAM",
+    "TOWN"
+  ],
+  "grid": [
+    [
+      "Y",
+      "O",
+      "P",
+      "P",
+      "E",
+      "L",
+      "M",
+      "V",
+      "U",
+      "V",
+      "O",
+      "M"
+    ],
+    [
+      "O",
+      "P",
+      "S",
+      "D",
+      "Q",
+      "U",
+      "G",
+      "R",
+      "E",
+      "E",
+      "T",
+      "U"
+    ],
+    [
+      "I",
+      "O",
+      "I",
+      "C",
+      "A",
+      "H",
+      "O",
+      "P",
+      "E",
+      "L",
+      "Z",
+      "J"
+    ],
+    [
+      "M",
+      "U",
+      "G",
+      "E",
+      "O",
+      "G",
+      "A",
+      "R",
+      "D",
+      "E",
+      "N",
+      "R"
+    ],
+    [
+      "G",
+      "K",
+      "N",
+      "Y",
+      "W",
+      "L",
+      "D",
+      "U",
+      "L",
+      "H",
+      "P",
+      "A"
+    ],
+    [
+      "R",
+      "Y",
+      "I",
+      "A",
+      "K",
+      "R",
+      "L",
+      "N",
+      "W",
+      "I",
+      "C",
+      "E"
+    ],
+    [
+      "P",
+      "U",
+      "J",
+      "N",
+      "K",
+      "C",
+      "W",
+      "E",
+      "B",
+      "I",
+      "S",
+      "F"
+    ],
+    [
+      "G",
+      "I",
+      "V",
+      "E",
+      "D",
+      "O",
+      "A",
+      "R",
+      "C",
+      "W",
+      "B",
+      "T"
+    ],
+    [
+      "B",
+      "P",
+      "L",
+      "X",
+      "T",
+      "N",
+      "I",
+      "L",
+      "P",
+      "T",
+      "U",
+      "K"
+    ],
+    [
+      "I",
+      "T",
+      "A",
+      "B",
+      "L",
+      "E",
+      "E",
+      "Y",
+      "L",
+      "R",
+      "I",
+      "S"
+    ],
+    [
+      "D",
+      "D",
+      "V",
+      "T",
+      "E",
+      "A",
+      "M",
+      "S",
+      "C",
+      "U",
+      "L",
+      "U"
+    ],
+    [
+      "Q",
+      "L",
+      "O",
+      "B",
+      "E",
+      "O",
+      "D",
+      "T",
+      "S",
+      "S",
+      "D",
+      "J"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "KINDNESS",
+      "row": 4,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "COLLECT",
+      "row": 2,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "GARDEN",
+      "row": 3,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "BUILD",
+      "row": 7,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "TABLE",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "GUIDE",
+      "row": 4,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "GREET",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "LIST",
+      "row": 4,
+      "col": 8,
+      "direction": "SE"
+    },
+    {
+      "word": "SIGN",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "CALL",
+      "row": 6,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "GIVE",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "HOPE",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "TOWN",
+      "row": 8,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "TEAM",
+      "row": 10,
+      "col": 3,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9361
+}

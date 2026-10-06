@@ -1,0 +1,208 @@
+{
+  "id": "horses-easy-03",
+  "slug": "horses-easy-03",
+  "themeId": "horses",
+  "title": "Horses: Open Window",
+  "primaryKeyword": "horses word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BLANKET",
+    "BRUSH",
+    "FOAL",
+    "HERD",
+    "PASTURE",
+    "RIDE",
+    "SADDLE",
+    "SPUR",
+    "STABLE",
+    "WATER"
+  ],
+  "grid": [
+    [
+      "U",
+      "B",
+      "L",
+      "A",
+      "N",
+      "K",
+      "E",
+      "T",
+      "F",
+      "S"
+    ],
+    [
+      "O",
+      "S",
+      "B",
+      "H",
+      "E",
+      "R",
+      "D",
+      "W",
+      "O",
+      "P"
+    ],
+    [
+      "U",
+      "K",
+      "D",
+      "S",
+      "J",
+      "H",
+      "R",
+      "A",
+      "A",
+      "U"
+    ],
+    [
+      "Q",
+      "X",
+      "H",
+      "A",
+      "C",
+      "L",
+      "X",
+      "T",
+      "L",
+      "R"
+    ],
+    [
+      "R",
+      "G",
+      "X",
+      "D",
+      "H",
+      "L",
+      "D",
+      "E",
+      "Z",
+      "I"
+    ],
+    [
+      "Y",
+      "Q",
+      "D",
+      "D",
+      "H",
+      "F",
+      "E",
+      "R",
+      "C",
+      "B"
+    ],
+    [
+      "E",
+      "Y",
+      "N",
+      "L",
+      "R",
+      "I",
+      "D",
+      "E",
+      "P",
+      "R"
+    ],
+    [
+      "C",
+      "A",
+      "F",
+      "E",
+      "V",
+      "H",
+      "L",
+      "X",
+      "W",
+      "U"
+    ],
+    [
+      "R",
+      "Z",
+      "S",
+      "T",
+      "A",
+      "B",
+      "L",
+      "E",
+      "B",
+      "S"
+    ],
+    [
+      "U",
+      "P",
+      "A",
+      "S",
+      "T",
+      "U",
+      "R",
+      "E",
+      "U",
+      "H"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PASTURE",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BLANKET",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "STABLE",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SADDLE",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "BRUSH",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "WATER",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "FOAL",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "RIDE",
+      "row": 6,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "HERD",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SPUR",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9282
+}

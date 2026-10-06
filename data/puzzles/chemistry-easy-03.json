@@ -1,0 +1,208 @@
+{
+  "id": "chemistry-easy-03",
+  "slug": "chemistry-easy-03",
+  "themeId": "chemistry",
+  "title": "Chemistry: Soft Path",
+  "primaryKeyword": "chemistry word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ACID",
+    "BURNER",
+    "CARBON",
+    "CRYSTAL",
+    "FLASK",
+    "GAS",
+    "HELIUM",
+    "ION",
+    "NITROGEN",
+    "PERIODIC"
+  ],
+  "grid": [
+    [
+      "Z",
+      "Y",
+      "B",
+      "U",
+      "R",
+      "N",
+      "E",
+      "R",
+      "B",
+      "N"
+    ],
+    [
+      "S",
+      "O",
+      "T",
+      "A",
+      "C",
+      "I",
+      "D",
+      "K",
+      "J",
+      "I"
+    ],
+    [
+      "F",
+      "Y",
+      "L",
+      "B",
+      "A",
+      "E",
+      "L",
+      "P",
+      "H",
+      "T"
+    ],
+    [
+      "C",
+      "H",
+      "Q",
+      "K",
+      "R",
+      "S",
+      "C",
+      "E",
+      "E",
+      "R"
+    ],
+    [
+      "C",
+      "Z",
+      "K",
+      "F",
+      "B",
+      "Y",
+      "R",
+      "R",
+      "L",
+      "O"
+    ],
+    [
+      "W",
+      "D",
+      "A",
+      "L",
+      "O",
+      "F",
+      "Y",
+      "I",
+      "I",
+      "G"
+    ],
+    [
+      "T",
+      "U",
+      "M",
+      "A",
+      "N",
+      "U",
+      "S",
+      "O",
+      "U",
+      "E"
+    ],
+    [
+      "R",
+      "G",
+      "J",
+      "S",
+      "V",
+      "K",
+      "T",
+      "D",
+      "M",
+      "N"
+    ],
+    [
+      "U",
+      "A",
+      "J",
+      "K",
+      "T",
+      "C",
+      "A",
+      "I",
+      "O",
+      "N"
+    ],
+    [
+      "H",
+      "S",
+      "L",
+      "M",
+      "B",
+      "C",
+      "L",
+      "C",
+      "Z",
+      "O"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "NITROGEN",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "PERIODIC",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "CRYSTAL",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "HELIUM",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "BURNER",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CARBON",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "FLASK",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "ACID",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "GAS",
+      "row": 7,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "ION",
+      "row": 8,
+      "col": 7,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9226
+}

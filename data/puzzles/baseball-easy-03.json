@@ -1,0 +1,208 @@
+{
+  "id": "baseball-easy-03",
+  "slug": "baseball-easy-03",
+  "themeId": "baseball",
+  "title": "Baseball: Quiet Hour",
+  "primaryKeyword": "baseball word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BALL",
+    "BAT",
+    "BULLPEN",
+    "DIAMOND",
+    "DUGOUT",
+    "HOMERUN",
+    "INFIELD",
+    "INNING",
+    "TRIPLE",
+    "UMPIRE"
+  ],
+  "grid": [
+    [
+      "D",
+      "U",
+      "G",
+      "O",
+      "U",
+      "T",
+      "M",
+      "I",
+      "G",
+      "V"
+    ],
+    [
+      "I",
+      "B",
+      "V",
+      "K",
+      "A",
+      "H",
+      "Q",
+      "N",
+      "V",
+      "T"
+    ],
+    [
+      "N",
+      "U",
+      "T",
+      "U",
+      "I",
+      "O",
+      "M",
+      "F",
+      "V",
+      "D"
+    ],
+    [
+      "N",
+      "L",
+      "R",
+      "M",
+      "B",
+      "M",
+      "B",
+      "I",
+      "P",
+      "I"
+    ],
+    [
+      "I",
+      "L",
+      "I",
+      "P",
+      "A",
+      "E",
+      "Z",
+      "E",
+      "U",
+      "A"
+    ],
+    [
+      "N",
+      "P",
+      "P",
+      "I",
+      "T",
+      "R",
+      "B",
+      "L",
+      "L",
+      "M"
+    ],
+    [
+      "G",
+      "E",
+      "L",
+      "R",
+      "P",
+      "U",
+      "A",
+      "D",
+      "I",
+      "O"
+    ],
+    [
+      "M",
+      "N",
+      "E",
+      "E",
+      "J",
+      "N",
+      "L",
+      "I",
+      "V",
+      "N"
+    ],
+    [
+      "Q",
+      "M",
+      "P",
+      "K",
+      "U",
+      "F",
+      "L",
+      "N",
+      "E",
+      "D"
+    ],
+    [
+      "G",
+      "F",
+      "V",
+      "N",
+      "M",
+      "I",
+      "J",
+      "U",
+      "O",
+      "A"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "INFIELD",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "HOMERUN",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "DIAMOND",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "BULLPEN",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "INNING",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "UMPIRE",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "DUGOUT",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "TRIPLE",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "BALL",
+      "row": 5,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "BAT",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9210
+}

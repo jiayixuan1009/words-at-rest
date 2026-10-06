@@ -1,0 +1,208 @@
+{
+  "id": "kindness-easy-03",
+  "slug": "kindness-easy-03",
+  "themeId": "kindness",
+  "title": "Kindness: Quiet Hour",
+  "primaryKeyword": "kindness word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "AID",
+    "APOLOGY",
+    "COMFORT",
+    "COURTESY",
+    "HAND",
+    "HOME",
+    "HUG",
+    "SMILE",
+    "TRUE",
+    "WARM"
+  ],
+  "grid": [
+    [
+      "H",
+      "S",
+      "M",
+      "I",
+      "L",
+      "E",
+      "A",
+      "R",
+      "H",
+      "C"
+    ],
+    [
+      "O",
+      "C",
+      "O",
+      "M",
+      "F",
+      "O",
+      "R",
+      "T",
+      "A",
+      "S"
+    ],
+    [
+      "M",
+      "Y",
+      "A",
+      "J",
+      "W",
+      "Q",
+      "A",
+      "J",
+      "N",
+      "L"
+    ],
+    [
+      "E",
+      "Y",
+      "O",
+      "Q",
+      "S",
+      "A",
+      "V",
+      "Q",
+      "D",
+      "M"
+    ],
+    [
+      "S",
+      "T",
+      "R",
+      "U",
+      "E",
+      "P",
+      "A",
+      "I",
+      "D",
+      "Z"
+    ],
+    [
+      "I",
+      "W",
+      "P",
+      "A",
+      "P",
+      "O",
+      "L",
+      "O",
+      "G",
+      "Y"
+    ],
+    [
+      "C",
+      "O",
+      "U",
+      "R",
+      "T",
+      "E",
+      "S",
+      "Y",
+      "W",
+      "R"
+    ],
+    [
+      "Q",
+      "S",
+      "T",
+      "O",
+      "S",
+      "N",
+      "L",
+      "Q",
+      "Z",
+      "A"
+    ],
+    [
+      "W",
+      "V",
+      "X",
+      "G",
+      "E",
+      "J",
+      "W",
+      "A",
+      "R",
+      "M"
+    ],
+    [
+      "Y",
+      "W",
+      "Z",
+      "F",
+      "H",
+      "U",
+      "G",
+      "M",
+      "Z",
+      "S"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "COURTESY",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "APOLOGY",
+      "row": 5,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "COMFORT",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SMILE",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "WARM",
+      "row": 8,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "TRUE",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "HAND",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "HOME",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "AID",
+      "row": 4,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "HUG",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9298
+}

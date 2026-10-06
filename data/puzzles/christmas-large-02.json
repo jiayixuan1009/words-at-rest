@@ -1,0 +1,173 @@
+{
+  "id": "christmas-large-02",
+  "slug": "christmas-large-02",
+  "themeId": "christmas",
+  "title": "Large Print Christmas: Soft Bell",
+  "primaryKeyword": "large print christmas word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BELL",
+    "GIFT",
+    "JOY",
+    "NOEL",
+    "PEACE",
+    "SNOW",
+    "TREE",
+    "WARM"
+  ],
+  "grid": [
+    [
+      "D",
+      "H",
+      "P",
+      "E",
+      "A",
+      "C",
+      "E",
+      "M",
+      "P"
+    ],
+    [
+      "P",
+      "D",
+      "T",
+      "P",
+      "E",
+      "G",
+      "V",
+      "W",
+      "Z"
+    ],
+    [
+      "G",
+      "G",
+      "I",
+      "F",
+      "T",
+      "E",
+      "Z",
+      "A",
+      "P"
+    ],
+    [
+      "E",
+      "Q",
+      "F",
+      "N",
+      "I",
+      "T",
+      "U",
+      "R",
+      "S"
+    ],
+    [
+      "X",
+      "E",
+      "X",
+      "C",
+      "N",
+      "A",
+      "X",
+      "M",
+      "N"
+    ],
+    [
+      "V",
+      "D",
+      "J",
+      "V",
+      "O",
+      "B",
+      "T",
+      "I",
+      "O"
+    ],
+    [
+      "E",
+      "D",
+      "O",
+      "N",
+      "E",
+      "E",
+      "R",
+      "N",
+      "W"
+    ],
+    [
+      "I",
+      "E",
+      "Y",
+      "J",
+      "L",
+      "L",
+      "E",
+      "D",
+      "N"
+    ],
+    [
+      "J",
+      "T",
+      "J",
+      "F",
+      "X",
+      "L",
+      "E",
+      "X",
+      "K"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PEACE",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BELL",
+      "row": 5,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "SNOW",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "TREE",
+      "row": 5,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "GIFT",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "WARM",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "NOEL",
+      "row": 4,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "JOY",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 1244
+}

@@ -1,0 +1,208 @@
+{
+  "id": "summer-easy-03",
+  "slug": "summer-easy-03",
+  "themeId": "summer",
+  "title": "Summer: Open Window",
+  "primaryKeyword": "summer word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "AUGUST",
+    "BERRY",
+    "CHAIR",
+    "CICADA",
+    "DAYLIGHT",
+    "HUM",
+    "LAWN",
+    "QUIET",
+    "SHADE",
+    "TOMATOES"
+  ],
+  "grid": [
+    [
+      "J",
+      "C",
+      "S",
+      "T",
+      "U",
+      "P",
+      "F",
+      "S",
+      "L",
+      "U"
+    ],
+    [
+      "K",
+      "I",
+      "H",
+      "O",
+      "V",
+      "Z",
+      "Q",
+      "B",
+      "H",
+      "O"
+    ],
+    [
+      "F",
+      "C",
+      "A",
+      "M",
+      "C",
+      "A",
+      "U",
+      "B",
+      "W",
+      "B"
+    ],
+    [
+      "N",
+      "A",
+      "D",
+      "A",
+      "H",
+      "U",
+      "I",
+      "E",
+      "A",
+      "N"
+    ],
+    [
+      "V",
+      "D",
+      "E",
+      "T",
+      "A",
+      "G",
+      "E",
+      "R",
+      "W",
+      "L"
+    ],
+    [
+      "H",
+      "A",
+      "L",
+      "O",
+      "I",
+      "U",
+      "T",
+      "R",
+      "Q",
+      "H"
+    ],
+    [
+      "A",
+      "U",
+      "K",
+      "E",
+      "R",
+      "S",
+      "C",
+      "Y",
+      "C",
+      "R"
+    ],
+    [
+      "H",
+      "U",
+      "M",
+      "S",
+      "Y",
+      "T",
+      "L",
+      "G",
+      "W",
+      "L"
+    ],
+    [
+      "A",
+      "Y",
+      "L",
+      "A",
+      "W",
+      "N",
+      "Q",
+      "O",
+      "E",
+      "U"
+    ],
+    [
+      "D",
+      "A",
+      "Y",
+      "L",
+      "I",
+      "G",
+      "H",
+      "T",
+      "N",
+      "C"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TOMATOES",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "DAYLIGHT",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CICADA",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "AUGUST",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "QUIET",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "BERRY",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SHADE",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "CHAIR",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "LAWN",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "HUM",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9344
+}

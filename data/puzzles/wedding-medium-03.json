@@ -1,0 +1,284 @@
+{
+  "id": "wedding-medium-03",
+  "slug": "wedding-medium-03",
+  "themeId": "wedding",
+  "title": "Wedding: Harbor Light",
+  "primaryKeyword": "wedding word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "AISLE",
+    "ALTAR",
+    "DAY",
+    "GUEST",
+    "HALL",
+    "HEART",
+    "LICENSE",
+    "LOVE",
+    "PETAL",
+    "TIE",
+    "TOAST",
+    "VEIL",
+    "WEDDING",
+    "WITNESS"
+  ],
+  "grid": [
+    [
+      "J",
+      "S",
+      "J",
+      "C",
+      "P",
+      "E",
+      "T",
+      "A",
+      "L",
+      "Q",
+      "W",
+      "H"
+    ],
+    [
+      "W",
+      "E",
+      "D",
+      "D",
+      "I",
+      "N",
+      "G",
+      "L",
+      "U",
+      "L",
+      "Q",
+      "P"
+    ],
+    [
+      "K",
+      "L",
+      "H",
+      "E",
+      "A",
+      "R",
+      "T",
+      "T",
+      "V",
+      "P",
+      "C",
+      "L"
+    ],
+    [
+      "D",
+      "L",
+      "J",
+      "N",
+      "X",
+      "Q",
+      "F",
+      "A",
+      "B",
+      "E",
+      "L",
+      "C"
+    ],
+    [
+      "A",
+      "X",
+      "K",
+      "A",
+      "X",
+      "D",
+      "T",
+      "R",
+      "K",
+      "A",
+      "I",
+      "K"
+    ],
+    [
+      "Y",
+      "N",
+      "H",
+      "P",
+      "C",
+      "V",
+      "L",
+      "O",
+      "H",
+      "E",
+      "U",
+      "L"
+    ],
+    [
+      "A",
+      "R",
+      "B",
+      "M",
+      "R",
+      "S",
+      "I",
+      "T",
+      "A",
+      "U",
+      "Q",
+      "J"
+    ],
+    [
+      "I",
+      "P",
+      "W",
+      "E",
+      "X",
+      "F",
+      "C",
+      "G",
+      "I",
+      "S",
+      "X",
+      "K"
+    ],
+    [
+      "S",
+      "C",
+      "H",
+      "L",
+      "O",
+      "V",
+      "E",
+      "M",
+      "U",
+      "E",
+      "T",
+      "Z"
+    ],
+    [
+      "L",
+      "S",
+      "H",
+      "S",
+      "P",
+      "W",
+      "N",
+      "R",
+      "Z",
+      "E",
+      "H",
+      "P"
+    ],
+    [
+      "E",
+      "W",
+      "I",
+      "T",
+      "N",
+      "E",
+      "S",
+      "S",
+      "G",
+      "D",
+      "S",
+      "R"
+    ],
+    [
+      "L",
+      "E",
+      "L",
+      "L",
+      "O",
+      "A",
+      "E",
+      "Y",
+      "M",
+      "B",
+      "K",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "LICENSE",
+      "row": 5,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "WEDDING",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "WITNESS",
+      "row": 10,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TOAST",
+      "row": 4,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "ALTAR",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "PETAL",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "AISLE",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "GUEST",
+      "row": 7,
+      "col": 7,
+      "direction": "SE"
+    },
+    {
+      "word": "HEART",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "HALL",
+      "row": 5,
+      "col": 8,
+      "direction": "NE"
+    },
+    {
+      "word": "LOVE",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "VEIL",
+      "row": 2,
+      "col": 8,
+      "direction": "SE"
+    },
+    {
+      "word": "TIE",
+      "row": 6,
+      "col": 7,
+      "direction": "SE"
+    },
+    {
+      "word": "DAY",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9365
+}

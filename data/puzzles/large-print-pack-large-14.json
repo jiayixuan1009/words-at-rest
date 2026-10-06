@@ -1,0 +1,173 @@
+{
+  "id": "large-print-pack-large-14",
+  "slug": "large-print-pack-large-14",
+  "themeId": "large-print-pack",
+  "title": "Large Print Word Search: Rainy Window",
+  "primaryKeyword": "large print large print word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BOOK",
+    "LAMP",
+    "RAIN",
+    "REST",
+    "SOFT",
+    "TEA",
+    "WARM",
+    "WINDOW"
+  ],
+  "grid": [
+    [
+      "T",
+      "E",
+      "A",
+      "W",
+      "O",
+      "H",
+      "T",
+      "G",
+      "S"
+    ],
+    [
+      "W",
+      "Q",
+      "R",
+      "Y",
+      "V",
+      "E",
+      "X",
+      "W",
+      "O"
+    ],
+    [
+      "I",
+      "G",
+      "E",
+      "C",
+      "L",
+      "K",
+      "Y",
+      "A",
+      "F"
+    ],
+    [
+      "N",
+      "H",
+      "S",
+      "D",
+      "N",
+      "Q",
+      "D",
+      "R",
+      "T"
+    ],
+    [
+      "D",
+      "G",
+      "T",
+      "T",
+      "R",
+      "V",
+      "K",
+      "M",
+      "W"
+    ],
+    [
+      "O",
+      "N",
+      "S",
+      "F",
+      "F",
+      "R",
+      "A",
+      "I",
+      "N"
+    ],
+    [
+      "W",
+      "Y",
+      "V",
+      "F",
+      "B",
+      "O",
+      "O",
+      "K",
+      "Q"
+    ],
+    [
+      "C",
+      "S",
+      "L",
+      "A",
+      "M",
+      "P",
+      "Y",
+      "F",
+      "O"
+    ],
+    [
+      "V",
+      "I",
+      "R",
+      "P",
+      "C",
+      "K",
+      "H",
+      "R",
+      "S"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "WINDOW",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "RAIN",
+      "row": 5,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "BOOK",
+      "row": 6,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "LAMP",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "WARM",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SOFT",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "REST",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "TEA",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 3032
+}

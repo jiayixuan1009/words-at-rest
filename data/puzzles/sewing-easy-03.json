@@ -1,0 +1,208 @@
+{
+  "id": "sewing-easy-03",
+  "slug": "sewing-easy-03",
+  "themeId": "sewing",
+  "title": "Sewing: Button Jar",
+  "primaryKeyword": "sewing word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BUTTON",
+    "CLIP",
+    "HEM",
+    "JAR",
+    "MEND",
+    "PIN",
+    "SEAM",
+    "SNAP",
+    "SOFT",
+    "TAPE"
+  ],
+  "grid": [
+    [
+      "J",
+      "I",
+      "Q",
+      "J",
+      "F",
+      "O",
+      "W",
+      "N",
+      "B",
+      "I"
+    ],
+    [
+      "Y",
+      "T",
+      "V",
+      "A",
+      "E",
+      "H",
+      "E",
+      "M",
+      "M",
+      "B"
+    ],
+    [
+      "N",
+      "G",
+      "S",
+      "R",
+      "M",
+      "S",
+      "O",
+      "F",
+      "T",
+      "T"
+    ],
+    [
+      "U",
+      "E",
+      "E",
+      "B",
+      "E",
+      "S",
+      "C",
+      "L",
+      "I",
+      "P"
+    ],
+    [
+      "E",
+      "H",
+      "A",
+      "U",
+      "N",
+      "N",
+      "K",
+      "J",
+      "K",
+      "U"
+    ],
+    [
+      "K",
+      "G",
+      "M",
+      "T",
+      "D",
+      "A",
+      "T",
+      "U",
+      "F",
+      "G"
+    ],
+    [
+      "U",
+      "F",
+      "P",
+      "T",
+      "K",
+      "P",
+      "A",
+      "R",
+      "H",
+      "M"
+    ],
+    [
+      "E",
+      "W",
+      "R",
+      "O",
+      "D",
+      "S",
+      "P",
+      "C",
+      "U",
+      "F"
+    ],
+    [
+      "L",
+      "V",
+      "P",
+      "N",
+      "P",
+      "Z",
+      "E",
+      "D",
+      "V",
+      "T"
+    ],
+    [
+      "P",
+      "I",
+      "N",
+      "H",
+      "H",
+      "B",
+      "J",
+      "D",
+      "Y",
+      "X"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BUTTON",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "SNAP",
+      "row": 3,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "SEAM",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "TAPE",
+      "row": 5,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "CLIP",
+      "row": 3,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "SOFT",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "MEND",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "JAR",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "PIN",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "HEM",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 3811
+}

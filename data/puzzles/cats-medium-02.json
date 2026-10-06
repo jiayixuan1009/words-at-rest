@@ -1,0 +1,284 @@
+{
+  "id": "cats-medium-02",
+  "slug": "cats-medium-02",
+  "themeId": "cats",
+  "title": "Cats: Afternoon Nap",
+  "primaryKeyword": "cats word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BLANKET",
+    "BRUSH",
+    "CLIMB",
+    "CUSHION",
+    "KITTEN",
+    "MOUSE",
+    "PERCH",
+    "PURRING",
+    "STRETCH",
+    "SUNBEAM",
+    "TOY",
+    "TREAT",
+    "WHISKER",
+    "WINDOW"
+  ],
+  "grid": [
+    [
+      "B",
+      "R",
+      "U",
+      "S",
+      "H",
+      "A",
+      "M",
+      "P",
+      "T",
+      "P",
+      "M",
+      "W"
+    ],
+    [
+      "C",
+      "M",
+      "D",
+      "D",
+      "A",
+      "U",
+      "C",
+      "U",
+      "T",
+      "O",
+      "Y",
+      "I"
+    ],
+    [
+      "N",
+      "O",
+      "C",
+      "F",
+      "W",
+      "S",
+      "U",
+      "R",
+      "N",
+      "P",
+      "H",
+      "N"
+    ],
+    [
+      "Q",
+      "U",
+      "P",
+      "C",
+      "H",
+      "T",
+      "S",
+      "R",
+      "J",
+      "X",
+      "B",
+      "D"
+    ],
+    [
+      "S",
+      "S",
+      "E",
+      "L",
+      "I",
+      "R",
+      "H",
+      "I",
+      "P",
+      "B",
+      "L",
+      "O"
+    ],
+    [
+      "U",
+      "E",
+      "R",
+      "I",
+      "S",
+      "E",
+      "I",
+      "N",
+      "L",
+      "O",
+      "A",
+      "W"
+    ],
+    [
+      "N",
+      "T",
+      "C",
+      "M",
+      "K",
+      "T",
+      "O",
+      "G",
+      "X",
+      "K",
+      "N",
+      "K"
+    ],
+    [
+      "B",
+      "F",
+      "H",
+      "B",
+      "E",
+      "C",
+      "N",
+      "T",
+      "T",
+      "I",
+      "K",
+      "U"
+    ],
+    [
+      "E",
+      "M",
+      "H",
+      "B",
+      "R",
+      "H",
+      "A",
+      "R",
+      "Q",
+      "T",
+      "E",
+      "W"
+    ],
+    [
+      "A",
+      "U",
+      "E",
+      "V",
+      "Z",
+      "E",
+      "T",
+      "R",
+      "D",
+      "T",
+      "T",
+      "L"
+    ],
+    [
+      "M",
+      "J",
+      "P",
+      "W",
+      "R",
+      "D",
+      "D",
+      "Y",
+      "N",
+      "E",
+      "E",
+      "E"
+    ],
+    [
+      "U",
+      "R",
+      "V",
+      "T",
+      "P",
+      "N",
+      "J",
+      "P",
+      "I",
+      "N",
+      "N",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "WHISKER",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "PURRING",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "STRETCH",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "CUSHION",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "BLANKET",
+      "row": 3,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "SUNBEAM",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "KITTEN",
+      "row": 6,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "WINDOW",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "CLIMB",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "PERCH",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "MOUSE",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "TREAT",
+      "row": 11,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "BRUSH",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "TOY",
+      "row": 1,
+      "col": 8,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2712
+}

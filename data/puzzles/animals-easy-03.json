@@ -1,0 +1,208 @@
+{
+  "id": "animals-easy-03",
+  "slug": "animals-easy-03",
+  "themeId": "animals",
+  "title": "Animals: Shore Visit",
+  "primaryKeyword": "animals word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CRAB",
+    "FISH",
+    "GULL",
+    "NEST",
+    "POOL",
+    "REEF",
+    "ROCK",
+    "SAND",
+    "SEAL",
+    "WAVE"
+  ],
+  "grid": [
+    [
+      "W",
+      "D",
+      "N",
+      "E",
+      "S",
+      "T",
+      "V",
+      "I",
+      "K",
+      "T"
+    ],
+    [
+      "Y",
+      "Z",
+      "C",
+      "R",
+      "E",
+      "E",
+      "F",
+      "D",
+      "S",
+      "U"
+    ],
+    [
+      "N",
+      "G",
+      "F",
+      "I",
+      "S",
+      "H",
+      "L",
+      "W",
+      "S",
+      "C"
+    ],
+    [
+      "P",
+      "O",
+      "O",
+      "L",
+      "I",
+      "E",
+      "H",
+      "O",
+      "E",
+      "O"
+    ],
+    [
+      "W",
+      "A",
+      "V",
+      "E",
+      "S",
+      "G",
+      "O",
+      "H",
+      "A",
+      "D"
+    ],
+    [
+      "X",
+      "P",
+      "R",
+      "G",
+      "V",
+      "Z",
+      "G",
+      "W",
+      "L",
+      "C"
+    ],
+    [
+      "P",
+      "R",
+      "C",
+      "U",
+      "E",
+      "L",
+      "Z",
+      "W",
+      "J",
+      "R"
+    ],
+    [
+      "T",
+      "J",
+      "P",
+      "L",
+      "T",
+      "A",
+      "U",
+      "D",
+      "W",
+      "A"
+    ],
+    [
+      "K",
+      "N",
+      "G",
+      "L",
+      "S",
+      "A",
+      "N",
+      "D",
+      "B",
+      "B"
+    ],
+    [
+      "Y",
+      "M",
+      "U",
+      "N",
+      "O",
+      "J",
+      "R",
+      "O",
+      "C",
+      "K"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SEAL",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "CRAB",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "GULL",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "FISH",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "WAVE",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "REEF",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "NEST",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ROCK",
+      "row": 9,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "SAND",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "POOL",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2021
+}

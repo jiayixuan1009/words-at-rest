@@ -1,0 +1,173 @@
+{
+  "id": "pottery-large-01",
+  "slug": "pottery-large-01",
+  "themeId": "pottery",
+  "title": "Large Print Pottery: Soft Bowl",
+  "primaryKeyword": "large print pottery word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BOWL",
+    "CLAY",
+    "MUG",
+    "POT",
+    "RIM",
+    "SLIP",
+    "VASE",
+    "WHEEL"
+  ],
+  "grid": [
+    [
+      "E",
+      "B",
+      "F",
+      "I",
+      "I",
+      "T",
+      "C",
+      "Z",
+      "K"
+    ],
+    [
+      "G",
+      "A",
+      "G",
+      "V",
+      "Q",
+      "H",
+      "F",
+      "M",
+      "G"
+    ],
+    [
+      "R",
+      "V",
+      "E",
+      "O",
+      "I",
+      "V",
+      "A",
+      "S",
+      "E"
+    ],
+    [
+      "I",
+      "T",
+      "B",
+      "O",
+      "W",
+      "L",
+      "K",
+      "C",
+      "B"
+    ],
+    [
+      "M",
+      "K",
+      "W",
+      "H",
+      "E",
+      "E",
+      "L",
+      "C",
+      "I"
+    ],
+    [
+      "A",
+      "U",
+      "I",
+      "X",
+      "C",
+      "L",
+      "A",
+      "Y",
+      "S"
+    ],
+    [
+      "R",
+      "X",
+      "Y",
+      "H",
+      "A",
+      "S",
+      "M",
+      "P",
+      "L"
+    ],
+    [
+      "D",
+      "J",
+      "V",
+      "T",
+      "G",
+      "P",
+      "O",
+      "T",
+      "I"
+    ],
+    [
+      "A",
+      "T",
+      "M",
+      "U",
+      "G",
+      "U",
+      "V",
+      "Y",
+      "P"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "WHEEL",
+      "row": 4,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CLAY",
+      "row": 5,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BOWL",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "VASE",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SLIP",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "MUG",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "RIM",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "POT",
+      "row": 7,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8906
+}

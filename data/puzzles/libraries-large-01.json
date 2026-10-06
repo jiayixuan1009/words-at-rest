@@ -1,0 +1,173 @@
+{
+  "id": "libraries-large-01",
+  "slug": "libraries-large-01",
+  "themeId": "libraries",
+  "title": "Large Print Libraries: Soft Shelf",
+  "primaryKeyword": "large print libraries word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BOOK",
+    "CARD",
+    "DESK",
+    "LAMP",
+    "PAGE",
+    "READ",
+    "SHELF",
+    "STACK"
+  ],
+  "grid": [
+    [
+      "Q",
+      "I",
+      "C",
+      "G",
+      "I",
+      "I",
+      "Y",
+      "Q",
+      "U"
+    ],
+    [
+      "J",
+      "M",
+      "Q",
+      "D",
+      "R",
+      "L",
+      "A",
+      "M",
+      "P"
+    ],
+    [
+      "O",
+      "B",
+      "S",
+      "T",
+      "A",
+      "C",
+      "K",
+      "X",
+      "X"
+    ],
+    [
+      "C",
+      "O",
+      "F",
+      "N",
+      "L",
+      "E",
+      "M",
+      "B",
+      "K"
+    ],
+    [
+      "A",
+      "O",
+      "F",
+      "M",
+      "I",
+      "V",
+      "C",
+      "V",
+      "D"
+    ],
+    [
+      "R",
+      "K",
+      "H",
+      "F",
+      "A",
+      "I",
+      "O",
+      "P",
+      "E"
+    ],
+    [
+      "D",
+      "S",
+      "H",
+      "E",
+      "L",
+      "F",
+      "Y",
+      "A",
+      "S"
+    ],
+    [
+      "X",
+      "O",
+      "M",
+      "K",
+      "F",
+      "M",
+      "G",
+      "G",
+      "K"
+    ],
+    [
+      "W",
+      "R",
+      "E",
+      "A",
+      "D",
+      "F",
+      "X",
+      "E",
+      "B"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SHELF",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "STACK",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BOOK",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "DESK",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "LAMP",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "CARD",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "PAGE",
+      "row": 5,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "READ",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8936
+}

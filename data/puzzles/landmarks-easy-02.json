@@ -1,0 +1,208 @@
+{
+  "id": "landmarks-easy-02",
+  "slug": "landmarks-easy-02",
+  "themeId": "landmarks",
+  "title": "Landmarks: Quiet Plaza",
+  "primaryKeyword": "landmarks word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CASTLE",
+    "CLOCK",
+    "HARBOR",
+    "PALACE",
+    "PARK",
+    "RUIN",
+    "STATUE",
+    "STONE",
+    "TEMPLE",
+    "TRAVEL"
+  ],
+  "grid": [
+    [
+      "J",
+      "B",
+      "P",
+      "A",
+      "L",
+      "A",
+      "C",
+      "E",
+      "W",
+      "Y"
+    ],
+    [
+      "A",
+      "C",
+      "A",
+      "A",
+      "S",
+      "E",
+      "C",
+      "P",
+      "C",
+      "E"
+    ],
+    [
+      "T",
+      "A",
+      "R",
+      "D",
+      "K",
+      "R",
+      "U",
+      "I",
+      "N",
+      "A"
+    ],
+    [
+      "R",
+      "S",
+      "K",
+      "B",
+      "T",
+      "E",
+      "M",
+      "P",
+      "L",
+      "E"
+    ],
+    [
+      "A",
+      "T",
+      "S",
+      "T",
+      "A",
+      "T",
+      "U",
+      "E",
+      "L",
+      "G"
+    ],
+    [
+      "V",
+      "L",
+      "D",
+      "B",
+      "C",
+      "L",
+      "O",
+      "C",
+      "K",
+      "E"
+    ],
+    [
+      "E",
+      "E",
+      "O",
+      "X",
+      "P",
+      "Y",
+      "J",
+      "T",
+      "N",
+      "G"
+    ],
+    [
+      "L",
+      "A",
+      "Z",
+      "T",
+      "G",
+      "P",
+      "D",
+      "C",
+      "J",
+      "J"
+    ],
+    [
+      "R",
+      "H",
+      "A",
+      "R",
+      "B",
+      "O",
+      "R",
+      "R",
+      "A",
+      "A"
+    ],
+    [
+      "V",
+      "I",
+      "R",
+      "G",
+      "Q",
+      "S",
+      "T",
+      "O",
+      "N",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "STATUE",
+      "row": 4,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CASTLE",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "PALACE",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "TEMPLE",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "HARBOR",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TRAVEL",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CLOCK",
+      "row": 5,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "STONE",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "RUIN",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "PARK",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8822
+}

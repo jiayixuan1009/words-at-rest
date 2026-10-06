@@ -1,0 +1,284 @@
+{
+  "id": "farming-medium-03",
+  "slug": "farming-medium-03",
+  "themeId": "farming",
+  "title": "Farming: Harbor Light",
+  "primaryKeyword": "farming word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BEAN",
+    "COW",
+    "EGG",
+    "FURROW",
+    "HARVEST",
+    "HAY",
+    "HOE",
+    "MEADOW",
+    "MILK",
+    "ORCHARD",
+    "RAKE",
+    "SPADE",
+    "SUN",
+    "WHEAT"
+  ],
+  "grid": [
+    [
+      "P",
+      "E",
+      "U",
+      "V",
+      "C",
+      "O",
+      "W",
+      "G",
+      "H",
+      "Z",
+      "B",
+      "G"
+    ],
+    [
+      "M",
+      "P",
+      "G",
+      "R",
+      "C",
+      "O",
+      "R",
+      "H",
+      "A",
+      "Y",
+      "E",
+      "W"
+    ],
+    [
+      "U",
+      "I",
+      "G",
+      "G",
+      "F",
+      "R",
+      "A",
+      "E",
+      "R",
+      "K",
+      "A",
+      "C"
+    ],
+    [
+      "B",
+      "T",
+      "L",
+      "N",
+      "U",
+      "C",
+      "L",
+      "D",
+      "V",
+      "A",
+      "N",
+      "F"
+    ],
+    [
+      "G",
+      "P",
+      "N",
+      "K",
+      "R",
+      "H",
+      "Q",
+      "X",
+      "E",
+      "K",
+      "G",
+      "Q"
+    ],
+    [
+      "Y",
+      "U",
+      "E",
+      "Z",
+      "R",
+      "A",
+      "X",
+      "O",
+      "S",
+      "S",
+      "S",
+      "J"
+    ],
+    [
+      "S",
+      "M",
+      "C",
+      "Q",
+      "O",
+      "R",
+      "H",
+      "R",
+      "T",
+      "R",
+      "E",
+      "L"
+    ],
+    [
+      "T",
+      "W",
+      "L",
+      "I",
+      "W",
+      "D",
+      "Q",
+      "S",
+      "P",
+      "A",
+      "D",
+      "E"
+    ],
+    [
+      "V",
+      "H",
+      "L",
+      "P",
+      "A",
+      "R",
+      "F",
+      "B",
+      "O",
+      "K",
+      "U",
+      "K"
+    ],
+    [
+      "H",
+      "E",
+      "E",
+      "K",
+      "H",
+      "K",
+      "U",
+      "J",
+      "D",
+      "E",
+      "V",
+      "Y"
+    ],
+    [
+      "K",
+      "A",
+      "M",
+      "M",
+      "E",
+      "A",
+      "D",
+      "O",
+      "W",
+      "G",
+      "J",
+      "M"
+    ],
+    [
+      "H",
+      "T",
+      "I",
+      "T",
+      "J",
+      "J",
+      "W",
+      "T",
+      "X",
+      "O",
+      "V",
+      "H"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ORCHARD",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "HARVEST",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "FURROW",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "MEADOW",
+      "row": 10,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SPADE",
+      "row": 7,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "WHEAT",
+      "row": 7,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "RAKE",
+      "row": 6,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "BEAN",
+      "row": 0,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "MILK",
+      "row": 1,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "COW",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "HAY",
+      "row": 1,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "EGG",
+      "row": 0,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "HOE",
+      "row": 6,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "SUN",
+      "row": 6,
+      "col": 0,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9257
+}

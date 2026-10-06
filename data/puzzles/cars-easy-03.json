@@ -1,0 +1,208 @@
+{
+  "id": "cars-easy-03",
+  "slug": "cars-easy-03",
+  "themeId": "cars",
+  "title": "Cars: Morning Light",
+  "primaryKeyword": "cars word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "DRIVE",
+    "FUEL",
+    "GEAR",
+    "HIGHWAY",
+    "HORN",
+    "LANE",
+    "MOTOR",
+    "OIL",
+    "TANK",
+    "WHEEL"
+  ],
+  "grid": [
+    [
+      "Z",
+      "R",
+      "K",
+      "I",
+      "T",
+      "U",
+      "D",
+      "O",
+      "I",
+      "L"
+    ],
+    [
+      "Z",
+      "D",
+      "U",
+      "L",
+      "W",
+      "G",
+      "E",
+      "A",
+      "R",
+      "W"
+    ],
+    [
+      "X",
+      "R",
+      "W",
+      "D",
+      "Y",
+      "H",
+      "T",
+      "L",
+      "P",
+      "V"
+    ],
+    [
+      "W",
+      "I",
+      "H",
+      "Q",
+      "M",
+      "O",
+      "H",
+      "P",
+      "N",
+      "P"
+    ],
+    [
+      "U",
+      "V",
+      "E",
+      "L",
+      "O",
+      "R",
+      "I",
+      "B",
+      "W",
+      "N"
+    ],
+    [
+      "L",
+      "E",
+      "E",
+      "Z",
+      "T",
+      "N",
+      "G",
+      "N",
+      "O",
+      "G"
+    ],
+    [
+      "K",
+      "O",
+      "L",
+      "D",
+      "O",
+      "Y",
+      "H",
+      "G",
+      "J",
+      "L"
+    ],
+    [
+      "F",
+      "U",
+      "E",
+      "L",
+      "R",
+      "K",
+      "W",
+      "L",
+      "U",
+      "A"
+    ],
+    [
+      "T",
+      "A",
+      "N",
+      "K",
+      "B",
+      "U",
+      "A",
+      "U",
+      "S",
+      "N"
+    ],
+    [
+      "L",
+      "W",
+      "C",
+      "T",
+      "C",
+      "D",
+      "Y",
+      "U",
+      "T",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "HIGHWAY",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "WHEEL",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "DRIVE",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "MOTOR",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "FUEL",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "LANE",
+      "row": 6,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "HORN",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "GEAR",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "TANK",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "OIL",
+      "row": 0,
+      "col": 7,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9224
+}

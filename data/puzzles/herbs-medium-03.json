@@ -1,0 +1,284 @@
+{
+  "id": "herbs-medium-03",
+  "slug": "herbs-medium-03",
+  "themeId": "herbs",
+  "title": "Herbs & Spices: Slow Pace",
+  "primaryKeyword": "herbs and spices word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ALLSPICE",
+    "ANISE",
+    "BAY",
+    "CHIVES",
+    "CINNAMON",
+    "DILL",
+    "MUSTARD",
+    "ONION",
+    "OREGANO",
+    "SAFFRON",
+    "SAGE",
+    "SHALLOT",
+    "SUMAC",
+    "TURMERIC"
+  ],
+  "grid": [
+    [
+      "C",
+      "Z",
+      "A",
+      "N",
+      "C",
+      "H",
+      "I",
+      "V",
+      "E",
+      "S",
+      "U",
+      "Y"
+    ],
+    [
+      "T",
+      "P",
+      "B",
+      "P",
+      "C",
+      "B",
+      "A",
+      "Y",
+      "J",
+      "L",
+      "W",
+      "S"
+    ],
+    [
+      "U",
+      "Y",
+      "W",
+      "C",
+      "P",
+      "A",
+      "H",
+      "H",
+      "L",
+      "W",
+      "O",
+      "A"
+    ],
+    [
+      "R",
+      "A",
+      "S",
+      "I",
+      "S",
+      "L",
+      "C",
+      "I",
+      "N",
+      "G",
+      "R",
+      "G"
+    ],
+    [
+      "M",
+      "N",
+      "S",
+      "N",
+      "K",
+      "L",
+      "D",
+      "H",
+      "T",
+      "M",
+      "E",
+      "E"
+    ],
+    [
+      "E",
+      "I",
+      "A",
+      "N",
+      "S",
+      "S",
+      "S",
+      "Y",
+      "T",
+      "U",
+      "G",
+      "H"
+    ],
+    [
+      "R",
+      "S",
+      "F",
+      "A",
+      "H",
+      "P",
+      "R",
+      "U",
+      "O",
+      "S",
+      "A",
+      "F"
+    ],
+    [
+      "I",
+      "E",
+      "F",
+      "M",
+      "A",
+      "I",
+      "P",
+      "G",
+      "M",
+      "T",
+      "N",
+      "O"
+    ],
+    [
+      "C",
+      "T",
+      "R",
+      "O",
+      "L",
+      "C",
+      "T",
+      "V",
+      "X",
+      "A",
+      "O",
+      "V"
+    ],
+    [
+      "J",
+      "M",
+      "O",
+      "N",
+      "L",
+      "E",
+      "E",
+      "T",
+      "B",
+      "R",
+      "C",
+      "N"
+    ],
+    [
+      "D",
+      "L",
+      "N",
+      "K",
+      "O",
+      "B",
+      "S",
+      "R",
+      "P",
+      "D",
+      "L",
+      "W"
+    ],
+    [
+      "M",
+      "B",
+      "Y",
+      "N",
+      "T",
+      "O",
+      "N",
+      "I",
+      "O",
+      "N",
+      "Q",
+      "A"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ALLSPICE",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "TURMERIC",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CINNAMON",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "OREGANO",
+      "row": 2,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "MUSTARD",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SAFFRON",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "SHALLOT",
+      "row": 5,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "CHIVES",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SUMAC",
+      "row": 5,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "ONION",
+      "row": 11,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "ANISE",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "DILL",
+      "row": 4,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "SAGE",
+      "row": 1,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "BAY",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9279
+}

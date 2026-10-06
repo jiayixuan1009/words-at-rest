@@ -1,0 +1,173 @@
+{
+  "id": "animals-large-02",
+  "slug": "animals-large-02",
+  "themeId": "animals",
+  "title": "Large Print Animals: Soft Shore",
+  "primaryKeyword": "large print animals word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "CRAB",
+    "FISH",
+    "GULL",
+    "NEST",
+    "ROCK",
+    "SAND",
+    "SEAL",
+    "WAVE"
+  ],
+  "grid": [
+    [
+      "H",
+      "J",
+      "R",
+      "O",
+      "F",
+      "I",
+      "S",
+      "H",
+      "L"
+    ],
+    [
+      "S",
+      "E",
+      "L",
+      "L",
+      "C",
+      "R",
+      "A",
+      "B",
+      "V"
+    ],
+    [
+      "J",
+      "S",
+      "L",
+      "Y",
+      "D",
+      "U",
+      "D",
+      "E",
+      "N"
+    ],
+    [
+      "O",
+      "A",
+      "X",
+      "R",
+      "O",
+      "C",
+      "K",
+      "Z",
+      "E"
+    ],
+    [
+      "X",
+      "N",
+      "J",
+      "R",
+      "A",
+      "S",
+      "M",
+      "O",
+      "S"
+    ],
+    [
+      "I",
+      "D",
+      "J",
+      "F",
+      "R",
+      "E",
+      "I",
+      "G",
+      "T"
+    ],
+    [
+      "T",
+      "J",
+      "P",
+      "U",
+      "F",
+      "A",
+      "F",
+      "U",
+      "Q"
+    ],
+    [
+      "D",
+      "P",
+      "O",
+      "X",
+      "G",
+      "L",
+      "J",
+      "L",
+      "Z"
+    ],
+    [
+      "E",
+      "W",
+      "A",
+      "V",
+      "E",
+      "X",
+      "D",
+      "L",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SEAL",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "CRAB",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "GULL",
+      "row": 5,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "FISH",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "WAVE",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "NEST",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "ROCK",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SAND",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2024
+}

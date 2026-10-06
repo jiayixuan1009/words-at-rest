@@ -1,0 +1,284 @@
+{
+  "id": "trains-medium-03",
+  "slug": "trains-medium-03",
+  "themeId": "trains",
+  "title": "Trains: Nested Calm",
+  "primaryKeyword": "trains word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BALLAST",
+    "BUFFER",
+    "CAR",
+    "COUPLER",
+    "DEPOT",
+    "EXPRESS",
+    "FREIGHT",
+    "LOCAL",
+    "LUGGAGE",
+    "PLATFORM",
+    "TICKET",
+    "TIE",
+    "TRAIN",
+    "YARD"
+  ],
+  "grid": [
+    [
+      "L",
+      "U",
+      "G",
+      "G",
+      "A",
+      "G",
+      "E",
+      "O",
+      "I",
+      "E",
+      "R",
+      "E"
+    ],
+    [
+      "C",
+      "E",
+      "V",
+      "K",
+      "M",
+      "B",
+      "S",
+      "L",
+      "I",
+      "J",
+      "V",
+      "K"
+    ],
+    [
+      "O",
+      "X",
+      "C",
+      "M",
+      "W",
+      "E",
+      "A",
+      "T",
+      "Q",
+      "C",
+      "V",
+      "D"
+    ],
+    [
+      "U",
+      "P",
+      "A",
+      "T",
+      "T",
+      "E",
+      "P",
+      "L",
+      "N",
+      "M",
+      "G",
+      "E"
+    ],
+    [
+      "P",
+      "R",
+      "D",
+      "I",
+      "U",
+      "C",
+      "L",
+      "I",
+      "L",
+      "J",
+      "J",
+      "P"
+    ],
+    [
+      "L",
+      "E",
+      "D",
+      "C",
+      "Y",
+      "A",
+      "A",
+      "B",
+      "U",
+      "A",
+      "W",
+      "O"
+    ],
+    [
+      "E",
+      "S",
+      "A",
+      "K",
+      "H",
+      "R",
+      "T",
+      "U",
+      "X",
+      "X",
+      "S",
+      "T"
+    ],
+    [
+      "R",
+      "S",
+      "F",
+      "E",
+      "T",
+      "T",
+      "F",
+      "F",
+      "V",
+      "T",
+      "L",
+      "T"
+    ],
+    [
+      "V",
+      "B",
+      "G",
+      "T",
+      "L",
+      "F",
+      "O",
+      "F",
+      "A",
+      "E",
+      "O",
+      "V"
+    ],
+    [
+      "M",
+      "S",
+      "B",
+      "M",
+      "K",
+      "L",
+      "R",
+      "E",
+      "W",
+      "S",
+      "C",
+      "E"
+    ],
+    [
+      "U",
+      "Y",
+      "A",
+      "R",
+      "D",
+      "A",
+      "M",
+      "R",
+      "B",
+      "Y",
+      "A",
+      "W"
+    ],
+    [
+      "I",
+      "N",
+      "F",
+      "R",
+      "E",
+      "I",
+      "G",
+      "H",
+      "T",
+      "V",
+      "L",
+      "F"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PLATFORM",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "EXPRESS",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "BALLAST",
+      "row": 1,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "COUPLER",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "FREIGHT",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "LUGGAGE",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "TICKET",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "BUFFER",
+      "row": 5,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "DEPOT",
+      "row": 2,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "LOCAL",
+      "row": 7,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "TRAIN",
+      "row": 7,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "YARD",
+      "row": 10,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CAR",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "TIE",
+      "row": 2,
+      "col": 7,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9349
+}

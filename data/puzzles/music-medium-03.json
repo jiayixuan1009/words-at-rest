@@ -1,0 +1,284 @@
+{
+  "id": "music-medium-03",
+  "slug": "music-medium-03",
+  "themeId": "music",
+  "title": "Music: Chamber Night",
+  "primaryKeyword": "music word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CADENCE",
+    "CHAMBER",
+    "DYNAMICS",
+    "FORTE",
+    "LEGATO",
+    "MOTIF",
+    "OVERTURE",
+    "PEDAL",
+    "PIANO",
+    "QUARTET",
+    "SONATA",
+    "STACCATO",
+    "THEME",
+    "VARIATION"
+  ],
+  "grid": [
+    [
+      "T",
+      "B",
+      "I",
+      "J",
+      "D",
+      "N",
+      "P",
+      "I",
+      "A",
+      "N",
+      "O",
+      "Q"
+    ],
+    [
+      "H",
+      "I",
+      "F",
+      "K",
+      "Y",
+      "Z",
+      "S",
+      "P",
+      "O",
+      "O",
+      "O",
+      "P"
+    ],
+    [
+      "E",
+      "S",
+      "N",
+      "A",
+      "N",
+      "I",
+      "G",
+      "I",
+      "F",
+      "V",
+      "B",
+      "E"
+    ],
+    [
+      "M",
+      "O",
+      "Q",
+      "U",
+      "A",
+      "R",
+      "T",
+      "E",
+      "T",
+      "E",
+      "C",
+      "D"
+    ],
+    [
+      "E",
+      "N",
+      "X",
+      "H",
+      "M",
+      "A",
+      "Q",
+      "F",
+      "S",
+      "R",
+      "A",
+      "A"
+    ],
+    [
+      "R",
+      "A",
+      "I",
+      "J",
+      "I",
+      "V",
+      "C",
+      "O",
+      "T",
+      "T",
+      "D",
+      "L"
+    ],
+    [
+      "L",
+      "T",
+      "H",
+      "R",
+      "C",
+      "Y",
+      "H",
+      "R",
+      "A",
+      "U",
+      "E",
+      "Q"
+    ],
+    [
+      "E",
+      "A",
+      "A",
+      "I",
+      "S",
+      "F",
+      "A",
+      "T",
+      "C",
+      "R",
+      "N",
+      "R"
+    ],
+    [
+      "G",
+      "V",
+      "M",
+      "Y",
+      "I",
+      "O",
+      "M",
+      "E",
+      "C",
+      "E",
+      "C",
+      "A"
+    ],
+    [
+      "A",
+      "B",
+      "M",
+      "T",
+      "B",
+      "L",
+      "B",
+      "W",
+      "A",
+      "U",
+      "E",
+      "G"
+    ],
+    [
+      "T",
+      "H",
+      "O",
+      "I",
+      "N",
+      "T",
+      "E",
+      "U",
+      "T",
+      "Y",
+      "C",
+      "V"
+    ],
+    [
+      "O",
+      "M",
+      "W",
+      "F",
+      "U",
+      "B",
+      "R",
+      "Z",
+      "O",
+      "Z",
+      "N",
+      "O"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "VARIATION",
+      "row": 8,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "OVERTURE",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "DYNAMICS",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "STACCATO",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "CHAMBER",
+      "row": 5,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "QUARTET",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CADENCE",
+      "row": 3,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "SONATA",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "LEGATO",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "MOTIF",
+      "row": 11,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "THEME",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "PIANO",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "FORTE",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "PEDAL",
+      "row": 1,
+      "col": 11,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2622
+}

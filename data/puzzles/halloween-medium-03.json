@@ -1,0 +1,284 @@
+{
+  "id": "halloween-medium-03",
+  "slug": "halloween-medium-03",
+  "themeId": "halloween",
+  "title": "Halloween: Maple Street",
+  "primaryKeyword": "halloween word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BROOM",
+    "CANDY",
+    "CAULDRON",
+    "CREAK",
+    "FANG",
+    "FOG",
+    "GHOST",
+    "GRAVEYARD",
+    "HAUNTED",
+    "HOWL",
+    "JACKOLANTERN",
+    "SKELETON",
+    "SPELL",
+    "WITCH"
+  ],
+  "grid": [
+    [
+      "I",
+      "V",
+      "C",
+      "A",
+      "N",
+      "D",
+      "Y",
+      "S",
+      "P",
+      "E",
+      "L",
+      "L"
+    ],
+    [
+      "N",
+      "C",
+      "Y",
+      "J",
+      "W",
+      "I",
+      "T",
+      "C",
+      "H",
+      "S",
+      "K",
+      "Y"
+    ],
+    [
+      "L",
+      "B",
+      "Y",
+      "C",
+      "A",
+      "U",
+      "L",
+      "D",
+      "R",
+      "O",
+      "N",
+      "L"
+    ],
+    [
+      "U",
+      "O",
+      "O",
+      "O",
+      "B",
+      "G",
+      "H",
+      "O",
+      "S",
+      "T",
+      "G",
+      "H"
+    ],
+    [
+      "C",
+      "X",
+      "Z",
+      "L",
+      "S",
+      "K",
+      "E",
+      "L",
+      "E",
+      "T",
+      "O",
+      "N"
+    ],
+    [
+      "J",
+      "A",
+      "C",
+      "K",
+      "O",
+      "L",
+      "A",
+      "N",
+      "T",
+      "E",
+      "R",
+      "N"
+    ],
+    [
+      "F",
+      "A",
+      "N",
+      "G",
+      "X",
+      "U",
+      "E",
+      "U",
+      "C",
+      "Q",
+      "C",
+      "I"
+    ],
+    [
+      "C",
+      "R",
+      "E",
+      "A",
+      "K",
+      "F",
+      "E",
+      "V",
+      "T",
+      "G",
+      "H",
+      "O"
+    ],
+    [
+      "H",
+      "O",
+      "W",
+      "L",
+      "R",
+      "T",
+      "J",
+      "R",
+      "O",
+      "D",
+      "Q",
+      "M"
+    ],
+    [
+      "N",
+      "M",
+      "B",
+      "R",
+      "O",
+      "O",
+      "M",
+      "F",
+      "C",
+      "X",
+      "E",
+      "X"
+    ],
+    [
+      "H",
+      "A",
+      "U",
+      "N",
+      "T",
+      "E",
+      "D",
+      "Y",
+      "X",
+      "V",
+      "C",
+      "X"
+    ],
+    [
+      "J",
+      "A",
+      "G",
+      "R",
+      "A",
+      "V",
+      "E",
+      "Y",
+      "A",
+      "R",
+      "D",
+      "A"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "JACKOLANTERN",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "GRAVEYARD",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SKELETON",
+      "row": 4,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CAULDRON",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "HAUNTED",
+      "row": 10,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "WITCH",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SPELL",
+      "row": 0,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "BROOM",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CREAK",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CANDY",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "GHOST",
+      "row": 3,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "FANG",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "HOWL",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "FOG",
+      "row": 9,
+      "col": 7,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 1052
+}

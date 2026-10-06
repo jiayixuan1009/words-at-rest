@@ -1,0 +1,284 @@
+{
+  "id": "travel-medium-02",
+  "slug": "travel-medium-02",
+  "themeId": "travel",
+  "title": "Travel: Quiet Journey",
+  "primaryKeyword": "travel word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BOARDING",
+    "CABIN",
+    "FERRY",
+    "GUIDE",
+    "JOURNEY",
+    "LODGE",
+    "LUGGAGE",
+    "MARKET",
+    "PASSPORT",
+    "PLATFORM",
+    "POSTCARD",
+    "ROUTE",
+    "STAMP",
+    "VIEW"
+  ],
+  "grid": [
+    [
+      "W",
+      "K",
+      "J",
+      "J",
+      "L",
+      "U",
+      "G",
+      "G",
+      "A",
+      "G",
+      "E",
+      "C"
+    ],
+    [
+      "G",
+      "C",
+      "N",
+      "G",
+      "U",
+      "I",
+      "D",
+      "E",
+      "E",
+      "T",
+      "O",
+      "G"
+    ],
+    [
+      "E",
+      "B",
+      "A",
+      "O",
+      "P",
+      "L",
+      "A",
+      "T",
+      "F",
+      "O",
+      "R",
+      "M"
+    ],
+    [
+      "P",
+      "O",
+      "F",
+      "B",
+      "L",
+      "M",
+      "U",
+      "R",
+      "N",
+      "B",
+      "X",
+      "Y"
+    ],
+    [
+      "O",
+      "A",
+      "X",
+      "S",
+      "I",
+      "O",
+      "T",
+      "V",
+      "C",
+      "M",
+      "D",
+      "Y"
+    ],
+    [
+      "S",
+      "R",
+      "S",
+      "M",
+      "R",
+      "N",
+      "F",
+      "H",
+      "V",
+      "L",
+      "H",
+      "O"
+    ],
+    [
+      "T",
+      "D",
+      "T",
+      "A",
+      "P",
+      "A",
+      "S",
+      "S",
+      "P",
+      "O",
+      "R",
+      "T"
+    ],
+    [
+      "C",
+      "I",
+      "A",
+      "R",
+      "F",
+      "H",
+      "K",
+      "W",
+      "Z",
+      "D",
+      "V",
+      "I"
+    ],
+    [
+      "A",
+      "N",
+      "M",
+      "K",
+      "O",
+      "E",
+      "W",
+      "Z",
+      "P",
+      "G",
+      "J",
+      "Q"
+    ],
+    [
+      "R",
+      "G",
+      "P",
+      "E",
+      "W",
+      "N",
+      "R",
+      "J",
+      "G",
+      "E",
+      "P",
+      "T"
+    ],
+    [
+      "D",
+      "G",
+      "T",
+      "T",
+      "J",
+      "O",
+      "U",
+      "R",
+      "N",
+      "E",
+      "Y",
+      "M"
+    ],
+    [
+      "E",
+      "W",
+      "V",
+      "I",
+      "E",
+      "W",
+      "C",
+      "H",
+      "Y",
+      "S",
+      "C",
+      "B"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PASSPORT",
+      "row": 6,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BOARDING",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "PLATFORM",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "POSTCARD",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "JOURNEY",
+      "row": 10,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "LUGGAGE",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "MARKET",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "CABIN",
+      "row": 1,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "ROUTE",
+      "row": 5,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "GUIDE",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "LODGE",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "STAMP",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "FERRY",
+      "row": 7,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "VIEW",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2512
+}

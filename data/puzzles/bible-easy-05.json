@@ -1,0 +1,208 @@
+{
+  "id": "bible-easy-05",
+  "slug": "bible-easy-05",
+  "themeId": "bible",
+  "title": "Bible: Quiet Verse",
+  "primaryKeyword": "bible word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "HOPE",
+    "JOY",
+    "LIGHT",
+    "LINE",
+    "PATH",
+    "PEACE",
+    "REST",
+    "ROCK",
+    "VERSE",
+    "WORD"
+  ],
+  "grid": [
+    [
+      "H",
+      "Z",
+      "Z",
+      "V",
+      "C",
+      "F",
+      "F",
+      "V",
+      "Q",
+      "V"
+    ],
+    [
+      "F",
+      "J",
+      "P",
+      "M",
+      "D",
+      "Q",
+      "R",
+      "V",
+      "D",
+      "A"
+    ],
+    [
+      "R",
+      "J",
+      "A",
+      "W",
+      "L",
+      "I",
+      "N",
+      "E",
+      "H",
+      "L"
+    ],
+    [
+      "O",
+      "F",
+      "T",
+      "O",
+      "S",
+      "U",
+      "T",
+      "R",
+      "O",
+      "I"
+    ],
+    [
+      "C",
+      "R",
+      "H",
+      "R",
+      "W",
+      "H",
+      "H",
+      "S",
+      "S",
+      "G"
+    ],
+    [
+      "K",
+      "E",
+      "W",
+      "D",
+      "G",
+      "V",
+      "G",
+      "E",
+      "L",
+      "H"
+    ],
+    [
+      "H",
+      "S",
+      "I",
+      "P",
+      "E",
+      "A",
+      "C",
+      "E",
+      "T",
+      "T"
+    ],
+    [
+      "Q",
+      "T",
+      "L",
+      "G",
+      "G",
+      "B",
+      "H",
+      "O",
+      "P",
+      "E"
+    ],
+    [
+      "H",
+      "H",
+      "J",
+      "O",
+      "Y",
+      "Y",
+      "Y",
+      "F",
+      "R",
+      "F"
+    ],
+    [
+      "R",
+      "G",
+      "Q",
+      "J",
+      "H",
+      "K",
+      "M",
+      "X",
+      "U",
+      "K"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "VERSE",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "LIGHT",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "PEACE",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "LINE",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "WORD",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "PATH",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "ROCK",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "HOPE",
+      "row": 7,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "REST",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "JOY",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 5021
+}

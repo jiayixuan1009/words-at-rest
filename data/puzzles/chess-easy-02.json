@@ -1,0 +1,208 @@
+{
+  "id": "chess-easy-02",
+  "slug": "chess-easy-02",
+  "themeId": "chess",
+  "title": "Chess: Pawn Push",
+  "primaryKeyword": "chess word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ATTACK",
+    "BISHOP",
+    "BOOK",
+    "CASTLE",
+    "CENTER",
+    "CLOCK",
+    "KNIGHT",
+    "QUEEN",
+    "SCORE",
+    "STUDY"
+  ],
+  "grid": [
+    [
+      "C",
+      "P",
+      "K",
+      "N",
+      "I",
+      "G",
+      "H",
+      "T",
+      "O",
+      "Y"
+    ],
+    [
+      "Q",
+      "Q",
+      "F",
+      "U",
+      "Q",
+      "E",
+      "V",
+      "L",
+      "F",
+      "B"
+    ],
+    [
+      "C",
+      "B",
+      "C",
+      "E",
+      "U",
+      "N",
+      "D",
+      "S",
+      "X",
+      "I"
+    ],
+    [
+      "A",
+      "O",
+      "E",
+      "O",
+      "E",
+      "N",
+      "A",
+      "C",
+      "N",
+      "S"
+    ],
+    [
+      "S",
+      "O",
+      "N",
+      "S",
+      "E",
+      "R",
+      "A",
+      "O",
+      "H",
+      "H"
+    ],
+    [
+      "T",
+      "K",
+      "T",
+      "T",
+      "N",
+      "E",
+      "F",
+      "R",
+      "U",
+      "O"
+    ],
+    [
+      "L",
+      "B",
+      "E",
+      "U",
+      "P",
+      "T",
+      "O",
+      "E",
+      "C",
+      "P"
+    ],
+    [
+      "E",
+      "Z",
+      "R",
+      "D",
+      "W",
+      "C",
+      "L",
+      "O",
+      "C",
+      "K"
+    ],
+    [
+      "W",
+      "B",
+      "N",
+      "Y",
+      "O",
+      "C",
+      "T",
+      "J",
+      "P",
+      "V"
+    ],
+    [
+      "V",
+      "A",
+      "B",
+      "T",
+      "A",
+      "T",
+      "T",
+      "A",
+      "C",
+      "K"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "KNIGHT",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BISHOP",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "CASTLE",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CENTER",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "ATTACK",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "QUEEN",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "CLOCK",
+      "row": 7,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SCORE",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "STUDY",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "BOOK",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8802
+}

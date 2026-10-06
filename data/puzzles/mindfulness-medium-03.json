@@ -1,0 +1,284 @@
+{
+  "id": "mindfulness-medium-03",
+  "slug": "mindfulness-medium-03",
+  "themeId": "mindfulness",
+  "title": "Mindfulness: Warm Corner",
+  "primaryKeyword": "mindfulness word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BALANCE",
+    "BREATH",
+    "CLOUD",
+    "EXHALE",
+    "INHALE",
+    "LIGHT",
+    "LISTEN",
+    "PAUSE",
+    "PRESENT",
+    "SENSE",
+    "SILENCE",
+    "SOFT",
+    "TASTE",
+    "WATER"
+  ],
+  "grid": [
+    [
+      "H",
+      "X",
+      "I",
+      "N",
+      "H",
+      "A",
+      "L",
+      "E",
+      "P",
+      "K",
+      "M",
+      "H"
+    ],
+    [
+      "T",
+      "A",
+      "S",
+      "T",
+      "E",
+      "E",
+      "S",
+      "O",
+      "F",
+      "T",
+      "E",
+      "Q"
+    ],
+    [
+      "X",
+      "L",
+      "B",
+      "B",
+      "L",
+      "M",
+      "E",
+      "O",
+      "E",
+      "Z",
+      "U",
+      "P"
+    ],
+    [
+      "F",
+      "L",
+      "S",
+      "R",
+      "A",
+      "J",
+      "T",
+      "B",
+      "W",
+      "A",
+      "Z",
+      "B"
+    ],
+    [
+      "L",
+      "J",
+      "I",
+      "H",
+      "E",
+      "B",
+      "A",
+      "L",
+      "A",
+      "N",
+      "C",
+      "E"
+    ],
+    [
+      "I",
+      "S",
+      "L",
+      "G",
+      "E",
+      "A",
+      "L",
+      "L",
+      "T",
+      "U",
+      "C",
+      "I"
+    ],
+    [
+      "S",
+      "H",
+      "E",
+      "U",
+      "H",
+      "X",
+      "T",
+      "J",
+      "E",
+      "Y",
+      "C",
+      "R"
+    ],
+    [
+      "T",
+      "Y",
+      "N",
+      "N",
+      "S",
+      "T",
+      "H",
+      "H",
+      "R",
+      "S",
+      "L",
+      "T"
+    ],
+    [
+      "E",
+      "V",
+      "C",
+      "Y",
+      "S",
+      "G",
+      "I",
+      "A",
+      "N",
+      "V",
+      "O",
+      "L"
+    ],
+    [
+      "N",
+      "G",
+      "E",
+      "K",
+      "D",
+      "E",
+      "G",
+      "H",
+      "L",
+      "N",
+      "U",
+      "Q"
+    ],
+    [
+      "L",
+      "R",
+      "P",
+      "R",
+      "E",
+      "S",
+      "E",
+      "N",
+      "T",
+      "E",
+      "D",
+      "W"
+    ],
+    [
+      "F",
+      "E",
+      "P",
+      "A",
+      "U",
+      "S",
+      "E",
+      "K",
+      "P",
+      "I",
+      "W",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BALANCE",
+      "row": 4,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "PRESENT",
+      "row": 10,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SILENCE",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "LISTEN",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "EXHALE",
+      "row": 5,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "BREATH",
+      "row": 2,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "INHALE",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SENSE",
+      "row": 5,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "WATER",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "CLOUD",
+      "row": 6,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "TASTE",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "PAUSE",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "LIGHT",
+      "row": 3,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "SOFT",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9309
+}

@@ -1,0 +1,284 @@
+{
+  "id": "apothecary-medium-02",
+  "slug": "apothecary-medium-02",
+  "themeId": "apothecary",
+  "title": "Apothecary: Blend Day",
+  "primaryKeyword": "apothecary word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BEESWAX",
+    "CHAMOMILE",
+    "CRAFT",
+    "DRIED",
+    "LEDGER",
+    "LINEN",
+    "MINT",
+    "PAPER",
+    "ROSEMARY",
+    "SAGE",
+    "SCENT",
+    "THYME",
+    "TRADE",
+    "WAX"
+  ],
+  "grid": [
+    [
+      "N",
+      "J",
+      "X",
+      "B",
+      "O",
+      "U",
+      "K",
+      "G",
+      "R",
+      "W",
+      "T",
+      "S"
+    ],
+    [
+      "E",
+      "J",
+      "P",
+      "R",
+      "E",
+      "H",
+      "T",
+      "E",
+      "P",
+      "F",
+      "V",
+      "Z"
+    ],
+    [
+      "M",
+      "J",
+      "R",
+      "Y",
+      "H",
+      "E",
+      "G",
+      "J",
+      "A",
+      "Q",
+      "R",
+      "B"
+    ],
+    [
+      "C",
+      "C",
+      "O",
+      "I",
+      "Y",
+      "D",
+      "S",
+      "R",
+      "T",
+      "U",
+      "W",
+      "H"
+    ],
+    [
+      "W",
+      "H",
+      "S",
+      "P",
+      "E",
+      "L",
+      "C",
+      "W",
+      "R",
+      "G",
+      "A",
+      "J"
+    ],
+    [
+      "T",
+      "A",
+      "E",
+      "L",
+      "W",
+      "I",
+      "K",
+      "B",
+      "A",
+      "G",
+      "X",
+      "G"
+    ],
+    [
+      "H",
+      "M",
+      "M",
+      "P",
+      "P",
+      "N",
+      "D",
+      "L",
+      "D",
+      "X",
+      "U",
+      "V"
+    ],
+    [
+      "Y",
+      "O",
+      "A",
+      "V",
+      "M",
+      "E",
+      "S",
+      "C",
+      "E",
+      "N",
+      "T",
+      "L"
+    ],
+    [
+      "M",
+      "M",
+      "R",
+      "R",
+      "I",
+      "N",
+      "P",
+      "A",
+      "P",
+      "E",
+      "R",
+      "E"
+    ],
+    [
+      "E",
+      "I",
+      "Y",
+      "R",
+      "N",
+      "Q",
+      "E",
+      "E",
+      "A",
+      "W",
+      "G",
+      "A"
+    ],
+    [
+      "C",
+      "L",
+      "D",
+      "J",
+      "T",
+      "O",
+      "U",
+      "E",
+      "M",
+      "A",
+      "H",
+      "Q"
+    ],
+    [
+      "W",
+      "E",
+      "C",
+      "N",
+      "X",
+      "R",
+      "U",
+      "M",
+      "S",
+      "B",
+      "L",
+      "V"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CHAMOMILE",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "ROSEMARY",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "BEESWAX",
+      "row": 0,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "LEDGER",
+      "row": 5,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "LINEN",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "TRADE",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "CRAFT",
+      "row": 4,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "SCENT",
+      "row": 7,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "DRIED",
+      "row": 10,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "THYME",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "PAPER",
+      "row": 8,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "MINT",
+      "row": 7,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "SAGE",
+      "row": 11,
+      "col": 8,
+      "direction": "NE"
+    },
+    {
+      "word": "WAX",
+      "row": 3,
+      "col": 10,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9044
+}

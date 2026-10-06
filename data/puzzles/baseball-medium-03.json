@@ -1,0 +1,284 @@
+{
+  "id": "baseball-medium-03",
+  "slug": "baseball-medium-03",
+  "themeId": "baseball",
+  "title": "Baseball: Long Afternoon",
+  "primaryKeyword": "baseball word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BASE",
+    "BUNT",
+    "CAP",
+    "CATCH",
+    "CLEATS",
+    "CURVE",
+    "FORCE",
+    "GLOVE",
+    "HIT",
+    "MITT",
+    "OUTFIELD",
+    "PITCH",
+    "RELAY",
+    "SHORTSTOP"
+  ],
+  "grid": [
+    [
+      "L",
+      "G",
+      "C",
+      "U",
+      "R",
+      "V",
+      "E",
+      "F",
+      "B",
+      "Z",
+      "P",
+      "D"
+    ],
+    [
+      "S",
+      "L",
+      "D",
+      "R",
+      "M",
+      "I",
+      "T",
+      "T",
+      "A",
+      "S",
+      "L",
+      "T"
+    ],
+    [
+      "P",
+      "O",
+      "Q",
+      "E",
+      "R",
+      "M",
+      "H",
+      "B",
+      "S",
+      "D",
+      "U",
+      "N"
+    ],
+    [
+      "I",
+      "V",
+      "M",
+      "L",
+      "R",
+      "S",
+      "I",
+      "M",
+      "E",
+      "B",
+      "U",
+      "O"
+    ],
+    [
+      "T",
+      "E",
+      "J",
+      "A",
+      "A",
+      "H",
+      "T",
+      "V",
+      "C",
+      "F",
+      "O",
+      "J"
+    ],
+    [
+      "C",
+      "A",
+      "Z",
+      "Y",
+      "M",
+      "O",
+      "U",
+      "B",
+      "L",
+      "M",
+      "U",
+      "L"
+    ],
+    [
+      "H",
+      "E",
+      "D",
+      "P",
+      "E",
+      "R",
+      "B",
+      "C",
+      "E",
+      "C",
+      "T",
+      "H"
+    ],
+    [
+      "N",
+      "U",
+      "J",
+      "C",
+      "B",
+      "T",
+      "O",
+      "L",
+      "A",
+      "E",
+      "F",
+      "A"
+    ],
+    [
+      "U",
+      "W",
+      "R",
+      "C",
+      "U",
+      "S",
+      "W",
+      "X",
+      "T",
+      "J",
+      "I",
+      "Q"
+    ],
+    [
+      "V",
+      "O",
+      "I",
+      "A",
+      "N",
+      "T",
+      "I",
+      "Q",
+      "S",
+      "G",
+      "E",
+      "V"
+    ],
+    [
+      "F",
+      "H",
+      "X",
+      "P",
+      "T",
+      "O",
+      "L",
+      "R",
+      "I",
+      "O",
+      "L",
+      "S"
+    ],
+    [
+      "C",
+      "A",
+      "T",
+      "C",
+      "H",
+      "P",
+      "K",
+      "B",
+      "Q",
+      "F",
+      "D",
+      "Y"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SHORTSTOP",
+      "row": 3,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "OUTFIELD",
+      "row": 4,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "CLEATS",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "PITCH",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "RELAY",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "CATCH",
+      "row": 11,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "FORCE",
+      "row": 10,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "GLOVE",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "CURVE",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BASE",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "BUNT",
+      "row": 7,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "MITT",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CAP",
+      "row": 8,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "HIT",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9211
+}

@@ -1,0 +1,208 @@
+{
+  "id": "presidents-easy-03",
+  "slug": "presidents-easy-03",
+  "themeId": "presidents",
+  "title": "U.S. Presidents: Calm Desk",
+  "primaryKeyword": "us presidents word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ADAMS",
+    "CARTER",
+    "FILLMORE",
+    "HOOVER",
+    "INAUGURAL",
+    "MADISON",
+    "OVAL",
+    "TERM",
+    "TRUMAN",
+    "WASHINGTON"
+  ],
+  "grid": [
+    [
+      "Y",
+      "M",
+      "M",
+      "A",
+      "D",
+      "I",
+      "S",
+      "O",
+      "N",
+      "C"
+    ],
+    [
+      "Y",
+      "C",
+      "F",
+      "I",
+      "L",
+      "L",
+      "M",
+      "O",
+      "R",
+      "E"
+    ],
+    [
+      "T",
+      "I",
+      "N",
+      "A",
+      "U",
+      "G",
+      "U",
+      "R",
+      "A",
+      "L"
+    ],
+    [
+      "A",
+      "D",
+      "A",
+      "M",
+      "S",
+      "S",
+      "S",
+      "W",
+      "F",
+      "Q"
+    ],
+    [
+      "N",
+      "A",
+      "Q",
+      "B",
+      "C",
+      "A",
+      "R",
+      "T",
+      "E",
+      "R"
+    ],
+    [
+      "W",
+      "A",
+      "S",
+      "H",
+      "I",
+      "N",
+      "G",
+      "T",
+      "O",
+      "N"
+    ],
+    [
+      "O",
+      "C",
+      "L",
+      "H",
+      "J",
+      "H",
+      "O",
+      "V",
+      "A",
+      "L"
+    ],
+    [
+      "Z",
+      "Y",
+      "W",
+      "T",
+      "E",
+      "R",
+      "M",
+      "R",
+      "Z",
+      "C"
+    ],
+    [
+      "H",
+      "O",
+      "O",
+      "V",
+      "E",
+      "R",
+      "D",
+      "V",
+      "C",
+      "K"
+    ],
+    [
+      "O",
+      "W",
+      "T",
+      "R",
+      "U",
+      "M",
+      "A",
+      "N",
+      "J",
+      "A"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "WASHINGTON",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "INAUGURAL",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "FILLMORE",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "MADISON",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CARTER",
+      "row": 4,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "HOOVER",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "TRUMAN",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ADAMS",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "OVAL",
+      "row": 6,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "TERM",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9328
+}

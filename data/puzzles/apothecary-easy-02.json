@@ -1,0 +1,208 @@
+{
+  "id": "apothecary-easy-02",
+  "slug": "apothecary-easy-02",
+  "themeId": "apothecary",
+  "title": "Apothecary: Quiet Herb",
+  "primaryKeyword": "apothecary word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BALM",
+    "BARK",
+    "BLEND",
+    "BOTTLE",
+    "DRAWER",
+    "LABEL",
+    "QUIET",
+    "SALVE",
+    "SEED",
+    "SHOP"
+  ],
+  "grid": [
+    [
+      "X",
+      "Z",
+      "C",
+      "U",
+      "J",
+      "S",
+      "E",
+      "E",
+      "D",
+      "N"
+    ],
+    [
+      "S",
+      "H",
+      "O",
+      "P",
+      "C",
+      "W",
+      "T",
+      "E",
+      "E",
+      "Y"
+    ],
+    [
+      "T",
+      "N",
+      "L",
+      "Z",
+      "I",
+      "S",
+      "A",
+      "L",
+      "V",
+      "E"
+    ],
+    [
+      "A",
+      "E",
+      "R",
+      "F",
+      "F",
+      "M",
+      "B",
+      "A",
+      "R",
+      "K"
+    ],
+    [
+      "C",
+      "B",
+      "D",
+      "B",
+      "O",
+      "T",
+      "T",
+      "L",
+      "E",
+      "Q"
+    ],
+    [
+      "L",
+      "A",
+      "R",
+      "D",
+      "Q",
+      "U",
+      "I",
+      "E",
+      "T",
+      "U"
+    ],
+    [
+      "C",
+      "L",
+      "A",
+      "T",
+      "Y",
+      "Y",
+      "M",
+      "L",
+      "W",
+      "O"
+    ],
+    [
+      "M",
+      "M",
+      "W",
+      "X",
+      "A",
+      "O",
+      "U",
+      "E",
+      "E",
+      "P"
+    ],
+    [
+      "E",
+      "F",
+      "E",
+      "L",
+      "A",
+      "B",
+      "E",
+      "L",
+      "F",
+      "E"
+    ],
+    [
+      "H",
+      "M",
+      "R",
+      "B",
+      "L",
+      "E",
+      "N",
+      "D",
+      "K",
+      "M"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BOTTLE",
+      "row": 4,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "DRAWER",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "SALVE",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "LABEL",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "QUIET",
+      "row": 5,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BLEND",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SEED",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "BARK",
+      "row": 3,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "BALM",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SHOP",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9042
+}

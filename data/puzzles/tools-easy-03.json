@@ -1,0 +1,208 @@
+{
+  "id": "tools-easy-03",
+  "slug": "tools-easy-03",
+  "themeId": "tools",
+  "title": "Tools: Bench Top",
+  "primaryKeyword": "tools word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "AWL",
+    "BENCH",
+    "CLAMP",
+    "FILE",
+    "PENCIL",
+    "RASP",
+    "RULE",
+    "SHOP",
+    "SOFT",
+    "VISE"
+  ],
+  "grid": [
+    [
+      "P",
+      "E",
+      "N",
+      "C",
+      "I",
+      "L",
+      "B",
+      "S",
+      "P",
+      "P"
+    ],
+    [
+      "K",
+      "E",
+      "I",
+      "V",
+      "I",
+      "S",
+      "E",
+      "H",
+      "Q",
+      "N"
+    ],
+    [
+      "D",
+      "D",
+      "J",
+      "D",
+      "U",
+      "F",
+      "N",
+      "O",
+      "F",
+      "M"
+    ],
+    [
+      "K",
+      "G",
+      "H",
+      "U",
+      "J",
+      "L",
+      "C",
+      "P",
+      "I",
+      "R"
+    ],
+    [
+      "Z",
+      "O",
+      "V",
+      "H",
+      "O",
+      "T",
+      "H",
+      "U",
+      "L",
+      "U"
+    ],
+    [
+      "V",
+      "X",
+      "T",
+      "Q",
+      "Y",
+      "R",
+      "F",
+      "U",
+      "E",
+      "L"
+    ],
+    [
+      "F",
+      "M",
+      "R",
+      "L",
+      "V",
+      "O",
+      "L",
+      "S",
+      "A",
+      "E"
+    ],
+    [
+      "E",
+      "Z",
+      "C",
+      "L",
+      "A",
+      "M",
+      "P",
+      "O",
+      "W",
+      "H"
+    ],
+    [
+      "I",
+      "Y",
+      "V",
+      "U",
+      "I",
+      "G",
+      "T",
+      "F",
+      "L",
+      "E"
+    ],
+    [
+      "R",
+      "Y",
+      "R",
+      "A",
+      "S",
+      "P",
+      "O",
+      "T",
+      "Y",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PENCIL",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BENCH",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "CLAMP",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "VISE",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "RULE",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "FILE",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "RASP",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SOFT",
+      "row": 6,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SHOP",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "AWL",
+      "row": 6,
+      "col": 8,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 4311
+}

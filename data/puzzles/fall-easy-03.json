@@ -1,0 +1,208 @@
+{
+  "id": "fall-easy-03",
+  "slug": "fall-easy-03",
+  "themeId": "fall",
+  "title": "Fall: Basket Walk",
+  "primaryKeyword": "fall word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "APPLE",
+    "BASKET",
+    "DUSK",
+    "GOLD",
+    "GOURD",
+    "PEAR",
+    "PILE",
+    "RAKE",
+    "RUST",
+    "WALK"
+  ],
+  "grid": [
+    [
+      "W",
+      "T",
+      "R",
+      "S",
+      "E",
+      "I",
+      "G",
+      "B",
+      "G",
+      "K"
+    ],
+    [
+      "K",
+      "L",
+      "B",
+      "R",
+      "I",
+      "A",
+      "O",
+      "A",
+      "O",
+      "G"
+    ],
+    [
+      "V",
+      "F",
+      "T",
+      "E",
+      "D",
+      "M",
+      "L",
+      "S",
+      "U",
+      "H"
+    ],
+    [
+      "O",
+      "U",
+      "W",
+      "P",
+      "U",
+      "L",
+      "D",
+      "K",
+      "R",
+      "P"
+    ],
+    [
+      "P",
+      "W",
+      "U",
+      "R",
+      "S",
+      "V",
+      "L",
+      "E",
+      "D",
+      "L"
+    ],
+    [
+      "E",
+      "C",
+      "P",
+      "U",
+      "K",
+      "T",
+      "A",
+      "T",
+      "D",
+      "R"
+    ],
+    [
+      "A",
+      "H",
+      "I",
+      "D",
+      "G",
+      "S",
+      "N",
+      "I",
+      "R",
+      "A"
+    ],
+    [
+      "R",
+      "N",
+      "L",
+      "R",
+      "U",
+      "S",
+      "T",
+      "M",
+      "M",
+      "K"
+    ],
+    [
+      "D",
+      "D",
+      "E",
+      "W",
+      "A",
+      "L",
+      "K",
+      "Z",
+      "R",
+      "E"
+    ],
+    [
+      "Y",
+      "I",
+      "F",
+      "D",
+      "A",
+      "P",
+      "P",
+      "L",
+      "E",
+      "C"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BASKET",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "APPLE",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "GOURD",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "PEAR",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "RAKE",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "PILE",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "GOLD",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "RUST",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "WALK",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "DUSK",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 1121
+}

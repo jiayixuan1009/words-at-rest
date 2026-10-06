@@ -1,0 +1,208 @@
+{
+  "id": "jazz-easy-03",
+  "slug": "jazz-easy-03",
+  "themeId": "jazz",
+  "title": "Jazz: Morning Light",
+  "primaryKeyword": "jazz word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BALLAD",
+    "BLUES",
+    "BRIDGE",
+    "CABARET",
+    "CHORUS",
+    "GROOVE",
+    "IMPROVISE",
+    "MELODY",
+    "MUTE",
+    "QUINTET"
+  ],
+  "grid": [
+    [
+      "U",
+      "J",
+      "I",
+      "L",
+      "M",
+      "P",
+      "Q",
+      "O",
+      "H",
+      "Q"
+    ],
+    [
+      "D",
+      "I",
+      "G",
+      "K",
+      "U",
+      "B",
+      "U",
+      "I",
+      "C",
+      "Z"
+    ],
+    [
+      "E",
+      "C",
+      "R",
+      "O",
+      "P",
+      "A",
+      "I",
+      "M",
+      "H",
+      "S"
+    ],
+    [
+      "B",
+      "A",
+      "O",
+      "M",
+      "P",
+      "L",
+      "N",
+      "P",
+      "O",
+      "R"
+    ],
+    [
+      "R",
+      "B",
+      "O",
+      "T",
+      "W",
+      "L",
+      "T",
+      "R",
+      "R",
+      "M"
+    ],
+    [
+      "I",
+      "A",
+      "V",
+      "B",
+      "R",
+      "A",
+      "E",
+      "O",
+      "U",
+      "E"
+    ],
+    [
+      "D",
+      "R",
+      "E",
+      "L",
+      "Q",
+      "D",
+      "T",
+      "V",
+      "S",
+      "L"
+    ],
+    [
+      "G",
+      "E",
+      "U",
+      "U",
+      "J",
+      "X",
+      "V",
+      "I",
+      "P",
+      "O"
+    ],
+    [
+      "E",
+      "T",
+      "B",
+      "E",
+      "G",
+      "L",
+      "L",
+      "S",
+      "D",
+      "D"
+    ],
+    [
+      "Y",
+      "F",
+      "B",
+      "S",
+      "M",
+      "U",
+      "T",
+      "E",
+      "O",
+      "Y"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "IMPROVISE",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "QUINTET",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "CABARET",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "MELODY",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "GROOVE",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "BALLAD",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "CHORUS",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "BRIDGE",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BLUES",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "MUTE",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9294
+}

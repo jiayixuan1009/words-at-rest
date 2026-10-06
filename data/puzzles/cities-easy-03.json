@@ -1,0 +1,208 @@
+{
+  "id": "cities-easy-03",
+  "slug": "cities-easy-03",
+  "themeId": "cities",
+  "title": "Cities: Open Window",
+  "primaryKeyword": "cities word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ATHENS",
+    "DALLAS",
+    "HAVANA",
+    "LIMA",
+    "LISBON",
+    "MELBOURNE",
+    "MOSCOW",
+    "SEOUL",
+    "SKYLINE",
+    "VANCOUVER"
+  ],
+  "grid": [
+    [
+      "P",
+      "Q",
+      "M",
+      "H",
+      "Q",
+      "N",
+      "J",
+      "C",
+      "V",
+      "Y"
+    ],
+    [
+      "E",
+      "L",
+      "E",
+      "M",
+      "F",
+      "M",
+      "Z",
+      "P",
+      "A",
+      "M"
+    ],
+    [
+      "N",
+      "I",
+      "L",
+      "O",
+      "Z",
+      "S",
+      "A",
+      "P",
+      "N",
+      "H"
+    ],
+    [
+      "X",
+      "S",
+      "B",
+      "S",
+      "D",
+      "T",
+      "T",
+      "S",
+      "C",
+      "A"
+    ],
+    [
+      "C",
+      "B",
+      "O",
+      "C",
+      "A",
+      "W",
+      "H",
+      "E",
+      "O",
+      "V"
+    ],
+    [
+      "J",
+      "O",
+      "U",
+      "O",
+      "L",
+      "L",
+      "E",
+      "O",
+      "U",
+      "A"
+    ],
+    [
+      "I",
+      "N",
+      "R",
+      "W",
+      "L",
+      "I",
+      "N",
+      "U",
+      "V",
+      "N"
+    ],
+    [
+      "C",
+      "O",
+      "N",
+      "D",
+      "A",
+      "M",
+      "S",
+      "L",
+      "E",
+      "A"
+    ],
+    [
+      "B",
+      "Q",
+      "E",
+      "M",
+      "S",
+      "A",
+      "A",
+      "L",
+      "R",
+      "I"
+    ],
+    [
+      "L",
+      "S",
+      "K",
+      "Y",
+      "L",
+      "I",
+      "N",
+      "E",
+      "S",
+      "W"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "MELBOURNE",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "VANCOUVER",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "SKYLINE",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "MOSCOW",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "DALLAS",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "HAVANA",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "ATHENS",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "LISBON",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SEOUL",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "LIMA",
+      "row": 5,
+      "col": 5,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9230
+}

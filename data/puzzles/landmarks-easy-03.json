@@ -1,0 +1,208 @@
+{
+  "id": "landmarks-easy-03",
+  "slug": "landmarks-easy-03",
+  "themeId": "landmarks",
+  "title": "Landmarks: Soft Path",
+  "primaryKeyword": "landmarks word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ARCH",
+    "CATHEDRAL",
+    "GARDEN",
+    "LIBRARY",
+    "LOOKOUT",
+    "MONUMENT",
+    "OBELISK",
+    "PALACE",
+    "SPIRE",
+    "STATUE"
+  ],
+  "grid": [
+    [
+      "I",
+      "C",
+      "I",
+      "R",
+      "S",
+      "L",
+      "L",
+      "O",
+      "Z",
+      "P"
+    ],
+    [
+      "S",
+      "A",
+      "Y",
+      "F",
+      "G",
+      "W",
+      "O",
+      "B",
+      "X",
+      "S"
+    ],
+    [
+      "V",
+      "T",
+      "J",
+      "W",
+      "A",
+      "G",
+      "O",
+      "E",
+      "S",
+      "T"
+    ],
+    [
+      "L",
+      "H",
+      "F",
+      "A",
+      "R",
+      "R",
+      "K",
+      "L",
+      "P",
+      "A"
+    ],
+    [
+      "I",
+      "E",
+      "W",
+      "L",
+      "D",
+      "N",
+      "O",
+      "I",
+      "I",
+      "T"
+    ],
+    [
+      "B",
+      "D",
+      "K",
+      "T",
+      "E",
+      "N",
+      "U",
+      "S",
+      "R",
+      "U"
+    ],
+    [
+      "R",
+      "R",
+      "Y",
+      "T",
+      "N",
+      "S",
+      "T",
+      "K",
+      "E",
+      "E"
+    ],
+    [
+      "A",
+      "A",
+      "P",
+      "A",
+      "L",
+      "A",
+      "C",
+      "E",
+      "C",
+      "L"
+    ],
+    [
+      "R",
+      "L",
+      "M",
+      "O",
+      "N",
+      "U",
+      "M",
+      "E",
+      "N",
+      "T"
+    ],
+    [
+      "Y",
+      "E",
+      "W",
+      "A",
+      "R",
+      "C",
+      "H",
+      "D",
+      "N",
+      "F"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CATHEDRAL",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "MONUMENT",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "OBELISK",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "LIBRARY",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "LOOKOUT",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "PALACE",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "STATUE",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "GARDEN",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "SPIRE",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "ARCH",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9304
+}

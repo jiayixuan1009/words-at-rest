@@ -1,0 +1,208 @@
+{
+  "id": "sports-easy-04",
+  "slug": "sports-easy-04",
+  "themeId": "sports",
+  "title": "Sports: Practice Field",
+  "primaryKeyword": "sports word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CATCH",
+    "DRILL",
+    "FIELD",
+    "JOG",
+    "KICK",
+    "PACE",
+    "PASS",
+    "STRETCH",
+    "TEAM",
+    "WARMUP"
+  ],
+  "grid": [
+    [
+      "K",
+      "O",
+      "V",
+      "P",
+      "A",
+      "S",
+      "S",
+      "C",
+      "N",
+      "H"
+    ],
+    [
+      "T",
+      "E",
+      "A",
+      "M",
+      "H",
+      "V",
+      "I",
+      "A",
+      "S",
+      "X"
+    ],
+    [
+      "F",
+      "Z",
+      "C",
+      "W",
+      "W",
+      "X",
+      "H",
+      "T",
+      "T",
+      "A"
+    ],
+    [
+      "Q",
+      "F",
+      "X",
+      "A",
+      "S",
+      "V",
+      "F",
+      "C",
+      "R",
+      "D"
+    ],
+    [
+      "S",
+      "I",
+      "H",
+      "R",
+      "F",
+      "J",
+      "M",
+      "H",
+      "E",
+      "S"
+    ],
+    [
+      "S",
+      "E",
+      "D",
+      "M",
+      "Y",
+      "O",
+      "D",
+      "Y",
+      "T",
+      "Q"
+    ],
+    [
+      "E",
+      "L",
+      "M",
+      "U",
+      "M",
+      "G",
+      "R",
+      "P",
+      "C",
+      "K"
+    ],
+    [
+      "M",
+      "D",
+      "E",
+      "P",
+      "V",
+      "C",
+      "I",
+      "A",
+      "H",
+      "I"
+    ],
+    [
+      "U",
+      "B",
+      "R",
+      "V",
+      "N",
+      "R",
+      "L",
+      "C",
+      "U",
+      "C"
+    ],
+    [
+      "L",
+      "L",
+      "J",
+      "G",
+      "O",
+      "W",
+      "L",
+      "E",
+      "D",
+      "K"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "STRETCH",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "WARMUP",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "FIELD",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "DRILL",
+      "row": 5,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "CATCH",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "PASS",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "KICK",
+      "row": 6,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "TEAM",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "PACE",
+      "row": 6,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "JOG",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2231
+}

@@ -1,0 +1,208 @@
+{
+  "id": "music-easy-02",
+  "slug": "music-easy-02",
+  "themeId": "music",
+  "title": "Music: Quiet Practice",
+  "primaryKeyword": "music word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BEAT",
+    "CHORD",
+    "DUET",
+    "KEY",
+    "NOTE",
+    "REST",
+    "SCALE",
+    "SONG",
+    "TEMPO",
+    "TUNE"
+  ],
+  "grid": [
+    [
+      "M",
+      "Z",
+      "R",
+      "K",
+      "T",
+      "M",
+      "S",
+      "N",
+      "N",
+      "L"
+    ],
+    [
+      "K",
+      "O",
+      "W",
+      "C",
+      "V",
+      "F",
+      "N",
+      "J",
+      "S",
+      "C"
+    ],
+    [
+      "E",
+      "R",
+      "V",
+      "H",
+      "X",
+      "M",
+      "O",
+      "B",
+      "Y",
+      "J"
+    ],
+    [
+      "Y",
+      "K",
+      "E",
+      "O",
+      "X",
+      "S",
+      "C",
+      "A",
+      "L",
+      "E"
+    ],
+    [
+      "O",
+      "G",
+      "I",
+      "R",
+      "O",
+      "O",
+      "L",
+      "T",
+      "H",
+      "R"
+    ],
+    [
+      "L",
+      "M",
+      "T",
+      "D",
+      "B",
+      "K",
+      "I",
+      "R",
+      "T",
+      "I"
+    ],
+    [
+      "I",
+      "G",
+      "E",
+      "S",
+      "O",
+      "N",
+      "G",
+      "E",
+      "U",
+      "R"
+    ],
+    [
+      "W",
+      "X",
+      "M",
+      "B",
+      "E",
+      "A",
+      "T",
+      "H",
+      "N",
+      "E"
+    ],
+    [
+      "P",
+      "G",
+      "P",
+      "E",
+      "N",
+      "O",
+      "T",
+      "E",
+      "E",
+      "S"
+    ],
+    [
+      "U",
+      "A",
+      "O",
+      "P",
+      "P",
+      "C",
+      "D",
+      "U",
+      "E",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TEMPO",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "CHORD",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "SCALE",
+      "row": 3,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "NOTE",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "REST",
+      "row": 6,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SONG",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "TUNE",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "BEAT",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "DUET",
+      "row": 9,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "KEY",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2611
+}

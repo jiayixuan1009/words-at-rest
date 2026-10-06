@@ -1,0 +1,208 @@
+{
+  "id": "chess-easy-03",
+  "slug": "chess-easy-03",
+  "themeId": "chess",
+  "title": "Chess: Evening Rest",
+  "primaryKeyword": "chess word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BRILLIANCY",
+    "CAPTURE",
+    "DRAW",
+    "FORK",
+    "GAMBIT",
+    "MATE",
+    "SCORE",
+    "TACTIC",
+    "TIMER",
+    "TOURNAMENT"
+  ],
+  "grid": [
+    [
+      "H",
+      "H",
+      "T",
+      "O",
+      "B",
+      "F",
+      "O",
+      "R",
+      "K",
+      "J"
+    ],
+    [
+      "P",
+      "N",
+      "O",
+      "M",
+      "R",
+      "S",
+      "Y",
+      "I",
+      "C",
+      "G"
+    ],
+    [
+      "D",
+      "R",
+      "U",
+      "P",
+      "I",
+      "C",
+      "S",
+      "T",
+      "A",
+      "A"
+    ],
+    [
+      "G",
+      "D",
+      "R",
+      "I",
+      "L",
+      "O",
+      "X",
+      "A",
+      "P",
+      "M"
+    ],
+    [
+      "V",
+      "R",
+      "N",
+      "V",
+      "L",
+      "R",
+      "S",
+      "C",
+      "T",
+      "B"
+    ],
+    [
+      "T",
+      "A",
+      "A",
+      "I",
+      "I",
+      "E",
+      "S",
+      "T",
+      "U",
+      "I"
+    ],
+    [
+      "I",
+      "W",
+      "M",
+      "M",
+      "A",
+      "I",
+      "W",
+      "I",
+      "R",
+      "T"
+    ],
+    [
+      "M",
+      "G",
+      "E",
+      "S",
+      "N",
+      "V",
+      "M",
+      "C",
+      "E",
+      "P"
+    ],
+    [
+      "E",
+      "P",
+      "N",
+      "Q",
+      "C",
+      "D",
+      "N",
+      "A",
+      "L",
+      "A"
+    ],
+    [
+      "R",
+      "O",
+      "T",
+      "U",
+      "Y",
+      "M",
+      "A",
+      "T",
+      "E",
+      "P"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BRILLIANCY",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "TOURNAMENT",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "CAPTURE",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "GAMBIT",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "TACTIC",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SCORE",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "TIMER",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "FORK",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "DRAW",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "MATE",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9228
+}

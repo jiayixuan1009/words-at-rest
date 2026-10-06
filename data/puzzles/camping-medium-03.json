@@ -1,0 +1,284 @@
+{
+  "id": "camping-medium-03",
+  "slug": "camping-medium-03",
+  "themeId": "camping",
+  "title": "Camping: Ridge Camp",
+  "primaryKeyword": "camping word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BAG",
+    "BEAR",
+    "CANTEEN",
+    "COMPASS",
+    "KETTLE",
+    "LANTERN",
+    "MAP",
+    "PAD",
+    "POT",
+    "RIDGE",
+    "SLEEPING",
+    "STOVE",
+    "TOPO",
+    "TRAILMIX"
+  ],
+  "grid": [
+    [
+      "C",
+      "A",
+      "N",
+      "T",
+      "E",
+      "E",
+      "N",
+      "T",
+      "B",
+      "M",
+      "O",
+      "R"
+    ],
+    [
+      "K",
+      "E",
+      "T",
+      "T",
+      "L",
+      "E",
+      "E",
+      "T",
+      "E",
+      "L",
+      "O",
+      "O"
+    ],
+    [
+      "Q",
+      "R",
+      "I",
+      "D",
+      "G",
+      "E",
+      "U",
+      "R",
+      "A",
+      "C",
+      "P",
+      "B"
+    ],
+    [
+      "V",
+      "M",
+      "D",
+      "J",
+      "K",
+      "J",
+      "Z",
+      "A",
+      "R",
+      "W",
+      "O",
+      "A"
+    ],
+    [
+      "I",
+      "A",
+      "M",
+      "K",
+      "Q",
+      "S",
+      "L",
+      "I",
+      "O",
+      "X",
+      "T",
+      "G"
+    ],
+    [
+      "P",
+      "C",
+      "L",
+      "R",
+      "A",
+      "L",
+      "A",
+      "L",
+      "M",
+      "D",
+      "F",
+      "N"
+    ],
+    [
+      "X",
+      "O",
+      "A",
+      "F",
+      "S",
+      "E",
+      "K",
+      "M",
+      "M",
+      "A",
+      "U",
+      "I"
+    ],
+    [
+      "Y",
+      "M",
+      "N",
+      "F",
+      "T",
+      "E",
+      "A",
+      "I",
+      "E",
+      "A",
+      "P",
+      "U"
+    ],
+    [
+      "U",
+      "P",
+      "T",
+      "L",
+      "O",
+      "P",
+      "I",
+      "X",
+      "V",
+      "X",
+      "M",
+      "W"
+    ],
+    [
+      "B",
+      "A",
+      "E",
+      "F",
+      "V",
+      "I",
+      "T",
+      "T",
+      "O",
+      "P",
+      "O",
+      "S"
+    ],
+    [
+      "B",
+      "S",
+      "R",
+      "Y",
+      "E",
+      "N",
+      "B",
+      "B",
+      "U",
+      "Y",
+      "Y",
+      "M"
+    ],
+    [
+      "C",
+      "S",
+      "N",
+      "Q",
+      "F",
+      "G",
+      "V",
+      "C",
+      "S",
+      "Y",
+      "W",
+      "W"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SLEEPING",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "TRAILMIX",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "LANTERN",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "CANTEEN",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "COMPASS",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "KETTLE",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "RIDGE",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "STOVE",
+      "row": 6,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "TOPO",
+      "row": 9,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "BEAR",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "BAG",
+      "row": 2,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "PAD",
+      "row": 5,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "POT",
+      "row": 2,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "MAP",
+      "row": 5,
+      "col": 8,
+      "direction": "SE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 3312
+}

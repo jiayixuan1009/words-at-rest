@@ -1,0 +1,208 @@
+{
+  "id": "spring-easy-03",
+  "slug": "spring-easy-03",
+  "themeId": "spring",
+  "title": "Spring: Open Window",
+  "primaryKeyword": "spring word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "AIR",
+    "BIRCH",
+    "BREEZE",
+    "BUD",
+    "CLOUD",
+    "HOPE",
+    "MARCH",
+    "QUIET",
+    "RENEWAL",
+    "TULIP"
+  ],
+  "grid": [
+    [
+      "R",
+      "U",
+      "E",
+      "T",
+      "Y",
+      "K",
+      "A",
+      "I",
+      "R",
+      "V"
+    ],
+    [
+      "N",
+      "M",
+      "O",
+      "H",
+      "O",
+      "P",
+      "E",
+      "I",
+      "M",
+      "P"
+    ],
+    [
+      "O",
+      "G",
+      "P",
+      "B",
+      "R",
+      "E",
+      "E",
+      "Z",
+      "E",
+      "Q"
+    ],
+    [
+      "K",
+      "P",
+      "R",
+      "M",
+      "R",
+      "V",
+      "Z",
+      "C",
+      "H",
+      "M"
+    ],
+    [
+      "C",
+      "L",
+      "O",
+      "U",
+      "D",
+      "Q",
+      "O",
+      "N",
+      "Q",
+      "A"
+    ],
+    [
+      "R",
+      "E",
+      "N",
+      "E",
+      "W",
+      "A",
+      "L",
+      "E",
+      "U",
+      "R"
+    ],
+    [
+      "T",
+      "Q",
+      "B",
+      "I",
+      "R",
+      "C",
+      "H",
+      "B",
+      "I",
+      "C"
+    ],
+    [
+      "U",
+      "B",
+      "Q",
+      "I",
+      "A",
+      "E",
+      "K",
+      "Z",
+      "E",
+      "H"
+    ],
+    [
+      "H",
+      "U",
+      "B",
+      "B",
+      "K",
+      "L",
+      "F",
+      "P",
+      "T",
+      "L"
+    ],
+    [
+      "T",
+      "D",
+      "T",
+      "U",
+      "L",
+      "I",
+      "P",
+      "F",
+      "R",
+      "P"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "RENEWAL",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BREEZE",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "MARCH",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "QUIET",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "BIRCH",
+      "row": 6,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "TULIP",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CLOUD",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "HOPE",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BUD",
+      "row": 7,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "AIR",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9340
+}

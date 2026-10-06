@@ -1,0 +1,208 @@
+{
+  "id": "lakes-easy-03",
+  "slug": "lakes-easy-03",
+  "themeId": "lakes",
+  "title": "Lakes: Evening Rest",
+  "primaryKeyword": "lakes word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BAY",
+    "CANOE",
+    "DEPTH",
+    "DOCK",
+    "KAYAK",
+    "OUTLET",
+    "PEBBLE",
+    "REFLECT",
+    "SAND",
+    "SWIM"
+  ],
+  "grid": [
+    [
+      "P",
+      "D",
+      "D",
+      "E",
+      "P",
+      "T",
+      "H",
+      "H",
+      "Q",
+      "G"
+    ],
+    [
+      "K",
+      "O",
+      "D",
+      "O",
+      "R",
+      "J",
+      "X",
+      "C",
+      "Z",
+      "T"
+    ],
+    [
+      "G",
+      "C",
+      "H",
+      "U",
+      "E",
+      "K",
+      "P",
+      "P",
+      "T",
+      "M"
+    ],
+    [
+      "S",
+      "K",
+      "M",
+      "T",
+      "F",
+      "A",
+      "N",
+      "E",
+      "H",
+      "A"
+    ],
+    [
+      "A",
+      "R",
+      "U",
+      "L",
+      "L",
+      "Y",
+      "W",
+      "B",
+      "B",
+      "B"
+    ],
+    [
+      "N",
+      "Y",
+      "O",
+      "E",
+      "E",
+      "A",
+      "G",
+      "B",
+      "Z",
+      "A"
+    ],
+    [
+      "D",
+      "L",
+      "D",
+      "T",
+      "C",
+      "K",
+      "L",
+      "L",
+      "D",
+      "Y"
+    ],
+    [
+      "Q",
+      "F",
+      "P",
+      "Z",
+      "T",
+      "H",
+      "E",
+      "E",
+      "E",
+      "P"
+    ],
+    [
+      "C",
+      "A",
+      "N",
+      "O",
+      "E",
+      "L",
+      "G",
+      "N",
+      "N",
+      "R"
+    ],
+    [
+      "L",
+      "M",
+      "T",
+      "Y",
+      "J",
+      "G",
+      "S",
+      "W",
+      "I",
+      "M"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "REFLECT",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "OUTLET",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "PEBBLE",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "KAYAK",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "CANOE",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "DEPTH",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "DOCK",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SAND",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SWIM",
+      "row": 9,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "BAY",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9302
+}

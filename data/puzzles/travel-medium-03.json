@@ -1,0 +1,284 @@
+{
+  "id": "travel-medium-03",
+  "slug": "travel-medium-03",
+  "themeId": "travel",
+  "title": "Travel: Side Street",
+  "primaryKeyword": "travel word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ALLEY",
+    "BAKERY",
+    "BALCONY",
+    "BREAD",
+    "CAFE",
+    "COURTYARD",
+    "FOUNTAIN",
+    "LANTERN",
+    "MARKET",
+    "PLAZA",
+    "SHUTTER",
+    "SPICE",
+    "STALL",
+    "TEA"
+  ],
+  "grid": [
+    [
+      "C",
+      "K",
+      "F",
+      "O",
+      "U",
+      "N",
+      "T",
+      "A",
+      "I",
+      "N",
+      "Q",
+      "F"
+    ],
+    [
+      "B",
+      "A",
+      "K",
+      "E",
+      "R",
+      "Y",
+      "A",
+      "A",
+      "X",
+      "Q",
+      "N",
+      "C"
+    ],
+    [
+      "C",
+      "O",
+      "U",
+      "R",
+      "T",
+      "Y",
+      "A",
+      "R",
+      "D",
+      "P",
+      "S",
+      "P"
+    ],
+    [
+      "S",
+      "P",
+      "I",
+      "C",
+      "E",
+      "B",
+      "L",
+      "E",
+      "T",
+      "L",
+      "X",
+      "D"
+    ],
+    [
+      "A",
+      "H",
+      "U",
+      "A",
+      "S",
+      "T",
+      "A",
+      "L",
+      "L",
+      "A",
+      "D",
+      "U"
+    ],
+    [
+      "A",
+      "L",
+      "L",
+      "E",
+      "Y",
+      "C",
+      "N",
+      "L",
+      "R",
+      "Z",
+      "Q",
+      "Y"
+    ],
+    [
+      "A",
+      "O",
+      "O",
+      "Q",
+      "S",
+      "A",
+      "T",
+      "R",
+      "C",
+      "A",
+      "T",
+      "D"
+    ],
+    [
+      "P",
+      "C",
+      "Z",
+      "R",
+      "O",
+      "F",
+      "E",
+      "E",
+      "A",
+      "O",
+      "A",
+      "X"
+    ],
+    [
+      "S",
+      "H",
+      "U",
+      "T",
+      "T",
+      "E",
+      "R",
+      "R",
+      "A",
+      "E",
+      "N",
+      "W"
+    ],
+    [
+      "O",
+      "N",
+      "N",
+      "Y",
+      "J",
+      "Q",
+      "N",
+      "D",
+      "R",
+      "T",
+      "O",
+      "Y"
+    ],
+    [
+      "A",
+      "Y",
+      "H",
+      "R",
+      "L",
+      "G",
+      "E",
+      "B",
+      "U",
+      "T",
+      "V",
+      "K"
+    ],
+    [
+      "L",
+      "O",
+      "J",
+      "M",
+      "A",
+      "R",
+      "K",
+      "E",
+      "T",
+      "Q",
+      "B",
+      "K"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "COURTYARD",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "FOUNTAIN",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BALCONY",
+      "row": 3,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "SHUTTER",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "LANTERN",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "BAKERY",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "MARKET",
+      "row": 11,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "ALLEY",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "PLAZA",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "STALL",
+      "row": 4,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SPICE",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BREAD",
+      "row": 10,
+      "col": 7,
+      "direction": "NE"
+    },
+    {
+      "word": "CAFE",
+      "row": 5,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "TEA",
+      "row": 6,
+      "col": 6,
+      "direction": "SE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2522
+}

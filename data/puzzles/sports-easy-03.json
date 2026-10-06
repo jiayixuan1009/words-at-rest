@@ -1,0 +1,208 @@
+{
+  "id": "sports-easy-03",
+  "slug": "sports-easy-03",
+  "themeId": "sports",
+  "title": "Sports: Track Day",
+  "primaryKeyword": "sports word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "DASH",
+    "DISC",
+    "FIELD",
+    "HEAT",
+    "LANE",
+    "PACE",
+    "POLE",
+    "RELAY",
+    "SHOT",
+    "TRACK"
+  ],
+  "grid": [
+    [
+      "X",
+      "L",
+      "P",
+      "O",
+      "H",
+      "W",
+      "J",
+      "M",
+      "W",
+      "Q"
+    ],
+    [
+      "Y",
+      "Q",
+      "A",
+      "G",
+      "D",
+      "J",
+      "I",
+      "S",
+      "T",
+      "Z"
+    ],
+    [
+      "U",
+      "R",
+      "C",
+      "T",
+      "A",
+      "G",
+      "P",
+      "H",
+      "R",
+      "P"
+    ],
+    [
+      "I",
+      "E",
+      "E",
+      "H",
+      "S",
+      "W",
+      "O",
+      "O",
+      "A",
+      "S"
+    ],
+    [
+      "A",
+      "L",
+      "L",
+      "H",
+      "H",
+      "C",
+      "L",
+      "T",
+      "C",
+      "V"
+    ],
+    [
+      "Q",
+      "A",
+      "A",
+      "M",
+      "H",
+      "F",
+      "E",
+      "F",
+      "K",
+      "S"
+    ],
+    [
+      "K",
+      "Y",
+      "N",
+      "D",
+      "E",
+      "E",
+      "P",
+      "I",
+      "X",
+      "Z"
+    ],
+    [
+      "V",
+      "A",
+      "E",
+      "I",
+      "A",
+      "Q",
+      "A",
+      "E",
+      "C",
+      "R"
+    ],
+    [
+      "U",
+      "J",
+      "H",
+      "S",
+      "T",
+      "S",
+      "E",
+      "L",
+      "V",
+      "P"
+    ],
+    [
+      "E",
+      "J",
+      "Q",
+      "C",
+      "F",
+      "E",
+      "T",
+      "D",
+      "K",
+      "J"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TRACK",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "RELAY",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "FIELD",
+      "row": 5,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "LANE",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "DASH",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "POLE",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "DISC",
+      "row": 6,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "SHOT",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "HEAT",
+      "row": 5,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "PACE",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2221
+}

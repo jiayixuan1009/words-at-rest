@@ -1,0 +1,208 @@
+{
+  "id": "christmas-easy-04",
+  "slug": "christmas-easy-04",
+  "themeId": "christmas",
+  "title": "Christmas: Parcel Desk",
+  "primaryKeyword": "christmas word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BOW",
+    "BOX",
+    "CARD",
+    "GIFT",
+    "LIST",
+    "PARCEL",
+    "TAG",
+    "TAPE",
+    "WARM",
+    "WRAP"
+  ],
+  "grid": [
+    [
+      "U",
+      "Q",
+      "G",
+      "K",
+      "L",
+      "I",
+      "S",
+      "T",
+      "R",
+      "W"
+    ],
+    [
+      "C",
+      "A",
+      "R",
+      "D",
+      "S",
+      "V",
+      "V",
+      "L",
+      "D",
+      "W"
+    ],
+    [
+      "K",
+      "S",
+      "S",
+      "Y",
+      "M",
+      "Q",
+      "O",
+      "E",
+      "A",
+      "Z"
+    ],
+    [
+      "T",
+      "Q",
+      "B",
+      "R",
+      "H",
+      "B",
+      "O",
+      "X",
+      "Q",
+      "U"
+    ],
+    [
+      "L",
+      "S",
+      "J",
+      "T",
+      "J",
+      "W",
+      "R",
+      "A",
+      "P",
+      "J"
+    ],
+    [
+      "P",
+      "V",
+      "C",
+      "W",
+      "T",
+      "T",
+      "Q",
+      "O",
+      "C",
+      "J"
+    ],
+    [
+      "G",
+      "F",
+      "Y",
+      "A",
+      "A",
+      "A",
+      "Z",
+      "O",
+      "O",
+      "K"
+    ],
+    [
+      "I",
+      "T",
+      "V",
+      "R",
+      "P",
+      "G",
+      "C",
+      "I",
+      "E",
+      "I"
+    ],
+    [
+      "F",
+      "F",
+      "M",
+      "M",
+      "E",
+      "B",
+      "O",
+      "W",
+      "J",
+      "P"
+    ],
+    [
+      "T",
+      "V",
+      "P",
+      "A",
+      "R",
+      "C",
+      "E",
+      "L",
+      "K",
+      "J"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PARCEL",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "WRAP",
+      "row": 4,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "TAPE",
+      "row": 5,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "LIST",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CARD",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "WARM",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "GIFT",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BOW",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "TAG",
+      "row": 5,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "BOX",
+      "row": 3,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 1251
+}

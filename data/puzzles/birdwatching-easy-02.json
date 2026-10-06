@@ -1,0 +1,208 @@
+{
+  "id": "birdwatching-easy-02",
+  "slug": "birdwatching-easy-02",
+  "themeId": "birdwatching",
+  "title": "Birdwatching: Quiet Perch",
+  "primaryKeyword": "birdwatching word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BEAK",
+    "BRANCH",
+    "CALL",
+    "COUNT",
+    "FLOCK",
+    "LENS",
+    "PATH",
+    "SCOPE",
+    "SHORE",
+    "WING"
+  ],
+  "grid": [
+    [
+      "S",
+      "H",
+      "O",
+      "R",
+      "E",
+      "D",
+      "X",
+      "F",
+      "A",
+      "Z"
+    ],
+    [
+      "P",
+      "Q",
+      "W",
+      "I",
+      "N",
+      "G",
+      "K",
+      "Q",
+      "J",
+      "I"
+    ],
+    [
+      "S",
+      "C",
+      "O",
+      "P",
+      "E",
+      "X",
+      "J",
+      "B",
+      "E",
+      "X"
+    ],
+    [
+      "C",
+      "F",
+      "P",
+      "A",
+      "T",
+      "H",
+      "G",
+      "E",
+      "O",
+      "F"
+    ],
+    [
+      "A",
+      "N",
+      "V",
+      "F",
+      "L",
+      "O",
+      "C",
+      "K",
+      "W",
+      "J"
+    ],
+    [
+      "L",
+      "O",
+      "B",
+      "B",
+      "R",
+      "A",
+      "N",
+      "C",
+      "H",
+      "H"
+    ],
+    [
+      "L",
+      "K",
+      "K",
+      "A",
+      "H",
+      "L",
+      "E",
+      "N",
+      "S",
+      "E"
+    ],
+    [
+      "H",
+      "J",
+      "C",
+      "O",
+      "U",
+      "N",
+      "T",
+      "I",
+      "J",
+      "C"
+    ],
+    [
+      "B",
+      "E",
+      "A",
+      "K",
+      "C",
+      "T",
+      "S",
+      "O",
+      "B",
+      "O"
+    ],
+    [
+      "P",
+      "O",
+      "R",
+      "Y",
+      "T",
+      "N",
+      "V",
+      "L",
+      "J",
+      "B"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BRANCH",
+      "row": 5,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SCOPE",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "COUNT",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "FLOCK",
+      "row": 4,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SHORE",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "LENS",
+      "row": 6,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "WING",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BEAK",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CALL",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "PATH",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9012
+}

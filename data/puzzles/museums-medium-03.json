@@ -1,0 +1,284 @@
+{
+  "id": "museums-medium-03",
+  "slug": "museums-medium-03",
+  "themeId": "museums",
+  "title": "Museums: Harbor Light",
+  "primaryKeyword": "museums word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "COLLECTION",
+    "CURATOR",
+    "ERA",
+    "EXHIBIT",
+    "FLOOR",
+    "FOSSIL",
+    "GUARD",
+    "GUIDE",
+    "LIGHT",
+    "MUSEUM",
+    "POTTERY",
+    "SCULPTURE",
+    "TICKET",
+    "WALL"
+  ],
+  "grid": [
+    [
+      "E",
+      "F",
+      "O",
+      "S",
+      "S",
+      "I",
+      "L",
+      "O",
+      "R",
+      "Q",
+      "A",
+      "P"
+    ],
+    [
+      "X",
+      "S",
+      "O",
+      "V",
+      "S",
+      "Y",
+      "M",
+      "O",
+      "I",
+      "D",
+      "W",
+      "V"
+    ],
+    [
+      "H",
+      "J",
+      "X",
+      "U",
+      "L",
+      "U",
+      "T",
+      "N",
+      "D",
+      "N",
+      "A",
+      "K"
+    ],
+    [
+      "I",
+      "T",
+      "Q",
+      "P",
+      "E",
+      "A",
+      "Y",
+      "M",
+      "O",
+      "S",
+      "L",
+      "L"
+    ],
+    [
+      "B",
+      "F",
+      "F",
+      "S",
+      "R",
+      "R",
+      "A",
+      "I",
+      "E",
+      "C",
+      "L",
+      "M"
+    ],
+    [
+      "I",
+      "E",
+      "U",
+      "U",
+      "E",
+      "E",
+      "T",
+      "A",
+      "K",
+      "U",
+      "N",
+      "T"
+    ],
+    [
+      "T",
+      "M",
+      "C",
+      "T",
+      "D",
+      "C",
+      "R",
+      "Q",
+      "V",
+      "L",
+      "L",
+      "I"
+    ],
+    [
+      "V",
+      "R",
+      "T",
+      "I",
+      "E",
+      "E",
+      "P",
+      "M",
+      "P",
+      "P",
+      "I",
+      "C"
+    ],
+    [
+      "L",
+      "O",
+      "U",
+      "L",
+      "G",
+      "U",
+      "A",
+      "R",
+      "D",
+      "T",
+      "G",
+      "K"
+    ],
+    [
+      "P",
+      "G",
+      "L",
+      "F",
+      "L",
+      "O",
+      "O",
+      "R",
+      "A",
+      "U",
+      "H",
+      "E"
+    ],
+    [
+      "N",
+      "O",
+      "R",
+      "P",
+      "K",
+      "P",
+      "G",
+      "X",
+      "H",
+      "R",
+      "T",
+      "T"
+    ],
+    [
+      "C",
+      "B",
+      "Z",
+      "F",
+      "Y",
+      "Y",
+      "N",
+      "Z",
+      "V",
+      "E",
+      "M",
+      "L"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "COLLECTION",
+      "row": 11,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "SCULPTURE",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "CURATOR",
+      "row": 6,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "POTTERY",
+      "row": 9,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "EXHIBIT",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "MUSEUM",
+      "row": 6,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "TICKET",
+      "row": 5,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "FOSSIL",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "LIGHT",
+      "row": 6,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "GUIDE",
+      "row": 9,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "GUARD",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "FLOOR",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "WALL",
+      "row": 1,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "ERA",
+      "row": 7,
+      "col": 5,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9315
+}

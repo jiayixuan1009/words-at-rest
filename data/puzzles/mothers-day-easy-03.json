@@ -1,0 +1,208 @@
+{
+  "id": "mothers-day-easy-03",
+  "slug": "mothers-day-easy-03",
+  "themeId": "mothers-day",
+  "title": "Mother's Day: Gentle Walk",
+  "primaryKeyword": "mothers day word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BLESSING",
+    "BLOOM",
+    "GIFT",
+    "GRATITUDE",
+    "LOVE",
+    "PHOTO",
+    "SPRING",
+    "TEA",
+    "THANKS",
+    "TULIP"
+  ],
+  "grid": [
+    [
+      "R",
+      "G",
+      "N",
+      "C",
+      "I",
+      "J",
+      "T",
+      "V",
+      "C",
+      "G"
+    ],
+    [
+      "F",
+      "R",
+      "J",
+      "C",
+      "Z",
+      "Q",
+      "E",
+      "U",
+      "E",
+      "J"
+    ],
+    [
+      "T",
+      "A",
+      "S",
+      "V",
+      "G",
+      "D",
+      "A",
+      "W",
+      "N",
+      "K"
+    ],
+    [
+      "H",
+      "T",
+      "P",
+      "K",
+      "G",
+      "I",
+      "F",
+      "T",
+      "K",
+      "L"
+    ],
+    [
+      "A",
+      "I",
+      "R",
+      "P",
+      "V",
+      "M",
+      "Z",
+      "F",
+      "U",
+      "O"
+    ],
+    [
+      "N",
+      "T",
+      "I",
+      "U",
+      "X",
+      "Z",
+      "Y",
+      "Y",
+      "V",
+      "V"
+    ],
+    [
+      "K",
+      "U",
+      "N",
+      "J",
+      "B",
+      "L",
+      "O",
+      "O",
+      "M",
+      "E"
+    ],
+    [
+      "S",
+      "D",
+      "G",
+      "J",
+      "T",
+      "U",
+      "L",
+      "I",
+      "P",
+      "S"
+    ],
+    [
+      "X",
+      "E",
+      "B",
+      "L",
+      "E",
+      "S",
+      "S",
+      "I",
+      "N",
+      "G"
+    ],
+    [
+      "R",
+      "I",
+      "B",
+      "P",
+      "H",
+      "O",
+      "T",
+      "O",
+      "O",
+      "I"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "GRATITUDE",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "BLESSING",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SPRING",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "THANKS",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BLOOM",
+      "row": 6,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "TULIP",
+      "row": 7,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "PHOTO",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "GIFT",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "LOVE",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "TEA",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9312
+}

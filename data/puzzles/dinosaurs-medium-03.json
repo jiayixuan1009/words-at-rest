@@ -1,0 +1,284 @@
+{
+  "id": "dinosaurs-medium-03",
+  "slug": "dinosaurs-medium-03",
+  "themeId": "dinosaurs",
+  "title": "Dinosaurs: Side Shelf",
+  "primaryKeyword": "dinosaurs word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "AMBER",
+    "ANKYLOSAUR",
+    "BONE",
+    "BRACHIOSAUR",
+    "CAST",
+    "ERA",
+    "FOSSIL",
+    "LAYER",
+    "MUSEUM",
+    "PLESIOSAUR",
+    "SITE",
+    "STEGOSAUR",
+    "TRACK",
+    "VELOCIRAPTOR"
+  ],
+  "grid": [
+    [
+      "V",
+      "Z",
+      "B",
+      "V",
+      "J",
+      "A",
+      "F",
+      "A",
+      "M",
+      "E",
+      "I",
+      "C"
+    ],
+    [
+      "C",
+      "B",
+      "R",
+      "E",
+      "D",
+      "B",
+      "O",
+      "Y",
+      "H",
+      "Y",
+      "G",
+      "A"
+    ],
+    [
+      "C",
+      "A",
+      "A",
+      "L",
+      "E",
+      "Q",
+      "S",
+      "P",
+      "S",
+      "I",
+      "T",
+      "E"
+    ],
+    [
+      "A",
+      "N",
+      "C",
+      "O",
+      "Z",
+      "I",
+      "S",
+      "L",
+      "S",
+      "L",
+      "B",
+      "X"
+    ],
+    [
+      "S",
+      "K",
+      "H",
+      "C",
+      "E",
+      "Q",
+      "I",
+      "E",
+      "T",
+      "A",
+      "M",
+      "W"
+    ],
+    [
+      "T",
+      "Y",
+      "I",
+      "I",
+      "R",
+      "L",
+      "L",
+      "S",
+      "E",
+      "Y",
+      "A",
+      "F"
+    ],
+    [
+      "T",
+      "L",
+      "O",
+      "R",
+      "A",
+      "Z",
+      "G",
+      "I",
+      "G",
+      "E",
+      "M",
+      "I"
+    ],
+    [
+      "R",
+      "O",
+      "S",
+      "A",
+      "Z",
+      "T",
+      "B",
+      "O",
+      "O",
+      "R",
+      "U",
+      "F"
+    ],
+    [
+      "A",
+      "S",
+      "A",
+      "P",
+      "M",
+      "I",
+      "C",
+      "S",
+      "S",
+      "Z",
+      "S",
+      "B"
+    ],
+    [
+      "C",
+      "A",
+      "U",
+      "T",
+      "A",
+      "B",
+      "E",
+      "A",
+      "A",
+      "X",
+      "E",
+      "O"
+    ],
+    [
+      "K",
+      "U",
+      "R",
+      "O",
+      "X",
+      "R",
+      "E",
+      "U",
+      "U",
+      "M",
+      "U",
+      "N"
+    ],
+    [
+      "I",
+      "R",
+      "L",
+      "R",
+      "F",
+      "K",
+      "R",
+      "R",
+      "R",
+      "S",
+      "M",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "VELOCIRAPTOR",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "BRACHIOSAUR",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "ANKYLOSAUR",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "PLESIOSAUR",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "STEGOSAUR",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "MUSEUM",
+      "row": 6,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "FOSSIL",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "TRACK",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "AMBER",
+      "row": 7,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "LAYER",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SITE",
+      "row": 2,
+      "col": 8,
+      "direction": "E"
+    },
+    {
+      "word": "BONE",
+      "row": 8,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "CAST",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "ERA",
+      "row": 4,
+      "col": 4,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9249
+}

@@ -1,0 +1,284 @@
+{
+  "id": "jazz-medium-03",
+  "slug": "jazz-medium-03",
+  "themeId": "jazz",
+  "title": "Jazz: Clear Sky",
+  "primaryKeyword": "jazz word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BASS",
+    "BEBOP",
+    "BRUSHES",
+    "CLUB",
+    "PIANO",
+    "POLYRHYTHM",
+    "QUARTET",
+    "RHYTHM",
+    "RIFF",
+    "SAX",
+    "SOLO",
+    "STRIDE",
+    "SYNC",
+    "WALK"
+  ],
+  "grid": [
+    [
+      "I",
+      "P",
+      "B",
+      "A",
+      "S",
+      "S",
+      "S",
+      "L",
+      "Y",
+      "Y",
+      "T",
+      "G"
+    ],
+    [
+      "K",
+      "W",
+      "O",
+      "P",
+      "S",
+      "O",
+      "L",
+      "O",
+      "W",
+      "E",
+      "M",
+      "K"
+    ],
+    [
+      "U",
+      "H",
+      "Y",
+      "L",
+      "F",
+      "R",
+      "H",
+      "Y",
+      "T",
+      "H",
+      "M",
+      "Z"
+    ],
+    [
+      "C",
+      "L",
+      "B",
+      "F",
+      "Y",
+      "Q",
+      "A",
+      "R",
+      "U",
+      "P",
+      "G",
+      "B"
+    ],
+    [
+      "B",
+      "C",
+      "I",
+      "R",
+      "O",
+      "R",
+      "A",
+      "Q",
+      "O",
+      "L",
+      "U",
+      "W"
+    ],
+    [
+      "M",
+      "R",
+      "P",
+      "D",
+      "U",
+      "U",
+      "H",
+      "B",
+      "V",
+      "L",
+      "P",
+      "B"
+    ],
+    [
+      "S",
+      "N",
+      "I",
+      "G",
+      "Q",
+      "S",
+      "E",
+      "Y",
+      "C",
+      "J",
+      "W",
+      "S"
+    ],
+    [
+      "T",
+      "H",
+      "A",
+      "L",
+      "Q",
+      "B",
+      "H",
+      "N",
+      "T",
+      "A",
+      "B",
+      "Z"
+    ],
+    [
+      "R",
+      "S",
+      "N",
+      "I",
+      "S",
+      "P",
+      "T",
+      "E",
+      "Q",
+      "H",
+      "D",
+      "W"
+    ],
+    [
+      "I",
+      "A",
+      "O",
+      "C",
+      "Y",
+      "Z",
+      "V",
+      "D",
+      "S",
+      "U",
+      "M",
+      "A"
+    ],
+    [
+      "D",
+      "X",
+      "M",
+      "J",
+      "N",
+      "G",
+      "W",
+      "E",
+      "H",
+      "V",
+      "X",
+      "L"
+    ],
+    [
+      "E",
+      "L",
+      "J",
+      "P",
+      "C",
+      "F",
+      "A",
+      "Q",
+      "Q",
+      "T",
+      "B",
+      "K"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "POLYRHYTHM",
+      "row": 0,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "BRUSHES",
+      "row": 3,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "QUARTET",
+      "row": 6,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "STRIDE",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "RHYTHM",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "PIANO",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "BEBOP",
+      "row": 7,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "SOLO",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "WALK",
+      "row": 8,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "BASS",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CLUB",
+      "row": 6,
+      "col": 8,
+      "direction": "NE"
+    },
+    {
+      "word": "RIFF",
+      "row": 5,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "SYNC",
+      "row": 8,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "SAX",
+      "row": 8,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9295
+}

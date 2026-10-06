@@ -1,0 +1,208 @@
+{
+  "id": "birds-easy-03",
+  "slug": "birds-easy-03",
+  "themeId": "birds",
+  "title": "Birds: Evening Rest",
+  "primaryKeyword": "birds word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CARDINAL",
+    "CHORUS",
+    "DAWN",
+    "EGG",
+    "EGRET",
+    "FEATHER",
+    "TANAGER",
+    "TEAL",
+    "THRUSH",
+    "WING"
+  ],
+  "grid": [
+    [
+      "E",
+      "D",
+      "A",
+      "W",
+      "N",
+      "I",
+      "H",
+      "C",
+      "A",
+      "B"
+    ],
+    [
+      "G",
+      "C",
+      "T",
+      "T",
+      "J",
+      "T",
+      "B",
+      "M",
+      "S",
+      "F"
+    ],
+    [
+      "R",
+      "C",
+      "A",
+      "R",
+      "D",
+      "I",
+      "N",
+      "A",
+      "L",
+      "E"
+    ],
+    [
+      "E",
+      "W",
+      "N",
+      "F",
+      "A",
+      "W",
+      "B",
+      "G",
+      "E",
+      "A"
+    ],
+    [
+      "T",
+      "I",
+      "A",
+      "G",
+      "X",
+      "Q",
+      "Q",
+      "N",
+      "Y",
+      "T"
+    ],
+    [
+      "T",
+      "N",
+      "G",
+      "V",
+      "T",
+      "H",
+      "R",
+      "U",
+      "S",
+      "H"
+    ],
+    [
+      "E",
+      "G",
+      "E",
+      "V",
+      "S",
+      "R",
+      "P",
+      "E",
+      "T",
+      "E"
+    ],
+    [
+      "A",
+      "T",
+      "R",
+      "I",
+      "X",
+      "H",
+      "M",
+      "G",
+      "F",
+      "R"
+    ],
+    [
+      "L",
+      "Q",
+      "K",
+      "Q",
+      "F",
+      "L",
+      "N",
+      "G",
+      "Q",
+      "X"
+    ],
+    [
+      "Y",
+      "O",
+      "U",
+      "C",
+      "H",
+      "O",
+      "R",
+      "U",
+      "S",
+      "M"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CARDINAL",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TANAGER",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "FEATHER",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "THRUSH",
+      "row": 5,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CHORUS",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "EGRET",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "WING",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "DAWN",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TEAL",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "EGG",
+      "row": 6,
+      "col": 7,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9214
+}

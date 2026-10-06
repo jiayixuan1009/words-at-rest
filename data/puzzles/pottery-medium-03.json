@@ -1,0 +1,284 @@
+{
+  "id": "pottery-medium-03",
+  "slug": "pottery-medium-03",
+  "themeId": "pottery",
+  "title": "Pottery: Harbor Light",
+  "primaryKeyword": "pottery word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BAT",
+    "BISQUE",
+    "CRAFT",
+    "GLAZE",
+    "GLOSS",
+    "HANDLE",
+    "JAR",
+    "KILN",
+    "LIP",
+    "PLATE",
+    "SHELF",
+    "SPEED",
+    "TILE",
+    "TOOL"
+  ],
+  "grid": [
+    [
+      "V",
+      "A",
+      "K",
+      "D",
+      "O",
+      "J",
+      "Y",
+      "P",
+      "X",
+      "R",
+      "B",
+      "D"
+    ],
+    [
+      "Y",
+      "C",
+      "I",
+      "V",
+      "P",
+      "H",
+      "A",
+      "N",
+      "D",
+      "L",
+      "E",
+      "P"
+    ],
+    [
+      "B",
+      "R",
+      "L",
+      "W",
+      "L",
+      "G",
+      "L",
+      "L",
+      "E",
+      "B",
+      "T",
+      "P"
+    ],
+    [
+      "I",
+      "A",
+      "N",
+      "B",
+      "A",
+      "G",
+      "I",
+      "P",
+      "H",
+      "W",
+      "I",
+      "S"
+    ],
+    [
+      "S",
+      "F",
+      "F",
+      "H",
+      "T",
+      "L",
+      "P",
+      "C",
+      "B",
+      "F",
+      "L",
+      "L"
+    ],
+    [
+      "Q",
+      "T",
+      "M",
+      "U",
+      "E",
+      "A",
+      "Z",
+      "R",
+      "L",
+      "D",
+      "E",
+      "K"
+    ],
+    [
+      "U",
+      "S",
+      "X",
+      "A",
+      "S",
+      "Z",
+      "H",
+      "E",
+      "T",
+      "O",
+      "O",
+      "L"
+    ],
+    [
+      "E",
+      "G",
+      "P",
+      "Z",
+      "U",
+      "E",
+      "H",
+      "J",
+      "W",
+      "G",
+      "Z",
+      "O"
+    ],
+    [
+      "Q",
+      "S",
+      "K",
+      "E",
+      "G",
+      "S",
+      "F",
+      "Q",
+      "B",
+      "L",
+      "B",
+      "F"
+    ],
+    [
+      "U",
+      "R",
+      "B",
+      "U",
+      "E",
+      "U",
+      "O",
+      "V",
+      "B",
+      "O",
+      "J",
+      "P"
+    ],
+    [
+      "D",
+      "J",
+      "H",
+      "A",
+      "A",
+      "D",
+      "M",
+      "P",
+      "X",
+      "S",
+      "A",
+      "C"
+    ],
+    [
+      "M",
+      "Z",
+      "W",
+      "V",
+      "T",
+      "A",
+      "Z",
+      "P",
+      "A",
+      "S",
+      "R",
+      "Q"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "HANDLE",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "BISQUE",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "GLAZE",
+      "row": 3,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "CRAFT",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "PLATE",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "GLOSS",
+      "row": 7,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SHELF",
+      "row": 8,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "SPEED",
+      "row": 6,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "TOOL",
+      "row": 6,
+      "col": 8,
+      "direction": "E"
+    },
+    {
+      "word": "TILE",
+      "row": 2,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "KILN",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "JAR",
+      "row": 9,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "BAT",
+      "row": 9,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "LIP",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9327
+}

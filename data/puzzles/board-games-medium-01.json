@@ -1,0 +1,284 @@
+{
+  "id": "board-games-medium-01",
+  "slug": "board-games-medium-01",
+  "themeId": "board-games",
+  "title": "Board Games: Token Turn",
+  "primaryKeyword": "board games word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BANK",
+    "CHANCE",
+    "CLOCK",
+    "FAMILY",
+    "FINISH",
+    "FRIEND",
+    "GOAL",
+    "MARKET",
+    "SPACE",
+    "STRATEGY",
+    "TABLE",
+    "TIMER",
+    "TRACK",
+    "TRADE"
+  ],
+  "grid": [
+    [
+      "M",
+      "N",
+      "A",
+      "N",
+      "C",
+      "H",
+      "A",
+      "N",
+      "C",
+      "E",
+      "L",
+      "X"
+    ],
+    [
+      "W",
+      "T",
+      "K",
+      "A",
+      "V",
+      "R",
+      "Q",
+      "C",
+      "F",
+      "X",
+      "W",
+      "H"
+    ],
+    [
+      "X",
+      "A",
+      "A",
+      "D",
+      "S",
+      "T",
+      "R",
+      "A",
+      "T",
+      "E",
+      "G",
+      "Y"
+    ],
+    [
+      "V",
+      "Q",
+      "R",
+      "B",
+      "W",
+      "J",
+      "M",
+      "H",
+      "V",
+      "W",
+      "M",
+      "V"
+    ],
+    [
+      "U",
+      "F",
+      "F",
+      "D",
+      "L",
+      "Y",
+      "F",
+      "A",
+      "M",
+      "I",
+      "L",
+      "Y"
+    ],
+    [
+      "L",
+      "S",
+      "P",
+      "A",
+      "C",
+      "E",
+      "Z",
+      "T",
+      "R",
+      "A",
+      "C",
+      "K"
+    ],
+    [
+      "G",
+      "M",
+      "F",
+      "I",
+      "N",
+      "I",
+      "S",
+      "H",
+      "V",
+      "D",
+      "T",
+      "D"
+    ],
+    [
+      "M",
+      "A",
+      "R",
+      "K",
+      "E",
+      "T",
+      "U",
+      "B",
+      "N",
+      "B",
+      "R",
+      "G"
+    ],
+    [
+      "E",
+      "Q",
+      "X",
+      "X",
+      "S",
+      "B",
+      "K",
+      "E",
+      "K",
+      "C",
+      "A",
+      "O"
+    ],
+    [
+      "Y",
+      "C",
+      "L",
+      "O",
+      "C",
+      "K",
+      "I",
+      "N",
+      "E",
+      "R",
+      "D",
+      "A"
+    ],
+    [
+      "P",
+      "T",
+      "I",
+      "M",
+      "E",
+      "R",
+      "A",
+      "I",
+      "Q",
+      "C",
+      "E",
+      "L"
+    ],
+    [
+      "E",
+      "A",
+      "A",
+      "A",
+      "F",
+      "B",
+      "T",
+      "T",
+      "Y",
+      "D",
+      "F",
+      "P"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "STRATEGY",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "FRIEND",
+      "row": 11,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "FAMILY",
+      "row": 4,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "CHANCE",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "FINISH",
+      "row": 6,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "MARKET",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "TIMER",
+      "row": 10,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CLOCK",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TABLE",
+      "row": 1,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "TRACK",
+      "row": 5,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "SPACE",
+      "row": 5,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TRADE",
+      "row": 6,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "GOAL",
+      "row": 7,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "BANK",
+      "row": 11,
+      "col": 5,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8863
+}

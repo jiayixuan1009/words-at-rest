@@ -1,0 +1,284 @@
+{
+  "id": "woodworking-medium-01",
+  "slug": "woodworking-medium-01",
+  "themeId": "woodworking",
+  "title": "Woodworking: Joinery Hour",
+  "primaryKeyword": "woodworking word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CHERRY",
+    "CHISEL",
+    "DRILL",
+    "FINISH",
+    "HAMMER",
+    "JOINT",
+    "LATHE",
+    "LEVEL",
+    "MAPLE",
+    "MITER",
+    "ROUTER",
+    "SQUARE",
+    "STAIN",
+    "WALNUT"
+  ],
+  "grid": [
+    [
+      "E",
+      "M",
+      "I",
+      "T",
+      "E",
+      "R",
+      "I",
+      "Q",
+      "A",
+      "X",
+      "Z",
+      "C"
+    ],
+    [
+      "C",
+      "H",
+      "I",
+      "S",
+      "E",
+      "L",
+      "D",
+      "R",
+      "R",
+      "O",
+      "X",
+      "E"
+    ],
+    [
+      "I",
+      "S",
+      "T",
+      "V",
+      "Q",
+      "F",
+      "J",
+      "X",
+      "O",
+      "J",
+      "G",
+      "Y"
+    ],
+    [
+      "Y",
+      "T",
+      "F",
+      "I",
+      "N",
+      "I",
+      "S",
+      "H",
+      "U",
+      "F",
+      "E",
+      "W"
+    ],
+    [
+      "S",
+      "A",
+      "H",
+      "C",
+      "K",
+      "B",
+      "O",
+      "Z",
+      "T",
+      "S",
+      "M",
+      "A"
+    ],
+    [
+      "Q",
+      "I",
+      "C",
+      "H",
+      "U",
+      "H",
+      "Y",
+      "B",
+      "E",
+      "H",
+      "W",
+      "L"
+    ],
+    [
+      "U",
+      "N",
+      "T",
+      "E",
+      "T",
+      "F",
+      "X",
+      "G",
+      "R",
+      "A",
+      "B",
+      "N"
+    ],
+    [
+      "A",
+      "L",
+      "J",
+      "R",
+      "M",
+      "A",
+      "P",
+      "L",
+      "E",
+      "M",
+      "D",
+      "U"
+    ],
+    [
+      "R",
+      "E",
+      "O",
+      "R",
+      "K",
+      "Q",
+      "H",
+      "N",
+      "W",
+      "M",
+      "R",
+      "T"
+    ],
+    [
+      "E",
+      "V",
+      "I",
+      "Y",
+      "I",
+      "L",
+      "A",
+      "T",
+      "H",
+      "E",
+      "I",
+      "U"
+    ],
+    [
+      "Z",
+      "E",
+      "N",
+      "Q",
+      "C",
+      "J",
+      "C",
+      "V",
+      "M",
+      "R",
+      "L",
+      "R"
+    ],
+    [
+      "J",
+      "L",
+      "T",
+      "X",
+      "F",
+      "E",
+      "Y",
+      "F",
+      "Z",
+      "Z",
+      "L",
+      "G"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CHERRY",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "WALNUT",
+      "row": 3,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "CHISEL",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "FINISH",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SQUARE",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "ROUTER",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "HAMMER",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "MAPLE",
+      "row": 7,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "JOINT",
+      "row": 7,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "MITER",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "STAIN",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "LEVEL",
+      "row": 7,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "LATHE",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "DRILL",
+      "row": 7,
+      "col": 10,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8913
+}

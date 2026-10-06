@@ -1,0 +1,284 @@
+{
+  "id": "soccer-medium-03",
+  "slug": "soccer-medium-03",
+  "themeId": "soccer",
+  "title": "Soccer: Nested Calm",
+  "primaryKeyword": "soccer word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "COACH",
+    "DRIBBLE",
+    "FIELD",
+    "FOUL",
+    "GOAL",
+    "HEADER",
+    "MIDFIELD",
+    "RED",
+    "REFEREE",
+    "SAVE",
+    "SHOT",
+    "WARMUP",
+    "WHISTLE",
+    "YELLOW"
+  ],
+  "grid": [
+    [
+      "G",
+      "W",
+      "R",
+      "R",
+      "H",
+      "E",
+      "A",
+      "D",
+      "E",
+      "R",
+      "D",
+      "N"
+    ],
+    [
+      "U",
+      "A",
+      "S",
+      "A",
+      "V",
+      "E",
+      "K",
+      "B",
+      "V",
+      "N",
+      "J",
+      "P"
+    ],
+    [
+      "U",
+      "R",
+      "D",
+      "R",
+      "I",
+      "B",
+      "B",
+      "L",
+      "E",
+      "W",
+      "U",
+      "R"
+    ],
+    [
+      "L",
+      "M",
+      "A",
+      "F",
+      "O",
+      "A",
+      "Z",
+      "E",
+      "S",
+      "H",
+      "O",
+      "W"
+    ],
+    [
+      "H",
+      "U",
+      "E",
+      "C",
+      "D",
+      "I",
+      "U",
+      "I",
+      "Y",
+      "I",
+      "Q",
+      "F"
+    ],
+    [
+      "P",
+      "P",
+      "W",
+      "Y",
+      "E",
+      "L",
+      "L",
+      "O",
+      "W",
+      "S",
+      "Z",
+      "Z"
+    ],
+    [
+      "F",
+      "N",
+      "D",
+      "H",
+      "P",
+      "H",
+      "N",
+      "M",
+      "J",
+      "T",
+      "F",
+      "G"
+    ],
+    [
+      "I",
+      "M",
+      "Y",
+      "C",
+      "O",
+      "A",
+      "C",
+      "H",
+      "F",
+      "L",
+      "O",
+      "O"
+    ],
+    [
+      "E",
+      "R",
+      "E",
+      "F",
+      "E",
+      "R",
+      "E",
+      "E",
+      "R",
+      "E",
+      "U",
+      "A"
+    ],
+    [
+      "L",
+      "B",
+      "B",
+      "S",
+      "H",
+      "O",
+      "T",
+      "J",
+      "P",
+      "E",
+      "L",
+      "L"
+    ],
+    [
+      "D",
+      "C",
+      "W",
+      "M",
+      "I",
+      "D",
+      "F",
+      "I",
+      "E",
+      "L",
+      "D",
+      "T"
+    ],
+    [
+      "G",
+      "H",
+      "Z",
+      "K",
+      "H",
+      "Q",
+      "L",
+      "U",
+      "L",
+      "I",
+      "B",
+      "J"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "MIDFIELD",
+      "row": 10,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "DRIBBLE",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "REFEREE",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "WHISTLE",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "YELLOW",
+      "row": 5,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "WARMUP",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "HEADER",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "FIELD",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "COACH",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "FOUL",
+      "row": 6,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "GOAL",
+      "row": 6,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "SAVE",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SHOT",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "RED",
+      "row": 8,
+      "col": 8,
+      "direction": "SE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9339
+}

@@ -1,0 +1,208 @@
+{
+  "id": "birdwatching-easy-01",
+  "slug": "birdwatching-easy-01",
+  "themeId": "birdwatching",
+  "title": "Birdwatching: Trail Watch",
+  "primaryKeyword": "birdwatching word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BIRD",
+    "DAWN",
+    "FIELD",
+    "LIST",
+    "NEST",
+    "NOTE",
+    "PERCH",
+    "SONG",
+    "TRAIL",
+    "WATCH"
+  ],
+  "grid": [
+    [
+      "S",
+      "O",
+      "N",
+      "G",
+      "K",
+      "X",
+      "Z",
+      "V",
+      "G",
+      "B"
+    ],
+    [
+      "Z",
+      "B",
+      "S",
+      "Q",
+      "H",
+      "I",
+      "N",
+      "O",
+      "T",
+      "E"
+    ],
+    [
+      "D",
+      "A",
+      "W",
+      "N",
+      "F",
+      "V",
+      "S",
+      "Z",
+      "T",
+      "U"
+    ],
+    [
+      "C",
+      "P",
+      "A",
+      "P",
+      "E",
+      "R",
+      "C",
+      "H",
+      "R",
+      "Z"
+    ],
+    [
+      "F",
+      "L",
+      "I",
+      "S",
+      "T",
+      "B",
+      "V",
+      "N",
+      "A",
+      "V"
+    ],
+    [
+      "U",
+      "B",
+      "I",
+      "R",
+      "D",
+      "H",
+      "W",
+      "E",
+      "I",
+      "I"
+    ],
+    [
+      "U",
+      "W",
+      "A",
+      "T",
+      "C",
+      "H",
+      "Z",
+      "S",
+      "L",
+      "S"
+    ],
+    [
+      "D",
+      "F",
+      "K",
+      "X",
+      "Y",
+      "W",
+      "B",
+      "T",
+      "R",
+      "T"
+    ],
+    [
+      "F",
+      "A",
+      "Z",
+      "N",
+      "E",
+      "X",
+      "R",
+      "O",
+      "X",
+      "S"
+    ],
+    [
+      "P",
+      "Z",
+      "Z",
+      "C",
+      "F",
+      "I",
+      "E",
+      "L",
+      "D",
+      "Q"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "WATCH",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TRAIL",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "FIELD",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "PERCH",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BIRD",
+      "row": 5,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "NOTE",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "LIST",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SONG",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "NEST",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "DAWN",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9011
+}

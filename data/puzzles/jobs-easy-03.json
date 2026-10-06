@@ -1,0 +1,208 @@
+{
+  "id": "jobs-easy-03",
+  "slug": "jobs-easy-03",
+  "themeId": "jobs",
+  "title": "Jobs & Careers: Morning Light",
+  "primaryKeyword": "jobs careers word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BANK",
+    "BUILDER",
+    "CAREER",
+    "CLINIC",
+    "FARM",
+    "GUARD",
+    "KITCHEN",
+    "MANAGER",
+    "SHOP",
+    "TAILOR"
+  ],
+  "grid": [
+    [
+      "E",
+      "B",
+      "U",
+      "I",
+      "L",
+      "D",
+      "E",
+      "R",
+      "E",
+      "E"
+    ],
+    [
+      "T",
+      "A",
+      "I",
+      "L",
+      "O",
+      "R",
+      "K",
+      "Z",
+      "H",
+      "X"
+    ],
+    [
+      "Z",
+      "F",
+      "V",
+      "C",
+      "D",
+      "I",
+      "I",
+      "U",
+      "M",
+      "B"
+    ],
+    [
+      "E",
+      "A",
+      "Y",
+      "A",
+      "L",
+      "U",
+      "T",
+      "U",
+      "A",
+      "W"
+    ],
+    [
+      "K",
+      "R",
+      "X",
+      "R",
+      "C",
+      "B",
+      "C",
+      "A",
+      "N",
+      "U"
+    ],
+    [
+      "L",
+      "M",
+      "G",
+      "E",
+      "L",
+      "A",
+      "H",
+      "S",
+      "A",
+      "C"
+    ],
+    [
+      "X",
+      "F",
+      "E",
+      "E",
+      "I",
+      "N",
+      "E",
+      "H",
+      "G",
+      "X"
+    ],
+    [
+      "M",
+      "N",
+      "V",
+      "R",
+      "N",
+      "K",
+      "N",
+      "O",
+      "E",
+      "G"
+    ],
+    [
+      "A",
+      "A",
+      "R",
+      "R",
+      "I",
+      "E",
+      "D",
+      "P",
+      "R",
+      "P"
+    ],
+    [
+      "O",
+      "R",
+      "X",
+      "E",
+      "C",
+      "G",
+      "U",
+      "A",
+      "R",
+      "D"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BUILDER",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "MANAGER",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "KITCHEN",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "CLINIC",
+      "row": 4,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "CAREER",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "TAILOR",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "GUARD",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SHOP",
+      "row": 5,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "BANK",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "FARM",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9296
+}

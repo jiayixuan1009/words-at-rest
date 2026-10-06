@@ -1,0 +1,284 @@
+{
+  "id": "quilting-medium-03",
+  "slug": "quilting-medium-03",
+  "themeId": "quilting",
+  "title": "Quilting: Binding Night",
+  "primaryKeyword": "quilting word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BACKING",
+    "BATTING",
+    "BINDING",
+    "CORNER",
+    "FOOT",
+    "FREEHAND",
+    "HANGING",
+    "LABEL",
+    "MEANDER",
+    "MITRE",
+    "SASHING",
+    "SLEEVE",
+    "STIPPLE",
+    "WALKING"
+  ],
+  "grid": [
+    [
+      "C",
+      "U",
+      "A",
+      "B",
+      "A",
+      "C",
+      "K",
+      "I",
+      "N",
+      "G",
+      "P",
+      "D"
+    ],
+    [
+      "K",
+      "O",
+      "S",
+      "T",
+      "I",
+      "P",
+      "P",
+      "L",
+      "E",
+      "C",
+      "N",
+      "M"
+    ],
+    [
+      "H",
+      "E",
+      "R",
+      "L",
+      "K",
+      "B",
+      "Y",
+      "C",
+      "U",
+      "L",
+      "A",
+      "E"
+    ],
+    [
+      "K",
+      "M",
+      "F",
+      "N",
+      "E",
+      "L",
+      "A",
+      "B",
+      "E",
+      "L",
+      "F",
+      "A"
+    ],
+    [
+      "M",
+      "W",
+      "H",
+      "R",
+      "E",
+      "E",
+      "E",
+      "T",
+      "M",
+      "T",
+      "O",
+      "N"
+    ],
+    [
+      "N",
+      "I",
+      "A",
+      "A",
+      "E",
+      "R",
+      "V",
+      "X",
+      "T",
+      "T",
+      "O",
+      "D"
+    ],
+    [
+      "I",
+      "Y",
+      "T",
+      "L",
+      "N",
+      "E",
+      "Y",
+      "E",
+      "Z",
+      "I",
+      "T",
+      "E"
+    ],
+    [
+      "F",
+      "E",
+      "Y",
+      "R",
+      "K",
+      "G",
+      "H",
+      "M",
+      "A",
+      "R",
+      "N",
+      "R"
+    ],
+    [
+      "C",
+      "P",
+      "S",
+      "Y",
+      "E",
+      "I",
+      "I",
+      "A",
+      "V",
+      "F",
+      "A",
+      "G"
+    ],
+    [
+      "Z",
+      "B",
+      "U",
+      "S",
+      "P",
+      "Q",
+      "N",
+      "N",
+      "N",
+      "T",
+      "H",
+      "E"
+    ],
+    [
+      "B",
+      "I",
+      "N",
+      "D",
+      "I",
+      "N",
+      "G",
+      "G",
+      "G",
+      "D",
+      "D",
+      "K"
+    ],
+    [
+      "F",
+      "H",
+      "B",
+      "U",
+      "Q",
+      "S",
+      "A",
+      "S",
+      "H",
+      "I",
+      "N",
+      "G"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FREEHAND",
+      "row": 3,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "BINDING",
+      "row": 10,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BATTING",
+      "row": 2,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "BACKING",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SASHING",
+      "row": 11,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "HANGING",
+      "row": 4,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "STIPPLE",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "MEANDER",
+      "row": 1,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "WALKING",
+      "row": 4,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "CORNER",
+      "row": 0,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "SLEEVE",
+      "row": 1,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "MITRE",
+      "row": 4,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "LABEL",
+      "row": 3,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "FOOT",
+      "row": 3,
+      "col": 10,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 3912
+}
