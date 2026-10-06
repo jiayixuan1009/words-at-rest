@@ -1,0 +1,208 @@
+{
+  "id": "calligraphy-easy-03",
+  "slug": "calligraphy-easy-03",
+  "themeId": "calligraphy",
+  "title": "Calligraphy: Gentle Walk",
+  "primaryKeyword": "calligraphy word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BOTTLE",
+    "CAPITAL",
+    "HOLDER",
+    "INKSTONE",
+    "ITALIC",
+    "LAMP",
+    "MINUSCULE",
+    "SPACING",
+    "STUDY",
+    "SWASH"
+  ],
+  "grid": [
+    [
+      "W",
+      "G",
+      "C",
+      "I",
+      "T",
+      "A",
+      "L",
+      "I",
+      "C",
+      "S"
+    ],
+    [
+      "T",
+      "Y",
+      "Q",
+      "C",
+      "A",
+      "P",
+      "I",
+      "T",
+      "A",
+      "L"
+    ],
+    [
+      "N",
+      "M",
+      "I",
+      "N",
+      "U",
+      "S",
+      "C",
+      "U",
+      "L",
+      "E"
+    ],
+    [
+      "I",
+      "N",
+      "K",
+      "S",
+      "T",
+      "O",
+      "N",
+      "E",
+      "H",
+      "J"
+    ],
+    [
+      "N",
+      "T",
+      "O",
+      "S",
+      "W",
+      "A",
+      "S",
+      "H",
+      "O",
+      "B"
+    ],
+    [
+      "B",
+      "O",
+      "T",
+      "T",
+      "L",
+      "E",
+      "L",
+      "E",
+      "L",
+      "A"
+    ],
+    [
+      "G",
+      "D",
+      "O",
+      "C",
+      "E",
+      "H",
+      "A",
+      "C",
+      "D",
+      "X"
+    ],
+    [
+      "E",
+      "S",
+      "T",
+      "U",
+      "D",
+      "Y",
+      "M",
+      "C",
+      "E",
+      "E"
+    ],
+    [
+      "U",
+      "X",
+      "B",
+      "D",
+      "S",
+      "W",
+      "P",
+      "T",
+      "R",
+      "J"
+    ],
+    [
+      "Z",
+      "E",
+      "S",
+      "P",
+      "A",
+      "C",
+      "I",
+      "N",
+      "G",
+      "I"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "MINUSCULE",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "INKSTONE",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SPACING",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CAPITAL",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "HOLDER",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "ITALIC",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BOTTLE",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "STUDY",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SWASH",
+      "row": 4,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "LAMP",
+      "row": 5,
+      "col": 6,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9222
+}

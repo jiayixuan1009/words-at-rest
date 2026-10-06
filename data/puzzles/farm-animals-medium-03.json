@@ -1,0 +1,284 @@
+{
+  "id": "farm-animals-medium-03",
+  "slug": "farm-animals-medium-03",
+  "themeId": "farm-animals",
+  "title": "Farm Animals: Clear Sky",
+  "primaryKeyword": "farm animals word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CAT",
+    "CHICK",
+    "FENCE",
+    "FLOCK",
+    "HEN",
+    "HORSE",
+    "KID",
+    "MARE",
+    "MILK",
+    "MULE",
+    "PIG",
+    "PONY",
+    "STRAW",
+    "WOOL"
+  ],
+  "grid": [
+    [
+      "I",
+      "X",
+      "O",
+      "F",
+      "T",
+      "H",
+      "J",
+      "C",
+      "A",
+      "T",
+      "R",
+      "S"
+    ],
+    [
+      "K",
+      "H",
+      "M",
+      "P",
+      "E",
+      "G",
+      "T",
+      "P",
+      "H",
+      "M",
+      "D",
+      "R"
+    ],
+    [
+      "F",
+      "B",
+      "I",
+      "S",
+      "I",
+      "N",
+      "N",
+      "U",
+      "O",
+      "P",
+      "F",
+      "M"
+    ],
+    [
+      "L",
+      "F",
+      "L",
+      "T",
+      "Z",
+      "E",
+      "C",
+      "S",
+      "R",
+      "N",
+      "B",
+      "K"
+    ],
+    [
+      "E",
+      "M",
+      "K",
+      "R",
+      "H",
+      "P",
+      "G",
+      "E",
+      "S",
+      "V",
+      "Y",
+      "I"
+    ],
+    [
+      "D",
+      "U",
+      "O",
+      "A",
+      "W",
+      "I",
+      "L",
+      "T",
+      "E",
+      "D",
+      "N",
+      "D"
+    ],
+    [
+      "L",
+      "L",
+      "R",
+      "W",
+      "G",
+      "G",
+      "S",
+      "C",
+      "H",
+      "I",
+      "C",
+      "K"
+    ],
+    [
+      "F",
+      "E",
+      "G",
+      "G",
+      "F",
+      "L",
+      "O",
+      "C",
+      "K",
+      "J",
+      "R",
+      "O"
+    ],
+    [
+      "A",
+      "F",
+      "O",
+      "Z",
+      "U",
+      "O",
+      "J",
+      "S",
+      "R",
+      "Z",
+      "W",
+      "L"
+    ],
+    [
+      "M",
+      "A",
+      "R",
+      "E",
+      "T",
+      "C",
+      "X",
+      "V",
+      "V",
+      "M",
+      "O",
+      "N"
+    ],
+    [
+      "E",
+      "Y",
+      "B",
+      "S",
+      "Z",
+      "U",
+      "Z",
+      "Q",
+      "Y",
+      "O",
+      "Q",
+      "E"
+    ],
+    [
+      "Q",
+      "C",
+      "M",
+      "I",
+      "F",
+      "W",
+      "N",
+      "Z",
+      "W",
+      "U",
+      "K",
+      "P"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CHICK",
+      "row": 6,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "FENCE",
+      "row": 0,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "STRAW",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "FLOCK",
+      "row": 7,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "HORSE",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "MILK",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "PONY",
+      "row": 1,
+      "col": 7,
+      "direction": "SE"
+    },
+    {
+      "word": "MARE",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "WOOL",
+      "row": 11,
+      "col": 8,
+      "direction": "NE"
+    },
+    {
+      "word": "MULE",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "PIG",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "CAT",
+      "row": 0,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "HEN",
+      "row": 4,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "KID",
+      "row": 3,
+      "col": 11,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9255
+}

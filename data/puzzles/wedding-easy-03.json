@@ -1,0 +1,208 @@
+{
+  "id": "wedding-easy-03",
+  "slug": "wedding-easy-03",
+  "themeId": "wedding",
+  "title": "Wedding: Still Room",
+  "primaryKeyword": "wedding word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BOUQUET",
+    "CREAM",
+    "DRESS",
+    "FAMILY",
+    "HAND",
+    "LACE",
+    "MEMORY",
+    "PARTY",
+    "UNION",
+    "VOW"
+  ],
+  "grid": [
+    [
+      "L",
+      "J",
+      "G",
+      "T",
+      "R",
+      "S",
+      "M",
+      "P",
+      "N",
+      "R"
+    ],
+    [
+      "A",
+      "H",
+      "C",
+      "V",
+      "S",
+      "V",
+      "E",
+      "B",
+      "V",
+      "T"
+    ],
+    [
+      "C",
+      "A",
+      "A",
+      "O",
+      "L",
+      "C",
+      "M",
+      "O",
+      "K",
+      "U"
+    ],
+    [
+      "E",
+      "N",
+      "Y",
+      "W",
+      "Q",
+      "R",
+      "O",
+      "U",
+      "X",
+      "N"
+    ],
+    [
+      "J",
+      "D",
+      "W",
+      "C",
+      "L",
+      "E",
+      "R",
+      "Q",
+      "Q",
+      "I"
+    ],
+    [
+      "E",
+      "R",
+      "D",
+      "N",
+      "D",
+      "A",
+      "Y",
+      "U",
+      "N",
+      "O"
+    ],
+    [
+      "P",
+      "A",
+      "R",
+      "T",
+      "Y",
+      "M",
+      "M",
+      "E",
+      "C",
+      "N"
+    ],
+    [
+      "N",
+      "D",
+      "R",
+      "E",
+      "S",
+      "S",
+      "U",
+      "T",
+      "X",
+      "N"
+    ],
+    [
+      "U",
+      "N",
+      "F",
+      "A",
+      "M",
+      "I",
+      "L",
+      "Y",
+      "U",
+      "A"
+    ],
+    [
+      "Y",
+      "S",
+      "E",
+      "C",
+      "P",
+      "C",
+      "T",
+      "R",
+      "O",
+      "K"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BOUQUET",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "FAMILY",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "MEMORY",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "CREAM",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "PARTY",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "UNION",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "DRESS",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "HAND",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "LACE",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "VOW",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9364
+}

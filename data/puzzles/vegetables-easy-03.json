@@ -1,0 +1,208 @@
+{
+  "id": "vegetables-easy-03",
+  "slug": "vegetables-easy-03",
+  "themeId": "vegetables",
+  "title": "Vegetables: Calm Desk",
+  "primaryKeyword": "vegetables word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CABBAGE",
+    "CHARD",
+    "CHOP",
+    "CORN",
+    "CRISP",
+    "HERB",
+    "LETTUCE",
+    "ONION",
+    "RADISH",
+    "STEAM"
+  ],
+  "grid": [
+    [
+      "O",
+      "D",
+      "W",
+      "C",
+      "A",
+      "T",
+      "Q",
+      "X",
+      "G",
+      "S"
+    ],
+    [
+      "W",
+      "F",
+      "C",
+      "O",
+      "C",
+      "T",
+      "V",
+      "L",
+      "R",
+      "D"
+    ],
+    [
+      "R",
+      "H",
+      "A",
+      "R",
+      "F",
+      "J",
+      "T",
+      "U",
+      "C",
+      "Z"
+    ],
+    [
+      "L",
+      "X",
+      "B",
+      "N",
+      "Q",
+      "R",
+      "R",
+      "G",
+      "R",
+      "M"
+    ],
+    [
+      "E",
+      "O",
+      "B",
+      "C",
+      "M",
+      "F",
+      "A",
+      "C",
+      "I",
+      "O"
+    ],
+    [
+      "T",
+      "N",
+      "A",
+      "D",
+      "A",
+      "T",
+      "D",
+      "H",
+      "S",
+      "S"
+    ],
+    [
+      "T",
+      "I",
+      "G",
+      "O",
+      "O",
+      "B",
+      "I",
+      "A",
+      "P",
+      "T"
+    ],
+    [
+      "U",
+      "O",
+      "E",
+      "M",
+      "P",
+      "S",
+      "S",
+      "R",
+      "E",
+      "E"
+    ],
+    [
+      "C",
+      "N",
+      "Y",
+      "R",
+      "K",
+      "W",
+      "H",
+      "D",
+      "L",
+      "A"
+    ],
+    [
+      "E",
+      "H",
+      "E",
+      "R",
+      "B",
+      "C",
+      "H",
+      "O",
+      "P",
+      "M"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CABBAGE",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "LETTUCE",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "RADISH",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "CHARD",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "ONION",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "STEAM",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "CRISP",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "CORN",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "HERB",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CHOP",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9356
+}

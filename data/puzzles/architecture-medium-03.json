@@ -1,0 +1,284 @@
+{
+  "id": "architecture-medium-03",
+  "slug": "architecture-medium-03",
+  "themeId": "architecture",
+  "title": "Architecture: Clear Sky",
+  "primaryKeyword": "architecture word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "APSE",
+    "BEAM",
+    "CLOISTER",
+    "COLUMN",
+    "COURT",
+    "EAVES",
+    "FLOOR",
+    "MOLDING",
+    "PILLAR",
+    "PORCH",
+    "PORTICO",
+    "SCALE",
+    "STAIR",
+    "TOWER"
+  ],
+  "grid": [
+    [
+      "L",
+      "M",
+      "Y",
+      "D",
+      "L",
+      "P",
+      "I",
+      "L",
+      "L",
+      "A",
+      "R",
+      "R"
+    ],
+    [
+      "C",
+      "L",
+      "O",
+      "I",
+      "S",
+      "T",
+      "E",
+      "R",
+      "H",
+      "Z",
+      "C",
+      "Z"
+    ],
+    [
+      "A",
+      "T",
+      "T",
+      "Y",
+      "P",
+      "O",
+      "R",
+      "C",
+      "H",
+      "M",
+      "H",
+      "S"
+    ],
+    [
+      "P",
+      "W",
+      "E",
+      "E",
+      "A",
+      "V",
+      "E",
+      "S",
+      "O",
+      "Z",
+      "P",
+      "G"
+    ],
+    [
+      "S",
+      "T",
+      "V",
+      "C",
+      "T",
+      "H",
+      "Y",
+      "C",
+      "Y",
+      "F",
+      "N",
+      "R"
+    ],
+    [
+      "E",
+      "O",
+      "S",
+      "O",
+      "K",
+      "G",
+      "D",
+      "M",
+      "E",
+      "I",
+      "O",
+      "L"
+    ],
+    [
+      "S",
+      "W",
+      "T",
+      "L",
+      "L",
+      "M",
+      "A",
+      "P",
+      "D",
+      "O",
+      "D",
+      "F"
+    ],
+    [
+      "C",
+      "E",
+      "A",
+      "U",
+      "I",
+      "E",
+      "A",
+      "L",
+      "L",
+      "C",
+      "Q",
+      "T"
+    ],
+    [
+      "A",
+      "R",
+      "I",
+      "M",
+      "B",
+      "S",
+      "O",
+      "F",
+      "Q",
+      "X",
+      "J",
+      "X"
+    ],
+    [
+      "L",
+      "W",
+      "R",
+      "N",
+      "A",
+      "M",
+      "I",
+      "C",
+      "O",
+      "U",
+      "R",
+      "T"
+    ],
+    [
+      "E",
+      "P",
+      "O",
+      "R",
+      "T",
+      "I",
+      "C",
+      "O",
+      "N",
+      "Z",
+      "X",
+      "I"
+    ],
+    [
+      "G",
+      "N",
+      "W",
+      "F",
+      "K",
+      "I",
+      "B",
+      "X",
+      "Y",
+      "J",
+      "K",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CLOISTER",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "PORTICO",
+      "row": 10,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "MOLDING",
+      "row": 9,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "COLUMN",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "PILLAR",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "STAIR",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "FLOOR",
+      "row": 8,
+      "col": 7,
+      "direction": "NE"
+    },
+    {
+      "word": "COURT",
+      "row": 9,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "SCALE",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "EAVES",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "PORCH",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "TOWER",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "BEAM",
+      "row": 8,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "APSE",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9205
+}

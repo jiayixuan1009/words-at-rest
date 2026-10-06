@@ -1,0 +1,208 @@
+{
+  "id": "journaling-easy-02",
+  "slug": "journaling-easy-02",
+  "themeId": "journaling",
+  "title": "Journaling: Quiet Entry",
+  "primaryKeyword": "journaling word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BLANK",
+    "CHAIR",
+    "COVER",
+    "DESK",
+    "LAMP",
+    "PAUSE",
+    "QUIET",
+    "SHEET",
+    "SOFT",
+    "WRITE"
+  ],
+  "grid": [
+    [
+      "J",
+      "L",
+      "P",
+      "A",
+      "U",
+      "S",
+      "E",
+      "Y",
+      "T",
+      "L"
+    ],
+    [
+      "F",
+      "T",
+      "X",
+      "D",
+      "E",
+      "S",
+      "K",
+      "B",
+      "H",
+      "V"
+    ],
+    [
+      "L",
+      "A",
+      "M",
+      "P",
+      "W",
+      "C",
+      "O",
+      "V",
+      "E",
+      "R"
+    ],
+    [
+      "B",
+      "K",
+      "B",
+      "C",
+      "R",
+      "V",
+      "P",
+      "P",
+      "Y",
+      "U"
+    ],
+    [
+      "L",
+      "N",
+      "S",
+      "J",
+      "I",
+      "T",
+      "V",
+      "D",
+      "A",
+      "I"
+    ],
+    [
+      "A",
+      "J",
+      "H",
+      "M",
+      "T",
+      "M",
+      "C",
+      "Q",
+      "M",
+      "B"
+    ],
+    [
+      "N",
+      "H",
+      "L",
+      "A",
+      "E",
+      "G",
+      "Y",
+      "U",
+      "Z",
+      "M"
+    ],
+    [
+      "K",
+      "S",
+      "S",
+      "O",
+      "F",
+      "T",
+      "X",
+      "I",
+      "D",
+      "I"
+    ],
+    [
+      "W",
+      "X",
+      "C",
+      "H",
+      "A",
+      "I",
+      "R",
+      "E",
+      "J",
+      "H"
+    ],
+    [
+      "D",
+      "N",
+      "W",
+      "S",
+      "H",
+      "E",
+      "E",
+      "T",
+      "S",
+      "X"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "WRITE",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "CHAIR",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "QUIET",
+      "row": 5,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "COVER",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SHEET",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BLANK",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "PAUSE",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "DESK",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "LAMP",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SOFT",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9032
+}

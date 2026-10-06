@@ -1,0 +1,208 @@
+{
+  "id": "architecture-easy-03",
+  "slug": "architecture-easy-03",
+  "themeId": "architecture",
+  "title": "Architecture: Morning Light",
+  "primaryKeyword": "architecture word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BRICK",
+    "CEILING",
+    "CONCRETE",
+    "DESIGN",
+    "MODEL",
+    "PLAN",
+    "SITE",
+    "SKETCH",
+    "SPIRE",
+    "STONE"
+  ],
+  "grid": [
+    [
+      "C",
+      "E",
+      "S",
+      "P",
+      "I",
+      "R",
+      "E",
+      "H",
+      "Z",
+      "T"
+    ],
+    [
+      "O",
+      "W",
+      "S",
+      "I",
+      "T",
+      "E",
+      "N",
+      "A",
+      "Y",
+      "I"
+    ],
+    [
+      "N",
+      "X",
+      "B",
+      "R",
+      "I",
+      "C",
+      "K",
+      "S",
+      "C",
+      "R"
+    ],
+    [
+      "C",
+      "D",
+      "G",
+      "B",
+      "L",
+      "S",
+      "M",
+      "O",
+      "E",
+      "K"
+    ],
+    [
+      "R",
+      "E",
+      "V",
+      "G",
+      "T",
+      "K",
+      "O",
+      "M",
+      "I",
+      "J"
+    ],
+    [
+      "E",
+      "S",
+      "J",
+      "L",
+      "C",
+      "E",
+      "D",
+      "S",
+      "L",
+      "S"
+    ],
+    [
+      "T",
+      "I",
+      "P",
+      "R",
+      "P",
+      "T",
+      "E",
+      "T",
+      "I",
+      "I"
+    ],
+    [
+      "E",
+      "G",
+      "O",
+      "R",
+      "L",
+      "C",
+      "L",
+      "O",
+      "N",
+      "C"
+    ],
+    [
+      "Y",
+      "N",
+      "K",
+      "A",
+      "A",
+      "H",
+      "E",
+      "N",
+      "G",
+      "W"
+    ],
+    [
+      "X",
+      "F",
+      "Q",
+      "S",
+      "N",
+      "G",
+      "H",
+      "E",
+      "X",
+      "I"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CONCRETE",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CEILING",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "SKETCH",
+      "row": 3,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "DESIGN",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "BRICK",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "MODEL",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "SPIRE",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "STONE",
+      "row": 5,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SITE",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PLAN",
+      "row": 6,
+      "col": 4,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9204
+}

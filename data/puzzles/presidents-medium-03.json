@@ -1,0 +1,284 @@
+{
+  "id": "presidents-medium-03",
+  "slug": "presidents-medium-03",
+  "themeId": "presidents",
+  "title": "U.S. Presidents: Border Path",
+  "primaryKeyword": "us presidents word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BUSH",
+    "CABINET",
+    "COOLIDGE",
+    "HARDING",
+    "HAYES",
+    "JACKSON",
+    "JOHNSON",
+    "MCKINLEY",
+    "POLK",
+    "PRESIDENT",
+    "TAFT",
+    "TYLER",
+    "VANBUREN",
+    "WILSON"
+  ],
+  "grid": [
+    [
+      "L",
+      "T",
+      "A",
+      "F",
+      "T",
+      "A",
+      "V",
+      "Y",
+      "B",
+      "U",
+      "S",
+      "H"
+    ],
+    [
+      "J",
+      "Y",
+      "H",
+      "A",
+      "R",
+      "D",
+      "I",
+      "N",
+      "G",
+      "D",
+      "W",
+      "I"
+    ],
+    [
+      "O",
+      "T",
+      "P",
+      "P",
+      "K",
+      "O",
+      "U",
+      "C",
+      "H",
+      "V",
+      "V",
+      "L"
+    ],
+    [
+      "H",
+      "Y",
+      "L",
+      "R",
+      "P",
+      "O",
+      "L",
+      "K",
+      "A",
+      "A",
+      "T",
+      "F"
+    ],
+    [
+      "N",
+      "O",
+      "C",
+      "G",
+      "E",
+      "J",
+      "G",
+      "G",
+      "Y",
+      "N",
+      "Y",
+      "M"
+    ],
+    [
+      "S",
+      "J",
+      "O",
+      "I",
+      "W",
+      "S",
+      "O",
+      "K",
+      "E",
+      "B",
+      "L",
+      "C"
+    ],
+    [
+      "O",
+      "A",
+      "O",
+      "U",
+      "A",
+      "I",
+      "I",
+      "V",
+      "S",
+      "U",
+      "E",
+      "K"
+    ],
+    [
+      "N",
+      "C",
+      "L",
+      "F",
+      "A",
+      "N",
+      "L",
+      "D",
+      "O",
+      "R",
+      "R",
+      "I"
+    ],
+    [
+      "R",
+      "K",
+      "I",
+      "B",
+      "P",
+      "I",
+      "I",
+      "S",
+      "E",
+      "E",
+      "O",
+      "N"
+    ],
+    [
+      "W",
+      "S",
+      "D",
+      "S",
+      "P",
+      "W",
+      "U",
+      "S",
+      "O",
+      "N",
+      "O",
+      "L"
+    ],
+    [
+      "I",
+      "O",
+      "G",
+      "B",
+      "T",
+      "R",
+      "L",
+      "B",
+      "V",
+      "N",
+      "T",
+      "E"
+    ],
+    [
+      "K",
+      "N",
+      "E",
+      "C",
+      "A",
+      "B",
+      "I",
+      "N",
+      "E",
+      "T",
+      "P",
+      "Y"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PRESIDENT",
+      "row": 2,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "COOLIDGE",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "VANBUREN",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "MCKINLEY",
+      "row": 4,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "HARDING",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "JOHNSON",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CABINET",
+      "row": 11,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "JACKSON",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "WILSON",
+      "row": 5,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "TYLER",
+      "row": 3,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "HAYES",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "TAFT",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BUSH",
+      "row": 0,
+      "col": 8,
+      "direction": "E"
+    },
+    {
+      "word": "POLK",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9329
+}

@@ -1,0 +1,284 @@
+{
+  "id": "birds-medium-03",
+  "slug": "birds-medium-03",
+  "themeId": "birds",
+  "title": "Birds: Slow Pace",
+  "primaryKeyword": "birds word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BEAK",
+    "BLACKBIRD",
+    "BLUEJAY",
+    "BRANCH",
+    "CHICK",
+    "CLOUD",
+    "FEEDER",
+    "FINCH",
+    "GOOSE",
+    "MIGRATION",
+    "ORIOLE",
+    "OWL",
+    "PIGEON",
+    "TERN"
+  ],
+  "grid": [
+    [
+      "O",
+      "R",
+      "I",
+      "O",
+      "L",
+      "E",
+      "T",
+      "H",
+      "S",
+      "C",
+      "C",
+      "O"
+    ],
+    [
+      "K",
+      "G",
+      "O",
+      "F",
+      "Y",
+      "Q",
+      "E",
+      "S",
+      "F",
+      "P",
+      "L",
+      "W"
+    ],
+    [
+      "O",
+      "I",
+      "T",
+      "K",
+      "I",
+      "M",
+      "R",
+      "L",
+      "E",
+      "M",
+      "O",
+      "L"
+    ],
+    [
+      "P",
+      "Q",
+      "P",
+      "P",
+      "X",
+      "N",
+      "N",
+      "G",
+      "E",
+      "I",
+      "U",
+      "B"
+    ],
+    [
+      "B",
+      "R",
+      "D",
+      "I",
+      "V",
+      "E",
+      "C",
+      "S",
+      "D",
+      "G",
+      "D",
+      "L"
+    ],
+    [
+      "Z",
+      "R",
+      "P",
+      "L",
+      "G",
+      "A",
+      "S",
+      "H",
+      "E",
+      "R",
+      "E",
+      "A"
+    ],
+    [
+      "Y",
+      "D",
+      "A",
+      "I",
+      "V",
+      "E",
+      "Z",
+      "A",
+      "R",
+      "A",
+      "J",
+      "C"
+    ],
+    [
+      "B",
+      "K",
+      "P",
+      "N",
+      "S",
+      "Z",
+      "O",
+      "M",
+      "P",
+      "T",
+      "B",
+      "K"
+    ],
+    [
+      "E",
+      "O",
+      "E",
+      "O",
+      "C",
+      "S",
+      "E",
+      "N",
+      "T",
+      "I",
+      "I",
+      "B"
+    ],
+    [
+      "A",
+      "J",
+      "O",
+      "X",
+      "V",
+      "H",
+      "P",
+      "F",
+      "S",
+      "O",
+      "C",
+      "I"
+    ],
+    [
+      "K",
+      "G",
+      "M",
+      "C",
+      "H",
+      "I",
+      "C",
+      "K",
+      "L",
+      "N",
+      "X",
+      "R"
+    ],
+    [
+      "B",
+      "L",
+      "U",
+      "E",
+      "J",
+      "A",
+      "Y",
+      "C",
+      "H",
+      "T",
+      "B",
+      "D"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BLACKBIRD",
+      "row": 3,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "MIGRATION",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "BLUEJAY",
+      "row": 11,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "ORIOLE",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BRANCH",
+      "row": 4,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "PIGEON",
+      "row": 3,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "FEEDER",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "FINCH",
+      "row": 1,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "GOOSE",
+      "row": 10,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "CLOUD",
+      "row": 0,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "CHICK",
+      "row": 10,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "TERN",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "BEAK",
+      "row": 7,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "OWL",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9215
+}

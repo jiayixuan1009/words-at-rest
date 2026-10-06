@@ -1,0 +1,284 @@
+{
+  "id": "reptiles-medium-03",
+  "slug": "reptiles-medium-03",
+  "themeId": "reptiles",
+  "title": "Reptiles: Long Afternoon",
+  "primaryKeyword": "reptiles word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BURROW",
+    "COLD",
+    "DESERT",
+    "GECKO",
+    "HISS",
+    "HUNT",
+    "IGUANA",
+    "LOG",
+    "ROCK",
+    "SHELL",
+    "SNAKE",
+    "TURTLE",
+    "VENOM",
+    "WARM"
+  ],
+  "grid": [
+    [
+      "H",
+      "T",
+      "R",
+      "O",
+      "C",
+      "K",
+      "G",
+      "D",
+      "B",
+      "N",
+      "H",
+      "B"
+    ],
+    [
+      "H",
+      "U",
+      "V",
+      "E",
+      "N",
+      "O",
+      "M",
+      "P",
+      "U",
+      "S",
+      "B",
+      "M"
+    ],
+    [
+      "F",
+      "R",
+      "V",
+      "M",
+      "L",
+      "Q",
+      "U",
+      "E",
+      "R",
+      "N",
+      "U",
+      "W"
+    ],
+    [
+      "S",
+      "T",
+      "G",
+      "F",
+      "D",
+      "A",
+      "A",
+      "H",
+      "R",
+      "A",
+      "F",
+      "Z"
+    ],
+    [
+      "H",
+      "L",
+      "B",
+      "G",
+      "C",
+      "O",
+      "N",
+      "I",
+      "O",
+      "K",
+      "N",
+      "G"
+    ],
+    [
+      "E",
+      "E",
+      "V",
+      "I",
+      "I",
+      "O",
+      "T",
+      "S",
+      "W",
+      "E",
+      "T",
+      "E"
+    ],
+    [
+      "L",
+      "Q",
+      "A",
+      "G",
+      "G",
+      "N",
+      "L",
+      "S",
+      "R",
+      "R",
+      "W",
+      "C"
+    ],
+    [
+      "L",
+      "I",
+      "L",
+      "X",
+      "U",
+      "S",
+      "R",
+      "D",
+      "E",
+      "E",
+      "F",
+      "K"
+    ],
+    [
+      "L",
+      "W",
+      "E",
+      "H",
+      "A",
+      "V",
+      "V",
+      "S",
+      "Z",
+      "A",
+      "P",
+      "O"
+    ],
+    [
+      "Z",
+      "H",
+      "A",
+      "S",
+      "N",
+      "J",
+      "E",
+      "Z",
+      "R",
+      "U",
+      "H",
+      "E"
+    ],
+    [
+      "G",
+      "F",
+      "O",
+      "R",
+      "A",
+      "D",
+      "G",
+      "H",
+      "D",
+      "J",
+      "U",
+      "J"
+    ],
+    [
+      "D",
+      "S",
+      "U",
+      "Z",
+      "M",
+      "C",
+      "L",
+      "T",
+      "I",
+      "M",
+      "C",
+      "H"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TURTLE",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "BURROW",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "IGUANA",
+      "row": 5,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "DESERT",
+      "row": 10,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "SHELL",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "VENOM",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "GECKO",
+      "row": 4,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "SNAKE",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "COLD",
+      "row": 4,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "HUNT",
+      "row": 8,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "HISS",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "WARM",
+      "row": 8,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "ROCK",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "LOG",
+      "row": 2,
+      "col": 4,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9331
+}

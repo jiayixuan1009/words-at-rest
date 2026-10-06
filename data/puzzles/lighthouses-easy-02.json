@@ -1,0 +1,208 @@
+{
+  "id": "lighthouses-easy-02",
+  "slug": "lighthouses-easy-02",
+  "themeId": "lighthouses",
+  "title": "Lighthouses: Quiet Tower",
+  "primaryKeyword": "lighthouses word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BEACON",
+    "CLIFF",
+    "DAWN",
+    "GLOW",
+    "HORN",
+    "HOUSE",
+    "REEF",
+    "SAFE",
+    "WATCH",
+    "WIND"
+  ],
+  "grid": [
+    [
+      "U",
+      "S",
+      "U",
+      "U",
+      "D",
+      "S",
+      "D",
+      "A",
+      "W",
+      "N"
+    ],
+    [
+      "H",
+      "O",
+      "U",
+      "S",
+      "E",
+      "A",
+      "U",
+      "E",
+      "G",
+      "J"
+    ],
+    [
+      "P",
+      "W",
+      "R",
+      "E",
+      "E",
+      "F",
+      "V",
+      "J",
+      "N",
+      "O"
+    ],
+    [
+      "C",
+      "A",
+      "X",
+      "B",
+      "N",
+      "K",
+      "W",
+      "V",
+      "P",
+      "B"
+    ],
+    [
+      "G",
+      "T",
+      "S",
+      "A",
+      "F",
+      "E",
+      "I",
+      "E",
+      "H",
+      "X"
+    ],
+    [
+      "A",
+      "C",
+      "C",
+      "Q",
+      "D",
+      "I",
+      "N",
+      "G",
+      "O",
+      "F"
+    ],
+    [
+      "S",
+      "H",
+      "Z",
+      "I",
+      "A",
+      "S",
+      "D",
+      "L",
+      "R",
+      "Z"
+    ],
+    [
+      "T",
+      "B",
+      "E",
+      "A",
+      "C",
+      "O",
+      "N",
+      "O",
+      "N",
+      "Q"
+    ],
+    [
+      "Z",
+      "F",
+      "E",
+      "E",
+      "T",
+      "O",
+      "W",
+      "W",
+      "L",
+      "J"
+    ],
+    [
+      "I",
+      "S",
+      "X",
+      "C",
+      "L",
+      "I",
+      "F",
+      "F",
+      "J",
+      "O"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BEACON",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "HOUSE",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CLIFF",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "WATCH",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "GLOW",
+      "row": 5,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "HORN",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "REEF",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "WIND",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "DAWN",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "SAFE",
+      "row": 4,
+      "col": 2,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9022
+}

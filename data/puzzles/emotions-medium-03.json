@@ -1,0 +1,284 @@
+{
+  "id": "emotions-medium-03",
+  "slug": "emotions-medium-03",
+  "themeId": "emotions",
+  "title": "Emotions: Long Afternoon",
+  "primaryKeyword": "emotions word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ANGER",
+    "AWE",
+    "BALANCE",
+    "CALM",
+    "CARE",
+    "GRACE",
+    "LONGING",
+    "LOVE",
+    "PATIENCE",
+    "RELIEF",
+    "SHAME",
+    "SOFT",
+    "WARM",
+    "WONDER"
+  ],
+  "grid": [
+    [
+      "K",
+      "A",
+      "X",
+      "G",
+      "W",
+      "V",
+      "J",
+      "E",
+      "H",
+      "N",
+      "A",
+      "L"
+    ],
+    [
+      "G",
+      "P",
+      "P",
+      "I",
+      "A",
+      "E",
+      "K",
+      "Y",
+      "S",
+      "L",
+      "C",
+      "O"
+    ],
+    [
+      "B",
+      "R",
+      "A",
+      "H",
+      "R",
+      "W",
+      "B",
+      "M",
+      "M",
+      "K",
+      "U",
+      "V"
+    ],
+    [
+      "A",
+      "L",
+      "A",
+      "T",
+      "M",
+      "R",
+      "E",
+      "L",
+      "I",
+      "E",
+      "F",
+      "E"
+    ],
+    [
+      "L",
+      "O",
+      "C",
+      "C",
+      "I",
+      "R",
+      "G",
+      "P",
+      "W",
+      "G",
+      "T",
+      "M"
+    ],
+    [
+      "A",
+      "N",
+      "O",
+      "D",
+      "E",
+      "E",
+      "O",
+      "Q",
+      "O",
+      "U",
+      "T",
+      "S"
+    ],
+    [
+      "N",
+      "G",
+      "D",
+      "U",
+      "A",
+      "I",
+      "N",
+      "Y",
+      "N",
+      "S",
+      "S",
+      "N"
+    ],
+    [
+      "C",
+      "I",
+      "B",
+      "G",
+      "L",
+      "N",
+      "L",
+      "C",
+      "D",
+      "H",
+      "C",
+      "K"
+    ],
+    [
+      "E",
+      "N",
+      "M",
+      "C",
+      "C",
+      "Z",
+      "G",
+      "B",
+      "E",
+      "A",
+      "R",
+      "E"
+    ],
+    [
+      "M",
+      "G",
+      "G",
+      "H",
+      "A",
+      "A",
+      "M",
+      "E",
+      "R",
+      "M",
+      "H",
+      "Q"
+    ],
+    [
+      "X",
+      "J",
+      "J",
+      "F",
+      "X",
+      "L",
+      "R",
+      "F",
+      "R",
+      "E",
+      "S",
+      "L"
+    ],
+    [
+      "Q",
+      "L",
+      "G",
+      "S",
+      "E",
+      "I",
+      "M",
+      "E",
+      "S",
+      "O",
+      "F",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PATIENCE",
+      "row": 1,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "BALANCE",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "LONGING",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "RELIEF",
+      "row": 3,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "WONDER",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "ANGER",
+      "row": 6,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "GRACE",
+      "row": 1,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "SHAME",
+      "row": 6,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "CALM",
+      "row": 8,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "WARM",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "CARE",
+      "row": 8,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "LOVE",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "SOFT",
+      "row": 11,
+      "col": 8,
+      "direction": "E"
+    },
+    {
+      "word": "AWE",
+      "row": 1,
+      "col": 4,
+      "direction": "SE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9253
+}

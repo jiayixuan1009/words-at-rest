@@ -1,0 +1,284 @@
+{
+  "id": "classical-medium-03",
+  "slug": "classical-medium-03",
+  "themeId": "classical",
+  "title": "Classical: Side Shelf",
+  "primaryKeyword": "classical music word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ALLEGRO",
+    "ANDANTE",
+    "ARIA",
+    "CONCERTO",
+    "CRESCENDO",
+    "FINALE",
+    "LARGO",
+    "LEGATO",
+    "MOTIF",
+    "MOVEMENT",
+    "OPERA",
+    "PRELUDE",
+    "SCORE",
+    "SOLOIST"
+  ],
+  "grid": [
+    [
+      "E",
+      "S",
+      "O",
+      "L",
+      "O",
+      "I",
+      "S",
+      "T",
+      "Z",
+      "X",
+      "G",
+      "V"
+    ],
+    [
+      "Q",
+      "C",
+      "R",
+      "E",
+      "S",
+      "C",
+      "E",
+      "N",
+      "D",
+      "O",
+      "D",
+      "L"
+    ],
+    [
+      "Q",
+      "R",
+      "C",
+      "F",
+      "I",
+      "N",
+      "A",
+      "L",
+      "E",
+      "E",
+      "I",
+      "A"
+    ],
+    [
+      "C",
+      "C",
+      "J",
+      "M",
+      "P",
+      "R",
+      "E",
+      "L",
+      "U",
+      "D",
+      "E",
+      "R"
+    ],
+    [
+      "O",
+      "O",
+      "L",
+      "O",
+      "Z",
+      "Y",
+      "K",
+      "G",
+      "F",
+      "G",
+      "M",
+      "G"
+    ],
+    [
+      "N",
+      "P",
+      "R",
+      "T",
+      "A",
+      "A",
+      "W",
+      "B",
+      "K",
+      "N",
+      "O",
+      "O"
+    ],
+    [
+      "C",
+      "E",
+      "S",
+      "I",
+      "L",
+      "N",
+      "M",
+      "L",
+      "L",
+      "T",
+      "V",
+      "M"
+    ],
+    [
+      "E",
+      "R",
+      "C",
+      "F",
+      "L",
+      "D",
+      "O",
+      "O",
+      "E",
+      "R",
+      "E",
+      "O"
+    ],
+    [
+      "R",
+      "A",
+      "O",
+      "A",
+      "E",
+      "A",
+      "F",
+      "D",
+      "G",
+      "N",
+      "M",
+      "U"
+    ],
+    [
+      "T",
+      "S",
+      "R",
+      "R",
+      "G",
+      "N",
+      "J",
+      "R",
+      "A",
+      "G",
+      "E",
+      "N"
+    ],
+    [
+      "O",
+      "I",
+      "E",
+      "I",
+      "R",
+      "T",
+      "N",
+      "S",
+      "T",
+      "R",
+      "N",
+      "I"
+    ],
+    [
+      "H",
+      "U",
+      "M",
+      "A",
+      "O",
+      "E",
+      "M",
+      "C",
+      "O",
+      "L",
+      "T",
+      "A"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CRESCENDO",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CONCERTO",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "MOVEMENT",
+      "row": 4,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "ALLEGRO",
+      "row": 5,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "SOLOIST",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "ANDANTE",
+      "row": 5,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "PRELUDE",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "LEGATO",
+      "row": 6,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "FINALE",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "LARGO",
+      "row": 1,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "OPERA",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SCORE",
+      "row": 6,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "MOTIF",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "ARIA",
+      "row": 8,
+      "col": 3,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9233
+}

@@ -1,0 +1,284 @@
+{
+  "id": "trees-medium-03",
+  "slug": "trees-medium-03",
+  "themeId": "trees",
+  "title": "Trees: Slow Pace",
+  "primaryKeyword": "trees word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ALDER",
+    "ASH",
+    "ASPEN",
+    "FOLIAGE",
+    "GROVE",
+    "GROWTH",
+    "HEMLOCK",
+    "MAGNOLIA",
+    "PINE",
+    "REDWOOD",
+    "SPRUCE",
+    "SYCAMORE",
+    "TWIG",
+    "YEW"
+  ],
+  "grid": [
+    [
+      "G",
+      "T",
+      "I",
+      "J",
+      "N",
+      "J",
+      "Z",
+      "I",
+      "K",
+      "M",
+      "G",
+      "X"
+    ],
+    [
+      "R",
+      "S",
+      "S",
+      "D",
+      "H",
+      "M",
+      "I",
+      "A",
+      "L",
+      "F",
+      "R",
+      "J"
+    ],
+    [
+      "O",
+      "F",
+      "P",
+      "J",
+      "E",
+      "P",
+      "M",
+      "R",
+      "N",
+      "N",
+      "O",
+      "I"
+    ],
+    [
+      "V",
+      "O",
+      "R",
+      "F",
+      "M",
+      "E",
+      "A",
+      "E",
+      "Q",
+      "S",
+      "W",
+      "E"
+    ],
+    [
+      "E",
+      "L",
+      "U",
+      "Y",
+      "L",
+      "A",
+      "G",
+      "D",
+      "O",
+      "Y",
+      "T",
+      "H"
+    ],
+    [
+      "Z",
+      "I",
+      "C",
+      "I",
+      "O",
+      "P",
+      "N",
+      "W",
+      "D",
+      "C",
+      "H",
+      "Y"
+    ],
+    [
+      "C",
+      "A",
+      "E",
+      "C",
+      "C",
+      "I",
+      "O",
+      "O",
+      "F",
+      "A",
+      "A",
+      "H"
+    ],
+    [
+      "U",
+      "G",
+      "L",
+      "A",
+      "K",
+      "N",
+      "L",
+      "O",
+      "M",
+      "M",
+      "B",
+      "D"
+    ],
+    [
+      "R",
+      "E",
+      "K",
+      "G",
+      "S",
+      "E",
+      "I",
+      "D",
+      "T",
+      "O",
+      "W",
+      "T"
+    ],
+    [
+      "M",
+      "E",
+      "S",
+      "F",
+      "W",
+      "H",
+      "A",
+      "A",
+      "W",
+      "R",
+      "W",
+      "N"
+    ],
+    [
+      "A",
+      "S",
+      "P",
+      "E",
+      "N",
+      "L",
+      "K",
+      "E",
+      "I",
+      "E",
+      "S",
+      "A"
+    ],
+    [
+      "I",
+      "A",
+      "L",
+      "D",
+      "E",
+      "R",
+      "Y",
+      "L",
+      "G",
+      "V",
+      "D",
+      "O"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SYCAMORE",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "MAGNOLIA",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "HEMLOCK",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "FOLIAGE",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "REDWOOD",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SPRUCE",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "GROWTH",
+      "row": 0,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "ALDER",
+      "row": 11,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "ASPEN",
+      "row": 10,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "GROVE",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "PINE",
+      "row": 5,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "TWIG",
+      "row": 8,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "ASH",
+      "row": 7,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "YEW",
+      "row": 11,
+      "col": 6,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9351
+}

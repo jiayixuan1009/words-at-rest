@@ -1,0 +1,173 @@
+{
+  "id": "large-print-pack-large-20",
+  "slug": "large-print-pack-large-20",
+  "themeId": "large-print-pack",
+  "title": "Large Print Word Search: Station Bench",
+  "primaryKeyword": "large print large print word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BAG",
+    "BENCH",
+    "HOME",
+    "MAP",
+    "STATION",
+    "TICKET",
+    "TRAIN",
+    "TRIP"
+  ],
+  "grid": [
+    [
+      "X",
+      "L",
+      "I",
+      "P",
+      "M",
+      "A",
+      "P",
+      "N",
+      "H"
+    ],
+    [
+      "R",
+      "S",
+      "T",
+      "A",
+      "T",
+      "I",
+      "O",
+      "N",
+      "Q"
+    ],
+    [
+      "E",
+      "O",
+      "B",
+      "B",
+      "B",
+      "J",
+      "L",
+      "M",
+      "G"
+    ],
+    [
+      "K",
+      "E",
+      "T",
+      "A",
+      "E",
+      "T",
+      "T",
+      "V",
+      "R"
+    ],
+    [
+      "O",
+      "Y",
+      "D",
+      "G",
+      "N",
+      "R",
+      "R",
+      "B",
+      "M"
+    ],
+    [
+      "V",
+      "X",
+      "K",
+      "U",
+      "C",
+      "I",
+      "A",
+      "H",
+      "T"
+    ],
+    [
+      "Y",
+      "R",
+      "W",
+      "R",
+      "H",
+      "P",
+      "I",
+      "O",
+      "S"
+    ],
+    [
+      "S",
+      "T",
+      "A",
+      "D",
+      "U",
+      "K",
+      "N",
+      "M",
+      "Q"
+    ],
+    [
+      "F",
+      "T",
+      "I",
+      "C",
+      "K",
+      "E",
+      "T",
+      "E",
+      "M"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "STATION",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TICKET",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TRAIN",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "BENCH",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "TRIP",
+      "row": 3,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "HOME",
+      "row": 5,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "BAG",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "MAP",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 3044
+}

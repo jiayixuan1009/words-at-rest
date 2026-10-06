@@ -1,0 +1,284 @@
+{
+  "id": "airplanes-medium-03",
+  "slug": "airplanes-medium-03",
+  "themeId": "airplanes",
+  "title": "Airplanes: Side Shelf",
+  "primaryKeyword": "airplanes word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "AISLE",
+    "ALTITUDE",
+    "BAG",
+    "BELT",
+    "CABIN",
+    "ENGINE",
+    "FUEL",
+    "FUSELAGE",
+    "GATE",
+    "LANDING",
+    "RUNWAY",
+    "TAIL",
+    "TERMINAL",
+    "WINDOW"
+  ],
+  "grid": [
+    [
+      "G",
+      "X",
+      "V",
+      "T",
+      "V",
+      "V",
+      "F",
+      "B",
+      "U",
+      "H",
+      "W",
+      "E"
+    ],
+    [
+      "A",
+      "T",
+      "X",
+      "Q",
+      "F",
+      "F",
+      "I",
+      "A",
+      "M",
+      "I",
+      "I",
+      "N"
+    ],
+    [
+      "T",
+      "V",
+      "A",
+      "Z",
+      "A",
+      "U",
+      "S",
+      "G",
+      "Z",
+      "G",
+      "N",
+      "G"
+    ],
+    [
+      "E",
+      "G",
+      "D",
+      "I",
+      "Z",
+      "L",
+      "S",
+      "V",
+      "G",
+      "T",
+      "D",
+      "I"
+    ],
+    [
+      "F",
+      "U",
+      "E",
+      "L",
+      "L",
+      "R",
+      "T",
+      "E",
+      "D",
+      "P",
+      "O",
+      "N"
+    ],
+    [
+      "V",
+      "D",
+      "V",
+      "B",
+      "C",
+      "K",
+      "H",
+      "I",
+      "L",
+      "V",
+      "W",
+      "E"
+    ],
+    [
+      "T",
+      "E",
+      "R",
+      "M",
+      "I",
+      "N",
+      "A",
+      "L",
+      "T",
+      "A",
+      "I",
+      "M"
+    ],
+    [
+      "I",
+      "P",
+      "V",
+      "A",
+      "I",
+      "S",
+      "L",
+      "E",
+      "Q",
+      "U",
+      "G",
+      "I"
+    ],
+    [
+      "A",
+      "U",
+      "S",
+      "T",
+      "Y",
+      "Q",
+      "P",
+      "X",
+      "B",
+      "X",
+      "D",
+      "E"
+    ],
+    [
+      "L",
+      "A",
+      "N",
+      "D",
+      "I",
+      "N",
+      "G",
+      "F",
+      "L",
+      "E",
+      "O",
+      "E"
+    ],
+    [
+      "C",
+      "A",
+      "B",
+      "I",
+      "N",
+      "P",
+      "E",
+      "D",
+      "E",
+      "I",
+      "L",
+      "F"
+    ],
+    [
+      "R",
+      "J",
+      "L",
+      "U",
+      "Q",
+      "R",
+      "U",
+      "N",
+      "W",
+      "A",
+      "Y",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ALTITUDE",
+      "row": 2,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "TERMINAL",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "FUSELAGE",
+      "row": 1,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "LANDING",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "RUNWAY",
+      "row": 11,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "ENGINE",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "WINDOW",
+      "row": 0,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "CABIN",
+      "row": 10,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "AISLE",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "GATE",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "TAIL",
+      "row": 1,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "BELT",
+      "row": 8,
+      "col": 8,
+      "direction": "SE"
+    },
+    {
+      "word": "FUEL",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BAG",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9201
+}

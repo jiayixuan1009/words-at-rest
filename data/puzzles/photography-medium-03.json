@@ -1,0 +1,284 @@
+{
+  "id": "photography-medium-03",
+  "slug": "photography-medium-03",
+  "themeId": "photography",
+  "title": "Photography: Warm Corner",
+  "primaryKeyword": "photography word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ANGLE",
+    "EXPOSE",
+    "FIELD",
+    "FILTER",
+    "FLASH",
+    "LANDSCAPE",
+    "LIGHT",
+    "MOMENT",
+    "PICTURE",
+    "SHADE",
+    "SHUTTER",
+    "SPEED",
+    "VIEW",
+    "ZOOM"
+  ],
+  "grid": [
+    [
+      "F",
+      "Z",
+      "F",
+      "U",
+      "L",
+      "I",
+      "G",
+      "H",
+      "T",
+      "S",
+      "U",
+      "A"
+    ],
+    [
+      "E",
+      "I",
+      "L",
+      "I",
+      "S",
+      "S",
+      "G",
+      "I",
+      "K",
+      "V",
+      "N",
+      "N"
+    ],
+    [
+      "F",
+      "P",
+      "L",
+      "A",
+      "E",
+      "H",
+      "H",
+      "H",
+      "M",
+      "I",
+      "P",
+      "G"
+    ],
+    [
+      "X",
+      "L",
+      "D",
+      "T",
+      "N",
+      "L",
+      "A",
+      "U",
+      "K",
+      "E",
+      "Y",
+      "L"
+    ],
+    [
+      "Y",
+      "P",
+      "A",
+      "D",
+      "E",
+      "D",
+      "D",
+      "D",
+      "T",
+      "W",
+      "F",
+      "E"
+    ],
+    [
+      "B",
+      "S",
+      "I",
+      "S",
+      "Z",
+      "R",
+      "S",
+      "T",
+      "E",
+      "T",
+      "X",
+      "W"
+    ],
+    [
+      "H",
+      "K",
+      "U",
+      "C",
+      "H",
+      "M",
+      "N",
+      "C",
+      "N",
+      "P",
+      "E",
+      "U"
+    ],
+    [
+      "S",
+      "G",
+      "Z",
+      "Z",
+      "T",
+      "E",
+      "E",
+      "E",
+      "A",
+      "Q",
+      "A",
+      "R"
+    ],
+    [
+      "C",
+      "P",
+      "Z",
+      "J",
+      "M",
+      "U",
+      "M",
+      "U",
+      "N",
+      "P",
+      "F",
+      "C"
+    ],
+    [
+      "P",
+      "Y",
+      "E",
+      "O",
+      "V",
+      "O",
+      "R",
+      "O",
+      "M",
+      "X",
+      "E",
+      "N"
+    ],
+    [
+      "C",
+      "D",
+      "M",
+      "E",
+      "O",
+      "O",
+      "C",
+      "E",
+      "G",
+      "L",
+      "C",
+      "G"
+    ],
+    [
+      "S",
+      "Y",
+      "V",
+      "Z",
+      "D",
+      "N",
+      "E",
+      "X",
+      "P",
+      "O",
+      "S",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "LANDSCAPE",
+      "row": 1,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "SHUTTER",
+      "row": 1,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "PICTURE",
+      "row": 4,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "EXPOSE",
+      "row": 11,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "FILTER",
+      "row": 0,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "MOMENT",
+      "row": 10,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "ANGLE",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "LIGHT",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "FIELD",
+      "row": 0,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "SHADE",
+      "row": 1,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "SPEED",
+      "row": 7,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "FLASH",
+      "row": 2,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "ZOOM",
+      "row": 11,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "VIEW",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9325
+}

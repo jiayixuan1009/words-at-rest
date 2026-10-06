@@ -1,0 +1,284 @@
+{
+  "id": "fishing-medium-03",
+  "slug": "fishing-medium-03",
+  "themeId": "fishing",
+  "title": "Fishing: Harbor Light",
+  "primaryKeyword": "fishing word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BAIT",
+    "BOBBER",
+    "CAST",
+    "CATCH",
+    "CATFISH",
+    "CREEL",
+    "FLOAT",
+    "LAKE",
+    "LURE",
+    "NET",
+    "REEL",
+    "ROD",
+    "SHORE",
+    "SINKER"
+  ],
+  "grid": [
+    [
+      "V",
+      "Q",
+      "C",
+      "F",
+      "Z",
+      "L",
+      "V",
+      "V",
+      "D",
+      "T",
+      "S",
+      "J"
+    ],
+    [
+      "C",
+      "J",
+      "C",
+      "H",
+      "Q",
+      "A",
+      "E",
+      "B",
+      "E",
+      "X",
+      "F",
+      "I"
+    ],
+    [
+      "J",
+      "A",
+      "N",
+      "A",
+      "S",
+      "K",
+      "U",
+      "N",
+      "L",
+      "Y",
+      "L",
+      "K"
+    ],
+    [
+      "F",
+      "M",
+      "S",
+      "H",
+      "T",
+      "E",
+      "B",
+      "A",
+      "I",
+      "T",
+      "O",
+      "U"
+    ],
+    [
+      "O",
+      "V",
+      "X",
+      "T",
+      "Q",
+      "F",
+      "R",
+      "K",
+      "K",
+      "E",
+      "A",
+      "D"
+    ],
+    [
+      "S",
+      "H",
+      "O",
+      "R",
+      "E",
+      "E",
+      "I",
+      "T",
+      "K",
+      "R",
+      "T",
+      "R"
+    ],
+    [
+      "U",
+      "C",
+      "L",
+      "R",
+      "B",
+      "F",
+      "G",
+      "S",
+      "K",
+      "O",
+      "T",
+      "E"
+    ],
+    [
+      "D",
+      "N",
+      "R",
+      "B",
+      "N",
+      "S",
+      "E",
+      "I",
+      "H",
+      "D",
+      "T",
+      "E"
+    ],
+    [
+      "K",
+      "R",
+      "O",
+      "E",
+      "E",
+      "K",
+      "G",
+      "N",
+      "U",
+      "Z",
+      "N",
+      "L"
+    ],
+    [
+      "W",
+      "B",
+      "L",
+      "R",
+      "E",
+      "I",
+      "U",
+      "K",
+      "N",
+      "A",
+      "P",
+      "W"
+    ],
+    [
+      "D",
+      "R",
+      "U",
+      "X",
+      "Q",
+      "L",
+      "S",
+      "E",
+      "K",
+      "R",
+      "I",
+      "A"
+    ],
+    [
+      "Q",
+      "L",
+      "C",
+      "A",
+      "T",
+      "C",
+      "H",
+      "R",
+      "Z",
+      "I",
+      "F",
+      "I"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CATFISH",
+      "row": 1,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "BOBBER",
+      "row": 9,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "SINKER",
+      "row": 6,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "FLOAT",
+      "row": 1,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "SHORE",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CATCH",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CREEL",
+      "row": 6,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "REEL",
+      "row": 5,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "BAIT",
+      "row": 3,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "CAST",
+      "row": 1,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "LAKE",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "LURE",
+      "row": 11,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "ROD",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "NET",
+      "row": 2,
+      "col": 7,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9261
+}

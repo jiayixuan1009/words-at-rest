@@ -1,0 +1,208 @@
+{
+  "id": "flowers-easy-03",
+  "slug": "flowers-easy-03",
+  "themeId": "flowers",
+  "title": "Flowers: Still Room",
+  "primaryKeyword": "flowers word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BEE",
+    "CROCUS",
+    "HIBISCUS",
+    "MUM",
+    "ORCHID",
+    "PETAL",
+    "POLLEN",
+    "POPPY",
+    "ROSE",
+    "SOFT"
+  ],
+  "grid": [
+    [
+      "R",
+      "V",
+      "U",
+      "T",
+      "P",
+      "C",
+      "P",
+      "N",
+      "G",
+      "R"
+    ],
+    [
+      "O",
+      "I",
+      "X",
+      "Z",
+      "Z",
+      "R",
+      "Y",
+      "P",
+      "B",
+      "W"
+    ],
+    [
+      "S",
+      "R",
+      "B",
+      "E",
+      "E",
+      "O",
+      "N",
+      "O",
+      "O",
+      "P"
+    ],
+    [
+      "E",
+      "L",
+      "P",
+      "M",
+      "O",
+      "C",
+      "M",
+      "L",
+      "A",
+      "O"
+    ],
+    [
+      "S",
+      "M",
+      "E",
+      "U",
+      "P",
+      "U",
+      "P",
+      "L",
+      "Q",
+      "P"
+    ],
+    [
+      "V",
+      "T",
+      "T",
+      "M",
+      "T",
+      "S",
+      "I",
+      "E",
+      "M",
+      "P"
+    ],
+    [
+      "T",
+      "V",
+      "A",
+      "D",
+      "N",
+      "U",
+      "V",
+      "N",
+      "T",
+      "Y"
+    ],
+    [
+      "D",
+      "N",
+      "L",
+      "G",
+      "O",
+      "R",
+      "C",
+      "H",
+      "I",
+      "D"
+    ],
+    [
+      "Y",
+      "Q",
+      "X",
+      "N",
+      "S",
+      "O",
+      "F",
+      "T",
+      "H",
+      "V"
+    ],
+    [
+      "H",
+      "I",
+      "B",
+      "I",
+      "S",
+      "C",
+      "U",
+      "S",
+      "M",
+      "B"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "HIBISCUS",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CROCUS",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "POLLEN",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "ORCHID",
+      "row": 7,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "PETAL",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "POPPY",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "ROSE",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SOFT",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "MUM",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "BEE",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9262
+}

@@ -1,0 +1,208 @@
+{
+  "id": "easter-easy-03",
+  "slug": "easter-easy-03",
+  "themeId": "easter",
+  "title": "Easter: Open Window",
+  "primaryKeyword": "easter word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BLOOM",
+    "BLUEBELL",
+    "CROSS",
+    "GRASS",
+    "HATCHLING",
+    "HYMN",
+    "PASTEL",
+    "PEACE",
+    "TULIP",
+    "VIOLET"
+  ],
+  "grid": [
+    [
+      "E",
+      "X",
+      "S",
+      "K",
+      "T",
+      "U",
+      "L",
+      "I",
+      "P",
+      "M"
+    ],
+    [
+      "H",
+      "Q",
+      "Z",
+      "M",
+      "B",
+      "P",
+      "L",
+      "H",
+      "D",
+      "G"
+    ],
+    [
+      "A",
+      "S",
+      "H",
+      "I",
+      "L",
+      "C",
+      "O",
+      "M",
+      "V",
+      "R"
+    ],
+    [
+      "T",
+      "V",
+      "V",
+      "I",
+      "O",
+      "L",
+      "E",
+      "T",
+      "Z",
+      "A"
+    ],
+    [
+      "C",
+      "P",
+      "B",
+      "F",
+      "O",
+      "L",
+      "X",
+      "R",
+      "E",
+      "S"
+    ],
+    [
+      "H",
+      "A",
+      "H",
+      "Y",
+      "M",
+      "N",
+      "S",
+      "P",
+      "P",
+      "S"
+    ],
+    [
+      "L",
+      "S",
+      "B",
+      "L",
+      "U",
+      "E",
+      "B",
+      "E",
+      "L",
+      "L"
+    ],
+    [
+      "I",
+      "T",
+      "T",
+      "C",
+      "H",
+      "R",
+      "A",
+      "A",
+      "R",
+      "S"
+    ],
+    [
+      "N",
+      "E",
+      "M",
+      "H",
+      "R",
+      "Z",
+      "Q",
+      "C",
+      "W",
+      "E"
+    ],
+    [
+      "G",
+      "L",
+      "C",
+      "R",
+      "O",
+      "S",
+      "S",
+      "E",
+      "J",
+      "S"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "HATCHLING",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BLUEBELL",
+      "row": 6,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PASTEL",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "VIOLET",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PEACE",
+      "row": 5,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "BLOOM",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "CROSS",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "TULIP",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "GRASS",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "HYMN",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9250
+}

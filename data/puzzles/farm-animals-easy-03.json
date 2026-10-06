@@ -1,0 +1,208 @@
+{
+  "id": "farm-animals-easy-03",
+  "slug": "farm-animals-easy-03",
+  "themeId": "farm-animals",
+  "title": "Farm Animals: Morning Light",
+  "primaryKeyword": "farm animals word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ALPACA",
+    "BARN",
+    "DOG",
+    "EGG",
+    "FIELD",
+    "GOOSE",
+    "GRAIN",
+    "SOW",
+    "STABLE",
+    "TAIL"
+  ],
+  "grid": [
+    [
+      "W",
+      "Z",
+      "F",
+      "I",
+      "E",
+      "L",
+      "D",
+      "A",
+      "A",
+      "S"
+    ],
+    [
+      "H",
+      "B",
+      "T",
+      "T",
+      "A",
+      "I",
+      "L",
+      "A",
+      "K",
+      "O"
+    ],
+    [
+      "V",
+      "L",
+      "D",
+      "O",
+      "G",
+      "U",
+      "I",
+      "L",
+      "Z",
+      "W"
+    ],
+    [
+      "B",
+      "O",
+      "B",
+      "A",
+      "L",
+      "Z",
+      "Y",
+      "P",
+      "F",
+      "T"
+    ],
+    [
+      "A",
+      "G",
+      "R",
+      "A",
+      "I",
+      "N",
+      "G",
+      "A",
+      "C",
+      "K"
+    ],
+    [
+      "D",
+      "T",
+      "Q",
+      "M",
+      "G",
+      "I",
+      "B",
+      "C",
+      "T",
+      "R"
+    ],
+    [
+      "U",
+      "T",
+      "Y",
+      "N",
+      "L",
+      "V",
+      "A",
+      "A",
+      "E",
+      "E"
+    ],
+    [
+      "F",
+      "W",
+      "S",
+      "Q",
+      "P",
+      "S",
+      "R",
+      "K",
+      "M",
+      "G"
+    ],
+    [
+      "G",
+      "O",
+      "O",
+      "S",
+      "E",
+      "F",
+      "N",
+      "N",
+      "J",
+      "G"
+    ],
+    [
+      "O",
+      "S",
+      "F",
+      "S",
+      "T",
+      "A",
+      "B",
+      "L",
+      "E",
+      "U"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "STABLE",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "ALPACA",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "FIELD",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "GOOSE",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "GRAIN",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BARN",
+      "row": 5,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "TAIL",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "DOG",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "EGG",
+      "row": 6,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SOW",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9254
+}

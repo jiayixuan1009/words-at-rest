@@ -1,0 +1,284 @@
+{
+  "id": "friendship-medium-03",
+  "slug": "friendship-medium-03",
+  "themeId": "friendship",
+  "title": "Friendship: Border Path",
+  "primaryKeyword": "friendship word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CHEER",
+    "CIRCLE",
+    "FRIEND",
+    "HOME",
+    "HOPE",
+    "HOST",
+    "JOY",
+    "LETTER",
+    "PEACE",
+    "SMILE",
+    "TALK",
+    "TIME",
+    "TRUE",
+    "WARM"
+  ],
+  "grid": [
+    [
+      "X",
+      "R",
+      "Y",
+      "W",
+      "H",
+      "S",
+      "I",
+      "R",
+      "O",
+      "N",
+      "V",
+      "Y"
+    ],
+    [
+      "C",
+      "A",
+      "N",
+      "A",
+      "P",
+      "B",
+      "G",
+      "I",
+      "E",
+      "H",
+      "Q",
+      "N"
+    ],
+    [
+      "J",
+      "I",
+      "J",
+      "R",
+      "P",
+      "P",
+      "D",
+      "U",
+      "X",
+      "O",
+      "J",
+      "P"
+    ],
+    [
+      "O",
+      "J",
+      "R",
+      "M",
+      "J",
+      "N",
+      "R",
+      "B",
+      "A",
+      "M",
+      "H",
+      "X"
+    ],
+    [
+      "Y",
+      "J",
+      "S",
+      "C",
+      "E",
+      "T",
+      "I",
+      "V",
+      "G",
+      "E",
+      "W",
+      "X"
+    ],
+    [
+      "K",
+      "L",
+      "S",
+      "I",
+      "L",
+      "N",
+      "L",
+      "C",
+      "H",
+      "E",
+      "E",
+      "R"
+    ],
+    [
+      "P",
+      "Q",
+      "R",
+      "A",
+      "X",
+      "E",
+      "E",
+      "W",
+      "S",
+      "B",
+      "Y",
+      "H"
+    ],
+    [
+      "E",
+      "F",
+      "Z",
+      "N",
+      "Y",
+      "V",
+      "T",
+      "C",
+      "M",
+      "D",
+      "K",
+      "Y"
+    ],
+    [
+      "A",
+      "Y",
+      "Y",
+      "L",
+      "A",
+      "W",
+      "T",
+      "A",
+      "I",
+      "E",
+      "S",
+      "O"
+    ],
+    [
+      "C",
+      "D",
+      "Q",
+      "L",
+      "O",
+      "M",
+      "E",
+      "C",
+      "L",
+      "J",
+      "H",
+      "S"
+    ],
+    [
+      "E",
+      "S",
+      "H",
+      "O",
+      "P",
+      "E",
+      "R",
+      "S",
+      "E",
+      "K",
+      "R",
+      "Y"
+    ],
+    [
+      "T",
+      "I",
+      "M",
+      "E",
+      "C",
+      "K",
+      "E",
+      "M",
+      "H",
+      "O",
+      "S",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FRIEND",
+      "row": 7,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "LETTER",
+      "row": 5,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "CIRCLE",
+      "row": 1,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "CHEER",
+      "row": 5,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "SMILE",
+      "row": 6,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "PEACE",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "TALK",
+      "row": 7,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "TRUE",
+      "row": 4,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "TIME",
+      "row": 11,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "HOME",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "HOST",
+      "row": 11,
+      "col": 8,
+      "direction": "E"
+    },
+    {
+      "word": "WARM",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "HOPE",
+      "row": 10,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "JOY",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9267
+}

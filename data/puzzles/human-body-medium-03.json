@@ -1,0 +1,284 @@
+{
+  "id": "human-body-medium-03",
+  "slug": "human-body-medium-03",
+  "themeId": "human-body",
+  "title": "Human Body: Border Path",
+  "primaryKeyword": "human body word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ARM",
+    "BACK",
+    "EAR",
+    "ELBOW",
+    "FINGER",
+    "HEART",
+    "JOINTS",
+    "LEG",
+    "LIP",
+    "LIVER",
+    "PULSE",
+    "RIB",
+    "THROAT",
+    "VEIN"
+  ],
+  "grid": [
+    [
+      "P",
+      "X",
+      "P",
+      "E",
+      "D",
+      "G",
+      "H",
+      "A",
+      "R",
+      "M",
+      "E",
+      "Z"
+    ],
+    [
+      "L",
+      "U",
+      "R",
+      "J",
+      "L",
+      "L",
+      "F",
+      "E",
+      "F",
+      "Q",
+      "A",
+      "Q"
+    ],
+    [
+      "G",
+      "I",
+      "L",
+      "B",
+      "F",
+      "B",
+      "P",
+      "L",
+      "A",
+      "U",
+      "R",
+      "K"
+    ],
+    [
+      "D",
+      "P",
+      "V",
+      "S",
+      "F",
+      "J",
+      "O",
+      "K",
+      "L",
+      "R",
+      "W",
+      "R"
+    ],
+    [
+      "X",
+      "P",
+      "P",
+      "E",
+      "E",
+      "Z",
+      "O",
+      "W",
+      "B",
+      "J",
+      "T",
+      "V"
+    ],
+    [
+      "F",
+      "L",
+      "K",
+      "B",
+      "R",
+      "D",
+      "X",
+      "I",
+      "Q",
+      "G",
+      "U",
+      "U"
+    ],
+    [
+      "W",
+      "S",
+      "L",
+      "E",
+      "G",
+      "X",
+      "F",
+      "N",
+      "N",
+      "L",
+      "S",
+      "W"
+    ],
+    [
+      "L",
+      "R",
+      "T",
+      "H",
+      "R",
+      "O",
+      "A",
+      "T",
+      "F",
+      "T",
+      "I",
+      "C"
+    ],
+    [
+      "G",
+      "I",
+      "I",
+      "K",
+      "L",
+      "V",
+      "Y",
+      "R",
+      "C",
+      "B",
+      "S",
+      "P"
+    ],
+    [
+      "P",
+      "B",
+      "F",
+      "D",
+      "F",
+      "I",
+      "E",
+      "N",
+      "S",
+      "A",
+      "X",
+      "K"
+    ],
+    [
+      "F",
+      "I",
+      "N",
+      "G",
+      "E",
+      "R",
+      "A",
+      "I",
+      "G",
+      "C",
+      "C",
+      "K"
+    ],
+    [
+      "W",
+      "E",
+      "Y",
+      "R",
+      "G",
+      "H",
+      "C",
+      "L",
+      "N",
+      "K",
+      "B",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "JOINTS",
+      "row": 3,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "THROAT",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "FINGER",
+      "row": 10,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "HEART",
+      "row": 0,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "LIVER",
+      "row": 1,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "PULSE",
+      "row": 0,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "ELBOW",
+      "row": 0,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "VEIN",
+      "row": 8,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "BACK",
+      "row": 8,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "EAR",
+      "row": 0,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "LEG",
+      "row": 6,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ARM",
+      "row": 0,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "RIB",
+      "row": 7,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "LIP",
+      "row": 6,
+      "col": 9,
+      "direction": "SE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9285
+}

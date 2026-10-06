@@ -1,0 +1,208 @@
+{
+  "id": "money-easy-03",
+  "slug": "money-easy-03",
+  "themeId": "money",
+  "title": "Money: Evening Rest",
+  "primaryKeyword": "money word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BUDGET",
+    "CHANGE",
+    "CREDIT",
+    "PAYMENT",
+    "SAFE",
+    "SAVE",
+    "TAX",
+    "VALUE",
+    "WALLET",
+    "WORTH"
+  ],
+  "grid": [
+    [
+      "A",
+      "O",
+      "H",
+      "N",
+      "M",
+      "Z",
+      "B",
+      "N",
+      "Z",
+      "W"
+    ],
+    [
+      "V",
+      "A",
+      "L",
+      "U",
+      "E",
+      "J",
+      "T",
+      "A",
+      "X",
+      "Z"
+    ],
+    [
+      "V",
+      "H",
+      "Y",
+      "W",
+      "A",
+      "L",
+      "L",
+      "E",
+      "T",
+      "Q"
+    ],
+    [
+      "C",
+      "R",
+      "E",
+      "D",
+      "I",
+      "T",
+      "C",
+      "W",
+      "Z",
+      "S"
+    ],
+    [
+      "S",
+      "B",
+      "U",
+      "D",
+      "G",
+      "E",
+      "T",
+      "W",
+      "S",
+      "H"
+    ],
+    [
+      "F",
+      "O",
+      "S",
+      "A",
+      "V",
+      "E",
+      "E",
+      "E",
+      "A",
+      "X"
+    ],
+    [
+      "P",
+      "A",
+      "Y",
+      "M",
+      "E",
+      "N",
+      "T",
+      "R",
+      "F",
+      "E"
+    ],
+    [
+      "C",
+      "H",
+      "A",
+      "N",
+      "G",
+      "E",
+      "B",
+      "N",
+      "E",
+      "C"
+    ],
+    [
+      "O",
+      "X",
+      "E",
+      "B",
+      "O",
+      "W",
+      "O",
+      "R",
+      "T",
+      "H"
+    ],
+    [
+      "M",
+      "N",
+      "R",
+      "W",
+      "K",
+      "X",
+      "W",
+      "P",
+      "V",
+      "D"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PAYMENT",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CREDIT",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CHANGE",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "WALLET",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BUDGET",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "VALUE",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "WORTH",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SAVE",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SAFE",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "TAX",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9310
+}

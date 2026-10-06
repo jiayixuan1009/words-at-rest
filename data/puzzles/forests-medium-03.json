@@ -1,0 +1,284 @@
+{
+  "id": "forests-medium-03",
+  "slug": "forests-medium-03",
+  "themeId": "forests",
+  "title": "Forests: Harbor Light",
+  "primaryKeyword": "forests word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BARK",
+    "CANOPY",
+    "CLEARING",
+    "FLOOR",
+    "FOX",
+    "GROVE",
+    "GROWTH",
+    "HABITAT",
+    "LEAF",
+    "MIST",
+    "QUIET",
+    "ROOT",
+    "SNOW",
+    "SQUIRREL"
+  ],
+  "grid": [
+    [
+      "S",
+      "N",
+      "O",
+      "W",
+      "A",
+      "L",
+      "G",
+      "J",
+      "S",
+      "E",
+      "L",
+      "F"
+    ],
+    [
+      "H",
+      "F",
+      "L",
+      "I",
+      "L",
+      "D",
+      "R",
+      "O",
+      "Q",
+      "Y",
+      "X",
+      "V"
+    ],
+    [
+      "H",
+      "Z",
+      "G",
+      "F",
+      "L",
+      "O",
+      "O",
+      "R",
+      "U",
+      "E",
+      "M",
+      "G"
+    ],
+    [
+      "A",
+      "R",
+      "R",
+      "O",
+      "V",
+      "M",
+      "L",
+      "X",
+      "I",
+      "Q",
+      "U",
+      "R"
+    ],
+    [
+      "B",
+      "O",
+      "O",
+      "T",
+      "Y",
+      "K",
+      "E",
+      "Z",
+      "R",
+      "W",
+      "Y",
+      "O"
+    ],
+    [
+      "I",
+      "O",
+      "V",
+      "E",
+      "F",
+      "O",
+      "A",
+      "I",
+      "R",
+      "D",
+      "X",
+      "W"
+    ],
+    [
+      "T",
+      "T",
+      "E",
+      "E",
+      "Y",
+      "T",
+      "F",
+      "G",
+      "E",
+      "O",
+      "B",
+      "T"
+    ],
+    [
+      "A",
+      "J",
+      "Y",
+      "I",
+      "B",
+      "A",
+      "R",
+      "K",
+      "L",
+      "P",
+      "O",
+      "H"
+    ],
+    [
+      "T",
+      "C",
+      "L",
+      "E",
+      "A",
+      "R",
+      "I",
+      "N",
+      "G",
+      "B",
+      "Y",
+      "E"
+    ],
+    [
+      "F",
+      "F",
+      "G",
+      "B",
+      "C",
+      "D",
+      "X",
+      "A",
+      "M",
+      "I",
+      "S",
+      "T"
+    ],
+    [
+      "I",
+      "O",
+      "O",
+      "C",
+      "A",
+      "N",
+      "O",
+      "P",
+      "Y",
+      "C",
+      "I",
+      "G"
+    ],
+    [
+      "M",
+      "R",
+      "E",
+      "X",
+      "Q",
+      "U",
+      "I",
+      "E",
+      "T",
+      "E",
+      "C",
+      "P"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CLEARING",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SQUIRREL",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "HABITAT",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "GROWTH",
+      "row": 2,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "CANOPY",
+      "row": 10,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "FLOOR",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "GROVE",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "QUIET",
+      "row": 11,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "MIST",
+      "row": 9,
+      "col": 8,
+      "direction": "E"
+    },
+    {
+      "word": "SNOW",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BARK",
+      "row": 7,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "LEAF",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "ROOT",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "FOX",
+      "row": 9,
+      "col": 1,
+      "direction": "SE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9265
+}

@@ -1,0 +1,173 @@
+{
+  "id": "large-print-pack-large-24",
+  "slug": "large-print-pack-large-24",
+  "themeId": "large-print-pack",
+  "title": "Large Print Word Search: Harbor Dock",
+  "primaryKeyword": "large print large print word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BOAT",
+    "CALM",
+    "DOCK",
+    "GULL",
+    "HARBOR",
+    "ROPE",
+    "WAVE",
+    "WIND"
+  ],
+  "grid": [
+    [
+      "A",
+      "O",
+      "R",
+      "G",
+      "J",
+      "V",
+      "U",
+      "X",
+      "R"
+    ],
+    [
+      "P",
+      "O",
+      "G",
+      "U",
+      "O",
+      "E",
+      "L",
+      "G",
+      "O"
+    ],
+    [
+      "T",
+      "Y",
+      "M",
+      "L",
+      "W",
+      "I",
+      "N",
+      "D",
+      "P"
+    ],
+    [
+      "O",
+      "I",
+      "U",
+      "L",
+      "C",
+      "T",
+      "O",
+      "E",
+      "E"
+    ],
+    [
+      "R",
+      "B",
+      "R",
+      "J",
+      "A",
+      "V",
+      "Z",
+      "R",
+      "Z"
+    ],
+    [
+      "Z",
+      "O",
+      "D",
+      "V",
+      "L",
+      "W",
+      "N",
+      "H",
+      "U"
+    ],
+    [
+      "E",
+      "A",
+      "O",
+      "R",
+      "M",
+      "L",
+      "Q",
+      "E",
+      "R"
+    ],
+    [
+      "C",
+      "T",
+      "H",
+      "A",
+      "R",
+      "B",
+      "O",
+      "R",
+      "V"
+    ],
+    [
+      "H",
+      "D",
+      "O",
+      "C",
+      "K",
+      "W",
+      "A",
+      "V",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "HARBOR",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BOAT",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "ROPE",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "GULL",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "WAVE",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "WIND",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CALM",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "DOCK",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 3048
+}

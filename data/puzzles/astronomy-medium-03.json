@@ -1,0 +1,284 @@
+{
+  "id": "astronomy-medium-03",
+  "slug": "astronomy-medium-03",
+  "themeId": "astronomy",
+  "title": "Astronomy: Side Shelf",
+  "primaryKeyword": "astronomy word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ATLAS",
+    "COMET",
+    "CRATER",
+    "DAWN",
+    "DUSK",
+    "GAS",
+    "LIGHTYEAR",
+    "LUNAR",
+    "NEBULA",
+    "PULSAR",
+    "SKY",
+    "STAR",
+    "SUN",
+    "VOID"
+  ],
+  "grid": [
+    [
+      "A",
+      "D",
+      "D",
+      "U",
+      "S",
+      "K",
+      "P",
+      "O",
+      "I",
+      "R",
+      "J",
+      "C"
+    ],
+    [
+      "R",
+      "K",
+      "B",
+      "X",
+      "V",
+      "I",
+      "F",
+      "N",
+      "A",
+      "R",
+      "L",
+      "O"
+    ],
+    [
+      "Y",
+      "E",
+      "T",
+      "N",
+      "O",
+      "F",
+      "W",
+      "N",
+      "I",
+      "P",
+      "I",
+      "M"
+    ],
+    [
+      "R",
+      "Q",
+      "U",
+      "I",
+      "I",
+      "A",
+      "U",
+      "T",
+      "E",
+      "U",
+      "G",
+      "E"
+    ],
+    [
+      "B",
+      "V",
+      "G",
+      "N",
+      "D",
+      "L",
+      "P",
+      "J",
+      "Z",
+      "L",
+      "H",
+      "T"
+    ],
+    [
+      "N",
+      "Q",
+      "L",
+      "V",
+      "S",
+      "S",
+      "T",
+      "A",
+      "R",
+      "S",
+      "T",
+      "I"
+    ],
+    [
+      "S",
+      "Q",
+      "X",
+      "N",
+      "E",
+      "B",
+      "U",
+      "L",
+      "A",
+      "A",
+      "Y",
+      "A"
+    ],
+    [
+      "E",
+      "Z",
+      "C",
+      "V",
+      "X",
+      "S",
+      "W",
+      "C",
+      "K",
+      "R",
+      "E",
+      "T"
+    ],
+    [
+      "E",
+      "Y",
+      "C",
+      "R",
+      "A",
+      "T",
+      "E",
+      "R",
+      "O",
+      "N",
+      "A",
+      "L"
+    ],
+    [
+      "S",
+      "G",
+      "G",
+      "E",
+      "P",
+      "W",
+      "B",
+      "K",
+      "U",
+      "A",
+      "R",
+      "A"
+    ],
+    [
+      "Q",
+      "K",
+      "E",
+      "A",
+      "Z",
+      "T",
+      "H",
+      "S",
+      "E",
+      "X",
+      "K",
+      "S"
+    ],
+    [
+      "F",
+      "N",
+      "Y",
+      "F",
+      "S",
+      "X",
+      "Y",
+      "W",
+      "N",
+      "J",
+      "V",
+      "X"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "LIGHTYEAR",
+      "row": 1,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "NEBULA",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "CRATER",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PULSAR",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "ATLAS",
+      "row": 6,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "COMET",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "LUNAR",
+      "row": 4,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "STAR",
+      "row": 5,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "VOID",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "DUSK",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "DAWN",
+      "row": 4,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "SKY",
+      "row": 9,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "GAS",
+      "row": 9,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "SUN",
+      "row": 10,
+      "col": 7,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9207
+}

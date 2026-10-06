@@ -1,0 +1,284 @@
+{
+  "id": "islands-medium-03",
+  "slug": "islands-medium-03",
+  "themeId": "islands",
+  "title": "Islands: Harbor Light",
+  "primaryKeyword": "islands word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CORAL",
+    "COVE",
+    "DAWN",
+    "DOCK",
+    "FERRY",
+    "JETTY",
+    "LIGHTHOUSE",
+    "PALM",
+    "REMOTE",
+    "SAIL",
+    "SNORKEL",
+    "SUNSET",
+    "VISTA",
+    "WAVE"
+  ],
+  "grid": [
+    [
+      "N",
+      "L",
+      "I",
+      "G",
+      "H",
+      "T",
+      "H",
+      "O",
+      "U",
+      "S",
+      "E",
+      "D"
+    ],
+    [
+      "W",
+      "S",
+      "M",
+      "Y",
+      "J",
+      "E",
+      "T",
+      "T",
+      "Y",
+      "O",
+      "R",
+      "O"
+    ],
+    [
+      "W",
+      "X",
+      "Z",
+      "I",
+      "E",
+      "C",
+      "E",
+      "E",
+      "S",
+      "T",
+      "E",
+      "C"
+    ],
+    [
+      "Z",
+      "A",
+      "W",
+      "V",
+      "K",
+      "O",
+      "S",
+      "M",
+      "Z",
+      "T",
+      "M",
+      "K"
+    ],
+    [
+      "Z",
+      "V",
+      "A",
+      "Z",
+      "K",
+      "R",
+      "L",
+      "P",
+      "E",
+      "S",
+      "O",
+      "F"
+    ],
+    [
+      "B",
+      "W",
+      "I",
+      "S",
+      "J",
+      "A",
+      "S",
+      "R",
+      "F",
+      "U",
+      "T",
+      "C"
+    ],
+    [
+      "H",
+      "S",
+      "J",
+      "S",
+      "P",
+      "L",
+      "N",
+      "F",
+      "K",
+      "N",
+      "E",
+      "C"
+    ],
+    [
+      "D",
+      "O",
+      "A",
+      "F",
+      "T",
+      "S",
+      "O",
+      "E",
+      "C",
+      "S",
+      "A",
+      "Q"
+    ],
+    [
+      "A",
+      "B",
+      "D",
+      "I",
+      "Z",
+      "A",
+      "R",
+      "R",
+      "O",
+      "E",
+      "A",
+      "Y"
+    ],
+    [
+      "X",
+      "I",
+      "L",
+      "A",
+      "L",
+      "A",
+      "K",
+      "R",
+      "V",
+      "T",
+      "Q",
+      "I"
+    ],
+    [
+      "O",
+      "Y",
+      "R",
+      "P",
+      "W",
+      "U",
+      "E",
+      "Y",
+      "E",
+      "U",
+      "L",
+      "K"
+    ],
+    [
+      "B",
+      "Y",
+      "Z",
+      "M",
+      "I",
+      "N",
+      "L",
+      "R",
+      "I",
+      "Y",
+      "D",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "LIGHTHOUSE",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SNORKEL",
+      "row": 5,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "REMOTE",
+      "row": 1,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "SUNSET",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "CORAL",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "FERRY",
+      "row": 6,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "JETTY",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "VISTA",
+      "row": 4,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "COVE",
+      "row": 7,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "DOCK",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "SAIL",
+      "row": 6,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "WAVE",
+      "row": 5,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "PALM",
+      "row": 6,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "DAWN",
+      "row": 8,
+      "col": 2,
+      "direction": "SE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9293
+}

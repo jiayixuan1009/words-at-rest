@@ -1,0 +1,208 @@
+{
+  "id": "fishing-easy-03",
+  "slug": "fishing-easy-03",
+  "themeId": "fishing",
+  "title": "Fishing: Still Room",
+  "primaryKeyword": "fishing word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BASS",
+    "COOLER",
+    "EDDY",
+    "FLY",
+    "HAT",
+    "HOOK",
+    "LEADER",
+    "PERCH",
+    "TIDE",
+    "VEST"
+  ],
+  "grid": [
+    [
+      "H",
+      "O",
+      "O",
+      "K",
+      "C",
+      "T",
+      "T",
+      "O",
+      "H",
+      "G"
+    ],
+    [
+      "H",
+      "B",
+      "A",
+      "S",
+      "S",
+      "U",
+      "F",
+      "L",
+      "Y",
+      "G"
+    ],
+    [
+      "A",
+      "Z",
+      "L",
+      "F",
+      "J",
+      "F",
+      "I",
+      "F",
+      "D",
+      "T"
+    ],
+    [
+      "T",
+      "I",
+      "D",
+      "V",
+      "E",
+      "D",
+      "D",
+      "Y",
+      "C",
+      "E"
+    ],
+    [
+      "N",
+      "M",
+      "L",
+      "V",
+      "X",
+      "A",
+      "C",
+      "C",
+      "P",
+      "R"
+    ],
+    [
+      "W",
+      "H",
+      "E",
+      "E",
+      "E",
+      "P",
+      "N",
+      "O",
+      "T",
+      "T"
+    ],
+    [
+      "S",
+      "H",
+      "A",
+      "S",
+      "I",
+      "E",
+      "W",
+      "O",
+      "H",
+      "I"
+    ],
+    [
+      "F",
+      "M",
+      "D",
+      "T",
+      "N",
+      "R",
+      "F",
+      "L",
+      "B",
+      "D"
+    ],
+    [
+      "J",
+      "J",
+      "E",
+      "N",
+      "I",
+      "C",
+      "V",
+      "E",
+      "Q",
+      "E"
+    ],
+    [
+      "Z",
+      "T",
+      "R",
+      "N",
+      "A",
+      "H",
+      "J",
+      "R",
+      "P",
+      "M"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "LEADER",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "COOLER",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "PERCH",
+      "row": 5,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "BASS",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "HOOK",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "VEST",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "EDDY",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "TIDE",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "HAT",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "FLY",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9260
+}

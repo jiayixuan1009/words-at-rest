@@ -1,0 +1,173 @@
+{
+  "id": "journaling-large-01",
+  "slug": "journaling-large-01",
+  "themeId": "journaling",
+  "title": "Large Print Journaling: Soft Pen",
+  "primaryKeyword": "large print journaling word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "DESK",
+    "ENTRY",
+    "INK",
+    "LIST",
+    "NOTE",
+    "PAGE",
+    "PEN",
+    "REST"
+  ],
+  "grid": [
+    [
+      "N",
+      "O",
+      "T",
+      "E",
+      "S",
+      "V",
+      "C",
+      "A",
+      "M"
+    ],
+    [
+      "U",
+      "E",
+      "J",
+      "I",
+      "C",
+      "L",
+      "F",
+      "V",
+      "Y"
+    ],
+    [
+      "X",
+      "N",
+      "R",
+      "N",
+      "L",
+      "P",
+      "E",
+      "N",
+      "E"
+    ],
+    [
+      "N",
+      "T",
+      "E",
+      "K",
+      "I",
+      "Q",
+      "K",
+      "L",
+      "G"
+    ],
+    [
+      "C",
+      "R",
+      "S",
+      "J",
+      "S",
+      "G",
+      "N",
+      "D",
+      "Y"
+    ],
+    [
+      "F",
+      "Y",
+      "T",
+      "S",
+      "T",
+      "D",
+      "I",
+      "E",
+      "M"
+    ],
+    [
+      "Q",
+      "J",
+      "F",
+      "J",
+      "W",
+      "B",
+      "N",
+      "S",
+      "S"
+    ],
+    [
+      "I",
+      "V",
+      "R",
+      "X",
+      "I",
+      "F",
+      "X",
+      "K",
+      "U"
+    ],
+    [
+      "P",
+      "A",
+      "G",
+      "E",
+      "L",
+      "T",
+      "A",
+      "W",
+      "L"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ENTRY",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "PAGE",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "NOTE",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "LIST",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "DESK",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "REST",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "PEN",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "INK",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9036
+}

@@ -1,0 +1,208 @@
+{
+  "id": "insects-easy-03",
+  "slug": "insects-easy-03",
+  "themeId": "insects",
+  "title": "Insects: Still Room",
+  "primaryKeyword": "insects word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BARK",
+    "BUG",
+    "DAMSELFLY",
+    "FIREFLY",
+    "GARDEN",
+    "GLOW",
+    "LEAF",
+    "NECTAR",
+    "PUPA",
+    "WEEVIL"
+  ],
+  "grid": [
+    [
+      "H",
+      "R",
+      "O",
+      "F",
+      "I",
+      "R",
+      "E",
+      "F",
+      "L",
+      "Y"
+    ],
+    [
+      "O",
+      "Z",
+      "N",
+      "G",
+      "L",
+      "E",
+      "A",
+      "F",
+      "G",
+      "W"
+    ],
+    [
+      "C",
+      "K",
+      "E",
+      "P",
+      "R",
+      "B",
+      "Y",
+      "A",
+      "A",
+      "E"
+    ],
+    [
+      "A",
+      "M",
+      "C",
+      "U",
+      "U",
+      "A",
+      "G",
+      "G",
+      "R",
+      "E"
+    ],
+    [
+      "Z",
+      "O",
+      "T",
+      "P",
+      "W",
+      "R",
+      "O",
+      "L",
+      "D",
+      "V"
+    ],
+    [
+      "A",
+      "I",
+      "A",
+      "A",
+      "U",
+      "K",
+      "V",
+      "O",
+      "E",
+      "I"
+    ],
+    [
+      "P",
+      "X",
+      "R",
+      "L",
+      "P",
+      "K",
+      "S",
+      "W",
+      "N",
+      "L"
+    ],
+    [
+      "Z",
+      "D",
+      "A",
+      "M",
+      "S",
+      "E",
+      "L",
+      "F",
+      "L",
+      "Y"
+    ],
+    [
+      "I",
+      "M",
+      "J",
+      "R",
+      "H",
+      "T",
+      "O",
+      "Q",
+      "Z",
+      "S"
+    ],
+    [
+      "W",
+      "B",
+      "U",
+      "G",
+      "G",
+      "N",
+      "X",
+      "H",
+      "W",
+      "U"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "DAMSELFLY",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "FIREFLY",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "WEEVIL",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "GARDEN",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "NECTAR",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "BARK",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "LEAF",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "GLOW",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "PUPA",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "BUG",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9288
+}

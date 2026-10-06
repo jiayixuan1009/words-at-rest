@@ -1,0 +1,284 @@
+{
+  "id": "independence-day-medium-03",
+  "slug": "independence-day-medium-03",
+  "themeId": "independence-day",
+  "title": "Independence Day: Long Afternoon",
+  "primaryKeyword": "fourth of july word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BANNER",
+    "BLANKET",
+    "BRIDGE",
+    "EVENING",
+    "FIREWORK",
+    "FLAG",
+    "FRUIT",
+    "GATHER",
+    "GLOW",
+    "HARBOR",
+    "HISTORY",
+    "PLEDGE",
+    "SKY",
+    "STAR"
+  ],
+  "grid": [
+    [
+      "Y",
+      "G",
+      "Y",
+      "K",
+      "B",
+      "R",
+      "P",
+      "E",
+      "B",
+      "Z",
+      "D",
+      "X"
+    ],
+    [
+      "N",
+      "K",
+      "Z",
+      "X",
+      "E",
+      "L",
+      "Y",
+      "L",
+      "G",
+      "R",
+      "X",
+      "C"
+    ],
+    [
+      "S",
+      "R",
+      "H",
+      "N",
+      "W",
+      "R",
+      "A",
+      "N",
+      "E",
+      "K",
+      "I",
+      "B"
+    ],
+    [
+      "M",
+      "A",
+      "N",
+      "O",
+      "O",
+      "T",
+      "Q",
+      "N",
+      "X",
+      "D",
+      "S",
+      "S"
+    ],
+    [
+      "H",
+      "A",
+      "L",
+      "T",
+      "D",
+      "R",
+      "E",
+      "M",
+      "K",
+      "V",
+      "G",
+      "B"
+    ],
+    [
+      "B",
+      "G",
+      "S",
+      "H",
+      "O",
+      "G",
+      "C",
+      "G",
+      "T",
+      "E",
+      "B",
+      "E"
+    ],
+    [
+      "K",
+      "I",
+      "M",
+      "B",
+      "D",
+      "F",
+      "L",
+      "A",
+      "G",
+      "U",
+      "T",
+      "D"
+    ],
+    [
+      "H",
+      "A",
+      "R",
+      "I",
+      "X",
+      "G",
+      "A",
+      "T",
+      "H",
+      "E",
+      "R",
+      "X"
+    ],
+    [
+      "Y",
+      "A",
+      "R",
+      "M",
+      "F",
+      "I",
+      "R",
+      "E",
+      "W",
+      "O",
+      "R",
+      "K"
+    ],
+    [
+      "H",
+      "B",
+      "E",
+      "V",
+      "E",
+      "N",
+      "I",
+      "N",
+      "G",
+      "Q",
+      "Y",
+      "C"
+    ],
+    [
+      "J",
+      "F",
+      "S",
+      "A",
+      "S",
+      "T",
+      "A",
+      "R",
+      "H",
+      "D",
+      "Y",
+      "M"
+    ],
+    [
+      "I",
+      "J",
+      "A",
+      "V",
+      "F",
+      "R",
+      "U",
+      "I",
+      "T",
+      "E",
+      "E",
+      "U"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FIREWORK",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BLANKET",
+      "row": 0,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "HISTORY",
+      "row": 7,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "EVENING",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BRIDGE",
+      "row": 9,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "GATHER",
+      "row": 7,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "PLEDGE",
+      "row": 0,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "BANNER",
+      "row": 5,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "HARBOR",
+      "row": 9,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "FRUIT",
+      "row": 11,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "FLAG",
+      "row": 6,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "GLOW",
+      "row": 5,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "STAR",
+      "row": 10,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SKY",
+      "row": 2,
+      "col": 0,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9287
+}

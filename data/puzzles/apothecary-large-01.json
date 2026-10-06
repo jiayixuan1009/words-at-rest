@@ -1,0 +1,173 @@
+{
+  "id": "apothecary-large-01",
+  "slug": "apothecary-large-01",
+  "themeId": "apothecary",
+  "title": "Large Print Apothecary: Soft Leaf",
+  "primaryKeyword": "large print apothecary word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "HERB",
+    "JAR",
+    "LEAF",
+    "OIL",
+    "ROOT",
+    "SHELF",
+    "SOFT",
+    "TEA"
+  ],
+  "grid": [
+    [
+      "J",
+      "S",
+      "O",
+      "F",
+      "T",
+      "W",
+      "W",
+      "Z",
+      "X"
+    ],
+    [
+      "C",
+      "K",
+      "B",
+      "E",
+      "M",
+      "M",
+      "S",
+      "R",
+      "U"
+    ],
+    [
+      "X",
+      "H",
+      "E",
+      "R",
+      "B",
+      "Z",
+      "M",
+      "O",
+      "X"
+    ],
+    [
+      "Q",
+      "J",
+      "A",
+      "R",
+      "O",
+      "I",
+      "L",
+      "O",
+      "O"
+    ],
+    [
+      "A",
+      "V",
+      "Y",
+      "S",
+      "M",
+      "X",
+      "I",
+      "T",
+      "R"
+    ],
+    [
+      "B",
+      "N",
+      "F",
+      "H",
+      "A",
+      "Q",
+      "Q",
+      "I",
+      "L"
+    ],
+    [
+      "U",
+      "R",
+      "J",
+      "E",
+      "J",
+      "V",
+      "Y",
+      "B",
+      "E"
+    ],
+    [
+      "T",
+      "E",
+      "A",
+      "L",
+      "S",
+      "J",
+      "V",
+      "B",
+      "A"
+    ],
+    [
+      "G",
+      "E",
+      "V",
+      "F",
+      "Z",
+      "P",
+      "J",
+      "N",
+      "F"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SHELF",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "HERB",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "LEAF",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "ROOT",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SOFT",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "JAR",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "OIL",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "TEA",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9046
+}

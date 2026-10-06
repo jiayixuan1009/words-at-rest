@@ -1,0 +1,284 @@
+{
+  "id": "summer-medium-03",
+  "slug": "summer-medium-03",
+  "themeId": "summer",
+  "title": "Summer: Nested Calm",
+  "primaryKeyword": "summer word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BASKET",
+    "BEACH",
+    "CANOE",
+    "CRICKET",
+    "DIVE",
+    "HAMMOCK",
+    "HEAT",
+    "SAND",
+    "SLOW",
+    "SOLSTICE",
+    "SPLASH",
+    "STAR",
+    "TOWEL",
+    "VACATION"
+  ],
+  "grid": [
+    [
+      "C",
+      "D",
+      "O",
+      "A",
+      "F",
+      "S",
+      "P",
+      "L",
+      "A",
+      "S",
+      "H",
+      "R"
+    ],
+    [
+      "S",
+      "R",
+      "G",
+      "L",
+      "S",
+      "Z",
+      "C",
+      "X",
+      "V",
+      "V",
+      "M",
+      "B"
+    ],
+    [
+      "T",
+      "N",
+      "I",
+      "W",
+      "H",
+      "A",
+      "M",
+      "M",
+      "O",
+      "C",
+      "K",
+      "P"
+    ],
+    [
+      "A",
+      "I",
+      "C",
+      "C",
+      "M",
+      "W",
+      "Z",
+      "V",
+      "C",
+      "H",
+      "L",
+      "E"
+    ],
+    [
+      "R",
+      "K",
+      "S",
+      "B",
+      "K",
+      "Z",
+      "R",
+      "A",
+      "A",
+      "K",
+      "S",
+      "S"
+    ],
+    [
+      "P",
+      "T",
+      "B",
+      "A",
+      "E",
+      "E",
+      "H",
+      "C",
+      "N",
+      "I",
+      "O",
+      "S"
+    ],
+    [
+      "J",
+      "O",
+      "E",
+      "S",
+      "N",
+      "S",
+      "T",
+      "A",
+      "O",
+      "G",
+      "L",
+      "Z"
+    ],
+    [
+      "G",
+      "W",
+      "A",
+      "K",
+      "C",
+      "D",
+      "S",
+      "T",
+      "E",
+      "B",
+      "S",
+      "E"
+    ],
+    [
+      "X",
+      "E",
+      "C",
+      "E",
+      "T",
+      "I",
+      "L",
+      "I",
+      "H",
+      "V",
+      "T",
+      "Q"
+    ],
+    [
+      "O",
+      "L",
+      "H",
+      "T",
+      "B",
+      "V",
+      "O",
+      "O",
+      "E",
+      "M",
+      "I",
+      "Q"
+    ],
+    [
+      "O",
+      "P",
+      "J",
+      "W",
+      "G",
+      "E",
+      "W",
+      "N",
+      "A",
+      "L",
+      "C",
+      "I"
+    ],
+    [
+      "D",
+      "L",
+      "N",
+      "T",
+      "R",
+      "V",
+      "O",
+      "I",
+      "T",
+      "J",
+      "E",
+      "O"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "VACATION",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SOLSTICE",
+      "row": 4,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "HAMMOCK",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CRICKET",
+      "row": 0,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "BASKET",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "SPLASH",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "BEACH",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "TOWEL",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "CANOE",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "DIVE",
+      "row": 7,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "SAND",
+      "row": 4,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "HEAT",
+      "row": 8,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "STAR",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SLOW",
+      "row": 7,
+      "col": 6,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9345
+}

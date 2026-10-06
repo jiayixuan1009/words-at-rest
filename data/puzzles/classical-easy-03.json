@@ -1,0 +1,208 @@
+{
+  "id": "classical-easy-03",
+  "slug": "classical-easy-03",
+  "themeId": "classical",
+  "title": "Classical: Soft Path",
+  "primaryKeyword": "classical music word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ADAGIO",
+    "BATON",
+    "CADENZA",
+    "DUET",
+    "ETUDE",
+    "FORTE",
+    "FUGUE",
+    "ORCHESTRA",
+    "PRESTO",
+    "SONATA"
+  ],
+  "grid": [
+    [
+      "R",
+      "O",
+      "E",
+      "N",
+      "F",
+      "U",
+      "K",
+      "P",
+      "O",
+      "C"
+    ],
+    [
+      "V",
+      "R",
+      "E",
+      "G",
+      "U",
+      "B",
+      "B",
+      "R",
+      "F",
+      "A"
+    ],
+    [
+      "N",
+      "C",
+      "T",
+      "L",
+      "G",
+      "A",
+      "K",
+      "E",
+      "F",
+      "D"
+    ],
+    [
+      "A",
+      "H",
+      "U",
+      "U",
+      "U",
+      "T",
+      "G",
+      "S",
+      "Y",
+      "E"
+    ],
+    [
+      "D",
+      "E",
+      "D",
+      "S",
+      "E",
+      "O",
+      "C",
+      "T",
+      "L",
+      "N"
+    ],
+    [
+      "A",
+      "S",
+      "E",
+      "O",
+      "Q",
+      "N",
+      "Q",
+      "O",
+      "E",
+      "Z"
+    ],
+    [
+      "G",
+      "T",
+      "V",
+      "N",
+      "F",
+      "O",
+      "R",
+      "T",
+      "E",
+      "A"
+    ],
+    [
+      "I",
+      "R",
+      "L",
+      "A",
+      "K",
+      "Y",
+      "J",
+      "M",
+      "N",
+      "C"
+    ],
+    [
+      "O",
+      "A",
+      "Z",
+      "T",
+      "C",
+      "M",
+      "D",
+      "U",
+      "E",
+      "T"
+    ],
+    [
+      "T",
+      "R",
+      "S",
+      "A",
+      "F",
+      "M",
+      "F",
+      "J",
+      "X",
+      "B"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ORCHESTRA",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "CADENZA",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "PRESTO",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "ADAGIO",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SONATA",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "BATON",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "FUGUE",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "FORTE",
+      "row": 6,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "ETUDE",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "DUET",
+      "row": 8,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9232
+}

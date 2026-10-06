@@ -1,0 +1,284 @@
+{
+  "id": "mythology-medium-03",
+  "slug": "mythology-medium-03",
+  "themeId": "mythology",
+  "title": "Mythology: Side Shelf",
+  "primaryKeyword": "mythology word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ALTAR",
+    "CROWN",
+    "DAY",
+    "GIANT",
+    "HADES",
+    "LABYRINTH",
+    "MUSE",
+    "OMEN",
+    "ORACLE",
+    "QUEST",
+    "RITUAL",
+    "THRONE",
+    "TITAN",
+    "ZEUS"
+  ],
+  "grid": [
+    [
+      "I",
+      "C",
+      "W",
+      "P",
+      "T",
+      "H",
+      "R",
+      "O",
+      "N",
+      "E",
+      "K",
+      "D"
+    ],
+    [
+      "T",
+      "C",
+      "R",
+      "O",
+      "W",
+      "N",
+      "Y",
+      "B",
+      "F",
+      "V",
+      "Y",
+      "H"
+    ],
+    [
+      "I",
+      "U",
+      "U",
+      "K",
+      "L",
+      "R",
+      "C",
+      "Y",
+      "Z",
+      "E",
+      "U",
+      "S"
+    ],
+    [
+      "D",
+      "H",
+      "O",
+      "M",
+      "U",
+      "S",
+      "E",
+      "G",
+      "I",
+      "A",
+      "N",
+      "T"
+    ],
+    [
+      "R",
+      "G",
+      "V",
+      "R",
+      "M",
+      "M",
+      "V",
+      "M",
+      "T",
+      "B",
+      "R",
+      "L"
+    ],
+    [
+      "Z",
+      "W",
+      "X",
+      "L",
+      "A",
+      "B",
+      "Y",
+      "R",
+      "I",
+      "N",
+      "T",
+      "H"
+    ],
+    [
+      "Q",
+      "C",
+      "F",
+      "N",
+      "I",
+      "C",
+      "H",
+      "A",
+      "D",
+      "E",
+      "S",
+      "W"
+    ],
+    [
+      "A",
+      "A",
+      "L",
+      "T",
+      "A",
+      "R",
+      "L",
+      "E",
+      "G",
+      "D",
+      "A",
+      "Y"
+    ],
+    [
+      "R",
+      "I",
+      "T",
+      "U",
+      "A",
+      "L",
+      "R",
+      "E",
+      "J",
+      "Y",
+      "V",
+      "U"
+    ],
+    [
+      "K",
+      "W",
+      "A",
+      "I",
+      "W",
+      "S",
+      "R",
+      "T",
+      "I",
+      "T",
+      "A",
+      "N"
+    ],
+    [
+      "S",
+      "V",
+      "B",
+      "O",
+      "H",
+      "Q",
+      "U",
+      "E",
+      "S",
+      "T",
+      "W",
+      "U"
+    ],
+    [
+      "S",
+      "Q",
+      "O",
+      "M",
+      "E",
+      "N",
+      "T",
+      "L",
+      "N",
+      "G",
+      "B",
+      "X"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "LABYRINTH",
+      "row": 5,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "ORACLE",
+      "row": 3,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "THRONE",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "RITUAL",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "TITAN",
+      "row": 9,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "GIANT",
+      "row": 3,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "ALTAR",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "HADES",
+      "row": 6,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "QUEST",
+      "row": 10,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "CROWN",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "OMEN",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "MUSE",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "ZEUS",
+      "row": 2,
+      "col": 8,
+      "direction": "E"
+    },
+    {
+      "word": "DAY",
+      "row": 7,
+      "col": 9,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9319
+}

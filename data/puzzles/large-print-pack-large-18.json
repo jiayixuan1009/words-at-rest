@@ -1,0 +1,173 @@
+{
+  "id": "large-print-pack-large-18",
+  "slug": "large-print-pack-large-18",
+  "themeId": "large-print-pack",
+  "title": "Large Print Word Search: Market Bag",
+  "primaryKeyword": "large print large print word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BAG",
+    "BREAD",
+    "COIN",
+    "HERB",
+    "MARKET",
+    "SALT",
+    "SHOP",
+    "WARM"
+  ],
+  "grid": [
+    [
+      "U",
+      "W",
+      "A",
+      "R",
+      "M",
+      "N",
+      "P",
+      "N",
+      "S"
+    ],
+    [
+      "E",
+      "G",
+      "P",
+      "P",
+      "V",
+      "V",
+      "V",
+      "H",
+      "A"
+    ],
+    [
+      "G",
+      "T",
+      "S",
+      "H",
+      "O",
+      "P",
+      "S",
+      "E",
+      "H"
+    ],
+    [
+      "M",
+      "M",
+      "A",
+      "R",
+      "K",
+      "E",
+      "T",
+      "R",
+      "J"
+    ],
+    [
+      "V",
+      "C",
+      "O",
+      "I",
+      "N",
+      "W",
+      "P",
+      "B",
+      "B"
+    ],
+    [
+      "S",
+      "A",
+      "L",
+      "T",
+      "J",
+      "U",
+      "B",
+      "X",
+      "A"
+    ],
+    [
+      "S",
+      "S",
+      "C",
+      "B",
+      "R",
+      "E",
+      "A",
+      "D",
+      "G"
+    ],
+    [
+      "F",
+      "T",
+      "D",
+      "D",
+      "X",
+      "C",
+      "Z",
+      "Z",
+      "R"
+    ],
+    [
+      "V",
+      "Z",
+      "E",
+      "C",
+      "R",
+      "S",
+      "W",
+      "Y",
+      "G"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "MARKET",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BREAD",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "HERB",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SALT",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "COIN",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "WARM",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SHOP",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BAG",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 3042
+}

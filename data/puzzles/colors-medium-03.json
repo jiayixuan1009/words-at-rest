@@ -1,0 +1,284 @@
+{
+  "id": "colors-medium-03",
+  "slug": "colors-medium-03",
+  "themeId": "colors",
+  "title": "Colors: Nested Calm",
+  "primaryKeyword": "colors word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "AQUA",
+    "BRONZE",
+    "COPPER",
+    "CRIMSON",
+    "CYAN",
+    "GREY",
+    "IVORY",
+    "OLIVE",
+    "PURPLE",
+    "RED",
+    "ROSE",
+    "SCARLET",
+    "TURQUOISE",
+    "VIOLET"
+  ],
+  "grid": [
+    [
+      "A",
+      "A",
+      "G",
+      "G",
+      "R",
+      "Q",
+      "N",
+      "E",
+      "Y",
+      "B",
+      "N",
+      "A"
+    ],
+    [
+      "B",
+      "P",
+      "Q",
+      "Q",
+      "L",
+      "O",
+      "B",
+      "E",
+      "E",
+      "R",
+      "Y",
+      "L"
+    ],
+    [
+      "L",
+      "K",
+      "U",
+      "U",
+      "O",
+      "X",
+      "S",
+      "S",
+      "F",
+      "O",
+      "S",
+      "H"
+    ],
+    [
+      "G",
+      "J",
+      "R",
+      "R",
+      "A",
+      "L",
+      "I",
+      "E",
+      "W",
+      "N",
+      "T",
+      "Z"
+    ],
+    [
+      "U",
+      "G",
+      "I",
+      "V",
+      "P",
+      "O",
+      "P",
+      "V",
+      "K",
+      "Z",
+      "B",
+      "C"
+    ],
+    [
+      "I",
+      "R",
+      "V",
+      "V",
+      "U",
+      "L",
+      "T",
+      "I",
+      "C",
+      "E",
+      "S",
+      "C"
+    ],
+    [
+      "U",
+      "E",
+      "M",
+      "Q",
+      "O",
+      "E",
+      "E",
+      "O",
+      "R",
+      "E",
+      "C",
+      "O"
+    ],
+    [
+      "L",
+      "Y",
+      "R",
+      "D",
+      "L",
+      "R",
+      "M",
+      "L",
+      "I",
+      "B",
+      "Y",
+      "P"
+    ],
+    [
+      "B",
+      "U",
+      "E",
+      "R",
+      "U",
+      "Q",
+      "Y",
+      "E",
+      "M",
+      "P",
+      "A",
+      "P"
+    ],
+    [
+      "T",
+      "R",
+      "A",
+      "S",
+      "E",
+      "M",
+      "T",
+      "T",
+      "S",
+      "Y",
+      "N",
+      "E"
+    ],
+    [
+      "V",
+      "C",
+      "W",
+      "O",
+      "L",
+      "I",
+      "V",
+      "E",
+      "O",
+      "K",
+      "F",
+      "R"
+    ],
+    [
+      "S",
+      "I",
+      "P",
+      "A",
+      "M",
+      "H",
+      "A",
+      "D",
+      "N",
+      "U",
+      "V",
+      "H"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TURQUOISE",
+      "row": 9,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "CRIMSON",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "SCARLET",
+      "row": 11,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "PURPLE",
+      "row": 1,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "COPPER",
+      "row": 5,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "BRONZE",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "VIOLET",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "OLIVE",
+      "row": 10,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "IVORY",
+      "row": 4,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "CYAN",
+      "row": 6,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "GREY",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "ROSE",
+      "row": 0,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "AQUA",
+      "row": 0,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "RED",
+      "row": 9,
+      "col": 1,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9237
+}

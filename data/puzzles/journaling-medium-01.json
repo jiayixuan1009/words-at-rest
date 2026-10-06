@@ -1,0 +1,284 @@
+{
+  "id": "journaling-medium-01",
+  "slug": "journaling-medium-01",
+  "themeId": "journaling",
+  "title": "Journaling: Ink Evening",
+  "primaryKeyword": "journaling word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BINDING",
+    "DAILY",
+    "DREAM",
+    "EVENING",
+    "GRATITUDE",
+    "HABIT",
+    "JOURNAL",
+    "MARGIN",
+    "MEMORY",
+    "MORNING",
+    "REFLECT",
+    "REVIEW",
+    "SPINE",
+    "THOUGHT"
+  ],
+  "grid": [
+    [
+      "O",
+      "D",
+      "G",
+      "O",
+      "V",
+      "P",
+      "M",
+      "E",
+      "M",
+      "O",
+      "R",
+      "Y"
+    ],
+    [
+      "U",
+      "U",
+      "R",
+      "H",
+      "O",
+      "Z",
+      "F",
+      "D",
+      "A",
+      "I",
+      "L",
+      "Y"
+    ],
+    [
+      "E",
+      "E",
+      "A",
+      "E",
+      "A",
+      "J",
+      "R",
+      "U",
+      "X",
+      "A",
+      "C",
+      "M"
+    ],
+    [
+      "H",
+      "E",
+      "T",
+      "B",
+      "A",
+      "B",
+      "V",
+      "M",
+      "N",
+      "J",
+      "A",
+      "O"
+    ],
+    [
+      "Y",
+      "X",
+      "I",
+      "E",
+      "I",
+      "M",
+      "I",
+      "R",
+      "R",
+      "W",
+      "F",
+      "R"
+    ],
+    [
+      "I",
+      "R",
+      "T",
+      "V",
+      "P",
+      "N",
+      "U",
+      "T",
+      "E",
+      "X",
+      "O",
+      "N"
+    ],
+    [
+      "H",
+      "E",
+      "U",
+      "E",
+      "Q",
+      "O",
+      "D",
+      "I",
+      "N",
+      "M",
+      "F",
+      "I"
+    ],
+    [
+      "F",
+      "F",
+      "D",
+      "N",
+      "J",
+      "Q",
+      "V",
+      "I",
+      "J",
+      "Y",
+      "H",
+      "N"
+    ],
+    [
+      "M",
+      "L",
+      "E",
+      "I",
+      "J",
+      "E",
+      "G",
+      "M",
+      "N",
+      "G",
+      "X",
+      "G"
+    ],
+    [
+      "W",
+      "E",
+      "X",
+      "N",
+      "R",
+      "R",
+      "L",
+      "B",
+      "K",
+      "G",
+      "B",
+      "Q"
+    ],
+    [
+      "H",
+      "C",
+      "S",
+      "G",
+      "A",
+      "B",
+      "S",
+      "P",
+      "I",
+      "N",
+      "E",
+      "R"
+    ],
+    [
+      "Z",
+      "T",
+      "X",
+      "M",
+      "T",
+      "T",
+      "H",
+      "O",
+      "U",
+      "G",
+      "H",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "GRATITUDE",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "JOURNAL",
+      "row": 7,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "THOUGHT",
+      "row": 11,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "REFLECT",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "MORNING",
+      "row": 2,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "EVENING",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "BINDING",
+      "row": 3,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "MEMORY",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "REVIEW",
+      "row": 9,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "MARGIN",
+      "row": 11,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "DREAM",
+      "row": 0,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "HABIT",
+      "row": 1,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "DAILY",
+      "row": 1,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "SPINE",
+      "row": 10,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9033
+}

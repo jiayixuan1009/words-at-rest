@@ -1,0 +1,208 @@
+{
+  "id": "countries-easy-03",
+  "slug": "countries-easy-03",
+  "themeId": "countries",
+  "title": "Countries: Soft Path",
+  "primaryKeyword": "countries word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "AUSTRALIA",
+    "CHILE",
+    "CHINA",
+    "EGYPT",
+    "GERMANY",
+    "HAITI",
+    "IRAQ",
+    "ISLAND",
+    "NIGERIA",
+    "POLAND"
+  ],
+  "grid": [
+    [
+      "X",
+      "G",
+      "E",
+      "R",
+      "M",
+      "A",
+      "N",
+      "Y",
+      "F",
+      "C"
+    ],
+    [
+      "I",
+      "S",
+      "L",
+      "A",
+      "N",
+      "D",
+      "A",
+      "P",
+      "P",
+      "G"
+    ],
+    [
+      "N",
+      "S",
+      "P",
+      "U",
+      "D",
+      "C",
+      "H",
+      "I",
+      "N",
+      "A"
+    ],
+    [
+      "I",
+      "B",
+      "O",
+      "S",
+      "P",
+      "Y",
+      "W",
+      "F",
+      "Y",
+      "D"
+    ],
+    [
+      "G",
+      "K",
+      "L",
+      "T",
+      "I",
+      "E",
+      "A",
+      "K",
+      "G",
+      "B"
+    ],
+    [
+      "E",
+      "K",
+      "A",
+      "R",
+      "I",
+      "E",
+      "G",
+      "Y",
+      "P",
+      "T"
+    ],
+    [
+      "R",
+      "I",
+      "N",
+      "A",
+      "H",
+      "A",
+      "I",
+      "T",
+      "I",
+      "H"
+    ],
+    [
+      "I",
+      "R",
+      "D",
+      "L",
+      "U",
+      "P",
+      "X",
+      "F",
+      "Q",
+      "M"
+    ],
+    [
+      "A",
+      "A",
+      "H",
+      "I",
+      "C",
+      "H",
+      "I",
+      "L",
+      "E",
+      "N"
+    ],
+    [
+      "G",
+      "Q",
+      "B",
+      "A",
+      "V",
+      "Q",
+      "R",
+      "J",
+      "E",
+      "L"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "AUSTRALIA",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "NIGERIA",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "GERMANY",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "POLAND",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "ISLAND",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "HAITI",
+      "row": 6,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CHILE",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "EGYPT",
+      "row": 5,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "CHINA",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "IRAQ",
+      "row": 6,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9242
+}

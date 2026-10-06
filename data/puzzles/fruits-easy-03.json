@@ -1,0 +1,208 @@
+{
+  "id": "fruits-easy-03",
+  "slug": "fruits-easy-03",
+  "themeId": "fruits",
+  "title": "Fruits: Open Window",
+  "primaryKeyword": "fruits word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BLACKBERRY",
+    "CRANBERRY",
+    "LIME",
+    "MULBERRY",
+    "OLIVE",
+    "ORANGE",
+    "PEAR",
+    "PINEAPPLE",
+    "RAISIN",
+    "TOMATO"
+  ],
+  "grid": [
+    [
+      "R",
+      "T",
+      "O",
+      "M",
+      "A",
+      "T",
+      "O",
+      "R",
+      "P",
+      "B"
+    ],
+    [
+      "R",
+      "L",
+      "I",
+      "M",
+      "E",
+      "N",
+      "C",
+      "A",
+      "I",
+      "L"
+    ],
+    [
+      "J",
+      "L",
+      "B",
+      "M",
+      "T",
+      "F",
+      "R",
+      "I",
+      "N",
+      "A"
+    ],
+    [
+      "H",
+      "P",
+      "O",
+      "U",
+      "Z",
+      "U",
+      "A",
+      "S",
+      "E",
+      "C"
+    ],
+    [
+      "I",
+      "E",
+      "L",
+      "L",
+      "O",
+      "F",
+      "N",
+      "I",
+      "A",
+      "K"
+    ],
+    [
+      "B",
+      "A",
+      "I",
+      "B",
+      "R",
+      "Y",
+      "B",
+      "N",
+      "P",
+      "B"
+    ],
+    [
+      "Q",
+      "R",
+      "V",
+      "E",
+      "A",
+      "I",
+      "E",
+      "U",
+      "P",
+      "E"
+    ],
+    [
+      "F",
+      "H",
+      "E",
+      "R",
+      "N",
+      "C",
+      "R",
+      "Q",
+      "L",
+      "R"
+    ],
+    [
+      "B",
+      "G",
+      "G",
+      "R",
+      "G",
+      "K",
+      "R",
+      "A",
+      "E",
+      "R"
+    ],
+    [
+      "W",
+      "Q",
+      "W",
+      "Y",
+      "E",
+      "Q",
+      "Y",
+      "U",
+      "G",
+      "Y"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BLACKBERRY",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "CRANBERRY",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "PINEAPPLE",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "MULBERRY",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "ORANGE",
+      "row": 4,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "TOMATO",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "RAISIN",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "OLIVE",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "PEAR",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "LIME",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9268
+}

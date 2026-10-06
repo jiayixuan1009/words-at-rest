@@ -1,0 +1,173 @@
+{
+  "id": "large-print-pack-large-22",
+  "slug": "large-print-pack-large-22",
+  "themeId": "large-print-pack",
+  "title": "Large Print Word Search: Forest Path",
+  "primaryKeyword": "large print large print word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "FOREST",
+    "MOSS",
+    "OWL",
+    "PATH",
+    "PINE",
+    "SHADE",
+    "SOFT",
+    "WALK"
+  ],
+  "grid": [
+    [
+      "Y",
+      "U",
+      "X",
+      "P",
+      "A",
+      "T",
+      "H",
+      "Z",
+      "G"
+    ],
+    [
+      "Y",
+      "S",
+      "J",
+      "J",
+      "C",
+      "O",
+      "W",
+      "L",
+      "I"
+    ],
+    [
+      "G",
+      "H",
+      "M",
+      "O",
+      "S",
+      "S",
+      "B",
+      "L",
+      "I"
+    ],
+    [
+      "K",
+      "A",
+      "P",
+      "O",
+      "E",
+      "F",
+      "T",
+      "A",
+      "S"
+    ],
+    [
+      "F",
+      "D",
+      "I",
+      "C",
+      "H",
+      "O",
+      "W",
+      "H",
+      "O"
+    ],
+    [
+      "D",
+      "E",
+      "N",
+      "Q",
+      "T",
+      "R",
+      "A",
+      "Q",
+      "F"
+    ],
+    [
+      "J",
+      "C",
+      "E",
+      "Q",
+      "G",
+      "E",
+      "L",
+      "Q",
+      "T"
+    ],
+    [
+      "K",
+      "V",
+      "V",
+      "H",
+      "A",
+      "S",
+      "K",
+      "U",
+      "N"
+    ],
+    [
+      "I",
+      "L",
+      "T",
+      "V",
+      "K",
+      "T",
+      "T",
+      "I",
+      "L"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FOREST",
+      "row": 3,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "SHADE",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "PINE",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "PATH",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "MOSS",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SOFT",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "WALK",
+      "row": 4,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "OWL",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 3046
+}

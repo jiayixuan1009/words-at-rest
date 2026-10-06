@@ -1,0 +1,284 @@
+{
+  "id": "national-parks-medium-03",
+  "slug": "national-parks-medium-03",
+  "themeId": "national-parks",
+  "title": "National Parks: Nested Calm",
+  "primaryKeyword": "national parks word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BEAR",
+    "BISON",
+    "CAMP",
+    "CAVE",
+    "EAGLE",
+    "GEYSER",
+    "LAKE",
+    "LODGE",
+    "NATURE",
+    "PERMIT",
+    "PICNIC",
+    "SHELTER",
+    "VISITOR",
+    "VISTA"
+  ],
+  "grid": [
+    [
+      "N",
+      "L",
+      "P",
+      "R",
+      "K",
+      "I",
+      "B",
+      "K",
+      "D",
+      "T",
+      "Z",
+      "L"
+    ],
+    [
+      "P",
+      "O",
+      "I",
+      "T",
+      "F",
+      "D",
+      "E",
+      "E",
+      "S",
+      "B",
+      "Y",
+      "G"
+    ],
+    [
+      "L",
+      "D",
+      "C",
+      "P",
+      "X",
+      "S",
+      "K",
+      "H",
+      "Q",
+      "R",
+      "D",
+      "E"
+    ],
+    [
+      "E",
+      "G",
+      "N",
+      "C",
+      "E",
+      "A",
+      "T",
+      "I",
+      "E",
+      "A",
+      "N",
+      "Y"
+    ],
+    [
+      "A",
+      "E",
+      "I",
+      "P",
+      "L",
+      "I",
+      "C",
+      "T",
+      "T",
+      "O",
+      "C",
+      "S"
+    ],
+    [
+      "G",
+      "Y",
+      "C",
+      "Z",
+      "G",
+      "E",
+      "L",
+      "S",
+      "S",
+      "C",
+      "A",
+      "E"
+    ],
+    [
+      "L",
+      "J",
+      "O",
+      "L",
+      "R",
+      "E",
+      "I",
+      "I",
+      "Q",
+      "Y",
+      "M",
+      "R"
+    ],
+    [
+      "E",
+      "G",
+      "V",
+      "U",
+      "H",
+      "V",
+      "B",
+      "G",
+      "O",
+      "X",
+      "P",
+      "D"
+    ],
+    [
+      "U",
+      "U",
+      "T",
+      "S",
+      "H",
+      "I",
+      "W",
+      "T",
+      "W",
+      "P",
+      "D",
+      "H"
+    ],
+    [
+      "F",
+      "A",
+      "P",
+      "T",
+      "T",
+      "V",
+      "I",
+      "S",
+      "I",
+      "T",
+      "O",
+      "R"
+    ],
+    [
+      "N",
+      "D",
+      "R",
+      "S",
+      "C",
+      "A",
+      "V",
+      "E",
+      "O",
+      "Q",
+      "W",
+      "K"
+    ],
+    [
+      "X",
+      "B",
+      "E",
+      "A",
+      "R",
+      "Y",
+      "P",
+      "E",
+      "R",
+      "M",
+      "I",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SHELTER",
+      "row": 8,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "VISITOR",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "PERMIT",
+      "row": 11,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "GEYSER",
+      "row": 1,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "NATURE",
+      "row": 10,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "PICNIC",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "BISON",
+      "row": 7,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "VISTA",
+      "row": 7,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "LODGE",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "EAGLE",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "LAKE",
+      "row": 4,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "CAVE",
+      "row": 10,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BEAR",
+      "row": 11,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CAMP",
+      "row": 4,
+      "col": 10,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9321
+}

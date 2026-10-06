@@ -1,0 +1,208 @@
+{
+  "id": "geology-easy-03",
+  "slug": "geology-easy-03",
+  "themeId": "geology",
+  "title": "Geology: Still Room",
+  "primaryKeyword": "geology word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BASALT",
+    "BEDROCK",
+    "CRYSTAL",
+    "GRAVEL",
+    "LAYER",
+    "MICA",
+    "MINERAL",
+    "SAMPLE",
+    "SILT",
+    "SLATE"
+  ],
+  "grid": [
+    [
+      "V",
+      "I",
+      "Y",
+      "H",
+      "S",
+      "S",
+      "A",
+      "E",
+      "O",
+      "Z"
+    ],
+    [
+      "M",
+      "C",
+      "G",
+      "W",
+      "S",
+      "A",
+      "M",
+      "P",
+      "L",
+      "E"
+    ],
+    [
+      "B",
+      "E",
+      "D",
+      "R",
+      "O",
+      "C",
+      "K",
+      "F",
+      "A",
+      "D"
+    ],
+    [
+      "Q",
+      "P",
+      "B",
+      "M",
+      "I",
+      "C",
+      "A",
+      "K",
+      "S",
+      "S"
+    ],
+    [
+      "K",
+      "L",
+      "A",
+      "M",
+      "I",
+      "N",
+      "E",
+      "R",
+      "A",
+      "L"
+    ],
+    [
+      "C",
+      "R",
+      "Y",
+      "S",
+      "T",
+      "A",
+      "L",
+      "O",
+      "F",
+      "A"
+    ],
+    [
+      "M",
+      "R",
+      "L",
+      "A",
+      "Y",
+      "E",
+      "R",
+      "P",
+      "S",
+      "T"
+    ],
+    [
+      "A",
+      "X",
+      "K",
+      "C",
+      "Y",
+      "G",
+      "N",
+      "I",
+      "I",
+      "E"
+    ],
+    [
+      "D",
+      "O",
+      "D",
+      "G",
+      "R",
+      "A",
+      "V",
+      "E",
+      "L",
+      "C"
+    ],
+    [
+      "B",
+      "A",
+      "S",
+      "A",
+      "L",
+      "T",
+      "L",
+      "L",
+      "T",
+      "V"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "MINERAL",
+      "row": 4,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BEDROCK",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CRYSTAL",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BASALT",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "GRAVEL",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SAMPLE",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "LAYER",
+      "row": 6,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SLATE",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SILT",
+      "row": 6,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "MICA",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9272
+}

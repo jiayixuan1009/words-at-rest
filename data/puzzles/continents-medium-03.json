@@ -1,0 +1,284 @@
+{
+  "id": "continents-medium-03",
+  "slug": "continents-medium-03",
+  "themeId": "continents",
+  "title": "Continents: Border Path",
+  "primaryKeyword": "continents word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ARCTIC",
+    "ASIA",
+    "ATLAS",
+    "AUSTRALIA",
+    "CLIMATE",
+    "COAST",
+    "EQUATOR",
+    "GLOBE",
+    "MAP",
+    "NATION",
+    "NORTH",
+    "PLANET",
+    "POLE",
+    "WORLD"
+  ],
+  "grid": [
+    [
+      "L",
+      "K",
+      "O",
+      "A",
+      "A",
+      "U",
+      "N",
+      "D",
+      "Y",
+      "E",
+      "L",
+      "F"
+    ],
+    [
+      "J",
+      "B",
+      "X",
+      "B",
+      "U",
+      "W",
+      "N",
+      "L",
+      "M",
+      "J",
+      "E",
+      "L"
+    ],
+    [
+      "E",
+      "Z",
+      "N",
+      "G",
+      "K",
+      "S",
+      "O",
+      "E",
+      "P",
+      "H",
+      "A",
+      "A"
+    ],
+    [
+      "D",
+      "P",
+      "H",
+      "O",
+      "C",
+      "M",
+      "T",
+      "R",
+      "M",
+      "A",
+      "X",
+      "S"
+    ],
+    [
+      "U",
+      "O",
+      "O",
+      "P",
+      "R",
+      "W",
+      "A",
+      "R",
+      "L",
+      "A",
+      "V",
+      "I"
+    ],
+    [
+      "C",
+      "L",
+      "I",
+      "M",
+      "A",
+      "T",
+      "E",
+      "R",
+      "A",
+      "D",
+      "P",
+      "A"
+    ],
+    [
+      "Y",
+      "E",
+      "C",
+      "V",
+      "F",
+      "C",
+      "H",
+      "S",
+      "C",
+      "L",
+      "D",
+      "F"
+    ],
+    [
+      "X",
+      "B",
+      "R",
+      "K",
+      "P",
+      "L",
+      "A",
+      "N",
+      "E",
+      "T",
+      "I",
+      "I"
+    ],
+    [
+      "U",
+      "C",
+      "M",
+      "R",
+      "W",
+      "L",
+      "G",
+      "J",
+      "H",
+      "B",
+      "I",
+      "A"
+    ],
+    [
+      "M",
+      "W",
+      "N",
+      "A",
+      "T",
+      "I",
+      "O",
+      "N",
+      "Z",
+      "U",
+      "J",
+      "C"
+    ],
+    [
+      "Z",
+      "A",
+      "Z",
+      "A",
+      "L",
+      "E",
+      "Q",
+      "U",
+      "A",
+      "T",
+      "O",
+      "R"
+    ],
+    [
+      "M",
+      "C",
+      "O",
+      "A",
+      "S",
+      "T",
+      "G",
+      "L",
+      "O",
+      "B",
+      "E",
+      "G"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "AUSTRALIA",
+      "row": 0,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "EQUATOR",
+      "row": 10,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "CLIMATE",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "NATION",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PLANET",
+      "row": 7,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "ARCTIC",
+      "row": 4,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "ATLAS",
+      "row": 10,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "WORLD",
+      "row": 1,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "COAST",
+      "row": 11,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "GLOBE",
+      "row": 11,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "NORTH",
+      "row": 2,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "ASIA",
+      "row": 2,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "POLE",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "MAP",
+      "row": 3,
+      "col": 8,
+      "direction": "SE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9239
+}

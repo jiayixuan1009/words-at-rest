@@ -1,0 +1,284 @@
+{
+  "id": "jobs-medium-03",
+  "slug": "jobs-medium-03",
+  "themeId": "jobs",
+  "title": "Jobs & Careers: Clear Sky",
+  "primaryKeyword": "jobs careers word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ARTIST",
+    "CLERK",
+    "CRAFT",
+    "DESK",
+    "FARMER",
+    "HELP",
+    "HELPER",
+    "JOB",
+    "SCHOOL",
+    "SERVER",
+    "SHIFT",
+    "TEACHER",
+    "WAGE",
+    "WRITER"
+  ],
+  "grid": [
+    [
+      "B",
+      "G",
+      "E",
+      "T",
+      "E",
+      "F",
+      "S",
+      "C",
+      "H",
+      "O",
+      "O",
+      "L"
+    ],
+    [
+      "A",
+      "W",
+      "U",
+      "G",
+      "Q",
+      "K",
+      "Q",
+      "V",
+      "E",
+      "V",
+      "I",
+      "J"
+    ],
+    [
+      "M",
+      "T",
+      "A",
+      "H",
+      "E",
+      "L",
+      "P",
+      "C",
+      "L",
+      "S",
+      "J",
+      "S"
+    ],
+    [
+      "W",
+      "W",
+      "S",
+      "E",
+      "R",
+      "V",
+      "E",
+      "R",
+      "P",
+      "X",
+      "B",
+      "H"
+    ],
+    [
+      "F",
+      "R",
+      "K",
+      "C",
+      "U",
+      "H",
+      "R",
+      "L",
+      "E",
+      "N",
+      "H",
+      "I"
+    ],
+    [
+      "F",
+      "I",
+      "I",
+      "T",
+      "R",
+      "C",
+      "Q",
+      "Q",
+      "R",
+      "P",
+      "O",
+      "F"
+    ],
+    [
+      "A",
+      "A",
+      "E",
+      "T",
+      "E",
+      "A",
+      "L",
+      "D",
+      "M",
+      "N",
+      "R",
+      "T"
+    ],
+    [
+      "X",
+      "R",
+      "R",
+      "I",
+      "E",
+      "A",
+      "F",
+      "E",
+      "E",
+      "J",
+      "X",
+      "D"
+    ],
+    [
+      "M",
+      "J",
+      "T",
+      "M",
+      "M",
+      "R",
+      "C",
+      "T",
+      "R",
+      "S",
+      "O",
+      "H"
+    ],
+    [
+      "Z",
+      "O",
+      "R",
+      "I",
+      "E",
+      "H",
+      "C",
+      "H",
+      "K",
+      "K",
+      "K",
+      "V"
+    ],
+    [
+      "A",
+      "B",
+      "W",
+      "A",
+      "S",
+      "R",
+      "V",
+      "A",
+      "E",
+      "H",
+      "D",
+      "A"
+    ],
+    [
+      "X",
+      "S",
+      "X",
+      "W",
+      "K",
+      "T",
+      "J",
+      "V",
+      "G",
+      "R",
+      "S",
+      "X"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TEACHER",
+      "row": 5,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "FARMER",
+      "row": 5,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "SCHOOL",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "HELPER",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "SERVER",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ARTIST",
+      "row": 6,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "WRITER",
+      "row": 3,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "CRAFT",
+      "row": 4,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "CLERK",
+      "row": 5,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "SHIFT",
+      "row": 2,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "DESK",
+      "row": 6,
+      "col": 7,
+      "direction": "SE"
+    },
+    {
+      "word": "WAGE",
+      "row": 3,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "HELP",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "JOB",
+      "row": 8,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9297
+}

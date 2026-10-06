@@ -1,0 +1,284 @@
+{
+  "id": "music-terms-medium-03",
+  "slug": "music-terms-medium-03",
+  "themeId": "music-terms",
+  "title": "Musical Terms: Warm Corner",
+  "primaryKeyword": "musical terms word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BAR",
+    "CADENCE",
+    "CLEF",
+    "HALF",
+    "INTERVAL",
+    "METER",
+    "OCTAVE",
+    "REST",
+    "RHYTHM",
+    "SCALE",
+    "SIGNATURE",
+    "SLUR",
+    "VOLUME",
+    "WHOLE"
+  ],
+  "grid": [
+    [
+      "V",
+      "S",
+      "W",
+      "Z",
+      "X",
+      "W",
+      "S",
+      "W",
+      "E",
+      "V",
+      "W",
+      "U"
+    ],
+    [
+      "O",
+      "C",
+      "Y",
+      "T",
+      "D",
+      "C",
+      "S",
+      "L",
+      "N",
+      "C",
+      "X",
+      "R"
+    ],
+    [
+      "L",
+      "A",
+      "P",
+      "S",
+      "J",
+      "A",
+      "U",
+      "E",
+      "U",
+      "E",
+      "I",
+      "H"
+    ],
+    [
+      "U",
+      "L",
+      "N",
+      "I",
+      "N",
+      "D",
+      "H",
+      "T",
+      "B",
+      "R",
+      "N",
+      "Y"
+    ],
+    [
+      "M",
+      "E",
+      "P",
+      "G",
+      "O",
+      "E",
+      "F",
+      "W",
+      "A",
+      "Q",
+      "T",
+      "T"
+    ],
+    [
+      "E",
+      "G",
+      "D",
+      "N",
+      "C",
+      "N",
+      "W",
+      "Q",
+      "R",
+      "T",
+      "E",
+      "H"
+    ],
+    [
+      "G",
+      "W",
+      "R",
+      "A",
+      "T",
+      "C",
+      "M",
+      "I",
+      "W",
+      "V",
+      "R",
+      "M"
+    ],
+    [
+      "C",
+      "H",
+      "E",
+      "T",
+      "A",
+      "E",
+      "Z",
+      "C",
+      "P",
+      "M",
+      "V",
+      "V"
+    ],
+    [
+      "N",
+      "O",
+      "S",
+      "U",
+      "V",
+      "P",
+      "H",
+      "A",
+      "L",
+      "F",
+      "A",
+      "A"
+    ],
+    [
+      "U",
+      "L",
+      "T",
+      "R",
+      "E",
+      "A",
+      "T",
+      "T",
+      "U",
+      "E",
+      "L",
+      "K"
+    ],
+    [
+      "R",
+      "E",
+      "Q",
+      "E",
+      "A",
+      "H",
+      "B",
+      "O",
+      "W",
+      "X",
+      "F",
+      "L"
+    ],
+    [
+      "W",
+      "M",
+      "E",
+      "T",
+      "E",
+      "R",
+      "I",
+      "B",
+      "Q",
+      "U",
+      "I",
+      "H"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SIGNATURE",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "INTERVAL",
+      "row": 2,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "CADENCE",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "VOLUME",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "RHYTHM",
+      "row": 1,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "OCTAVE",
+      "row": 4,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "METER",
+      "row": 11,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SCALE",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "WHOLE",
+      "row": 6,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "CLEF",
+      "row": 7,
+      "col": 7,
+      "direction": "SE"
+    },
+    {
+      "word": "REST",
+      "row": 6,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "HALF",
+      "row": 8,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "SLUR",
+      "row": 0,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "BAR",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9317
+}

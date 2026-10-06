@@ -1,0 +1,208 @@
+{
+  "id": "desserts-easy-03",
+  "slug": "desserts-easy-03",
+  "themeId": "desserts",
+  "title": "Desserts: Quiet Hour",
+  "primaryKeyword": "desserts word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CHOCOLATE",
+    "CRUMBLE",
+    "ECLAIR",
+    "FUDGE",
+    "MERINGUE",
+    "PARFAIT",
+    "PLATE",
+    "PUDDING",
+    "SORBET",
+    "SPOON"
+  ],
+  "grid": [
+    [
+      "P",
+      "W",
+      "B",
+      "C",
+      "K",
+      "P",
+      "T",
+      "I",
+      "N",
+      "F"
+    ],
+    [
+      "S",
+      "G",
+      "L",
+      "H",
+      "P",
+      "U",
+      "F",
+      "A",
+      "E",
+      "E"
+    ],
+    [
+      "P",
+      "L",
+      "F",
+      "O",
+      "L",
+      "D",
+      "X",
+      "M",
+      "M",
+      "C"
+    ],
+    [
+      "O",
+      "P",
+      "U",
+      "C",
+      "A",
+      "D",
+      "C",
+      "E",
+      "S",
+      "L"
+    ],
+    [
+      "O",
+      "A",
+      "D",
+      "O",
+      "T",
+      "I",
+      "R",
+      "R",
+      "O",
+      "A"
+    ],
+    [
+      "N",
+      "R",
+      "G",
+      "L",
+      "E",
+      "N",
+      "U",
+      "I",
+      "R",
+      "I"
+    ],
+    [
+      "Z",
+      "F",
+      "E",
+      "A",
+      "P",
+      "G",
+      "M",
+      "N",
+      "B",
+      "R"
+    ],
+    [
+      "C",
+      "A",
+      "M",
+      "T",
+      "K",
+      "U",
+      "B",
+      "G",
+      "E",
+      "T"
+    ],
+    [
+      "P",
+      "I",
+      "F",
+      "E",
+      "Y",
+      "T",
+      "L",
+      "U",
+      "T",
+      "H"
+    ],
+    [
+      "E",
+      "T",
+      "K",
+      "V",
+      "H",
+      "Z",
+      "E",
+      "E",
+      "F",
+      "G"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CHOCOLATE",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "MERINGUE",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "PARFAIT",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "PUDDING",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "CRUMBLE",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "ECLAIR",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SORBET",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "PLATE",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "FUDGE",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "SPOON",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9246
+}

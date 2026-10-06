@@ -1,0 +1,284 @@
+{
+  "id": "libraries-medium-03",
+  "slug": "libraries-medium-03",
+  "themeId": "libraries",
+  "title": "Libraries: Side Shelf",
+  "primaryKeyword": "libraries word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ARCHIVE",
+    "ATLAS",
+    "AUTHOR",
+    "BINDING",
+    "BROWSE",
+    "DESK",
+    "EDITION",
+    "ESSAY",
+    "FICTION",
+    "INDEX",
+    "RESERVE",
+    "SEARCH",
+    "SPINE",
+    "VOLUME"
+  ],
+  "grid": [
+    [
+      "D",
+      "D",
+      "L",
+      "C",
+      "K",
+      "H",
+      "E",
+      "B",
+      "B",
+      "L",
+      "P",
+      "D"
+    ],
+    [
+      "E",
+      "F",
+      "N",
+      "S",
+      "C",
+      "V",
+      "I",
+      "R",
+      "I",
+      "B",
+      "P",
+      "P"
+    ],
+    [
+      "S",
+      "N",
+      "L",
+      "R",
+      "R",
+      "X",
+      "N",
+      "O",
+      "N",
+      "A",
+      "G",
+      "T"
+    ],
+    [
+      "K",
+      "B",
+      "A",
+      "E",
+      "A",
+      "B",
+      "D",
+      "W",
+      "D",
+      "Z",
+      "H",
+      "G"
+    ],
+    [
+      "D",
+      "E",
+      "S",
+      "M",
+      "R",
+      "L",
+      "E",
+      "S",
+      "I",
+      "S",
+      "Z",
+      "Z"
+    ],
+    [
+      "S",
+      "E",
+      "L",
+      "C",
+      "C",
+      "U",
+      "X",
+      "E",
+      "N",
+      "J",
+      "N",
+      "S"
+    ],
+    [
+      "R",
+      "A",
+      "U",
+      "T",
+      "H",
+      "O",
+      "R",
+      "E",
+      "G",
+      "O",
+      "E",
+      "P"
+    ],
+    [
+      "L",
+      "U",
+      "A",
+      "D",
+      "I",
+      "Z",
+      "V",
+      "Q",
+      "I",
+      "E",
+      "S",
+      "I"
+    ],
+    [
+      "M",
+      "Z",
+      "T",
+      "F",
+      "V",
+      "D",
+      "Z",
+      "T",
+      "P",
+      "L",
+      "S",
+      "N"
+    ],
+    [
+      "J",
+      "D",
+      "L",
+      "L",
+      "E",
+      "K",
+      "C",
+      "H",
+      "I",
+      "F",
+      "A",
+      "E"
+    ],
+    [
+      "K",
+      "J",
+      "A",
+      "E",
+      "D",
+      "I",
+      "T",
+      "I",
+      "O",
+      "N",
+      "Y",
+      "F"
+    ],
+    [
+      "B",
+      "H",
+      "S",
+      "Q",
+      "F",
+      "V",
+      "O",
+      "L",
+      "U",
+      "M",
+      "E",
+      "G"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "RESERVE",
+      "row": 6,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "FICTION",
+      "row": 11,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "ARCHIVE",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "BINDING",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "EDITION",
+      "row": 10,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "AUTHOR",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BROWSE",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SEARCH",
+      "row": 5,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "VOLUME",
+      "row": 11,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "ATLAS",
+      "row": 7,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "SPINE",
+      "row": 5,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "ESSAY",
+      "row": 6,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "INDEX",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "DESK",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9307
+}

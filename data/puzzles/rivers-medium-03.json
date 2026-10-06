@@ -1,0 +1,284 @@
+{
+  "id": "rivers-medium-03",
+  "slug": "rivers-medium-03",
+  "themeId": "rivers",
+  "title": "Rivers: Nested Calm",
+  "primaryKeyword": "rivers word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BANK",
+    "BRIDGE",
+    "CANOE",
+    "EDDY",
+    "FLOOD",
+    "FLOW",
+    "MARSH",
+    "MUD",
+    "REED",
+    "SHORE",
+    "SNOW",
+    "SOURCE",
+    "VALLEY",
+    "WATERFALL"
+  ],
+  "grid": [
+    [
+      "F",
+      "T",
+      "V",
+      "A",
+      "L",
+      "L",
+      "E",
+      "Y",
+      "L",
+      "B",
+      "R",
+      "P"
+    ],
+    [
+      "A",
+      "M",
+      "C",
+      "X",
+      "I",
+      "W",
+      "F",
+      "L",
+      "Q",
+      "R",
+      "F",
+      "W"
+    ],
+    [
+      "H",
+      "M",
+      "B",
+      "A",
+      "O",
+      "B",
+      "A",
+      "Q",
+      "B",
+      "I",
+      "L",
+      "X"
+    ],
+    [
+      "O",
+      "A",
+      "I",
+      "N",
+      "N",
+      "F",
+      "Z",
+      "Y",
+      "U",
+      "D",
+      "O",
+      "K"
+    ],
+    [
+      "R",
+      "R",
+      "S",
+      "T",
+      "R",
+      "O",
+      "K",
+      "P",
+      "C",
+      "G",
+      "O",
+      "Q"
+    ],
+    [
+      "X",
+      "S",
+      "Q",
+      "E",
+      "L",
+      "B",
+      "E",
+      "V",
+      "W",
+      "E",
+      "D",
+      "Z"
+    ],
+    [
+      "B",
+      "H",
+      "T",
+      "F",
+      "L",
+      "O",
+      "W",
+      "S",
+      "W",
+      "Z",
+      "M",
+      "Y"
+    ],
+    [
+      "P",
+      "A",
+      "J",
+      "S",
+      "S",
+      "V",
+      "D",
+      "O",
+      "J",
+      "P",
+      "D",
+      "V"
+    ],
+    [
+      "W",
+      "M",
+      "N",
+      "Y",
+      "H",
+      "U",
+      "S",
+      "U",
+      "L",
+      "D",
+      "W",
+      "U"
+    ],
+    [
+      "G",
+      "S",
+      "K",
+      "K",
+      "M",
+      "O",
+      "H",
+      "R",
+      "E",
+      "C",
+      "G",
+      "I"
+    ],
+    [
+      "F",
+      "Q",
+      "F",
+      "V",
+      "B",
+      "M",
+      "R",
+      "C",
+      "M",
+      "Y",
+      "N",
+      "F"
+    ],
+    [
+      "L",
+      "R",
+      "A",
+      "T",
+      "F",
+      "A",
+      "I",
+      "E",
+      "R",
+      "E",
+      "E",
+      "D"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "WATERFALL",
+      "row": 8,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "BRIDGE",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "VALLEY",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SOURCE",
+      "row": 6,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SHORE",
+      "row": 7,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "CANOE",
+      "row": 1,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "MARSH",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "FLOOD",
+      "row": 1,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "SNOW",
+      "row": 4,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "REED",
+      "row": 11,
+      "col": 8,
+      "direction": "E"
+    },
+    {
+      "word": "FLOW",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "EDDY",
+      "row": 9,
+      "col": 8,
+      "direction": "NE"
+    },
+    {
+      "word": "BANK",
+      "row": 6,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "MUD",
+      "row": 9,
+      "col": 4,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9333
+}

@@ -1,0 +1,284 @@
+{
+  "id": "money-medium-03",
+  "slug": "money-medium-03",
+  "themeId": "money",
+  "title": "Money: Slow Pace",
+  "primaryKeyword": "money word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ACCOUNT",
+    "BALANCE",
+    "COIN",
+    "COST",
+    "CURRENCY",
+    "DRAFT",
+    "INCOME",
+    "INTEREST",
+    "LEDGER",
+    "LOAN",
+    "MONEY",
+    "PRICE",
+    "PURSE",
+    "WAGE"
+  ],
+  "grid": [
+    [
+      "F",
+      "S",
+      "Z",
+      "M",
+      "O",
+      "N",
+      "E",
+      "Y",
+      "B",
+      "E",
+      "Q",
+      "A"
+    ],
+    [
+      "W",
+      "A",
+      "G",
+      "E",
+      "P",
+      "J",
+      "C",
+      "U",
+      "Z",
+      "K",
+      "V",
+      "Y"
+    ],
+    [
+      "R",
+      "E",
+      "G",
+      "C",
+      "D",
+      "L",
+      "Y",
+      "N",
+      "Y",
+      "O",
+      "C",
+      "R"
+    ],
+    [
+      "O",
+      "I",
+      "N",
+      "T",
+      "E",
+      "R",
+      "E",
+      "S",
+      "T",
+      "N",
+      "Z",
+      "A"
+    ],
+    [
+      "P",
+      "C",
+      "I",
+      "N",
+      "C",
+      "O",
+      "M",
+      "E",
+      "E",
+      "D",
+      "B",
+      "C"
+    ],
+    [
+      "G",
+      "O",
+      "U",
+      "P",
+      "Q",
+      "B",
+      "P",
+      "R",
+      "P",
+      "R",
+      "A",
+      "C"
+    ],
+    [
+      "X",
+      "S",
+      "L",
+      "R",
+      "Y",
+      "B",
+      "R",
+      "L",
+      "U",
+      "A",
+      "L",
+      "O"
+    ],
+    [
+      "X",
+      "T",
+      "O",
+      "I",
+      "S",
+      "U",
+      "K",
+      "V",
+      "R",
+      "F",
+      "A",
+      "U"
+    ],
+    [
+      "Q",
+      "G",
+      "A",
+      "C",
+      "C",
+      "D",
+      "B",
+      "E",
+      "S",
+      "T",
+      "N",
+      "N"
+    ],
+    [
+      "C",
+      "G",
+      "N",
+      "E",
+      "R",
+      "S",
+      "K",
+      "R",
+      "E",
+      "O",
+      "C",
+      "T"
+    ],
+    [
+      "F",
+      "O",
+      "T",
+      "L",
+      "E",
+      "D",
+      "G",
+      "E",
+      "R",
+      "Y",
+      "E",
+      "L"
+    ],
+    [
+      "L",
+      "E",
+      "I",
+      "S",
+      "H",
+      "J",
+      "H",
+      "C",
+      "O",
+      "I",
+      "N",
+      "Z"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "INTEREST",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CURRENCY",
+      "row": 8,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "BALANCE",
+      "row": 4,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "ACCOUNT",
+      "row": 3,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "INCOME",
+      "row": 4,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "LEDGER",
+      "row": 10,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "DRAFT",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "MONEY",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "PURSE",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "PRICE",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "COIN",
+      "row": 11,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "LOAN",
+      "row": 6,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "WAGE",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "COST",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9311
+}

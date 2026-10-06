@@ -1,0 +1,208 @@
+{
+  "id": "islands-easy-03",
+  "slug": "islands-easy-03",
+  "themeId": "islands",
+  "title": "Islands: Still Room",
+  "primaryKeyword": "islands word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BOAT",
+    "CLIFF",
+    "DUNE",
+    "FISH",
+    "HARBOR",
+    "HAVEN",
+    "PATH",
+    "ROCK",
+    "SHORE",
+    "VILLAGE"
+  ],
+  "grid": [
+    [
+      "H",
+      "V",
+      "Q",
+      "Z",
+      "P",
+      "K",
+      "A",
+      "S",
+      "U",
+      "B"
+    ],
+    [
+      "O",
+      "L",
+      "T",
+      "Z",
+      "A",
+      "B",
+      "G",
+      "H",
+      "H",
+      "I"
+    ],
+    [
+      "V",
+      "G",
+      "I",
+      "Q",
+      "T",
+      "O",
+      "W",
+      "O",
+      "A",
+      "J"
+    ],
+    [
+      "I",
+      "N",
+      "E",
+      "L",
+      "H",
+      "A",
+      "U",
+      "R",
+      "V",
+      "C"
+    ],
+    [
+      "L",
+      "F",
+      "N",
+      "B",
+      "W",
+      "T",
+      "R",
+      "E",
+      "E",
+      "L"
+    ],
+    [
+      "L",
+      "I",
+      "V",
+      "W",
+      "D",
+      "J",
+      "O",
+      "T",
+      "N",
+      "I"
+    ],
+    [
+      "A",
+      "S",
+      "L",
+      "H",
+      "U",
+      "X",
+      "C",
+      "D",
+      "D",
+      "F"
+    ],
+    [
+      "G",
+      "H",
+      "D",
+      "P",
+      "N",
+      "I",
+      "K",
+      "B",
+      "O",
+      "F"
+    ],
+    [
+      "E",
+      "G",
+      "E",
+      "H",
+      "E",
+      "K",
+      "K",
+      "L",
+      "C",
+      "U"
+    ],
+    [
+      "J",
+      "P",
+      "H",
+      "A",
+      "R",
+      "B",
+      "O",
+      "R",
+      "V",
+      "D"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "VILLAGE",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "HARBOR",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "HAVEN",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "CLIFF",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SHORE",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "BOAT",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "PATH",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "DUNE",
+      "row": 5,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "ROCK",
+      "row": 4,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "FISH",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9292
+}

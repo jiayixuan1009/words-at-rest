@@ -1,0 +1,208 @@
+{
+  "id": "board-games-easy-03",
+  "slug": "board-games-easy-03",
+  "themeId": "board-games",
+  "title": "Board Games: Gentle Walk",
+  "primaryKeyword": "board games word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "FAMILY",
+    "FINISH",
+    "GAME",
+    "MOVE",
+    "PATH",
+    "PAWN",
+    "SPACE",
+    "START",
+    "TIE",
+    "TURN"
+  ],
+  "grid": [
+    [
+      "Y",
+      "R",
+      "S",
+      "P",
+      "A",
+      "T",
+      "H",
+      "T",
+      "W",
+      "F"
+    ],
+    [
+      "O",
+      "H",
+      "T",
+      "U",
+      "R",
+      "N",
+      "R",
+      "G",
+      "L",
+      "A"
+    ],
+    [
+      "J",
+      "B",
+      "I",
+      "S",
+      "P",
+      "A",
+      "C",
+      "E",
+      "M",
+      "H"
+    ],
+    [
+      "Y",
+      "D",
+      "S",
+      "O",
+      "F",
+      "A",
+      "M",
+      "I",
+      "L",
+      "Y"
+    ],
+    [
+      "L",
+      "W",
+      "T",
+      "V",
+      "A",
+      "F",
+      "K",
+      "W",
+      "G",
+      "Z"
+    ],
+    [
+      "L",
+      "M",
+      "A",
+      "W",
+      "A",
+      "I",
+      "K",
+      "T",
+      "A",
+      "O"
+    ],
+    [
+      "G",
+      "O",
+      "R",
+      "J",
+      "P",
+      "N",
+      "T",
+      "E",
+      "M",
+      "U"
+    ],
+    [
+      "T",
+      "V",
+      "T",
+      "X",
+      "A",
+      "I",
+      "I",
+      "B",
+      "E",
+      "U"
+    ],
+    [
+      "S",
+      "E",
+      "P",
+      "D",
+      "W",
+      "S",
+      "E",
+      "Z",
+      "Y",
+      "E"
+    ],
+    [
+      "G",
+      "E",
+      "C",
+      "X",
+      "N",
+      "H",
+      "H",
+      "G",
+      "V",
+      "I"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FINISH",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "FAMILY",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "START",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "SPACE",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "PATH",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "MOVE",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "TURN",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PAWN",
+      "row": 6,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "GAME",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "TIE",
+      "row": 6,
+      "col": 6,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9218
+}

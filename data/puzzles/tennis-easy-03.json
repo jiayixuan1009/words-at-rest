@@ -1,0 +1,208 @@
+{
+  "id": "tennis-easy-03",
+  "slug": "tennis-easy-03",
+  "themeId": "tennis",
+  "title": "Tennis: Open Window",
+  "primaryKeyword": "tennis word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ADVANTAGE",
+    "DEUCE",
+    "FOREHAND",
+    "HARDCOURT",
+    "NET",
+    "PASSING",
+    "RETURN",
+    "SINGLES",
+    "UNFORCED",
+    "WINNER"
+  ],
+  "grid": [
+    [
+      "A",
+      "L",
+      "G",
+      "P",
+      "A",
+      "S",
+      "S",
+      "I",
+      "N",
+      "G"
+    ],
+    [
+      "D",
+      "F",
+      "H",
+      "V",
+      "K",
+      "R",
+      "I",
+      "V",
+      "H",
+      "N"
+    ],
+    [
+      "V",
+      "O",
+      "A",
+      "R",
+      "V",
+      "C",
+      "N",
+      "I",
+      "U",
+      "D"
+    ],
+    [
+      "A",
+      "R",
+      "R",
+      "W",
+      "Y",
+      "B",
+      "G",
+      "R",
+      "N",
+      "E"
+    ],
+    [
+      "N",
+      "E",
+      "D",
+      "I",
+      "X",
+      "O",
+      "L",
+      "S",
+      "F",
+      "U"
+    ],
+    [
+      "T",
+      "H",
+      "C",
+      "N",
+      "X",
+      "H",
+      "E",
+      "T",
+      "O",
+      "C"
+    ],
+    [
+      "A",
+      "A",
+      "O",
+      "N",
+      "S",
+      "B",
+      "S",
+      "Z",
+      "R",
+      "E"
+    ],
+    [
+      "G",
+      "N",
+      "U",
+      "E",
+      "Q",
+      "B",
+      "C",
+      "B",
+      "C",
+      "F"
+    ],
+    [
+      "E",
+      "D",
+      "R",
+      "R",
+      "U",
+      "N",
+      "E",
+      "T",
+      "E",
+      "H"
+    ],
+    [
+      "R",
+      "E",
+      "T",
+      "U",
+      "R",
+      "N",
+      "V",
+      "O",
+      "D",
+      "H"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ADVANTAGE",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "HARDCOURT",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "UNFORCED",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "FOREHAND",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "PASSING",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SINGLES",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "RETURN",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "WINNER",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "DEUCE",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "NET",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9346
+}

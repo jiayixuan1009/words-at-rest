@@ -1,0 +1,208 @@
+{
+  "id": "st-patricks-easy-03",
+  "slug": "st-patricks-easy-03",
+  "themeId": "st-patricks",
+  "title": "St. Patrick's Day: Gentle Walk",
+  "primaryKeyword": "st patricks day word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "COAST",
+    "CROSS",
+    "FAIRY",
+    "GAELIC",
+    "LUCK",
+    "MARCH",
+    "RAIN",
+    "RING",
+    "SODA",
+    "STEW"
+  ],
+  "grid": [
+    [
+      "L",
+      "U",
+      "G",
+      "B",
+      "S",
+      "O",
+      "D",
+      "A",
+      "U",
+      "R"
+    ],
+    [
+      "U",
+      "U",
+      "B",
+      "F",
+      "S",
+      "R",
+      "R",
+      "A",
+      "I",
+      "N"
+    ],
+    [
+      "C",
+      "F",
+      "M",
+      "A",
+      "R",
+      "C",
+      "H",
+      "J",
+      "N",
+      "C"
+    ],
+    [
+      "K",
+      "A",
+      "J",
+      "Q",
+      "C",
+      "R",
+      "I",
+      "N",
+      "G",
+      "O"
+    ],
+    [
+      "H",
+      "I",
+      "W",
+      "X",
+      "V",
+      "F",
+      "U",
+      "I",
+      "C",
+      "A"
+    ],
+    [
+      "N",
+      "R",
+      "G",
+      "A",
+      "E",
+      "L",
+      "I",
+      "C",
+      "K",
+      "S"
+    ],
+    [
+      "T",
+      "Y",
+      "C",
+      "R",
+      "O",
+      "S",
+      "S",
+      "H",
+      "A",
+      "T"
+    ],
+    [
+      "E",
+      "V",
+      "S",
+      "L",
+      "V",
+      "E",
+      "J",
+      "V",
+      "Y",
+      "O"
+    ],
+    [
+      "G",
+      "A",
+      "X",
+      "F",
+      "T",
+      "E",
+      "P",
+      "F",
+      "J",
+      "Y"
+    ],
+    [
+      "S",
+      "T",
+      "E",
+      "W",
+      "B",
+      "C",
+      "N",
+      "M",
+      "E",
+      "S"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "GAELIC",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "COAST",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "MARCH",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "FAIRY",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "CROSS",
+      "row": 6,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "STEW",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "RAIN",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "LUCK",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "RING",
+      "row": 3,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SODA",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9342
+}

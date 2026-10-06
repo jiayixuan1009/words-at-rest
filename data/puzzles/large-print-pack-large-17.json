@@ -1,0 +1,173 @@
+{
+  "id": "large-print-pack-large-17",
+  "slug": "large-print-pack-large-17",
+  "themeId": "large-print-pack",
+  "title": "Large Print Word Search: River Stone",
+  "primaryKeyword": "large print large print word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BANK",
+    "FISH",
+    "FLOW",
+    "MOSS",
+    "REED",
+    "RIVER",
+    "SOFT",
+    "STONE"
+  ],
+  "grid": [
+    [
+      "C",
+      "O",
+      "Q",
+      "C",
+      "R",
+      "I",
+      "V",
+      "E",
+      "R"
+    ],
+    [
+      "J",
+      "H",
+      "Q",
+      "M",
+      "S",
+      "G",
+      "Y",
+      "P",
+      "S"
+    ],
+    [
+      "H",
+      "N",
+      "A",
+      "O",
+      "R",
+      "E",
+      "E",
+      "D",
+      "T"
+    ],
+    [
+      "F",
+      "F",
+      "L",
+      "S",
+      "H",
+      "G",
+      "I",
+      "X",
+      "O"
+    ],
+    [
+      "I",
+      "L",
+      "T",
+      "S",
+      "B",
+      "A",
+      "N",
+      "K",
+      "N"
+    ],
+    [
+      "S",
+      "L",
+      "S",
+      "O",
+      "F",
+      "T",
+      "F",
+      "A",
+      "E"
+    ],
+    [
+      "H",
+      "Y",
+      "K",
+      "N",
+      "A",
+      "C",
+      "L",
+      "W",
+      "J"
+    ],
+    [
+      "G",
+      "W",
+      "N",
+      "B",
+      "J",
+      "G",
+      "O",
+      "U",
+      "V"
+    ],
+    [
+      "U",
+      "S",
+      "P",
+      "H",
+      "O",
+      "H",
+      "W",
+      "P",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "RIVER",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "STONE",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "MOSS",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "BANK",
+      "row": 4,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "FISH",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "REED",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SOFT",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "FLOW",
+      "row": 5,
+      "col": 6,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 3041
+}

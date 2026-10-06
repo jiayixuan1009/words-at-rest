@@ -1,0 +1,284 @@
+{
+  "id": "countries-medium-03",
+  "slug": "countries-medium-03",
+  "themeId": "countries",
+  "title": "Countries: Side Shelf",
+  "primaryKeyword": "countries word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "DUTCH",
+    "FRANCE",
+    "INDIA",
+    "IRELAND",
+    "ITALY",
+    "JORDAN",
+    "KOREA",
+    "NATION",
+    "PERU",
+    "PORTUGAL",
+    "RUSSIA",
+    "SPAIN",
+    "SWEDEN",
+    "WALES"
+  ],
+  "grid": [
+    [
+      "K",
+      "I",
+      "H",
+      "F",
+      "A",
+      "T",
+      "Y",
+      "O",
+      "N",
+      "K",
+      "R",
+      "U"
+    ],
+    [
+      "Z",
+      "C",
+      "T",
+      "E",
+      "Y",
+      "F",
+      "R",
+      "A",
+      "N",
+      "C",
+      "E",
+      "D"
+    ],
+    [
+      "D",
+      "R",
+      "R",
+      "A",
+      "Q",
+      "N",
+      "D",
+      "W",
+      "A",
+      "L",
+      "E",
+      "S"
+    ],
+    [
+      "I",
+      "O",
+      "U",
+      "K",
+      "L",
+      "R",
+      "G",
+      "P",
+      "K",
+      "V",
+      "G",
+      "F"
+    ],
+    [
+      "K",
+      "R",
+      "T",
+      "S",
+      "O",
+      "Y",
+      "H",
+      "O",
+      "D",
+      "S",
+      "U",
+      "S"
+    ],
+    [
+      "Z",
+      "B",
+      "E",
+      "J",
+      "S",
+      "C",
+      "R",
+      "R",
+      "G",
+      "P",
+      "N",
+      "P"
+    ],
+    [
+      "O",
+      "U",
+      "Z",
+      "L",
+      "T",
+      "I",
+      "N",
+      "T",
+      "W",
+      "A",
+      "A",
+      "Q"
+    ],
+    [
+      "S",
+      "G",
+      "G",
+      "U",
+      "A",
+      "E",
+      "A",
+      "U",
+      "M",
+      "I",
+      "T",
+      "P"
+    ],
+    [
+      "B",
+      "C",
+      "D",
+      "M",
+      "D",
+      "N",
+      "Z",
+      "G",
+      "G",
+      "N",
+      "I",
+      "E"
+    ],
+    [
+      "S",
+      "J",
+      "H",
+      "E",
+      "C",
+      "Z",
+      "D",
+      "A",
+      "F",
+      "P",
+      "O",
+      "R"
+    ],
+    [
+      "S",
+      "Y",
+      "W",
+      "Z",
+      "X",
+      "U",
+      "B",
+      "L",
+      "C",
+      "K",
+      "N",
+      "U"
+    ],
+    [
+      "D",
+      "S",
+      "B",
+      "F",
+      "G",
+      "J",
+      "I",
+      "N",
+      "D",
+      "I",
+      "A",
+      "D"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PORTUGAL",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "IRELAND",
+      "row": 3,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "RUSSIA",
+      "row": 2,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "SWEDEN",
+      "row": 11,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "FRANCE",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "JORDAN",
+      "row": 5,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "NATION",
+      "row": 5,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "ITALY",
+      "row": 0,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "KOREA",
+      "row": 4,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "DUTCH",
+      "row": 8,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "SPAIN",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "WALES",
+      "row": 2,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "INDIA",
+      "row": 11,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "PERU",
+      "row": 7,
+      "col": 11,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9243
+}

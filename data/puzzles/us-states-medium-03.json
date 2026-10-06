@@ -1,0 +1,284 @@
+{
+  "id": "us-states-medium-03",
+  "slug": "us-states-medium-03",
+  "themeId": "us-states",
+  "title": "U.S. States: Side Shelf",
+  "primaryKeyword": "us states word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ALABAMA",
+    "BORDER",
+    "CAPITAL",
+    "COAST",
+    "CONNECTICUT",
+    "ILLINOIS",
+    "INDIANA",
+    "KENTUCKY",
+    "LOUISIANA",
+    "MISSOURI",
+    "PLAINS",
+    "STATE",
+    "VALLEY",
+    "VERMONT"
+  ],
+  "grid": [
+    [
+      "E",
+      "C",
+      "O",
+      "A",
+      "S",
+      "T",
+      "X",
+      "C",
+      "Y",
+      "P",
+      "M",
+      "C"
+    ],
+    [
+      "O",
+      "C",
+      "O",
+      "P",
+      "L",
+      "A",
+      "I",
+      "N",
+      "S",
+      "X",
+      "Y",
+      "M"
+    ],
+    [
+      "N",
+      "O",
+      "V",
+      "E",
+      "R",
+      "M",
+      "O",
+      "N",
+      "T",
+      "K",
+      "J",
+      "W"
+    ],
+    [
+      "U",
+      "N",
+      "L",
+      "O",
+      "U",
+      "I",
+      "S",
+      "I",
+      "A",
+      "N",
+      "A",
+      "A"
+    ],
+    [
+      "I",
+      "N",
+      "A",
+      "M",
+      "C",
+      "A",
+      "P",
+      "I",
+      "T",
+      "A",
+      "L",
+      "H"
+    ],
+    [
+      "N",
+      "E",
+      "L",
+      "L",
+      "I",
+      "L",
+      "L",
+      "I",
+      "N",
+      "O",
+      "I",
+      "S"
+    ],
+    [
+      "D",
+      "C",
+      "A",
+      "A",
+      "A",
+      "S",
+      "T",
+      "A",
+      "T",
+      "E",
+      "U",
+      "Q"
+    ],
+    [
+      "I",
+      "T",
+      "B",
+      "P",
+      "O",
+      "C",
+      "V",
+      "O",
+      "Y",
+      "G",
+      "R",
+      "R"
+    ],
+    [
+      "A",
+      "I",
+      "A",
+      "X",
+      "M",
+      "I",
+      "S",
+      "S",
+      "O",
+      "U",
+      "R",
+      "I"
+    ],
+    [
+      "N",
+      "C",
+      "M",
+      "S",
+      "V",
+      "A",
+      "L",
+      "L",
+      "E",
+      "Y",
+      "L",
+      "T"
+    ],
+    [
+      "A",
+      "U",
+      "A",
+      "K",
+      "E",
+      "N",
+      "T",
+      "U",
+      "C",
+      "K",
+      "Y",
+      "C"
+    ],
+    [
+      "D",
+      "T",
+      "B",
+      "O",
+      "R",
+      "D",
+      "E",
+      "R",
+      "Q",
+      "A",
+      "F",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CONNECTICUT",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "LOUISIANA",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "MISSOURI",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "KENTUCKY",
+      "row": 10,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "ILLINOIS",
+      "row": 5,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "ALABAMA",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "CAPITAL",
+      "row": 4,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "VERMONT",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "INDIANA",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "VALLEY",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BORDER",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PLAINS",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "STATE",
+      "row": 6,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "COAST",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9353
+}

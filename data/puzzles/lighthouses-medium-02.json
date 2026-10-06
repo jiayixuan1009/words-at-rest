@@ -1,0 +1,284 @@
+{
+  "id": "lighthouses-medium-02",
+  "slug": "lighthouses-medium-02",
+  "themeId": "lighthouses",
+  "title": "Lighthouses: Shore Light",
+  "primaryKeyword": "lighthouses word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "COT",
+    "DUSK",
+    "IRON",
+    "ISLE",
+    "LENS",
+    "LOG",
+    "PAINT",
+    "QUIET",
+    "ROOM",
+    "SAIL",
+    "SHORE",
+    "STONE",
+    "STRIPE",
+    "WARN"
+  ],
+  "grid": [
+    [
+      "U",
+      "O",
+      "J",
+      "L",
+      "J",
+      "R",
+      "L",
+      "Z",
+      "E",
+      "F",
+      "M",
+      "F"
+    ],
+    [
+      "S",
+      "T",
+      "O",
+      "N",
+      "E",
+      "L",
+      "S",
+      "R",
+      "O",
+      "O",
+      "M",
+      "P"
+    ],
+    [
+      "Y",
+      "Z",
+      "I",
+      "S",
+      "L",
+      "E",
+      "O",
+      "A",
+      "Y",
+      "V",
+      "H",
+      "T"
+    ],
+    [
+      "M",
+      "W",
+      "Z",
+      "R",
+      "N",
+      "H",
+      "T",
+      "Q",
+      "I",
+      "W",
+      "G",
+      "Z"
+    ],
+    [
+      "H",
+      "U",
+      "I",
+      "F",
+      "S",
+      "Y",
+      "Q",
+      "G",
+      "U",
+      "L",
+      "V",
+      "O"
+    ],
+    [
+      "O",
+      "G",
+      "R",
+      "H",
+      "L",
+      "F",
+      "S",
+      "A",
+      "K",
+      "I",
+      "N",
+      "W"
+    ],
+    [
+      "W",
+      "R",
+      "O",
+      "U",
+      "P",
+      "O",
+      "G",
+      "T",
+      "G",
+      "N",
+      "E",
+      "J"
+    ],
+    [
+      "M",
+      "E",
+      "N",
+      "Z",
+      "W",
+      "A",
+      "G",
+      "A",
+      "R",
+      "T",
+      "L",
+      "T"
+    ],
+    [
+      "C",
+      "L",
+      "K",
+      "S",
+      "P",
+      "A",
+      "I",
+      "Y",
+      "C",
+      "I",
+      "H",
+      "R"
+    ],
+    [
+      "D",
+      "Y",
+      "E",
+      "S",
+      "Q",
+      "L",
+      "R",
+      "N",
+      "O",
+      "D",
+      "P",
+      "E"
+    ],
+    [
+      "S",
+      "J",
+      "G",
+      "N",
+      "S",
+      "H",
+      "S",
+      "N",
+      "T",
+      "B",
+      "G",
+      "E"
+    ],
+    [
+      "F",
+      "M",
+      "O",
+      "P",
+      "S",
+      "J",
+      "Y",
+      "D",
+      "U",
+      "S",
+      "K",
+      "U"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "STRIPE",
+      "row": 5,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "PAINT",
+      "row": 6,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "STONE",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "QUIET",
+      "row": 3,
+      "col": 7,
+      "direction": "SE"
+    },
+    {
+      "word": "SHORE",
+      "row": 4,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "IRON",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "ISLE",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SAIL",
+      "row": 1,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "WARN",
+      "row": 7,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "ROOM",
+      "row": 1,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "DUSK",
+      "row": 11,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "LENS",
+      "row": 8,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "LOG",
+      "row": 5,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "COT",
+      "row": 8,
+      "col": 8,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9024
+}

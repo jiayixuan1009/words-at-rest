@@ -1,0 +1,284 @@
+{
+  "id": "birdwatching-medium-01",
+  "slug": "birdwatching-medium-01",
+  "themeId": "birdwatching",
+  "title": "Birdwatching: Field Notes",
+  "primaryKeyword": "birdwatching word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CANOPY",
+    "CHIRP",
+    "FEEDER",
+    "FLEDGE",
+    "FOREST",
+    "GARDEN",
+    "GLIDE",
+    "HOVER",
+    "MARSH",
+    "MEADOW",
+    "MIGRATE",
+    "PLUMAGE",
+    "SOAR",
+    "SUET"
+  ],
+  "grid": [
+    [
+      "S",
+      "A",
+      "P",
+      "G",
+      "F",
+      "L",
+      "E",
+      "D",
+      "G",
+      "E",
+      "O",
+      "J"
+    ],
+    [
+      "A",
+      "M",
+      "T",
+      "G",
+      "S",
+      "X",
+      "C",
+      "U",
+      "N",
+      "M",
+      "C",
+      "J"
+    ],
+    [
+      "C",
+      "H",
+      "I",
+      "R",
+      "P",
+      "P",
+      "L",
+      "U",
+      "M",
+      "A",
+      "G",
+      "E"
+    ],
+    [
+      "T",
+      "E",
+      "H",
+      "O",
+      "V",
+      "E",
+      "R",
+      "A",
+      "O",
+      "R",
+      "I",
+      "A"
+    ],
+    [
+      "Z",
+      "B",
+      "Q",
+      "C",
+      "N",
+      "L",
+      "G",
+      "B",
+      "P",
+      "S",
+      "J",
+      "A"
+    ],
+    [
+      "U",
+      "D",
+      "D",
+      "A",
+      "S",
+      "U",
+      "E",
+      "T",
+      "U",
+      "H",
+      "R",
+      "T"
+    ],
+    [
+      "G",
+      "D",
+      "F",
+      "N",
+      "M",
+      "I",
+      "G",
+      "R",
+      "A",
+      "T",
+      "E",
+      "F"
+    ],
+    [
+      "A",
+      "P",
+      "O",
+      "O",
+      "J",
+      "O",
+      "M",
+      "E",
+      "A",
+      "D",
+      "O",
+      "W"
+    ],
+    [
+      "R",
+      "K",
+      "R",
+      "P",
+      "A",
+      "L",
+      "L",
+      "G",
+      "L",
+      "I",
+      "D",
+      "E"
+    ],
+    [
+      "D",
+      "Y",
+      "E",
+      "Y",
+      "Z",
+      "J",
+      "E",
+      "X",
+      "O",
+      "A",
+      "P",
+      "U"
+    ],
+    [
+      "E",
+      "M",
+      "S",
+      "F",
+      "E",
+      "E",
+      "D",
+      "E",
+      "R",
+      "H",
+      "D",
+      "H"
+    ],
+    [
+      "N",
+      "P",
+      "T",
+      "I",
+      "R",
+      "U",
+      "E",
+      "H",
+      "S",
+      "O",
+      "A",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PLUMAGE",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "MIGRATE",
+      "row": 6,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CANOPY",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "FLEDGE",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "MEADOW",
+      "row": 7,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "FOREST",
+      "row": 6,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "GARDEN",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "FEEDER",
+      "row": 10,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "CHIRP",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "GLIDE",
+      "row": 8,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "HOVER",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "MARSH",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SOAR",
+      "row": 11,
+      "col": 8,
+      "direction": "E"
+    },
+    {
+      "word": "SUET",
+      "row": 5,
+      "col": 4,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9013
+}

@@ -1,0 +1,208 @@
+{
+  "id": "journaling-easy-01",
+  "slug": "journaling-easy-01",
+  "themeId": "journaling",
+  "title": "Journaling: Page Morning",
+  "primaryKeyword": "journaling word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "DATE",
+    "ENTRY",
+    "IDEA",
+    "INK",
+    "LINE",
+    "LIST",
+    "NOTE",
+    "PAGE",
+    "PEN",
+    "REST"
+  ],
+  "grid": [
+    [
+      "M",
+      "L",
+      "M",
+      "S",
+      "F",
+      "L",
+      "Y",
+      "J",
+      "R",
+      "H"
+    ],
+    [
+      "U",
+      "N",
+      "O",
+      "T",
+      "E",
+      "O",
+      "P",
+      "A",
+      "E",
+      "J"
+    ],
+    [
+      "Z",
+      "D",
+      "I",
+      "Y",
+      "K",
+      "I",
+      "E",
+      "O",
+      "S",
+      "O"
+    ],
+    [
+      "L",
+      "L",
+      "N",
+      "D",
+      "K",
+      "Y",
+      "N",
+      "O",
+      "T",
+      "B"
+    ],
+    [
+      "T",
+      "I",
+      "K",
+      "R",
+      "R",
+      "I",
+      "D",
+      "E",
+      "A",
+      "W"
+    ],
+    [
+      "S",
+      "S",
+      "G",
+      "P",
+      "A",
+      "G",
+      "E",
+      "I",
+      "R",
+      "K"
+    ],
+    [
+      "M",
+      "T",
+      "T",
+      "Q",
+      "H",
+      "H",
+      "G",
+      "Q",
+      "D",
+      "L"
+    ],
+    [
+      "R",
+      "C",
+      "H",
+      "J",
+      "C",
+      "A",
+      "P",
+      "H",
+      "N",
+      "I"
+    ],
+    [
+      "L",
+      "J",
+      "M",
+      "L",
+      "N",
+      "D",
+      "A",
+      "T",
+      "E",
+      "N"
+    ],
+    [
+      "M",
+      "M",
+      "E",
+      "N",
+      "T",
+      "R",
+      "Y",
+      "X",
+      "P",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ENTRY",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PAGE",
+      "row": 5,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "LINE",
+      "row": 6,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "DATE",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "NOTE",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "LIST",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "IDEA",
+      "row": 4,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "REST",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "PEN",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "INK",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9031
+}

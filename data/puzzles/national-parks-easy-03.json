@@ -1,0 +1,208 @@
+{
+  "id": "national-parks-easy-03",
+  "slug": "national-parks-easy-03",
+  "themeId": "national-parks",
+  "title": "National Parks: Open Window",
+  "primaryKeyword": "national parks word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ARCH",
+    "BACKPACK",
+    "DRIVE",
+    "FALLS",
+    "HIKE",
+    "MEADOW",
+    "PRESERVE",
+    "QUIET",
+    "RIVER",
+    "WILDERNESS"
+  ],
+  "grid": [
+    [
+      "X",
+      "W",
+      "X",
+      "W",
+      "K",
+      "U",
+      "R",
+      "D",
+      "B",
+      "K"
+    ],
+    [
+      "M",
+      "I",
+      "I",
+      "D",
+      "A",
+      "H",
+      "I",
+      "D",
+      "A",
+      "Q"
+    ],
+    [
+      "I",
+      "L",
+      "A",
+      "R",
+      "P",
+      "I",
+      "V",
+      "Z",
+      "C",
+      "U"
+    ],
+    [
+      "K",
+      "D",
+      "Z",
+      "I",
+      "R",
+      "K",
+      "E",
+      "K",
+      "K",
+      "I"
+    ],
+    [
+      "M",
+      "E",
+      "V",
+      "V",
+      "E",
+      "E",
+      "R",
+      "I",
+      "P",
+      "E"
+    ],
+    [
+      "E",
+      "R",
+      "P",
+      "E",
+      "S",
+      "F",
+      "U",
+      "F",
+      "A",
+      "T"
+    ],
+    [
+      "A",
+      "N",
+      "E",
+      "A",
+      "E",
+      "A",
+      "E",
+      "I",
+      "C",
+      "H"
+    ],
+    [
+      "D",
+      "E",
+      "C",
+      "R",
+      "R",
+      "L",
+      "F",
+      "N",
+      "K",
+      "T"
+    ],
+    [
+      "O",
+      "S",
+      "G",
+      "C",
+      "V",
+      "L",
+      "C",
+      "E",
+      "B",
+      "G"
+    ],
+    [
+      "W",
+      "S",
+      "O",
+      "H",
+      "E",
+      "S",
+      "S",
+      "N",
+      "S",
+      "G"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "WILDERNESS",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "BACKPACK",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "PRESERVE",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "MEADOW",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "QUIET",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "DRIVE",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "FALLS",
+      "row": 5,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "RIVER",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "ARCH",
+      "row": 6,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "HIKE",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9320
+}

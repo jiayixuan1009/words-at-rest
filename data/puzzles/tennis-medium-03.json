@@ -1,0 +1,284 @@
+{
+  "id": "tennis-medium-03",
+  "slug": "tennis-medium-03",
+  "themeId": "tennis",
+  "title": "Tennis: Nested Calm",
+  "primaryKeyword": "tennis word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ACE",
+    "BALLBOY",
+    "BASELINE",
+    "DOUBLEFAULT",
+    "FOOTWORK",
+    "GRASS",
+    "GRIP",
+    "LOB",
+    "MATCH",
+    "RACKET",
+    "SERVE",
+    "SET",
+    "SLICE",
+    "SMASH"
+  ],
+  "grid": [
+    [
+      "J",
+      "H",
+      "Y",
+      "T",
+      "E",
+      "T",
+      "C",
+      "G",
+      "M",
+      "O",
+      "I",
+      "Q"
+    ],
+    [
+      "H",
+      "W",
+      "E",
+      "V",
+      "P",
+      "O",
+      "K",
+      "F",
+      "F",
+      "Q",
+      "D",
+      "V"
+    ],
+    [
+      "H",
+      "S",
+      "R",
+      "N",
+      "D",
+      "B",
+      "A",
+      "L",
+      "L",
+      "B",
+      "O",
+      "Y"
+    ],
+    [
+      "I",
+      "E",
+      "L",
+      "A",
+      "L",
+      "J",
+      "G",
+      "F",
+      "X",
+      "P",
+      "U",
+      "H"
+    ],
+    [
+      "S",
+      "C",
+      "G",
+      "G",
+      "R",
+      "A",
+      "C",
+      "K",
+      "E",
+      "T",
+      "B",
+      "S"
+    ],
+    [
+      "M",
+      "J",
+      "R",
+      "M",
+      "A",
+      "T",
+      "C",
+      "H",
+      "H",
+      "C",
+      "L",
+      "L"
+    ],
+    [
+      "A",
+      "B",
+      "A",
+      "S",
+      "E",
+      "L",
+      "I",
+      "N",
+      "E",
+      "J",
+      "E",
+      "I"
+    ],
+    [
+      "S",
+      "O",
+      "S",
+      "W",
+      "T",
+      "O",
+      "R",
+      "D",
+      "P",
+      "L",
+      "F",
+      "C"
+    ],
+    [
+      "H",
+      "X",
+      "S",
+      "V",
+      "K",
+      "B",
+      "C",
+      "F",
+      "S",
+      "K",
+      "A",
+      "E"
+    ],
+    [
+      "D",
+      "F",
+      "O",
+      "O",
+      "T",
+      "W",
+      "O",
+      "R",
+      "K",
+      "H",
+      "U",
+      "F"
+    ],
+    [
+      "F",
+      "P",
+      "A",
+      "C",
+      "E",
+      "P",
+      "T",
+      "T",
+      "C",
+      "B",
+      "L",
+      "J"
+    ],
+    [
+      "H",
+      "G",
+      "R",
+      "I",
+      "P",
+      "G",
+      "L",
+      "L",
+      "C",
+      "P",
+      "T",
+      "B"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "DOUBLEFAULT",
+      "row": 1,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "BASELINE",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "FOOTWORK",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BALLBOY",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "RACKET",
+      "row": 4,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SERVE",
+      "row": 4,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "SLICE",
+      "row": 4,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "SMASH",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "GRASS",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "MATCH",
+      "row": 5,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "GRIP",
+      "row": 11,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "ACE",
+      "row": 10,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "LOB",
+      "row": 6,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "SET",
+      "row": 2,
+      "col": 1,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9347
+}

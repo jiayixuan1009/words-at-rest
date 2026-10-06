@@ -1,0 +1,284 @@
+{
+  "id": "easter-medium-03",
+  "slug": "easter-medium-03",
+  "themeId": "easter",
+  "title": "Easter: Nested Calm",
+  "primaryKeyword": "easter word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BASKET",
+    "CHAPEL",
+    "CROCUSES",
+    "DAFFODIL",
+    "EGG",
+    "EGGNOG",
+    "FAITH",
+    "LILY",
+    "MORNING",
+    "PASCHAL",
+    "REBIRTH",
+    "REFRESH",
+    "SPRING",
+    "WILLOW"
+  ],
+  "grid": [
+    [
+      "A",
+      "R",
+      "E",
+      "G",
+      "G",
+      "N",
+      "O",
+      "G",
+      "U",
+      "R",
+      "R",
+      "P"
+    ],
+    [
+      "Q",
+      "E",
+      "A",
+      "C",
+      "R",
+      "O",
+      "C",
+      "U",
+      "S",
+      "E",
+      "S",
+      "Z"
+    ],
+    [
+      "G",
+      "F",
+      "W",
+      "P",
+      "A",
+      "S",
+      "C",
+      "H",
+      "A",
+      "L",
+      "D",
+      "J"
+    ],
+    [
+      "J",
+      "R",
+      "S",
+      "E",
+      "V",
+      "P",
+      "L",
+      "D",
+      "L",
+      "T",
+      "A",
+      "S"
+    ],
+    [
+      "L",
+      "E",
+      "K",
+      "G",
+      "G",
+      "R",
+      "M",
+      "E",
+      "S",
+      "C",
+      "F",
+      "R"
+    ],
+    [
+      "W",
+      "S",
+      "U",
+      "G",
+      "Z",
+      "I",
+      "M",
+      "F",
+      "D",
+      "H",
+      "F",
+      "E"
+    ],
+    [
+      "I",
+      "H",
+      "P",
+      "L",
+      "B",
+      "N",
+      "O",
+      "A",
+      "Q",
+      "A",
+      "O",
+      "B"
+    ],
+    [
+      "L",
+      "J",
+      "A",
+      "Q",
+      "A",
+      "G",
+      "R",
+      "I",
+      "W",
+      "P",
+      "D",
+      "I"
+    ],
+    [
+      "L",
+      "I",
+      "L",
+      "Y",
+      "S",
+      "Q",
+      "N",
+      "T",
+      "E",
+      "E",
+      "I",
+      "R"
+    ],
+    [
+      "O",
+      "T",
+      "B",
+      "Y",
+      "K",
+      "H",
+      "I",
+      "H",
+      "G",
+      "L",
+      "L",
+      "T"
+    ],
+    [
+      "W",
+      "F",
+      "E",
+      "U",
+      "E",
+      "E",
+      "N",
+      "L",
+      "U",
+      "D",
+      "P",
+      "H"
+    ],
+    [
+      "P",
+      "F",
+      "R",
+      "P",
+      "T",
+      "A",
+      "G",
+      "D",
+      "C",
+      "C",
+      "Q",
+      "G"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "DAFFODIL",
+      "row": 2,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "CROCUSES",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "MORNING",
+      "row": 5,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "REFRESH",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "REBIRTH",
+      "row": 4,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "PASCHAL",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SPRING",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "EGGNOG",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "WILLOW",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BASKET",
+      "row": 6,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "CHAPEL",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "FAITH",
+      "row": 5,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "LILY",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "EGG",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9251
+}

@@ -69,7 +69,8 @@ export default function ThemesPage() {
           chemistry, mythology, volcanoes, forests, rivers, deserts, museums, sewing, quilting, swimming, hiking, cycling,
           geology, architecture, islands, emotions, photography, chess, national-parks, landmarks, farm-animals,
           home, astronomy, board-games, yoga, pottery, woodworking, calligraphy, libraries,
-          volunteering, gardening-tools, cars, trains, airplanes, soccer, basketball, travel, music (with instruments, jazz, classical and musical terms), sports (with golf,
+          volunteering, gardening-tools, meditation, birdwatching, lighthouses, journaling,
+          apothecary, cars, trains, airplanes, soccer, basketball, travel, music (with instruments, jazz, classical and musical terms), sports (with golf,
           baseball, tennis and fishing) and space work any time of year.{" "}
           <strong className="text-[var(--ink)]">Packs</strong> group puzzles by how they play rather
           than by topic: the <Link href="/themes/large-print-pack">Large Print Pack</Link> for

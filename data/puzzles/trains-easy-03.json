@@ -1,0 +1,208 @@
+{
+  "id": "trains-easy-03",
+  "slug": "trains-easy-03",
+  "themeId": "trains",
+  "title": "Trains: Open Window",
+  "primaryKeyword": "trains word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BELL",
+    "BOARD",
+    "BRIDGE",
+    "ROUTE",
+    "SCHEDULE",
+    "SMOKE",
+    "STATION",
+    "STOP",
+    "SWITCH",
+    "TIMETABLE"
+  ],
+  "grid": [
+    [
+      "B",
+      "B",
+      "F",
+      "W",
+      "P",
+      "S",
+      "B",
+      "E",
+      "L",
+      "L"
+    ],
+    [
+      "D",
+      "O",
+      "G",
+      "O",
+      "X",
+      "C",
+      "U",
+      "S",
+      "R",
+      "S"
+    ],
+    [
+      "Q",
+      "A",
+      "Q",
+      "N",
+      "U",
+      "H",
+      "S",
+      "M",
+      "E",
+      "T"
+    ],
+    [
+      "D",
+      "R",
+      "O",
+      "U",
+      "T",
+      "E",
+      "W",
+      "O",
+      "N",
+      "A"
+    ],
+    [
+      "I",
+      "D",
+      "P",
+      "P",
+      "O",
+      "D",
+      "I",
+      "K",
+      "I",
+      "T"
+    ],
+    [
+      "E",
+      "T",
+      "M",
+      "V",
+      "T",
+      "U",
+      "T",
+      "E",
+      "H",
+      "I"
+    ],
+    [
+      "U",
+      "U",
+      "Z",
+      "B",
+      "H",
+      "L",
+      "C",
+      "G",
+      "A",
+      "O"
+    ],
+    [
+      "B",
+      "R",
+      "I",
+      "D",
+      "G",
+      "E",
+      "H",
+      "S",
+      "U",
+      "N"
+    ],
+    [
+      "W",
+      "T",
+      "I",
+      "M",
+      "E",
+      "T",
+      "A",
+      "B",
+      "L",
+      "E"
+    ],
+    [
+      "Z",
+      "P",
+      "E",
+      "S",
+      "S",
+      "T",
+      "O",
+      "P",
+      "Y",
+      "D"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TIMETABLE",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SCHEDULE",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "STATION",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SWITCH",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "BRIDGE",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BOARD",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SMOKE",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "ROUTE",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BELL",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "STOP",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9348
+}

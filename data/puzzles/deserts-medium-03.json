@@ -1,0 +1,284 @@
+{
+  "id": "deserts-medium-03",
+  "slug": "deserts-medium-03",
+  "themeId": "deserts",
+  "title": "Deserts: Harbor Light",
+  "primaryKeyword": "deserts word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ARID",
+    "BLOOM",
+    "CAMP",
+    "DRY",
+    "DUNE",
+    "DUST",
+    "HAWK",
+    "LIZARD",
+    "ROCK",
+    "TENT",
+    "THORN",
+    "TRAIL",
+    "WADI",
+    "WIND"
+  ],
+  "grid": [
+    [
+      "N",
+      "F",
+      "N",
+      "R",
+      "O",
+      "C",
+      "K",
+      "A",
+      "R",
+      "I",
+      "D",
+      "C"
+    ],
+    [
+      "S",
+      "Y",
+      "Q",
+      "T",
+      "E",
+      "L",
+      "I",
+      "Z",
+      "A",
+      "R",
+      "D",
+      "A"
+    ],
+    [
+      "N",
+      "W",
+      "Z",
+      "R",
+      "T",
+      "R",
+      "I",
+      "J",
+      "X",
+      "R",
+      "E",
+      "M"
+    ],
+    [
+      "M",
+      "F",
+      "E",
+      "P",
+      "E",
+      "T",
+      "K",
+      "Q",
+      "T",
+      "T",
+      "A",
+      "P"
+    ],
+    [
+      "Q",
+      "I",
+      "R",
+      "C",
+      "N",
+      "T",
+      "N",
+      "F",
+      "S",
+      "L",
+      "Y",
+      "E"
+    ],
+    [
+      "G",
+      "E",
+      "E",
+      "W",
+      "T",
+      "R",
+      "A",
+      "U",
+      "M",
+      "B",
+      "N",
+      "H"
+    ],
+    [
+      "A",
+      "T",
+      "K",
+      "A",
+      "Y",
+      "A",
+      "D",
+      "N",
+      "I",
+      "U",
+      "E",
+      "A"
+    ],
+    [
+      "B",
+      "T",
+      "Z",
+      "D",
+      "Q",
+      "I",
+      "M",
+      "Q",
+      "D",
+      "B",
+      "X",
+      "W"
+    ],
+    [
+      "W",
+      "L",
+      "G",
+      "I",
+      "K",
+      "L",
+      "A",
+      "X",
+      "I",
+      "T",
+      "G",
+      "K"
+    ],
+    [
+      "U",
+      "I",
+      "O",
+      "R",
+      "V",
+      "U",
+      "A",
+      "T",
+      "H",
+      "O",
+      "R",
+      "N"
+    ],
+    [
+      "V",
+      "K",
+      "N",
+      "O",
+      "H",
+      "M",
+      "V",
+      "T",
+      "T",
+      "Y",
+      "S",
+      "X"
+    ],
+    [
+      "W",
+      "E",
+      "P",
+      "D",
+      "M",
+      "I",
+      "D",
+      "D",
+      "R",
+      "Y",
+      "K",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "LIZARD",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "THORN",
+      "row": 9,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "BLOOM",
+      "row": 7,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "TRAIL",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "DUNE",
+      "row": 7,
+      "col": 8,
+      "direction": "NE"
+    },
+    {
+      "word": "ROCK",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "TENT",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "HAWK",
+      "row": 5,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "ARID",
+      "row": 0,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "WADI",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "DUST",
+      "row": 6,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "CAMP",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "WIND",
+      "row": 8,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "DRY",
+      "row": 11,
+      "col": 7,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9245
+}

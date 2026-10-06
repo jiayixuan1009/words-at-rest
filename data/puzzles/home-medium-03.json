@@ -1,0 +1,284 @@
+{
+  "id": "home-medium-03",
+  "slug": "home-medium-03",
+  "themeId": "home",
+  "title": "Home: Clear Sky",
+  "primaryKeyword": "home word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BOOKCASE",
+    "CURTAIN",
+    "DWELLING",
+    "FENCE",
+    "KEY",
+    "KITCHEN",
+    "LAMP",
+    "LANDING",
+    "LOCK",
+    "RUG",
+    "SHELF",
+    "SHELTER",
+    "STAIR",
+    "WINDOW"
+  ],
+  "grid": [
+    [
+      "L",
+      "U",
+      "G",
+      "D",
+      "D",
+      "K",
+      "I",
+      "T",
+      "C",
+      "H",
+      "E",
+      "N"
+    ],
+    [
+      "E",
+      "K",
+      "E",
+      "Y",
+      "Z",
+      "L",
+      "O",
+      "C",
+      "K",
+      "R",
+      "U",
+      "G"
+    ],
+    [
+      "U",
+      "I",
+      "D",
+      "X",
+      "D",
+      "W",
+      "E",
+      "L",
+      "L",
+      "I",
+      "N",
+      "G"
+    ],
+    [
+      "W",
+      "I",
+      "N",
+      "D",
+      "O",
+      "W",
+      "M",
+      "K",
+      "V",
+      "I",
+      "R",
+      "O"
+    ],
+    [
+      "H",
+      "S",
+      "H",
+      "E",
+      "L",
+      "F",
+      "V",
+      "Q",
+      "P",
+      "Q",
+      "H",
+      "T"
+    ],
+    [
+      "G",
+      "T",
+      "Q",
+      "S",
+      "H",
+      "E",
+      "L",
+      "T",
+      "E",
+      "R",
+      "X",
+      "Z"
+    ],
+    [
+      "O",
+      "L",
+      "L",
+      "I",
+      "J",
+      "L",
+      "A",
+      "N",
+      "D",
+      "I",
+      "N",
+      "G"
+    ],
+    [
+      "U",
+      "P",
+      "J",
+      "A",
+      "I",
+      "W",
+      "F",
+      "E",
+      "N",
+      "C",
+      "E",
+      "H"
+    ],
+    [
+      "B",
+      "O",
+      "O",
+      "K",
+      "C",
+      "A",
+      "S",
+      "E",
+      "X",
+      "C",
+      "S",
+      "Z"
+    ],
+    [
+      "C",
+      "L",
+      "A",
+      "M",
+      "P",
+      "F",
+      "A",
+      "S",
+      "T",
+      "A",
+      "I",
+      "R"
+    ],
+    [
+      "L",
+      "O",
+      "T",
+      "G",
+      "Q",
+      "J",
+      "J",
+      "H",
+      "K",
+      "P",
+      "P",
+      "D"
+    ],
+    [
+      "K",
+      "V",
+      "C",
+      "U",
+      "R",
+      "T",
+      "A",
+      "I",
+      "N",
+      "B",
+      "Q",
+      "D"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "DWELLING",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BOOKCASE",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "LANDING",
+      "row": 6,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "CURTAIN",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SHELTER",
+      "row": 5,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "KITCHEN",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "WINDOW",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "STAIR",
+      "row": 9,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "SHELF",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "FENCE",
+      "row": 7,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "LOCK",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "LAMP",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "KEY",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "RUG",
+      "row": 1,
+      "col": 9,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9281
+}

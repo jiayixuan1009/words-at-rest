@@ -1,0 +1,284 @@
+{
+  "id": "meditation-medium-02",
+  "slug": "meditation-medium-02",
+  "themeId": "meditation",
+  "title": "Meditation: Cushion Hour",
+  "primaryKeyword": "meditation word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ATTENTION",
+    "AWARE",
+    "BALANCE",
+    "BEGIN",
+    "CLARITY",
+    "COOL",
+    "DUSK",
+    "EVENING",
+    "MINDFUL",
+    "MORNING",
+    "OPEN",
+    "RETURN",
+    "ROOT",
+    "SETTLE"
+  ],
+  "grid": [
+    [
+      "A",
+      "B",
+      "D",
+      "H",
+      "K",
+      "D",
+      "U",
+      "S",
+      "K",
+      "K",
+      "M",
+      "P"
+    ],
+    [
+      "T",
+      "A",
+      "M",
+      "I",
+      "N",
+      "D",
+      "F",
+      "U",
+      "L",
+      "J",
+      "O",
+      "M"
+    ],
+    [
+      "S",
+      "L",
+      "L",
+      "C",
+      "O",
+      "O",
+      "L",
+      "D",
+      "O",
+      "A",
+      "R",
+      "R"
+    ],
+    [
+      "C",
+      "A",
+      "J",
+      "A",
+      "W",
+      "A",
+      "R",
+      "E",
+      "P",
+      "T",
+      "N",
+      "C"
+    ],
+    [
+      "L",
+      "N",
+      "U",
+      "F",
+      "Y",
+      "Y",
+      "K",
+      "K",
+      "E",
+      "T",
+      "I",
+      "O"
+    ],
+    [
+      "A",
+      "C",
+      "S",
+      "R",
+      "E",
+      "T",
+      "U",
+      "R",
+      "N",
+      "E",
+      "N",
+      "V"
+    ],
+    [
+      "R",
+      "E",
+      "V",
+      "E",
+      "N",
+      "I",
+      "N",
+      "G",
+      "D",
+      "N",
+      "G",
+      "H"
+    ],
+    [
+      "I",
+      "G",
+      "H",
+      "B",
+      "T",
+      "N",
+      "N",
+      "C",
+      "Q",
+      "T",
+      "L",
+      "M"
+    ],
+    [
+      "T",
+      "V",
+      "F",
+      "L",
+      "E",
+      "T",
+      "W",
+      "B",
+      "M",
+      "I",
+      "R",
+      "W"
+    ],
+    [
+      "Y",
+      "M",
+      "H",
+      "Y",
+      "S",
+      "G",
+      "L",
+      "C",
+      "A",
+      "O",
+      "T",
+      "Z"
+    ],
+    [
+      "H",
+      "D",
+      "L",
+      "U",
+      "T",
+      "M",
+      "I",
+      "E",
+      "X",
+      "N",
+      "Q",
+      "P"
+    ],
+    [
+      "N",
+      "Q",
+      "K",
+      "Y",
+      "F",
+      "K",
+      "X",
+      "N",
+      "R",
+      "O",
+      "O",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ATTENTION",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "MORNING",
+      "row": 0,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "EVENING",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "MINDFUL",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CLARITY",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BALANCE",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SETTLE",
+      "row": 5,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "RETURN",
+      "row": 5,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BEGIN",
+      "row": 7,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "AWARE",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "OPEN",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "ROOT",
+      "row": 11,
+      "col": 8,
+      "direction": "E"
+    },
+    {
+      "word": "COOL",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "DUSK",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9004
+}

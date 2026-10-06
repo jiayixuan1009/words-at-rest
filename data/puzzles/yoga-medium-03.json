@@ -1,0 +1,284 @@
+{
+  "id": "yoga-medium-03",
+  "slug": "yoga-medium-03",
+  "themeId": "yoga",
+  "title": "Yoga: Clear Sky",
+  "primaryKeyword": "yoga word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BALANCE",
+    "CLASS",
+    "EVENING",
+    "FLEX",
+    "HAND",
+    "HIP",
+    "INHALE",
+    "MAT",
+    "MORNING",
+    "SOFT",
+    "SPINE",
+    "STILL",
+    "STRETCH",
+    "WRIST"
+  ],
+  "grid": [
+    [
+      "C",
+      "S",
+      "Y",
+      "N",
+      "A",
+      "D",
+      "T",
+      "D",
+      "C",
+      "E",
+      "S",
+      "K"
+    ],
+    [
+      "M",
+      "B",
+      "I",
+      "N",
+      "N",
+      "T",
+      "P",
+      "V",
+      "L",
+      "E",
+      "S",
+      "H"
+    ],
+    [
+      "G",
+      "F",
+      "W",
+      "A",
+      "S",
+      "F",
+      "L",
+      "S",
+      "A",
+      "A",
+      "P",
+      "Y"
+    ],
+    [
+      "R",
+      "Q",
+      "H",
+      "I",
+      "Q",
+      "V",
+      "U",
+      "T",
+      "S",
+      "A",
+      "I",
+      "A"
+    ],
+    [
+      "S",
+      "T",
+      "R",
+      "E",
+      "T",
+      "C",
+      "H",
+      "I",
+      "S",
+      "I",
+      "N",
+      "V"
+    ],
+    [
+      "M",
+      "W",
+      "T",
+      "X",
+      "Q",
+      "D",
+      "F",
+      "L",
+      "O",
+      "N",
+      "E",
+      "G"
+    ],
+    [
+      "O",
+      "A",
+      "F",
+      "L",
+      "E",
+      "X",
+      "Z",
+      "L",
+      "L",
+      "H",
+      "P",
+      "F"
+    ],
+    [
+      "R",
+      "B",
+      "A",
+      "L",
+      "A",
+      "N",
+      "C",
+      "E",
+      "J",
+      "A",
+      "N",
+      "I"
+    ],
+    [
+      "N",
+      "E",
+      "R",
+      "S",
+      "O",
+      "F",
+      "T",
+      "U",
+      "W",
+      "L",
+      "M",
+      "T"
+    ],
+    [
+      "I",
+      "E",
+      "V",
+      "E",
+      "N",
+      "I",
+      "N",
+      "G",
+      "G",
+      "E",
+      "A",
+      "R"
+    ],
+    [
+      "N",
+      "J",
+      "H",
+      "I",
+      "P",
+      "A",
+      "K",
+      "P",
+      "R",
+      "M",
+      "J",
+      "T"
+    ],
+    [
+      "G",
+      "T",
+      "I",
+      "B",
+      "N",
+      "M",
+      "M",
+      "D",
+      "A",
+      "Y",
+      "C",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "EVENING",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "STRETCH",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "MORNING",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BALANCE",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "INHALE",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "CLASS",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "STILL",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SPINE",
+      "row": 1,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "WRIST",
+      "row": 5,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "HAND",
+      "row": 3,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "SOFT",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "FLEX",
+      "row": 6,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "MAT",
+      "row": 10,
+      "col": 9,
+      "direction": "NE"
+    },
+    {
+      "word": "HIP",
+      "row": 10,
+      "col": 2,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9371
+}

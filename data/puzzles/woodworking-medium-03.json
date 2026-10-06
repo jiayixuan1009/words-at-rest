@@ -1,0 +1,284 @@
+{
+  "id": "woodworking-medium-03",
+  "slug": "woodworking-medium-03",
+  "themeId": "woodworking",
+  "title": "Woodworking: Warm Corner",
+  "primaryKeyword": "woodworking word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BENCH",
+    "CRAFT",
+    "FINISH",
+    "JOINT",
+    "KERF",
+    "LEVEL",
+    "PLANK",
+    "PROJECT",
+    "ROUTER",
+    "SAW",
+    "SCREW",
+    "VISE",
+    "WALNUT",
+    "WOOD"
+  ],
+  "grid": [
+    [
+      "G",
+      "O",
+      "K",
+      "R",
+      "Y",
+      "K",
+      "K",
+      "D",
+      "U",
+      "E",
+      "S",
+      "O"
+    ],
+    [
+      "M",
+      "Q",
+      "E",
+      "T",
+      "E",
+      "S",
+      "C",
+      "R",
+      "E",
+      "W",
+      "K",
+      "H"
+    ],
+    [
+      "P",
+      "V",
+      "R",
+      "X",
+      "F",
+      "I",
+      "N",
+      "I",
+      "S",
+      "H",
+      "C",
+      "F"
+    ],
+    [
+      "L",
+      "K",
+      "F",
+      "V",
+      "K",
+      "I",
+      "O",
+      "L",
+      "O",
+      "N",
+      "E",
+      "J"
+    ],
+    [
+      "A",
+      "Y",
+      "R",
+      "O",
+      "U",
+      "T",
+      "E",
+      "R",
+      "E",
+      "W",
+      "K",
+      "C"
+    ],
+    [
+      "N",
+      "W",
+      "N",
+      "J",
+      "H",
+      "V",
+      "P",
+      "B",
+      "A",
+      "J",
+      "B",
+      "P"
+    ],
+    [
+      "K",
+      "O",
+      "X",
+      "F",
+      "E",
+      "I",
+      "Q",
+      "S",
+      "E",
+      "M",
+      "Y",
+      "D"
+    ],
+    [
+      "X",
+      "O",
+      "I",
+      "L",
+      "A",
+      "T",
+      "W",
+      "A",
+      "L",
+      "N",
+      "U",
+      "T"
+    ],
+    [
+      "V",
+      "D",
+      "P",
+      "R",
+      "O",
+      "J",
+      "E",
+      "C",
+      "T",
+      "A",
+      "G",
+      "Z"
+    ],
+    [
+      "I",
+      "W",
+      "B",
+      "Y",
+      "C",
+      "R",
+      "A",
+      "F",
+      "T",
+      "W",
+      "V",
+      "Y"
+    ],
+    [
+      "S",
+      "Z",
+      "M",
+      "K",
+      "R",
+      "J",
+      "O",
+      "I",
+      "N",
+      "T",
+      "Y",
+      "I"
+    ],
+    [
+      "E",
+      "J",
+      "L",
+      "R",
+      "G",
+      "I",
+      "N",
+      "Y",
+      "T",
+      "F",
+      "E",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PROJECT",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ROUTER",
+      "row": 4,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "WALNUT",
+      "row": 7,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "FINISH",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BENCH",
+      "row": 5,
+      "col": 7,
+      "direction": "NE"
+    },
+    {
+      "word": "CRAFT",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SCREW",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "JOINT",
+      "row": 10,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "PLANK",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "LEVEL",
+      "row": 7,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "KERF",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "WOOD",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "VISE",
+      "row": 8,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SAW",
+      "row": 6,
+      "col": 7,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9367
+}

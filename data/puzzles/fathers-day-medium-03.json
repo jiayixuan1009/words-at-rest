@@ -1,0 +1,284 @@
+{
+  "id": "fathers-day-medium-03",
+  "slug": "fathers-day-medium-03",
+  "themeId": "fathers-day",
+  "title": "Father's Day: Warm Corner",
+  "primaryKeyword": "fathers day word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ADVICE",
+    "BENCH",
+    "CARD",
+    "NEWSPAPER",
+    "PATIENCE",
+    "PEACE",
+    "PRIDE",
+    "REST",
+    "SAW",
+    "SHARE",
+    "SOCK",
+    "THANKS",
+    "TRAIL",
+    "WISDOM"
+  ],
+  "grid": [
+    [
+      "G",
+      "B",
+      "C",
+      "P",
+      "I",
+      "P",
+      "N",
+      "T",
+      "H",
+      "P",
+      "X",
+      "H"
+    ],
+    [
+      "U",
+      "E",
+      "Q",
+      "T",
+      "P",
+      "C",
+      "E",
+      "H",
+      "S",
+      "V",
+      "S",
+      "X"
+    ],
+    [
+      "T",
+      "N",
+      "I",
+      "W",
+      "C",
+      "A",
+      "W",
+      "S",
+      "H",
+      "A",
+      "R",
+      "E"
+    ],
+    [
+      "X",
+      "C",
+      "V",
+      "Q",
+      "A",
+      "R",
+      "S",
+      "R",
+      "X",
+      "G",
+      "R",
+      "P"
+    ],
+    [
+      "D",
+      "H",
+      "T",
+      "P",
+      "B",
+      "D",
+      "P",
+      "E",
+      "H",
+      "L",
+      "S",
+      "A"
+    ],
+    [
+      "A",
+      "I",
+      "T",
+      "E",
+      "M",
+      "H",
+      "A",
+      "S",
+      "G",
+      "W",
+      "O",
+      "T"
+    ],
+    [
+      "K",
+      "Z",
+      "H",
+      "A",
+      "I",
+      "N",
+      "P",
+      "T",
+      "A",
+      "T",
+      "C",
+      "I"
+    ],
+    [
+      "X",
+      "P",
+      "A",
+      "C",
+      "A",
+      "Y",
+      "E",
+      "S",
+      "D",
+      "R",
+      "K",
+      "E"
+    ],
+    [
+      "D",
+      "R",
+      "N",
+      "E",
+      "C",
+      "V",
+      "R",
+      "A",
+      "Z",
+      "A",
+      "W",
+      "N"
+    ],
+    [
+      "V",
+      "I",
+      "K",
+      "W",
+      "I",
+      "S",
+      "D",
+      "O",
+      "M",
+      "I",
+      "S",
+      "C"
+    ],
+    [
+      "G",
+      "D",
+      "S",
+      "D",
+      "J",
+      "P",
+      "V",
+      "I",
+      "E",
+      "L",
+      "I",
+      "E"
+    ],
+    [
+      "G",
+      "E",
+      "L",
+      "A",
+      "D",
+      "V",
+      "I",
+      "C",
+      "E",
+      "J",
+      "G",
+      "P"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "NEWSPAPER",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "PATIENCE",
+      "row": 3,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "ADVICE",
+      "row": 11,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "WISDOM",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "THANKS",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "PEACE",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "TRAIL",
+      "row": 6,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SHARE",
+      "row": 2,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "BENCH",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "PRIDE",
+      "row": 7,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "REST",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SOCK",
+      "row": 4,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "CARD",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "SAW",
+      "row": 7,
+      "col": 7,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9259
+}

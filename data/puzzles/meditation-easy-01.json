@@ -1,0 +1,208 @@
+{
+  "id": "meditation-easy-01",
+  "slug": "meditation-easy-01",
+  "themeId": "meditation",
+  "title": "Meditation: Quiet Sit",
+  "primaryKeyword": "meditation word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BELL",
+    "BREATH",
+    "CALM",
+    "MAT",
+    "PEACE",
+    "QUIET",
+    "REST",
+    "SIT",
+    "SOFT",
+    "STILL"
+  ],
+  "grid": [
+    [
+      "D",
+      "B",
+      "V",
+      "S",
+      "T",
+      "I",
+      "L",
+      "L",
+      "B",
+      "H"
+    ],
+    [
+      "S",
+      "C",
+      "K",
+      "D",
+      "Q",
+      "U",
+      "I",
+      "E",
+      "T",
+      "D"
+    ],
+    [
+      "I",
+      "A",
+      "X",
+      "W",
+      "S",
+      "I",
+      "T",
+      "P",
+      "Y",
+      "H"
+    ],
+    [
+      "C",
+      "L",
+      "G",
+      "A",
+      "J",
+      "S",
+      "P",
+      "E",
+      "Q",
+      "W"
+    ],
+    [
+      "I",
+      "M",
+      "E",
+      "S",
+      "G",
+      "B",
+      "R",
+      "A",
+      "B",
+      "B"
+    ],
+    [
+      "T",
+      "O",
+      "L",
+      "P",
+      "I",
+      "R",
+      "E",
+      "C",
+      "M",
+      "J"
+    ],
+    [
+      "M",
+      "O",
+      "S",
+      "B",
+      "F",
+      "E",
+      "S",
+      "E",
+      "A",
+      "Z"
+    ],
+    [
+      "L",
+      "A",
+      "O",
+      "E",
+      "Z",
+      "A",
+      "T",
+      "G",
+      "T",
+      "N"
+    ],
+    [
+      "E",
+      "W",
+      "F",
+      "L",
+      "E",
+      "T",
+      "K",
+      "Z",
+      "S",
+      "V"
+    ],
+    [
+      "H",
+      "R",
+      "T",
+      "L",
+      "X",
+      "H",
+      "U",
+      "B",
+      "J",
+      "P"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BREATH",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "STILL",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "QUIET",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "PEACE",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "CALM",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SOFT",
+      "row": 6,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "BELL",
+      "row": 6,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "REST",
+      "row": 4,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "SIT",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "MAT",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9001
+}

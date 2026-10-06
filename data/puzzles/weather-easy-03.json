@@ -1,0 +1,208 @@
+{
+  "id": "weather-easy-03",
+  "slug": "weather-easy-03",
+  "themeId": "weather",
+  "title": "Weather: Still Room",
+  "primaryKeyword": "weather word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BOOTS",
+    "COAT",
+    "DEW",
+    "DOWNPOUR",
+    "FRONT",
+    "HIGH",
+    "LIGHTNING",
+    "MIST",
+    "SYSTEM",
+    "TORRENT"
+  ],
+  "grid": [
+    [
+      "D",
+      "O",
+      "W",
+      "N",
+      "P",
+      "O",
+      "U",
+      "R",
+      "N",
+      "N"
+    ],
+    [
+      "H",
+      "B",
+      "F",
+      "S",
+      "Y",
+      "S",
+      "T",
+      "E",
+      "M",
+      "P"
+    ],
+    [
+      "Z",
+      "I",
+      "D",
+      "J",
+      "C",
+      "O",
+      "A",
+      "T",
+      "Z",
+      "U"
+    ],
+    [
+      "R",
+      "S",
+      "B",
+      "O",
+      "O",
+      "T",
+      "S",
+      "M",
+      "N",
+      "T"
+    ],
+    [
+      "L",
+      "I",
+      "G",
+      "H",
+      "T",
+      "N",
+      "I",
+      "N",
+      "G",
+      "P"
+    ],
+    [
+      "P",
+      "G",
+      "D",
+      "P",
+      "F",
+      "R",
+      "O",
+      "N",
+      "T",
+      "W"
+    ],
+    [
+      "C",
+      "T",
+      "E",
+      "C",
+      "J",
+      "Z",
+      "M",
+      "I",
+      "S",
+      "T"
+    ],
+    [
+      "X",
+      "L",
+      "W",
+      "N",
+      "X",
+      "H",
+      "I",
+      "G",
+      "H",
+      "H"
+    ],
+    [
+      "Z",
+      "M",
+      "T",
+      "O",
+      "R",
+      "R",
+      "E",
+      "N",
+      "T",
+      "Q"
+    ],
+    [
+      "A",
+      "G",
+      "X",
+      "F",
+      "P",
+      "G",
+      "Y",
+      "O",
+      "Z",
+      "K"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "LIGHTNING",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "DOWNPOUR",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "TORRENT",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SYSTEM",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BOOTS",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "FRONT",
+      "row": 5,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "COAT",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "MIST",
+      "row": 6,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "HIGH",
+      "row": 7,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "DEW",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9362
+}

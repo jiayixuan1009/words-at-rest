@@ -1,0 +1,284 @@
+{
+  "id": "fruits-medium-03",
+  "slug": "fruits-medium-03",
+  "themeId": "fruits",
+  "title": "Fruits: Nested Calm",
+  "primaryKeyword": "fruits word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "APRICOT",
+    "AVOCADO",
+    "BERRY",
+    "CHERRY",
+    "COCONUT",
+    "CURRANT",
+    "DATE",
+    "FIG",
+    "MANGO",
+    "MELON",
+    "NECTARINE",
+    "PEACH",
+    "PLUM",
+    "STRAWBERRY"
+  ],
+  "grid": [
+    [
+      "D",
+      "M",
+      "V",
+      "G",
+      "Z",
+      "A",
+      "K",
+      "G",
+      "P",
+      "S",
+      "L",
+      "N"
+    ],
+    [
+      "O",
+      "L",
+      "E",
+      "S",
+      "R",
+      "V",
+      "Z",
+      "V",
+      "E",
+      "T",
+      "C",
+      "C"
+    ],
+    [
+      "P",
+      "M",
+      "E",
+      "Y",
+      "X",
+      "O",
+      "J",
+      "A",
+      "A",
+      "R",
+      "U",
+      "B"
+    ],
+    [
+      "I",
+      "E",
+      "D",
+      "N",
+      "E",
+      "C",
+      "P",
+      "P",
+      "C",
+      "A",
+      "R",
+      "A"
+    ],
+    [
+      "M",
+      "L",
+      "A",
+      "E",
+      "J",
+      "A",
+      "L",
+      "R",
+      "H",
+      "W",
+      "R",
+      "C"
+    ],
+    [
+      "A",
+      "O",
+      "T",
+      "C",
+      "R",
+      "D",
+      "U",
+      "I",
+      "F",
+      "B",
+      "A",
+      "H"
+    ],
+    [
+      "N",
+      "N",
+      "E",
+      "T",
+      "M",
+      "O",
+      "M",
+      "C",
+      "I",
+      "E",
+      "N",
+      "E"
+    ],
+    [
+      "G",
+      "W",
+      "I",
+      "A",
+      "E",
+      "P",
+      "H",
+      "O",
+      "G",
+      "R",
+      "T",
+      "R"
+    ],
+    [
+      "O",
+      "O",
+      "V",
+      "R",
+      "J",
+      "F",
+      "H",
+      "T",
+      "Q",
+      "R",
+      "W",
+      "R"
+    ],
+    [
+      "K",
+      "H",
+      "R",
+      "I",
+      "B",
+      "E",
+      "R",
+      "R",
+      "Y",
+      "Y",
+      "N",
+      "Y"
+    ],
+    [
+      "U",
+      "Q",
+      "E",
+      "N",
+      "U",
+      "C",
+      "O",
+      "C",
+      "O",
+      "N",
+      "U",
+      "T"
+    ],
+    [
+      "E",
+      "U",
+      "X",
+      "E",
+      "Z",
+      "A",
+      "T",
+      "Y",
+      "E",
+      "Q",
+      "P",
+      "U"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "STRAWBERRY",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "NECTARINE",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "COCONUT",
+      "row": 10,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "APRICOT",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "AVOCADO",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "CURRANT",
+      "row": 1,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "CHERRY",
+      "row": 4,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "BERRY",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "MANGO",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "MELON",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "PEACH",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "PLUM",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "DATE",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "FIG",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9269
+}

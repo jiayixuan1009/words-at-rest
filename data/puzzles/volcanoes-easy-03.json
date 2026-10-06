@@ -1,0 +1,208 @@
+{
+  "id": "volcanoes-easy-03",
+  "slug": "volcanoes-easy-03",
+  "themeId": "volcanoes",
+  "title": "Volcanoes: Soft Path",
+  "primaryKeyword": "volcanoes word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ARC",
+    "ASH",
+    "CRATER",
+    "FIRE",
+    "LAVA",
+    "MANTLE",
+    "PUMICE",
+    "QUAKE",
+    "ROCK",
+    "TREMOR"
+  ],
+  "grid": [
+    [
+      "Y",
+      "G",
+      "M",
+      "A",
+      "N",
+      "T",
+      "L",
+      "E",
+      "T",
+      "B"
+    ],
+    [
+      "Y",
+      "Q",
+      "K",
+      "T",
+      "L",
+      "T",
+      "U",
+      "C",
+      "L",
+      "P"
+    ],
+    [
+      "L",
+      "B",
+      "F",
+      "M",
+      "T",
+      "M",
+      "X",
+      "H",
+      "C",
+      "L"
+    ],
+    [
+      "R",
+      "T",
+      "R",
+      "E",
+      "M",
+      "O",
+      "R",
+      "A",
+      "P",
+      "A"
+    ],
+    [
+      "O",
+      "A",
+      "A",
+      "M",
+      "F",
+      "Q",
+      "Q",
+      "Y",
+      "U",
+      "V"
+    ],
+    [
+      "C",
+      "Y",
+      "W",
+      "Z",
+      "I",
+      "U",
+      "A",
+      "U",
+      "M",
+      "A"
+    ],
+    [
+      "K",
+      "V",
+      "W",
+      "R",
+      "R",
+      "A",
+      "S",
+      "V",
+      "I",
+      "S"
+    ],
+    [
+      "V",
+      "E",
+      "X",
+      "S",
+      "E",
+      "K",
+      "H",
+      "Z",
+      "C",
+      "A"
+    ],
+    [
+      "V",
+      "F",
+      "O",
+      "N",
+      "O",
+      "E",
+      "N",
+      "O",
+      "E",
+      "R"
+    ],
+    [
+      "U",
+      "J",
+      "C",
+      "R",
+      "A",
+      "T",
+      "E",
+      "R",
+      "F",
+      "C"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "MANTLE",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PUMICE",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "CRATER",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "TREMOR",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "QUAKE",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "FIRE",
+      "row": 4,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "ROCK",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "LAVA",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "ARC",
+      "row": 7,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "ASH",
+      "row": 5,
+      "col": 6,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9358
+}

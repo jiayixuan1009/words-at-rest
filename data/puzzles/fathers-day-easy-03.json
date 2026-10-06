@@ -1,0 +1,208 @@
+{
+  "id": "fathers-day-easy-03",
+  "slug": "fathers-day-easy-03",
+  "themeId": "fathers-day",
+  "title": "Father's Day: Gentle Walk",
+  "primaryKeyword": "fathers day word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BOAT",
+    "CAMP",
+    "COMFORT",
+    "FATHER",
+    "GARAGE",
+    "HOME",
+    "LISTEN",
+    "SUPPORT",
+    "TEACH",
+    "TENT"
+  ],
+  "grid": [
+    [
+      "M",
+      "T",
+      "H",
+      "Y",
+      "Y",
+      "K",
+      "X",
+      "Q",
+      "B",
+      "T"
+    ],
+    [
+      "G",
+      "E",
+      "O",
+      "S",
+      "U",
+      "P",
+      "P",
+      "O",
+      "R",
+      "T"
+    ],
+    [
+      "X",
+      "A",
+      "M",
+      "R",
+      "F",
+      "G",
+      "C",
+      "R",
+      "M",
+      "K"
+    ],
+    [
+      "C",
+      "C",
+      "E",
+      "F",
+      "F",
+      "A",
+      "A",
+      "B",
+      "O",
+      "E"
+    ],
+    [
+      "O",
+      "H",
+      "J",
+      "A",
+      "T",
+      "R",
+      "M",
+      "O",
+      "T",
+      "W"
+    ],
+    [
+      "M",
+      "G",
+      "W",
+      "T",
+      "Q",
+      "A",
+      "P",
+      "A",
+      "Z",
+      "A"
+    ],
+    [
+      "F",
+      "K",
+      "T",
+      "H",
+      "F",
+      "G",
+      "E",
+      "T",
+      "F",
+      "Y"
+    ],
+    [
+      "O",
+      "Z",
+      "T",
+      "E",
+      "P",
+      "E",
+      "K",
+      "M",
+      "K",
+      "P"
+    ],
+    [
+      "R",
+      "E",
+      "K",
+      "R",
+      "C",
+      "K",
+      "Y",
+      "M",
+      "C",
+      "F"
+    ],
+    [
+      "T",
+      "L",
+      "I",
+      "S",
+      "T",
+      "E",
+      "N",
+      "T",
+      "F",
+      "I"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "COMFORT",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SUPPORT",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "GARAGE",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "FATHER",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "LISTEN",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TEACH",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "BOAT",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "CAMP",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "HOME",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "TENT",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9258
+}

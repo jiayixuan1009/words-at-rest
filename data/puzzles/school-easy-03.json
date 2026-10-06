@@ -1,0 +1,208 @@
+{
+  "id": "school-easy-03",
+  "slug": "school-easy-03",
+  "themeId": "school",
+  "title": "School: Open Window",
+  "primaryKeyword": "school word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BAG",
+    "BOARD",
+    "CHALK",
+    "CLASS",
+    "ESSAY",
+    "MARKER",
+    "PUPIL",
+    "READING",
+    "SHELF",
+    "SUBJECT"
+  ],
+  "grid": [
+    [
+      "N",
+      "U",
+      "M",
+      "A",
+      "R",
+      "K",
+      "E",
+      "R",
+      "Z",
+      "B"
+    ],
+    [
+      "R",
+      "Z",
+      "F",
+      "P",
+      "U",
+      "P",
+      "I",
+      "L",
+      "D",
+      "A"
+    ],
+    [
+      "H",
+      "K",
+      "C",
+      "L",
+      "A",
+      "S",
+      "S",
+      "L",
+      "U",
+      "G"
+    ],
+    [
+      "S",
+      "S",
+      "N",
+      "M",
+      "V",
+      "B",
+      "O",
+      "A",
+      "R",
+      "D"
+    ],
+    [
+      "H",
+      "U",
+      "Q",
+      "R",
+      "E",
+      "A",
+      "D",
+      "I",
+      "N",
+      "G"
+    ],
+    [
+      "E",
+      "B",
+      "M",
+      "O",
+      "D",
+      "Z",
+      "G",
+      "I",
+      "P",
+      "K"
+    ],
+    [
+      "L",
+      "J",
+      "E",
+      "S",
+      "S",
+      "A",
+      "Y",
+      "M",
+      "G",
+      "R"
+    ],
+    [
+      "F",
+      "E",
+      "C",
+      "H",
+      "A",
+      "L",
+      "K",
+      "Y",
+      "J",
+      "Q"
+    ],
+    [
+      "L",
+      "C",
+      "N",
+      "Z",
+      "X",
+      "M",
+      "A",
+      "I",
+      "F",
+      "B"
+    ],
+    [
+      "D",
+      "T",
+      "F",
+      "F",
+      "P",
+      "O",
+      "W",
+      "B",
+      "J",
+      "M"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SUBJECT",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "READING",
+      "row": 4,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "MARKER",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CLASS",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PUPIL",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SHELF",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BOARD",
+      "row": 3,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "ESSAY",
+      "row": 6,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CHALK",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BAG",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9334
+}

@@ -1,0 +1,208 @@
+{
+  "id": "us-states-easy-03",
+  "slug": "us-states-easy-03",
+  "themeId": "us-states",
+  "title": "U.S. States: Soft Path",
+  "primaryKeyword": "us states word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ARKANSAS",
+    "COLORADO",
+    "FLORIDA",
+    "HAWAII",
+    "MAINE",
+    "NEVADA",
+    "OKLAHOMA",
+    "TEXAS",
+    "UTAH",
+    "WYOMING"
+  ],
+  "grid": [
+    [
+      "L",
+      "D",
+      "E",
+      "F",
+      "L",
+      "O",
+      "R",
+      "I",
+      "D",
+      "A"
+    ],
+    [
+      "J",
+      "F",
+      "L",
+      "H",
+      "A",
+      "W",
+      "A",
+      "I",
+      "I",
+      "O"
+    ],
+    [
+      "W",
+      "N",
+      "E",
+      "V",
+      "A",
+      "D",
+      "A",
+      "Z",
+      "P",
+      "K"
+    ],
+    [
+      "Y",
+      "E",
+      "E",
+      "T",
+      "E",
+      "X",
+      "A",
+      "S",
+      "M",
+      "L"
+    ],
+    [
+      "O",
+      "L",
+      "P",
+      "U",
+      "C",
+      "R",
+      "T",
+      "O",
+      "C",
+      "A"
+    ],
+    [
+      "M",
+      "C",
+      "O",
+      "L",
+      "O",
+      "R",
+      "A",
+      "D",
+      "O",
+      "H"
+    ],
+    [
+      "I",
+      "K",
+      "B",
+      "B",
+      "W",
+      "U",
+      "T",
+      "A",
+      "H",
+      "O"
+    ],
+    [
+      "N",
+      "A",
+      "R",
+      "K",
+      "A",
+      "N",
+      "S",
+      "A",
+      "S",
+      "M"
+    ],
+    [
+      "G",
+      "C",
+      "J",
+      "P",
+      "Q",
+      "R",
+      "Z",
+      "X",
+      "K",
+      "A"
+    ],
+    [
+      "P",
+      "Q",
+      "H",
+      "B",
+      "T",
+      "M",
+      "A",
+      "I",
+      "N",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "COLORADO",
+      "row": 5,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "OKLAHOMA",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "ARKANSAS",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "FLORIDA",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "WYOMING",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "HAWAII",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "NEVADA",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "MAINE",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "TEXAS",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "UTAH",
+      "row": 6,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9352
+}

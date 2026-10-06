@@ -1,0 +1,208 @@
+{
+  "id": "home-easy-03",
+  "slug": "home-easy-03",
+  "themeId": "home",
+  "title": "Home: Morning Light",
+  "primaryKeyword": "home word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ABODE",
+    "ATTIC",
+    "CELLAR",
+    "CHIMNEY",
+    "HEARTH",
+    "HOUSE",
+    "PATIO",
+    "PORCH",
+    "ROOF",
+    "TABLE"
+  ],
+  "grid": [
+    [
+      "R",
+      "O",
+      "O",
+      "F",
+      "W",
+      "T",
+      "A",
+      "B",
+      "L",
+      "E"
+    ],
+    [
+      "K",
+      "B",
+      "H",
+      "Z",
+      "Z",
+      "P",
+      "L",
+      "B",
+      "A",
+      "M"
+    ],
+    [
+      "D",
+      "Q",
+      "A",
+      "T",
+      "T",
+      "I",
+      "C",
+      "D",
+      "A",
+      "B"
+    ],
+    [
+      "T",
+      "F",
+      "K",
+      "C",
+      "H",
+      "R",
+      "F",
+      "J",
+      "D",
+      "P"
+    ],
+    [
+      "H",
+      "A",
+      "B",
+      "O",
+      "D",
+      "E",
+      "U",
+      "S",
+      "H",
+      "O"
+    ],
+    [
+      "O",
+      "W",
+      "I",
+      "P",
+      "A",
+      "T",
+      "I",
+      "O",
+      "E",
+      "R"
+    ],
+    [
+      "U",
+      "G",
+      "J",
+      "S",
+      "Y",
+      "X",
+      "F",
+      "E",
+      "A",
+      "C"
+    ],
+    [
+      "S",
+      "S",
+      "Q",
+      "C",
+      "E",
+      "L",
+      "L",
+      "A",
+      "R",
+      "H"
+    ],
+    [
+      "E",
+      "W",
+      "J",
+      "M",
+      "Q",
+      "M",
+      "O",
+      "R",
+      "T",
+      "Q"
+    ],
+    [
+      "D",
+      "C",
+      "H",
+      "I",
+      "M",
+      "N",
+      "E",
+      "Y",
+      "H",
+      "Z"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CHIMNEY",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CELLAR",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "HEARTH",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "ABODE",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TABLE",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "PATIO",
+      "row": 5,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "PORCH",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "HOUSE",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "ATTIC",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ROOF",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9280
+}

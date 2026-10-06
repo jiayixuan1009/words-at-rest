@@ -1,0 +1,284 @@
+{
+  "id": "landmarks-medium-03",
+  "slug": "landmarks-medium-03",
+  "themeId": "landmarks",
+  "title": "Landmarks: Side Shelf",
+  "primaryKeyword": "landmarks word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BRIDGE",
+    "BRONZE",
+    "COURT",
+    "DOME",
+    "FOUNTAIN",
+    "MAP",
+    "MARKET",
+    "PYRAMID",
+    "RUIN",
+    "SCENIC",
+    "STADIUM",
+    "STONE",
+    "TOWER",
+    "TRAVEL"
+  ],
+  "grid": [
+    [
+      "W",
+      "P",
+      "Y",
+      "R",
+      "A",
+      "M",
+      "I",
+      "D",
+      "W",
+      "L",
+      "L",
+      "D"
+    ],
+    [
+      "I",
+      "B",
+      "V",
+      "V",
+      "E",
+      "S",
+      "N",
+      "G",
+      "X",
+      "M",
+      "W",
+      "C"
+    ],
+    [
+      "F",
+      "O",
+      "U",
+      "N",
+      "T",
+      "A",
+      "I",
+      "N",
+      "D",
+      "A",
+      "K",
+      "N"
+    ],
+    [
+      "K",
+      "N",
+      "O",
+      "N",
+      "T",
+      "M",
+      "W",
+      "K",
+      "S",
+      "R",
+      "G",
+      "W"
+    ],
+    [
+      "T",
+      "T",
+      "B",
+      "R",
+      "O",
+      "N",
+      "Z",
+      "E",
+      "M",
+      "K",
+      "M",
+      "S"
+    ],
+    [
+      "S",
+      "U",
+      "U",
+      "T",
+      "O",
+      "W",
+      "E",
+      "R",
+      "S",
+      "E",
+      "H",
+      "E"
+    ],
+    [
+      "O",
+      "O",
+      "R",
+      "S",
+      "H",
+      "N",
+      "F",
+      "E",
+      "T",
+      "T",
+      "G",
+      "D"
+    ],
+    [
+      "C",
+      "S",
+      "T",
+      "A",
+      "D",
+      "I",
+      "U",
+      "M",
+      "R",
+      "D",
+      "W",
+      "S"
+    ],
+    [
+      "S",
+      "C",
+      "E",
+      "N",
+      "I",
+      "C",
+      "P",
+      "H",
+      "I",
+      "U",
+      "T",
+      "O"
+    ],
+    [
+      "S",
+      "I",
+      "Z",
+      "K",
+      "Z",
+      "A",
+      "Q",
+      "R",
+      "K",
+      "G",
+      "I",
+      "E"
+    ],
+    [
+      "B",
+      "G",
+      "O",
+      "C",
+      "M",
+      "P",
+      "B",
+      "D",
+      "O",
+      "M",
+      "E",
+      "N"
+    ],
+    [
+      "P",
+      "R",
+      "U",
+      "T",
+      "R",
+      "A",
+      "V",
+      "E",
+      "L",
+      "T",
+      "N",
+      "J"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FOUNTAIN",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "STADIUM",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PYRAMID",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BRIDGE",
+      "row": 10,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "SCENIC",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BRONZE",
+      "row": 4,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "TRAVEL",
+      "row": 11,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "MARKET",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "COURT",
+      "row": 7,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "STONE",
+      "row": 5,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "TOWER",
+      "row": 5,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "DOME",
+      "row": 10,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "RUIN",
+      "row": 7,
+      "col": 8,
+      "direction": "SE"
+    },
+    {
+      "word": "MAP",
+      "row": 10,
+      "col": 4,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9305
+}

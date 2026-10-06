@@ -1,0 +1,284 @@
+{
+  "id": "american-history-medium-03",
+  "slug": "american-history-medium-03",
+  "themeId": "american-history",
+  "title": "American History: Long Afternoon",
+  "primaryKeyword": "american history word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ABOLITION",
+    "CIVIL",
+    "CONSTITUTION",
+    "COURT",
+    "FRONTIER",
+    "MEMORIAL",
+    "NEWDEAL",
+    "PORT",
+    "RAILROAD",
+    "SCHOOL",
+    "SUFFRAGE",
+    "TREATY",
+    "VOTE",
+    "WAGON"
+  ],
+  "grid": [
+    [
+      "Z",
+      "C",
+      "X",
+      "U",
+      "M",
+      "I",
+      "H",
+      "A",
+      "F",
+      "S",
+      "W",
+      "I"
+    ],
+    [
+      "X",
+      "O",
+      "T",
+      "S",
+      "G",
+      "P",
+      "B",
+      "B",
+      "Y",
+      "U",
+      "V",
+      "L"
+    ],
+    [
+      "Y",
+      "N",
+      "T",
+      "C",
+      "A",
+      "Q",
+      "C",
+      "O",
+      "Y",
+      "F",
+      "A",
+      "K"
+    ],
+    [
+      "L",
+      "S",
+      "R",
+      "H",
+      "Z",
+      "N",
+      "O",
+      "L",
+      "F",
+      "F",
+      "M",
+      "S"
+    ],
+    [
+      "K",
+      "T",
+      "E",
+      "O",
+      "A",
+      "S",
+      "U",
+      "I",
+      "R",
+      "R",
+      "E",
+      "D"
+    ],
+    [
+      "W",
+      "I",
+      "A",
+      "O",
+      "G",
+      "N",
+      "R",
+      "T",
+      "O",
+      "A",
+      "M",
+      "N"
+    ],
+    [
+      "A",
+      "T",
+      "T",
+      "L",
+      "B",
+      "T",
+      "T",
+      "I",
+      "N",
+      "G",
+      "O",
+      "E"
+    ],
+    [
+      "G",
+      "U",
+      "Y",
+      "Y",
+      "R",
+      "V",
+      "N",
+      "O",
+      "T",
+      "E",
+      "R",
+      "W"
+    ],
+    [
+      "O",
+      "T",
+      "S",
+      "O",
+      "Y",
+      "U",
+      "M",
+      "N",
+      "I",
+      "V",
+      "I",
+      "D"
+    ],
+    [
+      "N",
+      "I",
+      "P",
+      "V",
+      "O",
+      "T",
+      "E",
+      "A",
+      "E",
+      "E",
+      "A",
+      "E"
+    ],
+    [
+      "L",
+      "O",
+      "C",
+      "I",
+      "V",
+      "I",
+      "L",
+      "N",
+      "R",
+      "U",
+      "L",
+      "A"
+    ],
+    [
+      "Q",
+      "N",
+      "Z",
+      "R",
+      "A",
+      "I",
+      "L",
+      "R",
+      "O",
+      "A",
+      "D",
+      "L"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CONSTITUTION",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "ABOLITION",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SUFFRAGE",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "FRONTIER",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "RAILROAD",
+      "row": 11,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "MEMORIAL",
+      "row": 3,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "NEWDEAL",
+      "row": 5,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "SCHOOL",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "TREATY",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "CIVIL",
+      "row": 10,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "COURT",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "WAGON",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "VOTE",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "PORT",
+      "row": 9,
+      "col": 2,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9203
+}

@@ -1,0 +1,208 @@
+{
+  "id": "astronomy-easy-03",
+  "slug": "astronomy-easy-03",
+  "themeId": "astronomy",
+  "title": "Astronomy: Soft Path",
+  "primaryKeyword": "astronomy word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CHART",
+    "CLUSTER",
+    "GALAXY",
+    "MOON",
+    "ORBIT",
+    "PARALLAX",
+    "PLANET",
+    "RING",
+    "UNIVERSE",
+    "ZENITH"
+  ],
+  "grid": [
+    [
+      "X",
+      "J",
+      "C",
+      "H",
+      "A",
+      "R",
+      "T",
+      "C",
+      "L",
+      "W"
+    ],
+    [
+      "M",
+      "O",
+      "O",
+      "N",
+      "D",
+      "Z",
+      "Z",
+      "W",
+      "G",
+      "W"
+    ],
+    [
+      "H",
+      "O",
+      "R",
+      "B",
+      "I",
+      "T",
+      "X",
+      "H",
+      "S",
+      "Z"
+    ],
+    [
+      "S",
+      "D",
+      "P",
+      "L",
+      "A",
+      "N",
+      "E",
+      "T",
+      "X",
+      "X"
+    ],
+    [
+      "R",
+      "C",
+      "K",
+      "G",
+      "T",
+      "S",
+      "C",
+      "O",
+      "C",
+      "O"
+    ],
+    [
+      "I",
+      "F",
+      "O",
+      "Z",
+      "E",
+      "N",
+      "I",
+      "T",
+      "H",
+      "T"
+    ],
+    [
+      "N",
+      "N",
+      "G",
+      "A",
+      "L",
+      "A",
+      "X",
+      "Y",
+      "G",
+      "E"
+    ],
+    [
+      "G",
+      "P",
+      "A",
+      "R",
+      "A",
+      "L",
+      "L",
+      "A",
+      "X",
+      "T"
+    ],
+    [
+      "G",
+      "R",
+      "C",
+      "L",
+      "U",
+      "S",
+      "T",
+      "E",
+      "R",
+      "Z"
+    ],
+    [
+      "U",
+      "N",
+      "I",
+      "V",
+      "E",
+      "R",
+      "S",
+      "E",
+      "A",
+      "S"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PARALLAX",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "UNIVERSE",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CLUSTER",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PLANET",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ZENITH",
+      "row": 5,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "GALAXY",
+      "row": 6,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ORBIT",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CHART",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "MOON",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "RING",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9206
+}

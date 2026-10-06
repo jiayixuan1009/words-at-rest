@@ -1,0 +1,284 @@
+{
+  "id": "meditation-medium-01",
+  "slug": "meditation-medium-01",
+  "themeId": "meditation",
+  "title": "Meditation: Still Morning",
+  "primaryKeyword": "meditation word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BOWL",
+    "CENTER",
+    "CUSHION",
+    "GENTLE",
+    "GROUND",
+    "MOMENT",
+    "POSTURE",
+    "PRACTICE",
+    "PRESENT",
+    "SESSION",
+    "SILENCE",
+    "SPACE",
+    "SPINE",
+    "TIMER"
+  ],
+  "grid": [
+    [
+      "R",
+      "U",
+      "S",
+      "U",
+      "X",
+      "O",
+      "U",
+      "E",
+      "C",
+      "L",
+      "W",
+      "W"
+    ],
+    [
+      "G",
+      "S",
+      "P",
+      "A",
+      "C",
+      "E",
+      "C",
+      "O",
+      "H",
+      "U",
+      "L",
+      "A"
+    ],
+    [
+      "B",
+      "V",
+      "I",
+      "C",
+      "N",
+      "N",
+      "P",
+      "K",
+      "I",
+      "Y",
+      "L",
+      "A"
+    ],
+    [
+      "S",
+      "A",
+      "N",
+      "C",
+      "E",
+      "D",
+      "R",
+      "Y",
+      "D",
+      "E",
+      "C",
+      "X"
+    ],
+    [
+      "G",
+      "N",
+      "E",
+      "L",
+      "E",
+      "R",
+      "A",
+      "E",
+      "B",
+      "G",
+      "L",
+      "P"
+    ],
+    [
+      "R",
+      "Z",
+      "I",
+      "C",
+      "E",
+      "N",
+      "C",
+      "N",
+      "O",
+      "E",
+      "S",
+      "O"
+    ],
+    [
+      "O",
+      "S",
+      "W",
+      "M",
+      "Z",
+      "T",
+      "T",
+      "J",
+      "W",
+      "N",
+      "E",
+      "S"
+    ],
+    [
+      "U",
+      "E",
+      "I",
+      "C",
+      "N",
+      "N",
+      "I",
+      "E",
+      "L",
+      "T",
+      "S",
+      "T"
+    ],
+    [
+      "N",
+      "T",
+      "V",
+      "E",
+      "G",
+      "L",
+      "C",
+      "Z",
+      "R",
+      "L",
+      "S",
+      "U"
+    ],
+    [
+      "D",
+      "O",
+      "M",
+      "J",
+      "L",
+      "S",
+      "E",
+      "T",
+      "J",
+      "E",
+      "I",
+      "R"
+    ],
+    [
+      "Q",
+      "O",
+      "C",
+      "U",
+      "S",
+      "H",
+      "I",
+      "O",
+      "N",
+      "U",
+      "O",
+      "E"
+    ],
+    [
+      "M",
+      "W",
+      "F",
+      "P",
+      "R",
+      "E",
+      "S",
+      "E",
+      "N",
+      "T",
+      "N",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PRACTICE",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "CUSHION",
+      "row": 10,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "POSTURE",
+      "row": 4,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "SILENCE",
+      "row": 6,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "PRESENT",
+      "row": 11,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SESSION",
+      "row": 5,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "CENTER",
+      "row": 3,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "GROUND",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "MOMENT",
+      "row": 11,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "GENTLE",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "TIMER",
+      "row": 8,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "SPINE",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "SPACE",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BOWL",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9003
+}

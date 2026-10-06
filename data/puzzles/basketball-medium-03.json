@@ -1,0 +1,284 @@
+{
+  "id": "basketball-medium-03",
+  "slug": "basketball-medium-03",
+  "themeId": "basketball",
+  "title": "Basketball: Border Path",
+  "primaryKeyword": "basketball word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ASSIST",
+    "BACKBOARD",
+    "BALL",
+    "BENCH",
+    "DUNK",
+    "FASTBREAK",
+    "FORWARD",
+    "FOUL",
+    "HALF",
+    "JERSEY",
+    "QUARTER",
+    "SCORE",
+    "SHOT",
+    "WHISTLE"
+  ],
+  "grid": [
+    [
+      "D",
+      "V",
+      "R",
+      "W",
+      "H",
+      "I",
+      "S",
+      "T",
+      "L",
+      "E",
+      "A",
+      "F"
+    ],
+    [
+      "S",
+      "T",
+      "C",
+      "G",
+      "S",
+      "Y",
+      "W",
+      "O",
+      "T",
+      "T",
+      "O",
+      "P"
+    ],
+    [
+      "F",
+      "H",
+      "K",
+      "R",
+      "E",
+      "J",
+      "I",
+      "F",
+      "B",
+      "P",
+      "L",
+      "F"
+    ],
+    [
+      "F",
+      "O",
+      "O",
+      "S",
+      "U",
+      "Y",
+      "L",
+      "H",
+      "D",
+      "E",
+      "D",
+      "Q"
+    ],
+    [
+      "Q",
+      "A",
+      "R",
+      "T",
+      "C",
+      "A",
+      "P",
+      "R",
+      "R",
+      "L",
+      "J",
+      "X"
+    ],
+    [
+      "D",
+      "E",
+      "S",
+      "W",
+      "H",
+      "G",
+      "A",
+      "E",
+      "Y",
+      "K",
+      "Z",
+      "F"
+    ],
+    [
+      "J",
+      "O",
+      "O",
+      "T",
+      "A",
+      "O",
+      "T",
+      "U",
+      "N",
+      "B",
+      "A",
+      "O"
+    ],
+    [
+      "B",
+      "A",
+      "L",
+      "L",
+      "B",
+      "R",
+      "O",
+      "U",
+      "Q",
+      "E",
+      "S",
+      "U"
+    ],
+    [
+      "Q",
+      "K",
+      "T",
+      "K",
+      "A",
+      "R",
+      "D",
+      "U",
+      "A",
+      "N",
+      "C",
+      "L"
+    ],
+    [
+      "L",
+      "Y",
+      "C",
+      "U",
+      "K",
+      "W",
+      "E",
+      "Y",
+      "G",
+      "C",
+      "O",
+      "U"
+    ],
+    [
+      "O",
+      "A",
+      "Q",
+      "Q",
+      "Y",
+      "T",
+      "U",
+      "A",
+      "R",
+      "H",
+      "R",
+      "S"
+    ],
+    [
+      "B",
+      "A",
+      "S",
+      "S",
+      "I",
+      "S",
+      "T",
+      "T",
+      "K",
+      "J",
+      "E",
+      "W"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FASTBREAK",
+      "row": 3,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "BACKBOARD",
+      "row": 11,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "FORWARD",
+      "row": 2,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "WHISTLE",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "QUARTER",
+      "row": 10,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "JERSEY",
+      "row": 6,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "ASSIST",
+      "row": 11,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BENCH",
+      "row": 6,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SCORE",
+      "row": 7,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "SHOT",
+      "row": 1,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "BALL",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "DUNK",
+      "row": 8,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "HALF",
+      "row": 5,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "FOUL",
+      "row": 5,
+      "col": 11,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9213
+}

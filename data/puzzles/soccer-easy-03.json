@@ -1,0 +1,208 @@
+{
+  "id": "soccer-easy-03",
+  "slug": "soccer-easy-03",
+  "themeId": "soccer",
+  "title": "Soccer: Open Window",
+  "primaryKeyword": "soccer word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ASSIST",
+    "BOOTS",
+    "CLEAN",
+    "CLEATS",
+    "DEFENDER",
+    "KICK",
+    "PASS",
+    "PITCH",
+    "SOCCER",
+    "TACKLE"
+  ],
+  "grid": [
+    [
+      "I",
+      "I",
+      "R",
+      "M",
+      "B",
+      "O",
+      "O",
+      "T",
+      "S",
+      "G"
+    ],
+    [
+      "P",
+      "I",
+      "T",
+      "C",
+      "H",
+      "O",
+      "B",
+      "H",
+      "Q",
+      "Z"
+    ],
+    [
+      "Q",
+      "Y",
+      "D",
+      "E",
+      "F",
+      "E",
+      "N",
+      "D",
+      "E",
+      "R"
+    ],
+    [
+      "K",
+      "A",
+      "X",
+      "F",
+      "C",
+      "L",
+      "E",
+      "A",
+      "N",
+      "V"
+    ],
+    [
+      "I",
+      "S",
+      "S",
+      "O",
+      "C",
+      "C",
+      "E",
+      "R",
+      "I",
+      "N"
+    ],
+    [
+      "C",
+      "S",
+      "B",
+      "R",
+      "L",
+      "X",
+      "U",
+      "V",
+      "K",
+      "J"
+    ],
+    [
+      "K",
+      "I",
+      "S",
+      "H",
+      "E",
+      "C",
+      "Z",
+      "P",
+      "G",
+      "X"
+    ],
+    [
+      "Z",
+      "S",
+      "Z",
+      "T",
+      "A",
+      "C",
+      "K",
+      "L",
+      "E",
+      "F"
+    ],
+    [
+      "M",
+      "T",
+      "W",
+      "A",
+      "T",
+      "N",
+      "R",
+      "Q",
+      "W",
+      "L"
+    ],
+    [
+      "B",
+      "P",
+      "A",
+      "S",
+      "S",
+      "X",
+      "Z",
+      "A",
+      "M",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "DEFENDER",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CLEATS",
+      "row": 4,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "SOCCER",
+      "row": 4,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "TACKLE",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "ASSIST",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "BOOTS",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CLEAN",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "PITCH",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "PASS",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "KICK",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9338
+}

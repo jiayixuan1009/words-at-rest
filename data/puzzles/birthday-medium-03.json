@@ -1,0 +1,284 @@
+{
+  "id": "birthday-medium-03",
+  "slug": "birthday-medium-03",
+  "themeId": "birthday",
+  "title": "Birthday: Long Afternoon",
+  "primaryKeyword": "birthday word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BALLOON",
+    "BIRTHDAY",
+    "CANDLE",
+    "CHEER",
+    "COFFEE",
+    "FAMILY",
+    "GUEST",
+    "KIND",
+    "LAUGH",
+    "MONTH",
+    "PLATE",
+    "PRESENT",
+    "TABLE",
+    "TEA"
+  ],
+  "grid": [
+    [
+      "A",
+      "S",
+      "B",
+      "O",
+      "I",
+      "C",
+      "H",
+      "E",
+      "E",
+      "R",
+      "T",
+      "Z"
+    ],
+    [
+      "X",
+      "Q",
+      "H",
+      "C",
+      "R",
+      "X",
+      "M",
+      "T",
+      "A",
+      "B",
+      "L",
+      "E"
+    ],
+    [
+      "G",
+      "A",
+      "V",
+      "J",
+      "O",
+      "D",
+      "T",
+      "L",
+      "A",
+      "U",
+      "G",
+      "H"
+    ],
+    [
+      "N",
+      "I",
+      "C",
+      "A",
+      "N",
+      "D",
+      "L",
+      "E",
+      "H",
+      "H",
+      "U",
+      "B"
+    ],
+    [
+      "C",
+      "B",
+      "I",
+      "R",
+      "T",
+      "H",
+      "D",
+      "A",
+      "Y",
+      "Q",
+      "P",
+      "S"
+    ],
+    [
+      "O",
+      "G",
+      "U",
+      "C",
+      "B",
+      "A",
+      "M",
+      "D",
+      "H",
+      "N",
+      "R",
+      "N"
+    ],
+    [
+      "F",
+      "A",
+      "M",
+      "I",
+      "L",
+      "Y",
+      "N",
+      "U",
+      "O",
+      "P",
+      "E",
+      "Z"
+    ],
+    [
+      "F",
+      "K",
+      "P",
+      "L",
+      "A",
+      "T",
+      "E",
+      "O",
+      "M",
+      "T",
+      "S",
+      "P"
+    ],
+    [
+      "E",
+      "I",
+      "H",
+      "T",
+      "M",
+      "G",
+      "L",
+      "J",
+      "B",
+      "C",
+      "E",
+      "R"
+    ],
+    [
+      "E",
+      "N",
+      "P",
+      "X",
+      "C",
+      "L",
+      "F",
+      "A",
+      "C",
+      "X",
+      "N",
+      "A"
+    ],
+    [
+      "M",
+      "D",
+      "Y",
+      "C",
+      "A",
+      "H",
+      "U",
+      "M",
+      "O",
+      "N",
+      "T",
+      "H"
+    ],
+    [
+      "K",
+      "W",
+      "N",
+      "B",
+      "U",
+      "H",
+      "G",
+      "U",
+      "E",
+      "S",
+      "T",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BIRTHDAY",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PRESENT",
+      "row": 4,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "BALLOON",
+      "row": 11,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "CANDLE",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "FAMILY",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "COFFEE",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CHEER",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "TABLE",
+      "row": 1,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "GUEST",
+      "row": 11,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "PLATE",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "LAUGH",
+      "row": 2,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "MONTH",
+      "row": 10,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "KIND",
+      "row": 7,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "TEA",
+      "row": 7,
+      "col": 9,
+      "direction": "SE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9217
+}

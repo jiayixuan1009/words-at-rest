@@ -1,0 +1,284 @@
+{
+  "id": "chemistry-medium-03",
+  "slug": "chemistry-medium-03",
+  "themeId": "chemistry",
+  "title": "Chemistry: Side Shelf",
+  "primaryKeyword": "chemistry word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BEAKER",
+    "BOIL",
+    "BOND",
+    "COMPOUND",
+    "COPPER",
+    "FILTER",
+    "LIQUID",
+    "MIXTURE",
+    "OXYGEN",
+    "SCALE",
+    "SOLUTE",
+    "SOLUTION",
+    "SOLVENT",
+    "TABLE"
+  ],
+  "grid": [
+    [
+      "Z",
+      "A",
+      "S",
+      "C",
+      "O",
+      "P",
+      "P",
+      "E",
+      "R",
+      "I",
+      "G",
+      "D"
+    ],
+    [
+      "C",
+      "M",
+      "J",
+      "F",
+      "Q",
+      "X",
+      "C",
+      "X",
+      "F",
+      "T",
+      "R",
+      "M"
+    ],
+    [
+      "M",
+      "O",
+      "I",
+      "K",
+      "G",
+      "C",
+      "X",
+      "Y",
+      "N",
+      "G",
+      "S",
+      "S"
+    ],
+    [
+      "M",
+      "Y",
+      "M",
+      "X",
+      "O",
+      "X",
+      "Y",
+      "G",
+      "E",
+      "N",
+      "O",
+      "G"
+    ],
+    [
+      "B",
+      "Y",
+      "S",
+      "P",
+      "T",
+      "B",
+      "B",
+      "Z",
+      "B",
+      "X",
+      "L",
+      "Z"
+    ],
+    [
+      "E",
+      "I",
+      "B",
+      "O",
+      "O",
+      "U",
+      "F",
+      "O",
+      "I",
+      "Z",
+      "V",
+      "Z"
+    ],
+    [
+      "A",
+      "S",
+      "M",
+      "O",
+      "L",
+      "U",
+      "R",
+      "I",
+      "I",
+      "A",
+      "E",
+      "U"
+    ],
+    [
+      "K",
+      "T",
+      "T",
+      "S",
+      "N",
+      "U",
+      "N",
+      "E",
+      "L",
+      "L",
+      "N",
+      "M"
+    ],
+    [
+      "E",
+      "M",
+      "A",
+      "C",
+      "K",
+      "D",
+      "T",
+      "D",
+      "P",
+      "T",
+      "T",
+      "Z"
+    ],
+    [
+      "R",
+      "G",
+      "B",
+      "A",
+      "A",
+      "W",
+      "L",
+      "E",
+      "W",
+      "K",
+      "E",
+      "K"
+    ],
+    [
+      "W",
+      "G",
+      "L",
+      "L",
+      "I",
+      "Q",
+      "U",
+      "I",
+      "D",
+      "M",
+      "T",
+      "R"
+    ],
+    [
+      "J",
+      "L",
+      "E",
+      "E",
+      "S",
+      "O",
+      "L",
+      "U",
+      "T",
+      "I",
+      "O",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "COMPOUND",
+      "row": 1,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "SOLUTION",
+      "row": 11,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "MIXTURE",
+      "row": 1,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "SOLVENT",
+      "row": 2,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "OXYGEN",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "LIQUID",
+      "row": 10,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "FILTER",
+      "row": 5,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "BEAKER",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SOLUTE",
+      "row": 4,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "COPPER",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "TABLE",
+      "row": 7,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "SCALE",
+      "row": 7,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "BOND",
+      "row": 5,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "BOIL",
+      "row": 4,
+      "col": 6,
+      "direction": "SE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9227
+}

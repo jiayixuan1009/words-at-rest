@@ -1,0 +1,208 @@
+{
+  "id": "woodworking-easy-03",
+  "slug": "woodworking-easy-03",
+  "themeId": "woodworking",
+  "title": "Woodworking: Gentle Walk",
+  "primaryKeyword": "woodworking word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BEAM",
+    "BLADE",
+    "CHISEL",
+    "CUT",
+    "FILE",
+    "GLUE",
+    "MORTISE",
+    "PINE",
+    "SAND",
+    "SQUARE"
+  ],
+  "grid": [
+    [
+      "O",
+      "S",
+      "A",
+      "N",
+      "D",
+      "O",
+      "U",
+      "T",
+      "S",
+      "D"
+    ],
+    [
+      "M",
+      "O",
+      "R",
+      "T",
+      "I",
+      "S",
+      "E",
+      "C",
+      "P",
+      "G"
+    ],
+    [
+      "C",
+      "P",
+      "I",
+      "N",
+      "E",
+      "S",
+      "B",
+      "H",
+      "I",
+      "U"
+    ],
+    [
+      "B",
+      "W",
+      "O",
+      "B",
+      "L",
+      "A",
+      "D",
+      "E",
+      "N",
+      "I"
+    ],
+    [
+      "E",
+      "Y",
+      "C",
+      "H",
+      "I",
+      "S",
+      "E",
+      "L",
+      "F",
+      "F"
+    ],
+    [
+      "A",
+      "T",
+      "Q",
+      "J",
+      "K",
+      "W",
+      "O",
+      "G",
+      "O",
+      "I"
+    ],
+    [
+      "M",
+      "R",
+      "C",
+      "U",
+      "T",
+      "B",
+      "C",
+      "G",
+      "D",
+      "L"
+    ],
+    [
+      "S",
+      "Q",
+      "U",
+      "A",
+      "R",
+      "E",
+      "G",
+      "L",
+      "V",
+      "E"
+    ],
+    [
+      "T",
+      "D",
+      "U",
+      "C",
+      "P",
+      "B",
+      "R",
+      "U",
+      "C",
+      "W"
+    ],
+    [
+      "X",
+      "X",
+      "I",
+      "W",
+      "V",
+      "R",
+      "H",
+      "E",
+      "J",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "MORTISE",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CHISEL",
+      "row": 4,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SQUARE",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BLADE",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BEAM",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "FILE",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SAND",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PINE",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "GLUE",
+      "row": 6,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "CUT",
+      "row": 6,
+      "col": 2,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9366
+}

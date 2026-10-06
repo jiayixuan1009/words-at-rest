@@ -1,0 +1,284 @@
+{
+  "id": "breakfast-medium-03",
+  "slug": "breakfast-medium-03",
+  "themeId": "breakfast",
+  "title": "Breakfast: Side Shelf",
+  "primaryKeyword": "breakfast word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BACON",
+    "BANANA",
+    "BISCUIT",
+    "COFFEE",
+    "DANISH",
+    "GRANOLA",
+    "HONEY",
+    "JUICE",
+    "MARMALADE",
+    "POTATO",
+    "SAUSAGE",
+    "SCONE",
+    "SKILLET",
+    "SUGAR"
+  ],
+  "grid": [
+    [
+      "G",
+      "N",
+      "S",
+      "A",
+      "U",
+      "S",
+      "A",
+      "G",
+      "E",
+      "G",
+      "J",
+      "J"
+    ],
+    [
+      "R",
+      "M",
+      "D",
+      "M",
+      "A",
+      "R",
+      "M",
+      "A",
+      "L",
+      "A",
+      "D",
+      "E"
+    ],
+    [
+      "A",
+      "T",
+      "B",
+      "L",
+      "D",
+      "C",
+      "O",
+      "F",
+      "F",
+      "E",
+      "E",
+      "X"
+    ],
+    [
+      "N",
+      "D",
+      "N",
+      "C",
+      "G",
+      "A",
+      "T",
+      "B",
+      "A",
+      "A",
+      "J",
+      "G"
+    ],
+    [
+      "O",
+      "J",
+      "N",
+      "U",
+      "Y",
+      "E",
+      "N",
+      "J",
+      "A",
+      "I",
+      "V",
+      "P"
+    ],
+    [
+      "L",
+      "X",
+      "F",
+      "L",
+      "L",
+      "M",
+      "T",
+      "I",
+      "U",
+      "C",
+      "U",
+      "A"
+    ],
+    [
+      "A",
+      "G",
+      "L",
+      "L",
+      "O",
+      "V",
+      "T",
+      "V",
+      "S",
+      "I",
+      "O",
+      "G"
+    ],
+    [
+      "S",
+      "B",
+      "I",
+      "P",
+      "O",
+      "T",
+      "A",
+      "T",
+      "O",
+      "H",
+      "C",
+      "N"
+    ],
+    [
+      "B",
+      "K",
+      "R",
+      "B",
+      "I",
+      "S",
+      "C",
+      "U",
+      "I",
+      "T",
+      "H",
+      "E"
+    ],
+    [
+      "S",
+      "S",
+      "C",
+      "O",
+      "N",
+      "E",
+      "H",
+      "O",
+      "N",
+      "E",
+      "Y",
+      "Y"
+    ],
+    [
+      "P",
+      "W",
+      "O",
+      "P",
+      "Y",
+      "B",
+      "S",
+      "U",
+      "G",
+      "A",
+      "R",
+      "D"
+    ],
+    [
+      "M",
+      "B",
+      "A",
+      "N",
+      "A",
+      "N",
+      "A",
+      "Z",
+      "K",
+      "U",
+      "P",
+      "S"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "MARMALADE",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SAUSAGE",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BISCUIT",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SKILLET",
+      "row": 9,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "GRANOLA",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "POTATO",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "DANISH",
+      "row": 2,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "COFFEE",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "BANANA",
+      "row": 11,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "JUICE",
+      "row": 4,
+      "col": 7,
+      "direction": "SE"
+    },
+    {
+      "word": "SUGAR",
+      "row": 10,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "HONEY",
+      "row": 9,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "SCONE",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BACON",
+      "row": 3,
+      "col": 7,
+      "direction": "SE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9221
+}

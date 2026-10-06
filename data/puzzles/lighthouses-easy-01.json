@@ -1,0 +1,208 @@
+{
+  "id": "lighthouses-easy-01",
+  "slug": "lighthouses-easy-01",
+  "themeId": "lighthouses",
+  "title": "Lighthouses: Beacon Night",
+  "primaryKeyword": "lighthouses word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BEAM",
+    "FOG",
+    "LAMP",
+    "LIGHT",
+    "NIGHT",
+    "ROCK",
+    "SHIP",
+    "SHORE",
+    "TOWER",
+    "WAVE"
+  ],
+  "grid": [
+    [
+      "U",
+      "S",
+      "W",
+      "A",
+      "V",
+      "E",
+      "V",
+      "L",
+      "H",
+      "T"
+    ],
+    [
+      "N",
+      "H",
+      "T",
+      "P",
+      "S",
+      "X",
+      "Y",
+      "A",
+      "Z",
+      "M"
+    ],
+    [
+      "S",
+      "I",
+      "N",
+      "L",
+      "E",
+      "X",
+      "X",
+      "M",
+      "X",
+      "I"
+    ],
+    [
+      "K",
+      "P",
+      "N",
+      "I",
+      "G",
+      "H",
+      "T",
+      "P",
+      "S",
+      "I"
+    ],
+    [
+      "R",
+      "D",
+      "D",
+      "L",
+      "B",
+      "N",
+      "A",
+      "I",
+      "H",
+      "T"
+    ],
+    [
+      "Q",
+      "D",
+      "A",
+      "U",
+      "H",
+      "L",
+      "B",
+      "W",
+      "O",
+      "O"
+    ],
+    [
+      "F",
+      "C",
+      "O",
+      "Y",
+      "K",
+      "I",
+      "E",
+      "R",
+      "R",
+      "W"
+    ],
+    [
+      "O",
+      "R",
+      "O",
+      "C",
+      "K",
+      "G",
+      "A",
+      "B",
+      "E",
+      "E"
+    ],
+    [
+      "G",
+      "X",
+      "O",
+      "L",
+      "D",
+      "H",
+      "M",
+      "U",
+      "N",
+      "R"
+    ],
+    [
+      "C",
+      "V",
+      "U",
+      "H",
+      "U",
+      "T",
+      "N",
+      "Z",
+      "A",
+      "B"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "LIGHT",
+      "row": 5,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "TOWER",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SHORE",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "NIGHT",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "LAMP",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "BEAM",
+      "row": 5,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "ROCK",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "WAVE",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SHIP",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "FOG",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9021
+}

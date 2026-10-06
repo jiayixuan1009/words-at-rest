@@ -1,0 +1,208 @@
+{
+  "id": "birthday-easy-03",
+  "slug": "birthday-easy-03",
+  "themeId": "birthday",
+  "title": "Birthday: Quiet Hour",
+  "primaryKeyword": "birthday word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "AGE",
+    "CONFETTI",
+    "DATE",
+    "FRIEND",
+    "HOME",
+    "NAPKIN",
+    "SLICE",
+    "TOAST",
+    "WISH",
+    "YEAR"
+  ],
+  "grid": [
+    [
+      "L",
+      "N",
+      "D",
+      "F",
+      "T",
+      "S",
+      "W",
+      "H",
+      "O",
+      "O"
+    ],
+    [
+      "T",
+      "A",
+      "A",
+      "I",
+      "R",
+      "L",
+      "I",
+      "O",
+      "M",
+      "B"
+    ],
+    [
+      "E",
+      "P",
+      "T",
+      "B",
+      "A",
+      "I",
+      "S",
+      "M",
+      "T",
+      "U"
+    ],
+    [
+      "C",
+      "K",
+      "E",
+      "F",
+      "C",
+      "C",
+      "H",
+      "E",
+      "O",
+      "L"
+    ],
+    [
+      "Z",
+      "I",
+      "F",
+      "R",
+      "I",
+      "E",
+      "N",
+      "D",
+      "A",
+      "E"
+    ],
+    [
+      "D",
+      "N",
+      "J",
+      "X",
+      "M",
+      "A",
+      "O",
+      "L",
+      "S",
+      "P"
+    ],
+    [
+      "P",
+      "C",
+      "F",
+      "Z",
+      "Y",
+      "G",
+      "Y",
+      "U",
+      "T",
+      "U"
+    ],
+    [
+      "P",
+      "C",
+      "O",
+      "N",
+      "F",
+      "E",
+      "T",
+      "T",
+      "I",
+      "H"
+    ],
+    [
+      "J",
+      "J",
+      "Z",
+      "O",
+      "U",
+      "J",
+      "O",
+      "R",
+      "D",
+      "G"
+    ],
+    [
+      "R",
+      "Y",
+      "E",
+      "A",
+      "R",
+      "T",
+      "Z",
+      "D",
+      "O",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CONFETTI",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "FRIEND",
+      "row": 4,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "NAPKIN",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "TOAST",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "SLICE",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "HOME",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "WISH",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "DATE",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "YEAR",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "AGE",
+      "row": 5,
+      "col": 5,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9216
+}

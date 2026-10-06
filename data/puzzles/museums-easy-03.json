@@ -1,0 +1,208 @@
+{
+  "id": "museums-easy-03",
+  "slug": "museums-easy-03",
+  "themeId": "museums",
+  "title": "Museums: Still Room",
+  "primaryKeyword": "museums word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ART",
+    "ARTIFACT",
+    "GALLERY",
+    "MAP",
+    "OBJECT",
+    "OPEN",
+    "PHOTO",
+    "QUIET",
+    "RELIC",
+    "VISITOR"
+  ],
+  "grid": [
+    [
+      "O",
+      "B",
+      "J",
+      "E",
+      "C",
+      "T",
+      "W",
+      "A",
+      "R",
+      "T"
+    ],
+    [
+      "F",
+      "N",
+      "G",
+      "F",
+      "P",
+      "H",
+      "O",
+      "T",
+      "O",
+      "H"
+    ],
+    [
+      "V",
+      "I",
+      "S",
+      "I",
+      "T",
+      "O",
+      "R",
+      "Z",
+      "E",
+      "V"
+    ],
+    [
+      "U",
+      "G",
+      "A",
+      "L",
+      "L",
+      "E",
+      "R",
+      "Y",
+      "N",
+      "Y"
+    ],
+    [
+      "M",
+      "S",
+      "Z",
+      "E",
+      "S",
+      "M",
+      "V",
+      "M",
+      "A",
+      "R"
+    ],
+    [
+      "M",
+      "O",
+      "P",
+      "E",
+      "N",
+      "A",
+      "T",
+      "B",
+      "Q",
+      "S"
+    ],
+    [
+      "A",
+      "P",
+      "Z",
+      "A",
+      "L",
+      "P",
+      "Y",
+      "S",
+      "L",
+      "S"
+    ],
+    [
+      "S",
+      "A",
+      "R",
+      "T",
+      "I",
+      "F",
+      "A",
+      "C",
+      "T",
+      "R"
+    ],
+    [
+      "A",
+      "Q",
+      "U",
+      "I",
+      "E",
+      "T",
+      "C",
+      "Q",
+      "W",
+      "L"
+    ],
+    [
+      "R",
+      "E",
+      "L",
+      "I",
+      "C",
+      "A",
+      "N",
+      "A",
+      "J",
+      "Q"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ARTIFACT",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "GALLERY",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "VISITOR",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "OBJECT",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "PHOTO",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "QUIET",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "RELIC",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "OPEN",
+      "row": 5,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "MAP",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "ART",
+      "row": 0,
+      "col": 7,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9314
+}

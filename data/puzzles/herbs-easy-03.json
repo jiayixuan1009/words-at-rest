@@ -1,0 +1,208 @@
+{
+  "id": "herbs-easy-03",
+  "slug": "herbs-easy-03",
+  "themeId": "herbs",
+  "title": "Herbs & Spices: Evening Rest",
+  "primaryKeyword": "herbs and spices word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BASIL",
+    "CHILI",
+    "CLOVE",
+    "CORIANDER",
+    "HERB",
+    "NUTMEG",
+    "PAPRIKA",
+    "PARSLEY",
+    "PEPPER",
+    "ROSEMARY"
+  ],
+  "grid": [
+    [
+      "X",
+      "R",
+      "A",
+      "X",
+      "G",
+      "P",
+      "C",
+      "K",
+      "S",
+      "A"
+    ],
+    [
+      "P",
+      "O",
+      "S",
+      "E",
+      "T",
+      "A",
+      "O",
+      "T",
+      "T",
+      "V"
+    ],
+    [
+      "A",
+      "S",
+      "F",
+      "P",
+      "H",
+      "R",
+      "R",
+      "N",
+      "Y",
+      "W"
+    ],
+    [
+      "P",
+      "E",
+      "X",
+      "C",
+      "E",
+      "S",
+      "I",
+      "C",
+      "B",
+      "B"
+    ],
+    [
+      "R",
+      "M",
+      "C",
+      "P",
+      "R",
+      "L",
+      "A",
+      "L",
+      "A",
+      "Q"
+    ],
+    [
+      "I",
+      "A",
+      "H",
+      "E",
+      "B",
+      "E",
+      "N",
+      "O",
+      "S",
+      "D"
+    ],
+    [
+      "K",
+      "R",
+      "I",
+      "P",
+      "X",
+      "Y",
+      "D",
+      "V",
+      "I",
+      "C"
+    ],
+    [
+      "A",
+      "Y",
+      "L",
+      "P",
+      "A",
+      "Y",
+      "E",
+      "E",
+      "L",
+      "W"
+    ],
+    [
+      "X",
+      "K",
+      "I",
+      "E",
+      "I",
+      "P",
+      "R",
+      "Y",
+      "A",
+      "D"
+    ],
+    [
+      "C",
+      "F",
+      "I",
+      "R",
+      "N",
+      "U",
+      "T",
+      "M",
+      "E",
+      "G"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CORIANDER",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "ROSEMARY",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "PARSLEY",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "PAPRIKA",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "PEPPER",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "NUTMEG",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CHILI",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "CLOVE",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "BASIL",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "HERB",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9278
+}

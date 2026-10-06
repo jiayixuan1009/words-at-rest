@@ -115,6 +115,11 @@ import calligraphy from "./calligraphy.json";
 import libraries from "./libraries.json";
 import volunteering from "./volunteering.json";
 import gardeningTools from "./gardening-tools.json";
+import meditation from "./meditation.json";
+import birdwatching from "./birdwatching.json";
+import lighthouses from "./lighthouses.json";
+import journaling from "./journaling.json";
+import apothecary from "./apothecary.json";
 
 /** Theme order: seasonal first, then evergreen, then packs. */
 export const themes = [
@@ -232,6 +237,11 @@ export const themes = [
   libraries,
   volunteering,
   gardeningTools,
+  meditation,
+  birdwatching,
+  lighthouses,
+  journaling,
+  apothecary,
   largePrintPack,
   hardPack,
 ] as Theme[];

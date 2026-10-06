@@ -1,0 +1,284 @@
+{
+  "id": "instruments-medium-03",
+  "slug": "instruments-medium-03",
+  "themeId": "instruments",
+  "title": "Instruments: Warm Corner",
+  "primaryKeyword": "musical instruments word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ACCORDION",
+    "BAGPIPE",
+    "BANJO",
+    "BASS",
+    "BELLS",
+    "CELLO",
+    "CORNET",
+    "CYMBAL",
+    "OBOE",
+    "ORGAN",
+    "PIANO",
+    "RECORDER",
+    "SAXOPHONE",
+    "XYLOPHONE"
+  ],
+  "grid": [
+    [
+      "X",
+      "S",
+      "U",
+      "C",
+      "B",
+      "B",
+      "A",
+      "N",
+      "J",
+      "O",
+      "Y",
+      "O"
+    ],
+    [
+      "K",
+      "A",
+      "C",
+      "C",
+      "O",
+      "R",
+      "D",
+      "I",
+      "O",
+      "N",
+      "J",
+      "Y"
+    ],
+    [
+      "B",
+      "X",
+      "P",
+      "M",
+      "X",
+      "B",
+      "C",
+      "Y",
+      "M",
+      "B",
+      "A",
+      "L"
+    ],
+    [
+      "A",
+      "O",
+      "L",
+      "B",
+      "Y",
+      "E",
+      "M",
+      "K",
+      "O",
+      "B",
+      "O",
+      "E"
+    ],
+    [
+      "G",
+      "P",
+      "R",
+      "A",
+      "L",
+      "L",
+      "H",
+      "P",
+      "N",
+      "R",
+      "Z",
+      "P"
+    ],
+    [
+      "P",
+      "H",
+      "C",
+      "S",
+      "O",
+      "L",
+      "J",
+      "A",
+      "E",
+      "E",
+      "J",
+      "K"
+    ],
+    [
+      "I",
+      "O",
+      "O",
+      "S",
+      "P",
+      "S",
+      "G",
+      "L",
+      "R",
+      "C",
+      "Y",
+      "N"
+    ],
+    [
+      "P",
+      "N",
+      "R",
+      "L",
+      "H",
+      "R",
+      "C",
+      "G",
+      "J",
+      "O",
+      "R",
+      "P"
+    ],
+    [
+      "E",
+      "E",
+      "N",
+      "L",
+      "O",
+      "D",
+      "E",
+      "V",
+      "B",
+      "R",
+      "V",
+      "I"
+    ],
+    [
+      "T",
+      "F",
+      "E",
+      "D",
+      "N",
+      "S",
+      "L",
+      "O",
+      "T",
+      "D",
+      "B",
+      "A"
+    ],
+    [
+      "N",
+      "V",
+      "T",
+      "Y",
+      "E",
+      "X",
+      "L",
+      "N",
+      "X",
+      "E",
+      "M",
+      "N"
+    ],
+    [
+      "I",
+      "Q",
+      "A",
+      "W",
+      "T",
+      "R",
+      "O",
+      "J",
+      "Y",
+      "R",
+      "S",
+      "O"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "XYLOPHONE",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "SAXOPHONE",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "ACCORDION",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "RECORDER",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "BAGPIPE",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CYMBAL",
+      "row": 2,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "CORNET",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "CELLO",
+      "row": 7,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "ORGAN",
+      "row": 8,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "BELLS",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "PIANO",
+      "row": 7,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "BANJO",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "OBOE",
+      "row": 3,
+      "col": 8,
+      "direction": "E"
+    },
+    {
+      "word": "BASS",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9291
+}

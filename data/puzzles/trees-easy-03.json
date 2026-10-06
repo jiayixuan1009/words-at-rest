@@ -1,0 +1,208 @@
+{
+  "id": "trees-easy-03",
+  "slug": "trees-easy-03",
+  "themeId": "trees",
+  "title": "Trees: Evening Rest",
+  "primaryKeyword": "trees word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ACORN",
+    "BARK",
+    "CANOPY",
+    "HAWTHORN",
+    "HICKORY",
+    "LARCH",
+    "OAK",
+    "ROOT",
+    "SHADE",
+    "WILLOW"
+  ],
+  "grid": [
+    [
+      "J",
+      "C",
+      "A",
+      "N",
+      "O",
+      "P",
+      "Y",
+      "X",
+      "E",
+      "W"
+    ],
+    [
+      "N",
+      "T",
+      "K",
+      "L",
+      "A",
+      "R",
+      "C",
+      "H",
+      "N",
+      "P"
+    ],
+    [
+      "A",
+      "U",
+      "U",
+      "B",
+      "V",
+      "O",
+      "Z",
+      "A",
+      "Q",
+      "Z"
+    ],
+    [
+      "C",
+      "U",
+      "A",
+      "W",
+      "J",
+      "O",
+      "A",
+      "W",
+      "H",
+      "B"
+    ],
+    [
+      "O",
+      "S",
+      "E",
+      "I",
+      "I",
+      "T",
+      "H",
+      "T",
+      "I",
+      "V"
+    ],
+    [
+      "R",
+      "H",
+      "D",
+      "L",
+      "T",
+      "Z",
+      "D",
+      "H",
+      "C",
+      "I"
+    ],
+    [
+      "N",
+      "A",
+      "O",
+      "L",
+      "N",
+      "C",
+      "M",
+      "O",
+      "K",
+      "B"
+    ],
+    [
+      "V",
+      "D",
+      "K",
+      "O",
+      "G",
+      "D",
+      "E",
+      "R",
+      "O",
+      "A"
+    ],
+    [
+      "F",
+      "E",
+      "H",
+      "W",
+      "U",
+      "M",
+      "X",
+      "N",
+      "R",
+      "R"
+    ],
+    [
+      "V",
+      "A",
+      "P",
+      "H",
+      "R",
+      "O",
+      "A",
+      "K",
+      "Y",
+      "K"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "HAWTHORN",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "HICKORY",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "CANOPY",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "WILLOW",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "LARCH",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "ACORN",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SHADE",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "ROOT",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "BARK",
+      "row": 6,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "OAK",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9350
+}

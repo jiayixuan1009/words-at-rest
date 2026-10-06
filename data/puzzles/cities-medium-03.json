@@ -1,0 +1,284 @@
+{
+  "id": "cities-medium-03",
+  "slug": "cities-medium-03",
+  "themeId": "cities",
+  "title": "Cities: Nested Calm",
+  "primaryKeyword": "cities word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ATLANTA",
+    "BEIJING",
+    "CAIRO",
+    "DUBLIN",
+    "KYIV",
+    "LAGOS",
+    "METRO",
+    "MONTREAL",
+    "PORTLAND",
+    "QUITO",
+    "SANTIAGO",
+    "SEATTLE",
+    "TOWN",
+    "VIENNA"
+  ],
+  "grid": [
+    [
+      "B",
+      "M",
+      "A",
+      "I",
+      "E",
+      "Y",
+      "D",
+      "C",
+      "H",
+      "Z",
+      "X",
+      "F"
+    ],
+    [
+      "E",
+      "S",
+      "J",
+      "J",
+      "M",
+      "O",
+      "N",
+      "T",
+      "R",
+      "E",
+      "A",
+      "L"
+    ],
+    [
+      "I",
+      "A",
+      "A",
+      "A",
+      "T",
+      "L",
+      "A",
+      "N",
+      "T",
+      "A",
+      "L",
+      "F"
+    ],
+    [
+      "J",
+      "R",
+      "E",
+      "N",
+      "O",
+      "K",
+      "Y",
+      "I",
+      "V",
+      "O",
+      "A",
+      "P"
+    ],
+    [
+      "I",
+      "O",
+      "N",
+      "I",
+      "T",
+      "M",
+      "E",
+      "T",
+      "R",
+      "O",
+      "G",
+      "O"
+    ],
+    [
+      "N",
+      "D",
+      "U",
+      "B",
+      "L",
+      "I",
+      "N",
+      "I",
+      "G",
+      "R",
+      "O",
+      "R"
+    ],
+    [
+      "G",
+      "Q",
+      "U",
+      "I",
+      "T",
+      "O",
+      "A",
+      "C",
+      "F",
+      "L",
+      "S",
+      "T"
+    ],
+    [
+      "J",
+      "Z",
+      "S",
+      "Q",
+      "J",
+      "C",
+      "U",
+      "G",
+      "T",
+      "R",
+      "Z",
+      "L"
+    ],
+    [
+      "U",
+      "S",
+      "E",
+      "A",
+      "T",
+      "T",
+      "L",
+      "E",
+      "O",
+      "W",
+      "G",
+      "A"
+    ],
+    [
+      "X",
+      "B",
+      "M",
+      "X",
+      "E",
+      "Z",
+      "Z",
+      "G",
+      "W",
+      "S",
+      "B",
+      "N"
+    ],
+    [
+      "I",
+      "C",
+      "V",
+      "E",
+      "I",
+      "V",
+      "I",
+      "E",
+      "N",
+      "N",
+      "A",
+      "D"
+    ],
+    [
+      "Z",
+      "U",
+      "I",
+      "L",
+      "J",
+      "F",
+      "X",
+      "P",
+      "I",
+      "A",
+      "Y",
+      "O"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SANTIAGO",
+      "row": 1,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "PORTLAND",
+      "row": 3,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "MONTREAL",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BEIJING",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SEATTLE",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "ATLANTA",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "DUBLIN",
+      "row": 5,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "VIENNA",
+      "row": 10,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "QUITO",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "LAGOS",
+      "row": 2,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "CAIRO",
+      "row": 7,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "METRO",
+      "row": 4,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "TOWN",
+      "row": 7,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "KYIV",
+      "row": 3,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9231
+}

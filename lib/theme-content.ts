@@ -760,6 +760,41 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
       "Giving vocabulary without medical claims.",
     tip: "Long words like COMMUNITY and SHELTER anchor the hard grid.",
   },
+  meditation: {
+    vocabulary:
+      "Calm practice English — no medical claims; no brand names. Companion to Mindfulness.",
+    goodFor:
+      "Quiet sit vocabulary for adults.",
+    tip: "Long words like PRACTICE and CUSHION stand out first.",
+  },
+  birdwatching: {
+    vocabulary:
+      "Field and binocular English — companion to Birds; no brand names.",
+    goodFor:
+      "Outdoor observation vocabulary.",
+    tip: "Long words such as BINOCULAR and MIGRATE anchor harder grids.",
+  },
+  lighthouses: {
+    vocabulary:
+      "Beacon and shore English — companion to Ocean; no brand names.",
+    goodFor:
+      "Coastal calm for adults and seniors.",
+    tip: "Long words like LANTERN and CHANNEL jump out quickly.",
+  },
+  journaling: {
+    vocabulary:
+      "Pen and page English — companion to Reading; no brand names.",
+    goodFor:
+      "Desk habit vocabulary.",
+    tip: "Long words such as GRATITUDE and JOURNAL stand out.",
+  },
+  apothecary: {
+    vocabulary:
+      "Jar and herb English — companion to Herbs; common nouns only; no medical claims.",
+    goodFor:
+      "Quiet shop-shelf vocabulary.",
+    tip: "Long words like TINCTURE and CHAMOMILE anchor the hard grid.",
+  },
   "gardening-tools": {
     vocabulary:
       "Hand-tool English — companion to Garden and Tools; no brands.",

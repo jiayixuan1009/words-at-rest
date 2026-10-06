@@ -1,0 +1,208 @@
+{
+  "id": "gratitude-easy-03",
+  "slug": "gratitude-easy-03",
+  "themeId": "gratitude",
+  "title": "Gratitude: Soft Path",
+  "primaryKeyword": "gratitude word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "APPRECIATE",
+    "BLESSING",
+    "EVENING",
+    "GRATEFUL",
+    "MEMORY",
+    "REST",
+    "SMILE",
+    "THANKFUL",
+    "THANKS",
+    "VISIT"
+  ],
+  "grid": [
+    [
+      "H",
+      "J",
+      "S",
+      "U",
+      "B",
+      "V",
+      "I",
+      "S",
+      "I",
+      "T"
+    ],
+    [
+      "B",
+      "L",
+      "E",
+      "S",
+      "S",
+      "I",
+      "N",
+      "G",
+      "M",
+      "O"
+    ],
+    [
+      "A",
+      "P",
+      "P",
+      "R",
+      "E",
+      "C",
+      "I",
+      "A",
+      "T",
+      "E"
+    ],
+    [
+      "T",
+      "H",
+      "A",
+      "N",
+      "K",
+      "S",
+      "P",
+      "S",
+      "H",
+      "O"
+    ],
+    [
+      "M",
+      "A",
+      "G",
+      "R",
+      "A",
+      "T",
+      "E",
+      "F",
+      "U",
+      "L"
+    ],
+    [
+      "T",
+      "H",
+      "A",
+      "N",
+      "K",
+      "F",
+      "U",
+      "L",
+      "X",
+      "C"
+    ],
+    [
+      "R",
+      "E",
+      "S",
+      "T",
+      "M",
+      "Y",
+      "C",
+      "O",
+      "J",
+      "W"
+    ],
+    [
+      "F",
+      "B",
+      "K",
+      "P",
+      "I",
+      "S",
+      "M",
+      "I",
+      "L",
+      "E"
+    ],
+    [
+      "J",
+      "E",
+      "N",
+      "E",
+      "V",
+      "E",
+      "N",
+      "I",
+      "N",
+      "G"
+    ],
+    [
+      "A",
+      "M",
+      "E",
+      "M",
+      "O",
+      "R",
+      "Y",
+      "T",
+      "A",
+      "H"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "APPRECIATE",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BLESSING",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "GRATEFUL",
+      "row": 4,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "THANKFUL",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "EVENING",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "MEMORY",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "THANKS",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SMILE",
+      "row": 7,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "VISIT",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "REST",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9276
+}

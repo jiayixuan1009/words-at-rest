@@ -1,0 +1,208 @@
+{
+  "id": "mythology-easy-03",
+  "slug": "mythology-easy-03",
+  "themeId": "mythology",
+  "title": "Mythology: Soft Path",
+  "primaryKeyword": "mythology word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "DEMETER",
+    "FATE",
+    "HERMES",
+    "JOY",
+    "MYTH",
+    "ODYSSEY",
+    "OFFERING",
+    "SHIELD",
+    "TALE",
+    "VERSE"
+  ],
+  "grid": [
+    [
+      "K",
+      "B",
+      "M",
+      "O",
+      "Z",
+      "W",
+      "F",
+      "A",
+      "T",
+      "E"
+    ],
+    [
+      "G",
+      "T",
+      "M",
+      "F",
+      "S",
+      "H",
+      "I",
+      "E",
+      "L",
+      "D"
+    ],
+    [
+      "J",
+      "A",
+      "Y",
+      "F",
+      "O",
+      "T",
+      "M",
+      "D",
+      "C",
+      "X"
+    ],
+    [
+      "Y",
+      "L",
+      "T",
+      "E",
+      "D",
+      "I",
+      "J",
+      "E",
+      "J",
+      "T"
+    ],
+    [
+      "L",
+      "E",
+      "H",
+      "R",
+      "Y",
+      "V",
+      "X",
+      "M",
+      "I",
+      "P"
+    ],
+    [
+      "N",
+      "E",
+      "G",
+      "I",
+      "S",
+      "F",
+      "P",
+      "E",
+      "P",
+      "Q"
+    ],
+    [
+      "D",
+      "Z",
+      "L",
+      "N",
+      "S",
+      "Z",
+      "X",
+      "T",
+      "S",
+      "X"
+    ],
+    [
+      "K",
+      "I",
+      "Q",
+      "G",
+      "E",
+      "P",
+      "O",
+      "E",
+      "Y",
+      "X"
+    ],
+    [
+      "E",
+      "Z",
+      "J",
+      "O",
+      "Y",
+      "V",
+      "E",
+      "R",
+      "S",
+      "E"
+    ],
+    [
+      "C",
+      "U",
+      "L",
+      "F",
+      "H",
+      "E",
+      "R",
+      "M",
+      "E",
+      "S"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "OFFERING",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "ODYSSEY",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "DEMETER",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SHIELD",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "HERMES",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "VERSE",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "FATE",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "MYTH",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "TALE",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "JOY",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9318
+}

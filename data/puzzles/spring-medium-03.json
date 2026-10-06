@@ -1,0 +1,284 @@
+{
+  "id": "spring-medium-03",
+  "slug": "spring-medium-03",
+  "themeId": "spring",
+  "title": "Spring: Nested Calm",
+  "primaryKeyword": "spring word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BLOOM",
+    "CHICK",
+    "DAYLIGHT",
+    "DEW",
+    "FRESH",
+    "HONEY",
+    "LAMB",
+    "LIGHT",
+    "MIST",
+    "OPEN",
+    "ROBIN",
+    "SPROUT",
+    "SUNLIGHT",
+    "WILLOW"
+  ],
+  "grid": [
+    [
+      "N",
+      "V",
+      "F",
+      "O",
+      "Y",
+      "H",
+      "M",
+      "B",
+      "A",
+      "E",
+      "T",
+      "N"
+    ],
+    [
+      "W",
+      "G",
+      "B",
+      "R",
+      "O",
+      "B",
+      "I",
+      "N",
+      "Y",
+      "E",
+      "Y",
+      "W"
+    ],
+    [
+      "H",
+      "O",
+      "S",
+      "H",
+      "F",
+      "R",
+      "E",
+      "S",
+      "H",
+      "L",
+      "L",
+      "X"
+    ],
+    [
+      "O",
+      "H",
+      "U",
+      "J",
+      "D",
+      "A",
+      "Y",
+      "L",
+      "I",
+      "G",
+      "H",
+      "T"
+    ],
+    [
+      "N",
+      "Q",
+      "N",
+      "V",
+      "C",
+      "U",
+      "S",
+      "C",
+      "C",
+      "O",
+      "S",
+      "A"
+    ],
+    [
+      "E",
+      "A",
+      "L",
+      "B",
+      "H",
+      "W",
+      "I",
+      "L",
+      "L",
+      "O",
+      "W",
+      "F"
+    ],
+    [
+      "Y",
+      "W",
+      "I",
+      "L",
+      "I",
+      "M",
+      "X",
+      "E",
+      "N",
+      "K",
+      "T",
+      "W"
+    ],
+    [
+      "B",
+      "S",
+      "G",
+      "O",
+      "C",
+      "O",
+      "I",
+      "E",
+      "F",
+      "H",
+      "E",
+      "B"
+    ],
+    [
+      "F",
+      "P",
+      "H",
+      "O",
+      "K",
+      "X",
+      "P",
+      "S",
+      "G",
+      "D",
+      "M",
+      "A"
+    ],
+    [
+      "T",
+      "D",
+      "T",
+      "M",
+      "G",
+      "O",
+      "Z",
+      "I",
+      "T",
+      "A",
+      "M",
+      "R"
+    ],
+    [
+      "L",
+      "B",
+      "J",
+      "W",
+      "Z",
+      "M",
+      "L",
+      "D",
+      "L",
+      "U",
+      "N",
+      "B"
+    ],
+    [
+      "I",
+      "S",
+      "P",
+      "R",
+      "O",
+      "U",
+      "T",
+      "F",
+      "M",
+      "A",
+      "Q",
+      "X"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "DAYLIGHT",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SUNLIGHT",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "WILLOW",
+      "row": 5,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SPROUT",
+      "row": 11,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "LIGHT",
+      "row": 10,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "CHICK",
+      "row": 4,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "FRESH",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BLOOM",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "ROBIN",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "HONEY",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "LAMB",
+      "row": 10,
+      "col": 8,
+      "direction": "NE"
+    },
+    {
+      "word": "OPEN",
+      "row": 9,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "MIST",
+      "row": 6,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "DEW",
+      "row": 8,
+      "col": 9,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9341
+}

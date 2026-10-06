@@ -1,0 +1,284 @@
+{
+  "id": "kitchen-medium-03",
+  "slug": "kitchen-medium-03",
+  "themeId": "kitchen",
+  "title": "Kitchen: Harbor Light",
+  "primaryKeyword": "kitchen word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BAKE",
+    "BAKING",
+    "BOARD",
+    "BOWL",
+    "COLANDER",
+    "MUG",
+    "PIN",
+    "RECIPE",
+    "SERVE",
+    "SIMMER",
+    "STEAM",
+    "STOVE",
+    "TIMER",
+    "TONGS"
+  ],
+  "grid": [
+    [
+      "S",
+      "E",
+      "R",
+      "V",
+      "E",
+      "O",
+      "A",
+      "K",
+      "B",
+      "J",
+      "D",
+      "F"
+    ],
+    [
+      "B",
+      "R",
+      "T",
+      "I",
+      "M",
+      "E",
+      "R",
+      "X",
+      "O",
+      "M",
+      "E",
+      "H"
+    ],
+    [
+      "P",
+      "P",
+      "X",
+      "F",
+      "P",
+      "M",
+      "U",
+      "G",
+      "A",
+      "M",
+      "H",
+      "I"
+    ],
+    [
+      "I",
+      "U",
+      "R",
+      "E",
+      "C",
+      "I",
+      "P",
+      "E",
+      "R",
+      "I",
+      "C",
+      "M"
+    ],
+    [
+      "N",
+      "E",
+      "S",
+      "R",
+      "O",
+      "Y",
+      "T",
+      "O",
+      "D",
+      "S",
+      "K",
+      "C"
+    ],
+    [
+      "U",
+      "Y",
+      "U",
+      "A",
+      "L",
+      "S",
+      "T",
+      "O",
+      "V",
+      "E",
+      "R",
+      "X"
+    ],
+    [
+      "B",
+      "H",
+      "W",
+      "B",
+      "A",
+      "V",
+      "A",
+      "Y",
+      "D",
+      "E",
+      "L",
+      "M"
+    ],
+    [
+      "A",
+      "A",
+      "X",
+      "M",
+      "N",
+      "Q",
+      "Y",
+      "H",
+      "M",
+      "O",
+      "N",
+      "X"
+    ],
+    [
+      "K",
+      "U",
+      "K",
+      "S",
+      "D",
+      "P",
+      "V",
+      "M",
+      "Q",
+      "B",
+      "W",
+      "N"
+    ],
+    [
+      "I",
+      "Z",
+      "P",
+      "E",
+      "E",
+      "R",
+      "I",
+      "F",
+      "L",
+      "O",
+      "K",
+      "T"
+    ],
+    [
+      "N",
+      "I",
+      "S",
+      "O",
+      "R",
+      "S",
+      "T",
+      "Y",
+      "C",
+      "W",
+      "Q",
+      "R"
+    ],
+    [
+      "G",
+      "A",
+      "U",
+      "L",
+      "T",
+      "O",
+      "N",
+      "G",
+      "S",
+      "L",
+      "A",
+      "U"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "COLANDER",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "BAKING",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SIMMER",
+      "row": 10,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "RECIPE",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "TONGS",
+      "row": 11,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "TIMER",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BOARD",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "STEAM",
+      "row": 5,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "SERVE",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "STOVE",
+      "row": 5,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "BAKE",
+      "row": 6,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "BOWL",
+      "row": 8,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "PIN",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "MUG",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9301
+}

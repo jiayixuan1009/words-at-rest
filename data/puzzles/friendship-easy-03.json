@@ -1,0 +1,208 @@
+{
+  "id": "friendship-easy-03",
+  "slug": "friendship-easy-03",
+  "themeId": "friendship",
+  "title": "Friendship: Calm Desk",
+  "primaryKeyword": "friendship word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BOND",
+    "CALL",
+    "CARD",
+    "CARE",
+    "HELP",
+    "LISTEN",
+    "NEIGHBOR",
+    "SHARE",
+    "TABLE",
+    "WALK"
+  ],
+  "grid": [
+    [
+      "A",
+      "T",
+      "E",
+      "Y",
+      "U",
+      "B",
+      "B",
+      "C",
+      "S",
+      "V"
+    ],
+    [
+      "W",
+      "A",
+      "F",
+      "Q",
+      "A",
+      "O",
+      "S",
+      "A",
+      "N",
+      "N"
+    ],
+    [
+      "A",
+      "B",
+      "C",
+      "G",
+      "O",
+      "N",
+      "H",
+      "R",
+      "O",
+      "J"
+    ],
+    [
+      "L",
+      "L",
+      "L",
+      "T",
+      "Y",
+      "D",
+      "A",
+      "E",
+      "T",
+      "T"
+    ],
+    [
+      "K",
+      "E",
+      "I",
+      "C",
+      "R",
+      "C",
+      "R",
+      "C",
+      "K",
+      "N"
+    ],
+    [
+      "U",
+      "B",
+      "S",
+      "T",
+      "V",
+      "A",
+      "E",
+      "A",
+      "K",
+      "S"
+    ],
+    [
+      "C",
+      "Q",
+      "T",
+      "B",
+      "C",
+      "L",
+      "P",
+      "R",
+      "U",
+      "J"
+    ],
+    [
+      "A",
+      "Y",
+      "E",
+      "K",
+      "M",
+      "L",
+      "U",
+      "D",
+      "S",
+      "O"
+    ],
+    [
+      "P",
+      "K",
+      "N",
+      "H",
+      "M",
+      "H",
+      "E",
+      "L",
+      "P",
+      "N"
+    ],
+    [
+      "O",
+      "Z",
+      "N",
+      "E",
+      "I",
+      "G",
+      "H",
+      "B",
+      "O",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "NEIGHBOR",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "LISTEN",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "SHARE",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "TABLE",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "HELP",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "WALK",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BOND",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "CALL",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "CARD",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "CARE",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 9266
+}
