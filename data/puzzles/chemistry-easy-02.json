@@ -1,0 +1,208 @@
+{
+  "id": "chemistry-easy-02",
+  "slug": "chemistry-easy-02",
+  "themeId": "chemistry",
+  "title": "Chemistry: Quiet Bond",
+  "primaryKeyword": "chemistry word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BOIL",
+    "COOL",
+    "HEAT",
+    "LAB",
+    "MELT",
+    "METAL",
+    "MIX",
+    "OXIDE",
+    "SCALE",
+    "TUBE"
+  ],
+  "grid": [
+    [
+      "N",
+      "Z",
+      "R",
+      "S",
+      "M",
+      "E",
+      "L",
+      "T",
+      "T",
+      "V"
+    ],
+    [
+      "P",
+      "R",
+      "R",
+      "E",
+      "A",
+      "H",
+      "A",
+      "W",
+      "L",
+      "K"
+    ],
+    [
+      "N",
+      "W",
+      "M",
+      "J",
+      "W",
+      "X",
+      "B",
+      "J",
+      "W",
+      "E"
+    ],
+    [
+      "J",
+      "Y",
+      "E",
+      "E",
+      "Q",
+      "I",
+      "R",
+      "O",
+      "K",
+      "D"
+    ],
+    [
+      "P",
+      "C",
+      "T",
+      "H",
+      "Q",
+      "C",
+      "B",
+      "X",
+      "R",
+      "C"
+    ],
+    [
+      "S",
+      "C",
+      "A",
+      "L",
+      "E",
+      "B",
+      "O",
+      "I",
+      "L",
+      "S"
+    ],
+    [
+      "P",
+      "N",
+      "L",
+      "Y",
+      "G",
+      "B",
+      "W",
+      "D",
+      "C",
+      "O"
+    ],
+    [
+      "T",
+      "N",
+      "B",
+      "O",
+      "M",
+      "W",
+      "L",
+      "E",
+      "B",
+      "Z"
+    ],
+    [
+      "C",
+      "O",
+      "O",
+      "L",
+      "I",
+      "H",
+      "E",
+      "A",
+      "T",
+      "L"
+    ],
+    [
+      "A",
+      "U",
+      "R",
+      "A",
+      "X",
+      "T",
+      "U",
+      "B",
+      "E",
+      "P"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "METAL",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "OXIDE",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SCALE",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "HEAT",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "COOL",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BOIL",
+      "row": 5,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "MELT",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "TUBE",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "LAB",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "MIX",
+      "row": 7,
+      "col": 4,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8492
+}

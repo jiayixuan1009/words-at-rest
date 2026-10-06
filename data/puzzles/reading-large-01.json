@@ -1,0 +1,173 @@
+{
+  "id": "reading-large-01",
+  "slug": "reading-large-01",
+  "themeId": "reading",
+  "title": "Large Print Reading: Soft Book",
+  "primaryKeyword": "large print reading word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BOOK",
+    "LAMP",
+    "PAGE",
+    "POEM",
+    "QUIET",
+    "SHELF",
+    "STORY",
+    "TEA"
+  ],
+  "grid": [
+    [
+      "P",
+      "T",
+      "E",
+      "A",
+      "W",
+      "T",
+      "S",
+      "N",
+      "J"
+    ],
+    [
+      "O",
+      "S",
+      "K",
+      "N",
+      "N",
+      "X",
+      "T",
+      "P",
+      "S"
+    ],
+    [
+      "E",
+      "E",
+      "X",
+      "M",
+      "K",
+      "C",
+      "O",
+      "S",
+      "L"
+    ],
+    [
+      "M",
+      "B",
+      "T",
+      "N",
+      "X",
+      "B",
+      "R",
+      "H",
+      "X"
+    ],
+    [
+      "Q",
+      "X",
+      "L",
+      "N",
+      "N",
+      "O",
+      "Y",
+      "E",
+      "A"
+    ],
+    [
+      "U",
+      "L",
+      "J",
+      "F",
+      "Q",
+      "O",
+      "E",
+      "L",
+      "X"
+    ],
+    [
+      "I",
+      "A",
+      "P",
+      "K",
+      "L",
+      "K",
+      "M",
+      "F",
+      "Y"
+    ],
+    [
+      "E",
+      "M",
+      "P",
+      "A",
+      "G",
+      "E",
+      "R",
+      "F",
+      "W"
+    ],
+    [
+      "T",
+      "P",
+      "A",
+      "K",
+      "T",
+      "E",
+      "L",
+      "O",
+      "V"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "STORY",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "SHELF",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "QUIET",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BOOK",
+      "row": 3,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "PAGE",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "POEM",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "LAMP",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "TEA",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8456
+}

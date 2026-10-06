@@ -1,0 +1,208 @@
+{
+  "id": "knitting-easy-02",
+  "slug": "knitting-easy-02",
+  "themeId": "knitting",
+  "title": "Knitting: Quiet Stitch",
+  "primaryKeyword": "knitting word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BAG",
+    "CABLE",
+    "CAST",
+    "CRAFT",
+    "NEEDLE",
+    "QUIET",
+    "RIB",
+    "SCARF",
+    "SHAWL",
+    "STITCH"
+  ],
+  "grid": [
+    [
+      "T",
+      "L",
+      "L",
+      "B",
+      "C",
+      "A",
+      "S",
+      "T",
+      "M",
+      "R"
+    ],
+    [
+      "Y",
+      "Z",
+      "I",
+      "T",
+      "E",
+      "Q",
+      "U",
+      "I",
+      "E",
+      "T"
+    ],
+    [
+      "R",
+      "I",
+      "B",
+      "W",
+      "I",
+      "J",
+      "X",
+      "I",
+      "Z",
+      "Y"
+    ],
+    [
+      "Z",
+      "S",
+      "Q",
+      "N",
+      "E",
+      "E",
+      "D",
+      "L",
+      "E",
+      "A"
+    ],
+    [
+      "I",
+      "T",
+      "C",
+      "H",
+      "L",
+      "S",
+      "B",
+      "O",
+      "P",
+      "S"
+    ],
+    [
+      "S",
+      "I",
+      "A",
+      "E",
+      "C",
+      "C",
+      "K",
+      "X",
+      "P",
+      "J"
+    ],
+    [
+      "L",
+      "T",
+      "B",
+      "B",
+      "R",
+      "A",
+      "L",
+      "B",
+      "A",
+      "G"
+    ],
+    [
+      "O",
+      "C",
+      "L",
+      "X",
+      "A",
+      "R",
+      "X",
+      "W",
+      "G",
+      "B"
+    ],
+    [
+      "X",
+      "H",
+      "E",
+      "B",
+      "F",
+      "F",
+      "Q",
+      "I",
+      "C",
+      "L"
+    ],
+    [
+      "A",
+      "K",
+      "W",
+      "Y",
+      "T",
+      "S",
+      "H",
+      "A",
+      "W",
+      "L"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "NEEDLE",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "STITCH",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "CABLE",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "SCARF",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "SHAWL",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "QUIET",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "CRAFT",
+      "row": 5,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "CAST",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "RIB",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BAG",
+      "row": 6,
+      "col": 7,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8442
+}

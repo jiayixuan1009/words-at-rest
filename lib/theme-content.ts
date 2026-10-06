@@ -508,6 +508,111 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
       "A practical evergreen for adults; keep claims non-advisory.",
     tip: "Long words such as TRANSFER and INTEREST are easier than TAX or TIP.",
   },
+  countries: {
+    vocabulary:
+      "Familiar nation names in everyday English — no campaign brands.",
+    goodFor:
+      "Adults who like calm world geography.",
+    tip: "Long names such as AUSTRALIA and THAILAND stand out; leave short ones like PERU for edges.",
+  },
+  continents: {
+    vocabulary:
+      "The seven continents plus related geography English.",
+    goodFor:
+      "A map-minded evergreen for adults and seniors.",
+    tip: "Long words like ANTARCTICA and HEMISPHERE anchor harder grids.",
+  },
+  cities: {
+    vocabulary:
+      "Familiar city names worldwide — not obscure trivia.",
+    goodFor:
+      "Armchair travellers refreshing place names.",
+    tip: "Long names such as MELBOURNE and VANCOUVER are easier than ROME or LIMA.",
+  },
+  knitting: {
+    vocabulary:
+      "Yarn and needle English — stitch, purl, scarf — no yarn brands.",
+    goodFor:
+      "A calm craft theme for quiet evenings.",
+    tip: "Long words like STOCKINETTE and SWEATER stand out first.",
+  },
+  reading: {
+    vocabulary:
+      "Book and library English — page, chapter, shelf — no publisher brands.",
+    goodFor:
+      "Lifelong readers and quiet lamp-side solvers.",
+    tip: "Long words such as LIBRARY and EPILOGUE anchor the hard grid.",
+  },
+  painting: {
+    vocabulary:
+      "Studio English — brush, canvas, palette — no gallery brands.",
+    goodFor:
+      "Adults who like art vocabulary without jargon overload.",
+    tip: "Long words like WATERCOLOR and PORTRAIT jump out quickly.",
+  },
+  birthday: {
+    vocabulary:
+      "Calm adult party English — cake, candle, wish — no licensed characters.",
+    goodFor:
+      "A gentle celebration theme year-round.",
+    tip: "Long words such as BIRTHDAY and SURPRISE stand out; leave CAKE for edges.",
+  },
+  wedding: {
+    vocabulary:
+      "Ceremony English — vow, aisle, bouquet — no venue brands.",
+    goodFor:
+      "Adults who want a soft celebration list.",
+    tip: "Long words like BOUQUET and LICENSE are easier than VOW or RING.",
+  },
+  chemistry: {
+    vocabulary:
+      "Classroom science English — atom, bond, flask — no product brands.",
+    goodFor:
+      "Curious adults; not medical or safety advice.",
+    tip: "Long words such as HYDROGEN and MOLECULE anchor harder grids.",
+  },
+  mythology: {
+    vocabulary:
+      "Generic myth and tale English — hero, oracle, epic — no film franchises.",
+    goodFor:
+      "Readers of classic stories who want calm vocabulary.",
+    tip: "Long words like LABYRINTH and POSEIDON stand out first.",
+  },
+  volcanoes: {
+    vocabulary:
+      "Geology English — magma, crater, ash.",
+    goodFor:
+      "Earth-science minded adults.",
+    tip: "Long words such as OBSIDIAN and CALDERA are easier than ASH or HOT.",
+  },
+  forests: {
+    vocabulary:
+      "Woodland English — canopy, moss, trail. Companion to Trees.",
+    goodFor:
+      "Walkers and nature readers.",
+    tip: "Long words like UNDERSTORY and DECIDUOUS anchor the hard grid.",
+  },
+  rivers: {
+    vocabulary:
+      "Flowing-water English — current, delta, bank. Companion to Lakes.",
+    goodFor:
+      "Geography fans who like water themes.",
+    tip: "Long words such as WATERFALL and ESTUARY stand out quickly.",
+  },
+  deserts: {
+    vocabulary:
+      "Arid-land English — dune, oasis, canyon.",
+    goodFor:
+      "Adults who like open-horizon vocabulary.",
+    tip: "Long words like PLATEAU and HORIZON are easier than SUN or DRY.",
+  },
+  museums: {
+    vocabulary:
+      "Gallery and exhibit English — curator, artifact, hall — no chain brands.",
+    goodFor:
+      "Culture-minded adults and quiet visitors.",
+    tip: "Long words such as SCULPTURE and COLLECTION anchor harder grids.",
+  },
   bible: {
     vocabulary:
       "The Bible list is grouped by familiar Scripture vocabulary: books of the Old and New Testaments (Genesis, Exodus, Matthew, Acts), people of the Old Testament (Abraham, Moses, David, Esther), disciples and New Testament figures (Peter, Paul, Lydia, Martha), places named in the text (Jerusalem, Bethlehem, Nazareth, Galilee), and short virtue words drawn from everyday church English — love, joy, peace, faith, hope, grace, mercy and kindness. Names follow common English / King James spellings. There are no verse quotations on the grid, no denominational slogans, and no cartoon characters.",

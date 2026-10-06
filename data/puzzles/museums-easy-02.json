@@ -1,0 +1,208 @@
+{
+  "id": "museums-easy-02",
+  "slug": "museums-easy-02",
+  "themeId": "museums",
+  "title": "Museums: Quiet Label",
+  "primaryKeyword": "museums word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BENCH",
+    "FLOOR",
+    "FRAME",
+    "GUARD",
+    "GUIDE",
+    "LEARN",
+    "LIGHT",
+    "OPEN",
+    "TICKET",
+    "WING"
+  ],
+  "grid": [
+    [
+      "B",
+      "R",
+      "V",
+      "K",
+      "B",
+      "J",
+      "W",
+      "I",
+      "N",
+      "G"
+    ],
+    [
+      "S",
+      "P",
+      "N",
+      "F",
+      "I",
+      "L",
+      "E",
+      "A",
+      "R",
+      "N"
+    ],
+    [
+      "H",
+      "M",
+      "A",
+      "D",
+      "Q",
+      "V",
+      "K",
+      "K",
+      "P",
+      "F"
+    ],
+    [
+      "I",
+      "E",
+      "W",
+      "B",
+      "N",
+      "F",
+      "R",
+      "A",
+      "M",
+      "E"
+    ],
+    [
+      "O",
+      "T",
+      "I",
+      "C",
+      "K",
+      "E",
+      "T",
+      "S",
+      "Z",
+      "W"
+    ],
+    [
+      "P",
+      "V",
+      "L",
+      "I",
+      "G",
+      "H",
+      "T",
+      "B",
+      "U",
+      "F"
+    ],
+    [
+      "E",
+      "Y",
+      "G",
+      "U",
+      "A",
+      "R",
+      "D",
+      "P",
+      "N",
+      "L"
+    ],
+    [
+      "N",
+      "G",
+      "I",
+      "A",
+      "Q",
+      "W",
+      "O",
+      "S",
+      "K",
+      "O"
+    ],
+    [
+      "D",
+      "E",
+      "Z",
+      "M",
+      "B",
+      "E",
+      "N",
+      "C",
+      "H",
+      "O"
+    ],
+    [
+      "G",
+      "U",
+      "I",
+      "D",
+      "E",
+      "G",
+      "J",
+      "X",
+      "B",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TICKET",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "GUIDE",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "GUARD",
+      "row": 6,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "FRAME",
+      "row": 3,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "LIGHT",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "FLOOR",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "BENCH",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "LEARN",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "WING",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "OPEN",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8552
+}

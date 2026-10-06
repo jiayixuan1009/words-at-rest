@@ -1,0 +1,284 @@
+{
+  "id": "museums-medium-02",
+  "slug": "museums-medium-02",
+  "themeId": "museums",
+  "title": "Museums: Curator Desk",
+  "primaryKeyword": "museums word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ARCHIVE",
+    "ARTIFACT",
+    "COLLECTION",
+    "CULTURE",
+    "ERA",
+    "HISTORY",
+    "LIBRARY",
+    "MODEL",
+    "NATURE",
+    "PERIOD",
+    "PHOTO",
+    "QUIET",
+    "SCIENCE",
+    "SKETCH"
+  ],
+  "grid": [
+    [
+      "Z",
+      "I",
+      "Y",
+      "V",
+      "S",
+      "C",
+      "U",
+      "L",
+      "T",
+      "U",
+      "R",
+      "E"
+    ],
+    [
+      "E",
+      "S",
+      "I",
+      "F",
+      "M",
+      "Q",
+      "O",
+      "H",
+      "C",
+      "H",
+      "S",
+      "C"
+    ],
+    [
+      "N",
+      "A",
+      "T",
+      "U",
+      "R",
+      "E",
+      "A",
+      "S",
+      "N",
+      "W",
+      "K",
+      "I"
+    ],
+    [
+      "B",
+      "H",
+      "E",
+      "R",
+      "A",
+      "R",
+      "C",
+      "H",
+      "I",
+      "V",
+      "E",
+      "L"
+    ],
+    [
+      "S",
+      "C",
+      "I",
+      "E",
+      "N",
+      "C",
+      "E",
+      "R",
+      "M",
+      "R",
+      "T",
+      "Q"
+    ],
+    [
+      "A",
+      "R",
+      "T",
+      "I",
+      "F",
+      "A",
+      "C",
+      "T",
+      "G",
+      "M",
+      "C",
+      "U"
+    ],
+    [
+      "C",
+      "O",
+      "L",
+      "L",
+      "E",
+      "C",
+      "T",
+      "I",
+      "O",
+      "N",
+      "H",
+      "I"
+    ],
+    [
+      "C",
+      "M",
+      "M",
+      "S",
+      "H",
+      "I",
+      "S",
+      "T",
+      "O",
+      "R",
+      "Y",
+      "E"
+    ],
+    [
+      "U",
+      "L",
+      "G",
+      "O",
+      "L",
+      "I",
+      "B",
+      "R",
+      "A",
+      "R",
+      "Y",
+      "T"
+    ],
+    [
+      "Q",
+      "X",
+      "X",
+      "E",
+      "D",
+      "V",
+      "P",
+      "H",
+      "O",
+      "T",
+      "O",
+      "Q"
+    ],
+    [
+      "F",
+      "Q",
+      "M",
+      "Z",
+      "Z",
+      "E",
+      "Y",
+      "D",
+      "K",
+      "P",
+      "F",
+      "I"
+    ],
+    [
+      "P",
+      "E",
+      "R",
+      "I",
+      "O",
+      "D",
+      "L",
+      "H",
+      "A",
+      "H",
+      "A",
+      "F"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "COLLECTION",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "ARTIFACT",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "ARCHIVE",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "LIBRARY",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "HISTORY",
+      "row": 7,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SCIENCE",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CULTURE",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "PERIOD",
+      "row": 11,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "NATURE",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SKETCH",
+      "row": 1,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "MODEL",
+      "row": 7,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "QUIET",
+      "row": 4,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "PHOTO",
+      "row": 9,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "ERA",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8554
+}

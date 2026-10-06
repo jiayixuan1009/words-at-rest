@@ -1,0 +1,208 @@
+{
+  "id": "museums-easy-01",
+  "slug": "museums-easy-01",
+  "themeId": "museums",
+  "title": "Museums: Gallery Hall",
+  "primaryKeyword": "museums word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ART",
+    "CASE",
+    "HALL",
+    "LABEL",
+    "LOOK",
+    "MAP",
+    "NOTE",
+    "ROOM",
+    "TOUR",
+    "WALL"
+  ],
+  "grid": [
+    [
+      "H",
+      "O",
+      "U",
+      "L",
+      "J",
+      "O",
+      "L",
+      "O",
+      "O",
+      "K"
+    ],
+    [
+      "A",
+      "B",
+      "L",
+      "W",
+      "N",
+      "N",
+      "Y",
+      "W",
+      "C",
+      "J"
+    ],
+    [
+      "H",
+      "O",
+      "L",
+      "E",
+      "K",
+      "M",
+      "H",
+      "S",
+      "L",
+      "Z"
+    ],
+    [
+      "B",
+      "B",
+      "A",
+      "V",
+      "R",
+      "O",
+      "O",
+      "M",
+      "W",
+      "V"
+    ],
+    [
+      "H",
+      "A",
+      "B",
+      "A",
+      "R",
+      "T",
+      "T",
+      "O",
+      "U",
+      "R"
+    ],
+    [
+      "A",
+      "A",
+      "E",
+      "Y",
+      "T",
+      "W",
+      "C",
+      "M",
+      "A",
+      "P"
+    ],
+    [
+      "L",
+      "T",
+      "L",
+      "J",
+      "C",
+      "A",
+      "S",
+      "E",
+      "Y",
+      "T"
+    ],
+    [
+      "L",
+      "N",
+      "O",
+      "T",
+      "E",
+      "P",
+      "A",
+      "I",
+      "W",
+      "H"
+    ],
+    [
+      "U",
+      "X",
+      "G",
+      "G",
+      "W",
+      "A",
+      "L",
+      "L",
+      "L",
+      "F"
+    ],
+    [
+      "W",
+      "V",
+      "I",
+      "U",
+      "H",
+      "G",
+      "G",
+      "K",
+      "C",
+      "O"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "LABEL",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "HALL",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "ROOM",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CASE",
+      "row": 6,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "TOUR",
+      "row": 4,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "WALL",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "LOOK",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "NOTE",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "ART",
+      "row": 4,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "MAP",
+      "row": 5,
+      "col": 7,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8551
+}

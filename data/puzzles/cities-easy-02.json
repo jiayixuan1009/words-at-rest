@@ -1,0 +1,208 @@
+{
+  "id": "cities-easy-02",
+  "slug": "cities-easy-02",
+  "themeId": "cities",
+  "title": "Cities: Quiet Plaza",
+  "primaryKeyword": "cities word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ATHENS",
+    "AUSTIN",
+    "BERLIN",
+    "CAIRO",
+    "DENVER",
+    "HAVANA",
+    "LAGOS",
+    "LISBON",
+    "LONDON",
+    "MADRID"
+  ],
+  "grid": [
+    [
+      "N",
+      "E",
+      "L",
+      "O",
+      "N",
+      "D",
+      "O",
+      "N",
+      "B",
+      "A"
+    ],
+    [
+      "H",
+      "B",
+      "J",
+      "C",
+      "A",
+      "I",
+      "R",
+      "O",
+      "A",
+      "T"
+    ],
+    [
+      "D",
+      "E",
+      "L",
+      "Z",
+      "P",
+      "M",
+      "Y",
+      "A",
+      "T",
+      "L"
+    ],
+    [
+      "E",
+      "R",
+      "A",
+      "H",
+      "K",
+      "D",
+      "Z",
+      "U",
+      "A",
+      "Q"
+    ],
+    [
+      "N",
+      "L",
+      "G",
+      "A",
+      "L",
+      "M",
+      "B",
+      "S",
+      "T",
+      "Y"
+    ],
+    [
+      "V",
+      "I",
+      "O",
+      "V",
+      "I",
+      "A",
+      "D",
+      "T",
+      "H",
+      "Y"
+    ],
+    [
+      "E",
+      "N",
+      "S",
+      "A",
+      "S",
+      "D",
+      "S",
+      "I",
+      "E",
+      "K"
+    ],
+    [
+      "R",
+      "K",
+      "N",
+      "N",
+      "B",
+      "R",
+      "V",
+      "N",
+      "N",
+      "N"
+    ],
+    [
+      "Q",
+      "Q",
+      "S",
+      "A",
+      "O",
+      "I",
+      "B",
+      "Q",
+      "S",
+      "I"
+    ],
+    [
+      "G",
+      "Y",
+      "G",
+      "Q",
+      "N",
+      "D",
+      "D",
+      "I",
+      "V",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "LONDON",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BERLIN",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "MADRID",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "ATHENS",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "DENVER",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "AUSTIN",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "LISBON",
+      "row": 4,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "HAVANA",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "CAIRO",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "LAGOS",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8432
+}

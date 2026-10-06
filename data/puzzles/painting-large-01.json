@@ -1,0 +1,173 @@
+{
+  "id": "painting-large-01",
+  "slug": "painting-large-01",
+  "themeId": "painting",
+  "title": "Large Print Painting: Soft Brush",
+  "primaryKeyword": "large print painting word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "ART",
+    "BRUSH",
+    "CANVAS",
+    "COLOR",
+    "DRY",
+    "FRAME",
+    "LINE",
+    "PAINT"
+  ],
+  "grid": [
+    [
+      "A",
+      "R",
+      "T",
+      "D",
+      "W",
+      "C",
+      "G",
+      "A",
+      "N"
+    ],
+    [
+      "D",
+      "R",
+      "Y",
+      "P",
+      "A",
+      "I",
+      "N",
+      "T",
+      "B"
+    ],
+    [
+      "L",
+      "I",
+      "N",
+      "E",
+      "G",
+      "B",
+      "Y",
+      "B",
+      "R"
+    ],
+    [
+      "F",
+      "C",
+      "A",
+      "N",
+      "V",
+      "A",
+      "S",
+      "V",
+      "U"
+    ],
+    [
+      "R",
+      "I",
+      "C",
+      "L",
+      "N",
+      "W",
+      "B",
+      "G",
+      "S"
+    ],
+    [
+      "A",
+      "Z",
+      "O",
+      "R",
+      "E",
+      "P",
+      "C",
+      "W",
+      "H"
+    ],
+    [
+      "M",
+      "L",
+      "L",
+      "U",
+      "Q",
+      "A",
+      "Z",
+      "O",
+      "Q"
+    ],
+    [
+      "E",
+      "W",
+      "O",
+      "S",
+      "Y",
+      "L",
+      "O",
+      "X",
+      "B"
+    ],
+    [
+      "P",
+      "C",
+      "R",
+      "Y",
+      "R",
+      "N",
+      "Z",
+      "H",
+      "I"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CANVAS",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PAINT",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BRUSH",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "COLOR",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "FRAME",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "LINE",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "ART",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "DRY",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8466
+}

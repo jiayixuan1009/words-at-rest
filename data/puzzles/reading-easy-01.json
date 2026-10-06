@@ -1,0 +1,208 @@
+{
+  "id": "reading-easy-01",
+  "slug": "reading-easy-01",
+  "themeId": "reading",
+  "title": "Reading: Lamp Page",
+  "primaryKeyword": "reading word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BOOK",
+    "COVER",
+    "INK",
+    "LINE",
+    "PAGE",
+    "POEM",
+    "STORY",
+    "TEA",
+    "TITLE",
+    "WORD"
+  ],
+  "grid": [
+    [
+      "P",
+      "A",
+      "G",
+      "E",
+      "B",
+      "J",
+      "S",
+      "D",
+      "O",
+      "V"
+    ],
+    [
+      "R",
+      "L",
+      "B",
+      "B",
+      "U",
+      "X",
+      "L",
+      "I",
+      "N",
+      "E"
+    ],
+    [
+      "Q",
+      "N",
+      "B",
+      "S",
+      "T",
+      "O",
+      "R",
+      "Y",
+      "F",
+      "E"
+    ],
+    [
+      "Z",
+      "C",
+      "O",
+      "N",
+      "G",
+      "C",
+      "C",
+      "K",
+      "J",
+      "X"
+    ],
+    [
+      "K",
+      "J",
+      "O",
+      "D",
+      "W",
+      "W",
+      "O",
+      "R",
+      "D",
+      "R"
+    ],
+    [
+      "P",
+      "W",
+      "K",
+      "A",
+      "A",
+      "T",
+      "V",
+      "Z",
+      "M",
+      "R"
+    ],
+    [
+      "E",
+      "T",
+      "I",
+      "T",
+      "L",
+      "E",
+      "E",
+      "V",
+      "Y",
+      "S"
+    ],
+    [
+      "I",
+      "Y",
+      "P",
+      "T",
+      "X",
+      "Q",
+      "R",
+      "Y",
+      "W",
+      "M"
+    ],
+    [
+      "M",
+      "N",
+      "V",
+      "E",
+      "Z",
+      "P",
+      "O",
+      "E",
+      "M",
+      "Q"
+    ],
+    [
+      "T",
+      "H",
+      "C",
+      "A",
+      "Z",
+      "B",
+      "A",
+      "I",
+      "N",
+      "K"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "STORY",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "TITLE",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "COVER",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "BOOK",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "PAGE",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "LINE",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "WORD",
+      "row": 4,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "POEM",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "INK",
+      "row": 9,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "TEA",
+      "row": 7,
+      "col": 3,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8451
+}

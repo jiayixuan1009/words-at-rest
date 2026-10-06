@@ -1,0 +1,284 @@
+{
+  "id": "chemistry-medium-02",
+  "slug": "chemistry-medium-02",
+  "themeId": "chemistry",
+  "title": "Chemistry: Formula Desk",
+  "primaryKeyword": "chemistry word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BEAKER",
+    "BURNER",
+    "CRYSTAL",
+    "FILTER",
+    "FLASK",
+    "FORMULA",
+    "FREEZE",
+    "LIQUID",
+    "NITROGEN",
+    "PERIODIC",
+    "POWDER",
+    "STEAM",
+    "TABLE",
+    "VALENCE"
+  ],
+  "grid": [
+    [
+      "N",
+      "I",
+      "O",
+      "V",
+      "F",
+      "R",
+      "E",
+      "E",
+      "Z",
+      "E",
+      "T",
+      "D"
+    ],
+    [
+      "P",
+      "G",
+      "B",
+      "P",
+      "T",
+      "C",
+      "J",
+      "S",
+      "O",
+      "C",
+      "A",
+      "V"
+    ],
+    [
+      "O",
+      "H",
+      "U",
+      "G",
+      "C",
+      "R",
+      "X",
+      "F",
+      "Q",
+      "U",
+      "B",
+      "F"
+    ],
+    [
+      "W",
+      "F",
+      "R",
+      "P",
+      "Y",
+      "Y",
+      "O",
+      "I",
+      "T",
+      "U",
+      "L",
+      "O"
+    ],
+    [
+      "D",
+      "L",
+      "N",
+      "W",
+      "Q",
+      "S",
+      "M",
+      "L",
+      "X",
+      "M",
+      "E",
+      "R"
+    ],
+    [
+      "E",
+      "A",
+      "E",
+      "A",
+      "X",
+      "T",
+      "Q",
+      "T",
+      "T",
+      "E",
+      "D",
+      "M"
+    ],
+    [
+      "R",
+      "S",
+      "R",
+      "Y",
+      "V",
+      "A",
+      "L",
+      "E",
+      "N",
+      "C",
+      "E",
+      "U"
+    ],
+    [
+      "V",
+      "K",
+      "Z",
+      "I",
+      "M",
+      "L",
+      "M",
+      "R",
+      "Y",
+      "U",
+      "U",
+      "L"
+    ],
+    [
+      "B",
+      "E",
+      "A",
+      "K",
+      "E",
+      "R",
+      "Z",
+      "S",
+      "T",
+      "B",
+      "W",
+      "A"
+    ],
+    [
+      "E",
+      "N",
+      "I",
+      "T",
+      "R",
+      "O",
+      "G",
+      "E",
+      "N",
+      "M",
+      "R",
+      "K"
+    ],
+    [
+      "T",
+      "L",
+      "I",
+      "Q",
+      "U",
+      "I",
+      "D",
+      "S",
+      "T",
+      "E",
+      "A",
+      "M"
+    ],
+    [
+      "S",
+      "X",
+      "P",
+      "E",
+      "R",
+      "I",
+      "O",
+      "D",
+      "I",
+      "C",
+      "G",
+      "Z"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "NITROGEN",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PERIODIC",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CRYSTAL",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "FORMULA",
+      "row": 2,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "VALENCE",
+      "row": 6,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BEAKER",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BURNER",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "FILTER",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "POWDER",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "FREEZE",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "LIQUID",
+      "row": 10,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "FLASK",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "STEAM",
+      "row": 10,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "TABLE",
+      "row": 0,
+      "col": 10,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8494
+}

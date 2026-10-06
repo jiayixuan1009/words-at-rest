@@ -1,0 +1,208 @@
+{
+  "id": "mythology-easy-01",
+  "slug": "mythology-easy-01",
+  "themeId": "mythology",
+  "title": "Mythology: Quiet Myth",
+  "primaryKeyword": "mythology word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CROWN",
+    "EPIC",
+    "FATE",
+    "HERO",
+    "MUSE",
+    "MYTH",
+    "OMEN",
+    "QUEST",
+    "TALE",
+    "TEMPLE"
+  ],
+  "grid": [
+    [
+      "F",
+      "W",
+      "O",
+      "M",
+      "E",
+      "N",
+      "P",
+      "V",
+      "V",
+      "M"
+    ],
+    [
+      "A",
+      "M",
+      "I",
+      "T",
+      "P",
+      "Y",
+      "M",
+      "F",
+      "H",
+      "C"
+    ],
+    [
+      "T",
+      "U",
+      "P",
+      "E",
+      "I",
+      "T",
+      "Y",
+      "X",
+      "H",
+      "R"
+    ],
+    [
+      "E",
+      "S",
+      "K",
+      "M",
+      "C",
+      "S",
+      "T",
+      "W",
+      "S",
+      "O"
+    ],
+    [
+      "J",
+      "E",
+      "G",
+      "P",
+      "R",
+      "Z",
+      "H",
+      "Q",
+      "I",
+      "W"
+    ],
+    [
+      "X",
+      "W",
+      "B",
+      "L",
+      "R",
+      "B",
+      "B",
+      "W",
+      "M",
+      "N"
+    ],
+    [
+      "Q",
+      "F",
+      "T",
+      "E",
+      "T",
+      "A",
+      "L",
+      "E",
+      "O",
+      "R"
+    ],
+    [
+      "J",
+      "B",
+      "O",
+      "E",
+      "D",
+      "Z",
+      "Y",
+      "O",
+      "Y",
+      "R"
+    ],
+    [
+      "N",
+      "N",
+      "L",
+      "U",
+      "Q",
+      "U",
+      "E",
+      "S",
+      "T",
+      "N"
+    ],
+    [
+      "V",
+      "H",
+      "E",
+      "R",
+      "O",
+      "D",
+      "Q",
+      "W",
+      "U",
+      "U"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TEMPLE",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "QUEST",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CROWN",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "MYTH",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "TALE",
+      "row": 6,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "HERO",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "MUSE",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "FATE",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "OMEN",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "EPIC",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8501
+}

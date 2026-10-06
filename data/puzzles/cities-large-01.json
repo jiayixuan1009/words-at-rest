@@ -1,0 +1,173 @@
+{
+  "id": "cities-large-01",
+  "slug": "cities-large-01",
+  "themeId": "cities",
+  "title": "Large Print Cities: Soft Town",
+  "primaryKeyword": "large print cities word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "CITY",
+    "KYIV",
+    "LIMA",
+    "MIAMI",
+    "PARIS",
+    "ROME",
+    "TOKYO",
+    "TOWN"
+  ],
+  "grid": [
+    [
+      "V",
+      "T",
+      "I",
+      "L",
+      "I",
+      "M",
+      "A",
+      "C",
+      "N"
+    ],
+    [
+      "G",
+      "D",
+      "G",
+      "N",
+      "E",
+      "G",
+      "S",
+      "F",
+      "Z"
+    ],
+    [
+      "H",
+      "V",
+      "Y",
+      "H",
+      "Z",
+      "T",
+      "Z",
+      "Y",
+      "Z"
+    ],
+    [
+      "T",
+      "O",
+      "K",
+      "Y",
+      "O",
+      "B",
+      "D",
+      "P",
+      "D"
+    ],
+    [
+      "T",
+      "O",
+      "W",
+      "N",
+      "D",
+      "W",
+      "R",
+      "P",
+      "T"
+    ],
+    [
+      "C",
+      "P",
+      "A",
+      "R",
+      "I",
+      "S",
+      "O",
+      "K",
+      "V"
+    ],
+    [
+      "I",
+      "K",
+      "Y",
+      "I",
+      "V",
+      "F",
+      "M",
+      "H",
+      "R"
+    ],
+    [
+      "T",
+      "Z",
+      "T",
+      "X",
+      "U",
+      "O",
+      "E",
+      "W",
+      "M"
+    ],
+    [
+      "Y",
+      "E",
+      "M",
+      "W",
+      "M",
+      "I",
+      "A",
+      "M",
+      "I"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PARIS",
+      "row": 5,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TOKYO",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "MIAMI",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "ROME",
+      "row": 4,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "LIMA",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "KYIV",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CITY",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "TOWN",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8436
+}

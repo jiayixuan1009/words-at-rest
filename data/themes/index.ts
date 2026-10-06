@@ -76,6 +76,21 @@ import reptiles from "./reptiles.json";
 import cooking from "./cooking.json";
 import shopping from "./shopping.json";
 import money from "./money.json";
+import countries from "./countries.json";
+import continents from "./continents.json";
+import cities from "./cities.json";
+import knitting from "./knitting.json";
+import reading from "./reading.json";
+import painting from "./painting.json";
+import birthday from "./birthday.json";
+import wedding from "./wedding.json";
+import chemistry from "./chemistry.json";
+import mythology from "./mythology.json";
+import volcanoes from "./volcanoes.json";
+import forests from "./forests.json";
+import rivers from "./rivers.json";
+import deserts from "./deserts.json";
+import museums from "./museums.json";
 
 /** Theme order: seasonal first, then evergreen, then packs. */
 export const themes = [
@@ -154,6 +169,21 @@ export const themes = [
   cooking,
   shopping,
   money,
+  countries,
+  continents,
+  cities,
+  knitting,
+  reading,
+  painting,
+  birthday,
+  wedding,
+  chemistry,
+  mythology,
+  volcanoes,
+  forests,
+  rivers,
+  deserts,
+  museums,
   largePrintPack,
   hardPack,
 ] as Theme[];

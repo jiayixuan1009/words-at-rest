@@ -1,0 +1,277 @@
+{
+  "id": "cities-medium-01",
+  "slug": "cities-medium-01",
+  "themeId": "cities",
+  "title": "Cities: Harbor Town",
+  "primaryKeyword": "cities word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ATLANTA",
+    "BANGKOK",
+    "CHICAGO",
+    "DALLAS",
+    "HOUSTON",
+    "PHOENIX",
+    "PORTLAND",
+    "PRAGUE",
+    "SEATTLE",
+    "SYDNEY",
+    "TORONTO",
+    "VIENNA",
+    "WARSAW"
+  ],
+  "grid": [
+    [
+      "D",
+      "C",
+      "H",
+      "I",
+      "C",
+      "A",
+      "G",
+      "O",
+      "Z",
+      "V",
+      "V",
+      "I"
+    ],
+    [
+      "A",
+      "X",
+      "U",
+      "T",
+      "S",
+      "E",
+      "A",
+      "T",
+      "T",
+      "L",
+      "E",
+      "R"
+    ],
+    [
+      "L",
+      "J",
+      "N",
+      "B",
+      "H",
+      "O",
+      "U",
+      "S",
+      "T",
+      "O",
+      "N",
+      "Q"
+    ],
+    [
+      "L",
+      "Q",
+      "P",
+      "J",
+      "V",
+      "I",
+      "E",
+      "N",
+      "N",
+      "A",
+      "H",
+      "E"
+    ],
+    [
+      "A",
+      "W",
+      "F",
+      "O",
+      "P",
+      "R",
+      "A",
+      "G",
+      "U",
+      "E",
+      "T",
+      "G"
+    ],
+    [
+      "S",
+      "P",
+      "A",
+      "F",
+      "R",
+      "A",
+      "C",
+      "E",
+      "Y",
+      "Z",
+      "O",
+      "B"
+    ],
+    [
+      "A",
+      "S",
+      "H",
+      "R",
+      "I",
+      "T",
+      "H",
+      "B",
+      "I",
+      "E",
+      "R",
+      "A"
+    ],
+    [
+      "K",
+      "Y",
+      "W",
+      "O",
+      "S",
+      "L",
+      "L",
+      "Z",
+      "B",
+      "B",
+      "O",
+      "N"
+    ],
+    [
+      "B",
+      "D",
+      "R",
+      "D",
+      "E",
+      "A",
+      "R",
+      "A",
+      "R",
+      "P",
+      "N",
+      "G"
+    ],
+    [
+      "L",
+      "N",
+      "O",
+      "K",
+      "I",
+      "N",
+      "W",
+      "V",
+      "N",
+      "M",
+      "T",
+      "K"
+    ],
+    [
+      "Z",
+      "E",
+      "E",
+      "H",
+      "F",
+      "T",
+      "I",
+      "H",
+      "X",
+      "D",
+      "O",
+      "O"
+    ],
+    [
+      "B",
+      "Y",
+      "Q",
+      "Y",
+      "T",
+      "A",
+      "C",
+      "X",
+      "F",
+      "Q",
+      "L",
+      "K"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PORTLAND",
+      "row": 3,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "BANGKOK",
+      "row": 5,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "TORONTO",
+      "row": 4,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "CHICAGO",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SEATTLE",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "HOUSTON",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "ATLANTA",
+      "row": 5,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "PHOENIX",
+      "row": 5,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "SYDNEY",
+      "row": 6,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "DALLAS",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "VIENNA",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "PRAGUE",
+      "row": 4,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "WARSAW",
+      "row": 4,
+      "col": 1,
+      "direction": "SE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8433
+}

@@ -1,0 +1,284 @@
+{
+  "id": "cities-medium-02",
+  "slug": "cities-medium-02",
+  "themeId": "cities",
+  "title": "Cities: Metro Day",
+  "primaryKeyword": "cities word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BOSTON",
+    "CITY",
+    "HARBOR",
+    "MELBOURNE",
+    "METRO",
+    "MONTREAL",
+    "NAIROBI",
+    "NASHVILLE",
+    "PLAZA",
+    "QUITO",
+    "SANTIAGO",
+    "SKYLINE",
+    "TOWN",
+    "VANCOUVER"
+  ],
+  "grid": [
+    [
+      "W",
+      "U",
+      "B",
+      "N",
+      "N",
+      "V",
+      "B",
+      "M",
+      "K",
+      "S",
+      "Q",
+      "V"
+    ],
+    [
+      "V",
+      "I",
+      "N",
+      "Q",
+      "C",
+      "C",
+      "O",
+      "E",
+      "T",
+      "K",
+      "O",
+      "C"
+    ],
+    [
+      "A",
+      "X",
+      "A",
+      "U",
+      "I",
+      "S",
+      "S",
+      "L",
+      "O",
+      "Y",
+      "K",
+      "H"
+    ],
+    [
+      "N",
+      "G",
+      "I",
+      "I",
+      "T",
+      "A",
+      "T",
+      "B",
+      "W",
+      "L",
+      "S",
+      "N"
+    ],
+    [
+      "C",
+      "W",
+      "R",
+      "T",
+      "Y",
+      "N",
+      "O",
+      "O",
+      "N",
+      "I",
+      "E",
+      "A"
+    ],
+    [
+      "O",
+      "J",
+      "O",
+      "O",
+      "A",
+      "T",
+      "N",
+      "U",
+      "M",
+      "N",
+      "A",
+      "S"
+    ],
+    [
+      "U",
+      "P",
+      "B",
+      "K",
+      "H",
+      "I",
+      "Z",
+      "R",
+      "E",
+      "E",
+      "P",
+      "H"
+    ],
+    [
+      "V",
+      "I",
+      "I",
+      "X",
+      "N",
+      "A",
+      "O",
+      "N",
+      "T",
+      "O",
+      "A",
+      "V"
+    ],
+    [
+      "E",
+      "F",
+      "U",
+      "Z",
+      "W",
+      "G",
+      "R",
+      "E",
+      "R",
+      "S",
+      "K",
+      "I"
+    ],
+    [
+      "R",
+      "Z",
+      "R",
+      "V",
+      "N",
+      "O",
+      "T",
+      "B",
+      "O",
+      "T",
+      "Y",
+      "L"
+    ],
+    [
+      "M",
+      "O",
+      "N",
+      "T",
+      "R",
+      "E",
+      "A",
+      "L",
+      "O",
+      "P",
+      "T",
+      "L"
+    ],
+    [
+      "H",
+      "X",
+      "I",
+      "P",
+      "L",
+      "A",
+      "Z",
+      "A",
+      "C",
+      "R",
+      "S",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "MELBOURNE",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "VANCOUVER",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "NASHVILLE",
+      "row": 3,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "MONTREAL",
+      "row": 10,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SANTIAGO",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "NAIROBI",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "SKYLINE",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "HARBOR",
+      "row": 6,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "BOSTON",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "QUITO",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "PLAZA",
+      "row": 11,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "METRO",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "CITY",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "TOWN",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8434
+}

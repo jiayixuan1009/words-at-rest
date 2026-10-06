@@ -1,0 +1,284 @@
+{
+  "id": "forests-medium-02",
+  "slug": "forests-medium-02",
+  "themeId": "forests",
+  "title": "Forests: Woodland Walk",
+  "primaryKeyword": "forests word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CONIFER",
+    "DECIDUOUS",
+    "GROWTH",
+    "HABITAT",
+    "NURSE",
+    "RAIN",
+    "SAPLING",
+    "SEASON",
+    "SEEDLING",
+    "SNOW",
+    "STILL",
+    "STUMP",
+    "TIMBER",
+    "UNDERSTORY"
+  ],
+  "grid": [
+    [
+      "H",
+      "Z",
+      "N",
+      "S",
+      "M",
+      "A",
+      "W",
+      "F",
+      "Y",
+      "G",
+      "D",
+      "S"
+    ],
+    [
+      "A",
+      "T",
+      "K",
+      "R",
+      "T",
+      "I",
+      "N",
+      "B",
+      "N",
+      "M",
+      "C",
+      "E"
+    ],
+    [
+      "B",
+      "N",
+      "U",
+      "D",
+      "T",
+      "I",
+      "E",
+      "I",
+      "K",
+      "N",
+      "O",
+      "A"
+    ],
+    [
+      "I",
+      "D",
+      "S",
+      "N",
+      "A",
+      "I",
+      "L",
+      "A",
+      "O",
+      "U",
+      "N",
+      "S"
+    ],
+    [
+      "T",
+      "E",
+      "E",
+      "R",
+      "D",
+      "P",
+      "M",
+      "L",
+      "G",
+      "R",
+      "I",
+      "O"
+    ],
+    [
+      "A",
+      "C",
+      "E",
+      "C",
+      "A",
+      "E",
+      "V",
+      "B",
+      "K",
+      "S",
+      "F",
+      "N"
+    ],
+    [
+      "T",
+      "I",
+      "D",
+      "S",
+      "N",
+      "G",
+      "R",
+      "F",
+      "E",
+      "E",
+      "E",
+      "A"
+    ],
+    [
+      "H",
+      "D",
+      "L",
+      "P",
+      "O",
+      "S",
+      "R",
+      "S",
+      "S",
+      "R",
+      "R",
+      "U"
+    ],
+    [
+      "Q",
+      "U",
+      "I",
+      "P",
+      "B",
+      "T",
+      "D",
+      "O",
+      "T",
+      "N",
+      "U",
+      "G"
+    ],
+    [
+      "D",
+      "O",
+      "N",
+      "J",
+      "Z",
+      "U",
+      "T",
+      "K",
+      "W",
+      "O",
+      "O",
+      "G"
+    ],
+    [
+      "O",
+      "U",
+      "G",
+      "M",
+      "T",
+      "M",
+      "G",
+      "Z",
+      "M",
+      "T",
+      "R",
+      "W"
+    ],
+    [
+      "D",
+      "S",
+      "E",
+      "L",
+      "M",
+      "P",
+      "U",
+      "A",
+      "X",
+      "I",
+      "H",
+      "Y"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "UNDERSTORY",
+      "row": 2,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "DECIDUOUS",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SEEDLING",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "SAPLING",
+      "row": 6,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "CONIFER",
+      "row": 1,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "HABITAT",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "GROWTH",
+      "row": 6,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "TIMBER",
+      "row": 2,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "SEASON",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "STILL",
+      "row": 0,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "STUMP",
+      "row": 7,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "NURSE",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "RAIN",
+      "row": 4,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "SNOW",
+      "row": 7,
+      "col": 8,
+      "direction": "SE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8524
+}

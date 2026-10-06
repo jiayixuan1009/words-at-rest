@@ -1,0 +1,208 @@
+{
+  "id": "painting-easy-01",
+  "slug": "painting-easy-01",
+  "themeId": "painting",
+  "title": "Painting: Studio Light",
+  "primaryKeyword": "painting word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ART",
+    "BRUSH",
+    "COLOR",
+    "DRY",
+    "HUE",
+    "INK",
+    "LINE",
+    "OIL",
+    "PAINT",
+    "WET"
+  ],
+  "grid": [
+    [
+      "J",
+      "J",
+      "E",
+      "E",
+      "W",
+      "J",
+      "I",
+      "W",
+      "E",
+      "T"
+    ],
+    [
+      "M",
+      "P",
+      "E",
+      "Q",
+      "C",
+      "D",
+      "J",
+      "T",
+      "N",
+      "O"
+    ],
+    [
+      "R",
+      "A",
+      "M",
+      "D",
+      "R",
+      "Y",
+      "Q",
+      "A",
+      "Q",
+      "J"
+    ],
+    [
+      "X",
+      "I",
+      "G",
+      "G",
+      "C",
+      "O",
+      "L",
+      "O",
+      "R",
+      "W"
+    ],
+    [
+      "N",
+      "N",
+      "V",
+      "J",
+      "K",
+      "B",
+      "I",
+      "N",
+      "K",
+      "P"
+    ],
+    [
+      "B",
+      "T",
+      "S",
+      "V",
+      "N",
+      "Z",
+      "O",
+      "W",
+      "T",
+      "B"
+    ],
+    [
+      "R",
+      "L",
+      "I",
+      "N",
+      "E",
+      "M",
+      "I",
+      "M",
+      "K",
+      "A"
+    ],
+    [
+      "U",
+      "K",
+      "C",
+      "H",
+      "Q",
+      "V",
+      "L",
+      "V",
+      "H",
+      "T"
+    ],
+    [
+      "S",
+      "C",
+      "Z",
+      "O",
+      "Z",
+      "P",
+      "U",
+      "G",
+      "T",
+      "J"
+    ],
+    [
+      "H",
+      "A",
+      "R",
+      "T",
+      "A",
+      "H",
+      "L",
+      "H",
+      "U",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PAINT",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "BRUSH",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "COLOR",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "LINE",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "OIL",
+      "row": 5,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "INK",
+      "row": 4,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "HUE",
+      "row": 9,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "WET",
+      "row": 0,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "DRY",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "ART",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8461
+}

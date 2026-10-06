@@ -1,0 +1,208 @@
+{
+  "id": "chemistry-easy-01",
+  "slug": "chemistry-easy-01",
+  "themeId": "chemistry",
+  "title": "Chemistry: Lab Bench",
+  "primaryKeyword": "chemistry word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ACID",
+    "ATOM",
+    "BASE",
+    "BOND",
+    "GAS",
+    "GOLD",
+    "ION",
+    "IRON",
+    "LAB",
+    "SALT"
+  ],
+  "grid": [
+    [
+      "E",
+      "X",
+      "M",
+      "C",
+      "N",
+      "Z",
+      "Q",
+      "Y",
+      "I",
+      "N"
+    ],
+    [
+      "K",
+      "F",
+      "W",
+      "W",
+      "G",
+      "A",
+      "S",
+      "M",
+      "B",
+      "X"
+    ],
+    [
+      "S",
+      "R",
+      "R",
+      "B",
+      "L",
+      "I",
+      "O",
+      "N",
+      "O",
+      "N"
+    ],
+    [
+      "G",
+      "M",
+      "N",
+      "A",
+      "A",
+      "W",
+      "V",
+      "F",
+      "N",
+      "N"
+    ],
+    [
+      "L",
+      "Y",
+      "F",
+      "S",
+      "B",
+      "I",
+      "H",
+      "U",
+      "D",
+      "P"
+    ],
+    [
+      "G",
+      "Z",
+      "E",
+      "E",
+      "S",
+      "A",
+      "L",
+      "T",
+      "C",
+      "A"
+    ],
+    [
+      "O",
+      "N",
+      "F",
+      "A",
+      "T",
+      "I",
+      "R",
+      "O",
+      "N",
+      "C"
+    ],
+    [
+      "L",
+      "M",
+      "N",
+      "G",
+      "X",
+      "Q",
+      "L",
+      "U",
+      "V",
+      "I"
+    ],
+    [
+      "D",
+      "T",
+      "A",
+      "T",
+      "O",
+      "M",
+      "O",
+      "N",
+      "D",
+      "D"
+    ],
+    [
+      "B",
+      "D",
+      "E",
+      "Q",
+      "D",
+      "W",
+      "V",
+      "O",
+      "C",
+      "D"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ATOM",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BOND",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "ACID",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "BASE",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "SALT",
+      "row": 5,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "IRON",
+      "row": 6,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "GOLD",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "ION",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "GAS",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "LAB",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8491
+}

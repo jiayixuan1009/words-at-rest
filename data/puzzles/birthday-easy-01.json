@@ -1,0 +1,208 @@
+{
+  "id": "birthday-easy-01",
+  "slug": "birthday-easy-01",
+  "themeId": "birthday",
+  "title": "Birthday: Candle Wish",
+  "primaryKeyword": "birthday word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BOW",
+    "BOX",
+    "CAKE",
+    "CANDLE",
+    "CARD",
+    "GIFT",
+    "PARTY",
+    "SONG",
+    "WISH",
+    "WRAP"
+  ],
+  "grid": [
+    [
+      "P",
+      "P",
+      "W",
+      "R",
+      "U",
+      "L",
+      "P",
+      "J",
+      "M",
+      "N"
+    ],
+    [
+      "A",
+      "N",
+      "I",
+      "W",
+      "G",
+      "I",
+      "F",
+      "T",
+      "S",
+      "S"
+    ],
+    [
+      "R",
+      "R",
+      "S",
+      "R",
+      "N",
+      "D",
+      "M",
+      "B",
+      "P",
+      "M"
+    ],
+    [
+      "T",
+      "L",
+      "H",
+      "A",
+      "E",
+      "E",
+      "S",
+      "C",
+      "C",
+      "S"
+    ],
+    [
+      "Y",
+      "D",
+      "B",
+      "P",
+      "Y",
+      "O",
+      "O",
+      "A",
+      "A",
+      "C"
+    ],
+    [
+      "Q",
+      "W",
+      "G",
+      "C",
+      "S",
+      "G",
+      "N",
+      "K",
+      "N",
+      "P"
+    ],
+    [
+      "T",
+      "T",
+      "B",
+      "A",
+      "F",
+      "K",
+      "G",
+      "E",
+      "D",
+      "P"
+    ],
+    [
+      "B",
+      "O",
+      "O",
+      "R",
+      "L",
+      "Z",
+      "B",
+      "T",
+      "L",
+      "I"
+    ],
+    [
+      "O",
+      "I",
+      "W",
+      "D",
+      "W",
+      "G",
+      "M",
+      "Y",
+      "E",
+      "S"
+    ],
+    [
+      "X",
+      "N",
+      "I",
+      "Z",
+      "K",
+      "M",
+      "A",
+      "P",
+      "W",
+      "Q"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CANDLE",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "PARTY",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CAKE",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "WISH",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "GIFT",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CARD",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "SONG",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "WRAP",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "BOW",
+      "row": 6,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "BOX",
+      "row": 7,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8471
+}

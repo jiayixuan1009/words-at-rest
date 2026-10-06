@@ -1,0 +1,284 @@
+{
+  "id": "mythology-medium-01",
+  "slug": "mythology-medium-01",
+  "themeId": "mythology",
+  "title": "Mythology: Hero Quest",
+  "primaryKeyword": "mythology word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "DRAGON",
+    "GIANT",
+    "GODDESS",
+    "HADES",
+    "HYDRA",
+    "LABYRINTH",
+    "OLYMPUS",
+    "ORACLE",
+    "PHOENIX",
+    "SIREN",
+    "SPHINX",
+    "THRONE",
+    "TITAN",
+    "ZEUS"
+  ],
+  "grid": [
+    [
+      "H",
+      "Z",
+      "S",
+      "G",
+      "T",
+      "S",
+      "H",
+      "A",
+      "D",
+      "E",
+      "S",
+      "W"
+    ],
+    [
+      "L",
+      "E",
+      "X",
+      "L",
+      "F",
+      "W",
+      "F",
+      "M",
+      "S",
+      "M",
+      "P",
+      "S"
+    ],
+    [
+      "O",
+      "U",
+      "L",
+      "E",
+      "L",
+      "I",
+      "Z",
+      "U",
+      "T",
+      "Z",
+      "H",
+      "P"
+    ],
+    [
+      "G",
+      "S",
+      "B",
+      "A",
+      "N",
+      "D",
+      "P",
+      "Z",
+      "H",
+      "M",
+      "O",
+      "H"
+    ],
+    [
+      "O",
+      "B",
+      "G",
+      "E",
+      "B",
+      "M",
+      "H",
+      "V",
+      "R",
+      "G",
+      "E",
+      "I"
+    ],
+    [
+      "O",
+      "R",
+      "R",
+      "O",
+      "Y",
+      "Y",
+      "G",
+      "P",
+      "O",
+      "C",
+      "N",
+      "N"
+    ],
+    [
+      "K",
+      "I",
+      "A",
+      "L",
+      "D",
+      "T",
+      "R",
+      "O",
+      "N",
+      "W",
+      "I",
+      "X"
+    ],
+    [
+      "S",
+      "T",
+      "O",
+      "C",
+      "C",
+      "D",
+      "I",
+      "I",
+      "E",
+      "P",
+      "X",
+      "E"
+    ],
+    [
+      "E",
+      "I",
+      "X",
+      "U",
+      "L",
+      "B",
+      "E",
+      "T",
+      "N",
+      "N",
+      "N",
+      "B"
+    ],
+    [
+      "G",
+      "I",
+      "A",
+      "N",
+      "T",
+      "E",
+      "A",
+      "S",
+      "A",
+      "T",
+      "G",
+      "U"
+    ],
+    [
+      "K",
+      "R",
+      "D",
+      "R",
+      "A",
+      "G",
+      "O",
+      "N",
+      "S",
+      "N",
+      "H",
+      "G"
+    ],
+    [
+      "T",
+      "W",
+      "R",
+      "O",
+      "H",
+      "Y",
+      "D",
+      "R",
+      "A",
+      "O",
+      "B",
+      "F"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "LABYRINTH",
+      "row": 2,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "GODDESS",
+      "row": 4,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "PHOENIX",
+      "row": 1,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "OLYMPUS",
+      "row": 7,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "ORACLE",
+      "row": 4,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "SPHINX",
+      "row": 1,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "DRAGON",
+      "row": 10,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "THRONE",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "TITAN",
+      "row": 6,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "SIREN",
+      "row": 7,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "HYDRA",
+      "row": 11,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "GIANT",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "HADES",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "ZEUS",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8503
+}

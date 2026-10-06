@@ -1,0 +1,208 @@
+{
+  "id": "birthday-easy-02",
+  "slug": "birthday-easy-02",
+  "themeId": "birthday",
+  "title": "Birthday: Quiet Card",
+  "primaryKeyword": "birthday word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CHEER",
+    "GUEST",
+    "HOME",
+    "LAUGH",
+    "PLATE",
+    "SLICE",
+    "SMILE",
+    "TEA",
+    "TOAST",
+    "YEAR"
+  ],
+  "grid": [
+    [
+      "S",
+      "M",
+      "I",
+      "L",
+      "E",
+      "P",
+      "L",
+      "S",
+      "I",
+      "I"
+    ],
+    [
+      "C",
+      "Y",
+      "E",
+      "A",
+      "R",
+      "E",
+      "C",
+      "A",
+      "V",
+      "C"
+    ],
+    [
+      "C",
+      "V",
+      "F",
+      "T",
+      "O",
+      "A",
+      "S",
+      "T",
+      "W",
+      "H"
+    ],
+    [
+      "P",
+      "L",
+      "A",
+      "T",
+      "E",
+      "J",
+      "T",
+      "W",
+      "P",
+      "E"
+    ],
+    [
+      "H",
+      "P",
+      "H",
+      "L",
+      "C",
+      "C",
+      "E",
+      "I",
+      "Q",
+      "E"
+    ],
+    [
+      "G",
+      "S",
+      "T",
+      "A",
+      "F",
+      "J",
+      "A",
+      "L",
+      "K",
+      "R"
+    ],
+    [
+      "Q",
+      "L",
+      "H",
+      "U",
+      "G",
+      "U",
+      "E",
+      "S",
+      "T",
+      "D"
+    ],
+    [
+      "A",
+      "I",
+      "O",
+      "G",
+      "M",
+      "U",
+      "K",
+      "N",
+      "L",
+      "G"
+    ],
+    [
+      "A",
+      "C",
+      "M",
+      "H",
+      "V",
+      "P",
+      "O",
+      "Y",
+      "R",
+      "M"
+    ],
+    [
+      "H",
+      "E",
+      "E",
+      "T",
+      "Y",
+      "G",
+      "N",
+      "O",
+      "W",
+      "D"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "GUEST",
+      "row": 6,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CHEER",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SMILE",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "LAUGH",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "TOAST",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SLICE",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "PLATE",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "HOME",
+      "row": 6,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "YEAR",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TEA",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8472
+}

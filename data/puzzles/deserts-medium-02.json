@@ -1,0 +1,284 @@
+{
+  "id": "deserts-medium-02",
+  "slug": "deserts-medium-02",
+  "themeId": "deserts",
+  "title": "Deserts: Horizon Night",
+  "primaryKeyword": "deserts word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BLOOM",
+    "BUSH",
+    "CAMP",
+    "FLASH",
+    "FLASK",
+    "FLOOD",
+    "RAIN",
+    "SCORPION",
+    "SHRUB",
+    "SPINE",
+    "TENT",
+    "THORN",
+    "TRAIL",
+    "WATER"
+  ],
+  "grid": [
+    [
+      "E",
+      "F",
+      "L",
+      "D",
+      "W",
+      "J",
+      "G",
+      "F",
+      "R",
+      "C",
+      "A",
+      "L"
+    ],
+    [
+      "E",
+      "L",
+      "S",
+      "H",
+      "R",
+      "U",
+      "B",
+      "D",
+      "B",
+      "R",
+      "Y",
+      "U"
+    ],
+    [
+      "R",
+      "A",
+      "B",
+      "S",
+      "B",
+      "B",
+      "L",
+      "O",
+      "O",
+      "M",
+      "B",
+      "M"
+    ],
+    [
+      "Q",
+      "S",
+      "N",
+      "E",
+      "P",
+      "O",
+      "N",
+      "R",
+      "T",
+      "O",
+      "N",
+      "G"
+    ],
+    [
+      "T",
+      "H",
+      "O",
+      "S",
+      "N",
+      "I",
+      "E",
+      "E",
+      "H",
+      "T",
+      "S",
+      "P"
+    ],
+    [
+      "E",
+      "F",
+      "C",
+      "V",
+      "D",
+      "T",
+      "N",
+      "O",
+      "O",
+      "O",
+      "C",
+      "R"
+    ],
+    [
+      "N",
+      "H",
+      "C",
+      "O",
+      "A",
+      "C",
+      "R",
+      "E",
+      "R",
+      "Q",
+      "O",
+      "A"
+    ],
+    [
+      "T",
+      "C",
+      "O",
+      "W",
+      "S",
+      "D",
+      "B",
+      "R",
+      "N",
+      "T",
+      "R",
+      "I"
+    ],
+    [
+      "F",
+      "L",
+      "A",
+      "S",
+      "K",
+      "M",
+      "U",
+      "V",
+      "O",
+      "R",
+      "P",
+      "N"
+    ],
+    [
+      "F",
+      "I",
+      "L",
+      "N",
+      "Y",
+      "P",
+      "S",
+      "N",
+      "H",
+      "A",
+      "I",
+      "P"
+    ],
+    [
+      "N",
+      "O",
+      "I",
+      "C",
+      "Q",
+      "I",
+      "H",
+      "Q",
+      "A",
+      "I",
+      "O",
+      "J"
+    ],
+    [
+      "C",
+      "A",
+      "M",
+      "P",
+      "E",
+      "A",
+      "S",
+      "R",
+      "G",
+      "L",
+      "N",
+      "Q"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SCORPION",
+      "row": 4,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "SHRUB",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SPINE",
+      "row": 2,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "THORN",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "BLOOM",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "FLASH",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "FLOOD",
+      "row": 9,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "TRAIL",
+      "row": 7,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "WATER",
+      "row": 7,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "FLASK",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BUSH",
+      "row": 7,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "RAIN",
+      "row": 5,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "CAMP",
+      "row": 11,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "TENT",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8544
+}

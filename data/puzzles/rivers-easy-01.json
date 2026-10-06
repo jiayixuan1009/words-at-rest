@@ -1,0 +1,208 @@
+{
+  "id": "rivers-easy-01",
+  "slug": "rivers-easy-01",
+  "themeId": "rivers",
+  "title": "Rivers: Current Bend",
+  "primaryKeyword": "rivers word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BANK",
+    "BEND",
+    "BOAT",
+    "CREEK",
+    "FISH",
+    "FLOW",
+    "MUD",
+    "POOL",
+    "RAIN",
+    "RIVER"
+  ],
+  "grid": [
+    [
+      "R",
+      "O",
+      "J",
+      "R",
+      "B",
+      "R",
+      "F",
+      "I",
+      "S",
+      "H"
+    ],
+    [
+      "N",
+      "Q",
+      "M",
+      "Z",
+      "A",
+      "I",
+      "H",
+      "O",
+      "B",
+      "Q"
+    ],
+    [
+      "I",
+      "T",
+      "H",
+      "X",
+      "N",
+      "V",
+      "G",
+      "C",
+      "E",
+      "Q"
+    ],
+    [
+      "L",
+      "P",
+      "Y",
+      "Y",
+      "K",
+      "E",
+      "J",
+      "U",
+      "N",
+      "M"
+    ],
+    [
+      "F",
+      "D",
+      "J",
+      "P",
+      "F",
+      "R",
+      "P",
+      "C",
+      "D",
+      "U"
+    ],
+    [
+      "L",
+      "F",
+      "X",
+      "O",
+      "K",
+      "G",
+      "D",
+      "R",
+      "S",
+      "D"
+    ],
+    [
+      "O",
+      "T",
+      "H",
+      "O",
+      "G",
+      "B",
+      "T",
+      "E",
+      "B",
+      "D"
+    ],
+    [
+      "W",
+      "Z",
+      "C",
+      "L",
+      "H",
+      "C",
+      "U",
+      "E",
+      "S",
+      "D"
+    ],
+    [
+      "R",
+      "A",
+      "I",
+      "N",
+      "O",
+      "O",
+      "F",
+      "K",
+      "D",
+      "P"
+    ],
+    [
+      "H",
+      "B",
+      "O",
+      "A",
+      "T",
+      "K",
+      "T",
+      "Q",
+      "Z",
+      "I"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "RIVER",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "CREEK",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "FLOW",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "POOL",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "BANK",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "BEND",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "BOAT",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "FISH",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "RAIN",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "MUD",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8531
+}

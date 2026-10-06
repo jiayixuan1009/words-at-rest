@@ -1,0 +1,173 @@
+{
+  "id": "birthday-large-01",
+  "slug": "birthday-large-01",
+  "themeId": "birthday",
+  "title": "Large Print Birthday: Soft Cake",
+  "primaryKeyword": "large print birthday word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "CAKE",
+    "CANDLE",
+    "CARD",
+    "GIFT",
+    "HOME",
+    "PARTY",
+    "WISH",
+    "YEAR"
+  ],
+  "grid": [
+    [
+      "B",
+      "L",
+      "Z",
+      "C",
+      "B",
+      "Y",
+      "U",
+      "U",
+      "U"
+    ],
+    [
+      "U",
+      "Y",
+      "I",
+      "A",
+      "R",
+      "Q",
+      "H",
+      "J",
+      "S"
+    ],
+    [
+      "E",
+      "E",
+      "G",
+      "R",
+      "H",
+      "O",
+      "M",
+      "E",
+      "U"
+    ],
+    [
+      "C",
+      "A",
+      "N",
+      "D",
+      "L",
+      "E",
+      "B",
+      "R",
+      "S"
+    ],
+    [
+      "J",
+      "R",
+      "X",
+      "T",
+      "W",
+      "R",
+      "T",
+      "H",
+      "G"
+    ],
+    [
+      "R",
+      "M",
+      "F",
+      "P",
+      "A",
+      "R",
+      "T",
+      "Y",
+      "I"
+    ],
+    [
+      "V",
+      "C",
+      "A",
+      "K",
+      "E",
+      "S",
+      "E",
+      "P",
+      "F"
+    ],
+    [
+      "E",
+      "W",
+      "I",
+      "S",
+      "H",
+      "U",
+      "B",
+      "T",
+      "T"
+    ],
+    [
+      "Q",
+      "P",
+      "D",
+      "V",
+      "J",
+      "Z",
+      "V",
+      "L",
+      "I"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CANDLE",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "PARTY",
+      "row": 5,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "CAKE",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "WISH",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "GIFT",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "CARD",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "HOME",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "YEAR",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8476
+}

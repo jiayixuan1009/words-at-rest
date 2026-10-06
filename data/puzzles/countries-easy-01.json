@@ -1,0 +1,208 @@
+{
+  "id": "countries-easy-01",
+  "slug": "countries-easy-01",
+  "themeId": "countries",
+  "title": "Countries: Map Desk",
+  "primaryKeyword": "countries word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CHINA",
+    "CUBA",
+    "EGYPT",
+    "FRANCE",
+    "GREECE",
+    "INDIA",
+    "ITALY",
+    "JAPAN",
+    "PERU",
+    "SPAIN"
+  ],
+  "grid": [
+    [
+      "C",
+      "U",
+      "B",
+      "A",
+      "K",
+      "U",
+      "E",
+      "W",
+      "H",
+      "J"
+    ],
+    [
+      "I",
+      "Y",
+      "L",
+      "N",
+      "E",
+      "F",
+      "A",
+      "S",
+      "N",
+      "N"
+    ],
+    [
+      "N",
+      "B",
+      "L",
+      "A",
+      "A",
+      "R",
+      "E",
+      "C",
+      "U",
+      "C"
+    ],
+    [
+      "D",
+      "A",
+      "J",
+      "X",
+      "D",
+      "A",
+      "G",
+      "L",
+      "I",
+      "J"
+    ],
+    [
+      "I",
+      "Z",
+      "A",
+      "B",
+      "G",
+      "N",
+      "Y",
+      "W",
+      "T",
+      "P"
+    ],
+    [
+      "A",
+      "N",
+      "P",
+      "W",
+      "K",
+      "C",
+      "P",
+      "P",
+      "A",
+      "E"
+    ],
+    [
+      "U",
+      "C",
+      "A",
+      "N",
+      "R",
+      "E",
+      "T",
+      "L",
+      "L",
+      "R"
+    ],
+    [
+      "S",
+      "R",
+      "N",
+      "S",
+      "P",
+      "A",
+      "I",
+      "N",
+      "Y",
+      "U"
+    ],
+    [
+      "N",
+      "G",
+      "R",
+      "E",
+      "E",
+      "C",
+      "E",
+      "W",
+      "S",
+      "T"
+    ],
+    [
+      "G",
+      "C",
+      "H",
+      "I",
+      "N",
+      "A",
+      "Y",
+      "I",
+      "E",
+      "X"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FRANCE",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "GREECE",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SPAIN",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "ITALY",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "EGYPT",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "CHINA",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "JAPAN",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "INDIA",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "PERU",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "CUBA",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8411
+}

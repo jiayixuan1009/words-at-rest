@@ -1,0 +1,173 @@
+{
+  "id": "rivers-large-01",
+  "slug": "rivers-large-01",
+  "themeId": "rivers",
+  "title": "Large Print Rivers: Soft Flow",
+  "primaryKeyword": "large print rivers word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BANK",
+    "BOAT",
+    "CALM",
+    "CREEK",
+    "FISH",
+    "FLOW",
+    "RAIN",
+    "RIVER"
+  ],
+  "grid": [
+    [
+      "P",
+      "D",
+      "Z",
+      "F",
+      "F",
+      "I",
+      "S",
+      "H",
+      "E"
+    ],
+    [
+      "B",
+      "A",
+      "N",
+      "K",
+      "G",
+      "B",
+      "U",
+      "P",
+      "Y"
+    ],
+    [
+      "G",
+      "Z",
+      "A",
+      "P",
+      "J",
+      "S",
+      "P",
+      "B",
+      "J"
+    ],
+    [
+      "B",
+      "V",
+      "V",
+      "C",
+      "R",
+      "P",
+      "R",
+      "O",
+      "C"
+    ],
+    [
+      "A",
+      "Z",
+      "Y",
+      "R",
+      "A",
+      "Z",
+      "I",
+      "A",
+      "C"
+    ],
+    [
+      "B",
+      "L",
+      "Q",
+      "E",
+      "I",
+      "R",
+      "V",
+      "T",
+      "A"
+    ],
+    [
+      "Y",
+      "Y",
+      "O",
+      "E",
+      "N",
+      "B",
+      "E",
+      "N",
+      "L"
+    ],
+    [
+      "Y",
+      "R",
+      "M",
+      "K",
+      "H",
+      "S",
+      "R",
+      "K",
+      "M"
+    ],
+    [
+      "N",
+      "A",
+      "P",
+      "F",
+      "L",
+      "O",
+      "W",
+      "R",
+      "Q"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "RIVER",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "CREEK",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "FLOW",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BANK",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BOAT",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "FISH",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "RAIN",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "CALM",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8536
+}

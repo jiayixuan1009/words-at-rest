@@ -1,0 +1,208 @@
+{
+  "id": "continents-easy-01",
+  "slug": "continents-easy-01",
+  "themeId": "continents",
+  "title": "Continents: Seven Lands",
+  "primaryKeyword": "continents word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "AFRICA",
+    "ASIA",
+    "EUROPE",
+    "MAP",
+    "NORTH",
+    "OCEAN",
+    "POLE",
+    "SEA",
+    "SOUTH",
+    "ZONE"
+  ],
+  "grid": [
+    [
+      "Q",
+      "A",
+      "K",
+      "Z",
+      "O",
+      "N",
+      "E",
+      "B",
+      "E",
+      "U"
+    ],
+    [
+      "Y",
+      "S",
+      "Z",
+      "E",
+      "U",
+      "R",
+      "O",
+      "P",
+      "E",
+      "I"
+    ],
+    [
+      "B",
+      "I",
+      "H",
+      "Q",
+      "U",
+      "D",
+      "O",
+      "S",
+      "I",
+      "Q"
+    ],
+    [
+      "X",
+      "A",
+      "Q",
+      "K",
+      "G",
+      "D",
+      "C",
+      "O",
+      "E",
+      "T"
+    ],
+    [
+      "Z",
+      "N",
+      "O",
+      "R",
+      "T",
+      "H",
+      "E",
+      "U",
+      "Q",
+      "F"
+    ],
+    [
+      "I",
+      "H",
+      "S",
+      "W",
+      "P",
+      "K",
+      "A",
+      "T",
+      "M",
+      "M"
+    ],
+    [
+      "A",
+      "P",
+      "E",
+      "E",
+      "T",
+      "O",
+      "N",
+      "H",
+      "Z",
+      "A"
+    ],
+    [
+      "M",
+      "O",
+      "A",
+      "P",
+      "A",
+      "L",
+      "Q",
+      "B",
+      "H",
+      "P"
+    ],
+    [
+      "K",
+      "L",
+      "F",
+      "A",
+      "F",
+      "R",
+      "I",
+      "C",
+      "A",
+      "P"
+    ],
+    [
+      "U",
+      "E",
+      "S",
+      "G",
+      "J",
+      "V",
+      "A",
+      "T",
+      "W",
+      "C"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "AFRICA",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "EUROPE",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "NORTH",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SOUTH",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "OCEAN",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "ASIA",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "POLE",
+      "row": 6,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "ZONE",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SEA",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "MAP",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8421
+}

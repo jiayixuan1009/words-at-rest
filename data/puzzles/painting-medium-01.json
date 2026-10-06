@@ -1,0 +1,284 @@
+{
+  "id": "painting-medium-01",
+  "slug": "painting-medium-01",
+  "themeId": "painting",
+  "title": "Painting: Canvas Day",
+  "primaryKeyword": "painting word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ACRYLIC",
+    "GALLERY",
+    "LAYER",
+    "LIGHT",
+    "MUSEUM",
+    "OUTLINE",
+    "PALETTE",
+    "PIGMENT",
+    "PORTRAIT",
+    "SHADOW",
+    "SKETCH",
+    "STROKE",
+    "SUBJECT",
+    "TEXTURE"
+  ],
+  "grid": [
+    [
+      "T",
+      "B",
+      "H",
+      "V",
+      "L",
+      "A",
+      "Y",
+      "E",
+      "R",
+      "X",
+      "G",
+      "L"
+    ],
+    [
+      "E",
+      "N",
+      "Z",
+      "R",
+      "P",
+      "I",
+      "G",
+      "M",
+      "E",
+      "N",
+      "T",
+      "J"
+    ],
+    [
+      "X",
+      "S",
+      "U",
+      "B",
+      "J",
+      "E",
+      "C",
+      "T",
+      "R",
+      "V",
+      "T",
+      "P"
+    ],
+    [
+      "T",
+      "S",
+      "K",
+      "E",
+      "T",
+      "C",
+      "H",
+      "G",
+      "X",
+      "O",
+      "D",
+      "D"
+    ],
+    [
+      "U",
+      "P",
+      "O",
+      "R",
+      "T",
+      "R",
+      "A",
+      "I",
+      "T",
+      "U",
+      "V",
+      "L"
+    ],
+    [
+      "R",
+      "F",
+      "S",
+      "T",
+      "R",
+      "O",
+      "K",
+      "E",
+      "I",
+      "T",
+      "A",
+      "I"
+    ],
+    [
+      "E",
+      "G",
+      "A",
+      "L",
+      "L",
+      "E",
+      "R",
+      "Y",
+      "Z",
+      "L",
+      "C",
+      "G"
+    ],
+    [
+      "J",
+      "P",
+      "A",
+      "L",
+      "E",
+      "T",
+      "T",
+      "E",
+      "V",
+      "I",
+      "R",
+      "H"
+    ],
+    [
+      "O",
+      "N",
+      "M",
+      "U",
+      "S",
+      "E",
+      "U",
+      "M",
+      "G",
+      "N",
+      "Y",
+      "T"
+    ],
+    [
+      "F",
+      "L",
+      "E",
+      "N",
+      "D",
+      "R",
+      "Q",
+      "X",
+      "N",
+      "E",
+      "L",
+      "V"
+    ],
+    [
+      "T",
+      "M",
+      "Q",
+      "B",
+      "A",
+      "R",
+      "Z",
+      "E",
+      "V",
+      "W",
+      "I",
+      "P"
+    ],
+    [
+      "U",
+      "P",
+      "S",
+      "H",
+      "A",
+      "D",
+      "O",
+      "W",
+      "P",
+      "H",
+      "C",
+      "V"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PORTRAIT",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PALETTE",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "ACRYLIC",
+      "row": 5,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "PIGMENT",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "OUTLINE",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "GALLERY",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SUBJECT",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TEXTURE",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "STROKE",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SKETCH",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "MUSEUM",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SHADOW",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "LAYER",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "LIGHT",
+      "row": 4,
+      "col": 11,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8463
+}

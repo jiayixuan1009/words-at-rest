@@ -1,0 +1,208 @@
+{
+  "id": "forests-easy-01",
+  "slug": "forests-easy-01",
+  "themeId": "forests",
+  "title": "Forests: Canopy Path",
+  "primaryKeyword": "forests word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BARK",
+    "DEER",
+    "FERN",
+    "FOX",
+    "GROVE",
+    "LEAF",
+    "MOSS",
+    "OWL",
+    "PATH",
+    "WOODS"
+  ],
+  "grid": [
+    [
+      "Z",
+      "A",
+      "C",
+      "D",
+      "G",
+      "R",
+      "O",
+      "V",
+      "E",
+      "P"
+    ],
+    [
+      "K",
+      "P",
+      "A",
+      "T",
+      "H",
+      "R",
+      "C",
+      "J",
+      "D",
+      "H"
+    ],
+    [
+      "K",
+      "J",
+      "O",
+      "O",
+      "I",
+      "D",
+      "E",
+      "E",
+      "R",
+      "S"
+    ],
+    [
+      "C",
+      "E",
+      "H",
+      "W",
+      "L",
+      "F",
+      "E",
+      "R",
+      "N",
+      "Z"
+    ],
+    [
+      "W",
+      "P",
+      "A",
+      "L",
+      "L",
+      "H",
+      "T",
+      "F",
+      "F",
+      "G"
+    ],
+    [
+      "N",
+      "L",
+      "E",
+      "A",
+      "F",
+      "U",
+      "F",
+      "U",
+      "F",
+      "T"
+    ],
+    [
+      "X",
+      "N",
+      "H",
+      "I",
+      "F",
+      "U",
+      "B",
+      "A",
+      "R",
+      "K"
+    ],
+    [
+      "B",
+      "Q",
+      "Z",
+      "W",
+      "O",
+      "O",
+      "D",
+      "S",
+      "X",
+      "D"
+    ],
+    [
+      "U",
+      "T",
+      "W",
+      "F",
+      "X",
+      "S",
+      "R",
+      "U",
+      "T",
+      "K"
+    ],
+    [
+      "K",
+      "L",
+      "L",
+      "Y",
+      "A",
+      "S",
+      "M",
+      "O",
+      "S",
+      "S"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "WOODS",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "GROVE",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "MOSS",
+      "row": 9,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "FERN",
+      "row": 3,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "LEAF",
+      "row": 5,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BARK",
+      "row": 6,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "PATH",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "DEER",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "OWL",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "FOX",
+      "row": 6,
+      "col": 4,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8521
+}

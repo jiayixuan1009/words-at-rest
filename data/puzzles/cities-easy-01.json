@@ -1,0 +1,208 @@
+{
+  "id": "cities-easy-01",
+  "slug": "cities-easy-01",
+  "themeId": "cities",
+  "title": "Cities: Skyline Walk",
+  "primaryKeyword": "cities word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BOSTON",
+    "DELHI",
+    "DUBLIN",
+    "KYIV",
+    "LIMA",
+    "MIAMI",
+    "PARIS",
+    "ROME",
+    "SEOUL",
+    "TOKYO"
+  ],
+  "grid": [
+    [
+      "O",
+      "L",
+      "F",
+      "Y",
+      "O",
+      "V",
+      "Y",
+      "M",
+      "V",
+      "B"
+    ],
+    [
+      "Y",
+      "I",
+      "M",
+      "S",
+      "V",
+      "B",
+      "E",
+      "Z",
+      "D",
+      "K"
+    ],
+    [
+      "U",
+      "M",
+      "I",
+      "P",
+      "T",
+      "O",
+      "T",
+      "Q",
+      "U",
+      "T"
+    ],
+    [
+      "K",
+      "A",
+      "A",
+      "F",
+      "O",
+      "S",
+      "Q",
+      "M",
+      "B",
+      "M"
+    ],
+    [
+      "G",
+      "Q",
+      "M",
+      "O",
+      "K",
+      "T",
+      "H",
+      "W",
+      "L",
+      "C"
+    ],
+    [
+      "R",
+      "X",
+      "I",
+      "K",
+      "Y",
+      "O",
+      "K",
+      "Y",
+      "I",
+      "V"
+    ],
+    [
+      "R",
+      "A",
+      "P",
+      "Y",
+      "O",
+      "N",
+      "X",
+      "D",
+      "N",
+      "W"
+    ],
+    [
+      "O",
+      "Q",
+      "S",
+      "P",
+      "A",
+      "R",
+      "I",
+      "S",
+      "C",
+      "U"
+    ],
+    [
+      "M",
+      "O",
+      "V",
+      "U",
+      "D",
+      "E",
+      "L",
+      "H",
+      "I",
+      "I"
+    ],
+    [
+      "E",
+      "T",
+      "S",
+      "E",
+      "O",
+      "U",
+      "L",
+      "F",
+      "S",
+      "V"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BOSTON",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "DUBLIN",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "PARIS",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "TOKYO",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "DELHI",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SEOUL",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "MIAMI",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "ROME",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "LIMA",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "KYIV",
+      "row": 5,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8431
+}

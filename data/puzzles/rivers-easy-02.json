@@ -1,0 +1,208 @@
+{
+  "id": "rivers-easy-02",
+  "slug": "rivers-easy-02",
+  "themeId": "rivers",
+  "title": "Rivers: Quiet Bank",
+  "primaryKeyword": "rivers word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BRIDGE",
+    "BROOK",
+    "CALM",
+    "FLOOD",
+    "FORD",
+    "OTTER",
+    "REED",
+    "SHORE",
+    "SILT",
+    "STREAM"
+  ],
+  "grid": [
+    [
+      "R",
+      "F",
+      "B",
+      "R",
+      "O",
+      "O",
+      "K",
+      "B",
+      "X",
+      "T"
+    ],
+    [
+      "G",
+      "W",
+      "L",
+      "J",
+      "B",
+      "R",
+      "I",
+      "D",
+      "G",
+      "E"
+    ],
+    [
+      "O",
+      "B",
+      "K",
+      "Q",
+      "G",
+      "D",
+      "V",
+      "K",
+      "U",
+      "H"
+    ],
+    [
+      "S",
+      "I",
+      "L",
+      "T",
+      "C",
+      "A",
+      "L",
+      "M",
+      "A",
+      "H"
+    ],
+    [
+      "Q",
+      "D",
+      "H",
+      "G",
+      "Q",
+      "F",
+      "L",
+      "O",
+      "O",
+      "D"
+    ],
+    [
+      "T",
+      "R",
+      "S",
+      "T",
+      "R",
+      "E",
+      "A",
+      "M",
+      "I",
+      "R"
+    ],
+    [
+      "Q",
+      "R",
+      "H",
+      "C",
+      "R",
+      "R",
+      "W",
+      "R",
+      "Q",
+      "H"
+    ],
+    [
+      "S",
+      "H",
+      "O",
+      "R",
+      "E",
+      "R",
+      "E",
+      "E",
+      "D",
+      "V"
+    ],
+    [
+      "J",
+      "O",
+      "G",
+      "Z",
+      "P",
+      "O",
+      "T",
+      "T",
+      "E",
+      "R"
+    ],
+    [
+      "A",
+      "Q",
+      "F",
+      "O",
+      "R",
+      "D",
+      "G",
+      "L",
+      "Y",
+      "G"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "STREAM",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BRIDGE",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BROOK",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SHORE",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "OTTER",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "FLOOD",
+      "row": 4,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "FORD",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "REED",
+      "row": 7,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SILT",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CALM",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8532
+}

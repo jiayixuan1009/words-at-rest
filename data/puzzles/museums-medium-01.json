@@ -1,0 +1,284 @@
+{
+  "id": "museums-medium-01",
+  "slug": "museums-medium-01",
+  "themeId": "museums",
+  "title": "Museums: Exhibit Tour",
+  "primaryKeyword": "museums word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CURATOR",
+    "DISPLAY",
+    "DOCENT",
+    "EXHIBIT",
+    "FOSSIL",
+    "GALLERY",
+    "MUSEUM",
+    "OBJECT",
+    "PAINTING",
+    "POTTERY",
+    "RELIC",
+    "SCULPTURE",
+    "STATUE",
+    "VISITOR"
+  ],
+  "grid": [
+    [
+      "P",
+      "O",
+      "P",
+      "M",
+      "M",
+      "F",
+      "O",
+      "S",
+      "S",
+      "I",
+      "L",
+      "K"
+    ],
+    [
+      "O",
+      "B",
+      "A",
+      "Y",
+      "U",
+      "S",
+      "F",
+      "Y",
+      "E",
+      "C",
+      "P",
+      "D"
+    ],
+    [
+      "T",
+      "J",
+      "I",
+      "O",
+      "S",
+      "T",
+      "D",
+      "B",
+      "X",
+      "U",
+      "L",
+      "O"
+    ],
+    [
+      "T",
+      "E",
+      "N",
+      "H",
+      "E",
+      "A",
+      "I",
+      "R",
+      "H",
+      "R",
+      "M",
+      "C"
+    ],
+    [
+      "E",
+      "C",
+      "T",
+      "M",
+      "U",
+      "T",
+      "S",
+      "E",
+      "I",
+      "A",
+      "H",
+      "E"
+    ],
+    [
+      "R",
+      "T",
+      "I",
+      "W",
+      "M",
+      "U",
+      "P",
+      "L",
+      "B",
+      "T",
+      "V",
+      "N"
+    ],
+    [
+      "Y",
+      "O",
+      "N",
+      "E",
+      "D",
+      "E",
+      "L",
+      "I",
+      "I",
+      "O",
+      "Y",
+      "T"
+    ],
+    [
+      "L",
+      "G",
+      "G",
+      "H",
+      "E",
+      "U",
+      "A",
+      "C",
+      "T",
+      "R",
+      "S",
+      "R"
+    ],
+    [
+      "J",
+      "L",
+      "Y",
+      "Q",
+      "W",
+      "C",
+      "Y",
+      "U",
+      "H",
+      "F",
+      "S",
+      "K"
+    ],
+    [
+      "P",
+      "B",
+      "P",
+      "S",
+      "C",
+      "U",
+      "L",
+      "P",
+      "T",
+      "U",
+      "R",
+      "E"
+    ],
+    [
+      "V",
+      "I",
+      "S",
+      "I",
+      "T",
+      "O",
+      "R",
+      "W",
+      "Y",
+      "S",
+      "B",
+      "J"
+    ],
+    [
+      "G",
+      "A",
+      "L",
+      "L",
+      "E",
+      "R",
+      "Y",
+      "L",
+      "J",
+      "F",
+      "E",
+      "W"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SCULPTURE",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "PAINTING",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "GALLERY",
+      "row": 11,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "EXHIBIT",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "DISPLAY",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "VISITOR",
+      "row": 10,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CURATOR",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "POTTERY",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "MUSEUM",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "DOCENT",
+      "row": 1,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "STATUE",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "FOSSIL",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "OBJECT",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "RELIC",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8553
+}

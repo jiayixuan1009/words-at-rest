@@ -1,0 +1,208 @@
+{
+  "id": "deserts-easy-01",
+  "slug": "deserts-easy-01",
+  "themeId": "deserts",
+  "title": "Deserts: Dune Wind",
+  "primaryKeyword": "deserts word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "DRY",
+    "DUNE",
+    "DUST",
+    "HEAT",
+    "ROCK",
+    "SAND",
+    "SKY",
+    "STAR",
+    "SUN",
+    "WIND"
+  ],
+  "grid": [
+    [
+      "H",
+      "E",
+      "A",
+      "T",
+      "L",
+      "D",
+      "U",
+      "N",
+      "E",
+      "J"
+    ],
+    [
+      "S",
+      "N",
+      "V",
+      "A",
+      "W",
+      "C",
+      "S",
+      "K",
+      "Y",
+      "O"
+    ],
+    [
+      "F",
+      "L",
+      "E",
+      "F",
+      "T",
+      "U",
+      "W",
+      "P",
+      "L",
+      "X"
+    ],
+    [
+      "C",
+      "I",
+      "R",
+      "A",
+      "D",
+      "Q",
+      "C",
+      "D",
+      "K",
+      "P"
+    ],
+    [
+      "A",
+      "L",
+      "X",
+      "I",
+      "U",
+      "S",
+      "A",
+      "N",
+      "D",
+      "R"
+    ],
+    [
+      "S",
+      "T",
+      "A",
+      "R",
+      "S",
+      "Q",
+      "Y",
+      "I",
+      "A",
+      "C"
+    ],
+    [
+      "P",
+      "U",
+      "W",
+      "M",
+      "T",
+      "D",
+      "R",
+      "Y",
+      "F",
+      "W"
+    ],
+    [
+      "R",
+      "O",
+      "C",
+      "K",
+      "S",
+      "F",
+      "E",
+      "E",
+      "R",
+      "I"
+    ],
+    [
+      "T",
+      "S",
+      "S",
+      "U",
+      "N",
+      "I",
+      "V",
+      "X",
+      "X",
+      "N"
+    ],
+    [
+      "B",
+      "P",
+      "B",
+      "F",
+      "E",
+      "Q",
+      "P",
+      "T",
+      "F",
+      "D"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "DUNE",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SAND",
+      "row": 4,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "HEAT",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "WIND",
+      "row": 6,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "DUST",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "ROCK",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "STAR",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "DRY",
+      "row": 6,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SUN",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SKY",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8541
+}

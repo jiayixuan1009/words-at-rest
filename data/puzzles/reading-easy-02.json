@@ -1,0 +1,208 @@
+{
+  "id": "reading-easy-02",
+  "slug": "reading-easy-02",
+  "themeId": "reading",
+  "title": "Reading: Quiet Shelf",
+  "primaryKeyword": "reading word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CHAIR",
+    "ESSAY",
+    "LAMP",
+    "NOTE",
+    "NOVEL",
+    "PRINT",
+    "QUIET",
+    "SHELF",
+    "STACK",
+    "STUDY"
+  ],
+  "grid": [
+    [
+      "P",
+      "N",
+      "G",
+      "S",
+      "Z",
+      "E",
+      "N",
+      "C",
+      "J",
+      "G"
+    ],
+    [
+      "N",
+      "Q",
+      "T",
+      "T",
+      "B",
+      "N",
+      "O",
+      "Y",
+      "K",
+      "N"
+    ],
+    [
+      "K",
+      "S",
+      "E",
+      "U",
+      "G",
+      "W",
+      "V",
+      "X",
+      "O",
+      "O"
+    ],
+    [
+      "Z",
+      "E",
+      "A",
+      "D",
+      "Z",
+      "I",
+      "E",
+      "O",
+      "M",
+      "G"
+    ],
+    [
+      "C",
+      "Q",
+      "Q",
+      "Y",
+      "Y",
+      "Y",
+      "L",
+      "S",
+      "S",
+      "N"
+    ],
+    [
+      "H",
+      "L",
+      "N",
+      "E",
+      "S",
+      "S",
+      "A",
+      "Y",
+      "T",
+      "M"
+    ],
+    [
+      "A",
+      "A",
+      "O",
+      "Q",
+      "U",
+      "I",
+      "E",
+      "T",
+      "A",
+      "W"
+    ],
+    [
+      "I",
+      "M",
+      "T",
+      "Z",
+      "E",
+      "R",
+      "W",
+      "N",
+      "C",
+      "W"
+    ],
+    [
+      "R",
+      "P",
+      "E",
+      "P",
+      "R",
+      "I",
+      "N",
+      "T",
+      "K",
+      "B"
+    ],
+    [
+      "S",
+      "H",
+      "E",
+      "L",
+      "F",
+      "C",
+      "I",
+      "D",
+      "N",
+      "Q"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "NOVEL",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "ESSAY",
+      "row": 5,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SHELF",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "STACK",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "PRINT",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "CHAIR",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "QUIET",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "STUDY",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "NOTE",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "LAMP",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8452
+}

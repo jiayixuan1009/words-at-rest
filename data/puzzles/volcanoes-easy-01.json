@@ -1,0 +1,208 @@
+{
+  "id": "volcanoes-easy-01",
+  "slug": "volcanoes-easy-01",
+  "themeId": "volcanoes",
+  "title": "Volcanoes: Crater Rim",
+  "primaryKeyword": "volcanoes word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ASH",
+    "CONE",
+    "FIRE",
+    "FLOW",
+    "HEAT",
+    "HOT",
+    "LAVA",
+    "ROCK",
+    "SMOKE",
+    "VENT"
+  ],
+  "grid": [
+    [
+      "F",
+      "L",
+      "O",
+      "W",
+      "I",
+      "D",
+      "E",
+      "P",
+      "L",
+      "T"
+    ],
+    [
+      "I",
+      "B",
+      "B",
+      "O",
+      "D",
+      "M",
+      "Q",
+      "A",
+      "V",
+      "X"
+    ],
+    [
+      "R",
+      "N",
+      "A",
+      "N",
+      "U",
+      "U",
+      "H",
+      "E",
+      "A",
+      "T"
+    ],
+    [
+      "E",
+      "O",
+      "L",
+      "P",
+      "J",
+      "A",
+      "I",
+      "R",
+      "S",
+      "A"
+    ],
+    [
+      "S",
+      "M",
+      "O",
+      "K",
+      "E",
+      "J",
+      "R",
+      "M",
+      "N",
+      "V"
+    ],
+    [
+      "C",
+      "T",
+      "Y",
+      "A",
+      "S",
+      "H",
+      "O",
+      "S",
+      "P",
+      "S"
+    ],
+    [
+      "H",
+      "O",
+      "T",
+      "T",
+      "H",
+      "C",
+      "C",
+      "E",
+      "R",
+      "T"
+    ],
+    [
+      "L",
+      "A",
+      "V",
+      "A",
+      "I",
+      "O",
+      "K",
+      "Q",
+      "B",
+      "M"
+    ],
+    [
+      "P",
+      "D",
+      "Z",
+      "B",
+      "Y",
+      "N",
+      "V",
+      "T",
+      "G",
+      "D"
+    ],
+    [
+      "C",
+      "V",
+      "E",
+      "N",
+      "T",
+      "E",
+      "T",
+      "O",
+      "A",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SMOKE",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "LAVA",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "ROCK",
+      "row": 4,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "HEAT",
+      "row": 2,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "VENT",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CONE",
+      "row": 6,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "FLOW",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "FIRE",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "ASH",
+      "row": 5,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "HOT",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8511
+}

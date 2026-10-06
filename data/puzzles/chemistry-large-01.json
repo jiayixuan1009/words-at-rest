@@ -1,0 +1,173 @@
+{
+  "id": "chemistry-large-01",
+  "slug": "chemistry-large-01",
+  "themeId": "chemistry",
+  "title": "Large Print Chemistry: Soft Atom",
+  "primaryKeyword": "large print chemistry word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "ACID",
+    "ATOM",
+    "BOND",
+    "GOLD",
+    "HEAT",
+    "IRON",
+    "LAB",
+    "SALT"
+  ],
+  "grid": [
+    [
+      "M",
+      "L",
+      "X",
+      "V",
+      "T",
+      "C",
+      "W",
+      "L",
+      "T"
+    ],
+    [
+      "G",
+      "S",
+      "V",
+      "H",
+      "N",
+      "T",
+      "D",
+      "A",
+      "F"
+    ],
+    [
+      "N",
+      "A",
+      "U",
+      "E",
+      "M",
+      "S",
+      "B",
+      "B",
+      "J"
+    ],
+    [
+      "I",
+      "L",
+      "E",
+      "A",
+      "K",
+      "B",
+      "A",
+      "L",
+      "X"
+    ],
+    [
+      "A",
+      "T",
+      "I",
+      "T",
+      "P",
+      "O",
+      "B",
+      "J",
+      "I"
+    ],
+    [
+      "T",
+      "L",
+      "H",
+      "S",
+      "L",
+      "N",
+      "G",
+      "L",
+      "A"
+    ],
+    [
+      "O",
+      "F",
+      "Y",
+      "A",
+      "H",
+      "D",
+      "K",
+      "N",
+      "C"
+    ],
+    [
+      "M",
+      "A",
+      "I",
+      "R",
+      "O",
+      "N",
+      "S",
+      "K",
+      "I"
+    ],
+    [
+      "R",
+      "C",
+      "G",
+      "O",
+      "L",
+      "D",
+      "G",
+      "X",
+      "D"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ATOM",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BOND",
+      "row": 3,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "ACID",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "SALT",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "IRON",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "GOLD",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "HEAT",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "LAB",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8496
+}

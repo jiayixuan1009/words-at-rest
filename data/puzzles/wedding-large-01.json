@@ -1,0 +1,173 @@
+{
+  "id": "wedding-large-01",
+  "slug": "wedding-large-01",
+  "themeId": "wedding",
+  "title": "Large Print Wedding: Soft Vow",
+  "primaryKeyword": "large print wedding word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "AISLE",
+    "DAY",
+    "HOME",
+    "KISS",
+    "LOVE",
+    "RING",
+    "VEIL",
+    "VOW"
+  ],
+  "grid": [
+    [
+      "N",
+      "B",
+      "H",
+      "L",
+      "J",
+      "B",
+      "U",
+      "H",
+      "M"
+    ],
+    [
+      "W",
+      "I",
+      "O",
+      "O",
+      "Y",
+      "V",
+      "O",
+      "W",
+      "C"
+    ],
+    [
+      "C",
+      "P",
+      "M",
+      "V",
+      "R",
+      "I",
+      "N",
+      "G",
+      "V"
+    ],
+    [
+      "O",
+      "J",
+      "E",
+      "E",
+      "K",
+      "A",
+      "F",
+      "U",
+      "L"
+    ],
+    [
+      "G",
+      "A",
+      "W",
+      "H",
+      "I",
+      "I",
+      "N",
+      "R",
+      "Z"
+    ],
+    [
+      "N",
+      "D",
+      "A",
+      "Y",
+      "S",
+      "S",
+      "K",
+      "X",
+      "F"
+    ],
+    [
+      "K",
+      "F",
+      "R",
+      "G",
+      "S",
+      "L",
+      "K",
+      "C",
+      "W"
+    ],
+    [
+      "M",
+      "Y",
+      "P",
+      "D",
+      "U",
+      "E",
+      "Q",
+      "Q",
+      "C"
+    ],
+    [
+      "V",
+      "E",
+      "I",
+      "L",
+      "A",
+      "E",
+      "R",
+      "O",
+      "U"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "AISLE",
+      "row": 3,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "RING",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "VEIL",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "KISS",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "LOVE",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "HOME",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "VOW",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "DAY",
+      "row": 5,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8486
+}

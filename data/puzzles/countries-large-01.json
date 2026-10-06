@@ -1,0 +1,173 @@
+{
+  "id": "countries-large-01",
+  "slug": "countries-large-01",
+  "themeId": "countries",
+  "title": "Large Print Countries: Soft Nation",
+  "primaryKeyword": "large print countries word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "CHINA",
+    "CUBA",
+    "EGYPT",
+    "ITALY",
+    "JAPAN",
+    "PERU",
+    "SPAIN",
+    "WALES"
+  ],
+  "grid": [
+    [
+      "K",
+      "W",
+      "D",
+      "S",
+      "J",
+      "S",
+      "E",
+      "Z",
+      "D"
+    ],
+    [
+      "J",
+      "A",
+      "P",
+      "A",
+      "N",
+      "P",
+      "G",
+      "P",
+      "N"
+    ],
+    [
+      "P",
+      "C",
+      "H",
+      "I",
+      "N",
+      "A",
+      "N",
+      "O",
+      "N"
+    ],
+    [
+      "E",
+      "B",
+      "W",
+      "T",
+      "Q",
+      "Y",
+      "O",
+      "C",
+      "J"
+    ],
+    [
+      "R",
+      "R",
+      "A",
+      "A",
+      "X",
+      "O",
+      "U",
+      "U",
+      "E"
+    ],
+    [
+      "U",
+      "M",
+      "L",
+      "L",
+      "X",
+      "V",
+      "Z",
+      "B",
+      "G"
+    ],
+    [
+      "W",
+      "E",
+      "E",
+      "Y",
+      "F",
+      "J",
+      "C",
+      "A",
+      "Y"
+    ],
+    [
+      "U",
+      "Z",
+      "S",
+      "Z",
+      "M",
+      "V",
+      "P",
+      "Q",
+      "P"
+    ],
+    [
+      "V",
+      "K",
+      "S",
+      "P",
+      "A",
+      "I",
+      "N",
+      "D",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SPAIN",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ITALY",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "EGYPT",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "CHINA",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "JAPAN",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "WALES",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "PERU",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CUBA",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8416
+}

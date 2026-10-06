@@ -1,0 +1,284 @@
+{
+  "id": "wedding-medium-02",
+  "slug": "wedding-medium-02",
+  "themeId": "wedding",
+  "title": "Wedding: Toast Hour",
+  "primaryKeyword": "wedding word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CREAM",
+    "FAMILY",
+    "FEAST",
+    "FLOWER",
+    "HEART",
+    "IVORY",
+    "LACE",
+    "MEMORY",
+    "PEACE",
+    "PETAL",
+    "RIBBON",
+    "TABLE",
+    "TEA",
+    "WINE"
+  ],
+  "grid": [
+    [
+      "V",
+      "K",
+      "K",
+      "F",
+      "L",
+      "L",
+      "E",
+      "U",
+      "I",
+      "Q",
+      "Y",
+      "Z"
+    ],
+    [
+      "M",
+      "W",
+      "K",
+      "Q",
+      "L",
+      "L",
+      "A",
+      "C",
+      "E",
+      "L",
+      "Z",
+      "B"
+    ],
+    [
+      "E",
+      "T",
+      "Q",
+      "D",
+      "Z",
+      "O",
+      "N",
+      "O",
+      "I",
+      "K",
+      "M",
+      "M"
+    ],
+    [
+      "M",
+      "W",
+      "Q",
+      "A",
+      "Z",
+      "P",
+      "W",
+      "M",
+      "H",
+      "G",
+      "A",
+      "D"
+    ],
+    [
+      "O",
+      "I",
+      "B",
+      "J",
+      "W",
+      "N",
+      "A",
+      "E",
+      "R",
+      "E",
+      "T",
+      "P"
+    ],
+    [
+      "R",
+      "N",
+      "L",
+      "O",
+      "O",
+      "F",
+      "B",
+      "L",
+      "R",
+      "E",
+      "F",
+      "H"
+    ],
+    [
+      "Y",
+      "E",
+      "Y",
+      "B",
+      "L",
+      "P",
+      "I",
+      "C",
+      "L",
+      "O",
+      "E",
+      "E"
+    ],
+    [
+      "C",
+      "E",
+      "B",
+      "A",
+      "T",
+      "K",
+      "E",
+      "B",
+      "W",
+      "O",
+      "A",
+      "A"
+    ],
+    [
+      "Z",
+      "I",
+      "T",
+      "Q",
+      "E",
+      "Q",
+      "A",
+      "A",
+      "Z",
+      "Q",
+      "S",
+      "R"
+    ],
+    [
+      "R",
+      "E",
+      "P",
+      "Z",
+      "A",
+      "T",
+      "U",
+      "Y",
+      "C",
+      "P",
+      "T",
+      "T"
+    ],
+    [
+      "P",
+      "F",
+      "I",
+      "V",
+      "O",
+      "R",
+      "Y",
+      "D",
+      "T",
+      "E",
+      "Y",
+      "Q"
+    ],
+    [
+      "V",
+      "O",
+      "U",
+      "I",
+      "P",
+      "B",
+      "C",
+      "E",
+      "N",
+      "Q",
+      "N",
+      "X"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FLOWER",
+      "row": 0,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "RIBBON",
+      "row": 9,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "FAMILY",
+      "row": 5,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "MEMORY",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "TABLE",
+      "row": 9,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "FEAST",
+      "row": 5,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "PETAL",
+      "row": 10,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "IVORY",
+      "row": 10,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CREAM",
+      "row": 6,
+      "col": 7,
+      "direction": "NE"
+    },
+    {
+      "word": "PEACE",
+      "row": 6,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "HEART",
+      "row": 5,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "WINE",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "LACE",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "TEA",
+      "row": 7,
+      "col": 4,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8484
+}

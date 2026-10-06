@@ -65,7 +65,8 @@ export default function ThemesPage() {
           and breakfast), ocean (with beach), garden (with flowers and trees), kitchen, coffee &amp; tea, weather,
           camping, mountains, lakes, farming, school, jobs, friendship, kindness, gratitude, mindfulness, colors, tools,
           U.S. states, world capitals, human body, american history, presidents, dinosaurs, insects, reptiles,
-          cooking, shopping, money, cars, trains, airplanes, soccer, basketball, travel, music (with instruments, jazz, classical and musical terms), sports (with golf,
+          cooking, shopping, money, countries, continents, cities, knitting, reading, painting, birthday, wedding,
+          chemistry, mythology, volcanoes, forests, rivers, deserts, museums, cars, trains, airplanes, soccer, basketball, travel, music (with instruments, jazz, classical and musical terms), sports (with golf,
           baseball, tennis and fishing) and space work any time of year.{" "}
           <strong className="text-[var(--ink)]">Packs</strong> group puzzles by how they play rather
           than by topic: the <Link href="/themes/large-print-pack">Large Print Pack</Link> for

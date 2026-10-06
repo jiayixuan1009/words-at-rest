@@ -1,0 +1,208 @@
+{
+  "id": "volcanoes-easy-02",
+  "slug": "volcanoes-easy-02",
+  "themeId": "volcanoes",
+  "title": "Volcanoes: Quiet Ash",
+  "primaryKeyword": "volcanoes word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BOMB",
+    "CORE",
+    "CRATER",
+    "FAULT",
+    "GAS",
+    "ISLAND",
+    "MAGMA",
+    "RIDGE",
+    "SLOPE",
+    "STEAM"
+  ],
+  "grid": [
+    [
+      "G",
+      "S",
+      "J",
+      "K",
+      "P",
+      "B",
+      "G",
+      "S",
+      "M",
+      "M"
+    ],
+    [
+      "A",
+      "M",
+      "C",
+      "R",
+      "M",
+      "A",
+      "C",
+      "O",
+      "R",
+      "E"
+    ],
+    [
+      "S",
+      "X",
+      "R",
+      "I",
+      "N",
+      "L",
+      "I",
+      "K",
+      "H",
+      "S"
+    ],
+    [
+      "K",
+      "K",
+      "A",
+      "D",
+      "F",
+      "W",
+      "S",
+      "Y",
+      "M",
+      "L"
+    ],
+    [
+      "Q",
+      "K",
+      "T",
+      "G",
+      "A",
+      "V",
+      "L",
+      "I",
+      "A",
+      "O"
+    ],
+    [
+      "R",
+      "H",
+      "E",
+      "E",
+      "U",
+      "K",
+      "A",
+      "S",
+      "G",
+      "P"
+    ],
+    [
+      "Y",
+      "Z",
+      "R",
+      "J",
+      "L",
+      "P",
+      "N",
+      "T",
+      "M",
+      "E"
+    ],
+    [
+      "D",
+      "R",
+      "R",
+      "V",
+      "T",
+      "L",
+      "D",
+      "E",
+      "A",
+      "Y"
+    ],
+    [
+      "S",
+      "B",
+      "O",
+      "M",
+      "B",
+      "B",
+      "A",
+      "A",
+      "F",
+      "O"
+    ],
+    [
+      "K",
+      "F",
+      "M",
+      "I",
+      "K",
+      "E",
+      "Y",
+      "M",
+      "E",
+      "S"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CRATER",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "ISLAND",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "MAGMA",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "STEAM",
+      "row": 5,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "RIDGE",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "FAULT",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "SLOPE",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "CORE",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "BOMB",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "GAS",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8512
+}

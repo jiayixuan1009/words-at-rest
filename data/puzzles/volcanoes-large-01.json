@@ -1,0 +1,173 @@
+{
+  "id": "volcanoes-large-01",
+  "slug": "volcanoes-large-01",
+  "themeId": "volcanoes",
+  "title": "Large Print Volcanoes: Soft Ash",
+  "primaryKeyword": "large print volcanoes word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "ASH",
+    "CONE",
+    "FIRE",
+    "FLOW",
+    "HEAT",
+    "LAVA",
+    "ROCK",
+    "VENT"
+  ],
+  "grid": [
+    [
+      "I",
+      "L",
+      "A",
+      "V",
+      "A",
+      "B",
+      "L",
+      "Y",
+      "I"
+    ],
+    [
+      "R",
+      "O",
+      "W",
+      "I",
+      "R",
+      "C",
+      "E",
+      "H",
+      "P"
+    ],
+    [
+      "F",
+      "Y",
+      "Y",
+      "C",
+      "V",
+      "E",
+      "O",
+      "E",
+      "E"
+    ],
+    [
+      "L",
+      "U",
+      "O",
+      "O",
+      "H",
+      "B",
+      "X",
+      "A",
+      "L"
+    ],
+    [
+      "O",
+      "A",
+      "B",
+      "N",
+      "D",
+      "L",
+      "W",
+      "T",
+      "X"
+    ],
+    [
+      "W",
+      "Q",
+      "A",
+      "E",
+      "S",
+      "Z",
+      "L",
+      "D",
+      "Q"
+    ],
+    [
+      "E",
+      "M",
+      "V",
+      "E",
+      "N",
+      "T",
+      "U",
+      "K",
+      "G"
+    ],
+    [
+      "Z",
+      "V",
+      "J",
+      "A",
+      "S",
+      "H",
+      "T",
+      "P",
+      "S"
+    ],
+    [
+      "F",
+      "I",
+      "R",
+      "E",
+      "J",
+      "R",
+      "O",
+      "C",
+      "K"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "LAVA",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "ROCK",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "HEAT",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "CONE",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "FLOW",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "FIRE",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "VENT",
+      "row": 6,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ASH",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8516
+}

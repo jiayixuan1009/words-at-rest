@@ -154,6 +154,21 @@ const THEME_MOTIF: Record<string, string> = {
   cooking: "a wooden spoon, simmering pot and recipe card on a stove edge",
   shopping: "a woven basket, paper receipt and folded cloth tote",
   money: "a coin dish, a small ledger and a fountain pen on a desk",
+  countries: "a small globe, border stamps and an open atlas on a desk",
+  continents: "a flat world map with continent outlines and a brass compass",
+  cities: "a skyline sketch, a metro ticket stub and a city map fold",
+  knitting: "knitting needles, a ball of yarn and a folded scarf on linen",
+  reading: "an open book, reading glasses and a bookmark ribbon",
+  painting: "a paintbrush, palette and small canvas on a wooden easel edge",
+  birthday: "a small cake, candles and a wrapped gift on cream paper",
+  wedding: "a simple gold band, a dried flower and a vow card on linen",
+  chemistry: "a flask sketch, a periodic table corner and a lab notebook",
+  mythology: "an olive wreath, a clay lamp and an open myth anthology",
+  volcanoes: "a crater sketch, cooled lava rock and a field notebook",
+  forests: "fern fronds, moss and a winding forest path sketch",
+  rivers: "a winding river map, a smooth stone and reed sketch",
+  deserts: "a sand dune sketch, a cactus and a water flask",
+  museums: "a gallery bench, a framed sketch and an exhibit label card",
   "large-print-pack": "reading glasses on an open puzzle book under a lamp",
   "hard-pack": "a dense puzzle grid with a fountain pen",
 };
@@ -184,6 +199,8 @@ const THEME_MOTIF: Record<string, string> = {
  * TEMPORARY covers for Wave E (kindness, gratitude, mindfulness, colors, tools, soccer,
  * basketball, american-history, presidents, dinosaurs, insects, reptiles, cooking,
  * shopping, money): borrow nearby art until dedicated paintings land. Swap webp/OG only.
+ *
+ * TEMPORARY covers for Wave F (countries…museums): borrow nearby art; swap webp/OG only.
  */
 
 export function themeArt(slug: string, themeName: string): Art {

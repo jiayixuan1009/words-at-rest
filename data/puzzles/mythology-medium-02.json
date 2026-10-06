@@ -1,0 +1,284 @@
+{
+  "id": "mythology-medium-02",
+  "slug": "mythology-medium-02",
+  "themeId": "mythology",
+  "title": "Mythology: Epic Verse",
+  "primaryKeyword": "mythology word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "APOLLO",
+    "ARES",
+    "ARTEMIS",
+    "ATHENA",
+    "CHORUS",
+    "DEMETER",
+    "DESTINY",
+    "HERA",
+    "HERMES",
+    "ILIAD",
+    "ODYSSEY",
+    "OFFERING",
+    "POSEIDON",
+    "RITUAL"
+  ],
+  "grid": [
+    [
+      "Q",
+      "G",
+      "O",
+      "F",
+      "F",
+      "E",
+      "R",
+      "I",
+      "N",
+      "G",
+      "K",
+      "B"
+    ],
+    [
+      "R",
+      "H",
+      "W",
+      "E",
+      "P",
+      "E",
+      "B",
+      "Y",
+      "B",
+      "R",
+      "F",
+      "K"
+    ],
+    [
+      "W",
+      "M",
+      "G",
+      "H",
+      "A",
+      "H",
+      "K",
+      "O",
+      "S",
+      "O",
+      "H",
+      "B"
+    ],
+    [
+      "P",
+      "O",
+      "S",
+      "E",
+      "I",
+      "D",
+      "O",
+      "N",
+      "O",
+      "G",
+      "E",
+      "L"
+    ],
+    [
+      "A",
+      "R",
+      "E",
+      "S",
+      "A",
+      "T",
+      "H",
+      "E",
+      "N",
+      "A",
+      "R",
+      "H"
+    ],
+    [
+      "O",
+      "D",
+      "Y",
+      "S",
+      "S",
+      "E",
+      "Y",
+      "A",
+      "F",
+      "N",
+      "A",
+      "E"
+    ],
+    [
+      "J",
+      "U",
+      "K",
+      "G",
+      "A",
+      "R",
+      "T",
+      "E",
+      "M",
+      "I",
+      "S",
+      "R"
+    ],
+    [
+      "D",
+      "E",
+      "M",
+      "E",
+      "T",
+      "E",
+      "R",
+      "D",
+      "D",
+      "F",
+      "X",
+      "M"
+    ],
+    [
+      "M",
+      "R",
+      "D",
+      "E",
+      "S",
+      "T",
+      "I",
+      "N",
+      "Y",
+      "O",
+      "P",
+      "E"
+    ],
+    [
+      "K",
+      "W",
+      "R",
+      "I",
+      "T",
+      "U",
+      "A",
+      "L",
+      "H",
+      "H",
+      "C",
+      "S"
+    ],
+    [
+      "C",
+      "H",
+      "O",
+      "R",
+      "U",
+      "S",
+      "A",
+      "P",
+      "O",
+      "L",
+      "L",
+      "O"
+    ],
+    [
+      "S",
+      "I",
+      "L",
+      "I",
+      "A",
+      "D",
+      "M",
+      "J",
+      "Z",
+      "J",
+      "P",
+      "B"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "POSEIDON",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "OFFERING",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ARTEMIS",
+      "row": 6,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "DEMETER",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "ODYSSEY",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "DESTINY",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ATHENA",
+      "row": 4,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "APOLLO",
+      "row": 10,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "HERMES",
+      "row": 4,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "CHORUS",
+      "row": 10,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "RITUAL",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ILIAD",
+      "row": 11,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "HERA",
+      "row": 2,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "ARES",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8504
+}
