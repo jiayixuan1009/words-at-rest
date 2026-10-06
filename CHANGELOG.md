@@ -41,10 +41,13 @@
 - `a613061`（2026-10-06 13:04）从子主题提交中移除误纳入的难度图文档（当时属于并行工作）。
 - `86de8e3` 文档：`docs/PRODUCT.md`、`docs/ROADMAP.md`、`docs/README.md`、`CHANGELOG.md`；补入 `design/STRUCTURED-DATA-PLAN.md`、`design/DIFFICULTY-IMAGE-REQUEST.md`、`design/difficulty-image-manifest.csv`。
 
-### 新增 — 节日 Wave 1（分支 `holidays-wave1`，未推送、未部署）
-- `0b358cc`（2026-10-06 12:58）Thanksgiving、Winter、Valentine's Day、Easter 四个主题，每个 6 题（Bible 模板）；新增 `/holidays` 汇总页；接入顶部导航、页脚、sitemap、`llms.txt`。
+### 新增 — 节日 Wave 1（分支 `holidays-rebase`，基于 master `de568d3`，未推送、未部署）
+- 原 `holidays-wave1` `0b358cc` 已 cherry-pick 到当前 master 为 `e731b3f`（worktree `/workspace/war-holidays`）：Thanksgiving、Winter、Valentine's Day、Easter 四个主题，每个 6 题（easy×2 / medium×2 / hard / large）；新增 `/holidays` 汇总页；页脚、sitemap、`llms.txt`、主题 Seasonal 分组已接。
+  - **顶部导航仍为 4 项**（Daily / Themes / Large Print / How to Play）；Holidays 入口在页脚与 `/themes` 季节分组，避免挤掉 Large Print。
   - 封面 / OG 暂借旧图（thanksgiving←fall、winter←christmas、valentines←food、easter←garden）；出图需求 `design/HOLIDAY-IMAGE-REQUEST.md`。
-  - 新增规划 `design/THEME-EXPANSION-PLAN.md`。
+  - **难度递进图已接线：** `design/pending-difficulty/{easter,thanksgiving,valentines,winter}-{easy,medium,hard}.webp` → `public/images/themes/`，派生 640/320；`DIFFICULTY_ART_THEMES` + `LEVEL_MOTIF` 已加四个 slug。
+  - 规模：主题 16→20，谜题 46→70。规划见 `design/THEME-EXPANSION-PLAN.md`。
+  - 上线前：typecheck / build / check-images / daily:check；等 Reggie 确认后再 push / deploy。
 
 ---
 
