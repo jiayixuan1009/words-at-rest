@@ -17,7 +17,7 @@ const DATES = datesFor("app/themes/page.tsx", "data/themes/index.ts");
 const THEMES_CITED = [CITATIONS.mwColour, CITATIONS.niaCognitiveHealth];
 
 const DESCRIPTION =
-  "Browse free word search puzzles by theme: Halloween, fall, Thanksgiving, Christmas, winter, Valentine's, Easter, Bible, animals, ocean, garden, music, space, large print and more. Original word lists, playable online.";
+  "Browse free word search puzzles by theme: holidays, seasons, Bible, animals, kitchen, garden, music, sports, large print and more. Original word lists, playable online.";
 
 export const metadata: Metadata = seo({
   title: "Word Search Themes — Browse All Puzzles",
@@ -56,15 +56,15 @@ export default function ThemesPage() {
       <section className="mt-14 max-w-3xl space-y-4 text-lg leading-relaxed text-[var(--ink-soft)]">
         <h2 className="font-serif text-2xl font-semibold text-[var(--ink)]">How are the themes organized?</h2>
         <p>
-          <strong className="text-[var(--ink)]">Seasonal themes</strong> —{" "}
-          <Link href="/themes/halloween">Halloween</Link>, <Link href="/themes/fall">fall</Link>,{" "}
-          <Link href="/themes/thanksgiving">Thanksgiving</Link>,{" "}
-          <Link href="/themes/christmas">Christmas</Link>, <Link href="/themes/winter">winter</Link>,{" "}
-          <Link href="/themes/valentines">Valentine&apos;s Day</Link> and{" "}
-          <Link href="/themes/easter">Easter</Link> — follow the calendar. See also the{" "}
-          <Link href="/holidays">holidays hub</Link>.{" "}
+          <strong className="text-[var(--ink)]">Seasonal themes</strong> — Halloween, fall,
+          Thanksgiving, Christmas, winter, Valentine&apos;s Day, Easter, New Year, St. Patrick&apos;s
+          Day, Mother&apos;s Day, Father&apos;s Day, Independence Day, spring and summer — follow the
+          calendar. See also the <Link href="/holidays">holidays hub</Link>.{" "}
           <strong className="text-[var(--ink)]">Evergreen themes</strong>{" "}
-          such as Bible, animals, food (with baking, desserts, herbs and fruits), ocean, garden, travel, music (with instruments, jazz, classical and musical terms), sports (with golf, baseball, tennis and fishing) and space work any time of year.{" "}
+          such as Bible, animals (with birds), food (with baking, desserts, herbs, fruits, vegetables
+          and breakfast), ocean, garden (with flowers and trees), kitchen, coffee &amp; tea, weather,
+          travel, music (with instruments, jazz, classical and musical terms), sports (with golf,
+          baseball, tennis and fishing) and space work any time of year.{" "}
           <strong className="text-[var(--ink)]">Packs</strong> group puzzles by how they play rather
           than by topic: the <Link href="/themes/large-print-pack">Large Print Pack</Link> for
           comfortable reading and the <Link href="/themes/hard-pack">Hard Pack</Link> for a serious

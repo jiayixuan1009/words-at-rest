@@ -1,0 +1,208 @@
+{
+  "id": "new-year-easy-01",
+  "slug": "new-year-easy-01",
+  "themeId": "new-year",
+  "title": "New Year: Countdown Night",
+  "primaryKeyword": "new year word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BALLOON",
+    "CLOCK",
+    "DAWN",
+    "FRESH",
+    "HOPE",
+    "PARTY",
+    "START",
+    "TOAST",
+    "WISH",
+    "YEAR"
+  ],
+  "grid": [
+    [
+      "W",
+      "N",
+      "A",
+      "H",
+      "D",
+      "B",
+      "A",
+      "W",
+      "O",
+      "P"
+    ],
+    [
+      "D",
+      "R",
+      "T",
+      "O",
+      "A",
+      "S",
+      "T",
+      "C",
+      "B",
+      "A"
+    ],
+    [
+      "Z",
+      "S",
+      "N",
+      "P",
+      "A",
+      "E",
+      "I",
+      "L",
+      "A",
+      "R"
+    ],
+    [
+      "Z",
+      "Y",
+      "E",
+      "E",
+      "L",
+      "L",
+      "E",
+      "O",
+      "L",
+      "T"
+    ],
+    [
+      "Y",
+      "J",
+      "F",
+      "I",
+      "E",
+      "E",
+      "U",
+      "C",
+      "L",
+      "Y"
+    ],
+    [
+      "S",
+      "A",
+      "Z",
+      "P",
+      "Y",
+      "Q",
+      "F",
+      "K",
+      "O",
+      "P"
+    ],
+    [
+      "T",
+      "A",
+      "C",
+      "U",
+      "E",
+      "N",
+      "R",
+      "E",
+      "O",
+      "G"
+    ],
+    [
+      "A",
+      "Y",
+      "E",
+      "A",
+      "R",
+      "B",
+      "E",
+      "S",
+      "N",
+      "L"
+    ],
+    [
+      "R",
+      "G",
+      "H",
+      "L",
+      "W",
+      "I",
+      "S",
+      "H",
+      "O",
+      "J"
+    ],
+    [
+      "T",
+      "D",
+      "D",
+      "A",
+      "W",
+      "N",
+      "H",
+      "G",
+      "P",
+      "S"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BALLOON",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "CLOCK",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "TOAST",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "FRESH",
+      "row": 5,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "START",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "PARTY",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "YEAR",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "WISH",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "HOPE",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "DAWN",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7011
+}

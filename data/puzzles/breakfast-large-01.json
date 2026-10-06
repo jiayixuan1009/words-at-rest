@@ -1,0 +1,173 @@
+{
+  "id": "breakfast-large-01",
+  "slug": "breakfast-large-01",
+  "themeId": "breakfast",
+  "title": "Large Print Breakfast: Soft Plate",
+  "primaryKeyword": "large print breakfast word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "EGG",
+    "JAM",
+    "MILK",
+    "OATS",
+    "PLATE",
+    "SCONE",
+    "TEA",
+    "TOAST"
+  ],
+  "grid": [
+    [
+      "A",
+      "M",
+      "V",
+      "U",
+      "E",
+      "W",
+      "V",
+      "L",
+      "S"
+    ],
+    [
+      "A",
+      "J",
+      "Q",
+      "P",
+      "G",
+      "E",
+      "J",
+      "U",
+      "U"
+    ],
+    [
+      "B",
+      "U",
+      "B",
+      "E",
+      "G",
+      "V",
+      "A",
+      "X",
+      "M"
+    ],
+    [
+      "K",
+      "M",
+      "N",
+      "Q",
+      "B",
+      "C",
+      "M",
+      "L",
+      "P"
+    ],
+    [
+      "O",
+      "J",
+      "G",
+      "F",
+      "T",
+      "X",
+      "T",
+      "Y",
+      "L"
+    ],
+    [
+      "A",
+      "K",
+      "N",
+      "N",
+      "H",
+      "R",
+      "E",
+      "X",
+      "A"
+    ],
+    [
+      "T",
+      "M",
+      "I",
+      "L",
+      "K",
+      "K",
+      "A",
+      "G",
+      "T"
+    ],
+    [
+      "S",
+      "W",
+      "V",
+      "T",
+      "O",
+      "A",
+      "S",
+      "T",
+      "E"
+    ],
+    [
+      "P",
+      "S",
+      "C",
+      "O",
+      "N",
+      "E",
+      "M",
+      "P",
+      "S"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TOAST",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SCONE",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PLATE",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "OATS",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "MILK",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "EGG",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "JAM",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "TEA",
+      "row": 4,
+      "col": 6,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7126
+}

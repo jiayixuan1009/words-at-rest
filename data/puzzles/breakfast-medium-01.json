@@ -1,0 +1,284 @@
+{
+  "id": "breakfast-medium-01",
+  "slug": "breakfast-medium-01",
+  "themeId": "breakfast",
+  "title": "Breakfast: Pantry Shelf",
+  "primaryKeyword": "breakfast word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BISCUIT",
+    "GRANOLA",
+    "KETTLE",
+    "MORNING",
+    "MUFFIN",
+    "OMELET",
+    "ORANGE",
+    "PANCAKE",
+    "PORRIDGE",
+    "SKILLET",
+    "SPREAD",
+    "SYRUP",
+    "WAFFLE",
+    "YOGURT"
+  ],
+  "grid": [
+    [
+      "N",
+      "Y",
+      "C",
+      "K",
+      "S",
+      "E",
+      "S",
+      "Y",
+      "R",
+      "U",
+      "P",
+      "T"
+    ],
+    [
+      "P",
+      "A",
+      "N",
+      "C",
+      "A",
+      "K",
+      "E",
+      "Y",
+      "D",
+      "Q",
+      "R",
+      "G"
+    ],
+    [
+      "Z",
+      "Z",
+      "K",
+      "E",
+      "T",
+      "T",
+      "L",
+      "E",
+      "E",
+      "U",
+      "U",
+      "X"
+    ],
+    [
+      "G",
+      "N",
+      "P",
+      "Q",
+      "B",
+      "S",
+      "J",
+      "L",
+      "G",
+      "G",
+      "N",
+      "D"
+    ],
+    [
+      "S",
+      "O",
+      "D",
+      "O",
+      "H",
+      "O",
+      "F",
+      "O",
+      "N",
+      "A",
+      "A",
+      "A"
+    ],
+    [
+      "K",
+      "R",
+      "R",
+      "W",
+      "R",
+      "F",
+      "Y",
+      "I",
+      "M",
+      "E",
+      "F",
+      "G"
+    ],
+    [
+      "I",
+      "O",
+      "H",
+      "A",
+      "A",
+      "R",
+      "N",
+      "B",
+      "R",
+      "J",
+      "M",
+      "R"
+    ],
+    [
+      "L",
+      "X",
+      "S",
+      "W",
+      "N",
+      "R",
+      "I",
+      "P",
+      "R",
+      "B",
+      "U",
+      "A"
+    ],
+    [
+      "L",
+      "H",
+      "F",
+      "O",
+      "O",
+      "G",
+      "S",
+      "D",
+      "F",
+      "K",
+      "F",
+      "N"
+    ],
+    [
+      "E",
+      "T",
+      "K",
+      "M",
+      "A",
+      "E",
+      "E",
+      "C",
+      "G",
+      "M",
+      "F",
+      "O"
+    ],
+    [
+      "T",
+      "B",
+      "I",
+      "S",
+      "C",
+      "U",
+      "I",
+      "T",
+      "W",
+      "E",
+      "I",
+      "L"
+    ],
+    [
+      "Q",
+      "Y",
+      "O",
+      "M",
+      "E",
+      "L",
+      "E",
+      "T",
+      "A",
+      "M",
+      "N",
+      "A"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PORRIDGE",
+      "row": 3,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "GRANOLA",
+      "row": 5,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "PANCAKE",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BISCUIT",
+      "row": 10,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "MORNING",
+      "row": 9,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "SKILLET",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "MUFFIN",
+      "row": 6,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "WAFFLE",
+      "row": 7,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "OMELET",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ORANGE",
+      "row": 4,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "YOGURT",
+      "row": 5,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "KETTLE",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SPREAD",
+      "row": 8,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "SYRUP",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7123
+}

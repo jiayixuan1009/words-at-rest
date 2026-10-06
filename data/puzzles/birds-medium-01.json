@@ -1,0 +1,284 @@
+{
+  "id": "birds-medium-01",
+  "slug": "birds-medium-01",
+  "themeId": "birds",
+  "title": "Birds: Wing & Nest",
+  "primaryKeyword": "birds word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BRANCH",
+    "CARDINAL",
+    "CHORUS",
+    "EAGLE",
+    "EGRET",
+    "FALCON",
+    "FEATHER",
+    "FEEDER",
+    "GOOSE",
+    "HERON",
+    "PIGEON",
+    "RAVEN",
+    "SPARROW",
+    "THRUSH"
+  ],
+  "grid": [
+    [
+      "T",
+      "Y",
+      "R",
+      "H",
+      "T",
+      "K",
+      "F",
+      "R",
+      "A",
+      "V",
+      "E",
+      "N"
+    ],
+    [
+      "V",
+      "F",
+      "U",
+      "R",
+      "J",
+      "E",
+      "G",
+      "R",
+      "E",
+      "T",
+      "F",
+      "B"
+    ],
+    [
+      "G",
+      "C",
+      "A",
+      "R",
+      "D",
+      "I",
+      "N",
+      "A",
+      "L",
+      "C",
+      "E",
+      "R"
+    ],
+    [
+      "I",
+      "V",
+      "S",
+      "C",
+      "P",
+      "B",
+      "U",
+      "K",
+      "L",
+      "H",
+      "A",
+      "A"
+    ],
+    [
+      "G",
+      "T",
+      "P",
+      "Q",
+      "W",
+      "N",
+      "X",
+      "G",
+      "J",
+      "O",
+      "T",
+      "N"
+    ],
+    [
+      "F",
+      "H",
+      "A",
+      "X",
+      "E",
+      "A",
+      "G",
+      "L",
+      "E",
+      "R",
+      "H",
+      "C"
+    ],
+    [
+      "E",
+      "R",
+      "R",
+      "Z",
+      "P",
+      "Q",
+      "Q",
+      "Z",
+      "Q",
+      "U",
+      "E",
+      "H"
+    ],
+    [
+      "E",
+      "U",
+      "R",
+      "J",
+      "I",
+      "E",
+      "X",
+      "G",
+      "L",
+      "S",
+      "R",
+      "D"
+    ],
+    [
+      "D",
+      "S",
+      "O",
+      "F",
+      "G",
+      "G",
+      "O",
+      "O",
+      "S",
+      "E",
+      "K",
+      "Q"
+    ],
+    [
+      "E",
+      "H",
+      "W",
+      "G",
+      "E",
+      "F",
+      "A",
+      "L",
+      "C",
+      "O",
+      "N",
+      "O"
+    ],
+    [
+      "R",
+      "V",
+      "N",
+      "H",
+      "O",
+      "H",
+      "E",
+      "R",
+      "O",
+      "N",
+      "O",
+      "K"
+    ],
+    [
+      "N",
+      "E",
+      "B",
+      "O",
+      "N",
+      "B",
+      "K",
+      "R",
+      "K",
+      "E",
+      "O",
+      "D"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CARDINAL",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SPARROW",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "FEATHER",
+      "row": 1,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "PIGEON",
+      "row": 6,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "FALCON",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "THRUSH",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "BRANCH",
+      "row": 1,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "FEEDER",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CHORUS",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "RAVEN",
+      "row": 0,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "EAGLE",
+      "row": 5,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "HERON",
+      "row": 10,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "EGRET",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "GOOSE",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7153
+}

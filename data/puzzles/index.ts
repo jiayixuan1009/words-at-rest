@@ -135,6 +135,96 @@ import p_music_terms_medium_01 from "./music-terms-medium-01.json";
 import p_music_terms_medium_02 from "./music-terms-medium-02.json";
 import p_music_terms_hard_01 from "./music-terms-hard-01.json";
 import p_music_terms_large_01 from "./music-terms-large-01.json";
+import p_new_year_easy_01 from "./new-year-easy-01.json";
+import p_new_year_easy_02 from "./new-year-easy-02.json";
+import p_new_year_medium_01 from "./new-year-medium-01.json";
+import p_new_year_medium_02 from "./new-year-medium-02.json";
+import p_new_year_hard_01 from "./new-year-hard-01.json";
+import p_new_year_large_01 from "./new-year-large-01.json";
+import p_st_patricks_easy_01 from "./st-patricks-easy-01.json";
+import p_st_patricks_easy_02 from "./st-patricks-easy-02.json";
+import p_st_patricks_medium_01 from "./st-patricks-medium-01.json";
+import p_st_patricks_medium_02 from "./st-patricks-medium-02.json";
+import p_st_patricks_hard_01 from "./st-patricks-hard-01.json";
+import p_st_patricks_large_01 from "./st-patricks-large-01.json";
+import p_mothers_day_easy_01 from "./mothers-day-easy-01.json";
+import p_mothers_day_easy_02 from "./mothers-day-easy-02.json";
+import p_mothers_day_medium_01 from "./mothers-day-medium-01.json";
+import p_mothers_day_medium_02 from "./mothers-day-medium-02.json";
+import p_mothers_day_hard_01 from "./mothers-day-hard-01.json";
+import p_mothers_day_large_01 from "./mothers-day-large-01.json";
+import p_fathers_day_easy_01 from "./fathers-day-easy-01.json";
+import p_fathers_day_easy_02 from "./fathers-day-easy-02.json";
+import p_fathers_day_medium_01 from "./fathers-day-medium-01.json";
+import p_fathers_day_medium_02 from "./fathers-day-medium-02.json";
+import p_fathers_day_hard_01 from "./fathers-day-hard-01.json";
+import p_fathers_day_large_01 from "./fathers-day-large-01.json";
+import p_independence_day_easy_01 from "./independence-day-easy-01.json";
+import p_independence_day_easy_02 from "./independence-day-easy-02.json";
+import p_independence_day_medium_01 from "./independence-day-medium-01.json";
+import p_independence_day_medium_02 from "./independence-day-medium-02.json";
+import p_independence_day_hard_01 from "./independence-day-hard-01.json";
+import p_independence_day_large_01 from "./independence-day-large-01.json";
+import p_spring_easy_01 from "./spring-easy-01.json";
+import p_spring_easy_02 from "./spring-easy-02.json";
+import p_spring_medium_01 from "./spring-medium-01.json";
+import p_spring_medium_02 from "./spring-medium-02.json";
+import p_spring_hard_01 from "./spring-hard-01.json";
+import p_spring_large_01 from "./spring-large-01.json";
+import p_summer_easy_01 from "./summer-easy-01.json";
+import p_summer_easy_02 from "./summer-easy-02.json";
+import p_summer_medium_01 from "./summer-medium-01.json";
+import p_summer_medium_02 from "./summer-medium-02.json";
+import p_summer_hard_01 from "./summer-hard-01.json";
+import p_summer_large_01 from "./summer-large-01.json";
+import p_vegetables_easy_01 from "./vegetables-easy-01.json";
+import p_vegetables_easy_02 from "./vegetables-easy-02.json";
+import p_vegetables_medium_01 from "./vegetables-medium-01.json";
+import p_vegetables_medium_02 from "./vegetables-medium-02.json";
+import p_vegetables_hard_01 from "./vegetables-hard-01.json";
+import p_vegetables_large_01 from "./vegetables-large-01.json";
+import p_breakfast_easy_01 from "./breakfast-easy-01.json";
+import p_breakfast_easy_02 from "./breakfast-easy-02.json";
+import p_breakfast_medium_01 from "./breakfast-medium-01.json";
+import p_breakfast_medium_02 from "./breakfast-medium-02.json";
+import p_breakfast_hard_01 from "./breakfast-hard-01.json";
+import p_breakfast_large_01 from "./breakfast-large-01.json";
+import p_coffee_tea_easy_01 from "./coffee-tea-easy-01.json";
+import p_coffee_tea_easy_02 from "./coffee-tea-easy-02.json";
+import p_coffee_tea_medium_01 from "./coffee-tea-medium-01.json";
+import p_coffee_tea_medium_02 from "./coffee-tea-medium-02.json";
+import p_coffee_tea_hard_01 from "./coffee-tea-hard-01.json";
+import p_coffee_tea_large_01 from "./coffee-tea-large-01.json";
+import p_kitchen_easy_01 from "./kitchen-easy-01.json";
+import p_kitchen_easy_02 from "./kitchen-easy-02.json";
+import p_kitchen_medium_01 from "./kitchen-medium-01.json";
+import p_kitchen_medium_02 from "./kitchen-medium-02.json";
+import p_kitchen_hard_01 from "./kitchen-hard-01.json";
+import p_kitchen_large_01 from "./kitchen-large-01.json";
+import p_birds_easy_01 from "./birds-easy-01.json";
+import p_birds_easy_02 from "./birds-easy-02.json";
+import p_birds_medium_01 from "./birds-medium-01.json";
+import p_birds_medium_02 from "./birds-medium-02.json";
+import p_birds_hard_01 from "./birds-hard-01.json";
+import p_birds_large_01 from "./birds-large-01.json";
+import p_flowers_easy_01 from "./flowers-easy-01.json";
+import p_flowers_easy_02 from "./flowers-easy-02.json";
+import p_flowers_medium_01 from "./flowers-medium-01.json";
+import p_flowers_medium_02 from "./flowers-medium-02.json";
+import p_flowers_hard_01 from "./flowers-hard-01.json";
+import p_flowers_large_01 from "./flowers-large-01.json";
+import p_trees_easy_01 from "./trees-easy-01.json";
+import p_trees_easy_02 from "./trees-easy-02.json";
+import p_trees_medium_01 from "./trees-medium-01.json";
+import p_trees_medium_02 from "./trees-medium-02.json";
+import p_trees_hard_01 from "./trees-hard-01.json";
+import p_trees_large_01 from "./trees-large-01.json";
+import p_weather_easy_01 from "./weather-easy-01.json";
+import p_weather_easy_02 from "./weather-easy-02.json";
+import p_weather_medium_01 from "./weather-medium-01.json";
+import p_weather_medium_02 from "./weather-medium-02.json";
+import p_weather_hard_01 from "./weather-hard-01.json";
+import p_weather_large_01 from "./weather-large-01.json";
 import p_hard_pack_hard_01 from "./hard-pack-hard-01.json";
 import p_hard_pack_hard_02 from "./hard-pack-hard-02.json";
 import p_hard_pack_hard_03 from "./hard-pack-hard-03.json";
@@ -279,6 +369,96 @@ export const puzzles = [
   p_music_terms_medium_02,
   p_music_terms_hard_01,
   p_music_terms_large_01,
+  p_new_year_easy_01,
+  p_new_year_easy_02,
+  p_new_year_medium_01,
+  p_new_year_medium_02,
+  p_new_year_hard_01,
+  p_new_year_large_01,
+  p_st_patricks_easy_01,
+  p_st_patricks_easy_02,
+  p_st_patricks_medium_01,
+  p_st_patricks_medium_02,
+  p_st_patricks_hard_01,
+  p_st_patricks_large_01,
+  p_mothers_day_easy_01,
+  p_mothers_day_easy_02,
+  p_mothers_day_medium_01,
+  p_mothers_day_medium_02,
+  p_mothers_day_hard_01,
+  p_mothers_day_large_01,
+  p_fathers_day_easy_01,
+  p_fathers_day_easy_02,
+  p_fathers_day_medium_01,
+  p_fathers_day_medium_02,
+  p_fathers_day_hard_01,
+  p_fathers_day_large_01,
+  p_independence_day_easy_01,
+  p_independence_day_easy_02,
+  p_independence_day_medium_01,
+  p_independence_day_medium_02,
+  p_independence_day_hard_01,
+  p_independence_day_large_01,
+  p_spring_easy_01,
+  p_spring_easy_02,
+  p_spring_medium_01,
+  p_spring_medium_02,
+  p_spring_hard_01,
+  p_spring_large_01,
+  p_summer_easy_01,
+  p_summer_easy_02,
+  p_summer_medium_01,
+  p_summer_medium_02,
+  p_summer_hard_01,
+  p_summer_large_01,
+  p_vegetables_easy_01,
+  p_vegetables_easy_02,
+  p_vegetables_medium_01,
+  p_vegetables_medium_02,
+  p_vegetables_hard_01,
+  p_vegetables_large_01,
+  p_breakfast_easy_01,
+  p_breakfast_easy_02,
+  p_breakfast_medium_01,
+  p_breakfast_medium_02,
+  p_breakfast_hard_01,
+  p_breakfast_large_01,
+  p_coffee_tea_easy_01,
+  p_coffee_tea_easy_02,
+  p_coffee_tea_medium_01,
+  p_coffee_tea_medium_02,
+  p_coffee_tea_hard_01,
+  p_coffee_tea_large_01,
+  p_kitchen_easy_01,
+  p_kitchen_easy_02,
+  p_kitchen_medium_01,
+  p_kitchen_medium_02,
+  p_kitchen_hard_01,
+  p_kitchen_large_01,
+  p_birds_easy_01,
+  p_birds_easy_02,
+  p_birds_medium_01,
+  p_birds_medium_02,
+  p_birds_hard_01,
+  p_birds_large_01,
+  p_flowers_easy_01,
+  p_flowers_easy_02,
+  p_flowers_medium_01,
+  p_flowers_medium_02,
+  p_flowers_hard_01,
+  p_flowers_large_01,
+  p_trees_easy_01,
+  p_trees_easy_02,
+  p_trees_medium_01,
+  p_trees_medium_02,
+  p_trees_hard_01,
+  p_trees_large_01,
+  p_weather_easy_01,
+  p_weather_easy_02,
+  p_weather_medium_01,
+  p_weather_medium_02,
+  p_weather_hard_01,
+  p_weather_large_01,
   p_hard_pack_hard_01,
   p_hard_pack_hard_02,
   p_hard_pack_hard_03,

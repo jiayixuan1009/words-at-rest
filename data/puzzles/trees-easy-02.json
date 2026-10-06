@@ -1,0 +1,208 @@
+{
+  "id": "trees-easy-02",
+  "slug": "trees-easy-02",
+  "themeId": "trees",
+  "title": "Trees: Leaf & Bark",
+  "primaryKeyword": "trees word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BARK",
+    "CEDAR",
+    "CONE",
+    "GROVE",
+    "HOLLY",
+    "TRUNK",
+    "TWIG",
+    "WILLOW",
+    "WOODS",
+    "YEW"
+  ],
+  "grid": [
+    [
+      "Q",
+      "F",
+      "K",
+      "B",
+      "A",
+      "R",
+      "K",
+      "K",
+      "W",
+      "H"
+    ],
+    [
+      "R",
+      "M",
+      "M",
+      "T",
+      "W",
+      "I",
+      "G",
+      "U",
+      "U",
+      "O"
+    ],
+    [
+      "W",
+      "I",
+      "L",
+      "L",
+      "O",
+      "W",
+      "R",
+      "S",
+      "G",
+      "L"
+    ],
+    [
+      "W",
+      "Y",
+      "X",
+      "H",
+      "T",
+      "B",
+      "O",
+      "O",
+      "N",
+      "L"
+    ],
+    [
+      "A",
+      "E",
+      "K",
+      "W",
+      "R",
+      "H",
+      "V",
+      "J",
+      "M",
+      "Y"
+    ],
+    [
+      "M",
+      "W",
+      "K",
+      "O",
+      "U",
+      "W",
+      "E",
+      "E",
+      "D",
+      "B"
+    ],
+    [
+      "P",
+      "S",
+      "B",
+      "O",
+      "N",
+      "C",
+      "O",
+      "N",
+      "E",
+      "J"
+    ],
+    [
+      "L",
+      "P",
+      "L",
+      "D",
+      "K",
+      "Y",
+      "K",
+      "A",
+      "Y",
+      "S"
+    ],
+    [
+      "X",
+      "C",
+      "P",
+      "S",
+      "X",
+      "Q",
+      "I",
+      "N",
+      "S",
+      "Z"
+    ],
+    [
+      "E",
+      "Q",
+      "G",
+      "Q",
+      "C",
+      "E",
+      "D",
+      "A",
+      "R",
+      "K"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "WILLOW",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CEDAR",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "HOLLY",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "TRUNK",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "GROVE",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "WOODS",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "BARK",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "TWIG",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "CONE",
+      "row": 6,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "YEW",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7172
+}

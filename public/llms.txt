@@ -3,7 +3,7 @@
 > Words at Rest (https://wordsatrest.com) is a free, independent website of calm English (en-US) word search puzzles for adults and seniors. Puzzles play in the browser with no download, no account and no timer. Large print is available on every puzzle. Edited by Reggie J. Contact: hello@wordsatrest.com.
 
 Key facts:
-- Launched 2026-10-06. 32 themes, 142 hand-themed puzzles (including Bible, holidays, and sports/food/music sub-themes), plus one unique daily puzzle per day from 2026-10-07 (rotates at 00:00 UTC; dated pages at /daily/YYYY-MM-DD; month calendar and changelog at /calendar).
+- Launched 2026-10-06. 47 themes, 232 hand-themed puzzles (including Bible, holidays wave 1–2, kitchen/nature themes, and sports/food/music sub-themes), plus one unique daily puzzle per day from 2026-10-07 (rotates at 00:00 UTC; dated pages at /daily/YYYY-MM-DD; month calendar and changelog at /calendar).
 - Difficulty levels: Easy = 10×10 grid, 10 words, across and down only. Medium = 12×12, 14 words, adds diagonals. Hard = 15×15, 18 words, all eight directions including backwards. Large print = 9×9, 8 words, across and down, extra-large letters.
 - Selection: drag across a word, or tap its first letter then its last letter. Progress is saved locally in the browser.
 - All word lists are original; no licensed characters or brand names. Audience: teens and adults (not directed at children under 13). Free, ad-supported; ads never cover the puzzle.
@@ -15,11 +15,13 @@ Key facts:
 - [Large print word search](https://wordsatrest.com/large-print): 9×9 grids with big letters for seniors and low vision.
 - [How to play word search](https://wordsatrest.com/how-to-play): definition, steps, difficulty table, tips and FAQ.
 - [Word search for adults](https://wordsatrest.com/adults): what makes the puzzles adult-oriented, FAQ.
-- [All themes](https://wordsatrest.com/themes): seasonal (Halloween, fall, Thanksgiving, Christmas, winter, Valentine's Day, Easter), evergreen (Bible, animals, food, ocean, garden, travel, music, space, sports, dogs, cats) and packs (Large Print Pack, Hard Pack).
+- [All themes](https://wordsatrest.com/themes): seasonal (Halloween, fall, Thanksgiving, Christmas, winter, Valentine's Day, Easter, New Year, St. Patrick's Day, Mother's Day, Father's Day, Independence Day, spring, summer), evergreen (Bible, animals, birds, food, kitchen, coffee & tea, breakfast, vegetables, ocean, garden, flowers, trees, weather, travel, music, space, sports, dogs, cats) and packs (Large Print Pack, Hard Pack).
 - [Sports sub-themes](https://wordsatrest.com/themes/sports): golf, baseball, tennis, fishing.
-- [Food sub-themes](https://wordsatrest.com/themes/food): baking, desserts, herbs & spices, fruits.
+- [Food sub-themes](https://wordsatrest.com/themes/food): baking, desserts, herbs & spices, fruits, vegetables, breakfast.
 - [Music sub-themes](https://wordsatrest.com/themes/music): instruments, jazz, classical, musical terms.
-- [Holiday word search](https://wordsatrest.com/holidays): Thanksgiving, winter, Valentine's Day and Easter hubs — calm seasonal puzzles for adults, large print available.
+- [Garden sub-themes](https://wordsatrest.com/themes/garden): flowers, trees.
+- [Animals sub-themes](https://wordsatrest.com/themes/animals): birds.
+- [Holiday word search](https://wordsatrest.com/holidays): Thanksgiving, winter, Valentine's Day, Easter, New Year, St. Patrick's Day, Mother's Day, Father's Day, Independence Day, spring and summer — calm seasonal puzzles for adults, large print available.
 - [Bible word search](https://wordsatrest.com/themes/bible): free Bible / Scripture-themed puzzles — books, people, places and virtues; large print available; respectful and non-denominational.
 - [Easy](https://wordsatrest.com/difficulty/easy), [Medium](https://wordsatrest.com/difficulty/medium), [Hard](https://wordsatrest.com/difficulty/hard) puzzles.
 

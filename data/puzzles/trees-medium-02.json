@@ -1,0 +1,284 @@
+{
+  "id": "trees-medium-02",
+  "slug": "trees-medium-02",
+  "themeId": "trees",
+  "title": "Trees: Canopy Shade",
+  "primaryKeyword": "trees word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "AUTUMN",
+    "CYPRESS",
+    "DOGWOOD",
+    "GROWTH",
+    "HAWTHORN",
+    "HEMLOCK",
+    "JUNIPER",
+    "LARCH",
+    "MAGNOLIA",
+    "REDBUD",
+    "RING",
+    "SAP",
+    "SYCAMORE",
+    "TIMBER"
+  ],
+  "grid": [
+    [
+      "E",
+      "S",
+      "H",
+      "R",
+      "E",
+      "D",
+      "B",
+      "U",
+      "D",
+      "Y",
+      "W",
+      "O"
+    ],
+    [
+      "S",
+      "F",
+      "S",
+      "A",
+      "Y",
+      "D",
+      "O",
+      "E",
+      "F",
+      "L",
+      "F",
+      "U"
+    ],
+    [
+      "C",
+      "Q",
+      "Y",
+      "J",
+      "W",
+      "G",
+      "O",
+      "K",
+      "B",
+      "Z",
+      "A",
+      "Y"
+    ],
+    [
+      "Y",
+      "M",
+      "C",
+      "U",
+      "Q",
+      "T",
+      "R",
+      "G",
+      "A",
+      "H",
+      "N",
+      "T"
+    ],
+    [
+      "P",
+      "Z",
+      "A",
+      "N",
+      "I",
+      "X",
+      "H",
+      "O",
+      "W",
+      "K",
+      "M",
+      "Z"
+    ],
+    [
+      "R",
+      "M",
+      "M",
+      "I",
+      "T",
+      "B",
+      "G",
+      "O",
+      "W",
+      "O",
+      "M",
+      "S"
+    ],
+    [
+      "E",
+      "R",
+      "O",
+      "P",
+      "R",
+      "I",
+      "N",
+      "G",
+      "R",
+      "T",
+      "O",
+      "B"
+    ],
+    [
+      "S",
+      "C",
+      "R",
+      "E",
+      "A",
+      "U",
+      "T",
+      "U",
+      "M",
+      "N",
+      "H",
+      "D"
+    ],
+    [
+      "S",
+      "A",
+      "E",
+      "R",
+      "S",
+      "S",
+      "A",
+      "P",
+      "S",
+      "S",
+      "P",
+      "N"
+    ],
+    [
+      "F",
+      "M",
+      "Y",
+      "Q",
+      "M",
+      "A",
+      "G",
+      "N",
+      "O",
+      "L",
+      "I",
+      "A"
+    ],
+    [
+      "H",
+      "E",
+      "M",
+      "L",
+      "O",
+      "C",
+      "K",
+      "R",
+      "L",
+      "S",
+      "X",
+      "H"
+    ],
+    [
+      "L",
+      "A",
+      "R",
+      "C",
+      "H",
+      "T",
+      "I",
+      "M",
+      "B",
+      "E",
+      "R",
+      "W"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SYCAMORE",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "MAGNOLIA",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "HAWTHORN",
+      "row": 0,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "DOGWOOD",
+      "row": 1,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "CYPRESS",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "HEMLOCK",
+      "row": 10,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "JUNIPER",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "REDBUD",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "TIMBER",
+      "row": 11,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "AUTUMN",
+      "row": 7,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "GROWTH",
+      "row": 2,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "LARCH",
+      "row": 11,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "RING",
+      "row": 6,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SAP",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7174
+}

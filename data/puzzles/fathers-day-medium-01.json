@@ -1,0 +1,284 @@
+{
+  "id": "fathers-day-medium-01",
+  "slug": "fathers-day-medium-01",
+  "themeId": "fathers-day",
+  "title": "Father's Day: Tools & Thanks",
+  "primaryKeyword": "fathers day word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ADVICE",
+    "COFFEE",
+    "FAMILY",
+    "FISHING",
+    "GARAGE",
+    "MEMORY",
+    "MOWER",
+    "NEWSPAPER",
+    "PATIENCE",
+    "STORY",
+    "STRENGTH",
+    "WISDOM",
+    "WORKSHOP",
+    "WRENCH"
+  ],
+  "grid": [
+    [
+      "J",
+      "J",
+      "V",
+      "X",
+      "N",
+      "Q",
+      "A",
+      "D",
+      "V",
+      "I",
+      "C",
+      "E"
+    ],
+    [
+      "F",
+      "W",
+      "W",
+      "O",
+      "R",
+      "K",
+      "S",
+      "H",
+      "O",
+      "P",
+      "M",
+      "D"
+    ],
+    [
+      "I",
+      "I",
+      "S",
+      "C",
+      "J",
+      "C",
+      "F",
+      "O",
+      "X",
+      "M",
+      "O",
+      "Q"
+    ],
+    [
+      "S",
+      "S",
+      "N",
+      "O",
+      "P",
+      "X",
+      "A",
+      "W",
+      "G",
+      "S",
+      "W",
+      "U"
+    ],
+    [
+      "H",
+      "D",
+      "E",
+      "F",
+      "A",
+      "R",
+      "M",
+      "L",
+      "A",
+      "T",
+      "E",
+      "I"
+    ],
+    [
+      "I",
+      "O",
+      "W",
+      "F",
+      "T",
+      "D",
+      "I",
+      "M",
+      "R",
+      "R",
+      "R",
+      "M"
+    ],
+    [
+      "N",
+      "M",
+      "S",
+      "E",
+      "I",
+      "W",
+      "L",
+      "E",
+      "A",
+      "E",
+      "L",
+      "E"
+    ],
+    [
+      "G",
+      "S",
+      "P",
+      "E",
+      "E",
+      "R",
+      "Y",
+      "P",
+      "G",
+      "N",
+      "N",
+      "M"
+    ],
+    [
+      "S",
+      "T",
+      "A",
+      "V",
+      "N",
+      "E",
+      "Q",
+      "H",
+      "E",
+      "G",
+      "V",
+      "O"
+    ],
+    [
+      "R",
+      "O",
+      "P",
+      "Y",
+      "C",
+      "N",
+      "A",
+      "X",
+      "I",
+      "T",
+      "C",
+      "R"
+    ],
+    [
+      "T",
+      "R",
+      "E",
+      "Q",
+      "E",
+      "C",
+      "L",
+      "O",
+      "E",
+      "H",
+      "X",
+      "Y"
+    ],
+    [
+      "S",
+      "Y",
+      "R",
+      "H",
+      "E",
+      "H",
+      "H",
+      "G",
+      "B",
+      "Y",
+      "L",
+      "U"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "NEWSPAPER",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "WORKSHOP",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PATIENCE",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "STRENGTH",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "FISHING",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "GARAGE",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "WRENCH",
+      "row": 6,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "COFFEE",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "FAMILY",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "WISDOM",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "ADVICE",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "MEMORY",
+      "row": 5,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "MOWER",
+      "row": 1,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "STORY",
+      "row": 7,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7043
+}

@@ -1,0 +1,284 @@
+{
+  "id": "new-year-medium-02",
+  "slug": "new-year-medium-02",
+  "themeId": "new-year",
+  "title": "New Year: Quiet January",
+  "primaryKeyword": "new year word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BEGIN",
+    "CHAMPAGNE",
+    "COURAGE",
+    "FIREWORKS",
+    "FOCUS",
+    "GRATITUDE",
+    "HEALTH",
+    "HORIZON",
+    "JOURNAL",
+    "KINDNESS",
+    "NOISEMAKER",
+    "OUTLOOK",
+    "PATIENCE",
+    "REFLECT"
+  ],
+  "grid": [
+    [
+      "N",
+      "O",
+      "I",
+      "S",
+      "E",
+      "M",
+      "A",
+      "K",
+      "E",
+      "R",
+      "R",
+      "B"
+    ],
+    [
+      "G",
+      "R",
+      "A",
+      "T",
+      "I",
+      "T",
+      "U",
+      "D",
+      "E",
+      "F",
+      "E",
+      "C"
+    ],
+    [
+      "V",
+      "J",
+      "O",
+      "U",
+      "R",
+      "N",
+      "A",
+      "L",
+      "S",
+      "D",
+      "F",
+      "H"
+    ],
+    [
+      "Z",
+      "H",
+      "H",
+      "E",
+      "A",
+      "L",
+      "T",
+      "H",
+      "O",
+      "B",
+      "L",
+      "A"
+    ],
+    [
+      "D",
+      "B",
+      "E",
+      "G",
+      "I",
+      "N",
+      "O",
+      "B",
+      "X",
+      "C",
+      "E",
+      "M"
+    ],
+    [
+      "H",
+      "O",
+      "R",
+      "I",
+      "Z",
+      "O",
+      "N",
+      "W",
+      "L",
+      "Y",
+      "C",
+      "P"
+    ],
+    [
+      "I",
+      "P",
+      "A",
+      "T",
+      "I",
+      "E",
+      "N",
+      "C",
+      "E",
+      "J",
+      "T",
+      "A"
+    ],
+    [
+      "V",
+      "F",
+      "I",
+      "R",
+      "E",
+      "W",
+      "O",
+      "R",
+      "K",
+      "S",
+      "N",
+      "G"
+    ],
+    [
+      "L",
+      "A",
+      "G",
+      "O",
+      "U",
+      "T",
+      "L",
+      "O",
+      "O",
+      "K",
+      "G",
+      "N"
+    ],
+    [
+      "Q",
+      "R",
+      "Z",
+      "F",
+      "O",
+      "C",
+      "U",
+      "S",
+      "A",
+      "U",
+      "Y",
+      "E"
+    ],
+    [
+      "T",
+      "I",
+      "Q",
+      "R",
+      "Y",
+      "C",
+      "O",
+      "U",
+      "R",
+      "A",
+      "G",
+      "E"
+    ],
+    [
+      "H",
+      "S",
+      "K",
+      "I",
+      "N",
+      "D",
+      "N",
+      "E",
+      "S",
+      "S",
+      "U",
+      "H"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "NOISEMAKER",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "FIREWORKS",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "GRATITUDE",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CHAMPAGNE",
+      "row": 1,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "PATIENCE",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "KINDNESS",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "REFLECT",
+      "row": 0,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "JOURNAL",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "COURAGE",
+      "row": 10,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "HORIZON",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "OUTLOOK",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "HEALTH",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BEGIN",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "FOCUS",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7014
+}

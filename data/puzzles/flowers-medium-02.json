@@ -1,0 +1,284 @@
+{
+  "id": "flowers-medium-02",
+  "slug": "flowers-medium-02",
+  "themeId": "flowers",
+  "title": "Flowers: Quiet Vase",
+  "primaryKeyword": "flowers word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "AZALEA",
+    "BEGONIA",
+    "BUTTERFLY",
+    "CAMELLIA",
+    "COLOR",
+    "FRAGRANCE",
+    "HIBISCUS",
+    "MAGNOLIA",
+    "MUM",
+    "ORCHID",
+    "PETUNIA",
+    "SPRING",
+    "SUMMER",
+    "WISTERIA"
+  ],
+  "grid": [
+    [
+      "W",
+      "C",
+      "A",
+      "M",
+      "E",
+      "L",
+      "L",
+      "I",
+      "A",
+      "S",
+      "R",
+      "Y"
+    ],
+    [
+      "I",
+      "F",
+      "O",
+      "A",
+      "Z",
+      "A",
+      "L",
+      "E",
+      "A",
+      "O",
+      "L",
+      "R"
+    ],
+    [
+      "S",
+      "O",
+      "R",
+      "C",
+      "H",
+      "I",
+      "D",
+      "D",
+      "L",
+      "F",
+      "H",
+      "Z"
+    ],
+    [
+      "T",
+      "B",
+      "O",
+      "A",
+      "F",
+      "Y",
+      "C",
+      "O",
+      "R",
+      "V",
+      "I",
+      "S"
+    ],
+    [
+      "E",
+      "U",
+      "E",
+      "G",
+      "G",
+      "Y",
+      "C",
+      "E",
+      "W",
+      "R",
+      "B",
+      "P"
+    ],
+    [
+      "R",
+      "P",
+      "V",
+      "G",
+      "S",
+      "R",
+      "T",
+      "A",
+      "E",
+      "U",
+      "I",
+      "R"
+    ],
+    [
+      "I",
+      "J",
+      "M",
+      "H",
+      "O",
+      "T",
+      "A",
+      "M",
+      "L",
+      "X",
+      "S",
+      "I"
+    ],
+    [
+      "A",
+      "B",
+      "U",
+      "O",
+      "U",
+      "N",
+      "M",
+      "N",
+      "T",
+      "F",
+      "C",
+      "N"
+    ],
+    [
+      "I",
+      "K",
+      "M",
+      "B",
+      "N",
+      "U",
+      "I",
+      "L",
+      "C",
+      "S",
+      "U",
+      "G"
+    ],
+    [
+      "G",
+      "U",
+      "F",
+      "B",
+      "S",
+      "G",
+      "V",
+      "A",
+      "P",
+      "E",
+      "S",
+      "K"
+    ],
+    [
+      "P",
+      "L",
+      "P",
+      "E",
+      "T",
+      "U",
+      "N",
+      "I",
+      "A",
+      "B",
+      "C",
+      "N"
+    ],
+    [
+      "A",
+      "W",
+      "K",
+      "M",
+      "A",
+      "G",
+      "N",
+      "O",
+      "L",
+      "I",
+      "A",
+      "D"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FRAGRANCE",
+      "row": 1,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "BUTTERFLY",
+      "row": 8,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "WISTERIA",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "MAGNOLIA",
+      "row": 11,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "CAMELLIA",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "HIBISCUS",
+      "row": 2,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "PETUNIA",
+      "row": 10,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BEGONIA",
+      "row": 3,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "AZALEA",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "ORCHID",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SPRING",
+      "row": 3,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "SUMMER",
+      "row": 9,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "COLOR",
+      "row": 4,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "MUM",
+      "row": 6,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7164
+}

@@ -1,0 +1,173 @@
+{
+  "id": "independence-day-large-01",
+  "slug": "independence-day-large-01",
+  "themeId": "independence-day",
+  "title": "Large Print Independence Day: Soft Flag",
+  "primaryKeyword": "large print fourth of july word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BAND",
+    "FLAG",
+    "GRILL",
+    "JULY",
+    "PARK",
+    "PIE",
+    "SKY",
+    "STAR"
+  ],
+  "grid": [
+    [
+      "Y",
+      "K",
+      "O",
+      "Z",
+      "U",
+      "I",
+      "S",
+      "K",
+      "Y"
+    ],
+    [
+      "U",
+      "B",
+      "A",
+      "N",
+      "D",
+      "V",
+      "L",
+      "A",
+      "L"
+    ],
+    [
+      "G",
+      "R",
+      "I",
+      "L",
+      "L",
+      "K",
+      "T",
+      "I",
+      "W"
+    ],
+    [
+      "Y",
+      "X",
+      "E",
+      "N",
+      "C",
+      "P",
+      "Y",
+      "H",
+      "G"
+    ],
+    [
+      "J",
+      "U",
+      "L",
+      "Y",
+      "G",
+      "O",
+      "K",
+      "A",
+      "M"
+    ],
+    [
+      "R",
+      "B",
+      "Z",
+      "C",
+      "F",
+      "L",
+      "A",
+      "G",
+      "C"
+    ],
+    [
+      "S",
+      "P",
+      "A",
+      "R",
+      "K",
+      "N",
+      "H",
+      "J",
+      "P"
+    ],
+    [
+      "E",
+      "F",
+      "K",
+      "W",
+      "V",
+      "A",
+      "R",
+      "C",
+      "I"
+    ],
+    [
+      "C",
+      "C",
+      "K",
+      "S",
+      "T",
+      "A",
+      "R",
+      "Z",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "GRILL",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "JULY",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "FLAG",
+      "row": 5,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "PARK",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "STAR",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BAND",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PIE",
+      "row": 6,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "SKY",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7056
+}

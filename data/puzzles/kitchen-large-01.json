@@ -1,0 +1,173 @@
+{
+  "id": "kitchen-large-01",
+  "slug": "kitchen-large-01",
+  "themeId": "kitchen",
+  "title": "Large Print Kitchen: Soft Spoon",
+  "primaryKeyword": "large print kitchen word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "APRON",
+    "BAKE",
+    "BOWL",
+    "CHOP",
+    "OVEN",
+    "PAN",
+    "SALT",
+    "SPOON"
+  ],
+  "grid": [
+    [
+      "A",
+      "J",
+      "Z",
+      "S",
+      "S",
+      "S",
+      "A",
+      "L",
+      "T"
+    ],
+    [
+      "W",
+      "U",
+      "T",
+      "A",
+      "P",
+      "R",
+      "O",
+      "N",
+      "T"
+    ],
+    [
+      "J",
+      "P",
+      "A",
+      "N",
+      "O",
+      "F",
+      "W",
+      "S",
+      "N"
+    ],
+    [
+      "M",
+      "O",
+      "D",
+      "L",
+      "O",
+      "W",
+      "I",
+      "H",
+      "D"
+    ],
+    [
+      "B",
+      "B",
+      "B",
+      "O",
+      "N",
+      "B",
+      "A",
+      "K",
+      "E"
+    ],
+    [
+      "Y",
+      "W",
+      "O",
+      "V",
+      "E",
+      "E",
+      "T",
+      "F",
+      "Q"
+    ],
+    [
+      "M",
+      "Z",
+      "W",
+      "E",
+      "X",
+      "V",
+      "Z",
+      "K",
+      "R"
+    ],
+    [
+      "Q",
+      "M",
+      "L",
+      "N",
+      "O",
+      "C",
+      "H",
+      "O",
+      "P"
+    ],
+    [
+      "H",
+      "U",
+      "Q",
+      "B",
+      "H",
+      "S",
+      "B",
+      "Z",
+      "M"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SPOON",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "APRON",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BOWL",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "OVEN",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "SALT",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "CHOP",
+      "row": 7,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "BAKE",
+      "row": 4,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "PAN",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7146
+}

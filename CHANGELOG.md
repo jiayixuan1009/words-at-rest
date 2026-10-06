@@ -3,11 +3,22 @@
 本文件格式参考 [Keep a Changelog](https://keepachangelog.com/zh-CN/1.1.0/)。日期为 commit 时间（Asia/Shanghai，UTC+8）。  
 项目尚未打版本号，按日期 + commit 记录。完整产品说明见 [`docs/PRODUCT.md`](docs/PRODUCT.md)，后续计划见 [`docs/ROADMAP.md`](docs/ROADMAP.md)。
 
-规模速查（主题 / 谜题）：`95609a5` 3 / 7 → `31aaf1b` 15 / 40 → `c46b10c` / `de568d3` 16 / 46 → Package B `holidays-rebase` **32 / 142**。
+规模速查（主题 / 谜题）：`95609a5` 3 / 7 → `31aaf1b` 15 / 40 → `c46b10c` / `de568d3` 16 / 46 → Package B **32 / 142** → Wave C **47 / 232**（朝 ~1000）。
 
 ---
 
 ## [未发布 Unreleased]
+
+## 2026-10-07 — Wave C（节日二波 + 厨房/自然，待部署）
+
+### 新增 — Wave C 批量内容（+15 主题 / +90 谜题）
+- 对齐竞品公开主题目录（purewordsearch / thewordsearch 等 **主题名**），自写词表与网格，不整页照搬。
+- **节日 / 季节：** new-year、st-patricks、mothers-day、fathers-day、independence-day、spring、summer（各 6 题：2 easy / 2 medium / 1 hard / 1 large）。
+- **厨房 / 自然：** vegetables、breakfast、coffee-tea、kitchen、birds、flowers、trees、weather（各 6 题）。
+- `parentSlug`：vegetables/breakfast → food；birds → animals；flowers/trees → garden。
+- `/holidays` 扩展为 11 个季节主题；`llms.txt`、主题索引页文案同步。
+- 封面 / OG 暂借邻近主题图（见 `lib/images.ts` Wave C 注释）；难度图回退主题封面。
+- **规模：** 主题 32→**47**，谜题 142→**232**（朝 ~1000 分波推进）。
 
 ### 发布 — 全站审计优先整改（2026-10-07，UTC+8）
 - [PR #1](https://github.com/jiayixuan1009/words-at-rest/pull/1) 已合并；生产源代码为 master `ebcf70a`，原整改提交 `8f9dfd5`。

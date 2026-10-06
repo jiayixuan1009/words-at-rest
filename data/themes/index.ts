@@ -31,6 +31,21 @@ import instruments from "./instruments.json";
 import jazz from "./jazz.json";
 import classical from "./classical.json";
 import musicTerms from "./music-terms.json";
+import newYear from "./new-year.json";
+import stPatricks from "./st-patricks.json";
+import mothersDay from "./mothers-day.json";
+import fathersDay from "./fathers-day.json";
+import independenceDay from "./independence-day.json";
+import spring from "./spring.json";
+import summer from "./summer.json";
+import vegetables from "./vegetables.json";
+import breakfast from "./breakfast.json";
+import coffeeTea from "./coffee-tea.json";
+import kitchen from "./kitchen.json";
+import birds from "./birds.json";
+import flowers from "./flowers.json";
+import trees from "./trees.json";
+import weather from "./weather.json";
 
 /** Theme order: seasonal first, then evergreen, then packs. */
 export const themes = [
@@ -41,6 +56,13 @@ export const themes = [
   winter,
   valentines,
   easter,
+  newYear,
+  stPatricks,
+  mothersDay,
+  fathersDay,
+  independenceDay,
+  spring,
+  summer,
   animals,
   space,
   sports,
@@ -64,6 +86,14 @@ export const themes = [
   musicTerms,
   garden,
   bible,
+  vegetables,
+  breakfast,
+  coffeeTea,
+  kitchen,
+  birds,
+  flowers,
+  trees,
+  weather,
   largePrintPack,
   hardPack,
 ] as Theme[];

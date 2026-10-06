@@ -1,0 +1,208 @@
+{
+  "id": "weather-easy-01",
+  "slug": "weather-easy-01",
+  "themeId": "weather",
+  "title": "Weather: Rain & Wind",
+  "primaryKeyword": "weather word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CLOUD",
+    "COLD",
+    "FOG",
+    "HEAT",
+    "MIST",
+    "RAIN",
+    "SKY",
+    "SNOW",
+    "SUN",
+    "WIND"
+  ],
+  "grid": [
+    [
+      "X",
+      "Q",
+      "J",
+      "C",
+      "V",
+      "Z",
+      "C",
+      "M",
+      "Z",
+      "W"
+    ],
+    [
+      "A",
+      "O",
+      "C",
+      "L",
+      "Z",
+      "G",
+      "O",
+      "I",
+      "G",
+      "R"
+    ],
+    [
+      "S",
+      "U",
+      "N",
+      "O",
+      "D",
+      "R",
+      "L",
+      "S",
+      "F",
+      "Q"
+    ],
+    [
+      "D",
+      "Q",
+      "P",
+      "U",
+      "Y",
+      "X",
+      "D",
+      "T",
+      "I",
+      "M"
+    ],
+    [
+      "N",
+      "H",
+      "Y",
+      "D",
+      "C",
+      "S",
+      "X",
+      "W",
+      "T",
+      "B"
+    ],
+    [
+      "R",
+      "A",
+      "I",
+      "N",
+      "N",
+      "N",
+      "J",
+      "R",
+      "J",
+      "S"
+    ],
+    [
+      "F",
+      "W",
+      "U",
+      "S",
+      "L",
+      "O",
+      "P",
+      "I",
+      "X",
+      "K"
+    ],
+    [
+      "F",
+      "W",
+      "I",
+      "N",
+      "D",
+      "W",
+      "O",
+      "F",
+      "Y",
+      "Y"
+    ],
+    [
+      "E",
+      "O",
+      "Q",
+      "T",
+      "E",
+      "H",
+      "E",
+      "A",
+      "T",
+      "H"
+    ],
+    [
+      "B",
+      "R",
+      "F",
+      "O",
+      "G",
+      "S",
+      "M",
+      "Y",
+      "Q",
+      "L"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CLOUD",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "RAIN",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SNOW",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "MIST",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "WIND",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "HEAT",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "COLD",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "FOG",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SUN",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SKY",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7181
+}

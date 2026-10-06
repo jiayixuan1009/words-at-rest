@@ -1,0 +1,173 @@
+{
+  "id": "birds-large-01",
+  "slug": "birds-large-01",
+  "themeId": "birds",
+  "title": "Large Print Birds: Soft Song",
+  "primaryKeyword": "large print birds word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "DAWN",
+    "DUCK",
+    "NEST",
+    "OWL",
+    "ROBIN",
+    "SKY",
+    "SONG",
+    "WING"
+  ],
+  "grid": [
+    [
+      "S",
+      "U",
+      "M",
+      "O",
+      "W",
+      "L",
+      "A",
+      "N",
+      "U"
+    ],
+    [
+      "D",
+      "D",
+      "K",
+      "X",
+      "R",
+      "B",
+      "Z",
+      "W",
+      "C"
+    ],
+    [
+      "A",
+      "U",
+      "R",
+      "O",
+      "B",
+      "I",
+      "N",
+      "W",
+      "E"
+    ],
+    [
+      "D",
+      "C",
+      "W",
+      "S",
+      "K",
+      "Y",
+      "G",
+      "W",
+      "Z"
+    ],
+    [
+      "P",
+      "K",
+      "I",
+      "N",
+      "K",
+      "K",
+      "W",
+      "J",
+      "H"
+    ],
+    [
+      "X",
+      "L",
+      "N",
+      "S",
+      "O",
+      "N",
+      "G",
+      "B",
+      "H"
+    ],
+    [
+      "P",
+      "H",
+      "G",
+      "C",
+      "H",
+      "U",
+      "V",
+      "M",
+      "A"
+    ],
+    [
+      "D",
+      "A",
+      "W",
+      "N",
+      "L",
+      "Z",
+      "H",
+      "I",
+      "Z"
+    ],
+    [
+      "K",
+      "G",
+      "V",
+      "O",
+      "B",
+      "N",
+      "E",
+      "S",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ROBIN",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "DUCK",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "NEST",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SONG",
+      "row": 5,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "WING",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "DAWN",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "OWL",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SKY",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7156
+}

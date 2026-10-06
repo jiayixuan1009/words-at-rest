@@ -1,0 +1,208 @@
+{
+  "id": "flowers-easy-01",
+  "slug": "flowers-easy-01",
+  "themeId": "flowers",
+  "title": "Flowers: Garden Bed",
+  "primaryKeyword": "flowers word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BUD",
+    "DAISY",
+    "IRIS",
+    "LILY",
+    "POPPY",
+    "ROSE",
+    "SOFT",
+    "STEM",
+    "TULIP",
+    "VASE"
+  ],
+  "grid": [
+    [
+      "I",
+      "U",
+      "S",
+      "T",
+      "E",
+      "M",
+      "L",
+      "I",
+      "L",
+      "Y"
+    ],
+    [
+      "U",
+      "E",
+      "H",
+      "Y",
+      "O",
+      "S",
+      "O",
+      "F",
+      "T",
+      "K"
+    ],
+    [
+      "R",
+      "O",
+      "S",
+      "E",
+      "Q",
+      "G",
+      "R",
+      "Q",
+      "B",
+      "G"
+    ],
+    [
+      "P",
+      "K",
+      "I",
+      "R",
+      "V",
+      "D",
+      "S",
+      "F",
+      "J",
+      "H"
+    ],
+    [
+      "P",
+      "O",
+      "P",
+      "P",
+      "Y",
+      "A",
+      "L",
+      "D",
+      "F",
+      "T"
+    ],
+    [
+      "T",
+      "P",
+      "T",
+      "U",
+      "L",
+      "I",
+      "P",
+      "B",
+      "A",
+      "Y"
+    ],
+    [
+      "O",
+      "J",
+      "D",
+      "B",
+      "H",
+      "S",
+      "V",
+      "A",
+      "S",
+      "E"
+    ],
+    [
+      "L",
+      "L",
+      "D",
+      "A",
+      "Y",
+      "Y",
+      "U",
+      "R",
+      "G",
+      "N"
+    ],
+    [
+      "V",
+      "V",
+      "P",
+      "E",
+      "I",
+      "R",
+      "I",
+      "S",
+      "Z",
+      "X"
+    ],
+    [
+      "X",
+      "D",
+      "B",
+      "U",
+      "D",
+      "T",
+      "N",
+      "I",
+      "Q",
+      "Z"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TULIP",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "DAISY",
+      "row": 3,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "POPPY",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "ROSE",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "LILY",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "IRIS",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "STEM",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "VASE",
+      "row": 6,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "SOFT",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "BUD",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7161
+}

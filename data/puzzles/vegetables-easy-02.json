@@ -1,0 +1,208 @@
+{
+  "id": "vegetables-easy-02",
+  "slug": "vegetables-easy-02",
+  "themeId": "vegetables",
+  "title": "Vegetables: Kitchen Garden",
+  "primaryKeyword": "vegetables word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BEET",
+    "CHOP",
+    "GARLIC",
+    "HERB",
+    "KALE",
+    "PEPPER",
+    "POTATO",
+    "SLICE",
+    "SOUP",
+    "SQUASH"
+  ],
+  "grid": [
+    [
+      "S",
+      "C",
+      "S",
+      "S",
+      "N",
+      "S",
+      "E",
+      "V",
+      "R",
+      "E"
+    ],
+    [
+      "O",
+      "V",
+      "L",
+      "A",
+      "T",
+      "K",
+      "A",
+      "L",
+      "E",
+      "V"
+    ],
+    [
+      "U",
+      "A",
+      "I",
+      "B",
+      "G",
+      "V",
+      "Y",
+      "Y",
+      "G",
+      "B"
+    ],
+    [
+      "P",
+      "M",
+      "C",
+      "H",
+      "O",
+      "P",
+      "Y",
+      "U",
+      "A",
+      "E"
+    ],
+    [
+      "O",
+      "O",
+      "E",
+      "I",
+      "V",
+      "R",
+      "V",
+      "R",
+      "R",
+      "E"
+    ],
+    [
+      "T",
+      "T",
+      "J",
+      "Z",
+      "E",
+      "P",
+      "H",
+      "Z",
+      "L",
+      "T"
+    ],
+    [
+      "A",
+      "N",
+      "S",
+      "Q",
+      "U",
+      "A",
+      "S",
+      "H",
+      "I",
+      "G"
+    ],
+    [
+      "T",
+      "U",
+      "Y",
+      "V",
+      "H",
+      "E",
+      "R",
+      "B",
+      "C",
+      "H"
+    ],
+    [
+      "O",
+      "P",
+      "E",
+      "P",
+      "P",
+      "E",
+      "R",
+      "V",
+      "V",
+      "M"
+    ],
+    [
+      "C",
+      "H",
+      "K",
+      "L",
+      "P",
+      "W",
+      "D",
+      "T",
+      "Y",
+      "C"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "GARLIC",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "POTATO",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "PEPPER",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SQUASH",
+      "row": 6,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SLICE",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "BEET",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "KALE",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "HERB",
+      "row": 7,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SOUP",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CHOP",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7112
+}

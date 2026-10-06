@@ -109,6 +109,21 @@ const THEME_MOTIF: Record<string, string> = {
   winter: "a mug of cocoa, wool mittens and pine beside a frosted window",
   valentines: "a sealed letter with a wax seal, a dried rose and a ribbon on cream paper",
   easter: "a woven basket, a few pale eggs, daffodils and willow on a wooden table",
+  "new-year": "a desk calendar turned to January, a sparkler and confetti on cream paper",
+  "st-patricks": "a three-leaf clover, a tin whistle and green ribbon on linen",
+  "mothers-day": "a small bouquet, a handwritten card and a breakfast tray on a table",
+  "fathers-day": "a wooden toolbox, a folded newspaper and a coffee mug on a porch rail",
+  "independence-day": "a picnic blanket, a small flag and sparklers beside a summer pie",
+  spring: "daffodils, a bird nest and soft rain on a garden path",
+  summer: "a lemonade glass, sunhat and shell on a porch table",
+  vegetables: "a wooden crate of carrots, greens and peppers on a kitchen table",
+  breakfast: "toast, a soft-boiled egg and a coffee cup on a breakfast tray",
+  "coffee-tea": "a ceramic mug, loose tea leaves and a coffee press on linen",
+  kitchen: "a wooden spoon, mixing bowl and folded apron on a kitchen counter",
+  birds: "a robin on a branch, feathers and a small nest sketch",
+  flowers: "a vase of mixed blooms and loose petals on a garden table",
+  trees: "an oak leaf, acorn and pine cone on weathered wood",
+  weather: "a barometer, umbrella and cloud sketch beside a window",
   "large-print-pack": "reading glasses on an open puzzle book under a lamp",
   "hard-pack": "a dense puzzle grid with a fountain pen",
 };
@@ -125,6 +140,11 @@ const THEME_MOTIF: Record<string, string> = {
  * baking/desserts/herbs/fruits, instruments/jazz/classical/music-terms):
  * reuse parent sports/food/music art until design/SUBTHEME-IMAGE-REQUEST.md lands.
  * Swap public/images/themes/<slug>.webp (+ -640) and design/og-base/og-theme-<slug>.png only.
+ *
+ * TEMPORARY covers for Wave C (new-year, st-patricks, mothers-day, fathers-day,
+ * independence-day, spring, summer, vegetables, breakfast, coffee-tea, kitchen,
+ * birds, flowers, trees, weather): borrow nearby seasonal/parent art until dedicated
+ * paintings land. Swap webp (+ -640) and og-base PNG / public/og/themes JPG only.
  */
 export function themeArt(slug: string, themeName: string): Art {
   const src = `/images/themes/${slug}.webp`;

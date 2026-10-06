@@ -193,6 +193,111 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
       "Spring mornings, church-group activity tables, seniors' hours and anyone who wants a calm Easter puzzle. Cross-link with our Bible theme if you prefer Scripture vocabulary; stay here for a broader spring mood.",
     tip: "Flower names are often short and vowel-heavy (LILY, TULIP). Start with longer words such as DAFFODIL, ALLELUIA and HATCHLING, then hunt the short ones along the edges.",
   },
+  "new-year": {
+    vocabulary:
+      "The New Year list covers calendars, midnight countdowns, fireworks, resolutions and quieter fresh-start words such as intention, gratitude and renew. Everyday English only — no champagne brands and no licensed party characters.",
+    goodFor:
+      "A calm fit for January mornings, New Year's Eve quiet hours and anyone who wants a seasonal puzzle without a noisy party app. Easy grids warm up with short words; hard grids pack longer resolution vocabulary.",
+    tip: "Long words with distinctive letters — the double N in COUNTDOWN, the TION in RESOLUTION and INTENTION — are easier to spot than short ones like YEAR or WISH.",
+  },
+  "st-patricks": {
+    vocabulary:
+      "The St. Patrick's list mixes green hills, shamrocks, pipes and gentle Irish spring vocabulary with a few folklore words such as legend and blessing. No cartoon leprechaun brands and no trademarked characters.",
+    goodFor:
+      "March afternoons, parish or community tables, and adults who want a seasonal green puzzle that stays calm. Large print keeps eight short words on a 9×9 grid.",
+    tip: "Unusual letter clusters help: the SH in SHAMROCK, the LD in EMERALD, the double G in BAGPIPE. Find those first on harder grids.",
+  },
+  "mothers-day": {
+    vocabulary:
+      "Mother's Day lists lean into flowers, cards, breakfast trays and everyday appreciation words — hug, thanks, cherish, patience — without gift-brand names.",
+    goodFor:
+      "A gentle May puzzle for family mornings, care-home activity hours and anyone who prefers a quiet card-table mood.",
+    tip: "Long appreciation words such as GRATITUDE and PATIENCE stand out; leave short ones like MOM and HUG for the edges.",
+  },
+  "fathers-day": {
+    vocabulary:
+      "Father's Day lists use porch, grill, tools, fishing and everyday appreciation English — pride, wisdom, respect — with no brand tools or team names.",
+    goodFor:
+      "June Sundays, family gatherings and seniors who like a familiar domestic-outdoor mix.",
+    tip: "Compound and longer words like WORKSHOP and NEWSPAPER anchor the hard grid; short ones like DAD hide along edges.",
+  },
+  "independence-day": {
+    vocabulary:
+      "Independence Day lists cover picnics, parades, fireworks, flags and summer gathering words, plus a few civic English terms such as liberty and founding. No campaign brands.",
+    goodFor:
+      "A calm Fourth of July afternoon for adults who want seasonal vocabulary without loud party graphics.",
+    tip: "Long words such as WATERMELON, FIREWORK and COURTHOUSE are easier to spot than FLAG or PIE — find them first.",
+  },
+  spring: {
+    vocabulary:
+      "The spring list is about thaw, buds, showers, nests and longer daylight — garden and weather English rather than one holiday mascot set.",
+    goodFor:
+      "March to May mornings, garden clubs and anyone who wants a seasonal puzzle that is not Easter-only.",
+    tip: "Flower names share endings; when you find DIL in DAFFODIL, check nearby for related blooms before moving on.",
+  },
+  summer: {
+    vocabulary:
+      "Summer lists gather shade, lemonade, beaches, lawns, fireflies and slow vacation English — no resort or sunscreen brands.",
+    goodFor:
+      "Long afternoons, porch solving and seniors who like familiar warm-weather words.",
+    tip: "Compound words such as SUNHAT, SUNSCREEN and FIREFLY jump out; hunt short ones like FAN and HEAT last.",
+  },
+  vegetables: {
+    vocabulary:
+      "Vegetable lists use common market and garden produce — roots, greens, pods and everyday cooking verbs — with no grocery brands.",
+    goodFor:
+      "Home cooks, gardeners and a calm food-cluster companion to fruits and herbs.",
+    tip: "Long produce names like CAULIFLOWER and ASPARAGUS anchor harder grids; short ones like PEA hide on edges.",
+  },
+  breakfast: {
+    vocabulary:
+      "Breakfast lists cover eggs, toast, oats, coffee and pantry staples for a slow morning table — no restaurant chains.",
+    goodFor:
+      "Morning coffee breaks and seniors who like familiar kitchen English.",
+    tip: "Double letters in BUTTER, WAFFLE and MUFFIN stand out quickly in a grid.",
+  },
+  "coffee-tea": {
+    vocabulary:
+      "Coffee and tea lists name brew methods, leaves, mugs and quiet café English without brand beans or tea labels.",
+    goodFor:
+      "A mid-morning pause theme for adults who live by the kettle.",
+    tip: "Unusual clusters help: the SS in ESPRESSO, the MM in CHAMOMILE, the double F in COFFEE.",
+  },
+  kitchen: {
+    vocabulary:
+      "Kitchen lists gather utensils, cookware and pantry verbs — whisk, ladle, simmer, roast — with no appliance brands.",
+    goodFor:
+      "Home cooks and anyone who likes a domestic, practical word list.",
+    tip: "Long utensil words such as SPATULA and COLANDER are easier than short ones like PAN or LID.",
+  },
+  birds: {
+    vocabulary:
+      "Bird lists use common English bird names plus nest, song and watching vocabulary — no cartoon mascots.",
+    goodFor:
+      "Birdwatchers, garden sitters and a calm nature companion to animals.",
+    tip: "Long names like CHICKADEE and NUTHATCH stand out; leave ROBIN and OWL for last on harder grids.",
+  },
+  flowers: {
+    vocabulary:
+      "Flower lists name garden and florist blooms — rose, peony, lavender, magnolia — in everyday English.",
+    goodFor:
+      "Gardeners and anyone who finds bloom names calming; pairs well with the garden parent theme.",
+    tip: "Short vowel-heavy names (IRIS, LILY, ROSE) hide easily; start with longer ones like DAFFODIL and WISTERIA.",
+  },
+  trees: {
+    vocabulary:
+      "Tree lists cover common tree names and woodland English — oak, maple, canopy, foliage — with no park brands.",
+    goodFor:
+      "Walkers, gardeners and seniors who like outdoor vocabulary year-round.",
+    tip: "Look for distinctive clusters such as SYC in SYCAMORE or ACK in BLACK when related words appear.",
+  },
+  weather: {
+    vocabulary:
+      "Weather lists use rain, wind, frost, forecast and everyday sky English — no weather-app brands.",
+    goodFor:
+      "A practical evergreen theme for all seasons and calm indoor afternoons.",
+    tip: "Long words like THERMOMETER, BAROMETER and LIGHTNING anchor the hard grid; short ones like FOG hide on edges.",
+  },
   bible: {
     vocabulary:
       "The Bible list is grouped by familiar Scripture vocabulary: books of the Old and New Testaments (Genesis, Exodus, Matthew, Acts), people of the Old Testament (Abraham, Moses, David, Esther), disciples and New Testament figures (Peter, Paul, Lydia, Martha), places named in the text (Jerusalem, Bethlehem, Nazareth, Galilee), and short virtue words drawn from everyday church English — love, joy, peace, faith, hope, grace, mercy and kindness. Names follow common English / King James spellings. There are no verse quotations on the grid, no denominational slogans, and no cartoon characters.",

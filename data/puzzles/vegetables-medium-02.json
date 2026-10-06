@@ -1,0 +1,284 @@
+{
+  "id": "vegetables-medium-02",
+  "slug": "vegetables-medium-02",
+  "themeId": "vegetables",
+  "title": "Vegetables: Soup Pot",
+  "primaryKeyword": "vegetables word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ARTICHOKE",
+    "ASPARAGUS",
+    "CAULIFLOWER",
+    "COLLARD",
+    "EGGPLANT",
+    "ENDIVE",
+    "FENNEL",
+    "OKRA",
+    "RUTABAGA",
+    "SAUTE",
+    "SCALLION",
+    "TURNIP",
+    "YAM",
+    "ZUCCHINI"
+  ],
+  "grid": [
+    [
+      "Q",
+      "W",
+      "J",
+      "D",
+      "O",
+      "K",
+      "R",
+      "A",
+      "G",
+      "V",
+      "C",
+      "O"
+    ],
+    [
+      "V",
+      "C",
+      "A",
+      "U",
+      "L",
+      "I",
+      "F",
+      "L",
+      "O",
+      "W",
+      "E",
+      "R"
+    ],
+    [
+      "E",
+      "T",
+      "A",
+      "S",
+      "P",
+      "A",
+      "R",
+      "A",
+      "G",
+      "U",
+      "S",
+      "R"
+    ],
+    [
+      "G",
+      "B",
+      "H",
+      "C",
+      "O",
+      "L",
+      "L",
+      "A",
+      "R",
+      "D",
+      "W",
+      "D"
+    ],
+    [
+      "G",
+      "B",
+      "R",
+      "D",
+      "X",
+      "B",
+      "F",
+      "E",
+      "N",
+      "N",
+      "E",
+      "L"
+    ],
+    [
+      "P",
+      "S",
+      "U",
+      "T",
+      "U",
+      "R",
+      "N",
+      "I",
+      "P",
+      "D",
+      "L",
+      "V"
+    ],
+    [
+      "L",
+      "A",
+      "T",
+      "S",
+      "C",
+      "A",
+      "L",
+      "L",
+      "I",
+      "O",
+      "N",
+      "F"
+    ],
+    [
+      "A",
+      "U",
+      "A",
+      "Y",
+      "Z",
+      "U",
+      "C",
+      "C",
+      "H",
+      "I",
+      "N",
+      "I"
+    ],
+    [
+      "N",
+      "T",
+      "B",
+      "V",
+      "Q",
+      "V",
+      "A",
+      "Y",
+      "A",
+      "M",
+      "Q",
+      "H"
+    ],
+    [
+      "T",
+      "E",
+      "A",
+      "A",
+      "R",
+      "T",
+      "I",
+      "C",
+      "H",
+      "O",
+      "K",
+      "E"
+    ],
+    [
+      "C",
+      "G",
+      "G",
+      "Q",
+      "E",
+      "N",
+      "D",
+      "I",
+      "V",
+      "E",
+      "T",
+      "I"
+    ],
+    [
+      "J",
+      "I",
+      "A",
+      "J",
+      "R",
+      "Q",
+      "F",
+      "N",
+      "Z",
+      "M",
+      "X",
+      "X"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CAULIFLOWER",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "ASPARAGUS",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ARTICHOKE",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "ZUCCHINI",
+      "row": 7,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "EGGPLANT",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "RUTABAGA",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "SCALLION",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "COLLARD",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "FENNEL",
+      "row": 4,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "ENDIVE",
+      "row": 10,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "TURNIP",
+      "row": 5,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SAUTE",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "OKRA",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "YAM",
+      "row": 8,
+      "col": 7,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7114
+}

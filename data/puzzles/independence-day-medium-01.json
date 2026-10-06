@@ -1,0 +1,284 @@
+{
+  "id": "independence-day-medium-01",
+  "slug": "independence-day-medium-01",
+  "themeId": "independence-day",
+  "title": "Independence Day: Parade Day",
+  "primaryKeyword": "fourth of july word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ANTHEM",
+    "BASKET",
+    "BLANKET",
+    "BRIDGE",
+    "FIREWORK",
+    "FOUNDING",
+    "HARBOR",
+    "HISTORY",
+    "LEMONADE",
+    "LIBERTY",
+    "NATION",
+    "SPARKLER",
+    "SUMMER",
+    "WATERMELON"
+  ],
+  "grid": [
+    [
+      "V",
+      "X",
+      "L",
+      "S",
+      "P",
+      "A",
+      "R",
+      "K",
+      "L",
+      "E",
+      "R",
+      "O"
+    ],
+    [
+      "H",
+      "A",
+      "R",
+      "B",
+      "O",
+      "R",
+      "B",
+      "R",
+      "I",
+      "D",
+      "G",
+      "E"
+    ],
+    [
+      "L",
+      "A",
+      "N",
+      "T",
+      "H",
+      "E",
+      "M",
+      "Z",
+      "M",
+      "W",
+      "I",
+      "Z"
+    ],
+    [
+      "E",
+      "Q",
+      "F",
+      "O",
+      "U",
+      "N",
+      "D",
+      "I",
+      "N",
+      "G",
+      "H",
+      "L"
+    ],
+    [
+      "M",
+      "H",
+      "N",
+      "A",
+      "T",
+      "I",
+      "O",
+      "N",
+      "I",
+      "Q",
+      "F",
+      "Y"
+    ],
+    [
+      "O",
+      "R",
+      "W",
+      "A",
+      "T",
+      "E",
+      "R",
+      "M",
+      "E",
+      "L",
+      "O",
+      "N"
+    ],
+    [
+      "N",
+      "C",
+      "V",
+      "K",
+      "W",
+      "Q",
+      "S",
+      "U",
+      "M",
+      "M",
+      "E",
+      "R"
+    ],
+    [
+      "A",
+      "F",
+      "I",
+      "R",
+      "E",
+      "W",
+      "O",
+      "R",
+      "K",
+      "H",
+      "H",
+      "D"
+    ],
+    [
+      "D",
+      "R",
+      "J",
+      "M",
+      "X",
+      "B",
+      "L",
+      "A",
+      "N",
+      "K",
+      "E",
+      "T"
+    ],
+    [
+      "E",
+      "M",
+      "L",
+      "I",
+      "B",
+      "E",
+      "R",
+      "T",
+      "Y",
+      "N",
+      "H",
+      "P"
+    ],
+    [
+      "Y",
+      "P",
+      "I",
+      "C",
+      "B",
+      "A",
+      "S",
+      "K",
+      "E",
+      "T",
+      "Q",
+      "D"
+    ],
+    [
+      "O",
+      "X",
+      "P",
+      "H",
+      "I",
+      "S",
+      "T",
+      "O",
+      "R",
+      "Y",
+      "D",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "WATERMELON",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "FIREWORK",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SPARKLER",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "LEMONADE",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "FOUNDING",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BLANKET",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "LIBERTY",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "HISTORY",
+      "row": 11,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SUMMER",
+      "row": 6,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "BASKET",
+      "row": 10,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "NATION",
+      "row": 4,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ANTHEM",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "HARBOR",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BRIDGE",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7053
+}

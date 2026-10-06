@@ -1,0 +1,208 @@
+{
+  "id": "birds-easy-02",
+  "slug": "birds-easy-02",
+  "themeId": "birds",
+  "title": "Birds: Garden Watch",
+  "primaryKeyword": "birds word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BEAK",
+    "DAWN",
+    "EGGS",
+    "FINCH",
+    "GULL",
+    "PERCH",
+    "SKY",
+    "TERN",
+    "TREE",
+    "WING"
+  ],
+  "grid": [
+    [
+      "P",
+      "J",
+      "O",
+      "P",
+      "V",
+      "W",
+      "N",
+      "Y",
+      "W",
+      "A"
+    ],
+    [
+      "E",
+      "E",
+      "C",
+      "D",
+      "G",
+      "U",
+      "L",
+      "L",
+      "I",
+      "V"
+    ],
+    [
+      "R",
+      "G",
+      "K",
+      "H",
+      "T",
+      "R",
+      "E",
+      "E",
+      "N",
+      "G"
+    ],
+    [
+      "C",
+      "G",
+      "H",
+      "P",
+      "A",
+      "O",
+      "R",
+      "B",
+      "G",
+      "R"
+    ],
+    [
+      "H",
+      "S",
+      "H",
+      "E",
+      "T",
+      "X",
+      "Z",
+      "U",
+      "R",
+      "J"
+    ],
+    [
+      "J",
+      "Q",
+      "S",
+      "K",
+      "E",
+      "F",
+      "P",
+      "Z",
+      "L",
+      "S"
+    ],
+    [
+      "B",
+      "O",
+      "U",
+      "P",
+      "R",
+      "B",
+      "L",
+      "E",
+      "N",
+      "K"
+    ],
+    [
+      "E",
+      "T",
+      "K",
+      "N",
+      "N",
+      "B",
+      "M",
+      "E",
+      "R",
+      "Y"
+    ],
+    [
+      "A",
+      "U",
+      "N",
+      "O",
+      "Z",
+      "E",
+      "K",
+      "K",
+      "A",
+      "A"
+    ],
+    [
+      "K",
+      "F",
+      "I",
+      "N",
+      "C",
+      "H",
+      "D",
+      "A",
+      "W",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FINCH",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PERCH",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "GULL",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "TERN",
+      "row": 4,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "EGGS",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "WING",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "BEAK",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "TREE",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "DAWN",
+      "row": 9,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "SKY",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7152
+}

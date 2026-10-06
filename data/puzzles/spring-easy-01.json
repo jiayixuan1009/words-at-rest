@@ -1,0 +1,208 @@
+{
+  "id": "spring-easy-01",
+  "slug": "spring-easy-01",
+  "themeId": "spring",
+  "title": "Spring: Morning Thaw",
+  "primaryKeyword": "spring word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BLOOM",
+    "BREEZE",
+    "BUD",
+    "DAWN",
+    "DEW",
+    "LAMB",
+    "MIST",
+    "NEST",
+    "RAIN",
+    "SPRING"
+  ],
+  "grid": [
+    [
+      "G",
+      "P",
+      "V",
+      "F",
+      "L",
+      "A",
+      "M",
+      "B",
+      "N",
+      "Y"
+    ],
+    [
+      "R",
+      "N",
+      "B",
+      "L",
+      "O",
+      "O",
+      "M",
+      "V",
+      "A",
+      "L"
+    ],
+    [
+      "Q",
+      "E",
+      "T",
+      "J",
+      "B",
+      "S",
+      "D",
+      "A",
+      "W",
+      "N"
+    ],
+    [
+      "O",
+      "S",
+      "K",
+      "R",
+      "J",
+      "P",
+      "R",
+      "A",
+      "I",
+      "N"
+    ],
+    [
+      "G",
+      "T",
+      "B",
+      "A",
+      "D",
+      "R",
+      "G",
+      "M",
+      "G",
+      "E"
+    ],
+    [
+      "D",
+      "J",
+      "R",
+      "T",
+      "B",
+      "I",
+      "S",
+      "I",
+      "S",
+      "D"
+    ],
+    [
+      "E",
+      "H",
+      "E",
+      "M",
+      "U",
+      "N",
+      "E",
+      "S",
+      "R",
+      "D"
+    ],
+    [
+      "W",
+      "I",
+      "E",
+      "T",
+      "D",
+      "G",
+      "V",
+      "T",
+      "X",
+      "H"
+    ],
+    [
+      "M",
+      "Z",
+      "Z",
+      "Z",
+      "Y",
+      "D",
+      "Y",
+      "X",
+      "G",
+      "N"
+    ],
+    [
+      "D",
+      "B",
+      "E",
+      "K",
+      "C",
+      "X",
+      "I",
+      "O",
+      "S",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SPRING",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "BREEZE",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "BLOOM",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "RAIN",
+      "row": 3,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "MIST",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "NEST",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "LAMB",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "DAWN",
+      "row": 2,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "BUD",
+      "row": 5,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "DEW",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7061
+}

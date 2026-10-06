@@ -1,0 +1,208 @@
+{
+  "id": "breakfast-easy-02",
+  "slug": "breakfast-easy-02",
+  "themeId": "breakfast",
+  "title": "Breakfast: Morning Tray",
+  "primaryKeyword": "breakfast word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BAGEL",
+    "BANANA",
+    "BERRY",
+    "CEREAL",
+    "CREAM",
+    "KNIFE",
+    "OVEN",
+    "SALT",
+    "SCONE",
+    "SUGAR"
+  ],
+  "grid": [
+    [
+      "J",
+      "X",
+      "I",
+      "S",
+      "U",
+      "G",
+      "A",
+      "R",
+      "L",
+      "O"
+    ],
+    [
+      "C",
+      "W",
+      "B",
+      "S",
+      "C",
+      "O",
+      "N",
+      "E",
+      "Z",
+      "B"
+    ],
+    [
+      "E",
+      "C",
+      "Q",
+      "C",
+      "M",
+      "O",
+      "V",
+      "E",
+      "N",
+      "A"
+    ],
+    [
+      "R",
+      "R",
+      "P",
+      "D",
+      "E",
+      "H",
+      "R",
+      "B",
+      "L",
+      "G"
+    ],
+    [
+      "E",
+      "E",
+      "Z",
+      "S",
+      "A",
+      "L",
+      "T",
+      "N",
+      "I",
+      "E"
+    ],
+    [
+      "A",
+      "A",
+      "G",
+      "Z",
+      "Y",
+      "B",
+      "Q",
+      "X",
+      "B",
+      "L"
+    ],
+    [
+      "L",
+      "M",
+      "K",
+      "N",
+      "I",
+      "F",
+      "E",
+      "I",
+      "E",
+      "C"
+    ],
+    [
+      "Z",
+      "J",
+      "Q",
+      "N",
+      "P",
+      "L",
+      "L",
+      "K",
+      "R",
+      "P"
+    ],
+    [
+      "F",
+      "R",
+      "B",
+      "A",
+      "N",
+      "A",
+      "N",
+      "A",
+      "R",
+      "D"
+    ],
+    [
+      "C",
+      "Q",
+      "M",
+      "O",
+      "B",
+      "T",
+      "O",
+      "S",
+      "Y",
+      "F"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CEREAL",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BANANA",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CREAM",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "BERRY",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "BAGEL",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SCONE",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SUGAR",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "KNIFE",
+      "row": 6,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SALT",
+      "row": 4,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "OVEN",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7122
+}

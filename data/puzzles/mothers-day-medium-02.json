@@ -1,0 +1,284 @@
+{
+  "id": "mothers-day-medium-02",
+  "slug": "mothers-day-medium-02",
+  "themeId": "mothers-day",
+  "title": "Mother's Day: Quiet May",
+  "primaryKeyword": "mothers day word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ADMIRE",
+    "BLESSING",
+    "CHERISH",
+    "COMFORT",
+    "GRATITUDE",
+    "HONOR",
+    "LISTEN",
+    "MEMORY",
+    "PATIENCE",
+    "RESPECT",
+    "SHARE",
+    "STORY",
+    "SUPPORT",
+    "WISDOM"
+  ],
+  "grid": [
+    [
+      "B",
+      "L",
+      "E",
+      "S",
+      "S",
+      "I",
+      "N",
+      "G",
+      "Q",
+      "J",
+      "S",
+      "N"
+    ],
+    [
+      "L",
+      "M",
+      "T",
+      "E",
+      "M",
+      "G",
+      "U",
+      "A",
+      "C",
+      "C",
+      "T",
+      "B"
+    ],
+    [
+      "I",
+      "C",
+      "O",
+      "M",
+      "F",
+      "O",
+      "R",
+      "T",
+      "W",
+      "W",
+      "O",
+      "B"
+    ],
+    [
+      "S",
+      "P",
+      "A",
+      "D",
+      "M",
+      "I",
+      "R",
+      "E",
+      "X",
+      "U",
+      "R",
+      "R"
+    ],
+    [
+      "T",
+      "G",
+      "O",
+      "L",
+      "W",
+      "I",
+      "S",
+      "D",
+      "O",
+      "M",
+      "Y",
+      "P"
+    ],
+    [
+      "E",
+      "C",
+      "P",
+      "G",
+      "R",
+      "A",
+      "T",
+      "I",
+      "T",
+      "U",
+      "D",
+      "E"
+    ],
+    [
+      "N",
+      "H",
+      "K",
+      "V",
+      "C",
+      "S",
+      "N",
+      "B",
+      "B",
+      "U",
+      "D",
+      "S"
+    ],
+    [
+      "I",
+      "E",
+      "P",
+      "A",
+      "T",
+      "I",
+      "E",
+      "N",
+      "C",
+      "E",
+      "B",
+      "H"
+    ],
+    [
+      "W",
+      "R",
+      "M",
+      "E",
+      "M",
+      "O",
+      "R",
+      "Y",
+      "Z",
+      "W",
+      "R",
+      "A"
+    ],
+    [
+      "I",
+      "I",
+      "C",
+      "M",
+      "S",
+      "U",
+      "P",
+      "P",
+      "O",
+      "R",
+      "T",
+      "R"
+    ],
+    [
+      "F",
+      "S",
+      "U",
+      "R",
+      "E",
+      "S",
+      "P",
+      "E",
+      "C",
+      "T",
+      "M",
+      "E"
+    ],
+    [
+      "U",
+      "H",
+      "L",
+      "Q",
+      "E",
+      "D",
+      "S",
+      "H",
+      "O",
+      "N",
+      "O",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "GRATITUDE",
+      "row": 5,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BLESSING",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "PATIENCE",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CHERISH",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "RESPECT",
+      "row": 10,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "COMFORT",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SUPPORT",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "ADMIRE",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "WISDOM",
+      "row": 4,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "MEMORY",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "LISTEN",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "HONOR",
+      "row": 11,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "STORY",
+      "row": 0,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "SHARE",
+      "row": 6,
+      "col": 11,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7034
+}

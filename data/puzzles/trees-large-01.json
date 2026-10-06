@@ -1,0 +1,173 @@
+{
+  "id": "trees-large-01",
+  "slug": "trees-large-01",
+  "themeId": "trees",
+  "title": "Large Print Trees: Soft Oak",
+  "primaryKeyword": "large print trees word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BARK",
+    "CONE",
+    "LEAF",
+    "MAPLE",
+    "OAK",
+    "PINE",
+    "ROOT",
+    "SHADE"
+  ],
+  "grid": [
+    [
+      "Z",
+      "P",
+      "D",
+      "B",
+      "Z",
+      "O",
+      "Y",
+      "V",
+      "S"
+    ],
+    [
+      "B",
+      "I",
+      "R",
+      "F",
+      "D",
+      "K",
+      "T",
+      "L",
+      "L"
+    ],
+    [
+      "A",
+      "N",
+      "O",
+      "L",
+      "S",
+      "Q",
+      "R",
+      "E",
+      "L"
+    ],
+    [
+      "R",
+      "E",
+      "O",
+      "O",
+      "H",
+      "S",
+      "B",
+      "A",
+      "M"
+    ],
+    [
+      "K",
+      "P",
+      "T",
+      "M",
+      "A",
+      "U",
+      "R",
+      "F",
+      "K"
+    ],
+    [
+      "X",
+      "J",
+      "N",
+      "A",
+      "D",
+      "H",
+      "O",
+      "P",
+      "C"
+    ],
+    [
+      "Y",
+      "U",
+      "W",
+      "P",
+      "E",
+      "W",
+      "Y",
+      "O",
+      "O"
+    ],
+    [
+      "B",
+      "K",
+      "T",
+      "L",
+      "C",
+      "G",
+      "N",
+      "A",
+      "N"
+    ],
+    [
+      "J",
+      "O",
+      "T",
+      "E",
+      "O",
+      "U",
+      "W",
+      "K",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "MAPLE",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "SHADE",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "PINE",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "LEAF",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "ROOT",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "CONE",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "BARK",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "OAK",
+      "row": 6,
+      "col": 7,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7176
+}

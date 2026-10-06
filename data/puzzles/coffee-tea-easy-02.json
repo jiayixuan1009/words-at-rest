@@ -1,0 +1,208 @@
+{
+  "id": "coffee-tea-easy-02",
+  "slug": "coffee-tea-easy-02",
+  "themeId": "coffee-tea",
+  "title": "Coffee & Tea: Morning Brew",
+  "primaryKeyword": "coffee and tea word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BLEND",
+    "CREAM",
+    "FOAM",
+    "GRIND",
+    "MINT",
+    "POT",
+    "POUR",
+    "ROAST",
+    "TRAY",
+    "WARM"
+  ],
+  "grid": [
+    [
+      "T",
+      "A",
+      "G",
+      "I",
+      "C",
+      "J",
+      "Q",
+      "U",
+      "E",
+      "P"
+    ],
+    [
+      "C",
+      "F",
+      "G",
+      "C",
+      "R",
+      "E",
+      "A",
+      "M",
+      "C",
+      "S"
+    ],
+    [
+      "R",
+      "W",
+      "A",
+      "R",
+      "M",
+      "C",
+      "Q",
+      "M",
+      "O",
+      "B"
+    ],
+    [
+      "L",
+      "E",
+      "W",
+      "F",
+      "O",
+      "A",
+      "M",
+      "I",
+      "Z",
+      "L"
+    ],
+    [
+      "R",
+      "M",
+      "G",
+      "O",
+      "O",
+      "Y",
+      "I",
+      "N",
+      "E",
+      "E"
+    ],
+    [
+      "C",
+      "V",
+      "R",
+      "T",
+      "T",
+      "I",
+      "J",
+      "T",
+      "J",
+      "N"
+    ],
+    [
+      "J",
+      "T",
+      "I",
+      "L",
+      "F",
+      "K",
+      "G",
+      "B",
+      "S",
+      "D"
+    ],
+    [
+      "O",
+      "R",
+      "N",
+      "P",
+      "O",
+      "T",
+      "P",
+      "L",
+      "W",
+      "G"
+    ],
+    [
+      "Y",
+      "A",
+      "D",
+      "L",
+      "R",
+      "O",
+      "A",
+      "S",
+      "T",
+      "E"
+    ],
+    [
+      "Y",
+      "Y",
+      "W",
+      "P",
+      "O",
+      "U",
+      "R",
+      "W",
+      "Q",
+      "Z"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ROAST",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "GRIND",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "CREAM",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BLEND",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "POUR",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "FOAM",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "MINT",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "WARM",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TRAY",
+      "row": 6,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "POT",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7132
+}

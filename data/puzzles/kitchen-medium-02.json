@@ -1,0 +1,284 @@
+{
+  "id": "kitchen-medium-02",
+  "slug": "kitchen-medium-02",
+  "themeId": "kitchen",
+  "title": "Kitchen: Recipe Day",
+  "primaryKeyword": "kitchen word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BAKING",
+    "BLENDER",
+    "COLANDER",
+    "FRY",
+    "KETTLE",
+    "MIXER",
+    "PIN",
+    "ROLLING",
+    "SERVE",
+    "SIEVE",
+    "SPICE",
+    "STEAM",
+    "TAP",
+    "TOASTER"
+  ],
+  "grid": [
+    [
+      "U",
+      "B",
+      "C",
+      "K",
+      "V",
+      "H",
+      "M",
+      "F",
+      "H",
+      "J",
+      "R",
+      "Z"
+    ],
+    [
+      "F",
+      "A",
+      "F",
+      "Z",
+      "M",
+      "I",
+      "X",
+      "E",
+      "R",
+      "P",
+      "I",
+      "N"
+    ],
+    [
+      "Y",
+      "K",
+      "X",
+      "D",
+      "D",
+      "H",
+      "T",
+      "S",
+      "P",
+      "I",
+      "C",
+      "E"
+    ],
+    [
+      "X",
+      "I",
+      "B",
+      "V",
+      "R",
+      "T",
+      "A",
+      "P",
+      "T",
+      "E",
+      "S",
+      "U"
+    ],
+    [
+      "S",
+      "N",
+      "T",
+      "L",
+      "C",
+      "O",
+      "L",
+      "A",
+      "N",
+      "D",
+      "E",
+      "R"
+    ],
+    [
+      "C",
+      "G",
+      "K",
+      "O",
+      "E",
+      "X",
+      "Q",
+      "I",
+      "F",
+      "M",
+      "R",
+      "O"
+    ],
+    [
+      "E",
+      "D",
+      "S",
+      "E",
+      "A",
+      "N",
+      "Q",
+      "C",
+      "H",
+      "Q",
+      "V",
+      "L"
+    ],
+    [
+      "G",
+      "S",
+      "O",
+      "K",
+      "T",
+      "S",
+      "D",
+      "V",
+      "V",
+      "Q",
+      "E",
+      "L"
+    ],
+    [
+      "V",
+      "T",
+      "I",
+      "Z",
+      "I",
+      "T",
+      "T",
+      "E",
+      "P",
+      "K",
+      "S",
+      "I"
+    ],
+    [
+      "L",
+      "E",
+      "W",
+      "E",
+      "F",
+      "Y",
+      "L",
+      "E",
+      "R",
+      "A",
+      "Y",
+      "N"
+    ],
+    [
+      "O",
+      "A",
+      "C",
+      "Z",
+      "V",
+      "R",
+      "B",
+      "E",
+      "R",
+      "J",
+      "K",
+      "G"
+    ],
+    [
+      "P",
+      "M",
+      "E",
+      "M",
+      "T",
+      "E",
+      "Y",
+      "X",
+      "G",
+      "C",
+      "B",
+      "C"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "COLANDER",
+      "row": 4,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BLENDER",
+      "row": 3,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "TOASTER",
+      "row": 4,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "ROLLING",
+      "row": 4,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "KETTLE",
+      "row": 5,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "BAKING",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "MIXER",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SIEVE",
+      "row": 7,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "STEAM",
+      "row": 7,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SERVE",
+      "row": 3,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "SPICE",
+      "row": 2,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "FRY",
+      "row": 9,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "TAP",
+      "row": 3,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "PIN",
+      "row": 1,
+      "col": 9,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7144
+}

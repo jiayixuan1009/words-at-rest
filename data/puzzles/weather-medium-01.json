@@ -1,0 +1,284 @@
+{
+  "id": "weather-medium-01",
+  "slug": "weather-medium-01",
+  "themeId": "weather",
+  "title": "Weather: Storm Watch",
+  "primaryKeyword": "weather word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BLIZZARD",
+    "BREEZE",
+    "DEGREE",
+    "DRIZZLE",
+    "FLURRY",
+    "FORECAST",
+    "HUMID",
+    "OVERCAST",
+    "PARKA",
+    "PRESSURE",
+    "SHADE",
+    "SHOWER",
+    "THUNDER",
+    "UMBRELLA"
+  ],
+  "grid": [
+    [
+      "F",
+      "E",
+      "D",
+      "E",
+      "G",
+      "R",
+      "E",
+      "E",
+      "Q",
+      "N",
+      "U",
+      "N"
+    ],
+    [
+      "T",
+      "F",
+      "B",
+      "H",
+      "C",
+      "B",
+      "K",
+      "I",
+      "R",
+      "X",
+      "I",
+      "F"
+    ],
+    [
+      "I",
+      "U",
+      "O",
+      "F",
+      "U",
+      "J",
+      "P",
+      "E",
+      "E",
+      "O",
+      "I",
+      "D"
+    ],
+    [
+      "K",
+      "M",
+      "I",
+      "R",
+      "X",
+      "M",
+      "W",
+      "V",
+      "E",
+      "H",
+      "R",
+      "B"
+    ],
+    [
+      "T",
+      "B",
+      "B",
+      "V",
+      "E",
+      "O",
+      "I",
+      "L",
+      "H",
+      "A",
+      "P",
+      "Y"
+    ],
+    [
+      "H",
+      "R",
+      "J",
+      "R",
+      "H",
+      "C",
+      "Z",
+      "D",
+      "Z",
+      "R",
+      "R",
+      "I"
+    ],
+    [
+      "U",
+      "E",
+      "S",
+      "S",
+      "E",
+      "Z",
+      "A",
+      "Z",
+      "K",
+      "R",
+      "E",
+      "P"
+    ],
+    [
+      "N",
+      "L",
+      "Y",
+      "H",
+      "I",
+      "E",
+      "I",
+      "S",
+      "U",
+      "U",
+      "S",
+      "A"
+    ],
+    [
+      "D",
+      "L",
+      "P",
+      "R",
+      "A",
+      "L",
+      "Z",
+      "L",
+      "T",
+      "O",
+      "S",
+      "R"
+    ],
+    [
+      "E",
+      "A",
+      "D",
+      "E",
+      "B",
+      "D",
+      "F",
+      "E",
+      "B",
+      "P",
+      "U",
+      "K"
+    ],
+    [
+      "R",
+      "P",
+      "R",
+      "S",
+      "T",
+      "R",
+      "E",
+      "R",
+      "H",
+      "I",
+      "R",
+      "A"
+    ],
+    [
+      "O",
+      "V",
+      "E",
+      "R",
+      "C",
+      "A",
+      "S",
+      "T",
+      "Z",
+      "M",
+      "E",
+      "B"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BLIZZARD",
+      "row": 9,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "OVERCAST",
+      "row": 11,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "FORECAST",
+      "row": 1,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "PRESSURE",
+      "row": 4,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "UMBRELLA",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "THUNDER",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "DRIZZLE",
+      "row": 9,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "BREEZE",
+      "row": 4,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "SHOWER",
+      "row": 6,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "FLURRY",
+      "row": 9,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "DEGREE",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "HUMID",
+      "row": 1,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "PARKA",
+      "row": 6,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "SHADE",
+      "row": 6,
+      "col": 2,
+      "direction": "SE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7183
+}

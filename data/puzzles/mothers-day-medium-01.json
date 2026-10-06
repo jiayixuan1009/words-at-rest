@@ -1,0 +1,284 @@
+{
+  "id": "mothers-day-medium-01",
+  "slug": "mothers-day-medium-01",
+  "themeId": "mothers-day",
+  "title": "Mother's Day: Bloom & Note",
+  "primaryKeyword": "mothers day word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "APRON",
+    "BLOOM",
+    "BOUQUET",
+    "BREAKFAST",
+    "COFFEE",
+    "FAMILY",
+    "FLOWER",
+    "GARDEN",
+    "KITCHEN",
+    "LAUGH",
+    "LETTER",
+    "PANCAKE",
+    "PHOTO",
+    "QUILT"
+  ],
+  "grid": [
+    [
+      "A",
+      "B",
+      "O",
+      "U",
+      "Q",
+      "U",
+      "E",
+      "T",
+      "J",
+      "F",
+      "K",
+      "X"
+    ],
+    [
+      "B",
+      "W",
+      "P",
+      "A",
+      "N",
+      "C",
+      "A",
+      "K",
+      "E",
+      "A",
+      "I",
+      "C"
+    ],
+    [
+      "R",
+      "A",
+      "G",
+      "S",
+      "P",
+      "N",
+      "D",
+      "K",
+      "K",
+      "M",
+      "T",
+      "E"
+    ],
+    [
+      "E",
+      "G",
+      "W",
+      "T",
+      "Y",
+      "R",
+      "A",
+      "X",
+      "I",
+      "I",
+      "C",
+      "P"
+    ],
+    [
+      "A",
+      "C",
+      "P",
+      "Q",
+      "Z",
+      "N",
+      "O",
+      "M",
+      "G",
+      "L",
+      "H",
+      "N"
+    ],
+    [
+      "K",
+      "F",
+      "U",
+      "H",
+      "K",
+      "L",
+      "O",
+      "N",
+      "V",
+      "Y",
+      "E",
+      "K"
+    ],
+    [
+      "F",
+      "L",
+      "J",
+      "B",
+      "O",
+      "O",
+      "E",
+      "G",
+      "T",
+      "D",
+      "N",
+      "B"
+    ],
+    [
+      "A",
+      "O",
+      "Q",
+      "A",
+      "L",
+      "T",
+      "S",
+      "T",
+      "R",
+      "D",
+      "E",
+      "I"
+    ],
+    [
+      "S",
+      "W",
+      "U",
+      "B",
+      "S",
+      "C",
+      "O",
+      "A",
+      "T",
+      "J",
+      "K",
+      "M"
+    ],
+    [
+      "T",
+      "E",
+      "I",
+      "L",
+      "M",
+      "F",
+      "G",
+      "L",
+      "U",
+      "E",
+      "Y",
+      "T"
+    ],
+    [
+      "K",
+      "R",
+      "L",
+      "A",
+      "U",
+      "G",
+      "H",
+      "R",
+      "A",
+      "A",
+      "R",
+      "H"
+    ],
+    [
+      "I",
+      "Z",
+      "T",
+      "Y",
+      "C",
+      "O",
+      "F",
+      "F",
+      "E",
+      "E",
+      "N",
+      "A"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BREAKFAST",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BOUQUET",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PANCAKE",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "KITCHEN",
+      "row": 0,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "FLOWER",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "COFFEE",
+      "row": 11,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "LETTER",
+      "row": 5,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "GARDEN",
+      "row": 9,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "FAMILY",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "PHOTO",
+      "row": 4,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "BLOOM",
+      "row": 8,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "QUILT",
+      "row": 7,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "APRON",
+      "row": 1,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "LAUGH",
+      "row": 10,
+      "col": 2,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7033
+}

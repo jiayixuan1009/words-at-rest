@@ -1,0 +1,173 @@
+{
+  "id": "new-year-large-01",
+  "slug": "new-year-large-01",
+  "themeId": "new-year",
+  "title": "Large Print New Year: Soft Dawn",
+  "primaryKeyword": "large print new year word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "DAWN",
+    "HOPE",
+    "JOY",
+    "PEACE",
+    "PLAN",
+    "TOAST",
+    "WISH",
+    "YEAR"
+  ],
+  "grid": [
+    [
+      "X",
+      "F",
+      "K",
+      "G",
+      "Y",
+      "V",
+      "S",
+      "I",
+      "H"
+    ],
+    [
+      "X",
+      "E",
+      "T",
+      "W",
+      "O",
+      "R",
+      "S",
+      "O",
+      "J"
+    ],
+    [
+      "K",
+      "D",
+      "O",
+      "Z",
+      "Q",
+      "K",
+      "B",
+      "C",
+      "O"
+    ],
+    [
+      "P",
+      "A",
+      "A",
+      "H",
+      "O",
+      "P",
+      "E",
+      "J",
+      "Y"
+    ],
+    [
+      "L",
+      "W",
+      "S",
+      "P",
+      "Y",
+      "Q",
+      "G",
+      "W",
+      "F"
+    ],
+    [
+      "A",
+      "N",
+      "T",
+      "E",
+      "E",
+      "W",
+      "O",
+      "I",
+      "O"
+    ],
+    [
+      "N",
+      "V",
+      "M",
+      "A",
+      "A",
+      "E",
+      "M",
+      "S",
+      "Y"
+    ],
+    [
+      "W",
+      "T",
+      "T",
+      "C",
+      "R",
+      "D",
+      "O",
+      "H",
+      "J"
+    ],
+    [
+      "Q",
+      "B",
+      "S",
+      "E",
+      "K",
+      "X",
+      "F",
+      "Z",
+      "Q"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TOAST",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "PEACE",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "YEAR",
+      "row": 4,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "WISH",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "HOPE",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "DAWN",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "PLAN",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "JOY",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7016
+}

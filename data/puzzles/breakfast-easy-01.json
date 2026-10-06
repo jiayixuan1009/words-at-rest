@@ -1,0 +1,208 @@
+{
+  "id": "breakfast-easy-01",
+  "slug": "breakfast-easy-01",
+  "themeId": "breakfast",
+  "title": "Breakfast: Toast & Egg",
+  "primaryKeyword": "breakfast word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BUTTER",
+    "EGG",
+    "HONEY",
+    "JAM",
+    "JUICE",
+    "MILK",
+    "OATS",
+    "PLATE",
+    "TEA",
+    "TOAST"
+  ],
+  "grid": [
+    [
+      "Z",
+      "J",
+      "M",
+      "J",
+      "M",
+      "I",
+      "L",
+      "K",
+      "E",
+      "B"
+    ],
+    [
+      "G",
+      "M",
+      "J",
+      "S",
+      "U",
+      "I",
+      "R",
+      "S",
+      "R",
+      "P"
+    ],
+    [
+      "E",
+      "D",
+      "H",
+      "X",
+      "Q",
+      "A",
+      "B",
+      "O",
+      "U",
+      "L"
+    ],
+    [
+      "L",
+      "C",
+      "Q",
+      "H",
+      "O",
+      "N",
+      "E",
+      "Y",
+      "I",
+      "A"
+    ],
+    [
+      "J",
+      "U",
+      "I",
+      "C",
+      "E",
+      "Q",
+      "Y",
+      "N",
+      "J",
+      "T"
+    ],
+    [
+      "E",
+      "G",
+      "G",
+      "J",
+      "A",
+      "O",
+      "E",
+      "R",
+      "A",
+      "E"
+    ],
+    [
+      "V",
+      "B",
+      "U",
+      "T",
+      "T",
+      "E",
+      "R",
+      "Q",
+      "Z",
+      "T"
+    ],
+    [
+      "I",
+      "U",
+      "I",
+      "W",
+      "K",
+      "B",
+      "J",
+      "A",
+      "M",
+      "E"
+    ],
+    [
+      "K",
+      "B",
+      "L",
+      "T",
+      "O",
+      "A",
+      "S",
+      "T",
+      "P",
+      "A"
+    ],
+    [
+      "M",
+      "U",
+      "O",
+      "A",
+      "S",
+      "C",
+      "O",
+      "A",
+      "T",
+      "S"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BUTTER",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TOAST",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "HONEY",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "JUICE",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "PLATE",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "OATS",
+      "row": 9,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "MILK",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "EGG",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "JAM",
+      "row": 7,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "TEA",
+      "row": 6,
+      "col": 9,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7121
+}

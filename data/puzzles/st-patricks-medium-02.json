@@ -1,0 +1,284 @@
+{
+  "id": "st-patricks-medium-02",
+  "slug": "st-patricks-medium-02",
+  "themeId": "st-patricks",
+  "title": "St. Patrick's: Spring March",
+  "primaryKeyword": "st patricks day word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BUTTER",
+    "CASTLE",
+    "CLOVER",
+    "CROSS",
+    "EMERALD",
+    "FIDDLE",
+    "HONEY",
+    "HOPE",
+    "PARADE",
+    "SAINT",
+    "THYME",
+    "TINWHISTLE",
+    "VERSE",
+    "WISH"
+  ],
+  "grid": [
+    [
+      "V",
+      "U",
+      "S",
+      "A",
+      "I",
+      "N",
+      "T",
+      "K",
+      "V",
+      "Q",
+      "U",
+      "H"
+    ],
+    [
+      "F",
+      "I",
+      "D",
+      "D",
+      "L",
+      "E",
+      "K",
+      "A",
+      "F",
+      "T",
+      "W",
+      "O"
+    ],
+    [
+      "P",
+      "A",
+      "R",
+      "A",
+      "D",
+      "E",
+      "Q",
+      "P",
+      "S",
+      "I",
+      "D",
+      "P"
+    ],
+    [
+      "E",
+      "P",
+      "P",
+      "J",
+      "G",
+      "Z",
+      "V",
+      "M",
+      "T",
+      "N",
+      "B",
+      "E"
+    ],
+    [
+      "E",
+      "M",
+      "E",
+      "R",
+      "A",
+      "L",
+      "D",
+      "D",
+      "H",
+      "W",
+      "F",
+      "O"
+    ],
+    [
+      "F",
+      "V",
+      "C",
+      "Q",
+      "A",
+      "Y",
+      "I",
+      "U",
+      "Y",
+      "H",
+      "C",
+      "L"
+    ],
+    [
+      "H",
+      "O",
+      "N",
+      "E",
+      "Y",
+      "B",
+      "O",
+      "A",
+      "M",
+      "I",
+      "L",
+      "W"
+    ],
+    [
+      "P",
+      "C",
+      "B",
+      "R",
+      "A",
+      "F",
+      "U",
+      "K",
+      "E",
+      "S",
+      "O",
+      "I"
+    ],
+    [
+      "C",
+      "R",
+      "O",
+      "S",
+      "S",
+      "T",
+      "C",
+      "T",
+      "E",
+      "T",
+      "V",
+      "S"
+    ],
+    [
+      "C",
+      "A",
+      "S",
+      "T",
+      "L",
+      "E",
+      "X",
+      "Y",
+      "T",
+      "L",
+      "E",
+      "H"
+    ],
+    [
+      "V",
+      "R",
+      "R",
+      "P",
+      "P",
+      "G",
+      "G",
+      "W",
+      "H",
+      "E",
+      "R",
+      "O"
+    ],
+    [
+      "T",
+      "Q",
+      "T",
+      "I",
+      "G",
+      "V",
+      "E",
+      "R",
+      "S",
+      "E",
+      "R",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TINWHISTLE",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "EMERALD",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CASTLE",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BUTTER",
+      "row": 6,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "PARADE",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CLOVER",
+      "row": 5,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "FIDDLE",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "HONEY",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "THYME",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "VERSE",
+      "row": 11,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "CROSS",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SAINT",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "WISH",
+      "row": 6,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "HOPE",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7024
+}

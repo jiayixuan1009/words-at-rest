@@ -1,0 +1,173 @@
+{
+  "id": "flowers-large-01",
+  "slug": "flowers-large-01",
+  "themeId": "flowers",
+  "title": "Large Print Flowers: Soft Rose",
+  "primaryKeyword": "large print flowers word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BEE",
+    "BUD",
+    "DAISY",
+    "IRIS",
+    "LILY",
+    "ROSE",
+    "SOFT",
+    "VASE"
+  ],
+  "grid": [
+    [
+      "D",
+      "U",
+      "W",
+      "L",
+      "D",
+      "Q",
+      "E",
+      "S",
+      "O"
+    ],
+    [
+      "A",
+      "U",
+      "B",
+      "A",
+      "G",
+      "X",
+      "W",
+      "B",
+      "T"
+    ],
+    [
+      "I",
+      "V",
+      "E",
+      "Y",
+      "I",
+      "R",
+      "I",
+      "S",
+      "G"
+    ],
+    [
+      "S",
+      "V",
+      "E",
+      "P",
+      "V",
+      "A",
+      "S",
+      "E",
+      "R"
+    ],
+    [
+      "Y",
+      "H",
+      "H",
+      "I",
+      "U",
+      "C",
+      "G",
+      "T",
+      "O"
+    ],
+    [
+      "O",
+      "Y",
+      "Y",
+      "C",
+      "C",
+      "P",
+      "O",
+      "M",
+      "S"
+    ],
+    [
+      "L",
+      "I",
+      "L",
+      "Y",
+      "D",
+      "N",
+      "X",
+      "J",
+      "E"
+    ],
+    [
+      "N",
+      "N",
+      "S",
+      "O",
+      "F",
+      "T",
+      "V",
+      "J",
+      "F"
+    ],
+    [
+      "A",
+      "B",
+      "U",
+      "D",
+      "T",
+      "Y",
+      "U",
+      "T",
+      "U"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "DAISY",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "ROSE",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "LILY",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "IRIS",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "VASE",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SOFT",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BUD",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BEE",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7166
+}

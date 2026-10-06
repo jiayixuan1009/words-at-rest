@@ -1,0 +1,208 @@
+{
+  "id": "vegetables-easy-01",
+  "slug": "vegetables-easy-01",
+  "themeId": "vegetables",
+  "title": "Vegetables: Market Crate",
+  "primaryKeyword": "vegetables word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BEAN",
+    "CARROT",
+    "CELERY",
+    "CORN",
+    "CRISP",
+    "FRESH",
+    "LEEK",
+    "ONION",
+    "PEAS",
+    "RADISH"
+  ],
+  "grid": [
+    [
+      "P",
+      "E",
+      "A",
+      "S",
+      "Q",
+      "E",
+      "V",
+      "P",
+      "S",
+      "L"
+    ],
+    [
+      "T",
+      "J",
+      "W",
+      "C",
+      "C",
+      "A",
+      "R",
+      "R",
+      "O",
+      "T"
+    ],
+    [
+      "C",
+      "O",
+      "R",
+      "N",
+      "Y",
+      "Q",
+      "A",
+      "W",
+      "R",
+      "J"
+    ],
+    [
+      "T",
+      "A",
+      "L",
+      "E",
+      "E",
+      "K",
+      "D",
+      "L",
+      "G",
+      "L"
+    ],
+    [
+      "B",
+      "E",
+      "A",
+      "N",
+      "C",
+      "C",
+      "I",
+      "E",
+      "O",
+      "C"
+    ],
+    [
+      "P",
+      "F",
+      "C",
+      "Y",
+      "R",
+      "E",
+      "S",
+      "X",
+      "N",
+      "R"
+    ],
+    [
+      "Q",
+      "R",
+      "S",
+      "F",
+      "K",
+      "L",
+      "H",
+      "F",
+      "I",
+      "I"
+    ],
+    [
+      "S",
+      "E",
+      "Y",
+      "K",
+      "F",
+      "E",
+      "I",
+      "C",
+      "O",
+      "S"
+    ],
+    [
+      "C",
+      "S",
+      "F",
+      "W",
+      "Q",
+      "R",
+      "L",
+      "P",
+      "N",
+      "P"
+    ],
+    [
+      "F",
+      "H",
+      "M",
+      "G",
+      "J",
+      "Y",
+      "X",
+      "T",
+      "R",
+      "S"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CARROT",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CELERY",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "RADISH",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "ONION",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "FRESH",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "CRISP",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "PEAS",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BEAN",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CORN",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "LEEK",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7111
+}

@@ -1,0 +1,208 @@
+{
+  "id": "summer-easy-02",
+  "slug": "summer-easy-02",
+  "themeId": "summer",
+  "title": "Summer: Lake Day",
+  "primaryKeyword": "summer word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BREEZE",
+    "CORN",
+    "DOCK",
+    "PEACH",
+    "PICNIC",
+    "PORCH",
+    "REST",
+    "SHELL",
+    "SWIM",
+    "TOWEL"
+  ],
+  "grid": [
+    [
+      "J",
+      "P",
+      "U",
+      "Q",
+      "C",
+      "O",
+      "R",
+      "N",
+      "R",
+      "R"
+    ],
+    [
+      "P",
+      "E",
+      "U",
+      "R",
+      "D",
+      "F",
+      "M",
+      "E",
+      "M",
+      "M"
+    ],
+    [
+      "O",
+      "A",
+      "K",
+      "P",
+      "I",
+      "C",
+      "N",
+      "I",
+      "C",
+      "P"
+    ],
+    [
+      "R",
+      "C",
+      "L",
+      "B",
+      "R",
+      "E",
+      "E",
+      "Z",
+      "E",
+      "J"
+    ],
+    [
+      "C",
+      "H",
+      "M",
+      "I",
+      "X",
+      "U",
+      "W",
+      "U",
+      "Z",
+      "H"
+    ],
+    [
+      "H",
+      "E",
+      "R",
+      "S",
+      "H",
+      "E",
+      "L",
+      "L",
+      "S",
+      "T"
+    ],
+    [
+      "I",
+      "U",
+      "E",
+      "N",
+      "P",
+      "T",
+      "A",
+      "U",
+      "W",
+      "O"
+    ],
+    [
+      "J",
+      "S",
+      "S",
+      "R",
+      "Z",
+      "I",
+      "D",
+      "Y",
+      "I",
+      "W"
+    ],
+    [
+      "N",
+      "W",
+      "T",
+      "D",
+      "S",
+      "U",
+      "E",
+      "K",
+      "M",
+      "E"
+    ],
+    [
+      "D",
+      "O",
+      "C",
+      "K",
+      "C",
+      "P",
+      "T",
+      "L",
+      "N",
+      "L"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BREEZE",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "PICNIC",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "PORCH",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "TOWEL",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SHELL",
+      "row": 5,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "PEACH",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "DOCK",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SWIM",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "CORN",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "REST",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7072
+}

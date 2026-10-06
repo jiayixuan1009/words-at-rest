@@ -11,22 +11,34 @@ import { ART } from "@/lib/images";
 import Picture from "@/components/Picture";
 
 const DESCRIPTION =
-  "Free holiday word search puzzles for adults and seniors: Thanksgiving, winter, Valentine's Day and Easter. Calm seasonal grids, large print available, no timer and no licensed characters.";
+  "Free holiday and seasonal word search puzzles for adults and seniors: Thanksgiving, winter, Valentine's, Easter, New Year, St. Patrick's, Mother's Day, Father's Day, Independence Day, spring and summer. Calm grids, large print available, no licensed characters.";
 
 export const metadata: Metadata = seo({
-  title: "Holiday Word Search — Thanksgiving, Winter, Valentine's & Easter",
+  title: "Holiday Word Search — Seasonal Puzzles for Adults",
   description: DESCRIPTION,
   path: "/holidays",
   image: "/og/holidays.jpg",
   imageAlt: "Holiday word search — Words at Rest",
 });
 
-const HOLIDAY_SLUGS = ["thanksgiving", "winter", "valentines", "easter"] as const;
+const HOLIDAY_SLUGS = [
+  "thanksgiving",
+  "winter",
+  "valentines",
+  "easter",
+  "new-year",
+  "st-patricks",
+  "mothers-day",
+  "fathers-day",
+  "independence-day",
+  "spring",
+  "summer",
+] as const;
 
 const FAQ: FaqItem[] = [
   {
     q: "Which holiday word searches do you have?",
-    a: "This hub gathers four seasonal themes: Thanksgiving, winter, Valentine's Day and Easter. Halloween, fall and Christmas live on the main Themes page as well — they follow the same calm adult style.",
+    a: "This hub gathers Thanksgiving, winter, Valentine's Day, Easter, New Year, St. Patrick's Day, Mother's Day, Father's Day, Independence Day, spring and summer. Halloween, fall and Christmas live on the main Themes page as well — they follow the same calm adult style.",
   },
   {
     q: "Are these puzzles free? Do I need an account?",
@@ -34,11 +46,11 @@ const FAQ: FaqItem[] = [
   },
   {
     q: "Is large print available?",
-    a: "Each holiday theme includes a dedicated large-print puzzle with a 9×9 grid and eight short words. You can also switch any puzzle to large print with the button above the grid.",
+    a: "Each holiday theme includes a dedicated large-print puzzle with a 9×9 grid and eight short words. You can also enlarge the grid on any puzzle with the Grid size switch above the board.",
   },
   {
     q: "Are the word lists free of licensed characters?",
-    a: "Yes. Holiday lists use everyday seasonal English — harvest tables, frost and cocoa, roses and letters, spring blooms and quiet faith words — with no trademarked characters or brand names.",
+    a: "Yes. Holiday lists use everyday seasonal English — harvest tables, frost and cocoa, roses and letters, spring blooms, quiet New Year resolutions and summer picnic words — with no trademarked characters or brand names.",
   },
   {
     q: "Who are these puzzles for?",
@@ -48,10 +60,10 @@ const FAQ: FaqItem[] = [
 
 export default function HolidaysPage() {
   const themes = HOLIDAY_SLUGS.map((slug) => {
-  const theme = getTheme(slug);
-  if (!theme) throw new Error(`Missing holiday theme: ${slug}`);
-  return theme;
-});
+    const theme = getTheme(slug);
+    if (!theme) throw new Error(`Missing holiday theme: ${slug}`);
+    return theme;
+  });
   return (
     <>
       <Breadcrumbs items={[{ name: "Holidays", href: "/holidays" }]} />
@@ -60,8 +72,8 @@ export default function HolidaysPage() {
           <h1 className="font-serif text-4xl tracking-tight sm:text-5xl">Holiday word search</h1>
           <Byline />
           <p className="mt-4 text-lg leading-relaxed text-[var(--ink-soft)]">
-            Seasonal puzzles for Thanksgiving, winter, Valentine&apos;s Day and Easter — written for
-            adults, easy on the eyes, and free of licensed characters.
+            Seasonal puzzles for the year&apos;s quieter holidays — written for adults, easy on the
+            eyes, and free of licensed characters.
           </p>
         </div>
         <Picture
@@ -88,13 +100,20 @@ export default function HolidaysPage() {
         <h2 className="font-serif text-2xl font-semibold text-[var(--ink)]">How the holiday themes work</h2>
         <p>
           <strong className="text-[var(--ink)]">Thanksgiving</strong> leans into harvest tables and
-          gratitude. <strong className="text-[var(--ink)]">Winter</strong> covers frost, wool and
-          cocoa without Christmas mascots — pair it with our{" "}
+          gratitude. <strong className="text-[var(--ink)]">Winter</strong> and{" "}
+          <strong className="text-[var(--ink)]">New Year</strong> cover frost, cocoa and fresh starts
+          without Christmas mascots — pair them with our{" "}
           <Link href="/themes/christmas">Christmas</Link> theme if you want December carols.{" "}
-          <strong className="text-[var(--ink)]">Valentine&apos;s Day</strong> keeps a quiet adult
-          tone of letters and affection. <strong className="text-[var(--ink)]">Easter</strong> mixes
-          spring blooms with a few gentle faith words; for Scripture vocabulary see{" "}
-          <Link href="/themes/bible">Bible</Link>.
+          <strong className="text-[var(--ink)]">Valentine&apos;s Day</strong> and{" "}
+          <strong className="text-[var(--ink)]">Mother&apos;s Day</strong> keep a quiet adult tone of
+          letters and appreciation. <strong className="text-[var(--ink)]">Easter</strong> and{" "}
+          <strong className="text-[var(--ink)]">spring</strong> mix blooms with gentle seasonal
+          English; for Scripture vocabulary see <Link href="/themes/bible">Bible</Link>.{" "}
+          <strong className="text-[var(--ink)]">St. Patrick&apos;s Day</strong>,{" "}
+          <strong className="text-[var(--ink)]">Father&apos;s Day</strong>,{" "}
+          <strong className="text-[var(--ink)]">Independence Day</strong> and{" "}
+          <strong className="text-[var(--ink)]">summer</strong> round out the year with green hills,
+          porch days, picnics and shade — still without licensed characters.
         </p>
         <p>
           Prefer bigger letters? Open any theme&apos;s large-print puzzle, or visit the{" "}

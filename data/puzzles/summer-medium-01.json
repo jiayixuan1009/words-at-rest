@@ -1,0 +1,284 @@
+{
+  "id": "summer-medium-01",
+  "slug": "summer-medium-01",
+  "themeId": "summer",
+  "title": "Summer: Porch Breeze",
+  "primaryKeyword": "summer word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BASKET",
+    "COOLER",
+    "CRICKET",
+    "DAYLIGHT",
+    "FIREFLY",
+    "GARDEN",
+    "HAMMOCK",
+    "LEMONADE",
+    "PATIO",
+    "SHORE",
+    "SOLSTICE",
+    "SPLASH",
+    "SUNHAT",
+    "TWILIGHT"
+  ],
+  "grid": [
+    [
+      "R",
+      "A",
+      "A",
+      "S",
+      "P",
+      "L",
+      "A",
+      "S",
+      "H",
+      "Q",
+      "T",
+      "O"
+    ],
+    [
+      "D",
+      "T",
+      "R",
+      "K",
+      "A",
+      "P",
+      "Y",
+      "M",
+      "N",
+      "H",
+      "I",
+      "P"
+    ],
+    [
+      "M",
+      "L",
+      "H",
+      "Z",
+      "S",
+      "I",
+      "X",
+      "G",
+      "G",
+      "T",
+      "B",
+      "C"
+    ],
+    [
+      "C",
+      "W",
+      "A",
+      "G",
+      "L",
+      "C",
+      "B",
+      "I",
+      "A",
+      "T",
+      "A",
+      "R"
+    ],
+    [
+      "O",
+      "T",
+      "M",
+      "G",
+      "M",
+      "E",
+      "L",
+      "P",
+      "A",
+      "Z",
+      "S",
+      "I"
+    ],
+    [
+      "O",
+      "W",
+      "M",
+      "A",
+      "L",
+      "Y",
+      "M",
+      "H",
+      "X",
+      "N",
+      "K",
+      "C"
+    ],
+    [
+      "L",
+      "I",
+      "O",
+      "R",
+      "A",
+      "J",
+      "N",
+      "O",
+      "V",
+      "S",
+      "E",
+      "K"
+    ],
+    [
+      "E",
+      "L",
+      "C",
+      "D",
+      "B",
+      "U",
+      "E",
+      "R",
+      "N",
+      "S",
+      "T",
+      "E"
+    ],
+    [
+      "R",
+      "I",
+      "K",
+      "E",
+      "S",
+      "R",
+      "A",
+      "D",
+      "T",
+      "A",
+      "O",
+      "T"
+    ],
+    [
+      "J",
+      "G",
+      "Q",
+      "N",
+      "O",
+      "P",
+      "F",
+      "Q",
+      "Z",
+      "U",
+      "D",
+      "E"
+    ],
+    [
+      "N",
+      "H",
+      "L",
+      "H",
+      "F",
+      "I",
+      "R",
+      "E",
+      "F",
+      "L",
+      "Y",
+      "E"
+    ],
+    [
+      "W",
+      "T",
+      "S",
+      "O",
+      "L",
+      "S",
+      "T",
+      "I",
+      "C",
+      "E",
+      "C",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "LEMONADE",
+      "row": 3,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "SOLSTICE",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "DAYLIGHT",
+      "row": 7,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "TWILIGHT",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "HAMMOCK",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "FIREFLY",
+      "row": 10,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CRICKET",
+      "row": 2,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "SUNHAT",
+      "row": 8,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "BASKET",
+      "row": 2,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "GARDEN",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "COOLER",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SPLASH",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "PATIO",
+      "row": 4,
+      "col": 7,
+      "direction": "NE"
+    },
+    {
+      "word": "SHORE",
+      "row": 11,
+      "col": 2,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 7073
+}
