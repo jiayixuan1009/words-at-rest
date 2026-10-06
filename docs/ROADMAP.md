@@ -11,8 +11,8 @@
 | 波次 | 内容 | 状态 | 依据 |
 |---|---|---|---|
 | Wave 0 | SEO 修复第二批（audit-fix-2）：正文 SSR、作者 / 日期 / Person / sameAs、引用、en-US、移动端提速与折叠 | **进行中**（worktree `war-fix`） | 审计反馈、对话 |
-| Wave 1 · 节日 | Thanksgiving、Winter、Valentine's、Easter + `/holidays` | **本地完成，未上线**（`0b358cc`）；封面借用旧图 | THEME-EXPANSION-PLAN §6 |
-| Wave 1b · 子主题 | Sports：golf / baseball / tennis / fishing；Food：baking / desserts / herbs / fruits；Music：instruments / jazz / classical / music-terms | **本地完成，未上线**（`6ddb57c`）；封面借父主题图 | THEME-EXPANSION-PLAN §15 |
+| Wave 1 · 节日 | Thanksgiving、Winter、Valentine's、Easter + `/holidays` | **Package B 待部署**（`holidays-rebase`）；难度图已接；封面仍借旧图 | THEME-EXPANSION-PLAN §6 |
+| Wave 1b · 子主题 | Sports：golf / baseball / tennis / fishing；Food：baking / desserts / herbs / fruits；Music：instruments / jazz / classical / music-terms | **Package B 待部署**（与节日同批）；封面借父主题图 | THEME-EXPANSION-PLAN §15 |
 | Wave 2 · 常青教育 + 打印/长者 | Geography 先做 `us-states` 或 `world-capitals`（待定）+ `weather`；强化 `/large-print` 交叉（holiday / bible large print），可选 `/printables` | 规划 | §8、§9 |
 | Wave 3 · 流行文化（泛称） | `/pop-culture`：`superheroes`、`sitcoms`，可选 `classic-tv`；"Not affiliated" 免责；不做商标命名页 | 规划 | §7 |
 | Wave 4 | History（`american-history`、`ancient-world`、`presidents`）、更多 Science（`human-body`、`birds`）、节日第二批（St. Patrick's、New Year、Independence Day） | 规划 | §10 |
