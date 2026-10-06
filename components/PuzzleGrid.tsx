@@ -37,6 +37,7 @@ export interface PuzzleGridProps {
 
 type GridSize = "standard" | "larger";
 const GRID_SIZE_KEY = "war:gridSize";
+type Feedback = { id: number; kind: "found" | "miss"; cells: Cell[]; word?: string };
 
 export default function PuzzleGrid({
   puzzleId,
@@ -75,6 +76,31 @@ export default function PuzzleGrid({
   const [message, setMessage] = useState<string>("");
   const gridRef = useRef<HTMLDivElement>(null);
   const pointerIdRef = useRef<number | null>(null);
+  const [feedbacks, setFeedbacks] = useState<Feedback[]>([]);
+  const feedbackIdRef = useRef(0);
+  const feedbackTimersRef = useRef(new Map<number, ReturnType<typeof setTimeout>>());
+
+  // Feedback belongs only to new selections, never to restored progress. Independent
+  // timers let consecutive finds finish without blocking input or losing a pulse.
+  useEffect(() => () => {
+    for (const timer of feedbackTimersRef.current.values()) clearTimeout(timer);
+    feedbackTimersRef.current.clear();
+  }, []);
+  const showFeedback = useCallback((kind: Feedback["kind"], cells: Cell[], word?: string) => {
+    const id = ++feedbackIdRef.current;
+    setFeedbacks((current) => [...current, { id, kind, cells, word }]);
+    const timer = setTimeout(() => {
+      feedbackTimersRef.current.delete(id);
+      setFeedbacks((current) => current.filter((item) => item.id !== id));
+    }, kind === "found" ? 700 : 220);
+    feedbackTimersRef.current.set(id, timer);
+  }, []);
+  const latestFind = feedbacks.filter((item) => item.kind === "found").at(-1);
+  const feedbackByCell = useMemo(() => {
+    const cells = new Map<string, { feedback: Feedback; order: number }>();
+    for (const feedback of feedbacks) feedback.cells.forEach((cell, order) => cells.set(key(cell), { feedback, order }));
+    return cells;
+  }, [feedbacks]);
 
   // Restore saved progress after hydration.
   useEffect(() => {
@@ -126,16 +152,21 @@ export default function PuzzleGrid({
   const evaluate = useCallback(
     (a: Cell, b: Cell) => {
       const hit = matchSelection(grid, targetWords, difficulty, a, b);
-      if (!hit) { setMessage("No matching word. Try another first and last letter."); return; }
+      if (!hit) {
+        showFeedback("miss", lineCells(a, b) ?? [a, b]);
+        setMessage("Try another selection — no matching word this time.");
+        return;
+      }
       if (progressRef.current[hit.word]) { setMessage(`${hit.word} was already found.`); return; }
       const next = { ...progressRef.current, [hit.word]: hit.cells };
       persist(next);
+      showFeedback("found", hit.cells, hit.word);
       const count = Object.keys(next).length;
       event("word_found", { found_count: count, word_length: hit.word.length });
       if (count === targetCount) event("puzzle_complete", { word_count: targetCount });
       setMessage(count === targetCount ? "Puzzle complete — well done." : `Found ${hit.word}.`);
     },
-    [grid, targetWords, difficulty, persist, targetCount, event],
+    [grid, targetWords, difficulty, persist, targetCount, event, showFeedback],
   );
 
   const cellFromPoint = (x: number, y: number): Cell | null => {
@@ -212,6 +243,9 @@ export default function PuzzleGrid({
   const reset = () => {
     event("reset", { found_count: found.size });
     persist({});
+    for (const timer of feedbackTimersRef.current.values()) clearTimeout(timer);
+    feedbackTimersRef.current.clear();
+    setFeedbacks([]);
     startedRef.current = false;
     cancelSelection();
     setMessage("Progress cleared.");
@@ -291,8 +325,13 @@ export default function PuzzleGrid({
           Reset
         </button>
         <span className="inline-flex min-h-11 items-center text-[var(--ink-soft)]" role="status" aria-live="polite" aria-atomic="true">
-          {found.size} / {targetCount} found{message ? ` · ${message}` : ""}
+          <span key={latestFind?.id ?? "steady"} className={latestFind ? "puzzle-count is-new-find" : "puzzle-count"}>{found.size} / {targetCount} found</span>
+          {message ? <span className="ml-1"> · {message}</span> : null}
         </span>
+      </div>
+
+      <div className="puzzle-progress" role="progressbar" aria-label="Words found" aria-valuemin={0} aria-valuemax={targetCount} aria-valuenow={found.size} aria-valuetext={`${found.size} of ${targetCount} words found`}>
+        <span className={latestFind ? "puzzle-progress__fill is-new-find" : "puzzle-progress__fill"} style={{ transform: `scaleX(${targetCount ? found.size / targetCount : 0})` }} />
       </div>
 
       <p id={instructionsId} className="font-sans text-base text-[var(--ink-soft)]">
@@ -311,7 +350,7 @@ export default function PuzzleGrid({
           onPointerMove={onPointerMove}
           onPointerUp={onPointerUp}
           onPointerCancel={cancelSelection}
-          className="puzzle-board grid w-full max-w-xl select-none touch-none p-1.5 sm:p-2"
+          className={`puzzle-board grid w-full max-w-xl select-none touch-none p-1.5 sm:p-2${complete && latestFind ? " is-celebrating" : ""}`}
           style={{ gridTemplateColumns: `repeat(${size}, minmax(0, 1fr))`, ["--n" as string]: size }}
         >
           {grid.map((row, r) => (
@@ -322,6 +361,10 @@ export default function PuzzleGrid({
                 const k = `${r},${c}`;
                 // Shared cell styles live in globals.css (.puzzle-cell) to keep the HTML small.
                 const state = selectionCells.has(k) ? " is-sel" : foundCells.has(k) ? " is-found" : "";
+                const anchor = pending ?? dragStart;
+                const endpoint = hover ?? anchor;
+                const endpoints = anchor && (key(anchor) === k || (endpoint && key(endpoint) === k)) ? " is-endpoint" : "";
+                const pulse = feedbackByCell.get(k);
                 return (
                   <div
                     key={k}
@@ -335,9 +378,10 @@ export default function PuzzleGrid({
                     onFocus={() => { setActive([r, c]); if (pending) setHover([r, c]); }}
                     onKeyDown={(e) => onKeyDown(e, [r, c])}
                     onPointerDown={(e) => onPointerDown(e, [r, c])}
-                    className={`puzzle-cell${state}`}
+                    className={`puzzle-cell${state}${endpoints}${pending && key(pending) === k ? " is-armed" : ""}`}
                   >
-                    {letter}
+                    <span className="puzzle-letter">{letter}</span>
+                    {pulse && <span key={pulse.feedback.id} aria-hidden="true" className={`puzzle-cell-feedback is-${pulse.feedback.kind}`} style={{ animationDelay: pulse.feedback.kind === "found" ? `${pulse.order / Math.max(1, pulse.feedback.cells.length - 1) * 80}ms` : "0ms" }} />}
                   </div>
                 );
               })}
@@ -354,43 +398,24 @@ export default function PuzzleGrid({
             {targetWords.map((w) => (
               <li
                 key={w}
-                className={found.has(w) ? "text-[#736452] line-through" : "text-[var(--ink)]"}
+                className={`puzzle-word${found.has(w) ? " is-found" : ""}${feedbacks.some((item) => item.word === w) ? " is-new-find" : ""}`}
               >
-                {w}
+                <span className="puzzle-word__label">{w}</span>
                 {found.has(w) && <span className="sr-only"> — found</span>}
               </li>
             ))}
           </ul>
-          {complete && nextPuzzle && (
-            <Link href={nextPuzzle.href} className="btn-primary mt-4" onClick={() => event("next_puzzle", { next_puzzle_path: nextPuzzle.href })}>
-              Play another puzzle <span className="sr-only">: {nextPuzzle.title}</span><span aria-hidden="true"> →</span>
-            </Link>
-          )}
           {complete && (
-            <p className="mt-4 flex items-center gap-3 rounded-sm bg-[var(--found)] p-3 text-[var(--moss)] lg:hidden" role="status">
-              {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img src="/images/puzzle/complete-compact.png" width={48} height={48} alt="" className="h-12 w-12 shrink-0" />
-              All words found. Take a breath, then try another puzzle.
-            </p>
+            <div className={`puzzle-complete-card mt-4${latestFind ? " is-new-completion" : ""}`}>
+              <h3 className="font-serif text-xl font-semibold">Nicely done — all words found.</h3>
+              <p className="mt-1 text-base text-[var(--ink-soft)]">Take a breath. Another calm puzzle is ready when you are.</p>
+              {nextPuzzle && <Link href={nextPuzzle.href} className="btn-primary mt-3" onClick={() => event("next_puzzle", { next_puzzle_path: nextPuzzle.href })}>
+                Play another puzzle <span className="sr-only">: {nextPuzzle.title}</span><span aria-hidden="true"> →</span>
+              </Link>}
+            </div>
           )}
         </div>
       </div>
-      {complete && (
-        <figure className="no-print paper-deep hidden items-center gap-6 rounded-[4px] border border-[#cbbfa6] p-4 lg:flex">
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img
-            src="/images/puzzle/complete.webp"
-            width={900}
-            height={500}
-            alt="A finished puzzle — an empty coffee cup and a ticked tile, well done"
-            className="h-auto w-72 shrink-0"
-          />
-          <figcaption className="text-[var(--moss)]" role="status">
-            <span className="block font-serif text-3xl text-[var(--ink)]">Puzzle complete — well done.</span>
-            <span className="mt-1 block text-lg">All words found. Take a breath, then try another puzzle.</span>
-          </figcaption>
-        </figure>
-      )}
     </section>
   );
 }
