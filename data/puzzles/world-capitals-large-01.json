@@ -1,0 +1,173 @@
+{
+  "id": "world-capitals-large-01",
+  "slug": "world-capitals-large-01",
+  "themeId": "world-capitals",
+  "title": "Large Print World Capitals: Soft Capital",
+  "primaryKeyword": "large print world capitals word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BERN",
+    "CAIRO",
+    "KYIV",
+    "LIMA",
+    "OSLO",
+    "PARIS",
+    "ROME",
+    "TOKYO"
+  ],
+  "grid": [
+    [
+      "K",
+      "Y",
+      "I",
+      "V",
+      "Q",
+      "G",
+      "H",
+      "M",
+      "A"
+    ],
+    [
+      "T",
+      "U",
+      "T",
+      "K",
+      "Y",
+      "O",
+      "R",
+      "A",
+      "Q"
+    ],
+    [
+      "B",
+      "D",
+      "P",
+      "O",
+      "U",
+      "S",
+      "C",
+      "M",
+      "S"
+    ],
+    [
+      "P",
+      "A",
+      "R",
+      "I",
+      "S",
+      "L",
+      "A",
+      "Z",
+      "N"
+    ],
+    [
+      "A",
+      "R",
+      "H",
+      "T",
+      "L",
+      "O",
+      "I",
+      "A",
+      "N"
+    ],
+    [
+      "J",
+      "B",
+      "G",
+      "O",
+      "I",
+      "K",
+      "R",
+      "C",
+      "S"
+    ],
+    [
+      "X",
+      "E",
+      "G",
+      "K",
+      "M",
+      "M",
+      "O",
+      "F",
+      "I"
+    ],
+    [
+      "S",
+      "R",
+      "O",
+      "Y",
+      "A",
+      "U",
+      "U",
+      "N",
+      "D"
+    ],
+    [
+      "Y",
+      "N",
+      "R",
+      "O",
+      "M",
+      "E",
+      "H",
+      "A",
+      "B"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PARIS",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "TOKYO",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "CAIRO",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "ROME",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "OSLO",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "LIMA",
+      "row": 4,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "KYIV",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BERN",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8026
+}

@@ -1,0 +1,208 @@
+{
+  "id": "airplanes-easy-02",
+  "slug": "airplanes-easy-02",
+  "themeId": "airplanes",
+  "title": "Airplanes: Quiet Cabin",
+  "primaryKeyword": "airplanes word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "AISLE",
+    "BAG",
+    "CABIN",
+    "CLOUD",
+    "DOOR",
+    "FUEL",
+    "MAP",
+    "RAMP",
+    "TAXI",
+    "WIND"
+  ],
+  "grid": [
+    [
+      "N",
+      "P",
+      "E",
+      "L",
+      "C",
+      "A",
+      "B",
+      "I",
+      "N",
+      "B"
+    ],
+    [
+      "Q",
+      "O",
+      "I",
+      "W",
+      "R",
+      "A",
+      "M",
+      "P",
+      "U",
+      "N"
+    ],
+    [
+      "C",
+      "V",
+      "O",
+      "I",
+      "D",
+      "S",
+      "A",
+      "L",
+      "J",
+      "C"
+    ],
+    [
+      "E",
+      "S",
+      "O",
+      "N",
+      "O",
+      "G",
+      "P",
+      "E",
+      "V",
+      "L"
+    ],
+    [
+      "W",
+      "U",
+      "Y",
+      "D",
+      "O",
+      "A",
+      "V",
+      "Y",
+      "Y",
+      "O"
+    ],
+    [
+      "N",
+      "X",
+      "B",
+      "K",
+      "R",
+      "I",
+      "B",
+      "Y",
+      "F",
+      "U"
+    ],
+    [
+      "M",
+      "T",
+      "A",
+      "W",
+      "I",
+      "S",
+      "H",
+      "K",
+      "V",
+      "D"
+    ],
+    [
+      "L",
+      "R",
+      "G",
+      "K",
+      "T",
+      "L",
+      "F",
+      "U",
+      "E",
+      "L"
+    ],
+    [
+      "C",
+      "M",
+      "X",
+      "W",
+      "M",
+      "E",
+      "E",
+      "R",
+      "X",
+      "G"
+    ],
+    [
+      "B",
+      "X",
+      "J",
+      "Y",
+      "H",
+      "T",
+      "A",
+      "X",
+      "I",
+      "H"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CABIN",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "AISLE",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "CLOUD",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "DOOR",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "RAMP",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "TAXI",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "WIND",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "FUEL",
+      "row": 7,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "BAG",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "MAP",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8082
+}

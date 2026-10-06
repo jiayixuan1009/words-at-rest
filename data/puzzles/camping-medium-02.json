@@ -1,0 +1,284 @@
+{
+  "id": "camping-medium-02",
+  "slug": "camping-medium-02",
+  "themeId": "camping",
+  "title": "Camping: Woods Walk",
+  "primaryKeyword": "camping word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BOTTLE",
+    "CANTEEN",
+    "COT",
+    "DAWN",
+    "DEW",
+    "FLASH",
+    "GROVE",
+    "MARSH",
+    "NIGHT",
+    "RIVER",
+    "SNACK",
+    "STAKE",
+    "STAR",
+    "WHISTLE"
+  ],
+  "grid": [
+    [
+      "B",
+      "C",
+      "J",
+      "U",
+      "L",
+      "C",
+      "E",
+      "S",
+      "H",
+      "Y",
+      "Z",
+      "R"
+    ],
+    [
+      "W",
+      "M",
+      "K",
+      "O",
+      "G",
+      "L",
+      "Z",
+      "T",
+      "T",
+      "C",
+      "Z",
+      "I"
+    ],
+    [
+      "D",
+      "A",
+      "U",
+      "B",
+      "T",
+      "E",
+      "I",
+      "A",
+      "L",
+      "A",
+      "V",
+      "V"
+    ],
+    [
+      "A",
+      "R",
+      "M",
+      "S",
+      "V",
+      "C",
+      "R",
+      "R",
+      "Y",
+      "N",
+      "Z",
+      "E"
+    ],
+    [
+      "W",
+      "S",
+      "I",
+      "O",
+      "E",
+      "E",
+      "X",
+      "N",
+      "P",
+      "T",
+      "L",
+      "R"
+    ],
+    [
+      "N",
+      "H",
+      "R",
+      "F",
+      "K",
+      "Y",
+      "E",
+      "I",
+      "C",
+      "E",
+      "V",
+      "I"
+    ],
+    [
+      "W",
+      "G",
+      "W",
+      "A",
+      "L",
+      "L",
+      "P",
+      "G",
+      "R",
+      "E",
+      "Y",
+      "P"
+    ],
+    [
+      "S",
+      "B",
+      "T",
+      "A",
+      "T",
+      "A",
+      "O",
+      "H",
+      "C",
+      "N",
+      "P",
+      "W"
+    ],
+    [
+      "N",
+      "S",
+      "U",
+      "T",
+      "S",
+      "A",
+      "S",
+      "T",
+      "O",
+      "S",
+      "B",
+      "S"
+    ],
+    [
+      "A",
+      "R",
+      "O",
+      "Q",
+      "M",
+      "E",
+      "X",
+      "H",
+      "T",
+      "J",
+      "M",
+      "Q"
+    ],
+    [
+      "C",
+      "B",
+      "Y",
+      "I",
+      "J",
+      "Z",
+      "I",
+      "C",
+      "C",
+      "Q",
+      "I",
+      "U"
+    ],
+    [
+      "K",
+      "T",
+      "O",
+      "R",
+      "L",
+      "X",
+      "I",
+      "D",
+      "E",
+      "W",
+      "O",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "WHISTLE",
+      "row": 6,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "CANTEEN",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "BOTTLE",
+      "row": 10,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "FLASH",
+      "row": 5,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "GROVE",
+      "row": 6,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "RIVER",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "SNACK",
+      "row": 7,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "MARSH",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "NIGHT",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "STAKE",
+      "row": 8,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "STAR",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "DAWN",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "DEW",
+      "row": 11,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "COT",
+      "row": 7,
+      "col": 8,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8044
+}

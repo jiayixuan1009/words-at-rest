@@ -1,0 +1,284 @@
+{
+  "id": "camping-medium-01",
+  "slug": "camping-medium-01",
+  "themeId": "camping",
+  "title": "Camping: Lantern Glow",
+  "primaryKeyword": "camping word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "COMPASS",
+    "COOK",
+    "FLAME",
+    "KNIFE",
+    "LANTERN",
+    "LIGHT",
+    "SITE",
+    "SLEEP",
+    "SMOKE",
+    "SPARK",
+    "STOW",
+    "STREAM",
+    "TORCH",
+    "TRAIL"
+  ],
+  "grid": [
+    [
+      "T",
+      "T",
+      "M",
+      "L",
+      "I",
+      "A",
+      "T",
+      "J",
+      "Z",
+      "P",
+      "S",
+      "K"
+    ],
+    [
+      "S",
+      "O",
+      "S",
+      "Q",
+      "I",
+      "Y",
+      "K",
+      "R",
+      "Q",
+      "S",
+      "P",
+      "N"
+    ],
+    [
+      "R",
+      "R",
+      "M",
+      "M",
+      "Y",
+      "G",
+      "N",
+      "K",
+      "A",
+      "B",
+      "Z",
+      "I"
+    ],
+    [
+      "N",
+      "C",
+      "O",
+      "M",
+      "D",
+      "R",
+      "H",
+      "P",
+      "T",
+      "I",
+      "V",
+      "F"
+    ],
+    [
+      "D",
+      "H",
+      "K",
+      "A",
+      "E",
+      "B",
+      "M",
+      "T",
+      "Y",
+      "D",
+      "L",
+      "E"
+    ],
+    [
+      "W",
+      "Y",
+      "E",
+      "T",
+      "E",
+      "O",
+      "S",
+      "C",
+      "S",
+      "Y",
+      "A",
+      "V"
+    ],
+    [
+      "J",
+      "X",
+      "N",
+      "T",
+      "C",
+      "O",
+      "P",
+      "M",
+      "T",
+      "N",
+      "D",
+      "N"
+    ],
+    [
+      "S",
+      "A",
+      "I",
+      "Y",
+      "T",
+      "P",
+      "A",
+      "C",
+      "O",
+      "O",
+      "K",
+      "E"
+    ],
+    [
+      "L",
+      "S",
+      "J",
+      "K",
+      "E",
+      "E",
+      "R",
+      "J",
+      "W",
+      "L",
+      "M",
+      "V"
+    ],
+    [
+      "R",
+      "S",
+      "L",
+      "E",
+      "R",
+      "J",
+      "K",
+      "T",
+      "D",
+      "A",
+      "T",
+      "A"
+    ],
+    [
+      "O",
+      "S",
+      "L",
+      "T",
+      "P",
+      "H",
+      "X",
+      "B",
+      "L",
+      "L",
+      "A",
+      "W"
+    ],
+    [
+      "Q",
+      "S",
+      "S",
+      "E",
+      "V",
+      "X",
+      "S",
+      "F",
+      "P",
+      "A",
+      "W",
+      "H"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "LANTERN",
+      "row": 8,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "COMPASS",
+      "row": 6,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "STREAM",
+      "row": 11,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "SLEEP",
+      "row": 11,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "FLAME",
+      "row": 11,
+      "col": 7,
+      "direction": "NE"
+    },
+    {
+      "word": "SPARK",
+      "row": 5,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "SMOKE",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "TORCH",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "LIGHT",
+      "row": 0,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "TRAIL",
+      "row": 0,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "KNIFE",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "SITE",
+      "row": 8,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "COOK",
+      "row": 7,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "STOW",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8043
+}

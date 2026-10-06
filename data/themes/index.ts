@@ -46,6 +46,21 @@ import birds from "./birds.json";
 import flowers from "./flowers.json";
 import trees from "./trees.json";
 import weather from "./weather.json";
+import usStates from "./us-states.json";
+import worldCapitals from "./world-capitals.json";
+import humanBody from "./human-body.json";
+import camping from "./camping.json";
+import horses from "./horses.json";
+import cars from "./cars.json";
+import trains from "./trains.json";
+import airplanes from "./airplanes.json";
+import farming from "./farming.json";
+import beach from "./beach.json";
+import mountains from "./mountains.json";
+import lakes from "./lakes.json";
+import school from "./school.json";
+import jobs from "./jobs.json";
+import friendship from "./friendship.json";
 
 /** Theme order: seasonal first, then evergreen, then packs. */
 export const themes = [
@@ -94,6 +109,21 @@ export const themes = [
   flowers,
   trees,
   weather,
+  usStates,
+  worldCapitals,
+  humanBody,
+  camping,
+  horses,
+  cars,
+  trains,
+  airplanes,
+  farming,
+  beach,
+  mountains,
+  lakes,
+  school,
+  jobs,
+  friendship,
   largePrintPack,
   hardPack,
 ] as Theme[];

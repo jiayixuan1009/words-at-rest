@@ -1,0 +1,284 @@
+{
+  "id": "horses-medium-02",
+  "slug": "horses-medium-02",
+  "themeId": "horses",
+  "title": "Horses: Trail Ride",
+  "primaryKeyword": "horses word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ARENA",
+    "BIT",
+    "BLANKET",
+    "BRUSH",
+    "COMB",
+    "CROP",
+    "FIELD",
+    "GROOM",
+    "HALTER",
+    "LANE",
+    "MEADOW",
+    "RING",
+    "SPUR",
+    "WATER"
+  ],
+  "grid": [
+    [
+      "N",
+      "A",
+      "R",
+      "E",
+      "N",
+      "A",
+      "S",
+      "W",
+      "M",
+      "H",
+      "U",
+      "P"
+    ],
+    [
+      "M",
+      "G",
+      "R",
+      "O",
+      "O",
+      "M",
+      "Y",
+      "F",
+      "A",
+      "J",
+      "K",
+      "I"
+    ],
+    [
+      "S",
+      "X",
+      "B",
+      "O",
+      "J",
+      "Z",
+      "F",
+      "B",
+      "I",
+      "T",
+      "N",
+      "X"
+    ],
+    [
+      "A",
+      "L",
+      "L",
+      "O",
+      "O",
+      "G",
+      "H",
+      "Y",
+      "T",
+      "F",
+      "E",
+      "R"
+    ],
+    [
+      "L",
+      "O",
+      "A",
+      "C",
+      "X",
+      "B",
+      "H",
+      "A",
+      "L",
+      "T",
+      "E",
+      "R"
+    ],
+    [
+      "A",
+      "C",
+      "N",
+      "S",
+      "D",
+      "L",
+      "R",
+      "E",
+      "U",
+      "A",
+      "S",
+      "Z"
+    ],
+    [
+      "N",
+      "R",
+      "K",
+      "P",
+      "B",
+      "T",
+      "F",
+      "U",
+      "R",
+      "I",
+      "N",
+      "G"
+    ],
+    [
+      "E",
+      "O",
+      "E",
+      "U",
+      "W",
+      "F",
+      "U",
+      "E",
+      "S",
+      "C",
+      "T",
+      "I"
+    ],
+    [
+      "W",
+      "P",
+      "T",
+      "R",
+      "D",
+      "B",
+      "I",
+      "K",
+      "C",
+      "H",
+      "E",
+      "A"
+    ],
+    [
+      "L",
+      "D",
+      "Q",
+      "T",
+      "U",
+      "Y",
+      "M",
+      "E",
+      "A",
+      "D",
+      "O",
+      "W"
+    ],
+    [
+      "I",
+      "B",
+      "C",
+      "O",
+      "M",
+      "B",
+      "X",
+      "Q",
+      "L",
+      "G",
+      "H",
+      "Z"
+    ],
+    [
+      "J",
+      "U",
+      "H",
+      "G",
+      "T",
+      "K",
+      "H",
+      "P",
+      "Y",
+      "D",
+      "H",
+      "D"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BLANKET",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "HALTER",
+      "row": 4,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "MEADOW",
+      "row": 9,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "ARENA",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "GROOM",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BRUSH",
+      "row": 4,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "FIELD",
+      "row": 7,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "WATER",
+      "row": 0,
+      "col": 7,
+      "direction": "SE"
+    },
+    {
+      "word": "COMB",
+      "row": 10,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SPUR",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "CROP",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "LANE",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "RING",
+      "row": 6,
+      "col": 8,
+      "direction": "E"
+    },
+    {
+      "word": "BIT",
+      "row": 2,
+      "col": 7,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8054
+}

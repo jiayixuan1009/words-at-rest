@@ -1,0 +1,284 @@
+{
+  "id": "world-capitals-medium-02",
+  "slug": "world-capitals-medium-02",
+  "themeId": "world-capitals",
+  "title": "World Capitals: World Desk",
+  "primaryKeyword": "world capitals word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "AMSTERDAM",
+    "BAGHDAD",
+    "BANGKOK",
+    "BRASILIA",
+    "BRUSSELS",
+    "BUDAPEST",
+    "CANBERRA",
+    "COPENHAGEN",
+    "DAMASCUS",
+    "HELSINKI",
+    "JAKARTA",
+    "PRETORIA",
+    "SANTIAGO",
+    "STOCKHOLM"
+  ],
+  "grid": [
+    [
+      "A",
+      "C",
+      "X",
+      "W",
+      "Q",
+      "D",
+      "E",
+      "S",
+      "C",
+      "B",
+      "P",
+      "T"
+    ],
+    [
+      "X",
+      "A",
+      "V",
+      "B",
+      "M",
+      "E",
+      "S",
+      "T",
+      "O",
+      "A",
+      "R",
+      "D"
+    ],
+    [
+      "U",
+      "N",
+      "Z",
+      "U",
+      "A",
+      "H",
+      "A",
+      "O",
+      "P",
+      "N",
+      "E",
+      "A"
+    ],
+    [
+      "B",
+      "B",
+      "J",
+      "D",
+      "B",
+      "E",
+      "N",
+      "C",
+      "E",
+      "G",
+      "T",
+      "M"
+    ],
+    [
+      "R",
+      "E",
+      "A",
+      "A",
+      "A",
+      "L",
+      "T",
+      "K",
+      "N",
+      "K",
+      "O",
+      "A"
+    ],
+    [
+      "U",
+      "R",
+      "K",
+      "P",
+      "G",
+      "S",
+      "I",
+      "H",
+      "H",
+      "O",
+      "R",
+      "S"
+    ],
+    [
+      "S",
+      "R",
+      "A",
+      "E",
+      "H",
+      "I",
+      "A",
+      "O",
+      "A",
+      "K",
+      "I",
+      "C"
+    ],
+    [
+      "S",
+      "A",
+      "R",
+      "S",
+      "D",
+      "N",
+      "G",
+      "L",
+      "G",
+      "S",
+      "A",
+      "U"
+    ],
+    [
+      "E",
+      "G",
+      "T",
+      "T",
+      "A",
+      "K",
+      "O",
+      "M",
+      "E",
+      "T",
+      "V",
+      "S"
+    ],
+    [
+      "L",
+      "X",
+      "A",
+      "H",
+      "D",
+      "I",
+      "G",
+      "Z",
+      "N",
+      "J",
+      "S",
+      "I"
+    ],
+    [
+      "S",
+      "C",
+      "N",
+      "A",
+      "M",
+      "S",
+      "T",
+      "E",
+      "R",
+      "D",
+      "A",
+      "M"
+    ],
+    [
+      "I",
+      "B",
+      "R",
+      "A",
+      "S",
+      "I",
+      "L",
+      "I",
+      "A",
+      "E",
+      "F",
+      "D"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "COPENHAGEN",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "AMSTERDAM",
+      "row": 10,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "STOCKHOLM",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "CANBERRA",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SANTIAGO",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "BRASILIA",
+      "row": 11,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PRETORIA",
+      "row": 0,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "DAMASCUS",
+      "row": 1,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "BUDAPEST",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "HELSINKI",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "BRUSSELS",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BANGKOK",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "JAKARTA",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "BAGHDAD",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8024
+}

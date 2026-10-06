@@ -295,6 +295,112 @@ const PUZZLE_SPECS: Spec[] = [
     { themeId: "weather", difficulty: "hard", n: 1, title: "Hard Weather: Full System", primaryKeyword: "weather word search", seed: 7185, fixedWords: ["THUNDER","LIGHTNING","BLIZZARD","OVERCAST","FORECAST","PRESSURE","TEMPERATURE","THERMOMETER","BAROMETER","DOWNPOUR","DRIZZLE","UMBRELLA","FLURRY","HORIZON","SHOWER","SYSTEM","PARKA","BREEZE"] },
     { themeId: "weather", difficulty: "easy", n: 1, largePrint: true, title: "Large Print Weather: Soft Mist", primaryKeyword: "large print weather word search", seed: 7186, fixedWords: ["RAIN","SNOW","FOG","WIND","SUN","COLD","SKY","COAT"] },
 
+  // Wave D — geography/education + outdoors/transport + soft (competitor-aligned, IP-safe)
+  { themeId: "us-states", difficulty: "easy", n: 1, title: "U.S. States: Coast & Plains", primaryKeyword: "us states word search", seed: 8011, fixedWords: ["TEXAS","OHIO","IOWA","UTAH","MAINE","IDAHO","NEVADA","OREGON","STATE","COAST"] },
+    { themeId: "us-states", difficulty: "easy", n: 2, title: "U.S. States: Quiet Map", primaryKeyword: "us states word search", seed: 8012, fixedWords: ["FLORIDA","GEORGIA","KANSAS","MONTANA","ALASKA","HAWAII","BORDER","PLAINS","VALLEY","DESERT"] },
+    { themeId: "us-states", difficulty: "medium", n: 1, title: "U.S. States: Border Roads", primaryKeyword: "us states word search", seed: 8013, fixedWords: ["ALABAMA","ARIZONA","COLORADO","MICHIGAN","VIRGINIA","WYOMING","ILLINOIS","INDIANA","KENTUCKY","OKLAHOMA","TENNESSEE","WISCONSIN","REGION","CAPITAL"] },
+    { themeId: "us-states", difficulty: "medium", n: 2, title: "U.S. States: Capitol Tour", primaryKeyword: "us states word search", seed: 8014, fixedWords: ["ARKANSAS","DELAWARE","MARYLAND","MISSOURI","NEBRASKA","VERMONT","ALABAMA","OREGON","MONTANA","FLORIDA","GEORGIA","KANSAS","IDAHO","NEVADA"] },
+    { themeId: "us-states", difficulty: "hard", n: 1, title: "Hard U.S. States: Full Atlas", primaryKeyword: "us states word search", seed: 8015, fixedWords: ["CALIFORNIA","CONNECTICUT","MASSACHUSETTS","PENNSYLVANIA","WASHINGTON","MISSISSIPPI","MINNESOTA","LOUISIANA","TENNESSEE","WISCONSIN","COLORADO","ILLINOIS","MICHIGAN","VIRGINIA","OKLAHOMA","ARKANSAS","ALABAMA","WYOMING"] },
+    { themeId: "us-states", difficulty: "easy", n: 1, largePrint: true, title: "Large Print U.S. States: Soft State", primaryKeyword: "large print us states word search", seed: 8016, fixedWords: ["OHIO","IOWA","UTAH","TEXAS","MAINE","STATE","COAST","IDAHO"] },
+  
+    { themeId: "world-capitals", difficulty: "easy", n: 1, title: "World Capitals: City Lights", primaryKeyword: "world capitals word search", seed: 8021, fixedWords: ["PARIS","ROME","OSLO","CAIRO","TOKYO","DELHI","LIMA","QUITO","KYIV","BERN"] },
+    { themeId: "world-capitals", difficulty: "easy", n: 2, title: "World Capitals: Quiet Atlas", primaryKeyword: "world capitals word search", seed: 8022, fixedWords: ["LONDON","MADRID","DUBLIN","ATHENS","SEOUL","HAVANA","ACCRA","ANKARA","PRAGUE","LAGOS"] },
+    { themeId: "world-capitals", difficulty: "medium", n: 1, title: "World Capitals: River Capitals", primaryKeyword: "world capitals word search", seed: 8023, fixedWords: ["BERLIN","LISBON","VIENNA","BEIJING","HANOI","OTTAWA","BOGOTA","NAIROBI","MOSCOW","WARSAW","BEIRUT","RIYADH","TEHRAN","MANILA"] },
+    { themeId: "world-capitals", difficulty: "medium", n: 2, title: "World Capitals: World Desk", primaryKeyword: "world capitals word search", seed: 8024, fixedWords: ["BANGKOK","JAKARTA","CANBERRA","SANTIAGO","BRASILIA","PRETORIA","BAGHDAD","DAMASCUS","BUDAPEST","HELSINKI","AMSTERDAM","BRUSSELS","STOCKHOLM","COPENHAGEN"] },
+    { themeId: "world-capitals", difficulty: "hard", n: 1, title: "Hard World Capitals: Full Globe", primaryKeyword: "world capitals word search", seed: 8025, fixedWords: ["STOCKHOLM","COPENHAGEN","AMSTERDAM","BRUSSELS","BUDAPEST","HELSINKI","CANBERRA","BRASILIA","PRETORIA","JAKARTA","BANGKOK","SANTIAGO","DAMASCUS","BAGHDAD","BEIJING","OTTAWA","MOSCOW","WARSAW"] },
+    { themeId: "world-capitals", difficulty: "easy", n: 1, largePrint: true, title: "Large Print World Capitals: Soft Capital", primaryKeyword: "large print world capitals word search", seed: 8026, fixedWords: ["PARIS","ROME","OSLO","TOKYO","LIMA","KYIV","CAIRO","BERN"] },
+  
+    { themeId: "human-body", difficulty: "easy", n: 1, title: "Human Body: Bones & Skin", primaryKeyword: "human body word search", seed: 8031, fixedWords: ["BONE","SKIN","HAIR","NOSE","EAR","EYE","ARM","HAND","LEG","FOOT"] },
+    { themeId: "human-body", difficulty: "easy", n: 2, title: "Human Body: Quiet Pulse", primaryKeyword: "human body word search", seed: 8032, fixedWords: ["LIP","NECK","KNEE","HIP","RIB","HEART","LUNG","BACK","TOE","PALM"] },
+    { themeId: "human-body", difficulty: "medium", n: 1, title: "Human Body: Joint Study", primaryKeyword: "human body word search", seed: 8033, fixedWords: ["FINGER","ELBOW","WRIST","ANKLE","SHOULDER","SPINE","SKULL","LIVER","KIDNEY","STOMACH","BRAIN","MUSCLE","NERVE","JOINT"] },
+    { themeId: "human-body", difficulty: "medium", n: 2, title: "Human Body: Breath & Blood", primaryKeyword: "human body word search", seed: 8034, fixedWords: ["TENDON","VEIN","ARTERY","BLOOD","PULSE","BREATH","THUMB","HEEL","CHEST","WAIST","THROAT","TOOTH","NAIL","JOINTS"] },
+    { themeId: "human-body", difficulty: "hard", n: 1, title: "Hard Human Body: Full Anatomy", primaryKeyword: "human body word search", seed: 8035, fixedWords: ["SHOULDER","STOMACH","MUSCLE","TENDON","ARTERY","FINGER","ANKLE","ELBOW","WRIST","KIDNEY","SPINE","SKULL","BREATH","PULSE","THROAT","CHEST","BRAIN","LIVER"] },
+    { themeId: "human-body", difficulty: "easy", n: 1, largePrint: true, title: "Large Print Human Body: Soft Bone", primaryKeyword: "large print human body word search", seed: 8036, fixedWords: ["BONE","SKIN","ARM","HAND","LEG","EYE","HEART","LUNG"] },
+  
+    { themeId: "camping", difficulty: "easy", n: 1, title: "Camping: Tent Night", primaryKeyword: "camping word search", seed: 8041, fixedWords: ["TENT","PEG","POLE","FIRE","LOG","PATH","HIKE","CAMP","PACK","MAP"] },
+    { themeId: "camping", difficulty: "easy", n: 2, title: "Camping: Trail Pack", primaryKeyword: "camping word search", seed: 8042, fixedWords: ["FLY","BAG","PAD","MAT","ASH","WOODS","LAKE","POT","PAN","ROPE"] },
+    { themeId: "camping", difficulty: "medium", n: 1, title: "Camping: Lantern Glow", primaryKeyword: "camping word search", seed: 8043, fixedWords: ["SLEEP","FLAME","SPARK","SMOKE","LANTERN","TORCH","LIGHT","TRAIL","SITE","STREAM","COOK","STOW","KNIFE","COMPASS"] },
+    { themeId: "camping", difficulty: "medium", n: 2, title: "Camping: Woods Walk", primaryKeyword: "camping word search", seed: 8044, fixedWords: ["FLASH","GROVE","RIVER","WHISTLE","CANTEEN","BOTTLE","SNACK","MARSH","STAR","NIGHT","DAWN","DEW","STAKE","COT"] },
+    { themeId: "camping", difficulty: "hard", n: 1, title: "Hard Camping: Full Campsite", primaryKeyword: "camping word search", seed: 8045, fixedWords: ["LANTERN","COMPASS","CANTEEN","WHISTLE","STREAM","TRAIL","SLEEP","FLAME","SPARK","SMOKE","TORCH","BOTTLE","SNACK","MARSH","GROVE","RIVER","STAKE","SITE"] },
+    { themeId: "camping", difficulty: "easy", n: 1, largePrint: true, title: "Large Print Camping: Soft Tent", primaryKeyword: "large print camping word search", seed: 8046, fixedWords: ["TENT","FIRE","HIKE","CAMP","PACK","MAP","PATH","LAKE"] },
+  
+    { themeId: "horses", difficulty: "easy", n: 1, title: "Horses: Pasture Day", primaryKeyword: "horses word search", seed: 8051, fixedWords: ["HORSE","PONY","FOAL","MARE","HERD","BARN","HAY","OATS","MANE","TAIL"] },
+    { themeId: "horses", difficulty: "easy", n: 2, title: "Horses: Barn Quiet", primaryKeyword: "horses word search", seed: 8052, fixedWords: ["COLT","FILLY","STALL","GATE","TROT","WALK","RIDE","LEAD","COAT","SUN"] },
+    { themeId: "horses", difficulty: "medium", n: 1, title: "Horses: Saddle Up", primaryKeyword: "horses word search", seed: 8053, fixedWords: ["STALLION","PASTURE","PADDOCK","STABLE","TROUGH","SADDLE","BRIDLE","REIN","HOOF","GALLOP","CANTER","TRAIL","JUMP","FENCE"] },
+    { themeId: "horses", difficulty: "medium", n: 2, title: "Horses: Trail Ride", primaryKeyword: "horses word search", seed: 8054, fixedWords: ["ARENA","GROOM","BRUSH","COMB","BLANKET","HALTER","SPUR","CROP","LANE","FIELD","MEADOW","BIT","RING","WATER"] },
+    { themeId: "horses", difficulty: "hard", n: 1, title: "Hard Horses: Full Stable", primaryKeyword: "horses word search", seed: 8055, fixedWords: ["STALLION","PASTURE","PADDOCK","STABLE","SADDLE","BRIDLE","GALLOP","CANTER","BLANKET","HALTER","TROUGH","ARENA","MEADOW","TRAIL","GROOM","FENCE","JUMP","FIELD"] },
+    { themeId: "horses", difficulty: "easy", n: 1, largePrint: true, title: "Large Print Horses: Soft Mane", primaryKeyword: "large print horses word search", seed: 8056, fixedWords: ["HORSE","PONY","FOAL","BARN","HAY","MANE","TAIL","RIDE"] },
+  
+    { themeId: "cars", difficulty: "easy", n: 1, title: "Cars: Open Road", primaryKeyword: "cars word search", seed: 8061, fixedWords: ["CAR","AUTO","WHEEL","TIRE","RIM","DOOR","SEAT","BELT","ROAD","PARK"] },
+    { themeId: "cars", difficulty: "easy", n: 2, title: "Cars: Garage Shelf", primaryKeyword: "cars word search", seed: 8062, fixedWords: ["BRAKE","PEDAL","GEAR","HOOD","TRUNK","HORN","LANE","DRIVE","KEY","LOCK"] },
+    { themeId: "cars", difficulty: "medium", n: 1, title: "Cars: Highway Mile", primaryKeyword: "cars word search", seed: 8063, fixedWords: ["ENGINE","MOTOR","WINDOW","MIRROR","DASH","STEER","RADIO","LIGHT","BEAM","STREET","GARAGE","RAMP","EXIT","SIGNAL"] },
+    { themeId: "cars", difficulty: "medium", n: 2, title: "Cars: Signal Turn", primaryKeyword: "cars word search", seed: 8064, fixedWords: ["CLUTCH","AXLE","HIGHWAY","SPEED","FUEL","TANK","OIL","FILTER","WIPER","JACK","SPARE","TURN","ODOMETER","DASH"] },
+    { themeId: "cars", difficulty: "hard", n: 1, title: "Hard Cars: Full Drive", primaryKeyword: "cars word search", seed: 8065, fixedWords: ["ENGINE","MIRROR","GARAGE","HIGHWAY","SIGNAL","CLUTCH","FILTER","WIPER","ODOMETER","STREET","WINDOW","MOTOR","RADIO","SPEED","SPARE","BRAKE","PEDAL","AXLE"] },
+    { themeId: "cars", difficulty: "easy", n: 1, largePrint: true, title: "Large Print Cars: Soft Lane", primaryKeyword: "large print cars word search", seed: 8066, fixedWords: ["CAR","TIRE","DOOR","SEAT","ROAD","PARK","KEY","LANE"] },
+  
+    { themeId: "trains", difficulty: "easy", n: 1, title: "Trains: Platform Wait", primaryKeyword: "trains word search", seed: 8071, fixedWords: ["TRAIN","RAIL","TRACK","TIE","COACH","CAR","BELL","STOP","LINE","CREW"] },
+    { themeId: "trains", difficulty: "easy", n: 2, title: "Trains: Quiet Coach", primaryKeyword: "trains word search", seed: 8072, fixedWords: ["ENGINE","DEPOT","SMOKE","STEAM","LOCAL","BOARD","ROUTE","YARD","WHEEL","CAB"] },
+    { themeId: "trains", difficulty: "medium", n: 1, title: "Trains: Signal Green", primaryKeyword: "trains word search", seed: 8073, fixedWords: ["BALLAST","CABOOSE","CARRIAGE","PLATFORM","STATION","SIGNAL","SWITCH","SIDING","TUNNEL","BRIDGE","CROSSING","WHISTLE","FREIGHT","TICKET"] },
+    { themeId: "trains", difficulty: "medium", n: 2, title: "Trains: Long Haul", primaryKeyword: "trains word search", seed: 8074, fixedWords: ["PASSENGER","CONDUCTOR","PORTER","LUGGAGE","TIMETABLE","SCHEDULE","EXPRESS","JOURNEY","COUPLER","BUFFER","DIESEL","ALIGHT","SHUNT","AXLE"] },
+    { themeId: "trains", difficulty: "hard", n: 1, title: "Hard Trains: Full Line", primaryKeyword: "trains word search", seed: 8075, fixedWords: ["PLATFORM","STATION","CROSSING","WHISTLE","PASSENGER","CONDUCTOR","TIMETABLE","SCHEDULE","CARRIAGE","FREIGHT","LUGGAGE","EXPRESS","JOURNEY","COUPLER","TUNNEL","BRIDGE","DIESEL","SIGNAL"] },
+    { themeId: "trains", difficulty: "easy", n: 1, largePrint: true, title: "Large Print Trains: Soft Rail", primaryKeyword: "large print trains word search", seed: 8076, fixedWords: ["TRAIN","RAIL","TRACK","STOP","LINE","BELL","CREW","CAB"] },
+  
+    { themeId: "airplanes", difficulty: "easy", n: 1, title: "Airplanes: Gate Call", primaryKeyword: "airplanes word search", seed: 8081, fixedWords: ["PLANE","JET","WING","TAIL","NOSE","SEAT","BELT","GATE","SKY","CREW"] },
+    { themeId: "airplanes", difficulty: "easy", n: 2, title: "Airplanes: Quiet Cabin", primaryKeyword: "airplanes word search", seed: 8082, fixedWords: ["CABIN","AISLE","DOOR","RAMP","TAXI","BAG","WIND","MAP","FUEL","CLOUD"] },
+    { themeId: "airplanes", difficulty: "medium", n: 1, title: "Airplanes: Runway Light", primaryKeyword: "airplanes word search", seed: 8083, fixedWords: ["COCKPIT","WINDOW","RUNWAY","TAKEOFF","LANDING","FLIGHT","PILOT","LUGGAGE","TICKET","BOARD","DEPART","ARRIVE","ROUTE","TOWER"] },
+    { themeId: "airplanes", difficulty: "medium", n: 2, title: "Airplanes: High Cloud", primaryKeyword: "airplanes word search", seed: 8084, fixedWords: ["FUSELAGE","ATTENDANT","PASSPORT","ALTITUDE","HORIZON","TURBULENCE","RADAR","RADIO","COMPASS","AIRPORT","TERMINAL","HANGAR","ENGINE","PROPELLER"] },
+    { themeId: "airplanes", difficulty: "hard", n: 1, title: "Hard Airplanes: Full Flight", primaryKeyword: "airplanes word search", seed: 8085, fixedWords: ["TAKEOFF","LANDING","FUSELAGE","ATTENDANT","PASSPORT","ALTITUDE","TURBULENCE","AIRPORT","TERMINAL","PROPELLER","COCKPIT","RUNWAY","LUGGAGE","HORIZON","COMPASS","HANGAR","FLIGHT","WINDOW"] },
+    { themeId: "airplanes", difficulty: "easy", n: 1, largePrint: true, title: "Large Print Airplanes: Soft Wing", primaryKeyword: "large print airplanes word search", seed: 8086, fixedWords: ["PLANE","JET","WING","SEAT","GATE","SKY","CREW","CLOUD"] },
+  
+    { themeId: "farming", difficulty: "easy", n: 1, title: "Farming: Field Dawn", primaryKeyword: "farming word search", seed: 8091, fixedWords: ["FARM","FIELD","SOIL","SEED","CROP","BARN","HAY","CORN","COW","HEN"] },
+    { themeId: "farming", difficulty: "easy", n: 2, title: "Farming: Barn Chore", primaryKeyword: "farming word search", seed: 8092, fixedWords: ["ACRE","PLOW","SILO","OATS","PIG","EGG","MILK","GATE","ROW","SUN"] },
+    { themeId: "farming", difficulty: "medium", n: 1, title: "Farming: Harvest Row", primaryKeyword: "farming word search", seed: 8093, fixedWords: ["HARVEST","TRACTOR","STRAW","WHEAT","BARLEY","SHEEP","GOAT","CREAM","CHEESE","BUTTER","FENCE","PASTURE","MEADOW","ORCHARD"] },
+    { themeId: "farming", difficulty: "medium", n: 2, title: "Farming: Market Day", primaryKeyword: "farming word search", seed: 8094, fixedWords: ["FURROW","IRRIGATE","HOE","RAKE","SPADE","BASKET","MARKET","DAWN","CHORE","SEASON","RAIN","RYE","SOY","BEAN"] },
+    { themeId: "farming", difficulty: "hard", n: 1, title: "Hard Farming: Full Acre", primaryKeyword: "farming word search", seed: 8095, fixedWords: ["HARVEST","TRACTOR","PASTURE","MEADOW","ORCHARD","IRRIGATE","BASKET","MARKET","CHEESE","BUTTER","FURROW","SEASON","BARLEY","STRAW","WHEAT","CREAM","CHORE","FENCE"] },
+    { themeId: "farming", difficulty: "easy", n: 1, largePrint: true, title: "Large Print Farming: Soft Seed", primaryKeyword: "large print farming word search", seed: 8096, fixedWords: ["FARM","FIELD","SEED","BARN","HAY","CORN","COW","SUN"] },
+  
+    { themeId: "beach", difficulty: "easy", n: 1, title: "Beach: Tide Line", primaryKeyword: "beach word search", seed: 8101, fixedWords: ["BEACH","SAND","SHORE","TIDE","WAVE","SHELL","CRAB","HAT","SWIM","SUN"] },
+    { themeId: "beach", difficulty: "easy", n: 2, title: "Beach: Quiet Shore", primaryKeyword: "beach word search", seed: 8102, fixedWords: ["SURF","FOAM","GULL","TOWEL","SHADE","CHAIR","DIVE","FLOAT","ROCK","REST"] },
+    { themeId: "beach", difficulty: "medium", n: 1, title: "Beach: Sand Castle", primaryKeyword: "beach word search", seed: 8103, fixedWords: ["UMBRELLA","BLANKET","PICNIC","COOLER","SPLASH","BOARD","CASTLE","BUCKET","SPADE","DUNE","DRIFT","SEAWEED","PEBBLE","CLIFF"] },
+    { themeId: "beach", difficulty: "medium", n: 2, title: "Beach: Sunset Walk", primaryKeyword: "beach word search", seed: 8104, fixedWords: ["LIGHTHOUSE","BREEZE","HEAT","SALT","SPRAY","HORIZON","SUNSET","TWILIGHT","WALK","PRINT","BAREFOOT","QUIET","PIER","DOCK"] },
+    { themeId: "beach", difficulty: "hard", n: 1, title: "Hard Beach: Full Coast", primaryKeyword: "beach word search", seed: 8105, fixedWords: ["UMBRELLA","LIGHTHOUSE","SEAWEED","HORIZON","SUNSET","TWILIGHT","BAREFOOT","BLANKET","PICNIC","COOLER","CASTLE","BUCKET","PEBBLE","CLIFF","BREEZE","SPLASH","DRIFT","SPADE"] },
+    { themeId: "beach", difficulty: "easy", n: 1, largePrint: true, title: "Large Print Beach: Soft Sand", primaryKeyword: "large print beach word search", seed: 8106, fixedWords: ["SAND","TIDE","WAVE","SHELL","HAT","SWIM","SUN","REST"] },
+  
+    { themeId: "mountains", difficulty: "easy", n: 1, title: "Mountains: Ridge Path", primaryKeyword: "mountains word search", seed: 8111, fixedWords: ["PEAK","RIDGE","SLOPE","PASS","TRAIL","PATH","HIKE","ROCK","SNOW","VIEW"] },
+    { themeId: "mountains", difficulty: "easy", n: 2, title: "Mountains: Quiet Peak", primaryKeyword: "mountains word search", seed: 8112, fixedWords: ["CLIFF","CRAG","VALLEY","CLIMB","STREAM","ICE","WIND","BOOT","MAP","CAMP"] },
+    { themeId: "mountains", difficulty: "medium", n: 1, title: "Mountains: Alpine Air", primaryKeyword: "mountains word search", seed: 8113, fixedWords: ["SUMMIT","CANYON","ASCENT","DESCENT","ALPINE","MEADOW","CASCADE","GLACIER","BOULDER","LEDGE","CAVE","VISTA","HORIZON","CLOUD"] },
+    { themeId: "mountains", difficulty: "medium", n: 2, title: "Mountains: Valley View", primaryKeyword: "mountains word search", seed: 8114, fixedWords: ["TIMBERLINE","MIST","CHILL","PACK","POLE","COMPASS","SHELTER","CABIN","LODGE","RANGE","SPUR","SADDLE","COL","MOUNTAIN"] },
+    { themeId: "mountains", difficulty: "hard", n: 1, title: "Hard Mountains: Full Range", primaryKeyword: "mountains word search", seed: 8115, fixedWords: ["SUMMIT","CANYON","ASCENT","DESCENT","ALPINE","CASCADE","GLACIER","BOULDER","TIMBERLINE","SHELTER","HORIZON","COMPASS","MEADOW","VISTA","CABIN","LODGE","RANGE","MOUNTAIN"] },
+    { themeId: "mountains", difficulty: "easy", n: 1, largePrint: true, title: "Large Print Mountains: Soft Trail", primaryKeyword: "large print mountains word search", seed: 8116, fixedWords: ["PEAK","TRAIL","HIKE","ROCK","SNOW","VIEW","PATH","CAMP"] },
+  
+    { themeId: "lakes", difficulty: "easy", n: 1, title: "Lakes: Still Water", primaryKeyword: "lakes word search", seed: 8121, fixedWords: ["LAKE","POND","WATER","SHORE","BANK","DOCK","BOAT","FISH","SWIM","CALM"] },
+    { themeId: "lakes", difficulty: "easy", n: 2, title: "Lakes: Quiet Dock", primaryKeyword: "lakes word search", seed: 8122, fixedWords: ["POOL","PIER","OAR","REEL","CAST","DIVE","FLOAT","DUCK","MIST","SAND"] },
+    { themeId: "lakes", difficulty: "medium", n: 1, title: "Lakes: Canoe Morning", primaryKeyword: "lakes word search", seed: 8123, fixedWords: ["CANOE","KAYAK","PADDLE","SPLASH","ISLAND","INLET","COVE","BAY","OUTLET","STREAM","RIVER","REED","LILY","FROG"] },
+    { themeId: "lakes", difficulty: "medium", n: 2, title: "Lakes: Shore Mist", primaryKeyword: "lakes word search", seed: 8124, fixedWords: ["HERON","LOON","DAWN","TWILIGHT","REFLECT","MIRROR","STILL","DEPTH","SHALLOW","ROCK","STONE","PEBBLE","DAM","WEIR"] },
+    { themeId: "lakes", difficulty: "hard", n: 1, title: "Hard Lakes: Full Lake", primaryKeyword: "lakes word search", seed: 8125, fixedWords: ["PADDLE","ISLAND","OUTLET","STREAM","TWILIGHT","REFLECT","MIRROR","SHALLOW","PEBBLE","CANOE","KAYAK","SPLASH","HERON","INLET","COVE","DEPTH","RIVER","DAWN"] },
+    { themeId: "lakes", difficulty: "easy", n: 1, largePrint: true, title: "Large Print Lakes: Soft Calm", primaryKeyword: "large print lakes word search", seed: 8126, fixedWords: ["LAKE","POND","SHORE","DOCK","BOAT","FISH","SWIM","CALM"] },
+  
+    { themeId: "school", difficulty: "easy", n: 1, title: "School: Desk & Book", primaryKeyword: "school word search", seed: 8131, fixedWords: ["CLASS","ROOM","DESK","BOOK","PAGE","PEN","BELL","TEST","MATH","YEAR"] },
+    { themeId: "school", difficulty: "easy", n: 2, title: "School: Quiet Study", primaryKeyword: "school word search", seed: 8132, fixedWords: ["CHAIR","BOARD","CHALK","PENCIL","BAG","HALL","GRADE","SCORE","MAP","LUNCH"] },
+    { themeId: "school", difficulty: "medium", n: 1, title: "School: Lesson Bell", primaryKeyword: "school word search", seed: 8133, fixedWords: ["MARKER","ERASER","RULER","LOCKER","LESSON","SUBJECT","HISTORY","SCIENCE","READING","WRITING","ESSAY","QUIZ","TEACHER","STUDENT"] },
+    { themeId: "school", difficulty: "medium", n: 2, title: "School: Library Shelf", primaryKeyword: "school word search", seed: 8134, fixedWords: ["HOMEWORK","STUDY","LIBRARY","SHELF","GLOBE","CLOCK","RECESS","TERM","SEMESTER","NOTES","FOLDER","BINDER","PUPIL","SCHOOL"] },
+    { themeId: "school", difficulty: "hard", n: 1, title: "Hard School: Full Term", primaryKeyword: "school word search", seed: 8135, fixedWords: ["HISTORY","SCIENCE","READING","WRITING","TEACHER","STUDENT","HOMEWORK","LIBRARY","SEMESTER","SUBJECT","LESSON","MARKER","ERASER","LOCKER","FOLDER","BINDER","RECESS","SCHOOL"] },
+    { themeId: "school", difficulty: "easy", n: 1, largePrint: true, title: "Large Print School: Soft Page", primaryKeyword: "large print school word search", seed: 8136, fixedWords: ["DESK","BOOK","PAGE","PEN","BELL","TEST","MATH","MAP"] },
+  
+    { themeId: "jobs", difficulty: "easy", n: 1, title: "Jobs: Shift Start", primaryKeyword: "jobs careers word search", seed: 8141, fixedWords: ["JOB","WORK","TRADE","CRAFT","SHIFT","WAGE","DESK","SHOP","BANK","COOK"] },
+    { themeId: "jobs", difficulty: "easy", n: 2, title: "Jobs: Quiet Desk", primaryKeyword: "jobs careers word search", seed: 8142, fixedWords: ["SKILL","PAY","FARM","NURSE","BAKER","CHEF","PILOT","CLERK","GUARD","HELP"] },
+    { themeId: "jobs", difficulty: "medium", n: 1, title: "Jobs: Trade Skill", primaryKeyword: "jobs careers word search", seed: 8143, fixedWords: ["CAREER","SALARY","OFFICE","FACTORY","KITCHEN","CLINIC","SCHOOL","COURT","DOCTOR","TEACHER","DRIVER","SAILOR","FARMER","BUILDER"] },
+    { themeId: "jobs", difficulty: "medium", n: 2, title: "Jobs: Career Path", primaryKeyword: "jobs careers word search", seed: 8144, fixedWords: ["CARPENTER","PLUMBER","MECHANIC","TAILOR","BARBER","TELLER","WRITER","EDITOR","ARTIST","MUSICIAN","GUIDE","SERVER","MANAGER","HELPER"] },
+    { themeId: "jobs", difficulty: "hard", n: 1, title: "Hard Jobs: Full Roster", primaryKeyword: "jobs careers word search", seed: 8145, fixedWords: ["CAREER","SALARY","FACTORY","CARPENTER","PLUMBER","MECHANIC","MUSICIAN","MANAGER","TEACHER","DOCTOR","BUILDER","ELECTRICIAN","EDITOR","ARTIST","DRIVER","SAILOR","SERVER","OFFICE"] },
+    { themeId: "jobs", difficulty: "easy", n: 1, largePrint: true, title: "Large Print Jobs: Soft Work", primaryKeyword: "large print jobs careers word search", seed: 8146, fixedWords: ["JOB","WORK","WAGE","DESK","SHOP","COOK","HELP","SKILL"] },
+  
+    { themeId: "friendship", difficulty: "easy", n: 1, title: "Friendship: Shared Tea", primaryKeyword: "friendship word search", seed: 8151, fixedWords: ["FRIEND","PAL","ALLY","VISIT","NOTE","CARD","CHAT","CARE","KIND","WARM"] },
+    { themeId: "friendship", difficulty: "easy", n: 2, title: "Friendship: Quiet Note", primaryKeyword: "friendship word search", seed: 8152, fixedWords: ["BUDDY","GUEST","HOST","CALL","TALK","SHARE","TRUST","TRUE","HELP","JOY"] },
+    { themeId: "friendship", difficulty: "medium", n: 1, title: "Friendship: Loyal Circle", primaryKeyword: "friendship word search", seed: 8153, fixedWords: ["COMPANION","PARTNER","NEIGHBOR","LETTER","LISTEN","LOYAL","GENTLE","HONEST","SUPPORT","COMFORT","CHEER","LAUGH","SMILE","PEACE"] },
+    { themeId: "friendship", difficulty: "medium", n: 2, title: "Friendship: Warm Visit", primaryKeyword: "friendship word search", seed: 8154, fixedWords: ["MEMORY","STORY","TIME","TEA","WALK","TABLE","HOME","HUG","HAND","HEART","BOND","TIE","CIRCLE","HOPE"] },
+    { themeId: "friendship", difficulty: "hard", n: 1, title: "Hard Friendship: Full Bond", primaryKeyword: "friendship word search", seed: 8155, fixedWords: ["COMPANION","PARTNER","NEIGHBOR","SUPPORT","COMFORT","LISTEN","MEMORY","LETTER","GENTLE","HONEST","LOYAL","CIRCLE","CHEER","TABLE","SHARE","TRUST","HEART","STORY"] },
+    { themeId: "friendship", difficulty: "easy", n: 1, largePrint: true, title: "Large Print Friendship: Soft Pal", primaryKeyword: "large print friendship word search", seed: 8156, fixedWords: ["PAL","NOTE","CARD","CARE","KIND","WARM","HELP","JOY"] },
+
   // Packs
   { themeId: "hard-pack", difficulty: "hard", n: 1, title: "Hard Word Search: Quiet Focus", primaryKeyword: "hard word search", seed: 4001 },
   { themeId: "hard-pack", difficulty: "hard", n: 2, title: "Hard Word Search: Craft & Curiosity", primaryKeyword: "hard word search", seed: 4002 },
@@ -315,7 +421,10 @@ const themes = new Map<string, Theme>(
 );
 
 const onlyArg = process.argv.find((a) => a.startsWith("--only="));
-const onlyTheme = onlyArg ? onlyArg.slice("--only=".length) : null;
+/** Comma-separated theme ids; omit to regenerate everything. */
+const onlyThemes = onlyArg
+  ? new Set(onlyArg.slice("--only=".length).split(",").map((s) => s.trim()).filter(Boolean))
+  : null;
 
 const slugs: string[] = [];
 for (const spec of PUZZLE_SPECS) {
@@ -325,9 +434,10 @@ for (const spec of PUZZLE_SPECS) {
   const slug = `${spec.themeId}-${suffix}-${String(spec.n).padStart(2, "0")}`;
   const outPath = join(puzzlesDir, `${slug}.json`);
 
-  // --only=<themeId> regenerates that theme's puzzles and leaves every other grid file untouched.
-  if (onlyTheme && spec.themeId !== onlyTheme) {
-    if (!existsSync(outPath)) throw new Error(`Missing puzzle ${slug}; run a full generate first`);
+  // --only=a,b regenerates those themes and leaves every other grid file untouched.
+  // Missing files for themes outside --only are skipped from the registry until generated.
+  if (onlyThemes && !onlyThemes.has(spec.themeId)) {
+    if (!existsSync(outPath)) continue;
     slugs.push(slug);
     continue;
   }

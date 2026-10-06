@@ -1,0 +1,173 @@
+{
+  "id": "us-states-large-01",
+  "slug": "us-states-large-01",
+  "themeId": "us-states",
+  "title": "Large Print U.S. States: Soft State",
+  "primaryKeyword": "large print us states word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "COAST",
+    "IDAHO",
+    "IOWA",
+    "MAINE",
+    "OHIO",
+    "STATE",
+    "TEXAS",
+    "UTAH"
+  ],
+  "grid": [
+    [
+      "R",
+      "E",
+      "S",
+      "O",
+      "H",
+      "I",
+      "O",
+      "M",
+      "S"
+    ],
+    [
+      "W",
+      "W",
+      "T",
+      "X",
+      "A",
+      "N",
+      "I",
+      "A",
+      "C"
+    ],
+    [
+      "I",
+      "V",
+      "A",
+      "F",
+      "Y",
+      "L",
+      "O",
+      "I",
+      "O"
+    ],
+    [
+      "R",
+      "T",
+      "T",
+      "W",
+      "I",
+      "S",
+      "L",
+      "N",
+      "A"
+    ],
+    [
+      "U",
+      "E",
+      "E",
+      "O",
+      "D",
+      "H",
+      "B",
+      "E",
+      "S"
+    ],
+    [
+      "T",
+      "X",
+      "Y",
+      "I",
+      "A",
+      "H",
+      "I",
+      "F",
+      "T"
+    ],
+    [
+      "A",
+      "A",
+      "Y",
+      "O",
+      "H",
+      "D",
+      "P",
+      "F",
+      "O"
+    ],
+    [
+      "H",
+      "S",
+      "G",
+      "W",
+      "O",
+      "D",
+      "W",
+      "Q",
+      "S"
+    ],
+    [
+      "F",
+      "K",
+      "F",
+      "A",
+      "F",
+      "E",
+      "S",
+      "Q",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TEXAS",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "MAINE",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "STATE",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "COAST",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "IDAHO",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "OHIO",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "IOWA",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "UTAH",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8016
+}

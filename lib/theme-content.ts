@@ -298,6 +298,111 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
       "A practical evergreen theme for all seasons and calm indoor afternoons.",
     tip: "Long words like THERMOMETER, BAROMETER and LIGHTNING anchor the hard grid; short ones like FOG hide on edges.",
   },
+  "us-states": {
+    vocabulary:
+      "State names in everyday American English — coasts, plains and border states — with no campaign brands.",
+    goodFor:
+      "A calm geography theme for adults who like maps without trivia pressure.",
+    tip: "Long names such as MASSACHUSETTS and PENNSYLVANIA stand out; leave short ones like OHIO for the edges.",
+  },
+  "world-capitals": {
+    vocabulary:
+      "Familiar capital-city names from several continents — everyday atlas English, not obscure trivia.",
+    goodFor:
+      "Armchair travellers and anyone refreshing world geography at a gentle pace.",
+    tip: "Unusual letter pairs help: the JJ in JAKARTA when it appears, double letters in TALLINN-style names, or QQ rarely — scan rare letters first.",
+  },
+  "human-body": {
+    vocabulary:
+      "Everyday anatomy words — bones, organs and senses — in plain adult English. No medical claims.",
+    goodFor:
+      "A practical evergreen theme for curious adults and gentle vocabulary practice.",
+    tip: "Long words like SHOULDER and STOMACH anchor harder grids; short ones like EYE hide on edges.",
+  },
+  camping: {
+    vocabulary:
+      "Tent, trail, lantern and outdoor camp English without gear brands.",
+    goodFor:
+      "Quiet evenings, outdoor clubs and seniors who like woods vocabulary.",
+    tip: "Compound and longer words such as LANTERN and COMPASS are easier than PEG or LOG.",
+  },
+  horses: {
+    vocabulary:
+      "Barn, saddle and pasture English — no breed-club or brand names.",
+    goodFor:
+      "A calm animals child theme for riders and armchair horse people.",
+    tip: "Long words like STALLION and PADDOCK stand out; leave PONY and HAY for last.",
+  },
+  cars: {
+    vocabulary:
+      "Wheels, roads and garage English without maker or model brands.",
+    goodFor:
+      "A practical transport theme for adults who know the driveway vocabulary.",
+    tip: "Look for distinctive clusters such as HIGH in HIGHWAY or MET in ODOMETER.",
+  },
+  trains: {
+    vocabulary:
+      "Station, track and carriage English — no railroad brands.",
+    goodFor:
+      "A gentle transport theme for travellers and seniors who like timetable words.",
+    tip: "Long words such as TIMETABLE and PASSENGER anchor the hard grid.",
+  },
+  airplanes: {
+    vocabulary:
+      "Flight vocabulary — wing, runway, cabin — without airline brands.",
+    goodFor:
+      "Calm sky-minded puzzles for adults; pairs well with travel.",
+    tip: "Compound words like TAKEOFF and LANDING jump out of a grid quickly.",
+  },
+  farming: {
+    vocabulary:
+      "Field, barn and harvest English without agribusiness brands.",
+    goodFor:
+      "A seniors-friendly outdoor-kitchen theme year-round.",
+    tip: "Double letters in BUTTER and CHEESE stand out; hunt short ones like HEN last.",
+  },
+  beach: {
+    vocabulary:
+      "Sand, tide and shore English — no resort brands. Companion to Ocean.",
+    goodFor:
+      "Summer afternoons and anyone who wants a coastal mood without swimwear ads.",
+    tip: "Long words such as LIGHTHOUSE and UMBRELLA are easier than SUN or HAT.",
+  },
+  mountains: {
+    vocabulary:
+      "Peak, trail and alpine English without ski-resort brands.",
+    goodFor:
+      "Hikers and anyone who likes ridge vocabulary at a desk.",
+    tip: "Words ending in -LINE or -ENT (TIMBERLINE, DESCENT) reverse cleanly — scan for those clusters.",
+  },
+  lakes: {
+    vocabulary:
+      "Still water, docks and quiet shores — no resort brands.",
+    goodFor:
+      "A calm water theme that pairs with fishing and ocean without overlapping lists.",
+    tip: "Long words like REFLECT and TWILIGHT stand out; short ones like OAR hide on edges.",
+  },
+  school: {
+    vocabulary:
+      "Classroom English for adults — books and study words, not cartoon kids themes.",
+    goodFor:
+      "A gentle evergreen for lifelong learners and quiet desk mornings.",
+    tip: "Long words such as SEMESTER and HOMEWORK anchor harder grids.",
+  },
+  jobs: {
+    vocabulary:
+      "Everyday work English — trades and callings without company brands.",
+    goodFor:
+      "Adults who like practical vocabulary; good for retirement-community activity hours.",
+    tip: "Long trade names like CARPENTER and ELECTRICIAN are easier than JOB or PAY.",
+  },
+  friendship: {
+    vocabulary:
+      "Trust, kindness, letters and shared time — calm adult social vocabulary.",
+    goodFor:
+      "A soft theme for seniors' hours and anyone who wants a gentle list.",
+    tip: "Words ending in -SHIP or -NESS (when present) and long ones like COMPANION stand out first.",
+  },
   bible: {
     vocabulary:
       "The Bible list is grouped by familiar Scripture vocabulary: books of the Old and New Testaments (Genesis, Exodus, Matthew, Acts), people of the Old Testament (Abraham, Moses, David, Esther), disciples and New Testament figures (Peter, Paul, Lydia, Martha), places named in the text (Jerusalem, Bethlehem, Nazareth, Galilee), and short virtue words drawn from everyday church English — love, joy, peace, faith, hope, grace, mercy and kindness. Names follow common English / King James spellings. There are no verse quotations on the grid, no denominational slogans, and no cartoon characters.",

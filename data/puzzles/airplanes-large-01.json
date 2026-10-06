@@ -1,0 +1,173 @@
+{
+  "id": "airplanes-large-01",
+  "slug": "airplanes-large-01",
+  "themeId": "airplanes",
+  "title": "Large Print Airplanes: Soft Wing",
+  "primaryKeyword": "large print airplanes word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "CLOUD",
+    "CREW",
+    "GATE",
+    "JET",
+    "PLANE",
+    "SEAT",
+    "SKY",
+    "WING"
+  ],
+  "grid": [
+    [
+      "S",
+      "W",
+      "F",
+      "G",
+      "X",
+      "V",
+      "U",
+      "C",
+      "R"
+    ],
+    [
+      "K",
+      "I",
+      "P",
+      "F",
+      "F",
+      "V",
+      "P",
+      "X",
+      "D"
+    ],
+    [
+      "Y",
+      "N",
+      "B",
+      "C",
+      "L",
+      "O",
+      "U",
+      "D",
+      "X"
+    ],
+    [
+      "Q",
+      "G",
+      "C",
+      "S",
+      "E",
+      "A",
+      "T",
+      "R",
+      "C"
+    ],
+    [
+      "J",
+      "F",
+      "B",
+      "F",
+      "X",
+      "P",
+      "B",
+      "S",
+      "V"
+    ],
+    [
+      "E",
+      "Q",
+      "G",
+      "U",
+      "G",
+      "A",
+      "T",
+      "E",
+      "P"
+    ],
+    [
+      "T",
+      "P",
+      "L",
+      "A",
+      "N",
+      "E",
+      "Z",
+      "O",
+      "G"
+    ],
+    [
+      "E",
+      "O",
+      "R",
+      "A",
+      "P",
+      "M",
+      "S",
+      "W",
+      "S"
+    ],
+    [
+      "C",
+      "R",
+      "E",
+      "W",
+      "L",
+      "Q",
+      "Y",
+      "C",
+      "X"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PLANE",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CLOUD",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "WING",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SEAT",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "GATE",
+      "row": 5,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CREW",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "JET",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SKY",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8086
+}

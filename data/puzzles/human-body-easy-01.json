@@ -1,0 +1,208 @@
+{
+  "id": "human-body-easy-01",
+  "slug": "human-body-easy-01",
+  "themeId": "human-body",
+  "title": "Human Body: Bones & Skin",
+  "primaryKeyword": "human body word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ARM",
+    "BONE",
+    "EAR",
+    "EYE",
+    "FOOT",
+    "HAIR",
+    "HAND",
+    "LEG",
+    "NOSE",
+    "SKIN"
+  ],
+  "grid": [
+    [
+      "Y",
+      "D",
+      "X",
+      "N",
+      "E",
+      "A",
+      "R",
+      "L",
+      "A",
+      "J"
+    ],
+    [
+      "P",
+      "B",
+      "S",
+      "K",
+      "I",
+      "N",
+      "E",
+      "Y",
+      "E",
+      "A"
+    ],
+    [
+      "R",
+      "U",
+      "Y",
+      "H",
+      "A",
+      "N",
+      "D",
+      "Y",
+      "T",
+      "X"
+    ],
+    [
+      "U",
+      "K",
+      "F",
+      "O",
+      "O",
+      "T",
+      "A",
+      "A",
+      "P",
+      "A"
+    ],
+    [
+      "S",
+      "E",
+      "Q",
+      "F",
+      "K",
+      "B",
+      "N",
+      "O",
+      "S",
+      "E"
+    ],
+    [
+      "O",
+      "U",
+      "L",
+      "E",
+      "G",
+      "Z",
+      "J",
+      "O",
+      "H",
+      "B"
+    ],
+    [
+      "A",
+      "U",
+      "Y",
+      "V",
+      "G",
+      "O",
+      "F",
+      "A",
+      "A",
+      "O"
+    ],
+    [
+      "R",
+      "Z",
+      "X",
+      "Q",
+      "D",
+      "B",
+      "N",
+      "R",
+      "I",
+      "N"
+    ],
+    [
+      "M",
+      "Y",
+      "J",
+      "Q",
+      "J",
+      "T",
+      "U",
+      "N",
+      "R",
+      "E"
+    ],
+    [
+      "P",
+      "U",
+      "C",
+      "T",
+      "N",
+      "C",
+      "F",
+      "P",
+      "D",
+      "V"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BONE",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SKIN",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "HAIR",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "NOSE",
+      "row": 4,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "HAND",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "FOOT",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "EAR",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "EYE",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "ARM",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "LEG",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8031
+}

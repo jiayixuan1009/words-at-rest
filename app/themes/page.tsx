@@ -61,9 +61,10 @@ export default function ThemesPage() {
           Day, Mother&apos;s Day, Father&apos;s Day, Independence Day, spring and summer — follow the
           calendar. See also the <Link href="/holidays">holidays hub</Link>.{" "}
           <strong className="text-[var(--ink)]">Evergreen themes</strong>{" "}
-          such as Bible, animals (with birds), food (with baking, desserts, herbs, fruits, vegetables
-          and breakfast), ocean, garden (with flowers and trees), kitchen, coffee &amp; tea, weather,
-          travel, music (with instruments, jazz, classical and musical terms), sports (with golf,
+          such as Bible, animals (with birds and horses), food (with baking, desserts, herbs, fruits, vegetables
+          and breakfast), ocean (with beach), garden (with flowers and trees), kitchen, coffee &amp; tea, weather,
+          camping, mountains, lakes, farming, school, jobs, friendship, U.S. states, world capitals, human body,
+          cars, trains, airplanes, travel, music (with instruments, jazz, classical and musical terms), sports (with golf,
           baseball, tennis and fishing) and space work any time of year.{" "}
           <strong className="text-[var(--ink)]">Packs</strong> group puzzles by how they play rather
           than by topic: the <Link href="/themes/large-print-pack">Large Print Pack</Link> for

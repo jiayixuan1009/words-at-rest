@@ -1,0 +1,284 @@
+{
+  "id": "farming-medium-01",
+  "slug": "farming-medium-01",
+  "themeId": "farming",
+  "title": "Farming: Harvest Row",
+  "primaryKeyword": "farming word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BARLEY",
+    "BUTTER",
+    "CHEESE",
+    "CREAM",
+    "FENCE",
+    "GOAT",
+    "HARVEST",
+    "MEADOW",
+    "ORCHARD",
+    "PASTURE",
+    "SHEEP",
+    "STRAW",
+    "TRACTOR",
+    "WHEAT"
+  ],
+  "grid": [
+    [
+      "J",
+      "J",
+      "H",
+      "Z",
+      "L",
+      "T",
+      "R",
+      "A",
+      "C",
+      "T",
+      "O",
+      "R"
+    ],
+    [
+      "E",
+      "N",
+      "Z",
+      "H",
+      "P",
+      "F",
+      "P",
+      "C",
+      "O",
+      "G",
+      "W",
+      "R"
+    ],
+    [
+      "K",
+      "K",
+      "F",
+      "S",
+      "A",
+      "B",
+      "K",
+      "H",
+      "C",
+      "F",
+      "M",
+      "G"
+    ],
+    [
+      "W",
+      "Z",
+      "S",
+      "H",
+      "S",
+      "A",
+      "F",
+      "E",
+      "N",
+      "C",
+      "E",
+      "C"
+    ],
+    [
+      "P",
+      "U",
+      "T",
+      "E",
+      "T",
+      "R",
+      "M",
+      "E",
+      "A",
+      "D",
+      "A",
+      "R"
+    ],
+    [
+      "Q",
+      "H",
+      "R",
+      "E",
+      "U",
+      "L",
+      "W",
+      "S",
+      "D",
+      "T",
+      "D",
+      "E"
+    ],
+    [
+      "K",
+      "A",
+      "A",
+      "P",
+      "R",
+      "E",
+      "A",
+      "E",
+      "V",
+      "N",
+      "O",
+      "A"
+    ],
+    [
+      "B",
+      "R",
+      "W",
+      "Z",
+      "E",
+      "Y",
+      "P",
+      "L",
+      "K",
+      "J",
+      "W",
+      "M"
+    ],
+    [
+      "J",
+      "V",
+      "R",
+      "B",
+      "U",
+      "T",
+      "T",
+      "E",
+      "R",
+      "L",
+      "Z",
+      "G"
+    ],
+    [
+      "X",
+      "E",
+      "L",
+      "H",
+      "O",
+      "R",
+      "C",
+      "H",
+      "A",
+      "R",
+      "D",
+      "O"
+    ],
+    [
+      "Y",
+      "S",
+      "U",
+      "C",
+      "H",
+      "W",
+      "H",
+      "E",
+      "A",
+      "T",
+      "T",
+      "A"
+    ],
+    [
+      "N",
+      "T",
+      "V",
+      "L",
+      "L",
+      "O",
+      "R",
+      "G",
+      "D",
+      "F",
+      "C",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "HARVEST",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "TRACTOR",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "PASTURE",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "ORCHARD",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BARLEY",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "CHEESE",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "BUTTER",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "MEADOW",
+      "row": 2,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "STRAW",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "WHEAT",
+      "row": 10,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SHEEP",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "CREAM",
+      "row": 3,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "FENCE",
+      "row": 3,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "GOAT",
+      "row": 8,
+      "col": 11,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8093
+}

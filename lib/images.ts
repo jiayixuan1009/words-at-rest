@@ -124,6 +124,21 @@ const THEME_MOTIF: Record<string, string> = {
   flowers: "a vase of mixed blooms and loose petals on a garden table",
   trees: "an oak leaf, acorn and pine cone on weathered wood",
   weather: "a barometer, umbrella and cloud sketch beside a window",
+  "us-states": "a folded map of the United States, a compass and a travel stamp",
+  "world-capitals": "a globe, a small flag pin and an open atlas on a desk",
+  "human-body": "an anatomy sketchbook, a pencil and reading glasses on cream paper",
+  camping: "a tent peg, lantern and folded map beside pine needles",
+  horses: "a leather bridle, horseshoe and soft brush on barn wood",
+  cars: "a classic key fob, road map and spare tire sketch on a workbench",
+  trains: "a ticket stub, conductor's punch and miniature locomotive on linen",
+  airplanes: "a paper airplane, boarding pass stub and cloud sketch on a desk",
+  farming: "a wooden rake, seed packet and wheat sheaf on a farm table",
+  beach: "a seashell, towel and straw hat on sun-warmed sand",
+  mountains: "a hiking boot, trail map and pine cone against a ridge sketch",
+  lakes: "a wooden dock, canoe paddle and calm water reflection",
+  school: "an open notebook, pencil and reading glasses on a wooden desk",
+  jobs: "a fountain pen, name badge and tidy notepad on a desk",
+  friendship: "two teacups, a shared letter and a small pressed flower",
   "large-print-pack": "reading glasses on an open puzzle book under a lamp",
   "hard-pack": "a dense puzzle grid with a fountain pen",
 };
@@ -144,6 +159,11 @@ const THEME_MOTIF: Record<string, string> = {
  * TEMPORARY covers for Wave C (new-year, st-patricks, mothers-day, fathers-day,
  * independence-day, spring, summer, vegetables, breakfast, coffee-tea, kitchen,
  * birds, flowers, trees, weather): borrow nearby seasonal/parent art until dedicated
+ * paintings land. Swap webp (+ -640) and og-base PNG / public/og/themes JPG only.
+ *
+ * TEMPORARY covers for Wave D (us-states, world-capitals, human-body, camping, horses,
+ * cars, trains, airplanes, farming, beach, mountains, lakes, school, jobs, friendship):
+ * borrow travel/ocean/fall/animals/space/garden/bible/valentines art until dedicated
  * paintings land. Swap webp (+ -640) and og-base PNG / public/og/themes JPG only.
  */
 export function themeArt(slug: string, themeName: string): Art {

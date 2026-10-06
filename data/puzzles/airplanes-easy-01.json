@@ -1,0 +1,208 @@
+{
+  "id": "airplanes-easy-01",
+  "slug": "airplanes-easy-01",
+  "themeId": "airplanes",
+  "title": "Airplanes: Gate Call",
+  "primaryKeyword": "airplanes word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BELT",
+    "CREW",
+    "GATE",
+    "JET",
+    "NOSE",
+    "PLANE",
+    "SEAT",
+    "SKY",
+    "TAIL",
+    "WING"
+  ],
+  "grid": [
+    [
+      "X",
+      "X",
+      "X",
+      "H",
+      "P",
+      "S",
+      "E",
+      "A",
+      "T",
+      "X"
+    ],
+    [
+      "S",
+      "Z",
+      "A",
+      "B",
+      "E",
+      "L",
+      "T",
+      "H",
+      "V",
+      "V"
+    ],
+    [
+      "C",
+      "N",
+      "O",
+      "H",
+      "W",
+      "H",
+      "W",
+      "L",
+      "H",
+      "W"
+    ],
+    [
+      "G",
+      "O",
+      "Q",
+      "C",
+      "S",
+      "K",
+      "Y",
+      "W",
+      "Y",
+      "I"
+    ],
+    [
+      "A",
+      "S",
+      "Z",
+      "K",
+      "C",
+      "R",
+      "E",
+      "W",
+      "Z",
+      "N"
+    ],
+    [
+      "T",
+      "E",
+      "P",
+      "L",
+      "A",
+      "N",
+      "E",
+      "A",
+      "I",
+      "G"
+    ],
+    [
+      "E",
+      "T",
+      "A",
+      "I",
+      "L",
+      "O",
+      "H",
+      "A",
+      "C",
+      "C"
+    ],
+    [
+      "J",
+      "L",
+      "B",
+      "X",
+      "A",
+      "T",
+      "X",
+      "C",
+      "Z",
+      "D"
+    ],
+    [
+      "E",
+      "R",
+      "W",
+      "D",
+      "Z",
+      "I",
+      "P",
+      "S",
+      "S",
+      "K"
+    ],
+    [
+      "T",
+      "R",
+      "J",
+      "W",
+      "Z",
+      "F",
+      "M",
+      "K",
+      "V",
+      "V"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PLANE",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "WING",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "TAIL",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "NOSE",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SEAT",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "BELT",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "GATE",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CREW",
+      "row": 4,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "JET",
+      "row": 7,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SKY",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8081
+}

@@ -1,0 +1,208 @@
+{
+  "id": "mountains-easy-02",
+  "slug": "mountains-easy-02",
+  "themeId": "mountains",
+  "title": "Mountains: Quiet Peak",
+  "primaryKeyword": "mountains word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BOOT",
+    "CAMP",
+    "CLIFF",
+    "CLIMB",
+    "CRAG",
+    "ICE",
+    "MAP",
+    "STREAM",
+    "VALLEY",
+    "WIND"
+  ],
+  "grid": [
+    [
+      "C",
+      "E",
+      "L",
+      "Q",
+      "S",
+      "S",
+      "G",
+      "J",
+      "K",
+      "O"
+    ],
+    [
+      "N",
+      "J",
+      "G",
+      "D",
+      "P",
+      "W",
+      "C",
+      "R",
+      "A",
+      "G"
+    ],
+    [
+      "I",
+      "P",
+      "C",
+      "C",
+      "L",
+      "I",
+      "M",
+      "B",
+      "M",
+      "A"
+    ],
+    [
+      "O",
+      "D",
+      "A",
+      "V",
+      "A",
+      "N",
+      "H",
+      "Y",
+      "T",
+      "Y"
+    ],
+    [
+      "O",
+      "P",
+      "M",
+      "A",
+      "C",
+      "D",
+      "I",
+      "C",
+      "E",
+      "S"
+    ],
+    [
+      "Z",
+      "U",
+      "P",
+      "L",
+      "M",
+      "A",
+      "P",
+      "N",
+      "R",
+      "T"
+    ],
+    [
+      "B",
+      "B",
+      "C",
+      "L",
+      "I",
+      "F",
+      "F",
+      "Q",
+      "I",
+      "R"
+    ],
+    [
+      "S",
+      "O",
+      "T",
+      "E",
+      "Y",
+      "V",
+      "U",
+      "D",
+      "Y",
+      "E"
+    ],
+    [
+      "W",
+      "O",
+      "J",
+      "Y",
+      "F",
+      "I",
+      "G",
+      "I",
+      "B",
+      "A"
+    ],
+    [
+      "G",
+      "T",
+      "G",
+      "A",
+      "S",
+      "G",
+      "M",
+      "E",
+      "K",
+      "M"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "VALLEY",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "STREAM",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "CLIFF",
+      "row": 6,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CLIMB",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "CRAG",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "WIND",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "BOOT",
+      "row": 6,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "CAMP",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "ICE",
+      "row": 4,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "MAP",
+      "row": 5,
+      "col": 4,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8112
+}

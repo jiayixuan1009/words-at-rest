@@ -1,0 +1,208 @@
+{
+  "id": "camping-easy-02",
+  "slug": "camping-easy-02",
+  "themeId": "camping",
+  "title": "Camping: Trail Pack",
+  "primaryKeyword": "camping word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ASH",
+    "BAG",
+    "FLY",
+    "LAKE",
+    "MAT",
+    "PAD",
+    "PAN",
+    "POT",
+    "ROPE",
+    "WOODS"
+  ],
+  "grid": [
+    [
+      "K",
+      "U",
+      "R",
+      "G",
+      "G",
+      "P",
+      "O",
+      "T",
+      "H",
+      "Z"
+    ],
+    [
+      "H",
+      "C",
+      "D",
+      "Y",
+      "A",
+      "F",
+      "U",
+      "Y",
+      "W",
+      "M"
+    ],
+    [
+      "V",
+      "C",
+      "G",
+      "M",
+      "A",
+      "T",
+      "D",
+      "Q",
+      "O",
+      "D"
+    ],
+    [
+      "G",
+      "N",
+      "L",
+      "A",
+      "K",
+      "E",
+      "E",
+      "S",
+      "O",
+      "M"
+    ],
+    [
+      "X",
+      "D",
+      "V",
+      "S",
+      "V",
+      "P",
+      "A",
+      "N",
+      "D",
+      "H"
+    ],
+    [
+      "F",
+      "L",
+      "Y",
+      "H",
+      "P",
+      "D",
+      "U",
+      "U",
+      "S",
+      "X"
+    ],
+    [
+      "F",
+      "R",
+      "Q",
+      "M",
+      "W",
+      "Q",
+      "V",
+      "I",
+      "X",
+      "L"
+    ],
+    [
+      "J",
+      "O",
+      "J",
+      "B",
+      "A",
+      "G",
+      "D",
+      "I",
+      "P",
+      "U"
+    ],
+    [
+      "M",
+      "P",
+      "J",
+      "E",
+      "Y",
+      "L",
+      "Y",
+      "H",
+      "A",
+      "L"
+    ],
+    [
+      "V",
+      "E",
+      "M",
+      "H",
+      "E",
+      "A",
+      "X",
+      "S",
+      "D",
+      "M"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "WOODS",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "LAKE",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ROPE",
+      "row": 6,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "FLY",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BAG",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "PAD",
+      "row": 7,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "MAT",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "ASH",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "POT",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "PAN",
+      "row": 4,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8042
+}

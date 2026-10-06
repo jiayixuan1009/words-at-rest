@@ -1,0 +1,208 @@
+{
+  "id": "trains-easy-01",
+  "slug": "trains-easy-01",
+  "themeId": "trains",
+  "title": "Trains: Platform Wait",
+  "primaryKeyword": "trains word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BELL",
+    "CAR",
+    "COACH",
+    "CREW",
+    "LINE",
+    "RAIL",
+    "STOP",
+    "TIE",
+    "TRACK",
+    "TRAIN"
+  ],
+  "grid": [
+    [
+      "W",
+      "J",
+      "C",
+      "R",
+      "E",
+      "W",
+      "Z",
+      "M",
+      "H",
+      "A"
+    ],
+    [
+      "N",
+      "O",
+      "A",
+      "T",
+      "W",
+      "O",
+      "F",
+      "H",
+      "R",
+      "Q"
+    ],
+    [
+      "C",
+      "T",
+      "E",
+      "I",
+      "Z",
+      "B",
+      "E",
+      "L",
+      "L",
+      "S"
+    ],
+    [
+      "A",
+      "R",
+      "F",
+      "Q",
+      "A",
+      "R",
+      "T",
+      "I",
+      "M",
+      "A"
+    ],
+    [
+      "R",
+      "A",
+      "J",
+      "S",
+      "T",
+      "O",
+      "P",
+      "N",
+      "W",
+      "L"
+    ],
+    [
+      "A",
+      "C",
+      "C",
+      "O",
+      "A",
+      "C",
+      "H",
+      "E",
+      "A",
+      "O"
+    ],
+    [
+      "I",
+      "K",
+      "S",
+      "T",
+      "R",
+      "A",
+      "I",
+      "N",
+      "M",
+      "D"
+    ],
+    [
+      "L",
+      "Y",
+      "V",
+      "D",
+      "Y",
+      "I",
+      "N",
+      "G",
+      "F",
+      "W"
+    ],
+    [
+      "U",
+      "B",
+      "O",
+      "K",
+      "T",
+      "X",
+      "W",
+      "U",
+      "H",
+      "T"
+    ],
+    [
+      "T",
+      "N",
+      "R",
+      "F",
+      "U",
+      "T",
+      "I",
+      "E",
+      "H",
+      "B"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TRAIN",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "TRACK",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "COACH",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "RAIL",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BELL",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "STOP",
+      "row": 4,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "LINE",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "CREW",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "TIE",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "CAR",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8071
+}

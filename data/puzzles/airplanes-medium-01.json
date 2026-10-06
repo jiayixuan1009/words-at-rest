@@ -1,0 +1,284 @@
+{
+  "id": "airplanes-medium-01",
+  "slug": "airplanes-medium-01",
+  "themeId": "airplanes",
+  "title": "Airplanes: Runway Light",
+  "primaryKeyword": "airplanes word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ARRIVE",
+    "BOARD",
+    "COCKPIT",
+    "DEPART",
+    "FLIGHT",
+    "LANDING",
+    "LUGGAGE",
+    "PILOT",
+    "ROUTE",
+    "RUNWAY",
+    "TAKEOFF",
+    "TICKET",
+    "TOWER",
+    "WINDOW"
+  ],
+  "grid": [
+    [
+      "A",
+      "R",
+      "R",
+      "I",
+      "V",
+      "E",
+      "P",
+      "X",
+      "M",
+      "F",
+      "K",
+      "C"
+    ],
+    [
+      "N",
+      "L",
+      "U",
+      "G",
+      "G",
+      "A",
+      "G",
+      "E",
+      "N",
+      "B",
+      "R",
+      "S"
+    ],
+    [
+      "U",
+      "T",
+      "A",
+      "K",
+      "E",
+      "O",
+      "F",
+      "F",
+      "F",
+      "J",
+      "U",
+      "A"
+    ],
+    [
+      "D",
+      "T",
+      "P",
+      "L",
+      "A",
+      "N",
+      "D",
+      "I",
+      "N",
+      "G",
+      "N",
+      "Y"
+    ],
+    [
+      "E",
+      "I",
+      "B",
+      "B",
+      "G",
+      "C",
+      "B",
+      "V",
+      "W",
+      "F",
+      "W",
+      "F"
+    ],
+    [
+      "P",
+      "C",
+      "O",
+      "L",
+      "O",
+      "O",
+      "R",
+      "W",
+      "W",
+      "L",
+      "A",
+      "A"
+    ],
+    [
+      "A",
+      "K",
+      "A",
+      "S",
+      "A",
+      "C",
+      "O",
+      "H",
+      "I",
+      "I",
+      "Y",
+      "C"
+    ],
+    [
+      "R",
+      "E",
+      "R",
+      "F",
+      "R",
+      "K",
+      "U",
+      "F",
+      "N",
+      "G",
+      "G",
+      "T"
+    ],
+    [
+      "T",
+      "T",
+      "D",
+      "Q",
+      "V",
+      "P",
+      "T",
+      "T",
+      "D",
+      "H",
+      "O",
+      "O"
+    ],
+    [
+      "J",
+      "I",
+      "Y",
+      "A",
+      "C",
+      "I",
+      "E",
+      "K",
+      "O",
+      "T",
+      "O",
+      "W"
+    ],
+    [
+      "P",
+      "I",
+      "L",
+      "O",
+      "T",
+      "T",
+      "A",
+      "W",
+      "W",
+      "O",
+      "Z",
+      "E"
+    ],
+    [
+      "C",
+      "J",
+      "D",
+      "I",
+      "E",
+      "V",
+      "E",
+      "R",
+      "O",
+      "F",
+      "A",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "COCKPIT",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "TAKEOFF",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "LANDING",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "LUGGAGE",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "WINDOW",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "RUNWAY",
+      "row": 1,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "FLIGHT",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "TICKET",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "DEPART",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "ARRIVE",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "PILOT",
+      "row": 10,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BOARD",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "ROUTE",
+      "row": 5,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "TOWER",
+      "row": 7,
+      "col": 11,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8083
+}

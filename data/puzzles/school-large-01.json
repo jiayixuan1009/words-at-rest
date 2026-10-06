@@ -1,0 +1,173 @@
+{
+  "id": "school-large-01",
+  "slug": "school-large-01",
+  "themeId": "school",
+  "title": "Large Print School: Soft Page",
+  "primaryKeyword": "large print school word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BELL",
+    "BOOK",
+    "DESK",
+    "MAP",
+    "MATH",
+    "PAGE",
+    "PEN",
+    "TEST"
+  ],
+  "grid": [
+    [
+      "D",
+      "I",
+      "V",
+      "M",
+      "U",
+      "Q",
+      "J",
+      "S",
+      "B"
+    ],
+    [
+      "X",
+      "X",
+      "Z",
+      "H",
+      "Z",
+      "U",
+      "Q",
+      "Z",
+      "O"
+    ],
+    [
+      "O",
+      "M",
+      "A",
+      "T",
+      "H",
+      "X",
+      "V",
+      "Q",
+      "O"
+    ],
+    [
+      "S",
+      "W",
+      "F",
+      "P",
+      "E",
+      "N",
+      "T",
+      "P",
+      "K"
+    ],
+    [
+      "B",
+      "H",
+      "E",
+      "A",
+      "T",
+      "D",
+      "E",
+      "K",
+      "C"
+    ],
+    [
+      "E",
+      "U",
+      "B",
+      "G",
+      "J",
+      "E",
+      "S",
+      "A",
+      "B"
+    ],
+    [
+      "M",
+      "S",
+      "E",
+      "E",
+      "V",
+      "S",
+      "T",
+      "F",
+      "S"
+    ],
+    [
+      "A",
+      "E",
+      "L",
+      "F",
+      "V",
+      "K",
+      "M",
+      "B",
+      "B"
+    ],
+    [
+      "P",
+      "G",
+      "L",
+      "S",
+      "M",
+      "Y",
+      "U",
+      "I",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "DESK",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "BOOK",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "PAGE",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "BELL",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "TEST",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "MATH",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PEN",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "MAP",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8136
+}

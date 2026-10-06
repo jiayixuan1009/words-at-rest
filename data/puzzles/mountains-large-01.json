@@ -1,0 +1,173 @@
+{
+  "id": "mountains-large-01",
+  "slug": "mountains-large-01",
+  "themeId": "mountains",
+  "title": "Large Print Mountains: Soft Trail",
+  "primaryKeyword": "large print mountains word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "CAMP",
+    "HIKE",
+    "PATH",
+    "PEAK",
+    "ROCK",
+    "SNOW",
+    "TRAIL",
+    "VIEW"
+  ],
+  "grid": [
+    [
+      "R",
+      "C",
+      "J",
+      "V",
+      "A",
+      "N",
+      "O",
+      "W",
+      "S"
+    ],
+    [
+      "O",
+      "J",
+      "E",
+      "I",
+      "D",
+      "X",
+      "W",
+      "U",
+      "N"
+    ],
+    [
+      "C",
+      "H",
+      "G",
+      "E",
+      "P",
+      "H",
+      "H",
+      "O",
+      "O"
+    ],
+    [
+      "K",
+      "C",
+      "P",
+      "W",
+      "H",
+      "I",
+      "K",
+      "E",
+      "W"
+    ],
+    [
+      "N",
+      "A",
+      "K",
+      "G",
+      "R",
+      "O",
+      "B",
+      "T",
+      "O"
+    ],
+    [
+      "R",
+      "M",
+      "N",
+      "G",
+      "P",
+      "Z",
+      "D",
+      "R",
+      "P"
+    ],
+    [
+      "Z",
+      "P",
+      "E",
+      "W",
+      "E",
+      "A",
+      "I",
+      "A",
+      "A"
+    ],
+    [
+      "G",
+      "K",
+      "Q",
+      "W",
+      "A",
+      "Q",
+      "R",
+      "I",
+      "T"
+    ],
+    [
+      "V",
+      "D",
+      "E",
+      "L",
+      "K",
+      "D",
+      "K",
+      "L",
+      "H"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TRAIL",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "PEAK",
+      "row": 5,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "HIKE",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "ROCK",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SNOW",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "VIEW",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "PATH",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "CAMP",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8116
+}

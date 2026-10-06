@@ -3,11 +3,20 @@
 本文件格式参考 [Keep a Changelog](https://keepachangelog.com/zh-CN/1.1.0/)。日期为 commit 时间（Asia/Shanghai，UTC+8）。  
 项目尚未打版本号，按日期 + commit 记录。完整产品说明见 [`docs/PRODUCT.md`](docs/PRODUCT.md)，后续计划见 [`docs/ROADMAP.md`](docs/ROADMAP.md)。
 
-规模速查（主题 / 谜题）：`95609a5` 3 / 7 → `31aaf1b` 15 / 40 → `c46b10c` / `de568d3` 16 / 46 → Package B **32 / 142** → Wave C **47 / 232**（朝 ~1000）。
+规模速查（主题 / 谜题）：`95609a5` 3 / 7 → `31aaf1b` 15 / 40 → `c46b10c` / `de568d3` 16 / 46 → Package B **32 / 142** → Wave C **47 / 232** → Wave D **62 / 322**（朝 ~1000）。
 
 ---
 
 ## [未发布 Unreleased]
+
+## 2026-10-07 — Wave D（地理/教育 + 户外/交通 + 软主题，待部署）
+
+### 新增 — Wave D 批量内容（+15 主题 / +90 谜题）
+- 对齐竞品公开主题目录（地理、人体、露营、交通、农场、湖山、学校、职业、友谊等 **主题名**），自写词表与网格。
+- **主题：** us-states、world-capitals、human-body、camping、horses、cars、trains、airplanes、farming、beach、mountains、lakes、school、jobs、friendship（各 6 题）。
+- `parentSlug`：horses → animals；beach → ocean。
+- 封面 / OG 暂借 travel / ocean / fall / animals / space / garden / bible / valentines。
+- **规模：** 主题 47→**62**，谜题 232→**322**（朝 ~1000）。
 
 ## 2026-10-07 — Wave C（节日二波 + 厨房/自然，已部署）
 

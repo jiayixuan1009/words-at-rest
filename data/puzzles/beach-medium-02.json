@@ -1,0 +1,284 @@
+{
+  "id": "beach-medium-02",
+  "slug": "beach-medium-02",
+  "themeId": "beach",
+  "title": "Beach: Sunset Walk",
+  "primaryKeyword": "beach word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BAREFOOT",
+    "BREEZE",
+    "DOCK",
+    "HEAT",
+    "HORIZON",
+    "LIGHTHOUSE",
+    "PIER",
+    "PRINT",
+    "QUIET",
+    "SALT",
+    "SPRAY",
+    "SUNSET",
+    "TWILIGHT",
+    "WALK"
+  ],
+  "grid": [
+    [
+      "X",
+      "I",
+      "D",
+      "M",
+      "K",
+      "V",
+      "D",
+      "O",
+      "C",
+      "K",
+      "Y",
+      "S"
+    ],
+    [
+      "N",
+      "P",
+      "L",
+      "T",
+      "W",
+      "I",
+      "L",
+      "I",
+      "G",
+      "H",
+      "T",
+      "Y"
+    ],
+    [
+      "W",
+      "I",
+      "I",
+      "E",
+      "P",
+      "C",
+      "L",
+      "T",
+      "V",
+      "K",
+      "S",
+      "T"
+    ],
+    [
+      "B",
+      "E",
+      "G",
+      "C",
+      "M",
+      "L",
+      "N",
+      "B",
+      "Z",
+      "O",
+      "E",
+      "E"
+    ],
+    [
+      "A",
+      "R",
+      "H",
+      "O",
+      "R",
+      "I",
+      "Z",
+      "O",
+      "N",
+      "S",
+      "Z",
+      "E"
+    ],
+    [
+      "R",
+      "D",
+      "T",
+      "Z",
+      "R",
+      "Z",
+      "W",
+      "I",
+      "N",
+      "E",
+      "Q",
+      "K"
+    ],
+    [
+      "E",
+      "D",
+      "H",
+      "P",
+      "J",
+      "F",
+      "S",
+      "U",
+      "E",
+      "R",
+      "W",
+      "C"
+    ],
+    [
+      "F",
+      "Q",
+      "O",
+      "M",
+      "V",
+      "E",
+      "S",
+      "R",
+      "W",
+      "I",
+      "S",
+      "S"
+    ],
+    [
+      "O",
+      "R",
+      "U",
+      "A",
+      "B",
+      "B",
+      "B",
+      "R",
+      "A",
+      "G",
+      "P",
+      "A"
+    ],
+    [
+      "O",
+      "G",
+      "S",
+      "I",
+      "H",
+      "E",
+      "A",
+      "T",
+      "L",
+      "P",
+      "R",
+      "L"
+    ],
+    [
+      "T",
+      "Q",
+      "E",
+      "M",
+      "E",
+      "I",
+      "W",
+      "R",
+      "K",
+      "K",
+      "A",
+      "T"
+    ],
+    [
+      "R",
+      "T",
+      "R",
+      "J",
+      "S",
+      "T",
+      "W",
+      "E",
+      "Z",
+      "C",
+      "Y",
+      "W"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "LIGHTHOUSE",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "TWILIGHT",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BAREFOOT",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "HORIZON",
+      "row": 4,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BREEZE",
+      "row": 8,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "SUNSET",
+      "row": 7,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "SPRAY",
+      "row": 7,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "PRINT",
+      "row": 6,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "QUIET",
+      "row": 7,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "HEAT",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SALT",
+      "row": 7,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "WALK",
+      "row": 7,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "PIER",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "DOCK",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8104
+}

@@ -1,0 +1,208 @@
+{
+  "id": "us-states-easy-01",
+  "slug": "us-states-easy-01",
+  "themeId": "us-states",
+  "title": "U.S. States: Coast & Plains",
+  "primaryKeyword": "us states word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "COAST",
+    "IDAHO",
+    "IOWA",
+    "MAINE",
+    "NEVADA",
+    "OHIO",
+    "OREGON",
+    "STATE",
+    "TEXAS",
+    "UTAH"
+  ],
+  "grid": [
+    [
+      "S",
+      "H",
+      "U",
+      "T",
+      "A",
+      "H",
+      "X",
+      "O",
+      "R",
+      "Z"
+    ],
+    [
+      "N",
+      "V",
+      "O",
+      "T",
+      "I",
+      "H",
+      "S",
+      "W",
+      "V",
+      "M"
+    ],
+    [
+      "G",
+      "T",
+      "H",
+      "E",
+      "O",
+      "Q",
+      "T",
+      "Z",
+      "H",
+      "Y"
+    ],
+    [
+      "Q",
+      "W",
+      "I",
+      "X",
+      "W",
+      "M",
+      "A",
+      "E",
+      "X",
+      "R"
+    ],
+    [
+      "I",
+      "S",
+      "O",
+      "A",
+      "A",
+      "K",
+      "T",
+      "X",
+      "X",
+      "J"
+    ],
+    [
+      "D",
+      "P",
+      "P",
+      "S",
+      "O",
+      "R",
+      "E",
+      "G",
+      "O",
+      "N"
+    ],
+    [
+      "A",
+      "U",
+      "Z",
+      "M",
+      "A",
+      "I",
+      "N",
+      "E",
+      "L",
+      "M"
+    ],
+    [
+      "H",
+      "O",
+      "T",
+      "G",
+      "Y",
+      "H",
+      "T",
+      "I",
+      "L",
+      "T"
+    ],
+    [
+      "O",
+      "N",
+      "E",
+      "V",
+      "A",
+      "D",
+      "A",
+      "F",
+      "Z",
+      "I"
+    ],
+    [
+      "X",
+      "U",
+      "S",
+      "P",
+      "F",
+      "C",
+      "O",
+      "A",
+      "S",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "NEVADA",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "OREGON",
+      "row": 5,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "TEXAS",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "MAINE",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "IDAHO",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "STATE",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "COAST",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "OHIO",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "IOWA",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "UTAH",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8011
+}

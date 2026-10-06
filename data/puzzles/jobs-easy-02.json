@@ -1,0 +1,208 @@
+{
+  "id": "jobs-easy-02",
+  "slug": "jobs-easy-02",
+  "themeId": "jobs",
+  "title": "Jobs: Quiet Desk",
+  "primaryKeyword": "jobs careers word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BAKER",
+    "CHEF",
+    "CLERK",
+    "FARM",
+    "GUARD",
+    "HELP",
+    "NURSE",
+    "PAY",
+    "PILOT",
+    "SKILL"
+  ],
+  "grid": [
+    [
+      "V",
+      "P",
+      "P",
+      "C",
+      "H",
+      "E",
+      "F",
+      "U",
+      "Q",
+      "G"
+    ],
+    [
+      "Q",
+      "B",
+      "S",
+      "E",
+      "M",
+      "T",
+      "S",
+      "Z",
+      "O",
+      "U"
+    ],
+    [
+      "B",
+      "A",
+      "K",
+      "E",
+      "R",
+      "Q",
+      "V",
+      "L",
+      "X",
+      "A"
+    ],
+    [
+      "R",
+      "L",
+      "I",
+      "W",
+      "N",
+      "U",
+      "R",
+      "S",
+      "E",
+      "R"
+    ],
+    [
+      "B",
+      "W",
+      "L",
+      "F",
+      "W",
+      "D",
+      "T",
+      "F",
+      "Q",
+      "D"
+    ],
+    [
+      "H",
+      "E",
+      "L",
+      "P",
+      "A",
+      "Y",
+      "R",
+      "A",
+      "N",
+      "L"
+    ],
+    [
+      "C",
+      "U",
+      "Y",
+      "R",
+      "R",
+      "B",
+      "F",
+      "R",
+      "M",
+      "R"
+    ],
+    [
+      "R",
+      "K",
+      "C",
+      "L",
+      "E",
+      "R",
+      "K",
+      "M",
+      "D",
+      "O"
+    ],
+    [
+      "J",
+      "S",
+      "P",
+      "I",
+      "L",
+      "O",
+      "T",
+      "Z",
+      "P",
+      "P"
+    ],
+    [
+      "X",
+      "B",
+      "Z",
+      "R",
+      "M",
+      "G",
+      "G",
+      "Y",
+      "B",
+      "G"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SKILL",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "NURSE",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BAKER",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "PILOT",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CLERK",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "GUARD",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "FARM",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "CHEF",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "HELP",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "PAY",
+      "row": 5,
+      "col": 3,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8142
+}

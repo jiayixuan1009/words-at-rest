@@ -1,0 +1,208 @@
+{
+  "id": "friendship-easy-01",
+  "slug": "friendship-easy-01",
+  "themeId": "friendship",
+  "title": "Friendship: Shared Tea",
+  "primaryKeyword": "friendship word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ALLY",
+    "CARD",
+    "CARE",
+    "CHAT",
+    "FRIEND",
+    "KIND",
+    "NOTE",
+    "PAL",
+    "VISIT",
+    "WARM"
+  ],
+  "grid": [
+    [
+      "P",
+      "W",
+      "A",
+      "R",
+      "M",
+      "V",
+      "S",
+      "V",
+      "L",
+      "C"
+    ],
+    [
+      "C",
+      "W",
+      "I",
+      "F",
+      "R",
+      "I",
+      "E",
+      "N",
+      "D",
+      "C"
+    ],
+    [
+      "A",
+      "F",
+      "A",
+      "L",
+      "L",
+      "Y",
+      "G",
+      "S",
+      "O",
+      "C"
+    ],
+    [
+      "R",
+      "G",
+      "U",
+      "O",
+      "B",
+      "W",
+      "H",
+      "R",
+      "T",
+      "A"
+    ],
+    [
+      "D",
+      "K",
+      "R",
+      "F",
+      "N",
+      "D",
+      "J",
+      "S",
+      "U",
+      "R"
+    ],
+    [
+      "V",
+      "I",
+      "S",
+      "I",
+      "T",
+      "F",
+      "Z",
+      "C",
+      "J",
+      "E"
+    ],
+    [
+      "N",
+      "O",
+      "T",
+      "E",
+      "F",
+      "X",
+      "U",
+      "H",
+      "K",
+      "G"
+    ],
+    [
+      "L",
+      "W",
+      "M",
+      "V",
+      "H",
+      "Q",
+      "L",
+      "A",
+      "I",
+      "H"
+    ],
+    [
+      "U",
+      "E",
+      "H",
+      "G",
+      "G",
+      "X",
+      "L",
+      "T",
+      "N",
+      "V"
+    ],
+    [
+      "M",
+      "E",
+      "X",
+      "U",
+      "O",
+      "P",
+      "A",
+      "L",
+      "D",
+      "S"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FRIEND",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "VISIT",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "ALLY",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "NOTE",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CARD",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CHAT",
+      "row": 5,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "CARE",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "KIND",
+      "row": 6,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "WARM",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PAL",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8151
+}

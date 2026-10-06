@@ -1,0 +1,208 @@
+{
+  "id": "world-capitals-easy-02",
+  "slug": "world-capitals-easy-02",
+  "themeId": "world-capitals",
+  "title": "World Capitals: Quiet Atlas",
+  "primaryKeyword": "world capitals word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ACCRA",
+    "ANKARA",
+    "ATHENS",
+    "DUBLIN",
+    "HAVANA",
+    "LAGOS",
+    "LONDON",
+    "MADRID",
+    "PRAGUE",
+    "SEOUL"
+  ],
+  "grid": [
+    [
+      "A",
+      "D",
+      "R",
+      "X",
+      "S",
+      "S",
+      "O",
+      "D",
+      "N",
+      "X"
+    ],
+    [
+      "C",
+      "S",
+      "Q",
+      "P",
+      "R",
+      "A",
+      "G",
+      "U",
+      "E",
+      "S"
+    ],
+    [
+      "C",
+      "E",
+      "L",
+      "O",
+      "N",
+      "D",
+      "O",
+      "N",
+      "L",
+      "F"
+    ],
+    [
+      "R",
+      "O",
+      "S",
+      "X",
+      "K",
+      "F",
+      "R",
+      "W",
+      "M",
+      "M"
+    ],
+    [
+      "A",
+      "U",
+      "N",
+      "D",
+      "U",
+      "B",
+      "L",
+      "I",
+      "N",
+      "O"
+    ],
+    [
+      "T",
+      "L",
+      "H",
+      "K",
+      "M",
+      "A",
+      "D",
+      "R",
+      "I",
+      "D"
+    ],
+    [
+      "H",
+      "D",
+      "X",
+      "E",
+      "A",
+      "N",
+      "K",
+      "A",
+      "R",
+      "A"
+    ],
+    [
+      "E",
+      "I",
+      "M",
+      "R",
+      "H",
+      "A",
+      "V",
+      "A",
+      "N",
+      "A"
+    ],
+    [
+      "N",
+      "L",
+      "A",
+      "G",
+      "O",
+      "S",
+      "I",
+      "Y",
+      "F",
+      "U"
+    ],
+    [
+      "S",
+      "R",
+      "M",
+      "W",
+      "J",
+      "P",
+      "O",
+      "G",
+      "U",
+      "A"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "LONDON",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "MADRID",
+      "row": 5,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "DUBLIN",
+      "row": 4,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "ATHENS",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "HAVANA",
+      "row": 7,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "ANKARA",
+      "row": 6,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "PRAGUE",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SEOUL",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "ACCRA",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "LAGOS",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8022
+}

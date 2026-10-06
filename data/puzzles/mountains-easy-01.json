@@ -1,0 +1,208 @@
+{
+  "id": "mountains-easy-01",
+  "slug": "mountains-easy-01",
+  "themeId": "mountains",
+  "title": "Mountains: Ridge Path",
+  "primaryKeyword": "mountains word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "HIKE",
+    "PASS",
+    "PATH",
+    "PEAK",
+    "RIDGE",
+    "ROCK",
+    "SLOPE",
+    "SNOW",
+    "TRAIL",
+    "VIEW"
+  ],
+  "grid": [
+    [
+      "L",
+      "E",
+      "Q",
+      "P",
+      "E",
+      "A",
+      "K",
+      "Z",
+      "G",
+      "S"
+    ],
+    [
+      "G",
+      "H",
+      "W",
+      "X",
+      "X",
+      "L",
+      "J",
+      "P",
+      "E",
+      "B"
+    ],
+    [
+      "N",
+      "I",
+      "Z",
+      "G",
+      "D",
+      "T",
+      "R",
+      "A",
+      "I",
+      "L"
+    ],
+    [
+      "P",
+      "K",
+      "S",
+      "L",
+      "O",
+      "P",
+      "E",
+      "I",
+      "J",
+      "T"
+    ],
+    [
+      "V",
+      "E",
+      "Q",
+      "L",
+      "L",
+      "N",
+      "Y",
+      "R",
+      "G",
+      "T"
+    ],
+    [
+      "I",
+      "M",
+      "H",
+      "O",
+      "P",
+      "R",
+      "Z",
+      "O",
+      "H",
+      "W"
+    ],
+    [
+      "E",
+      "R",
+      "H",
+      "E",
+      "A",
+      "I",
+      "P",
+      "C",
+      "F",
+      "U"
+    ],
+    [
+      "W",
+      "K",
+      "N",
+      "H",
+      "S",
+      "D",
+      "A",
+      "K",
+      "G",
+      "I"
+    ],
+    [
+      "Z",
+      "B",
+      "M",
+      "M",
+      "S",
+      "G",
+      "T",
+      "Z",
+      "F",
+      "S"
+    ],
+    [
+      "A",
+      "S",
+      "N",
+      "O",
+      "W",
+      "E",
+      "H",
+      "E",
+      "C",
+      "C"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "RIDGE",
+      "row": 5,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "SLOPE",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "TRAIL",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "PEAK",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "PASS",
+      "row": 5,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "PATH",
+      "row": 6,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "HIKE",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "ROCK",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SNOW",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "VIEW",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8111
+}

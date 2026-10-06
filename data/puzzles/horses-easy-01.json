@@ -1,0 +1,208 @@
+{
+  "id": "horses-easy-01",
+  "slug": "horses-easy-01",
+  "themeId": "horses",
+  "title": "Horses: Pasture Day",
+  "primaryKeyword": "horses word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BARN",
+    "FOAL",
+    "HAY",
+    "HERD",
+    "HORSE",
+    "MANE",
+    "MARE",
+    "OATS",
+    "PONY",
+    "TAIL"
+  ],
+  "grid": [
+    [
+      "R",
+      "N",
+      "Y",
+      "E",
+      "F",
+      "K",
+      "C",
+      "U",
+      "X",
+      "D"
+    ],
+    [
+      "R",
+      "I",
+      "P",
+      "X",
+      "G",
+      "G",
+      "T",
+      "J",
+      "W",
+      "L"
+    ],
+    [
+      "H",
+      "T",
+      "Y",
+      "P",
+      "Z",
+      "O",
+      "A",
+      "T",
+      "S",
+      "X"
+    ],
+    [
+      "Q",
+      "V",
+      "H",
+      "O",
+      "M",
+      "A",
+      "N",
+      "E",
+      "Z",
+      "M"
+    ],
+    [
+      "M",
+      "H",
+      "A",
+      "N",
+      "E",
+      "R",
+      "K",
+      "X",
+      "G",
+      "M"
+    ],
+    [
+      "A",
+      "A",
+      "Y",
+      "Y",
+      "L",
+      "V",
+      "O",
+      "H",
+      "G",
+      "T"
+    ],
+    [
+      "R",
+      "E",
+      "W",
+      "M",
+      "Z",
+      "F",
+      "M",
+      "E",
+      "T",
+      "A"
+    ],
+    [
+      "E",
+      "W",
+      "B",
+      "A",
+      "R",
+      "N",
+      "K",
+      "R",
+      "A",
+      "I"
+    ],
+    [
+      "O",
+      "G",
+      "H",
+      "O",
+      "R",
+      "S",
+      "E",
+      "D",
+      "V",
+      "L"
+    ],
+    [
+      "G",
+      "E",
+      "H",
+      "M",
+      "C",
+      "F",
+      "O",
+      "A",
+      "L",
+      "X"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "HORSE",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PONY",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "FOAL",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "MARE",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "HERD",
+      "row": 5,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "BARN",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "OATS",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "MANE",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "TAIL",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "HAY",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8051
+}

@@ -1,0 +1,208 @@
+{
+  "id": "horses-easy-02",
+  "slug": "horses-easy-02",
+  "themeId": "horses",
+  "title": "Horses: Barn Quiet",
+  "primaryKeyword": "horses word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "COAT",
+    "COLT",
+    "FILLY",
+    "GATE",
+    "LEAD",
+    "RIDE",
+    "STALL",
+    "SUN",
+    "TROT",
+    "WALK"
+  ],
+  "grid": [
+    [
+      "B",
+      "W",
+      "W",
+      "A",
+      "L",
+      "K",
+      "Z",
+      "J",
+      "C",
+      "K"
+    ],
+    [
+      "P",
+      "M",
+      "F",
+      "V",
+      "H",
+      "S",
+      "C",
+      "O",
+      "A",
+      "T"
+    ],
+    [
+      "R",
+      "I",
+      "I",
+      "K",
+      "E",
+      "C",
+      "A",
+      "T",
+      "I",
+      "J"
+    ],
+    [
+      "W",
+      "Y",
+      "L",
+      "R",
+      "S",
+      "C",
+      "O",
+      "L",
+      "T",
+      "W"
+    ],
+    [
+      "U",
+      "N",
+      "L",
+      "O",
+      "B",
+      "U",
+      "C",
+      "H",
+      "C",
+      "L"
+    ],
+    [
+      "G",
+      "F",
+      "Y",
+      "Z",
+      "D",
+      "L",
+      "E",
+      "A",
+      "D",
+      "B"
+    ],
+    [
+      "A",
+      "S",
+      "T",
+      "A",
+      "L",
+      "L",
+      "X",
+      "P",
+      "F",
+      "R"
+    ],
+    [
+      "T",
+      "W",
+      "S",
+      "U",
+      "N",
+      "A",
+      "O",
+      "K",
+      "O",
+      "X"
+    ],
+    [
+      "E",
+      "E",
+      "J",
+      "X",
+      "Y",
+      "J",
+      "X",
+      "Y",
+      "Z",
+      "F"
+    ],
+    [
+      "X",
+      "E",
+      "R",
+      "I",
+      "D",
+      "E",
+      "T",
+      "R",
+      "O",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FILLY",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "STALL",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "COLT",
+      "row": 3,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "GATE",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "TROT",
+      "row": 9,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "WALK",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "RIDE",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "LEAD",
+      "row": 5,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "COAT",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "SUN",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8052
+}

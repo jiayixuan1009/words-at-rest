@@ -1,0 +1,208 @@
+{
+  "id": "farming-easy-01",
+  "slug": "farming-easy-01",
+  "themeId": "farming",
+  "title": "Farming: Field Dawn",
+  "primaryKeyword": "farming word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BARN",
+    "CORN",
+    "COW",
+    "CROP",
+    "FARM",
+    "FIELD",
+    "HAY",
+    "HEN",
+    "SEED",
+    "SOIL"
+  ],
+  "grid": [
+    [
+      "X",
+      "L",
+      "C",
+      "O",
+      "R",
+      "N",
+      "N",
+      "B",
+      "J",
+      "Y"
+    ],
+    [
+      "D",
+      "H",
+      "A",
+      "Y",
+      "C",
+      "N",
+      "S",
+      "S",
+      "N",
+      "G"
+    ],
+    [
+      "R",
+      "E",
+      "X",
+      "V",
+      "O",
+      "K",
+      "L",
+      "O",
+      "L",
+      "N"
+    ],
+    [
+      "B",
+      "N",
+      "R",
+      "I",
+      "W",
+      "A",
+      "A",
+      "I",
+      "F",
+      "K"
+    ],
+    [
+      "A",
+      "B",
+      "B",
+      "E",
+      "J",
+      "F",
+      "V",
+      "L",
+      "A",
+      "R"
+    ],
+    [
+      "R",
+      "H",
+      "G",
+      "V",
+      "R",
+      "I",
+      "B",
+      "C",
+      "R",
+      "C"
+    ],
+    [
+      "N",
+      "U",
+      "E",
+      "M",
+      "A",
+      "E",
+      "B",
+      "Y",
+      "M",
+      "R"
+    ],
+    [
+      "H",
+      "Y",
+      "A",
+      "W",
+      "T",
+      "L",
+      "U",
+      "P",
+      "M",
+      "O"
+    ],
+    [
+      "E",
+      "D",
+      "W",
+      "Z",
+      "Y",
+      "D",
+      "Q",
+      "J",
+      "Y",
+      "P"
+    ],
+    [
+      "W",
+      "A",
+      "O",
+      "G",
+      "U",
+      "S",
+      "E",
+      "E",
+      "D",
+      "F"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FIELD",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "FARM",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "SOIL",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SEED",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "CROP",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "BARN",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CORN",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "HAY",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "COW",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "HEN",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8091
+}

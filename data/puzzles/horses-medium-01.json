@@ -1,0 +1,284 @@
+{
+  "id": "horses-medium-01",
+  "slug": "horses-medium-01",
+  "themeId": "horses",
+  "title": "Horses: Saddle Up",
+  "primaryKeyword": "horses word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BRIDLE",
+    "CANTER",
+    "FENCE",
+    "GALLOP",
+    "HOOF",
+    "JUMP",
+    "PADDOCK",
+    "PASTURE",
+    "REIN",
+    "SADDLE",
+    "STABLE",
+    "STALLION",
+    "TRAIL",
+    "TROUGH"
+  ],
+  "grid": [
+    [
+      "U",
+      "D",
+      "Z",
+      "P",
+      "B",
+      "H",
+      "O",
+      "O",
+      "F",
+      "O",
+      "Z",
+      "S"
+    ],
+    [
+      "W",
+      "K",
+      "W",
+      "C",
+      "A",
+      "T",
+      "R",
+      "O",
+      "U",
+      "G",
+      "H",
+      "A"
+    ],
+    [
+      "V",
+      "I",
+      "S",
+      "A",
+      "B",
+      "S",
+      "F",
+      "R",
+      "E",
+      "I",
+      "N",
+      "D"
+    ],
+    [
+      "P",
+      "U",
+      "T",
+      "N",
+      "R",
+      "V",
+      "T",
+      "B",
+      "V",
+      "I",
+      "X",
+      "D"
+    ],
+    [
+      "Y",
+      "G",
+      "A",
+      "T",
+      "I",
+      "Q",
+      "I",
+      "U",
+      "M",
+      "L",
+      "Y",
+      "L"
+    ],
+    [
+      "U",
+      "A",
+      "L",
+      "E",
+      "D",
+      "Z",
+      "R",
+      "R",
+      "R",
+      "Y",
+      "Z",
+      "E"
+    ],
+    [
+      "F",
+      "L",
+      "L",
+      "R",
+      "L",
+      "J",
+      "I",
+      "Z",
+      "K",
+      "E",
+      "C",
+      "O"
+    ],
+    [
+      "N",
+      "L",
+      "I",
+      "Q",
+      "E",
+      "J",
+      "U",
+      "M",
+      "P",
+      "L",
+      "Q",
+      "U"
+    ],
+    [
+      "E",
+      "O",
+      "O",
+      "P",
+      "A",
+      "D",
+      "D",
+      "O",
+      "C",
+      "K",
+      "P",
+      "Q"
+    ],
+    [
+      "X",
+      "P",
+      "N",
+      "F",
+      "P",
+      "L",
+      "I",
+      "J",
+      "W",
+      "X",
+      "R",
+      "V"
+    ],
+    [
+      "X",
+      "J",
+      "B",
+      "Q",
+      "D",
+      "O",
+      "F",
+      "E",
+      "N",
+      "C",
+      "E",
+      "S"
+    ],
+    [
+      "T",
+      "R",
+      "A",
+      "I",
+      "L",
+      "L",
+      "S",
+      "T",
+      "A",
+      "B",
+      "L",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "STALLION",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "PASTURE",
+      "row": 0,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "PADDOCK",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "STABLE",
+      "row": 11,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "TROUGH",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SADDLE",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "BRIDLE",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "GALLOP",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "CANTER",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "TRAIL",
+      "row": 11,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "FENCE",
+      "row": 10,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "REIN",
+      "row": 2,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "HOOF",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "JUMP",
+      "row": 7,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8053
+}

@@ -1,0 +1,284 @@
+{
+  "id": "us-states-medium-01",
+  "slug": "us-states-medium-01",
+  "themeId": "us-states",
+  "title": "U.S. States: Border Roads",
+  "primaryKeyword": "us states word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ALABAMA",
+    "ARIZONA",
+    "CAPITAL",
+    "COLORADO",
+    "ILLINOIS",
+    "INDIANA",
+    "KENTUCKY",
+    "MICHIGAN",
+    "OKLAHOMA",
+    "REGION",
+    "TENNESSEE",
+    "VIRGINIA",
+    "WISCONSIN",
+    "WYOMING"
+  ],
+  "grid": [
+    [
+      "V",
+      "W",
+      "R",
+      "K",
+      "E",
+      "N",
+      "T",
+      "U",
+      "C",
+      "K",
+      "Y",
+      "V"
+    ],
+    [
+      "F",
+      "T",
+      "I",
+      "E",
+      "Y",
+      "P",
+      "G",
+      "Y",
+      "A",
+      "A",
+      "X",
+      "I"
+    ],
+    [
+      "X",
+      "C",
+      "E",
+      "S",
+      "G",
+      "E",
+      "H",
+      "X",
+      "P",
+      "R",
+      "O",
+      "R"
+    ],
+    [
+      "W",
+      "O",
+      "I",
+      "N",
+      "C",
+      "I",
+      "Z",
+      "L",
+      "I",
+      "I",
+      "K",
+      "G"
+    ],
+    [
+      "Y",
+      "L",
+      "N",
+      "R",
+      "N",
+      "O",
+      "O",
+      "Z",
+      "T",
+      "Z",
+      "L",
+      "I"
+    ],
+    [
+      "O",
+      "O",
+      "D",
+      "W",
+      "F",
+      "E",
+      "N",
+      "N",
+      "A",
+      "O",
+      "A",
+      "N"
+    ],
+    [
+      "M",
+      "R",
+      "I",
+      "L",
+      "I",
+      "Y",
+      "S",
+      "S",
+      "L",
+      "N",
+      "H",
+      "I"
+    ],
+    [
+      "I",
+      "A",
+      "A",
+      "G",
+      "B",
+      "S",
+      "R",
+      "S",
+      "I",
+      "A",
+      "O",
+      "A"
+    ],
+    [
+      "N",
+      "D",
+      "N",
+      "B",
+      "Y",
+      "L",
+      "A",
+      "W",
+      "E",
+      "N",
+      "M",
+      "H"
+    ],
+    [
+      "G",
+      "O",
+      "A",
+      "L",
+      "A",
+      "B",
+      "A",
+      "M",
+      "A",
+      "E",
+      "A",
+      "K"
+    ],
+    [
+      "F",
+      "I",
+      "Z",
+      "D",
+      "I",
+      "L",
+      "L",
+      "I",
+      "N",
+      "O",
+      "I",
+      "S"
+    ],
+    [
+      "T",
+      "M",
+      "I",
+      "C",
+      "H",
+      "I",
+      "G",
+      "A",
+      "N",
+      "L",
+      "A",
+      "C"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TENNESSEE",
+      "row": 1,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "WISCONSIN",
+      "row": 0,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "COLORADO",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "MICHIGAN",
+      "row": 11,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "VIRGINIA",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "ILLINOIS",
+      "row": 10,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "KENTUCKY",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "OKLAHOMA",
+      "row": 2,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "ALABAMA",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ARIZONA",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "WYOMING",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "INDIANA",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "CAPITAL",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "REGION",
+      "row": 0,
+      "col": 2,
+      "direction": "SE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8013
+}

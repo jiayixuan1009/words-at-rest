@@ -1,0 +1,173 @@
+{
+  "id": "trains-large-01",
+  "slug": "trains-large-01",
+  "themeId": "trains",
+  "title": "Large Print Trains: Soft Rail",
+  "primaryKeyword": "large print trains word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BELL",
+    "CAB",
+    "CREW",
+    "LINE",
+    "RAIL",
+    "STOP",
+    "TRACK",
+    "TRAIN"
+  ],
+  "grid": [
+    [
+      "X",
+      "A",
+      "C",
+      "E",
+      "U",
+      "T",
+      "C",
+      "A",
+      "B"
+    ],
+    [
+      "V",
+      "T",
+      "R",
+      "A",
+      "I",
+      "N",
+      "H",
+      "A",
+      "H"
+    ],
+    [
+      "Z",
+      "G",
+      "Q",
+      "H",
+      "D",
+      "C",
+      "R",
+      "H",
+      "Z"
+    ],
+    [
+      "M",
+      "Y",
+      "D",
+      "M",
+      "R",
+      "R",
+      "E",
+      "M",
+      "T"
+    ],
+    [
+      "L",
+      "I",
+      "N",
+      "E",
+      "S",
+      "E",
+      "Z",
+      "G",
+      "R"
+    ],
+    [
+      "F",
+      "N",
+      "O",
+      "L",
+      "T",
+      "W",
+      "D",
+      "E",
+      "A"
+    ],
+    [
+      "B",
+      "E",
+      "L",
+      "L",
+      "O",
+      "I",
+      "O",
+      "I",
+      "C"
+    ],
+    [
+      "T",
+      "F",
+      "W",
+      "H",
+      "P",
+      "Y",
+      "R",
+      "O",
+      "K"
+    ],
+    [
+      "C",
+      "M",
+      "M",
+      "R",
+      "A",
+      "I",
+      "L",
+      "N",
+      "X"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TRAIN",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TRACK",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "RAIL",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "STOP",
+      "row": 4,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "LINE",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BELL",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CREW",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "CAB",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8076
+}

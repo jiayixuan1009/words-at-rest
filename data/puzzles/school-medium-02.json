@@ -1,0 +1,284 @@
+{
+  "id": "school-medium-02",
+  "slug": "school-medium-02",
+  "themeId": "school",
+  "title": "School: Library Shelf",
+  "primaryKeyword": "school word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BINDER",
+    "CLOCK",
+    "FOLDER",
+    "GLOBE",
+    "HOMEWORK",
+    "LIBRARY",
+    "NOTES",
+    "PUPIL",
+    "RECESS",
+    "SCHOOL",
+    "SEMESTER",
+    "SHELF",
+    "STUDY",
+    "TERM"
+  ],
+  "grid": [
+    [
+      "G",
+      "B",
+      "I",
+      "N",
+      "D",
+      "E",
+      "R",
+      "R",
+      "T",
+      "O",
+      "H",
+      "E"
+    ],
+    [
+      "S",
+      "C",
+      "H",
+      "O",
+      "O",
+      "L",
+      "N",
+      "F",
+      "Z",
+      "M",
+      "Z",
+      "R"
+    ],
+    [
+      "P",
+      "Y",
+      "N",
+      "L",
+      "H",
+      "A",
+      "O",
+      "O",
+      "H",
+      "A",
+      "S",
+      "C"
+    ],
+    [
+      "U",
+      "J",
+      "M",
+      "I",
+      "Z",
+      "E",
+      "T",
+      "L",
+      "T",
+      "H",
+      "E",
+      "M"
+    ],
+    [
+      "P",
+      "U",
+      "H",
+      "B",
+      "R",
+      "Y",
+      "E",
+      "D",
+      "R",
+      "O",
+      "M",
+      "C"
+    ],
+    [
+      "I",
+      "V",
+      "A",
+      "R",
+      "E",
+      "Z",
+      "S",
+      "E",
+      "I",
+      "M",
+      "E",
+      "L"
+    ],
+    [
+      "L",
+      "K",
+      "F",
+      "A",
+      "C",
+      "S",
+      "G",
+      "R",
+      "B",
+      "E",
+      "S",
+      "O"
+    ],
+    [
+      "U",
+      "W",
+      "Y",
+      "R",
+      "E",
+      "T",
+      "K",
+      "U",
+      "Z",
+      "W",
+      "T",
+      "C"
+    ],
+    [
+      "E",
+      "A",
+      "C",
+      "Y",
+      "S",
+      "U",
+      "C",
+      "K",
+      "F",
+      "O",
+      "E",
+      "K"
+    ],
+    [
+      "R",
+      "P",
+      "B",
+      "T",
+      "S",
+      "D",
+      "E",
+      "Q",
+      "Z",
+      "R",
+      "R",
+      "J"
+    ],
+    [
+      "S",
+      "H",
+      "E",
+      "L",
+      "F",
+      "Y",
+      "U",
+      "Y",
+      "M",
+      "K",
+      "O",
+      "U"
+    ],
+    [
+      "R",
+      "W",
+      "B",
+      "G",
+      "L",
+      "O",
+      "B",
+      "E",
+      "T",
+      "E",
+      "R",
+      "M"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "HOMEWORK",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SEMESTER",
+      "row": 2,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "LIBRARY",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "RECESS",
+      "row": 4,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "FOLDER",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "BINDER",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SCHOOL",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "STUDY",
+      "row": 6,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "SHELF",
+      "row": 10,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "GLOBE",
+      "row": 11,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "CLOCK",
+      "row": 4,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "NOTES",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "PUPIL",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "TERM",
+      "row": 11,
+      "col": 8,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8134
+}

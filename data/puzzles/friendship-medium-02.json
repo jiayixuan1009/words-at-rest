@@ -1,0 +1,284 @@
+{
+  "id": "friendship-medium-02",
+  "slug": "friendship-medium-02",
+  "themeId": "friendship",
+  "title": "Friendship: Warm Visit",
+  "primaryKeyword": "friendship word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BOND",
+    "CIRCLE",
+    "HAND",
+    "HEART",
+    "HOME",
+    "HOPE",
+    "HUG",
+    "MEMORY",
+    "STORY",
+    "TABLE",
+    "TEA",
+    "TIE",
+    "TIME",
+    "WALK"
+  ],
+  "grid": [
+    [
+      "B",
+      "M",
+      "E",
+      "M",
+      "O",
+      "R",
+      "Y",
+      "R",
+      "O",
+      "Y",
+      "Z",
+      "T"
+    ],
+    [
+      "U",
+      "Z",
+      "T",
+      "K",
+      "N",
+      "L",
+      "Z",
+      "Q",
+      "R",
+      "P",
+      "B",
+      "D"
+    ],
+    [
+      "Y",
+      "K",
+      "S",
+      "W",
+      "A",
+      "L",
+      "K",
+      "O",
+      "X",
+      "O",
+      "N",
+      "X"
+    ],
+    [
+      "B",
+      "T",
+      "R",
+      "C",
+      "N",
+      "P",
+      "T",
+      "I",
+      "G",
+      "A",
+      "E",
+      "P"
+    ],
+    [
+      "T",
+      "K",
+      "I",
+      "D",
+      "I",
+      "S",
+      "X",
+      "D",
+      "H",
+      "M",
+      "Z",
+      "C"
+    ],
+    [
+      "I",
+      "I",
+      "V",
+      "M",
+      "E",
+      "R",
+      "N",
+      "Z",
+      "O",
+      "Q",
+      "U",
+      "F"
+    ],
+    [
+      "U",
+      "J",
+      "E",
+      "V",
+      "E",
+      "O",
+      "C",
+      "H",
+      "M",
+      "D",
+      "N",
+      "B"
+    ],
+    [
+      "H",
+      "M",
+      "H",
+      "T",
+      "B",
+      "A",
+      "T",
+      "L",
+      "H",
+      "N",
+      "H",
+      "P"
+    ],
+    [
+      "S",
+      "U",
+      "Q",
+      "O",
+      "E",
+      "W",
+      "A",
+      "L",
+      "E",
+      "R",
+      "E",
+      "H"
+    ],
+    [
+      "Y",
+      "Z",
+      "G",
+      "V",
+      "P",
+      "A",
+      "B",
+      "O",
+      "O",
+      "A",
+      "A",
+      "O"
+    ],
+    [
+      "C",
+      "J",
+      "U",
+      "R",
+      "T",
+      "E",
+      "L",
+      "I",
+      "V",
+      "V",
+      "R",
+      "U"
+    ],
+    [
+      "S",
+      "X",
+      "Q",
+      "K",
+      "M",
+      "R",
+      "E",
+      "G",
+      "S",
+      "T",
+      "T",
+      "Z"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "MEMORY",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CIRCLE",
+      "row": 3,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "STORY",
+      "row": 4,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "TABLE",
+      "row": 7,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "HEART",
+      "row": 7,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "TIME",
+      "row": 3,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "WALK",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "HOME",
+      "row": 6,
+      "col": 7,
+      "direction": "NE"
+    },
+    {
+      "word": "HAND",
+      "row": 4,
+      "col": 8,
+      "direction": "NE"
+    },
+    {
+      "word": "BOND",
+      "row": 7,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "HOPE",
+      "row": 7,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "TEA",
+      "row": 7,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "HUG",
+      "row": 7,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "TIE",
+      "row": 4,
+      "col": 0,
+      "direction": "SE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8154
+}

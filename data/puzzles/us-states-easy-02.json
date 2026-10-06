@@ -1,0 +1,208 @@
+{
+  "id": "us-states-easy-02",
+  "slug": "us-states-easy-02",
+  "themeId": "us-states",
+  "title": "U.S. States: Quiet Map",
+  "primaryKeyword": "us states word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ALASKA",
+    "BORDER",
+    "DESERT",
+    "FLORIDA",
+    "GEORGIA",
+    "HAWAII",
+    "KANSAS",
+    "MONTANA",
+    "PLAINS",
+    "VALLEY"
+  ],
+  "grid": [
+    [
+      "M",
+      "P",
+      "H",
+      "J",
+      "B",
+      "C",
+      "G",
+      "K",
+      "V",
+      "D"
+    ],
+    [
+      "M",
+      "L",
+      "A",
+      "A",
+      "O",
+      "D",
+      "B",
+      "U",
+      "A",
+      "E"
+    ],
+    [
+      "O",
+      "A",
+      "W",
+      "F",
+      "R",
+      "K",
+      "G",
+      "O",
+      "L",
+      "S"
+    ],
+    [
+      "N",
+      "I",
+      "A",
+      "F",
+      "D",
+      "A",
+      "E",
+      "A",
+      "L",
+      "E"
+    ],
+    [
+      "T",
+      "N",
+      "I",
+      "U",
+      "E",
+      "N",
+      "O",
+      "L",
+      "E",
+      "R"
+    ],
+    [
+      "A",
+      "S",
+      "I",
+      "D",
+      "R",
+      "S",
+      "R",
+      "A",
+      "Y",
+      "T"
+    ],
+    [
+      "N",
+      "L",
+      "U",
+      "M",
+      "G",
+      "A",
+      "G",
+      "S",
+      "V",
+      "V"
+    ],
+    [
+      "A",
+      "J",
+      "M",
+      "H",
+      "Q",
+      "S",
+      "I",
+      "K",
+      "O",
+      "L"
+    ],
+    [
+      "I",
+      "C",
+      "H",
+      "P",
+      "C",
+      "W",
+      "A",
+      "A",
+      "J",
+      "S"
+    ],
+    [
+      "B",
+      "L",
+      "F",
+      "L",
+      "O",
+      "R",
+      "I",
+      "D",
+      "A",
+      "A"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FLORIDA",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "GEORGIA",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "MONTANA",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "KANSAS",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "ALASKA",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "HAWAII",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "BORDER",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "PLAINS",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "VALLEY",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "DESERT",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8012
+}

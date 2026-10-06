@@ -1,0 +1,208 @@
+{
+  "id": "farming-easy-02",
+  "slug": "farming-easy-02",
+  "themeId": "farming",
+  "title": "Farming: Barn Chore",
+  "primaryKeyword": "farming word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ACRE",
+    "EGG",
+    "GATE",
+    "MILK",
+    "OATS",
+    "PIG",
+    "PLOW",
+    "ROW",
+    "SILO",
+    "SUN"
+  ],
+  "grid": [
+    [
+      "N",
+      "B",
+      "X",
+      "Z",
+      "R",
+      "B",
+      "M",
+      "I",
+      "L",
+      "K"
+    ],
+    [
+      "O",
+      "A",
+      "T",
+      "S",
+      "S",
+      "B",
+      "A",
+      "C",
+      "R",
+      "E"
+    ],
+    [
+      "G",
+      "S",
+      "I",
+      "E",
+      "G",
+      "G",
+      "U",
+      "N",
+      "S",
+      "G"
+    ],
+    [
+      "A",
+      "Z",
+      "O",
+      "T",
+      "B",
+      "Z",
+      "B",
+      "H",
+      "Q",
+      "Q"
+    ],
+    [
+      "T",
+      "P",
+      "W",
+      "P",
+      "I",
+      "G",
+      "D",
+      "B",
+      "U",
+      "N"
+    ],
+    [
+      "E",
+      "L",
+      "S",
+      "I",
+      "K",
+      "P",
+      "F",
+      "H",
+      "S",
+      "D"
+    ],
+    [
+      "K",
+      "O",
+      "I",
+      "S",
+      "S",
+      "H",
+      "T",
+      "Q",
+      "D",
+      "V"
+    ],
+    [
+      "D",
+      "W",
+      "L",
+      "U",
+      "E",
+      "C",
+      "T",
+      "T",
+      "K",
+      "S"
+    ],
+    [
+      "J",
+      "S",
+      "O",
+      "N",
+      "E",
+      "E",
+      "V",
+      "C",
+      "C",
+      "V"
+    ],
+    [
+      "R",
+      "O",
+      "W",
+      "N",
+      "M",
+      "N",
+      "R",
+      "I",
+      "S",
+      "V"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ACRE",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "PLOW",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SILO",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "OATS",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "MILK",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "GATE",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "PIG",
+      "row": 4,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "EGG",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "ROW",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SUN",
+      "row": 6,
+      "col": 3,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8092
+}

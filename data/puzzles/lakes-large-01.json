@@ -1,0 +1,173 @@
+{
+  "id": "lakes-large-01",
+  "slug": "lakes-large-01",
+  "themeId": "lakes",
+  "title": "Large Print Lakes: Soft Calm",
+  "primaryKeyword": "large print lakes word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BOAT",
+    "CALM",
+    "DOCK",
+    "FISH",
+    "LAKE",
+    "POND",
+    "SHORE",
+    "SWIM"
+  ],
+  "grid": [
+    [
+      "X",
+      "B",
+      "N",
+      "T",
+      "K",
+      "U",
+      "D",
+      "G",
+      "C"
+    ],
+    [
+      "Q",
+      "S",
+      "W",
+      "I",
+      "M",
+      "P",
+      "U",
+      "U",
+      "A"
+    ],
+    [
+      "N",
+      "B",
+      "O",
+      "A",
+      "T",
+      "O",
+      "F",
+      "W",
+      "L"
+    ],
+    [
+      "P",
+      "P",
+      "D",
+      "G",
+      "I",
+      "N",
+      "N",
+      "V",
+      "M"
+    ],
+    [
+      "S",
+      "E",
+      "X",
+      "M",
+      "K",
+      "D",
+      "D",
+      "P",
+      "C"
+    ],
+    [
+      "H",
+      "O",
+      "L",
+      "G",
+      "N",
+      "Y",
+      "O",
+      "L",
+      "F"
+    ],
+    [
+      "O",
+      "J",
+      "A",
+      "W",
+      "K",
+      "G",
+      "C",
+      "L",
+      "I"
+    ],
+    [
+      "R",
+      "Z",
+      "K",
+      "R",
+      "B",
+      "E",
+      "K",
+      "J",
+      "S"
+    ],
+    [
+      "E",
+      "J",
+      "E",
+      "Z",
+      "W",
+      "I",
+      "S",
+      "S",
+      "H"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SHORE",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "LAKE",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "POND",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "DOCK",
+      "row": 4,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "BOAT",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "FISH",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "SWIM",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CALM",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8126
+}

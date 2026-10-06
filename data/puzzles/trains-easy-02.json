@@ -1,0 +1,208 @@
+{
+  "id": "trains-easy-02",
+  "slug": "trains-easy-02",
+  "themeId": "trains",
+  "title": "Trains: Quiet Coach",
+  "primaryKeyword": "trains word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BOARD",
+    "CAB",
+    "DEPOT",
+    "ENGINE",
+    "LOCAL",
+    "ROUTE",
+    "SMOKE",
+    "STEAM",
+    "WHEEL",
+    "YARD"
+  ],
+  "grid": [
+    [
+      "B",
+      "K",
+      "S",
+      "T",
+      "E",
+      "A",
+      "M",
+      "T",
+      "G",
+      "K"
+    ],
+    [
+      "W",
+      "P",
+      "R",
+      "S",
+      "E",
+      "N",
+      "G",
+      "I",
+      "N",
+      "E"
+    ],
+    [
+      "A",
+      "S",
+      "O",
+      "J",
+      "G",
+      "A",
+      "F",
+      "Y",
+      "M",
+      "J"
+    ],
+    [
+      "Z",
+      "V",
+      "U",
+      "S",
+      "M",
+      "O",
+      "K",
+      "E",
+      "S",
+      "E"
+    ],
+    [
+      "R",
+      "C",
+      "T",
+      "W",
+      "H",
+      "E",
+      "E",
+      "L",
+      "Y",
+      "H"
+    ],
+    [
+      "I",
+      "D",
+      "E",
+      "P",
+      "O",
+      "T",
+      "M",
+      "I",
+      "C",
+      "C"
+    ],
+    [
+      "I",
+      "Q",
+      "J",
+      "C",
+      "A",
+      "B",
+      "T",
+      "D",
+      "A",
+      "P"
+    ],
+    [
+      "K",
+      "P",
+      "H",
+      "D",
+      "J",
+      "B",
+      "O",
+      "A",
+      "R",
+      "D"
+    ],
+    [
+      "O",
+      "C",
+      "C",
+      "N",
+      "N",
+      "L",
+      "O",
+      "C",
+      "A",
+      "L"
+    ],
+    [
+      "W",
+      "R",
+      "Y",
+      "A",
+      "R",
+      "D",
+      "O",
+      "I",
+      "F",
+      "X"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ENGINE",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "DEPOT",
+      "row": 5,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SMOKE",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "STEAM",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "LOCAL",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "BOARD",
+      "row": 7,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "ROUTE",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "WHEEL",
+      "row": 4,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "YARD",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CAB",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8072
+}

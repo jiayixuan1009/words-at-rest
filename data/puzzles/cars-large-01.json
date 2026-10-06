@@ -1,0 +1,173 @@
+{
+  "id": "cars-large-01",
+  "slug": "cars-large-01",
+  "themeId": "cars",
+  "title": "Large Print Cars: Soft Lane",
+  "primaryKeyword": "large print cars word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "CAR",
+    "DOOR",
+    "KEY",
+    "LANE",
+    "PARK",
+    "ROAD",
+    "SEAT",
+    "TIRE"
+  ],
+  "grid": [
+    [
+      "N",
+      "O",
+      "A",
+      "U",
+      "C",
+      "S",
+      "U",
+      "R",
+      "P"
+    ],
+    [
+      "P",
+      "J",
+      "D",
+      "X",
+      "S",
+      "K",
+      "U",
+      "Y",
+      "G"
+    ],
+    [
+      "A",
+      "X",
+      "O",
+      "C",
+      "E",
+      "P",
+      "B",
+      "L",
+      "M"
+    ],
+    [
+      "R",
+      "W",
+      "O",
+      "A",
+      "A",
+      "S",
+      "E",
+      "A",
+      "R"
+    ],
+    [
+      "K",
+      "H",
+      "R",
+      "R",
+      "T",
+      "E",
+      "G",
+      "N",
+      "I"
+    ],
+    [
+      "L",
+      "D",
+      "N",
+      "T",
+      "I",
+      "R",
+      "E",
+      "E",
+      "R"
+    ],
+    [
+      "U",
+      "Y",
+      "P",
+      "P",
+      "D",
+      "M",
+      "R",
+      "T",
+      "O"
+    ],
+    [
+      "I",
+      "S",
+      "T",
+      "Z",
+      "C",
+      "H",
+      "N",
+      "P",
+      "A"
+    ],
+    [
+      "K",
+      "S",
+      "S",
+      "D",
+      "O",
+      "K",
+      "E",
+      "Y",
+      "D"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TIRE",
+      "row": 5,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "DOOR",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "SEAT",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "ROAD",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "PARK",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "LANE",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "CAR",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "KEY",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8066
+}

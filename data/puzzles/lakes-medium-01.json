@@ -1,0 +1,284 @@
+{
+  "id": "lakes-medium-01",
+  "slug": "lakes-medium-01",
+  "themeId": "lakes",
+  "title": "Lakes: Canoe Morning",
+  "primaryKeyword": "lakes word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BAY",
+    "CANOE",
+    "COVE",
+    "FROG",
+    "INLET",
+    "ISLAND",
+    "KAYAK",
+    "LILY",
+    "OUTLET",
+    "PADDLE",
+    "REED",
+    "RIVER",
+    "SPLASH",
+    "STREAM"
+  ],
+  "grid": [
+    [
+      "I",
+      "K",
+      "G",
+      "O",
+      "C",
+      "U",
+      "A",
+      "W",
+      "C",
+      "F",
+      "P",
+      "K"
+    ],
+    [
+      "N",
+      "A",
+      "O",
+      "O",
+      "R",
+      "E",
+      "E",
+      "D",
+      "H",
+      "D",
+      "A",
+      "U"
+    ],
+    [
+      "L",
+      "Y",
+      "K",
+      "S",
+      "T",
+      "R",
+      "E",
+      "A",
+      "M",
+      "O",
+      "G",
+      "J"
+    ],
+    [
+      "E",
+      "A",
+      "R",
+      "I",
+      "V",
+      "E",
+      "R",
+      "J",
+      "G",
+      "E",
+      "K",
+      "A"
+    ],
+    [
+      "T",
+      "K",
+      "R",
+      "V",
+      "K",
+      "J",
+      "S",
+      "P",
+      "L",
+      "A",
+      "S",
+      "H"
+    ],
+    [
+      "K",
+      "R",
+      "V",
+      "M",
+      "F",
+      "Q",
+      "R",
+      "U",
+      "C",
+      "M",
+      "E",
+      "L"
+    ],
+    [
+      "Y",
+      "P",
+      "A",
+      "D",
+      "D",
+      "L",
+      "E",
+      "X",
+      "M",
+      "O",
+      "G",
+      "X"
+    ],
+    [
+      "Z",
+      "O",
+      "U",
+      "T",
+      "L",
+      "E",
+      "T",
+      "Y",
+      "N",
+      "O",
+      "V",
+      "N"
+    ],
+    [
+      "L",
+      "M",
+      "U",
+      "P",
+      "L",
+      "M",
+      "A",
+      "A",
+      "R",
+      "N",
+      "D",
+      "E"
+    ],
+    [
+      "L",
+      "I",
+      "L",
+      "Y",
+      "D",
+      "B",
+      "C",
+      "F",
+      "P",
+      "Q",
+      "N",
+      "H"
+    ],
+    [
+      "A",
+      "R",
+      "J",
+      "R",
+      "I",
+      "R",
+      "Z",
+      "D",
+      "C",
+      "Z",
+      "L",
+      "D"
+    ],
+    [
+      "J",
+      "W",
+      "G",
+      "D",
+      "D",
+      "B",
+      "I",
+      "S",
+      "L",
+      "A",
+      "N",
+      "D"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PADDLE",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SPLASH",
+      "row": 4,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "ISLAND",
+      "row": 11,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "OUTLET",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "STREAM",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "CANOE",
+      "row": 9,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "KAYAK",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "INLET",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "RIVER",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "COVE",
+      "row": 5,
+      "col": 8,
+      "direction": "SE"
+    },
+    {
+      "word": "REED",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "LILY",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "FROG",
+      "row": 9,
+      "col": 7,
+      "direction": "NE"
+    },
+    {
+      "word": "BAY",
+      "row": 9,
+      "col": 5,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8123
+}
