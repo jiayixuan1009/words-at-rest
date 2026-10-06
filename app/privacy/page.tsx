@@ -49,10 +49,10 @@ export default function PrivacyPage() {
           </li>
           <li>
             <strong>Automatic technical data.</strong> Like most websites, our hosting and security
-            provider (Cloudflare) and any analytics or advertising partners we enable may process
+            provider (Cloudflare), our analytics provider (Google Analytics) and any advertising partners we enable may process
             technical information such as IP address, approximate location derived from IP, browser
             and device type, referring URL, pages viewed, and timestamps. This is used to deliver the
-            Site, keep it secure, and (when enabled) understand usage and show ads.
+            Site, keep it secure, understand usage and (when enabled) show ads.
           </li>
           <li>
             <strong>Information you send us.</strong> If you email us, we receive your email address,
@@ -70,7 +70,7 @@ export default function PrivacyPage() {
         </p>
         <ul>
           <li>Remember preferences (for example large print) on your device;</li>
-          <li>Understand how the Site is used (analytics, when enabled);</li>
+          <li>Understand how the Site is used (Google Analytics 4);</li>
           <li>Serve, personalize and measure advertising (when AdSense or similar is enabled).</li>
         </ul>
         <p>
@@ -81,9 +81,10 @@ export default function PrivacyPage() {
 
         <h2>Analytics</h2>
         <p>
-          We may use Google Analytics 4 (GA4) to learn which pages and puzzles are popular and to
-          improve the Site. GA4 may use cookies and collect usage data such as pages viewed and
-          approximate location. Learn more at{" "}
+          We use Google Analytics 4 (GA4) to see aggregate traffic statistics — for example which
+          pages and puzzles are popular — so we can improve the Site. GA4 sets cookies and collects
+          usage data such as pages viewed, referring site, device and browser type, and approximate
+          location; we do not send your name or email address to Google Analytics. Learn more at{" "}
           <a href="https://policies.google.com/technologies/partner-sites" rel="noopener noreferrer">
             How Google uses information from sites that use its services
           </a>
@@ -91,7 +92,7 @@ export default function PrivacyPage() {
           <a href="https://tools.google.com/dlpage/gaoptout" rel="noopener noreferrer">
             Google Analytics Opt-out Browser Add-on
           </a>
-          . Until a Measurement ID is configured and deployed, analytics scripts may not load.
+          , or by blocking cookies in your browser.
         </p>
 
         <h2>Advertising (Google AdSense)</h2>

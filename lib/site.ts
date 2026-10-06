@@ -28,6 +28,12 @@ export const SITE = {
      */
     sameAs: ["https://x.com/0xReggieJ"] as string[],
   },
+  /**
+   * GA4 Measurement ID (public — it ships in every page's HTML anyway). Set here so
+   * every build includes it; env NEXT_PUBLIC_GA_ID overrides (set it to "off" to
+   * build without analytics, e.g. for local QA).
+   */
+  gaId: (process.env.NEXT_PUBLIC_GA_ID?.trim() || "G-QQWT6H8H2S") as string,
   /** Site language (BCP 47) — used for <html lang>, schema inLanguage, manifest. */
   language: "en-US",
   /** Open Graph locale form of `language`. */

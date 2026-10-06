@@ -1,15 +1,18 @@
 import Script from "next/script";
+import { SITE } from "@/lib/site";
 
 /**
- * GA4 loader. Renders nothing unless NEXT_PUBLIC_GA_ID is set at build time
- * (e.g. G-XXXXXXXXXX). Do not invent a real Measurement ID — paste yours in
- * Cloudflare Worker env / .env and redeploy.
+ * GA4 loader — rendered once from the root layout, so exactly one Google tag per page.
+ * The Measurement ID comes from SITE.gaId (lib/site.ts; env NEXT_PUBLIC_GA_ID
+ * overrides, "off" disables). Both scripts load afterInteractive so they never
+ * compete with the LCP image or block hydration.
  *
- * Consent Mode / EEA gating is intentionally out of scope until
- * NEXT_PUBLIC_COOKIE_CONSENT is enabled.
+ * Consent Mode v2 / EEA-UK gating is NOT wired yet: the audience is US-focused and
+ * NEXT_PUBLIC_COOKIE_CONSENT is off. Wire gtag('consent', 'default', …) here before
+ * enabling the banner or targeting EEA/UK traffic.
  */
 export default function Analytics() {
-  const id = process.env.NEXT_PUBLIC_GA_ID?.trim();
+  const id = SITE.gaId;
   if (!id || !/^G-[A-Z0-9]+$/i.test(id)) return null;
 
   return (
