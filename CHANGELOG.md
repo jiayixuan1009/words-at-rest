@@ -9,29 +9,6 @@
 
 ## [未发布 Unreleased]
 
-### 新增 — 谜题网格尺寸 Standard | Larger（分支 `typography`，未推送、未部署）
-- 与本条同一提交（2026-10-06 晚）：每个谜题页（主题谜题、`/daily`、`/daily/<date>`、大字谜题）网格上方一个两段式开关 "Grid size: Standard | Larger"，取代原来每题的 "Large print / Standard print" 按钮（不再有两个互相竞争的按钮）。`aria-pressed`、≥44px、键盘可用、橙色焦点框。只改谜题网格与单词表，不缩放全站文字。
-  - 全站一个偏好：`localStorage` `war:gridSize`；`app/layout.tsx` `<head>` 内联小脚本在首屏绘制前给 `<html>` 设 `data-grid-size`，尺寸与布局全部由 CSS 决定，无闪烁、无 CLS（实测 0）。服务器 HTML 对所有人相同，默认 Standard。旧键 `war:largePrint`（"1" → Larger、"0" → Standard）自动迁移。无 cookie、无上报。
-  - 大字谜题（9×9）没有选择时默认 Larger；用户选过 Standard 则也按 Standard。`/large-print` 合集与页面保留为内容。
-  - Larger 设计：手机网格贴满屏幕宽度（两侧各留 10px，避开边缘返回手势）；桌面最大约 736px 且不高于窗口；单词表移到网格下方、24px、按最长单词自动分列（13 字母长词不断词）；网格线与边框加深，已找到格子底色加深（`#bcd8b4`）。字母 0.78 × 格宽（16–52px），上限 0.84 × 格宽，始终在格内。
-  - 实测字号（Standard → Larger）：390px easy 21→29px、medium 18→24px、hard 14→19px；1280px easy 30→52px、medium 29→46.5px、hard 23→37px；320px hard 14→16px；大字谜题 390px 24→32px、1280px 30→52px。320–1280 两种模式均无横向滚动。
-  - 文案同步：`/accessibility`（新 "Grid size and large print" 一节与触控、键盘说明）、`/privacy`（本地保存 "grid size preference"）、`/daily` 与 `/large-print` FAQ、首页 "Easy on the eyes"、dogs 主题描述。
-  - 顺带：`/calendar` 两页 stone-500/600 文字改为 `--ink-soft`（stone-500 约 4.2:1 → 8.0:1），与排版 P1 一致。
-  - 验证：typecheck、build、check-jsonld、check-images、daily:check、daily:test 通过；Lighthouse（手机，本地 preview，hard 谜题，3 次）LCP ≈6.65s、CLS 0、无障碍 100，与改动前相同。
-
-### 改进 — 字体排版 P0 + P1（分支 `typography`，未推送、未部署）
-- `10f8113`（2026-10-06 20:51，原 `64a03ee`，已 rebase 到 origin/master `eb082a0`；页脚保留 Daily / Calendar 并加 Hard puzzles）按 2026-10-06 排版审计（报告未入库）落地 P0 + P1；用户与爬虫同一 HTML，暖色杂志风与衬线标题不变。
-  - 网格字母：Courier New 600 → 粗体无衬线（Verdana / Segoe UI / Roboto / Noto Sans 栈，700），字号随格子宽度：0.62 × 格宽（14–30px），Large print 0.75 ×（16–44px）；用容器查询单位 `cqi` + `--n`（每行字母数），旧浏览器按视口宽度估算。390px 手机：easy 16→21px、medium 16→18px、hard 16→14px（字形更大，cap 9.5→10.3px）；1280px：20→30 / 29 / 23px。
-  - 手机端所有难度格子恢复正方形：hard 22.9×26 → 22.9×22.9（网格 358×404 → 358×358）；hard + Large print 22.9×34 → 正方形（网格 524 → 358 高）。
-  - 已找到单词 `#a89880`（2.5:1）→ `#736452`（5.0:1），保留删除线。
-  - Large print / Reset 按钮与计数 14px → 17px，最小高度 40 → 44px；Tip 14px → 17px 无衬线；谜题卡片 meta 12px 大写 → 15px 句首大写（"Easy · 10×10 · 10 words"）。
-  - 单词表 16 → 18px（桌面 20px，Large print 24px）；列宽不小于最长单词（全数据最长 13 字母，如 CONCENTRATION），长词改单列而不是断词。
-  - 面包屑、署名、事实条、引用说明、图注 14–15px → 16px；`<cite>` 改正体。眉标 12.8px / 0.22em → 14px / 0.1em；11.2px 标签（首页每日卡日期、页头标语）→ 14px。
-  - 次要文字 `--ink-soft` `#5c5348`（6.6:1）→ `#4f473d`（8.0:1）；stone-500/600 文字统一为 ink-soft。
-  - 顶部导航 13–15.2px → 17px，5 项减为 4 项：**Hard** 移到页脚（"Hard puzzles"），Large Print 保留；手机行允许换行兜底；标语改为 md 起显示，640px 导航也恢复单行。页脚小字 14px 衬线 → 16px 无衬线。
-  - `/accessibility`：更新字号、格子、对比度（次要文字 8:1、已找到单词 5:1）与触控高度（≥44px）；删除已修复的"已找到单词对比度不足"已知问题，其余已知问题保留。
-  - 验证：typecheck、build、check-jsonld、check-images 通过；320/360/390/430/1280 无横向溢出；Lighthouse（手机，本地 preview，3 次）LCP ≈6.65s → ≈6.65s、CLS 0 → 0、无障碍 100 → 100。
-
 ### 新增 — 子主题 Wave 1（分支 `subthemes-wave1`，未推送、未部署）
 - `6ddb57c`（2026-10-06 13:04）Sports / Food / Music 拆出 12 个扁平子主题，每个 6 题：golf、baseball、tennis、fishing；baking、desserts、herbs、fruits；instruments、jazz、classical、music-terms。
   - Theme 新增可选 `parentSlug`；父主题页加 "Explore …" 子主题卡片；面包屑 `Themes → 父 → 子`。
@@ -47,6 +24,29 @@
 ---
 
 ## 2026-10-06 — master（已推送 origin/master）
+
+### 新增 — 谜题网格尺寸 Standard | Larger（grid size，2026-10-06 晚间部署）
+- `bf82377`（21:14）：每个谜题页（主题谜题、`/daily`、`/daily/<date>`、大字谜题）网格上方一个两段式开关 "Grid size: Standard | Larger"，取代原来每题的 "Large print / Standard print" 按钮（不再有两个互相竞争的按钮）。`aria-pressed`、≥44px、键盘可用、橙色焦点框。只改谜题网格与单词表，不缩放全站文字。
+  - 全站一个偏好：`localStorage` `war:gridSize`；`app/layout.tsx` `<head>` 内联小脚本在首屏绘制前给 `<html>` 设 `data-grid-size`，尺寸与布局全部由 CSS 决定，无闪烁、无 CLS（实测 0）。服务器 HTML 对所有人相同，默认 Standard。旧键 `war:largePrint`（"1" → Larger、"0" → Standard）自动迁移。无 cookie、无上报。
+  - 大字谜题（9×9）没有选择时默认 Larger；用户选过 Standard 则也按 Standard。`/large-print` 合集与页面保留为内容。
+  - Larger 设计：手机网格贴满屏幕宽度（两侧各留 10px，避开边缘返回手势）；桌面最大约 736px 且不高于窗口；单词表移到网格下方、24px、按最长单词自动分列（13 字母长词不断词）；网格线与边框加深，已找到格子底色加深（`#bcd8b4`）。字母 0.78 × 格宽（16–52px），上限 0.84 × 格宽，始终在格内。
+  - 实测字号（Standard → Larger）：390px easy 21→29px、medium 18→24px、hard 14→19px；1280px easy 30→52px、medium 29→46.5px、hard 23→37px；320px hard 14→16px；大字谜题 390px 24→32px、1280px 30→52px。320–1280 两种模式均无横向滚动。
+  - 文案同步：`/accessibility`（新 "Grid size and large print" 一节与触控、键盘说明）、`/privacy`（本地保存 "grid size preference"）、`/daily` 与 `/large-print` FAQ、首页 "Easy on the eyes"、dogs 主题描述。
+  - 顺带：`/calendar` 两页 stone-500/600 文字改为 `--ink-soft`（stone-500 约 4.2:1 → 8.0:1），与排版 P1 一致。
+  - 验证：typecheck、build、check-jsonld、check-images、daily:check、daily:test 通过；Lighthouse（手机，本地 preview，hard 谜题，3 次）LCP ≈6.65s、CLS 0、无障碍 100，与改动前相同。
+
+### 改进 — 字体排版 P0 + P1（typography，2026-10-06 晚间部署）
+- `10f8113`（2026-10-06 20:51，原 `64a03ee`，已 rebase 到 origin/master `eb082a0`；页脚保留 Daily / Calendar 并加 Hard puzzles）按 2026-10-06 排版审计（报告未入库）落地 P0 + P1；用户与爬虫同一 HTML，暖色杂志风与衬线标题不变。
+  - 网格字母：Courier New 600 → 粗体无衬线（Verdana / Segoe UI / Roboto / Noto Sans 栈，700），字号随格子宽度：0.62 × 格宽（14–30px），Large print 0.75 ×（16–44px）；用容器查询单位 `cqi` + `--n`（每行字母数），旧浏览器按视口宽度估算。390px 手机：easy 16→21px、medium 16→18px、hard 16→14px（字形更大，cap 9.5→10.3px）；1280px：20→30 / 29 / 23px。
+  - 手机端所有难度格子恢复正方形：hard 22.9×26 → 22.9×22.9（网格 358×404 → 358×358）；hard + Large print 22.9×34 → 正方形（网格 524 → 358 高）。
+  - 已找到单词 `#a89880`（2.5:1）→ `#736452`（5.0:1），保留删除线。
+  - Large print / Reset 按钮与计数 14px → 17px，最小高度 40 → 44px；Tip 14px → 17px 无衬线；谜题卡片 meta 12px 大写 → 15px 句首大写（"Easy · 10×10 · 10 words"）。
+  - 单词表 16 → 18px（桌面 20px，Large print 24px）；列宽不小于最长单词（全数据最长 13 字母，如 CONCENTRATION），长词改单列而不是断词。
+  - 面包屑、署名、事实条、引用说明、图注 14–15px → 16px；`<cite>` 改正体。眉标 12.8px / 0.22em → 14px / 0.1em；11.2px 标签（首页每日卡日期、页头标语）→ 14px。
+  - 次要文字 `--ink-soft` `#5c5348`（6.6:1）→ `#4f473d`（8.0:1）；stone-500/600 文字统一为 ink-soft。
+  - 顶部导航 13–15.2px → 17px，5 项减为 4 项：**Hard** 移到页脚（"Hard puzzles"），Large Print 保留；手机行允许换行兜底；标语改为 md 起显示，640px 导航也恢复单行。页脚小字 14px 衬线 → 16px 无衬线。
+  - `/accessibility`：更新字号、格子、对比度（次要文字 8:1、已找到单词 5:1）与触控高度（≥44px）；删除已修复的"已找到单词对比度不足"已知问题，其余已知问题保留。
+  - 验证：typecheck、build、check-jsonld、check-images 通过；320/360/390/430/1280 无横向溢出；Lighthouse（手机，本地 preview，3 次）LCP ≈6.65s → ≈6.65s、CLS 0 → 0、无障碍 100 → 100。
 
 ### 新增 — Daily 日程与日历（daily calendar，2026-10-06 晚间部署）
 - `d549e91` … `9e6f70f`（约 20:45–20:50）从 2026-10-07 起每天预生成一道**唯一** Daily 谜题（`data/daily.json`），缓冲 today+7；`npm run daily:add` / `daily:check` / `daily:test`。2026-10-06 仍走原 hash 选中（`animals-hard-01` Hard Animals，与线上一致），不入日程。
