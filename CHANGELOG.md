@@ -9,12 +9,13 @@
 
 ## [未发布 Unreleased]
 
-## 2026-10-07 — Wave JK（冲过 ~1000，待部署）
+## 2026-10-07 — Wave JK（冲过 ~1000，已部署）
 
 ### 新增 — Wave JK（+5 主题 / +215 谜题 → **1043**）
 - **新主题（各 6）：** meditation、birdwatching、lighthouses、journaling、apothecary。
 - **加深（+185）：** 全部 86 个仅 6 题的 hub 各 +2（easy-03 / medium-03）；hard-pack +5；large-print-pack +8。新词表与网格，不覆盖旧题。
 - **规模：** 主题 116→**121**，谜题 828→**1043**（**达成 ~1000 目标**）。
+- **Deploy:** Worker version `19995dd6` → wordsatrest.com（account `b79c11a97188ceeb150acb0b6c4cda97`）。
 
 ## 2026-10-07 — Wave I（加深季节/爱好 + 新工艺主题，已部署）
 
