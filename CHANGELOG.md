@@ -9,13 +9,19 @@
 
 ## [未发布 Unreleased]
 
-### 修复 — 全站审计优先整改（待合并、未部署，基于 master `58608c3`）
+### 发布 — 全站审计优先整改（2026-10-07，UTC+8）
+- [PR #1](https://github.com/jiayixuan1009/words-at-rest/pull/1) 已合并；生产源代码为 master `ebcf70a`，原整改提交 `8f9dfd5`。
+- 00:20 部署到现有 Worker `words-at-rest`，版本 `00f1fac4-8150-443b-a2de-48d0598e124c`，承接100%流量；正式域名 `https://wordsatrest.com` 已复验。
+- 合并后重新通过typecheck、Daily缓冲、6组回归与生产构建；线上16页JSON-LD、SSR metadata、404/noindex、robots与sitemap通过。浏览器确认10/10进度恢复、重复BAT不加分、网格单一Tab入口、拒绝分析无Google标签以及下一题进入Fall Easy。
+- 发布前版本 `06f31cf7-8e5d-431c-a8d9-2ad18cd7f02d` 已记录供回滚。真实广告/CMP、GA到账/GSC、邮箱、读屏与性能仍待验收。
+
+### 修复 — 全站审计优先整改（已合并部署，基于 master `58608c3`）
 - `8f9dfd5`（2026-10-06 23:31，UTC+8）：以下优先整改代码与测试；验证结果见 `docs/AUDIT-REMEDIATION.md`。
 - 验证工具：图片检查修复Windows文件URL转路径；README移除过时的hash Daily说明；Analytics关闭时不排队游戏事件。
 - HTTP回归：检查SSR head标签、未来/无效日期404和noindex、robots与sitemap；移动指针只处理当前被捕获的指针。
 - 测量参数：各游戏事件携带grid_mode与入口路径，page_view保留真实URL的UTM参数以支持来源归因。
 - 整改状态与证据写入 `docs/AUDIT-REMEDIATION.md`，同步工作区问题列表；明确区分已实现、待部署及账户/广告/性能待验收项。
-- 发布状态：GitHub集成写入返回403；代码保留本地修复分支并导出补丁，未创建PR、未合并或部署。
+- 发布过程：GitHub集成写入返回403后，使用用户授权的本机Git登录推送并创建PR；2026-10-07已合并部署，补丁保留为历史交付。
 - F14：主题目录分为Seasonal、Anytime与Large print/Challenge packs，提供锚点跳转，保持所有主题的可抓取链接；手机隐藏目录装饰图。
 - 发布前置：`predeploy`执行Daily缓冲与回归测试；无障碍声明同步键盘与朗读能力，保留NVDA/VoiceOver/TalkBack未验收说明；Daily运维说明禁止替换已公开题目。
 - 回归验证：新增真实选词/路径迁移/方向限制与全题库检查，Daily测试改为直接调用实现（tsx开发依赖）；仅已同意的事件可等待GA初始化，拒绝/撤回会清空队列，未授权游戏行为不回填。

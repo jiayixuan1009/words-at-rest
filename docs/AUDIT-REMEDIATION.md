@@ -2,9 +2,9 @@
 
 实现参考：[W3C交互网格键盘规范](https://www.w3.org/WAI/ARIA/apg/patterns/grid/)；[Google同意模式开发指南](https://developers.google.com/tag-platform/security/guides/consent)。这些规范链接不代表本站已通过完整无障碍或法律合规认证。
 
-基线：master `58608c3`；整改分支：`fix/audit-priority`，代码提交`8f9dfd5`（2026-10-06 23:31，UTC+8）。状态：代码与本地验证已完成，待合并和部署。首次审计与复核报告位于工作区 `../research/audit-2026-10-06/`；不能把本分支的效果当成线上已经修复。
+基线：master `58608c3`；整改分支：`fix/audit-priority`，代码提交`8f9dfd5`（2026-10-06 23:31，UTC+8）。状态：[PR #1](https://github.com/jiayixuan1009/words-at-rest/pull/1)已合并，生产源代码master `ebcf70a`已于2026-10-07 00:20（UTC+8）部署。首次审计与复核报告位于工作区 `../research/audit-2026-10-06/`；代码上线不代表用户、收入或排名成效已验证。
 
-发布限制：Git命令推送未完成，已取消；GitHub连接创建树返回403（Resource not accessible by integration），当前集成没有该写入权限。因此未创建远端修复分支或PR、未合并、未部署。修复保存在本地Git分支，另导出format-patch补丁便于转交有写权限的发布环境。
+发布记录：GitHub集成仍返回403，已通过用户授权的本机Git登录完成推送、PR创建和合并；Cloudflare官方CLI登录后部署到现有Worker。版本`00f1fac4-8150-443b-a2de-48d0598e124c`承接100%流量；发布前版本`06f31cf7-8e5d-431c-a8d9-2ad18cd7f02d`保留供回滚。未修改域名、DNS或广告配置。
 
 ## 已完成代码整改
 
@@ -31,7 +31,7 @@ F02在上一轮已关闭。本分支额外抽查320px Daily Larger：单格约18
 ## 仍待解决
 
 1. **F08/F09：真实广告接入与布局。** 仍未加载真实广告，没有publisher/slot配置和填充/可见率/RPM/收入数据。接入时确定各尺寸的预留空间，复核距网格/词表/控制按钮的间距、误触、慢加载、空填充及CLS；当前占位不能代表真实广告效果。
-2. **F15：Search Console与生产HTTP。** 本地robots/sitemap/metadata/404检查通过；仍需生产sitemap抓取、URL检查、canonical选择、Googlebot访问和索引覆盖证据。不能以本地检查代替线上收录。
+2. **F15：Search Console。** 正式域名robots/sitemap/metadata/404检查已通过；仍需GSC的sitemap处理、URL检查、canonical选择、Googlebot访问和索引覆盖证据。生产HTTP通过不代表搜索收录已验证。
 3. **F16：邮箱。** 未取得当前账户路由状态或实际收信结果；需核对配置并完成收信/回复验证。
 4. **F17：LCP。** 上游记录的约6.65秒是本地preview的Lighthouse值，此次没有性能trace/Lighthouse工具，未独立复现、未宣称速度已达标。手机装饰减少只是布局改动，不能当作量化性能修复。下一步保存线上/生产构建trace，定位LCP元素、TTFB、加载与渲染阶段，并取得足够现场样本。
 
@@ -43,4 +43,4 @@ F02在上一轮已关闭。本分支额外抽查320px Daily Larger：单格约18
 - 浏览器：键盘完整解题、第二处BAT、实际路径恢复、重复不计分、下一题、390px入口、320px困难网格和拒绝分析后继续游戏通过。截图保存在工作区`research/audit-2026-10-06/fixes/`。
 - 构建仍有上游vinext的ineffective dynamic import与路由静态分类提示，构建成功；本次不改框架内部实现。
 - Daily缓冲当前截至2026-10-13；`predeploy`能阻止缓冲不足的npm部署，但不能代替运营人员持续补充和部署日程。任何数据补充按现有CHANGELOG逐日记录。
-- 本次全部代码批次均记在现有CHANGELOG的Unreleased整改条目中。合并部署后再将线上复验通过的项关闭。
+- 全部代码批次与本次合并部署记在现有CHANGELOG。线上16页JSON-LD和HTTP路由检查通过；浏览器确认既有10/10进度恢复、重复BAT仍10/10、一个网格Tab入口、拒绝分析后Google标签为0、下一题进入Fall Easy。上线截图位于工作区`research/audit-2026-10-06/fixes/production-2026-10-07.png`。读屏、GA实际到账、搜索收录、广告和性能证据仍保持待验收。
