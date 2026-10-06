@@ -9,12 +9,13 @@
 
 ## [未发布 Unreleased]
 
-## 2026-10-07 — Wave G（新主题 + 高流量加深，待部署）
+## 2026-10-07 — Wave G（新主题 + 高流量加深，已部署）
 
 ### 新增 — Wave G（+10 主题 / +103 谜题）
 - **新主题（各 6）：** sewing、quilting、swimming、hiking、cycling、geology、architecture、islands、emotions、photography。
 - **加深既有 hub（+43）：** halloween / christmas / fall / animals / food / sports / ocean / garden 各 +4；bible +3；thanksgiving / winter 各 +2；large-print-pack +4。新词表与网格，不覆盖旧题。
 - **规模：** 主题 92→**102**，谜题 502→**605**（朝 ~1000）。
+- **Deploy:** Worker version `a48dbe45` → wordsatrest.com（account `b79c11a97188ceeb150acb0b6c4cda97`）。
 
 ## 2026-10-07 — Wave F（地理/手作/庆典/科学神话/地貌/博物馆，已部署）
 
