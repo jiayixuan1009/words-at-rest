@@ -1,0 +1,208 @@
+{
+  "id": "fall-easy-02",
+  "slug": "fall-easy-02",
+  "themeId": "fall",
+  "title": "Fall: Porch Light",
+  "primaryKeyword": "fall word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ACORN",
+    "BREEZE",
+    "CIDER",
+    "CORN",
+    "FROST",
+    "HAY",
+    "LEAF",
+    "MAPLE",
+    "PATH",
+    "PORCH"
+  ],
+  "grid": [
+    [
+      "J",
+      "D",
+      "D",
+      "G",
+      "S",
+      "S",
+      "W",
+      "K",
+      "D",
+      "Q"
+    ],
+    [
+      "W",
+      "R",
+      "D",
+      "F",
+      "L",
+      "E",
+      "A",
+      "F",
+      "F",
+      "Y"
+    ],
+    [
+      "Y",
+      "U",
+      "P",
+      "R",
+      "A",
+      "X",
+      "R",
+      "G",
+      "O",
+      "I"
+    ],
+    [
+      "W",
+      "P",
+      "B",
+      "O",
+      "A",
+      "C",
+      "O",
+      "R",
+      "N",
+      "U"
+    ],
+    [
+      "J",
+      "A",
+      "R",
+      "S",
+      "S",
+      "N",
+      "C",
+      "O",
+      "R",
+      "N"
+    ],
+    [
+      "Q",
+      "T",
+      "E",
+      "T",
+      "S",
+      "Z",
+      "Q",
+      "T",
+      "A",
+      "R"
+    ],
+    [
+      "M",
+      "H",
+      "E",
+      "E",
+      "T",
+      "V",
+      "Q",
+      "X",
+      "V",
+      "N"
+    ],
+    [
+      "O",
+      "E",
+      "Z",
+      "L",
+      "A",
+      "P",
+      "O",
+      "R",
+      "C",
+      "H"
+    ],
+    [
+      "N",
+      "U",
+      "E",
+      "Y",
+      "C",
+      "I",
+      "D",
+      "E",
+      "R",
+      "A"
+    ],
+    [
+      "W",
+      "I",
+      "K",
+      "M",
+      "M",
+      "A",
+      "P",
+      "L",
+      "E",
+      "Y"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BREEZE",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "ACORN",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "MAPLE",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CIDER",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "FROST",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "PORCH",
+      "row": 7,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "LEAF",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CORN",
+      "row": 4,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "PATH",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "HAY",
+      "row": 7,
+      "col": 9,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 1111
+}

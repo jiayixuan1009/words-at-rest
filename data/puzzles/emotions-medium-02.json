@@ -1,0 +1,284 @@
+{
+  "id": "emotions-medium-02",
+  "slug": "emotions-medium-02",
+  "themeId": "emotions",
+  "title": "Emotions: Warm Care",
+  "primaryKeyword": "emotions word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ANGER",
+    "BALANCE",
+    "COMPASSION",
+    "DESIRE",
+    "DOUBT",
+    "EMPATHY",
+    "ENVY",
+    "GRACE",
+    "GRATITUDE",
+    "GUILT",
+    "LONGING",
+    "MERCY",
+    "SHAME",
+    "WONDER"
+  ],
+  "grid": [
+    [
+      "H",
+      "D",
+      "E",
+      "S",
+      "I",
+      "R",
+      "E",
+      "S",
+      "H",
+      "A",
+      "M",
+      "E"
+    ],
+    [
+      "C",
+      "R",
+      "S",
+      "C",
+      "H",
+      "A",
+      "N",
+      "G",
+      "E",
+      "R",
+      "T",
+      "Y"
+    ],
+    [
+      "W",
+      "N",
+      "W",
+      "O",
+      "E",
+      "E",
+      "N",
+      "V",
+      "Y",
+      "L",
+      "C",
+      "K"
+    ],
+    [
+      "O",
+      "J",
+      "G",
+      "M",
+      "E",
+      "B",
+      "N",
+      "N",
+      "I",
+      "R",
+      "A",
+      "E"
+    ],
+    [
+      "N",
+      "E",
+      "R",
+      "P",
+      "G",
+      "K",
+      "N",
+      "U",
+      "E",
+      "Y",
+      "C",
+      "L"
+    ],
+    [
+      "D",
+      "U",
+      "A",
+      "A",
+      "R",
+      "B",
+      "G",
+      "M",
+      "D",
+      "N",
+      "Y",
+      "O"
+    ],
+    [
+      "E",
+      "Q",
+      "T",
+      "S",
+      "A",
+      "P",
+      "N",
+      "C",
+      "A",
+      "H",
+      "D",
+      "N"
+    ],
+    [
+      "R",
+      "P",
+      "I",
+      "S",
+      "C",
+      "B",
+      "R",
+      "L",
+      "T",
+      "L",
+      "E",
+      "G"
+    ],
+    [
+      "Z",
+      "B",
+      "T",
+      "I",
+      "E",
+      "B",
+      "A",
+      "A",
+      "H",
+      "D",
+      "Z",
+      "I"
+    ],
+    [
+      "G",
+      "T",
+      "U",
+      "O",
+      "L",
+      "B",
+      "P",
+      "I",
+      "A",
+      "K",
+      "E",
+      "N"
+    ],
+    [
+      "X",
+      "N",
+      "D",
+      "N",
+      "T",
+      "M",
+      "Q",
+      "A",
+      "P",
+      "T",
+      "E",
+      "G"
+    ],
+    [
+      "V",
+      "A",
+      "E",
+      "K",
+      "E",
+      "P",
+      "B",
+      "D",
+      "O",
+      "U",
+      "B",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "COMPASSION",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "GRATITUDE",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "LONGING",
+      "row": 4,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "EMPATHY",
+      "row": 11,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "BALANCE",
+      "row": 9,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "DESIRE",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "WONDER",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "ANGER",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SHAME",
+      "row": 0,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "GUILT",
+      "row": 5,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "MERCY",
+      "row": 5,
+      "col": 7,
+      "direction": "NE"
+    },
+    {
+      "word": "GRACE",
+      "row": 4,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "DOUBT",
+      "row": 11,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "ENVY",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8694
+}

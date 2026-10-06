@@ -1,0 +1,208 @@
+{
+  "id": "cycling-easy-02",
+  "slug": "cycling-easy-02",
+  "themeId": "cycling",
+  "title": "Cycling: Quiet Lane",
+  "primaryKeyword": "cycling word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BRAKE",
+    "CLIMB",
+    "FORK",
+    "FRAME",
+    "LIGHT",
+    "LOCK",
+    "MILE",
+    "PACE",
+    "PATH",
+    "WIND"
+  ],
+  "grid": [
+    [
+      "T",
+      "Y",
+      "C",
+      "G",
+      "T",
+      "S",
+      "F",
+      "O",
+      "R",
+      "K"
+    ],
+    [
+      "P",
+      "C",
+      "L",
+      "I",
+      "M",
+      "B",
+      "R",
+      "W",
+      "Y",
+      "B"
+    ],
+    [
+      "J",
+      "R",
+      "R",
+      "P",
+      "A",
+      "C",
+      "E",
+      "I",
+      "Z",
+      "E"
+    ],
+    [
+      "B",
+      "R",
+      "A",
+      "K",
+      "E",
+      "Q",
+      "V",
+      "N",
+      "F",
+      "O"
+    ],
+    [
+      "D",
+      "E",
+      "L",
+      "O",
+      "C",
+      "K",
+      "P",
+      "D",
+      "G",
+      "B"
+    ],
+    [
+      "V",
+      "R",
+      "I",
+      "E",
+      "F",
+      "R",
+      "A",
+      "M",
+      "E",
+      "A"
+    ],
+    [
+      "P",
+      "K",
+      "G",
+      "K",
+      "O",
+      "P",
+      "M",
+      "M",
+      "S",
+      "J"
+    ],
+    [
+      "F",
+      "B",
+      "H",
+      "W",
+      "D",
+      "A",
+      "H",
+      "I",
+      "P",
+      "X"
+    ],
+    [
+      "I",
+      "H",
+      "T",
+      "Y",
+      "S",
+      "T",
+      "I",
+      "L",
+      "P",
+      "P"
+    ],
+    [
+      "Z",
+      "E",
+      "W",
+      "K",
+      "B",
+      "H",
+      "S",
+      "E",
+      "X",
+      "L"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BRAKE",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "FRAME",
+      "row": 5,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "LIGHT",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "CLIMB",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "FORK",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "PATH",
+      "row": 6,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "PACE",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "MILE",
+      "row": 6,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "LOCK",
+      "row": 4,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "WIND",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8652
+}

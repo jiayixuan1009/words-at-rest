@@ -1,0 +1,208 @@
+{
+  "id": "halloween-easy-02",
+  "slug": "halloween-easy-02",
+  "themeId": "halloween",
+  "title": "Halloween: Quiet Porch",
+  "primaryKeyword": "halloween word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BAT",
+    "CANDLE",
+    "COBWEB",
+    "LANTERN",
+    "LEAF",
+    "MASK",
+    "NIGHT",
+    "OWL",
+    "PORCH",
+    "TREAT"
+  ],
+  "grid": [
+    [
+      "H",
+      "S",
+      "V",
+      "C",
+      "O",
+      "B",
+      "W",
+      "E",
+      "B",
+      "P"
+    ],
+    [
+      "W",
+      "J",
+      "T",
+      "R",
+      "E",
+      "A",
+      "T",
+      "U",
+      "N",
+      "T"
+    ],
+    [
+      "N",
+      "M",
+      "B",
+      "K",
+      "Y",
+      "A",
+      "P",
+      "W",
+      "I",
+      "B"
+    ],
+    [
+      "P",
+      "X",
+      "A",
+      "R",
+      "O",
+      "W",
+      "L",
+      "B",
+      "G",
+      "C"
+    ],
+    [
+      "O",
+      "D",
+      "T",
+      "P",
+      "O",
+      "R",
+      "C",
+      "H",
+      "H",
+      "A"
+    ],
+    [
+      "L",
+      "L",
+      "A",
+      "N",
+      "T",
+      "E",
+      "R",
+      "N",
+      "T",
+      "N"
+    ],
+    [
+      "G",
+      "G",
+      "P",
+      "A",
+      "T",
+      "V",
+      "N",
+      "P",
+      "L",
+      "D"
+    ],
+    [
+      "M",
+      "Y",
+      "J",
+      "I",
+      "F",
+      "J",
+      "D",
+      "L",
+      "E",
+      "L"
+    ],
+    [
+      "N",
+      "A",
+      "Y",
+      "M",
+      "A",
+      "S",
+      "K",
+      "U",
+      "A",
+      "E"
+    ],
+    [
+      "Z",
+      "B",
+      "R",
+      "A",
+      "B",
+      "F",
+      "I",
+      "V",
+      "F",
+      "Z"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "LANTERN",
+      "row": 5,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CANDLE",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "COBWEB",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "TREAT",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PORCH",
+      "row": 4,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "NIGHT",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "MASK",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "LEAF",
+      "row": 6,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "OWL",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BAT",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 1041
+}

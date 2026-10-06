@@ -1,0 +1,284 @@
+{
+  "id": "halloween-medium-02",
+  "slug": "halloween-medium-02",
+  "themeId": "halloween",
+  "title": "Halloween: Harvest Moon",
+  "primaryKeyword": "halloween word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "AUTUMN",
+    "BAT",
+    "CIDER",
+    "COSTUME",
+    "GOURD",
+    "HARVEST",
+    "HAYRIDE",
+    "MOONLIGHT",
+    "ORCHARD",
+    "OWL",
+    "PARADE",
+    "PUMPKIN",
+    "SHADOW",
+    "SPIDER"
+  ],
+  "grid": [
+    [
+      "N",
+      "D",
+      "B",
+      "Z",
+      "X",
+      "E",
+      "D",
+      "T",
+      "E",
+      "I",
+      "J",
+      "W"
+    ],
+    [
+      "M",
+      "U",
+      "F",
+      "G",
+      "D",
+      "R",
+      "D",
+      "M",
+      "G",
+      "P",
+      "O",
+      "S"
+    ],
+    [
+      "R",
+      "O",
+      "U",
+      "S",
+      "U",
+      "N",
+      "U",
+      "G",
+      "O",
+      "D",
+      "W",
+      "O"
+    ],
+    [
+      "C",
+      "K",
+      "O",
+      "O",
+      "L",
+      "T",
+      "W",
+      "N",
+      "A",
+      "R",
+      "W",
+      "R"
+    ],
+    [
+      "I",
+      "P",
+      "G",
+      "N",
+      "S",
+      "L",
+      "A",
+      "H",
+      "G",
+      "R",
+      "O",
+      "C"
+    ],
+    [
+      "D",
+      "Y",
+      "A",
+      "O",
+      "L",
+      "N",
+      "S",
+      "T",
+      "V",
+      "R",
+      "W",
+      "H"
+    ],
+    [
+      "E",
+      "K",
+      "C",
+      "R",
+      "M",
+      "I",
+      "S",
+      "Z",
+      "E",
+      "M",
+      "L",
+      "A"
+    ],
+    [
+      "R",
+      "J",
+      "X",
+      "U",
+      "A",
+      "E",
+      "G",
+      "D",
+      "B",
+      "V",
+      "R",
+      "R"
+    ],
+    [
+      "B",
+      "A",
+      "T",
+      "I",
+      "V",
+      "D",
+      "I",
+      "H",
+      "U",
+      "A",
+      "M",
+      "D"
+    ],
+    [
+      "G",
+      "U",
+      "M",
+      "R",
+      "M",
+      "P",
+      "E",
+      "N",
+      "T",
+      "S",
+      "N",
+      "L"
+    ],
+    [
+      "A",
+      "A",
+      "A",
+      "F",
+      "S",
+      "P",
+      "U",
+      "M",
+      "P",
+      "K",
+      "I",
+      "N"
+    ],
+    [
+      "Q",
+      "H",
+      "H",
+      "A",
+      "Y",
+      "R",
+      "I",
+      "D",
+      "E",
+      "Q",
+      "R",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "MOONLIGHT",
+      "row": 1,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "PUMPKIN",
+      "row": 10,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "HARVEST",
+      "row": 11,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "COSTUME",
+      "row": 6,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "ORCHARD",
+      "row": 2,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "HAYRIDE",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "AUTUMN",
+      "row": 10,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "SPIDER",
+      "row": 10,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "SHADOW",
+      "row": 5,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "PARADE",
+      "row": 4,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "GOURD",
+      "row": 4,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "CIDER",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "OWL",
+      "row": 4,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "BAT",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 1042
+}

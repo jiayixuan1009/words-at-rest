@@ -1,0 +1,173 @@
+{
+  "id": "halloween-large-01",
+  "slug": "halloween-large-01",
+  "themeId": "halloween",
+  "title": "Large Print Halloween: Soft Glow",
+  "primaryKeyword": "large print halloween word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BAT",
+    "CANDLE",
+    "LEAF",
+    "MASK",
+    "NIGHT",
+    "OWL",
+    "PORCH",
+    "TREAT"
+  ],
+  "grid": [
+    [
+      "W",
+      "M",
+      "G",
+      "F",
+      "P",
+      "W",
+      "O",
+      "W",
+      "L"
+    ],
+    [
+      "C",
+      "A",
+      "N",
+      "D",
+      "L",
+      "E",
+      "M",
+      "D",
+      "P"
+    ],
+    [
+      "N",
+      "G",
+      "E",
+      "N",
+      "B",
+      "A",
+      "T",
+      "H",
+      "O"
+    ],
+    [
+      "Y",
+      "L",
+      "E",
+      "A",
+      "F",
+      "R",
+      "G",
+      "K",
+      "R"
+    ],
+    [
+      "I",
+      "U",
+      "A",
+      "M",
+      "A",
+      "S",
+      "K",
+      "A",
+      "C"
+    ],
+    [
+      "P",
+      "V",
+      "T",
+      "R",
+      "E",
+      "A",
+      "T",
+      "W",
+      "H"
+    ],
+    [
+      "N",
+      "I",
+      "G",
+      "H",
+      "T",
+      "T",
+      "A",
+      "N",
+      "L"
+    ],
+    [
+      "F",
+      "R",
+      "L",
+      "O",
+      "O",
+      "Z",
+      "K",
+      "D",
+      "A"
+    ],
+    [
+      "B",
+      "T",
+      "N",
+      "W",
+      "L",
+      "O",
+      "F",
+      "F",
+      "X"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CANDLE",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "NIGHT",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "TREAT",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PORCH",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "MASK",
+      "row": 4,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "LEAF",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BAT",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "OWL",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 1044
+}

@@ -1,0 +1,284 @@
+{
+  "id": "garden-medium-02",
+  "slug": "garden-medium-02",
+  "themeId": "garden",
+  "title": "Garden: Trellis Row",
+  "primaryKeyword": "garden word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ARBOR",
+    "COMPOST",
+    "DAHLIA",
+    "GREENHOUSE",
+    "LAVENDER",
+    "MULCH",
+    "PEONY",
+    "PETAL",
+    "PLANTER",
+    "SPROUT",
+    "SUNLIGHT",
+    "TRELLIS",
+    "TROWEL",
+    "TULIP"
+  ],
+  "grid": [
+    [
+      "C",
+      "E",
+      "T",
+      "T",
+      "H",
+      "K",
+      "V",
+      "S",
+      "Z",
+      "Y",
+      "X",
+      "R"
+    ],
+    [
+      "O",
+      "M",
+      "R",
+      "U",
+      "Q",
+      "M",
+      "G",
+      "P",
+      "B",
+      "P",
+      "D",
+      "X"
+    ],
+    [
+      "M",
+      "J",
+      "E",
+      "L",
+      "I",
+      "A",
+      "R",
+      "R",
+      "D",
+      "I",
+      "U",
+      "A"
+    ],
+    [
+      "P",
+      "M",
+      "L",
+      "I",
+      "D",
+      "T",
+      "E",
+      "O",
+      "S",
+      "R",
+      "P",
+      "Q"
+    ],
+    [
+      "O",
+      "U",
+      "L",
+      "P",
+      "A",
+      "R",
+      "E",
+      "U",
+      "U",
+      "L",
+      "L",
+      "X"
+    ],
+    [
+      "S",
+      "L",
+      "I",
+      "O",
+      "H",
+      "O",
+      "N",
+      "T",
+      "N",
+      "A",
+      "A",
+      "A"
+    ],
+    [
+      "T",
+      "C",
+      "S",
+      "A",
+      "L",
+      "W",
+      "H",
+      "W",
+      "L",
+      "V",
+      "N",
+      "R"
+    ],
+    [
+      "R",
+      "H",
+      "P",
+      "L",
+      "I",
+      "E",
+      "O",
+      "P",
+      "I",
+      "E",
+      "T",
+      "B"
+    ],
+    [
+      "Y",
+      "Q",
+      "V",
+      "E",
+      "A",
+      "L",
+      "U",
+      "E",
+      "G",
+      "N",
+      "E",
+      "O"
+    ],
+    [
+      "M",
+      "U",
+      "G",
+      "A",
+      "T",
+      "H",
+      "S",
+      "O",
+      "H",
+      "D",
+      "R",
+      "R"
+    ],
+    [
+      "X",
+      "L",
+      "X",
+      "C",
+      "Z",
+      "A",
+      "E",
+      "N",
+      "T",
+      "E",
+      "Y",
+      "T"
+    ],
+    [
+      "K",
+      "D",
+      "I",
+      "K",
+      "R",
+      "S",
+      "L",
+      "Y",
+      "J",
+      "R",
+      "W",
+      "C"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "GREENHOUSE",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "LAVENDER",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SUNLIGHT",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "TRELLIS",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "COMPOST",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "PLANTER",
+      "row": 3,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "SPROUT",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "TROWEL",
+      "row": 3,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "DAHLIA",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "PETAL",
+      "row": 7,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "MULCH",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "ARBOR",
+      "row": 5,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "TULIP",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "PEONY",
+      "row": 7,
+      "col": 7,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2912
+}

@@ -1,0 +1,208 @@
+{
+  "id": "architecture-easy-01",
+  "slug": "architecture-easy-01",
+  "themeId": "architecture",
+  "title": "Architecture: Arch Sketch",
+  "primaryKeyword": "architecture word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ARCH",
+    "BEAM",
+    "DOME",
+    "DOOR",
+    "HALL",
+    "PLAN",
+    "ROOF",
+    "SITE",
+    "TOWER",
+    "WALL"
+  ],
+  "grid": [
+    [
+      "X",
+      "J",
+      "R",
+      "C",
+      "A",
+      "B",
+      "P",
+      "K",
+      "I",
+      "J"
+    ],
+    [
+      "I",
+      "I",
+      "T",
+      "B",
+      "R",
+      "E",
+      "A",
+      "G",
+      "O",
+      "R"
+    ],
+    [
+      "D",
+      "O",
+      "O",
+      "R",
+      "C",
+      "C",
+      "F",
+      "Q",
+      "T",
+      "R"
+    ],
+    [
+      "Q",
+      "C",
+      "I",
+      "N",
+      "H",
+      "E",
+      "A",
+      "N",
+      "P",
+      "D"
+    ],
+    [
+      "V",
+      "O",
+      "D",
+      "L",
+      "P",
+      "L",
+      "A",
+      "N",
+      "M",
+      "W"
+    ],
+    [
+      "R",
+      "O",
+      "O",
+      "F",
+      "R",
+      "D",
+      "C",
+      "C",
+      "B",
+      "A"
+    ],
+    [
+      "X",
+      "O",
+      "M",
+      "T",
+      "O",
+      "W",
+      "E",
+      "R",
+      "E",
+      "L"
+    ],
+    [
+      "V",
+      "B",
+      "E",
+      "R",
+      "M",
+      "E",
+      "R",
+      "A",
+      "A",
+      "L"
+    ],
+    [
+      "Z",
+      "O",
+      "K",
+      "S",
+      "I",
+      "T",
+      "E",
+      "M",
+      "M",
+      "Z"
+    ],
+    [
+      "B",
+      "O",
+      "C",
+      "H",
+      "A",
+      "L",
+      "L",
+      "C",
+      "W",
+      "W"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TOWER",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "ARCH",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "DOME",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "BEAM",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "ROOF",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "WALL",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "DOOR",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "HALL",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "PLAN",
+      "row": 4,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SITE",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8671
+}

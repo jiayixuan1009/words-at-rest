@@ -1,0 +1,173 @@
+{
+  "id": "swimming-large-01",
+  "slug": "swimming-large-01",
+  "themeId": "swimming",
+  "title": "Large Print Swimming: Soft Lap",
+  "primaryKeyword": "large print swimming word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "CAP",
+    "DIVE",
+    "KICK",
+    "LAP",
+    "PACE",
+    "POOL",
+    "SWIM",
+    "WAVE"
+  ],
+  "grid": [
+    [
+      "P",
+      "W",
+      "H",
+      "N",
+      "N",
+      "G",
+      "S",
+      "D",
+      "U"
+    ],
+    [
+      "O",
+      "C",
+      "A",
+      "P",
+      "U",
+      "E",
+      "O",
+      "S",
+      "R"
+    ],
+    [
+      "O",
+      "D",
+      "L",
+      "A",
+      "P",
+      "Z",
+      "P",
+      "U",
+      "C"
+    ],
+    [
+      "L",
+      "R",
+      "E",
+      "K",
+      "I",
+      "C",
+      "K",
+      "I",
+      "L"
+    ],
+    [
+      "V",
+      "F",
+      "V",
+      "N",
+      "D",
+      "D",
+      "A",
+      "N",
+      "S"
+    ],
+    [
+      "W",
+      "D",
+      "Z",
+      "J",
+      "A",
+      "I",
+      "I",
+      "I",
+      "F"
+    ],
+    [
+      "A",
+      "S",
+      "W",
+      "I",
+      "M",
+      "V",
+      "R",
+      "G",
+      "H"
+    ],
+    [
+      "V",
+      "P",
+      "A",
+      "C",
+      "E",
+      "E",
+      "M",
+      "K",
+      "D"
+    ],
+    [
+      "E",
+      "Q",
+      "D",
+      "P",
+      "P",
+      "W",
+      "X",
+      "N",
+      "I"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SWIM",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "POOL",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "KICK",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "DIVE",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "WAVE",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "PACE",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "LAP",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CAP",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8636
+}

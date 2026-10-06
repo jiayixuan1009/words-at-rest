@@ -91,6 +91,16 @@ import forests from "./forests.json";
 import rivers from "./rivers.json";
 import deserts from "./deserts.json";
 import museums from "./museums.json";
+import sewing from "./sewing.json";
+import quilting from "./quilting.json";
+import swimming from "./swimming.json";
+import hiking from "./hiking.json";
+import cycling from "./cycling.json";
+import geology from "./geology.json";
+import architecture from "./architecture.json";
+import islands from "./islands.json";
+import emotions from "./emotions.json";
+import photography from "./photography.json";
 
 /** Theme order: seasonal first, then evergreen, then packs. */
 export const themes = [
@@ -184,6 +194,16 @@ export const themes = [
   rivers,
   deserts,
   museums,
+  sewing,
+  quilting,
+  swimming,
+  hiking,
+  cycling,
+  geology,
+  architecture,
+  islands,
+  emotions,
+  photography,
   largePrintPack,
   hardPack,
 ] as Theme[];

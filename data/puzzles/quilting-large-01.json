@@ -1,0 +1,173 @@
+{
+  "id": "quilting-large-01",
+  "slug": "quilting-large-01",
+  "themeId": "quilting",
+  "title": "Large Print Quilting: Soft Block",
+  "primaryKeyword": "large print quilting word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BIND",
+    "BLOCK",
+    "PATCH",
+    "PIN",
+    "QUILT",
+    "STAR",
+    "STRIP",
+    "WARM"
+  ],
+  "grid": [
+    [
+      "Z",
+      "Q",
+      "N",
+      "G",
+      "F",
+      "P",
+      "L",
+      "Y",
+      "S"
+    ],
+    [
+      "Y",
+      "U",
+      "G",
+      "E",
+      "S",
+      "N",
+      "P",
+      "I",
+      "N"
+    ],
+    [
+      "Q",
+      "I",
+      "S",
+      "S",
+      "T",
+      "A",
+      "R",
+      "W",
+      "K"
+    ],
+    [
+      "X",
+      "L",
+      "E",
+      "N",
+      "R",
+      "Y",
+      "K",
+      "A",
+      "E"
+    ],
+    [
+      "B",
+      "T",
+      "B",
+      "L",
+      "I",
+      "W",
+      "F",
+      "R",
+      "B"
+    ],
+    [
+      "L",
+      "D",
+      "I",
+      "Y",
+      "P",
+      "Y",
+      "H",
+      "M",
+      "E"
+    ],
+    [
+      "Z",
+      "Q",
+      "N",
+      "B",
+      "L",
+      "O",
+      "C",
+      "K",
+      "W"
+    ],
+    [
+      "W",
+      "L",
+      "D",
+      "A",
+      "V",
+      "Z",
+      "D",
+      "D",
+      "A"
+    ],
+    [
+      "F",
+      "K",
+      "K",
+      "S",
+      "P",
+      "A",
+      "T",
+      "C",
+      "H"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "QUILT",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "BLOCK",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "PATCH",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "STRIP",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "WARM",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "STAR",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BIND",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "PIN",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8626
+}

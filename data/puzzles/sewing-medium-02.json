@@ -1,0 +1,284 @@
+{
+  "id": "sewing-medium-02",
+  "slug": "sewing-medium-02",
+  "themeId": "sewing",
+  "title": "Sewing: Project Bag",
+  "primaryKeyword": "sewing word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BOBBIN",
+    "CORNER",
+    "COVER",
+    "CUT",
+    "HAND",
+    "MACHINE",
+    "NOTCH",
+    "PILLOW",
+    "PROJECT",
+    "QUILT",
+    "SEAMRIP",
+    "SHEARS",
+    "SILK",
+    "TAPE"
+  ],
+  "grid": [
+    [
+      "S",
+      "U",
+      "Q",
+      "X",
+      "T",
+      "Q",
+      "R",
+      "N",
+      "Y",
+      "L",
+      "I",
+      "V"
+    ],
+    [
+      "I",
+      "Z",
+      "K",
+      "L",
+      "D",
+      "A",
+      "D",
+      "B",
+      "O",
+      "A",
+      "U",
+      "F"
+    ],
+    [
+      "L",
+      "P",
+      "I",
+      "L",
+      "L",
+      "O",
+      "W",
+      "Q",
+      "H",
+      "T",
+      "L",
+      "U"
+    ],
+    [
+      "K",
+      "U",
+      "E",
+      "B",
+      "O",
+      "B",
+      "B",
+      "I",
+      "N",
+      "C",
+      "C",
+      "N"
+    ],
+    [
+      "Q",
+      "E",
+      "L",
+      "B",
+      "M",
+      "H",
+      "E",
+      "G",
+      "T",
+      "O",
+      "D",
+      "H"
+    ],
+    [
+      "A",
+      "P",
+      "S",
+      "H",
+      "E",
+      "A",
+      "R",
+      "S",
+      "A",
+      "V",
+      "U",
+      "T"
+    ],
+    [
+      "W",
+      "S",
+      "U",
+      "F",
+      "O",
+      "D",
+      "C",
+      "H",
+      "P",
+      "E",
+      "V",
+      "C"
+    ],
+    [
+      "P",
+      "R",
+      "O",
+      "J",
+      "E",
+      "C",
+      "T",
+      "H",
+      "E",
+      "R",
+      "G",
+      "O"
+    ],
+    [
+      "Y",
+      "C",
+      "U",
+      "T",
+      "Y",
+      "W",
+      "P",
+      "R",
+      "I",
+      "S",
+      "B",
+      "R"
+    ],
+    [
+      "N",
+      "W",
+      "H",
+      "A",
+      "N",
+      "D",
+      "I",
+      "D",
+      "R",
+      "N",
+      "L",
+      "N"
+    ],
+    [
+      "R",
+      "C",
+      "S",
+      "E",
+      "A",
+      "M",
+      "R",
+      "I",
+      "P",
+      "T",
+      "E",
+      "E"
+    ],
+    [
+      "D",
+      "A",
+      "T",
+      "C",
+      "J",
+      "Q",
+      "M",
+      "B",
+      "C",
+      "W",
+      "P",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "MACHINE",
+      "row": 4,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "PROJECT",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SEAMRIP",
+      "row": 10,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SHEARS",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BOBBIN",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "PILLOW",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CORNER",
+      "row": 6,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "COVER",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "NOTCH",
+      "row": 0,
+      "col": 7,
+      "direction": "SE"
+    },
+    {
+      "word": "QUILT",
+      "row": 4,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "SILK",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "HAND",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "TAPE",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "CUT",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8614
+}

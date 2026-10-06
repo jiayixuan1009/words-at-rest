@@ -1,0 +1,173 @@
+{
+  "id": "large-print-pack-large-06",
+  "slug": "large-print-pack-large-06",
+  "themeId": "large-print-pack",
+  "title": "Large Print Word Search: Quilt Evening",
+  "primaryKeyword": "large print large print word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BOOK",
+    "CHAIR",
+    "HOME",
+    "LAMP",
+    "QUILT",
+    "REST",
+    "TEA",
+    "WOOL"
+  ],
+  "grid": [
+    [
+      "K",
+      "K",
+      "D",
+      "O",
+      "W",
+      "V",
+      "C",
+      "B",
+      "D"
+    ],
+    [
+      "R",
+      "V",
+      "C",
+      "H",
+      "A",
+      "I",
+      "R",
+      "W",
+      "Q"
+    ],
+    [
+      "M",
+      "T",
+      "H",
+      "J",
+      "O",
+      "L",
+      "D",
+      "Y",
+      "U"
+    ],
+    [
+      "V",
+      "W",
+      "U",
+      "D",
+      "C",
+      "A",
+      "E",
+      "L",
+      "I"
+    ],
+    [
+      "A",
+      "O",
+      "M",
+      "K",
+      "G",
+      "M",
+      "A",
+      "V",
+      "L"
+    ],
+    [
+      "V",
+      "O",
+      "S",
+      "Q",
+      "H",
+      "P",
+      "F",
+      "O",
+      "T"
+    ],
+    [
+      "T",
+      "L",
+      "H",
+      "W",
+      "O",
+      "B",
+      "O",
+      "O",
+      "K"
+    ],
+    [
+      "E",
+      "J",
+      "P",
+      "E",
+      "M",
+      "P",
+      "U",
+      "P",
+      "I"
+    ],
+    [
+      "A",
+      "C",
+      "W",
+      "R",
+      "E",
+      "S",
+      "T",
+      "H",
+      "M"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "QUILT",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "CHAIR",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "LAMP",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "BOOK",
+      "row": 6,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "WOOL",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "REST",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "HOME",
+      "row": 5,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "TEA",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 3012
+}

@@ -1,0 +1,208 @@
+{
+  "id": "quilting-easy-01",
+  "slug": "quilting-easy-01",
+  "themeId": "quilting",
+  "title": "Quilting: Block Night",
+  "primaryKeyword": "quilting word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BIND",
+    "BLOCK",
+    "PATCH",
+    "PIN",
+    "QUILT",
+    "SEAM",
+    "STAR",
+    "STRIP",
+    "TOP",
+    "WARM"
+  ],
+  "grid": [
+    [
+      "X",
+      "P",
+      "H",
+      "S",
+      "E",
+      "A",
+      "M",
+      "Z",
+      "G",
+      "X"
+    ],
+    [
+      "R",
+      "Z",
+      "J",
+      "C",
+      "U",
+      "B",
+      "I",
+      "N",
+      "D",
+      "Z"
+    ],
+    [
+      "W",
+      "A",
+      "R",
+      "M",
+      "Q",
+      "S",
+      "G",
+      "C",
+      "F",
+      "T"
+    ],
+    [
+      "W",
+      "B",
+      "Z",
+      "F",
+      "U",
+      "S",
+      "T",
+      "R",
+      "I",
+      "P"
+    ],
+    [
+      "G",
+      "J",
+      "V",
+      "I",
+      "I",
+      "A",
+      "A",
+      "T",
+      "Q",
+      "J"
+    ],
+    [
+      "P",
+      "K",
+      "B",
+      "V",
+      "L",
+      "G",
+      "V",
+      "O",
+      "B",
+      "U"
+    ],
+    [
+      "A",
+      "X",
+      "L",
+      "R",
+      "T",
+      "Y",
+      "X",
+      "P",
+      "J",
+      "X"
+    ],
+    [
+      "T",
+      "R",
+      "O",
+      "T",
+      "S",
+      "T",
+      "A",
+      "R",
+      "R",
+      "O"
+    ],
+    [
+      "C",
+      "N",
+      "C",
+      "C",
+      "D",
+      "W",
+      "N",
+      "P",
+      "I",
+      "N"
+    ],
+    [
+      "H",
+      "R",
+      "K",
+      "V",
+      "C",
+      "I",
+      "I",
+      "P",
+      "O",
+      "Q"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "QUILT",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "BLOCK",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "PATCH",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "STRIP",
+      "row": 3,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SEAM",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "WARM",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "STAR",
+      "row": 7,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BIND",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "TOP",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "PIN",
+      "row": 8,
+      "col": 7,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8621
+}

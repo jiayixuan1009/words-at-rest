@@ -1,0 +1,173 @@
+{
+  "id": "food-large-01",
+  "slug": "food-large-01",
+  "themeId": "food",
+  "title": "Large Print Food: Soft Broth",
+  "primaryKeyword": "large print food word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BASIL",
+    "BREAD",
+    "HERB",
+    "SALT",
+    "SOUP",
+    "STEW",
+    "TEA",
+    "THYME"
+  ],
+  "grid": [
+    [
+      "S",
+      "O",
+      "U",
+      "P",
+      "T",
+      "E",
+      "G",
+      "M",
+      "R"
+    ],
+    [
+      "L",
+      "S",
+      "B",
+      "A",
+      "H",
+      "K",
+      "Q",
+      "X",
+      "G"
+    ],
+    [
+      "X",
+      "B",
+      "A",
+      "A",
+      "Y",
+      "H",
+      "E",
+      "R",
+      "B"
+    ],
+    [
+      "B",
+      "Q",
+      "S",
+      "B",
+      "M",
+      "L",
+      "S",
+      "B",
+      "S"
+    ],
+    [
+      "P",
+      "S",
+      "I",
+      "L",
+      "E",
+      "Z",
+      "F",
+      "R",
+      "T"
+    ],
+    [
+      "A",
+      "P",
+      "L",
+      "T",
+      "O",
+      "G",
+      "M",
+      "E",
+      "E"
+    ],
+    [
+      "I",
+      "T",
+      "T",
+      "I",
+      "R",
+      "D",
+      "K",
+      "A",
+      "W"
+    ],
+    [
+      "Z",
+      "E",
+      "C",
+      "S",
+      "A",
+      "L",
+      "T",
+      "D",
+      "S"
+    ],
+    [
+      "E",
+      "A",
+      "I",
+      "I",
+      "S",
+      "C",
+      "C",
+      "K",
+      "D"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BREAD",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "BASIL",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "THYME",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "SOUP",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "STEW",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "SALT",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "HERB",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "TEA",
+      "row": 6,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2314
+}

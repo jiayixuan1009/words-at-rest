@@ -1,0 +1,208 @@
+{
+  "id": "garden-easy-02",
+  "slug": "garden-easy-02",
+  "themeId": "garden",
+  "title": "Garden: Seed Tray",
+  "primaryKeyword": "garden word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BLOOM",
+    "HOE",
+    "MOSS",
+    "POT",
+    "RAKE",
+    "ROOT",
+    "SEED",
+    "SHADE",
+    "SOIL",
+    "STEM"
+  ],
+  "grid": [
+    [
+      "M",
+      "S",
+      "I",
+      "W",
+      "T",
+      "W",
+      "A",
+      "S",
+      "G",
+      "I"
+    ],
+    [
+      "O",
+      "V",
+      "C",
+      "H",
+      "O",
+      "E",
+      "K",
+      "C",
+      "T",
+      "M"
+    ],
+    [
+      "Q",
+      "S",
+      "E",
+      "E",
+      "D",
+      "F",
+      "G",
+      "C",
+      "T",
+      "N"
+    ],
+    [
+      "B",
+      "L",
+      "O",
+      "O",
+      "M",
+      "S",
+      "H",
+      "A",
+      "D",
+      "E"
+    ],
+    [
+      "C",
+      "J",
+      "M",
+      "W",
+      "P",
+      "U",
+      "L",
+      "L",
+      "B",
+      "Y"
+    ],
+    [
+      "E",
+      "C",
+      "O",
+      "N",
+      "I",
+      "Q",
+      "E",
+      "P",
+      "Z",
+      "P"
+    ],
+    [
+      "P",
+      "T",
+      "S",
+      "R",
+      "W",
+      "Z",
+      "Z",
+      "H",
+      "P",
+      "C"
+    ],
+    [
+      "C",
+      "I",
+      "S",
+      "W",
+      "R",
+      "O",
+      "O",
+      "T",
+      "P",
+      "L"
+    ],
+    [
+      "S",
+      "O",
+      "I",
+      "L",
+      "S",
+      "T",
+      "E",
+      "M",
+      "O",
+      "J"
+    ],
+    [
+      "D",
+      "F",
+      "O",
+      "R",
+      "A",
+      "K",
+      "E",
+      "Y",
+      "T",
+      "S"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BLOOM",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SHADE",
+      "row": 3,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SOIL",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SEED",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "ROOT",
+      "row": 7,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "STEM",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "MOSS",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "RAKE",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "HOE",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "POT",
+      "row": 7,
+      "col": 8,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2911
+}

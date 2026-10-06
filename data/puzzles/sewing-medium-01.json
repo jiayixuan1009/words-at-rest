@@ -1,0 +1,284 @@
+{
+  "id": "sewing-medium-01",
+  "slug": "sewing-medium-01",
+  "themeId": "sewing",
+  "title": "Sewing: Seam Day",
+  "primaryKeyword": "sewing word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "APRON",
+    "BASTE",
+    "BIAS",
+    "COTTON",
+    "DART",
+    "FABRIC",
+    "GATHER",
+    "LINEN",
+    "PATTERN",
+    "PLEAT",
+    "SCISSORS",
+    "STITCH",
+    "THIMBLE",
+    "ZIPPER"
+  ],
+  "grid": [
+    [
+      "T",
+      "Z",
+      "Q",
+      "A",
+      "P",
+      "R",
+      "O",
+      "N",
+      "D",
+      "Q",
+      "Z",
+      "J"
+    ],
+    [
+      "I",
+      "I",
+      "H",
+      "F",
+      "S",
+      "C",
+      "I",
+      "S",
+      "S",
+      "O",
+      "R",
+      "S"
+    ],
+    [
+      "Y",
+      "P",
+      "T",
+      "A",
+      "V",
+      "S",
+      "T",
+      "I",
+      "T",
+      "C",
+      "H",
+      "G"
+    ],
+    [
+      "L",
+      "P",
+      "G",
+      "B",
+      "E",
+      "T",
+      "W",
+      "N",
+      "R",
+      "B",
+      "G",
+      "R"
+    ],
+    [
+      "H",
+      "E",
+      "O",
+      "R",
+      "E",
+      "Y",
+      "R",
+      "E",
+      "K",
+      "T",
+      "J",
+      "P"
+    ],
+    [
+      "Q",
+      "R",
+      "S",
+      "I",
+      "A",
+      "E",
+      "H",
+      "L",
+      "T",
+      "L",
+      "Y",
+      "L"
+    ],
+    [
+      "Y",
+      "H",
+      "L",
+      "C",
+      "T",
+      "T",
+      "L",
+      "B",
+      "H",
+      "Z",
+      "V",
+      "E"
+    ],
+    [
+      "Z",
+      "U",
+      "T",
+      "T",
+      "A",
+      "C",
+      "I",
+      "A",
+      "I",
+      "O",
+      "T",
+      "A"
+    ],
+    [
+      "B",
+      "X",
+      "A",
+      "G",
+      "T",
+      "F",
+      "N",
+      "S",
+      "M",
+      "U",
+      "W",
+      "T"
+    ],
+    [
+      "I",
+      "P",
+      "R",
+      "R",
+      "N",
+      "D",
+      "E",
+      "T",
+      "B",
+      "E",
+      "Y",
+      "J"
+    ],
+    [
+      "A",
+      "L",
+      "A",
+      "O",
+      "W",
+      "M",
+      "N",
+      "E",
+      "L",
+      "H",
+      "H",
+      "S"
+    ],
+    [
+      "S",
+      "D",
+      "C",
+      "O",
+      "T",
+      "T",
+      "O",
+      "N",
+      "E",
+      "M",
+      "O",
+      "J"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SCISSORS",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "THIMBLE",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "PATTERN",
+      "row": 9,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "STITCH",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "FABRIC",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "COTTON",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ZIPPER",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "GATHER",
+      "row": 8,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "LINEN",
+      "row": 6,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "BASTE",
+      "row": 6,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "PLEAT",
+      "row": 4,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "APRON",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "DART",
+      "row": 11,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "BIAS",
+      "row": 8,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8613
+}

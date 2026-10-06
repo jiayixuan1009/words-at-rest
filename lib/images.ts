@@ -169,6 +169,16 @@ const THEME_MOTIF: Record<string, string> = {
   rivers: "a winding river map, a smooth stone and reed sketch",
   deserts: "a sand dune sketch, a cactus and a water flask",
   museums: "a gallery bench, a framed sketch and an exhibit label card",
+  sewing: "a needle, spool of thread and folded fabric on a sewing table",
+  quilting: "a quilt block, batting scrap and binding strip on cream cloth",
+  swimming: "goggles, a swim cap and lane-line sketch on blue paper",
+  hiking: "hiking boots, a trail map and a walking pole on pine needles",
+  cycling: "a bicycle wheel, helmet and folded route map on a bench",
+  geology: "rock samples, a hand lens and a field notebook on sandstone",
+  architecture: "a small facade sketch, a scale ruler and tracing paper",
+  islands: "a small island map, shell and ferry ticket stub",
+  emotions: "a small journal, a soft pencil and a pressed flower",
+  photography: "a simple camera outline, a lens cap and a contact sheet strip",
   "large-print-pack": "reading glasses on an open puzzle book under a lamp",
   "hard-pack": "a dense puzzle grid with a fountain pen",
 };
@@ -201,6 +211,8 @@ const THEME_MOTIF: Record<string, string> = {
  * shopping, money): borrow nearby art until dedicated paintings land. Swap webp/OG only.
  *
  * TEMPORARY covers for Wave F (countries…museums): borrow nearby art; swap webp/OG only.
+ *
+ * TEMPORARY covers for Wave G (sewing…photography): borrow nearby art; swap webp/OG only.
  */
 
 export function themeArt(slug: string, themeName: string): Art {

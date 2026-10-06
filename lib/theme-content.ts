@@ -613,6 +613,76 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
       "Culture-minded adults and quiet visitors.",
     tip: "Long words such as SCULPTURE and COLLECTION anchor harder grids.",
   },
+  sewing: {
+    vocabulary:
+      "Needle, seam and fabric English — no sewing-machine brands.",
+    goodFor:
+      "Quiet craft evenings for adults.",
+    tip: "Long words like SCISSORS and PATTERN stand out first.",
+  },
+  quilting: {
+    vocabulary:
+      "Block, batting and binding English — no quilt-shop brands.",
+    goodFor:
+      "A calm craft companion to knitting and sewing.",
+    tip: "Long words such as BINDING and BATTING anchor harder grids.",
+  },
+  swimming: {
+    vocabulary:
+      "Pool and stroke English — no club brands.",
+    goodFor:
+      "Sports child theme for lap swimmers.",
+    tip: "Long words like FREESTYLE and BACKSTROKE jump out quickly.",
+  },
+  hiking: {
+    vocabulary:
+      "Trail and ridge English — no gear brands.",
+    goodFor:
+      "Outdoor companion to camping and mountains.",
+    tip: "Long words such as SWITCHBACK and DESCENT stand out.",
+  },
+  cycling: {
+    vocabulary:
+      "Bike and road English — no maker brands.",
+    goodFor:
+      "Sports child theme for riders.",
+    tip: "Long words like HELMET and PELOTON are easier than BIKE or LOCK.",
+  },
+  geology: {
+    vocabulary:
+      "Rock and earth-science English for adults.",
+    goodFor:
+      "Curious adults who like field vocabulary.",
+    tip: "Long words such as SANDSTONE and SEDIMENT anchor the hard grid.",
+  },
+  architecture: {
+    vocabulary:
+      "Building and design English — no firm brands.",
+    goodFor:
+      "Adults who like calm structure vocabulary.",
+    tip: "Long words like FACADE and FOUNDATION stand out first.",
+  },
+  islands: {
+    vocabulary:
+      "Shore and reef English — no resort brands. Companion to Ocean.",
+    goodFor:
+      "Coastal mood without swimwear ads.",
+    tip: "Long words such as LIGHTHOUSE and LAGOON are easier than BAY or ISLE.",
+  },
+  emotions: {
+    vocabulary:
+      "Calm feeling words — hope, courage, ease — no medical claims.",
+    goodFor:
+      "Soft evergreen for seniors' hours.",
+    tip: "Long words like GRATITUDE and COMPASSION anchor harder grids.",
+  },
+  photography: {
+    vocabulary:
+      "Camera craft English — no camera brands.",
+    goodFor:
+      "Adults who like light-and-frame vocabulary.",
+    tip: "Long words such as APERTURE and DARKROOM stand out quickly.",
+  },
   bible: {
     vocabulary:
       "The Bible list is grouped by familiar Scripture vocabulary: books of the Old and New Testaments (Genesis, Exodus, Matthew, Acts), people of the Old Testament (Abraham, Moses, David, Esther), disciples and New Testament figures (Peter, Paul, Lydia, Martha), places named in the text (Jerusalem, Bethlehem, Nazareth, Galilee), and short virtue words drawn from everyday church English — love, joy, peace, faith, hope, grace, mercy and kindness. Names follow common English / King James spellings. There are no verse quotations on the grid, no denominational slogans, and no cartoon characters.",

@@ -1,0 +1,173 @@
+{
+  "id": "thanksgiving-large-02",
+  "slug": "thanksgiving-large-02",
+  "themeId": "thanksgiving",
+  "title": "Large Print Thanksgiving: Warm Share",
+  "primaryKeyword": "large print thanksgiving word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "HOME",
+    "JOY",
+    "PIE",
+    "ROLL",
+    "SHARE",
+    "THANKS",
+    "WARM",
+    "YAMS"
+  ],
+  "grid": [
+    [
+      "L",
+      "C",
+      "U",
+      "Y",
+      "Z",
+      "P",
+      "U",
+      "W",
+      "A"
+    ],
+    [
+      "Z",
+      "A",
+      "E",
+      "F",
+      "S",
+      "E",
+      "E",
+      "P",
+      "F"
+    ],
+    [
+      "W",
+      "A",
+      "R",
+      "M",
+      "H",
+      "H",
+      "O",
+      "M",
+      "E"
+    ],
+    [
+      "R",
+      "S",
+      "B",
+      "V",
+      "A",
+      "I",
+      "H",
+      "M",
+      "P"
+    ],
+    [
+      "O",
+      "S",
+      "U",
+      "J",
+      "R",
+      "J",
+      "Y",
+      "X",
+      "I"
+    ],
+    [
+      "L",
+      "L",
+      "T",
+      "O",
+      "E",
+      "Z",
+      "K",
+      "C",
+      "E"
+    ],
+    [
+      "L",
+      "C",
+      "R",
+      "Y",
+      "Z",
+      "Y",
+      "F",
+      "W",
+      "M"
+    ],
+    [
+      "G",
+      "T",
+      "H",
+      "A",
+      "N",
+      "K",
+      "S",
+      "S",
+      "V"
+    ],
+    [
+      "T",
+      "K",
+      "I",
+      "Y",
+      "A",
+      "M",
+      "S",
+      "E",
+      "W"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "THANKS",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SHARE",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "HOME",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "WARM",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "ROLL",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "YAMS",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "PIE",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "JOY",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 1132
+}

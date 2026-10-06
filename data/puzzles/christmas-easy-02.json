@@ -1,0 +1,208 @@
+{
+  "id": "christmas-easy-02",
+  "slug": "christmas-easy-02",
+  "themeId": "christmas",
+  "title": "Christmas: Quiet Hearth",
+  "primaryKeyword": "christmas word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CANDLE",
+    "CAROL",
+    "COCOA",
+    "FIRE",
+    "GIFT",
+    "HOME",
+    "PINE",
+    "SOCK",
+    "STAR",
+    "WREATH"
+  ],
+  "grid": [
+    [
+      "B",
+      "H",
+      "L",
+      "T",
+      "F",
+      "E",
+      "B",
+      "A",
+      "I",
+      "H"
+    ],
+    [
+      "N",
+      "U",
+      "R",
+      "L",
+      "S",
+      "T",
+      "A",
+      "R",
+      "V",
+      "Z"
+    ],
+    [
+      "P",
+      "I",
+      "N",
+      "E",
+      "B",
+      "C",
+      "A",
+      "R",
+      "O",
+      "L"
+    ],
+    [
+      "D",
+      "G",
+      "I",
+      "F",
+      "T",
+      "M",
+      "C",
+      "E",
+      "W",
+      "P"
+    ],
+    [
+      "E",
+      "R",
+      "X",
+      "C",
+      "F",
+      "N",
+      "V",
+      "T",
+      "R",
+      "S"
+    ],
+    [
+      "H",
+      "R",
+      "I",
+      "O",
+      "I",
+      "I",
+      "J",
+      "F",
+      "E",
+      "O"
+    ],
+    [
+      "B",
+      "X",
+      "I",
+      "C",
+      "R",
+      "S",
+      "Q",
+      "H",
+      "A",
+      "C"
+    ],
+    [
+      "X",
+      "O",
+      "X",
+      "O",
+      "E",
+      "X",
+      "N",
+      "O",
+      "T",
+      "K"
+    ],
+    [
+      "M",
+      "X",
+      "C",
+      "A",
+      "O",
+      "Y",
+      "D",
+      "M",
+      "H",
+      "D"
+    ],
+    [
+      "C",
+      "A",
+      "N",
+      "D",
+      "L",
+      "E",
+      "D",
+      "E",
+      "Y",
+      "Z"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "WREATH",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "CANDLE",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "COCOA",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "CAROL",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SOCK",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "FIRE",
+      "row": 4,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "PINE",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "STAR",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "GIFT",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "HOME",
+      "row": 6,
+      "col": 7,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 1231
+}

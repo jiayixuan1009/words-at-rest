@@ -1,0 +1,284 @@
+{
+  "id": "bible-medium-03",
+  "slug": "bible-medium-03",
+  "themeId": "bible",
+  "title": "Bible: Prophets & Judges",
+  "primaryKeyword": "bible word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "AMOS",
+    "DEBORAH",
+    "EZEKIEL",
+    "HABAKKUK",
+    "HAGGAI",
+    "HOSEA",
+    "ISAIAH",
+    "JEREMIAH",
+    "MALACHI",
+    "MICAH",
+    "NAHUM",
+    "SAMUEL",
+    "ZECHARIAH",
+    "ZEPHANIAH"
+  ],
+  "grid": [
+    [
+      "H",
+      "T",
+      "I",
+      "S",
+      "A",
+      "I",
+      "A",
+      "H",
+      "I",
+      "B",
+      "E",
+      "O"
+    ],
+    [
+      "O",
+      "Y",
+      "B",
+      "F",
+      "E",
+      "Z",
+      "E",
+      "K",
+      "I",
+      "E",
+      "L",
+      "M"
+    ],
+    [
+      "S",
+      "M",
+      "I",
+      "C",
+      "A",
+      "H",
+      "U",
+      "Z",
+      "U",
+      "F",
+      "L",
+      "N"
+    ],
+    [
+      "E",
+      "Y",
+      "U",
+      "N",
+      "B",
+      "K",
+      "M",
+      "E",
+      "V",
+      "Z",
+      "S",
+      "V"
+    ],
+    [
+      "A",
+      "G",
+      "T",
+      "B",
+      "K",
+      "I",
+      "A",
+      "P",
+      "D",
+      "E",
+      "M",
+      "Z"
+    ],
+    [
+      "M",
+      "M",
+      "Q",
+      "A",
+      "A",
+      "A",
+      "L",
+      "H",
+      "E",
+      "C",
+      "C",
+      "L"
+    ],
+    [
+      "O",
+      "A",
+      "B",
+      "G",
+      "D",
+      "E",
+      "A",
+      "A",
+      "B",
+      "H",
+      "R",
+      "Y"
+    ],
+    [
+      "S",
+      "A",
+      "G",
+      "I",
+      "U",
+      "X",
+      "C",
+      "N",
+      "O",
+      "A",
+      "F",
+      "V"
+    ],
+    [
+      "H",
+      "A",
+      "O",
+      "M",
+      "N",
+      "Z",
+      "H",
+      "I",
+      "R",
+      "R",
+      "Q",
+      "A"
+    ],
+    [
+      "H",
+      "N",
+      "A",
+      "H",
+      "U",
+      "M",
+      "I",
+      "A",
+      "A",
+      "I",
+      "V",
+      "E"
+    ],
+    [
+      "V",
+      "S",
+      "L",
+      "A",
+      "Y",
+      "E",
+      "S",
+      "H",
+      "H",
+      "A",
+      "O",
+      "V"
+    ],
+    [
+      "I",
+      "G",
+      "J",
+      "E",
+      "R",
+      "E",
+      "M",
+      "I",
+      "A",
+      "H",
+      "W",
+      "M"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ZEPHANIAH",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "ZECHARIAH",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "JEREMIAH",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "HABAKKUK",
+      "row": 8,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "EZEKIEL",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "MALACHI",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "DEBORAH",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "ISAIAH",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "HAGGAI",
+      "row": 9,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "SAMUEL",
+      "row": 10,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "HOSEA",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "MICAH",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "NAHUM",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "AMOS",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 5012
+}

@@ -1,0 +1,284 @@
+{
+  "id": "geology-medium-02",
+  "slug": "geology-medium-02",
+  "themeId": "geology",
+  "title": "Geology: Field Sample",
+  "primaryKeyword": "geology word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BEDROCK",
+    "BOULDER",
+    "CANYON",
+    "CLIFF",
+    "CORE",
+    "GEOLOGY",
+    "GLACIER",
+    "GRAVEL",
+    "MORAIN",
+    "OUTCROP",
+    "PEBBLE",
+    "SAMPLE",
+    "SURVEY",
+    "WEATHER"
+  ],
+  "grid": [
+    [
+      "I",
+      "S",
+      "M",
+      "D",
+      "R",
+      "G",
+      "L",
+      "A",
+      "C",
+      "I",
+      "E",
+      "R"
+    ],
+    [
+      "B",
+      "E",
+      "D",
+      "R",
+      "O",
+      "C",
+      "K",
+      "Y",
+      "Q",
+      "A",
+      "D",
+      "A"
+    ],
+    [
+      "C",
+      "C",
+      "O",
+      "R",
+      "E",
+      "C",
+      "G",
+      "M",
+      "A",
+      "W",
+      "P",
+      "G"
+    ],
+    [
+      "L",
+      "H",
+      "Q",
+      "A",
+      "F",
+      "O",
+      "E",
+      "O",
+      "I",
+      "E",
+      "E",
+      "R"
+    ],
+    [
+      "I",
+      "T",
+      "A",
+      "I",
+      "L",
+      "C",
+      "B",
+      "R",
+      "S",
+      "A",
+      "B",
+      "A"
+    ],
+    [
+      "F",
+      "Q",
+      "E",
+      "O",
+      "Q",
+      "A",
+      "O",
+      "A",
+      "U",
+      "T",
+      "B",
+      "V"
+    ],
+    [
+      "F",
+      "R",
+      "E",
+      "U",
+      "V",
+      "N",
+      "U",
+      "I",
+      "R",
+      "H",
+      "L",
+      "E"
+    ],
+    [
+      "F",
+      "G",
+      "H",
+      "T",
+      "C",
+      "Y",
+      "L",
+      "N",
+      "V",
+      "E",
+      "E",
+      "L"
+    ],
+    [
+      "C",
+      "X",
+      "G",
+      "C",
+      "Y",
+      "O",
+      "D",
+      "F",
+      "E",
+      "R",
+      "P",
+      "K"
+    ],
+    [
+      "C",
+      "Z",
+      "M",
+      "R",
+      "H",
+      "N",
+      "E",
+      "Y",
+      "Y",
+      "U",
+      "O",
+      "N"
+    ],
+    [
+      "V",
+      "R",
+      "A",
+      "O",
+      "L",
+      "M",
+      "R",
+      "I",
+      "E",
+      "N",
+      "H",
+      "N"
+    ],
+    [
+      "Q",
+      "I",
+      "K",
+      "P",
+      "Y",
+      "S",
+      "A",
+      "M",
+      "P",
+      "L",
+      "E",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "WEATHER",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "GLACIER",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "OUTCROP",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "BEDROCK",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BOULDER",
+      "row": 4,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "GEOLOGY",
+      "row": 7,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "CANYON",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "GRAVEL",
+      "row": 2,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "PEBBLE",
+      "row": 2,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "SAMPLE",
+      "row": 11,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SURVEY",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "MORAIN",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "CLIFF",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CORE",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8664
+}

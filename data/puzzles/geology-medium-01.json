@@ -1,0 +1,284 @@
+{
+  "id": "geology-medium-01",
+  "slug": "geology-medium-01",
+  "themeId": "geology",
+  "title": "Geology: Fault Line",
+  "primaryKeyword": "geology word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CORE",
+    "CRYSTAL",
+    "EROSION",
+    "FELDSPAR",
+    "FOSSIL",
+    "LAYER",
+    "LIMESTONE",
+    "MAGMA",
+    "MANTLE",
+    "MINERAL",
+    "RIFT",
+    "SANDSTONE",
+    "SEDIMENT",
+    "STRATA"
+  ],
+  "grid": [
+    [
+      "X",
+      "T",
+      "R",
+      "N",
+      "F",
+      "F",
+      "S",
+      "N",
+      "O",
+      "K",
+      "M",
+      "K"
+    ],
+    [
+      "A",
+      "H",
+      "I",
+      "F",
+      "Y",
+      "E",
+      "A",
+      "M",
+      "C",
+      "N",
+      "A",
+      "L"
+    ],
+    [
+      "I",
+      "M",
+      "F",
+      "O",
+      "D",
+      "L",
+      "N",
+      "A",
+      "C",
+      "O",
+      "G",
+      "I"
+    ],
+    [
+      "X",
+      "I",
+      "T",
+      "S",
+      "C",
+      "D",
+      "D",
+      "N",
+      "R",
+      "C",
+      "M",
+      "M"
+    ],
+    [
+      "S",
+      "N",
+      "P",
+      "S",
+      "O",
+      "S",
+      "S",
+      "T",
+      "Y",
+      "U",
+      "A",
+      "E"
+    ],
+    [
+      "Z",
+      "E",
+      "V",
+      "I",
+      "R",
+      "P",
+      "T",
+      "L",
+      "S",
+      "E",
+      "W",
+      "S"
+    ],
+    [
+      "F",
+      "R",
+      "D",
+      "L",
+      "E",
+      "A",
+      "O",
+      "E",
+      "T",
+      "R",
+      "N",
+      "T"
+    ],
+    [
+      "Q",
+      "A",
+      "L",
+      "I",
+      "T",
+      "R",
+      "N",
+      "L",
+      "A",
+      "O",
+      "A",
+      "O"
+    ],
+    [
+      "Q",
+      "L",
+      "Q",
+      "A",
+      "M",
+      "F",
+      "E",
+      "P",
+      "L",
+      "S",
+      "C",
+      "N"
+    ],
+    [
+      "D",
+      "P",
+      "R",
+      "X",
+      "Y",
+      "E",
+      "Z",
+      "V",
+      "E",
+      "I",
+      "Y",
+      "E"
+    ],
+    [
+      "N",
+      "T",
+      "R",
+      "J",
+      "M",
+      "E",
+      "N",
+      "T",
+      "D",
+      "O",
+      "F",
+      "O"
+    ],
+    [
+      "S",
+      "S",
+      "A",
+      "R",
+      "E",
+      "G",
+      "R",
+      "T",
+      "J",
+      "N",
+      "J",
+      "Y"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SANDSTONE",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "LIMESTONE",
+      "row": 1,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "FELDSPAR",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "SEDIMENT",
+      "row": 4,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "MINERAL",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "CRYSTAL",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "EROSION",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "FOSSIL",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "STRATA",
+      "row": 11,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "MANTLE",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "LAYER",
+      "row": 7,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "MAGMA",
+      "row": 0,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "RIFT",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "CORE",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8663
+}

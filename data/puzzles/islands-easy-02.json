@@ -1,0 +1,208 @@
+{
+  "id": "islands-easy-02",
+  "slug": "islands-easy-02",
+  "themeId": "islands",
+  "title": "Islands: Quiet Reef",
+  "primaryKeyword": "islands word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CLIFF",
+    "COVE",
+    "CRAB",
+    "GULL",
+    "ISLAND",
+    "LAGOON",
+    "PIER",
+    "PORT",
+    "ROCK",
+    "SAND"
+  ],
+  "grid": [
+    [
+      "V",
+      "M",
+      "U",
+      "P",
+      "O",
+      "R",
+      "T",
+      "R",
+      "S",
+      "U"
+    ],
+    [
+      "N",
+      "M",
+      "T",
+      "V",
+      "P",
+      "Y",
+      "W",
+      "O",
+      "A",
+      "A"
+    ],
+    [
+      "P",
+      "C",
+      "L",
+      "I",
+      "F",
+      "F",
+      "I",
+      "C",
+      "N",
+      "R"
+    ],
+    [
+      "L",
+      "G",
+      "U",
+      "L",
+      "L",
+      "K",
+      "Z",
+      "K",
+      "D",
+      "M"
+    ],
+    [
+      "A",
+      "C",
+      "I",
+      "S",
+      "L",
+      "A",
+      "N",
+      "D",
+      "J",
+      "F"
+    ],
+    [
+      "G",
+      "N",
+      "C",
+      "B",
+      "H",
+      "C",
+      "H",
+      "T",
+      "A",
+      "Q"
+    ],
+    [
+      "O",
+      "P",
+      "I",
+      "E",
+      "R",
+      "V",
+      "C",
+      "R",
+      "A",
+      "B"
+    ],
+    [
+      "O",
+      "Z",
+      "F",
+      "N",
+      "T",
+      "T",
+      "A",
+      "F",
+      "C",
+      "W"
+    ],
+    [
+      "N",
+      "E",
+      "T",
+      "V",
+      "C",
+      "O",
+      "V",
+      "E",
+      "D",
+      "Y"
+    ],
+    [
+      "M",
+      "K",
+      "I",
+      "B",
+      "L",
+      "H",
+      "Y",
+      "J",
+      "J",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ISLAND",
+      "row": 4,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "LAGOON",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CLIFF",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "COVE",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "PORT",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "PIER",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SAND",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "ROCK",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "GULL",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CRAB",
+      "row": 6,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8682
+}

@@ -1,0 +1,208 @@
+{
+  "id": "emotions-easy-01",
+  "slug": "emotions-easy-01",
+  "themeId": "emotions",
+  "title": "Emotions: Quiet Joy",
+  "primaryKeyword": "emotions word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CALM",
+    "CARE",
+    "EASE",
+    "HOPE",
+    "JOY",
+    "KIND",
+    "PEACE",
+    "TRUE",
+    "TRUST",
+    "WARM"
+  ],
+  "grid": [
+    [
+      "P",
+      "X",
+      "O",
+      "N",
+      "X",
+      "O",
+      "U",
+      "H",
+      "W",
+      "I"
+    ],
+    [
+      "E",
+      "G",
+      "E",
+      "C",
+      "A",
+      "R",
+      "E",
+      "L",
+      "Y",
+      "C"
+    ],
+    [
+      "A",
+      "W",
+      "W",
+      "A",
+      "Q",
+      "R",
+      "C",
+      "A",
+      "L",
+      "M"
+    ],
+    [
+      "C",
+      "A",
+      "N",
+      "X",
+      "R",
+      "S",
+      "Q",
+      "S",
+      "F",
+      "A"
+    ],
+    [
+      "E",
+      "R",
+      "H",
+      "O",
+      "P",
+      "E",
+      "E",
+      "A",
+      "S",
+      "E"
+    ],
+    [
+      "J",
+      "M",
+      "Z",
+      "R",
+      "E",
+      "K",
+      "D",
+      "Y",
+      "Q",
+      "O"
+    ],
+    [
+      "U",
+      "Q",
+      "Z",
+      "W",
+      "O",
+      "I",
+      "T",
+      "J",
+      "G",
+      "Z"
+    ],
+    [
+      "U",
+      "I",
+      "D",
+      "C",
+      "W",
+      "N",
+      "R",
+      "O",
+      "E",
+      "G"
+    ],
+    [
+      "U",
+      "C",
+      "T",
+      "J",
+      "C",
+      "D",
+      "U",
+      "Y",
+      "N",
+      "R"
+    ],
+    [
+      "T",
+      "T",
+      "R",
+      "U",
+      "S",
+      "T",
+      "E",
+      "C",
+      "E",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PEACE",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "TRUST",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "HOPE",
+      "row": 4,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CALM",
+      "row": 2,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "WARM",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "KIND",
+      "row": 5,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "TRUE",
+      "row": 6,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "CARE",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "EASE",
+      "row": 4,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "JOY",
+      "row": 6,
+      "col": 7,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8691
+}

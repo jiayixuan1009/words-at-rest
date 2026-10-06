@@ -1,0 +1,208 @@
+{
+  "id": "sewing-easy-02",
+  "slug": "sewing-easy-02",
+  "themeId": "sewing",
+  "title": "Sewing: Quiet Hem",
+  "primaryKeyword": "sewing word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BUTTON",
+    "CLOTH",
+    "CRAFT",
+    "FOOT",
+    "IRON",
+    "NEEDLE",
+    "PATCH",
+    "PRESS",
+    "SPOOL",
+    "THREAD"
+  ],
+  "grid": [
+    [
+      "N",
+      "R",
+      "B",
+      "F",
+      "B",
+      "U",
+      "T",
+      "T",
+      "O",
+      "N"
+    ],
+    [
+      "C",
+      "E",
+      "N",
+      "B",
+      "I",
+      "P",
+      "A",
+      "T",
+      "C",
+      "H"
+    ],
+    [
+      "G",
+      "R",
+      "S",
+      "P",
+      "O",
+      "O",
+      "L",
+      "N",
+      "O",
+      "I"
+    ],
+    [
+      "D",
+      "C",
+      "R",
+      "A",
+      "F",
+      "T",
+      "Q",
+      "I",
+      "B",
+      "G"
+    ],
+    [
+      "C",
+      "I",
+      "R",
+      "O",
+      "N",
+      "O",
+      "K",
+      "C",
+      "N",
+      "B"
+    ],
+    [
+      "N",
+      "E",
+      "E",
+      "D",
+      "L",
+      "E",
+      "C",
+      "L",
+      "V",
+      "F"
+    ],
+    [
+      "V",
+      "X",
+      "I",
+      "Y",
+      "H",
+      "Z",
+      "I",
+      "O",
+      "M",
+      "O"
+    ],
+    [
+      "P",
+      "T",
+      "H",
+      "R",
+      "E",
+      "A",
+      "D",
+      "T",
+      "F",
+      "O"
+    ],
+    [
+      "U",
+      "E",
+      "Z",
+      "S",
+      "J",
+      "S",
+      "B",
+      "H",
+      "C",
+      "T"
+    ],
+    [
+      "P",
+      "R",
+      "E",
+      "S",
+      "S",
+      "L",
+      "C",
+      "Y",
+      "K",
+      "O"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "NEEDLE",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "THREAD",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BUTTON",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SPOOL",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CLOTH",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "PRESS",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "PATCH",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "CRAFT",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "IRON",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "FOOT",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8612
+}

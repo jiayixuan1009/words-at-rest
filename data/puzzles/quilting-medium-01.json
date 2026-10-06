@@ -1,0 +1,284 @@
+{
+  "id": "quilting-medium-01",
+  "slug": "quilting-medium-01",
+  "themeId": "quilting",
+  "title": "Quilting: Binding Edge",
+  "primaryKeyword": "quilting word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BACKING",
+    "BATTING",
+    "BINDING",
+    "CHARM",
+    "CORNER",
+    "COTTON",
+    "CUTTER",
+    "DESIGN",
+    "FABRIC",
+    "JELLY",
+    "PATTERN",
+    "RULER",
+    "SCRAP",
+    "STITCH"
+  ],
+  "grid": [
+    [
+      "K",
+      "G",
+      "T",
+      "C",
+      "O",
+      "T",
+      "T",
+      "O",
+      "N",
+      "U",
+      "E",
+      "G"
+    ],
+    [
+      "I",
+      "B",
+      "V",
+      "F",
+      "P",
+      "O",
+      "P",
+      "S",
+      "C",
+      "R",
+      "A",
+      "P"
+    ],
+    [
+      "M",
+      "Q",
+      "B",
+      "N",
+      "C",
+      "A",
+      "D",
+      "W",
+      "E",
+      "H",
+      "C",
+      "S"
+    ],
+    [
+      "C",
+      "P",
+      "F",
+      "W",
+      "O",
+      "I",
+      "T",
+      "L",
+      "P",
+      "I",
+      "G",
+      "T"
+    ],
+    [
+      "B",
+      "B",
+      "B",
+      "M",
+      "R",
+      "B",
+      "U",
+      "T",
+      "R",
+      "V",
+      "N",
+      "I"
+    ],
+    [
+      "A",
+      "A",
+      "O",
+      "Y",
+      "N",
+      "R",
+      "I",
+      "B",
+      "E",
+      "G",
+      "O",
+      "T"
+    ],
+    [
+      "C",
+      "T",
+      "H",
+      "X",
+      "E",
+      "C",
+      "A",
+      "N",
+      "I",
+      "R",
+      "V",
+      "C"
+    ],
+    [
+      "K",
+      "T",
+      "W",
+      "K",
+      "R",
+      "F",
+      "U",
+      "S",
+      "D",
+      "Y",
+      "N",
+      "H"
+    ],
+    [
+      "I",
+      "I",
+      "B",
+      "J",
+      "N",
+      "G",
+      "E",
+      "T",
+      "L",
+      "I",
+      "N",
+      "E"
+    ],
+    [
+      "N",
+      "N",
+      "Y",
+      "P",
+      "X",
+      "D",
+      "W",
+      "L",
+      "T",
+      "M",
+      "N",
+      "B"
+    ],
+    [
+      "G",
+      "G",
+      "Z",
+      "L",
+      "O",
+      "O",
+      "E",
+      "G",
+      "T",
+      "E",
+      "N",
+      "G"
+    ],
+    [
+      "C",
+      "H",
+      "A",
+      "R",
+      "M",
+      "J",
+      "C",
+      "E",
+      "A",
+      "Z",
+      "R",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BINDING",
+      "row": 4,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "BATTING",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "BACKING",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "PATTERN",
+      "row": 1,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "FABRIC",
+      "row": 7,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "COTTON",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "DESIGN",
+      "row": 9,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "CORNER",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "STITCH",
+      "row": 2,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "CUTTER",
+      "row": 6,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "SCRAP",
+      "row": 1,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "CHARM",
+      "row": 11,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "JELLY",
+      "row": 11,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "RULER",
+      "row": 5,
+      "col": 5,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8623
+}

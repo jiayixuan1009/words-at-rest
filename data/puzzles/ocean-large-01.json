@@ -1,0 +1,173 @@
+{
+  "id": "ocean-large-01",
+  "slug": "ocean-large-01",
+  "themeId": "ocean",
+  "title": "Large Print Ocean: Soft Tide",
+  "primaryKeyword": "large print ocean word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BAY",
+    "FOAM",
+    "GULL",
+    "REEF",
+    "SAND",
+    "SHELL",
+    "TIDE",
+    "WAVE"
+  ],
+  "grid": [
+    [
+      "B",
+      "C",
+      "B",
+      "E",
+      "F",
+      "S",
+      "V",
+      "W",
+      "K"
+    ],
+    [
+      "A",
+      "A",
+      "W",
+      "A",
+      "V",
+      "E",
+      "A",
+      "V",
+      "X"
+    ],
+    [
+      "Y",
+      "Z",
+      "P",
+      "A",
+      "R",
+      "U",
+      "L",
+      "T",
+      "T"
+    ],
+    [
+      "F",
+      "Y",
+      "F",
+      "G",
+      "S",
+      "A",
+      "N",
+      "D",
+      "R"
+    ],
+    [
+      "S",
+      "H",
+      "E",
+      "L",
+      "L",
+      "T",
+      "Z",
+      "D",
+      "O"
+    ],
+    [
+      "F",
+      "Y",
+      "S",
+      "V",
+      "W",
+      "B",
+      "M",
+      "D",
+      "P"
+    ],
+    [
+      "O",
+      "B",
+      "G",
+      "U",
+      "L",
+      "L",
+      "F",
+      "R",
+      "Z"
+    ],
+    [
+      "A",
+      "Y",
+      "Z",
+      "T",
+      "I",
+      "D",
+      "E",
+      "N",
+      "B"
+    ],
+    [
+      "M",
+      "L",
+      "Z",
+      "E",
+      "E",
+      "R",
+      "E",
+      "E",
+      "F"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SHELL",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "WAVE",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "TIDE",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SAND",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "GULL",
+      "row": 6,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "FOAM",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "REEF",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "BAY",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2414
+}

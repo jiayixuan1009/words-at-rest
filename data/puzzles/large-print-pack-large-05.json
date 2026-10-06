@@ -1,0 +1,173 @@
+{
+  "id": "large-print-pack-large-05",
+  "slug": "large-print-pack-large-05",
+  "themeId": "large-print-pack",
+  "title": "Large Print Word Search: Harbor Calm",
+  "primaryKeyword": "large print large print word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BOAT",
+    "DOCK",
+    "GULL",
+    "HARBOR",
+    "SAND",
+    "SHELL",
+    "TIDE",
+    "WAVE"
+  ],
+  "grid": [
+    [
+      "H",
+      "G",
+      "D",
+      "H",
+      "I",
+      "B",
+      "O",
+      "A",
+      "T"
+    ],
+    [
+      "D",
+      "B",
+      "O",
+      "W",
+      "M",
+      "C",
+      "I",
+      "M",
+      "H"
+    ],
+    [
+      "T",
+      "U",
+      "C",
+      "H",
+      "W",
+      "S",
+      "A",
+      "E",
+      "A"
+    ],
+    [
+      "I",
+      "V",
+      "K",
+      "X",
+      "A",
+      "H",
+      "X",
+      "N",
+      "R"
+    ],
+    [
+      "D",
+      "M",
+      "M",
+      "J",
+      "V",
+      "E",
+      "S",
+      "A",
+      "B"
+    ],
+    [
+      "E",
+      "Q",
+      "N",
+      "J",
+      "E",
+      "L",
+      "A",
+      "U",
+      "O"
+    ],
+    [
+      "G",
+      "U",
+      "L",
+      "L",
+      "L",
+      "L",
+      "N",
+      "Y",
+      "R"
+    ],
+    [
+      "O",
+      "I",
+      "G",
+      "W",
+      "Z",
+      "K",
+      "D",
+      "O",
+      "F"
+    ],
+    [
+      "O",
+      "T",
+      "T",
+      "N",
+      "F",
+      "J",
+      "P",
+      "N",
+      "J"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "HARBOR",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "SHELL",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "WAVE",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "BOAT",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "DOCK",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "GULL",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SAND",
+      "row": 4,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "TIDE",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 3011
+}

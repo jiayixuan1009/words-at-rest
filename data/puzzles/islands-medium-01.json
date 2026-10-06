@@ -1,0 +1,284 @@
+{
+  "id": "islands-medium-01",
+  "slug": "islands-medium-01",
+  "themeId": "islands",
+  "title": "Islands: Ferry Day",
+  "primaryKeyword": "islands word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ATOLL",
+    "CORAL",
+    "CURRENT",
+    "DUNE",
+    "FERRY",
+    "FISH",
+    "HARBOR",
+    "JETTY",
+    "PALM",
+    "PEBBLE",
+    "SAIL",
+    "SHELL",
+    "SWIM",
+    "WIND"
+  ],
+  "grid": [
+    [
+      "F",
+      "Y",
+      "V",
+      "S",
+      "Y",
+      "P",
+      "A",
+      "S",
+      "W",
+      "I",
+      "N",
+      "D"
+    ],
+    [
+      "D",
+      "C",
+      "U",
+      "R",
+      "I",
+      "E",
+      "S",
+      "W",
+      "I",
+      "M",
+      "R",
+      "R"
+    ],
+    [
+      "G",
+      "D",
+      "R",
+      "Y",
+      "K",
+      "F",
+      "I",
+      "S",
+      "H",
+      "O",
+      "C",
+      "G"
+    ],
+    [
+      "B",
+      "E",
+      "U",
+      "I",
+      "G",
+      "M",
+      "U",
+      "E",
+      "B",
+      "W",
+      "G",
+      "H"
+    ],
+    [
+      "F",
+      "V",
+      "X",
+      "N",
+      "Y",
+      "Y",
+      "K",
+      "R",
+      "O",
+      "Z",
+      "A",
+      "H"
+    ],
+    [
+      "W",
+      "H",
+      "L",
+      "C",
+      "E",
+      "M",
+      "A",
+      "S",
+      "G",
+      "P",
+      "E",
+      "P"
+    ],
+    [
+      "T",
+      "T",
+      "J",
+      "C",
+      "U",
+      "H",
+      "Y",
+      "S",
+      "U",
+      "E",
+      "S",
+      "A"
+    ],
+    [
+      "B",
+      "W",
+      "E",
+      "L",
+      "P",
+      "R",
+      "C",
+      "O",
+      "L",
+      "B",
+      "H",
+      "L"
+    ],
+    [
+      "E",
+      "A",
+      "T",
+      "O",
+      "L",
+      "L",
+      "R",
+      "I",
+      "C",
+      "B",
+      "E",
+      "M"
+    ],
+    [
+      "C",
+      "C",
+      "T",
+      "U",
+      "J",
+      "J",
+      "A",
+      "E",
+      "N",
+      "L",
+      "L",
+      "I"
+    ],
+    [
+      "S",
+      "X",
+      "Y",
+      "T",
+      "T",
+      "S",
+      "C",
+      "C",
+      "N",
+      "E",
+      "L",
+      "Q"
+    ],
+    [
+      "X",
+      "I",
+      "K",
+      "W",
+      "C",
+      "O",
+      "R",
+      "A",
+      "L",
+      "T",
+      "G",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CURRENT",
+      "row": 5,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "HARBOR",
+      "row": 6,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "PEBBLE",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "ATOLL",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "FERRY",
+      "row": 4,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "JETTY",
+      "row": 6,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "SHELL",
+      "row": 6,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "CORAL",
+      "row": 11,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "WIND",
+      "row": 0,
+      "col": 8,
+      "direction": "E"
+    },
+    {
+      "word": "PALM",
+      "row": 5,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "DUNE",
+      "row": 2,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "FISH",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SWIM",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "SAIL",
+      "row": 10,
+      "col": 5,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8683
+}

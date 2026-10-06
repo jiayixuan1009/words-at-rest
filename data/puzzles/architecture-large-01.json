@@ -1,0 +1,173 @@
+{
+  "id": "architecture-large-01",
+  "slug": "architecture-large-01",
+  "themeId": "architecture",
+  "title": "Large Print Architecture: Soft Arch",
+  "primaryKeyword": "large print architecture word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "ARCH",
+    "BEAM",
+    "DOME",
+    "DOOR",
+    "HALL",
+    "PLAN",
+    "ROOF",
+    "SITE"
+  ],
+  "grid": [
+    [
+      "Z",
+      "S",
+      "R",
+      "T",
+      "R",
+      "M",
+      "S",
+      "A",
+      "H"
+    ],
+    [
+      "D",
+      "N",
+      "V",
+      "V",
+      "O",
+      "C",
+      "I",
+      "R",
+      "D"
+    ],
+    [
+      "K",
+      "V",
+      "B",
+      "E",
+      "O",
+      "B",
+      "T",
+      "C",
+      "O"
+    ],
+    [
+      "X",
+      "H",
+      "D",
+      "E",
+      "F",
+      "E",
+      "E",
+      "H",
+      "O"
+    ],
+    [
+      "Z",
+      "A",
+      "D",
+      "P",
+      "Z",
+      "A",
+      "F",
+      "Z",
+      "R"
+    ],
+    [
+      "B",
+      "L",
+      "O",
+      "L",
+      "K",
+      "M",
+      "E",
+      "V",
+      "O"
+    ],
+    [
+      "K",
+      "L",
+      "M",
+      "A",
+      "X",
+      "S",
+      "S",
+      "T",
+      "P"
+    ],
+    [
+      "G",
+      "X",
+      "E",
+      "N",
+      "Z",
+      "I",
+      "E",
+      "T",
+      "M"
+    ],
+    [
+      "A",
+      "O",
+      "L",
+      "U",
+      "O",
+      "T",
+      "B",
+      "M",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ARCH",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "DOME",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "BEAM",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "ROOF",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "DOOR",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "HALL",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "PLAN",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "SITE",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8676
+}

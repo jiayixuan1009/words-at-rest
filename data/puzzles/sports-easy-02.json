@@ -1,0 +1,208 @@
+{
+  "id": "sports-easy-02",
+  "slug": "sports-easy-02",
+  "themeId": "sports",
+  "title": "Sports: Quiet Court",
+  "primaryKeyword": "sports word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BIKE",
+    "GOAL",
+    "JUMP",
+    "MEDAL",
+    "RACE",
+    "RUGBY",
+    "SOCCER",
+    "SWIM",
+    "TEAM",
+    "TENNIS"
+  ],
+  "grid": [
+    [
+      "E",
+      "Z",
+      "F",
+      "W",
+      "Q",
+      "G",
+      "O",
+      "A",
+      "L",
+      "C"
+    ],
+    [
+      "M",
+      "T",
+      "P",
+      "S",
+      "X",
+      "J",
+      "U",
+      "M",
+      "P",
+      "P"
+    ],
+    [
+      "H",
+      "E",
+      "Q",
+      "O",
+      "J",
+      "D",
+      "B",
+      "J",
+      "U",
+      "P"
+    ],
+    [
+      "N",
+      "A",
+      "V",
+      "C",
+      "R",
+      "U",
+      "G",
+      "B",
+      "Y",
+      "J"
+    ],
+    [
+      "T",
+      "M",
+      "B",
+      "C",
+      "E",
+      "A",
+      "S",
+      "W",
+      "I",
+      "M"
+    ],
+    [
+      "E",
+      "V",
+      "I",
+      "E",
+      "J",
+      "V",
+      "L",
+      "M",
+      "Y",
+      "W"
+    ],
+    [
+      "N",
+      "W",
+      "K",
+      "R",
+      "W",
+      "N",
+      "B",
+      "Q",
+      "U",
+      "M"
+    ],
+    [
+      "N",
+      "K",
+      "E",
+      "R",
+      "A",
+      "C",
+      "E",
+      "W",
+      "W",
+      "Y"
+    ],
+    [
+      "I",
+      "G",
+      "U",
+      "H",
+      "R",
+      "M",
+      "E",
+      "D",
+      "A",
+      "L"
+    ],
+    [
+      "S",
+      "W",
+      "R",
+      "L",
+      "Q",
+      "N",
+      "L",
+      "M",
+      "R",
+      "J"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TENNIS",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SOCCER",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "RUGBY",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "MEDAL",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "TEAM",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "RACE",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "JUMP",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SWIM",
+      "row": 4,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "BIKE",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "GOAL",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2211
+}

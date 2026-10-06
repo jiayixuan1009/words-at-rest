@@ -1,0 +1,173 @@
+{
+  "id": "photography-large-01",
+  "slug": "photography-large-01",
+  "themeId": "photography",
+  "title": "Large Print Photography: Soft Shot",
+  "primaryKeyword": "large print photography word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "FOCUS",
+    "FRAME",
+    "LENS",
+    "LIGHT",
+    "PHOTO",
+    "PRINT",
+    "SHOT",
+    "VIEW"
+  ],
+  "grid": [
+    [
+      "J",
+      "N",
+      "L",
+      "I",
+      "G",
+      "H",
+      "T",
+      "F",
+      "C"
+    ],
+    [
+      "P",
+      "P",
+      "H",
+      "O",
+      "T",
+      "O",
+      "U",
+      "R",
+      "V"
+    ],
+    [
+      "R",
+      "S",
+      "I",
+      "L",
+      "C",
+      "G",
+      "X",
+      "A",
+      "S"
+    ],
+    [
+      "D",
+      "G",
+      "B",
+      "E",
+      "P",
+      "N",
+      "V",
+      "M",
+      "H"
+    ],
+    [
+      "H",
+      "P",
+      "I",
+      "N",
+      "N",
+      "F",
+      "I",
+      "E",
+      "O"
+    ],
+    [
+      "E",
+      "R",
+      "U",
+      "S",
+      "Y",
+      "O",
+      "E",
+      "Y",
+      "T"
+    ],
+    [
+      "D",
+      "I",
+      "Q",
+      "K",
+      "Y",
+      "C",
+      "W",
+      "Y",
+      "C"
+    ],
+    [
+      "G",
+      "N",
+      "P",
+      "I",
+      "C",
+      "U",
+      "K",
+      "I",
+      "S"
+    ],
+    [
+      "C",
+      "T",
+      "X",
+      "V",
+      "E",
+      "S",
+      "E",
+      "X",
+      "W"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PHOTO",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "FOCUS",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "FRAME",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "LIGHT",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PRINT",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "LENS",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "SHOT",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "VIEW",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8706
+}

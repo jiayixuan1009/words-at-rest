@@ -1,0 +1,284 @@
+{
+  "id": "fall-medium-02",
+  "slug": "fall-medium-02",
+  "themeId": "fall",
+  "title": "Fall: Cornfield Walk",
+  "primaryKeyword": "fall word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ACORN",
+    "CHESTNUT",
+    "CORNFIELD",
+    "FOLIAGE",
+    "FOOTPATH",
+    "GOURD",
+    "HARVEST",
+    "HAYBALE",
+    "MAPLE",
+    "MIGRATING",
+    "ORCHARD",
+    "PUMPKIN",
+    "SWEATER",
+    "WOODSMOKE"
+  ],
+  "grid": [
+    [
+      "A",
+      "P",
+      "F",
+      "O",
+      "O",
+      "T",
+      "P",
+      "A",
+      "T",
+      "H",
+      "S",
+      "E"
+    ],
+    [
+      "W",
+      "B",
+      "K",
+      "P",
+      "U",
+      "M",
+      "P",
+      "K",
+      "I",
+      "N",
+      "L",
+      "J"
+    ],
+    [
+      "I",
+      "C",
+      "H",
+      "E",
+      "S",
+      "T",
+      "N",
+      "U",
+      "T",
+      "P",
+      "W",
+      "W"
+    ],
+    [
+      "F",
+      "G",
+      "M",
+      "V",
+      "O",
+      "R",
+      "C",
+      "H",
+      "A",
+      "R",
+      "D",
+      "O"
+    ],
+    [
+      "O",
+      "C",
+      "J",
+      "I",
+      "S",
+      "H",
+      "L",
+      "M",
+      "R",
+      "G",
+      "Q",
+      "O"
+    ],
+    [
+      "L",
+      "M",
+      "B",
+      "S",
+      "G",
+      "A",
+      "A",
+      "S",
+      "E",
+      "G",
+      "K",
+      "D"
+    ],
+    [
+      "I",
+      "L",
+      "B",
+      "W",
+      "G",
+      "R",
+      "Y",
+      "Y",
+      "D",
+      "K",
+      "O",
+      "S"
+    ],
+    [
+      "A",
+      "R",
+      "J",
+      "E",
+      "O",
+      "V",
+      "A",
+      "J",
+      "B",
+      "C",
+      "Y",
+      "M"
+    ],
+    [
+      "G",
+      "G",
+      "X",
+      "A",
+      "U",
+      "E",
+      "W",
+      "T",
+      "M",
+      "A",
+      "C",
+      "O"
+    ],
+    [
+      "E",
+      "U",
+      "L",
+      "T",
+      "R",
+      "S",
+      "S",
+      "Y",
+      "I",
+      "E",
+      "L",
+      "K"
+    ],
+    [
+      "H",
+      "W",
+      "I",
+      "E",
+      "D",
+      "T",
+      "X",
+      "D",
+      "E",
+      "N",
+      "T",
+      "E"
+    ],
+    [
+      "A",
+      "C",
+      "O",
+      "R",
+      "N",
+      "F",
+      "I",
+      "E",
+      "L",
+      "D",
+      "G",
+      "U"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CORNFIELD",
+      "row": 11,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "MIGRATING",
+      "row": 3,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "WOODSMOKE",
+      "row": 2,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "FOOTPATH",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CHESTNUT",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "HARVEST",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "PUMPKIN",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "FOLIAGE",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SWEATER",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "ORCHARD",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "HAYBALE",
+      "row": 4,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "GOURD",
+      "row": 6,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "MAPLE",
+      "row": 4,
+      "col": 7,
+      "direction": "NE"
+    },
+    {
+      "word": "ACORN",
+      "row": 11,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 1112
+}

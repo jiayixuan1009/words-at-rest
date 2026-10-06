@@ -1,0 +1,208 @@
+{
+  "id": "ocean-easy-02",
+  "slug": "ocean-easy-02",
+  "themeId": "ocean",
+  "title": "Ocean: Quiet Cove",
+  "primaryKeyword": "ocean word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BAY",
+    "CORAL",
+    "COVE",
+    "FOAM",
+    "GULL",
+    "REEF",
+    "SAND",
+    "SHELL",
+    "TIDE",
+    "WAVE"
+  ],
+  "grid": [
+    [
+      "Q",
+      "E",
+      "A",
+      "T",
+      "I",
+      "D",
+      "E",
+      "R",
+      "G",
+      "D"
+    ],
+    [
+      "G",
+      "C",
+      "C",
+      "B",
+      "P",
+      "D",
+      "K",
+      "X",
+      "W",
+      "G"
+    ],
+    [
+      "M",
+      "S",
+      "O",
+      "A",
+      "T",
+      "O",
+      "L",
+      "F",
+      "M",
+      "U"
+    ],
+    [
+      "O",
+      "H",
+      "R",
+      "Y",
+      "I",
+      "I",
+      "C",
+      "U",
+      "S",
+      "L"
+    ],
+    [
+      "P",
+      "E",
+      "A",
+      "R",
+      "Z",
+      "Z",
+      "I",
+      "R",
+      "Q",
+      "L"
+    ],
+    [
+      "C",
+      "L",
+      "L",
+      "W",
+      "A",
+      "V",
+      "E",
+      "E",
+      "S",
+      "S"
+    ],
+    [
+      "A",
+      "L",
+      "A",
+      "C",
+      "O",
+      "V",
+      "E",
+      "E",
+      "F",
+      "P"
+    ],
+    [
+      "U",
+      "Q",
+      "E",
+      "D",
+      "E",
+      "Y",
+      "G",
+      "F",
+      "O",
+      "X"
+    ],
+    [
+      "L",
+      "K",
+      "T",
+      "Z",
+      "P",
+      "F",
+      "M",
+      "O",
+      "A",
+      "K"
+    ],
+    [
+      "D",
+      "S",
+      "A",
+      "N",
+      "D",
+      "G",
+      "V",
+      "H",
+      "M",
+      "Y"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CORAL",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "SHELL",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "WAVE",
+      "row": 5,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "REEF",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "TIDE",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "COVE",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SAND",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "GULL",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "FOAM",
+      "row": 6,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "BAY",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2411
+}

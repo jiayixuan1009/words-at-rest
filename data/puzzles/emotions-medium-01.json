@@ -1,0 +1,284 @@
+{
+  "id": "emotions-medium-01",
+  "slug": "emotions-medium-01",
+  "themeId": "emotions",
+  "title": "Emotions: Gentle Hope",
+  "primaryKeyword": "emotions word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "COMFORT",
+    "CONTENT",
+    "COURAGE",
+    "FEAR",
+    "GENTLE",
+    "GRIEF",
+    "HAPPY",
+    "LAUGH",
+    "MERRY",
+    "PATIENCE",
+    "RELIEF",
+    "SERENE",
+    "SORROW",
+    "WONDER"
+  ],
+  "grid": [
+    [
+      "T",
+      "C",
+      "O",
+      "N",
+      "T",
+      "E",
+      "N",
+      "T",
+      "B",
+      "R",
+      "E",
+      "K"
+    ],
+    [
+      "S",
+      "Q",
+      "C",
+      "O",
+      "P",
+      "E",
+      "S",
+      "M",
+      "L",
+      "K",
+      "W",
+      "F"
+    ],
+    [
+      "C",
+      "O",
+      "U",
+      "R",
+      "A",
+      "G",
+      "E",
+      "E",
+      "C",
+      "O",
+      "Q",
+      "E"
+    ],
+    [
+      "R",
+      "S",
+      "J",
+      "F",
+      "T",
+      "H",
+      "D",
+      "R",
+      "R",
+      "K",
+      "L",
+      "A"
+    ],
+    [
+      "E",
+      "G",
+      "M",
+      "R",
+      "I",
+      "Z",
+      "Y",
+      "R",
+      "X",
+      "T",
+      "R",
+      "R"
+    ],
+    [
+      "L",
+      "G",
+      "R",
+      "I",
+      "E",
+      "F",
+      "O",
+      "Y",
+      "N",
+      "E",
+      "T",
+      "P"
+    ],
+    [
+      "I",
+      "L",
+      "P",
+      "X",
+      "N",
+      "S",
+      "S",
+      "E",
+      "D",
+      "R",
+      "L",
+      "H"
+    ],
+    [
+      "E",
+      "L",
+      "C",
+      "T",
+      "C",
+      "Q",
+      "G",
+      "N",
+      "O",
+      "G",
+      "F",
+      "A"
+    ],
+    [
+      "F",
+      "A",
+      "I",
+      "G",
+      "E",
+      "J",
+      "O",
+      "F",
+      "K",
+      "G",
+      "Q",
+      "P"
+    ],
+    [
+      "A",
+      "U",
+      "C",
+      "L",
+      "I",
+      "W",
+      "M",
+      "A",
+      "L",
+      "G",
+      "M",
+      "P"
+    ],
+    [
+      "D",
+      "G",
+      "G",
+      "C",
+      "P",
+      "O",
+      "E",
+      "R",
+      "K",
+      "R",
+      "O",
+      "Y"
+    ],
+    [
+      "M",
+      "H",
+      "Z",
+      "Y",
+      "C",
+      "L",
+      "S",
+      "E",
+      "R",
+      "E",
+      "N",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PATIENCE",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "COMFORT",
+      "row": 11,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "COURAGE",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CONTENT",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "WONDER",
+      "row": 9,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "RELIEF",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SERENE",
+      "row": 11,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "GENTLE",
+      "row": 7,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "SORROW",
+      "row": 6,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "HAPPY",
+      "row": 6,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "MERRY",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "LAUGH",
+      "row": 7,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "GRIEF",
+      "row": 5,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "FEAR",
+      "row": 1,
+      "col": 11,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8693
+}
