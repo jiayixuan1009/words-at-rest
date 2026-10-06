@@ -178,6 +178,29 @@
     transform: translateY(-1px);
   }
 
+  .btn-secondary {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    border-radius: 999px;
+    border: 2px solid var(--moss);
+    background: transparent;
+    color: var(--moss);
+    padding: 0.9rem 1.6rem;
+    font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+    font-size: 1.1rem;
+    font-weight: 600;
+    text-decoration: none;
+    transition: background 0.15s, color 0.15s, transform 0.15s;
+    min-height: 48px;
+  }
+  .btn-secondary:hover {
+    background: rgba(61, 90, 69, 0.08);
+    color: var(--moss);
+    transform: translateY(-1px);
+  }
+
   .chip {
     display: inline-flex;
     align-items: center;
