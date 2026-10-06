@@ -9,6 +9,19 @@
 
 ## [未发布 Unreleased]
 
+### 改进 — 字体排版 P0 + P1（分支 `typography`，未推送、未部署）
+- `64a03ee`（2026-10-06 20:51）按 2026-10-06 排版审计（报告未入库）落地 P0 + P1；用户与爬虫同一 HTML，暖色杂志风与衬线标题不变。
+  - 网格字母：Courier New 600 → 粗体无衬线（Verdana / Segoe UI / Roboto / Noto Sans 栈，700），字号随格子宽度：0.62 × 格宽（14–30px），Large print 0.75 ×（16–44px）；用容器查询单位 `cqi` + `--n`（每行字母数），旧浏览器按视口宽度估算。390px 手机：easy 16→21px、medium 16→18px、hard 16→14px（字形更大，cap 9.5→10.3px）；1280px：20→30 / 29 / 23px。
+  - 手机端所有难度格子恢复正方形：hard 22.9×26 → 22.9×22.9（网格 358×404 → 358×358）；hard + Large print 22.9×34 → 正方形（网格 524 → 358 高）。
+  - 已找到单词 `#a89880`（2.5:1）→ `#736452`（5.0:1），保留删除线。
+  - Large print / Reset 按钮与计数 14px → 17px，最小高度 40 → 44px；Tip 14px → 17px 无衬线；谜题卡片 meta 12px 大写 → 15px 句首大写（"Easy · 10×10 · 10 words"）。
+  - 单词表 16 → 18px（桌面 20px，Large print 24px）；列宽不小于最长单词（全数据最长 13 字母，如 CONCENTRATION），长词改单列而不是断词。
+  - 面包屑、署名、事实条、引用说明、图注 14–15px → 16px；`<cite>` 改正体。眉标 12.8px / 0.22em → 14px / 0.1em；11.2px 标签（首页每日卡日期、页头标语）→ 14px。
+  - 次要文字 `--ink-soft` `#5c5348`（6.6:1）→ `#4f473d`（8.0:1）；stone-500/600 文字统一为 ink-soft。
+  - 顶部导航 13–15.2px → 17px，5 项减为 4 项：**Hard** 移到页脚（"Hard puzzles"），Large Print 保留；手机行允许换行兜底；标语改为 md 起显示，640px 导航也恢复单行。页脚小字 14px 衬线 → 16px 无衬线。
+  - `/accessibility`：更新字号、格子、对比度（次要文字 8:1、已找到单词 5:1）与触控高度（≥44px）；删除已修复的"已找到单词对比度不足"已知问题，其余已知问题保留。
+  - 验证：typecheck、build、check-jsonld、check-images 通过；320/360/390/430/1280 无横向溢出；Lighthouse（手机，本地 preview，3 次）LCP ≈6.65s → ≈6.65s、CLS 0 → 0、无障碍 100 → 100。
+
 ### 新增 — 子主题 Wave 1（分支 `subthemes-wave1`，未推送、未部署）
 - `6ddb57c`（2026-10-06 13:04）Sports / Food / Music 拆出 12 个扁平子主题，每个 6 题：golf、baseball、tennis、fishing；baking、desserts、herbs、fruits；instruments、jazz、classical、music-terms。
   - Theme 新增可选 `parentSlug`；父主题页加 "Explore …" 子主题卡片；面包屑 `Themes → 父 → 子`。
