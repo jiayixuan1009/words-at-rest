@@ -1,6 +1,7 @@
 import Link from "next/link";
 import PuzzleCard from "@/components/PuzzleCard";
 import ThemeCard from "@/components/ThemeCard";
+import PlayOptions from "@/components/PlayOptions";
 import AdSlot from "@/components/AdSlot";
 import HubSchema from "@/components/HubSchema";
 import DifficultyTable from "@/components/DifficultyTable";
@@ -9,7 +10,7 @@ import Picture, { Ornament } from "@/components/Picture";
 import MobileMore from "@/components/MobileMore";
 import Sources, { Quote } from "@/components/Sources";
 import { CITATIONS } from "@/lib/citations";
-import { currentDailyDate, getDailyPuzzle, getLargePrintPuzzles, getPuzzles, getTheme, getThemes } from "@/lib/data";
+import { currentDailyDate, getDailyPuzzle, getLargePrintPuzzles, getPuzzles, getTheme, getThemes, isValidDailyDate } from "@/lib/data";
 import { ART, DIFFICULTY_ART } from "@/lib/images";
 import { SITE } from "@/lib/site";
 import { seo } from "@/lib/seo";
@@ -51,7 +52,7 @@ const LEVEL_COPY = {
 
 export default function HomePage() {
   const date = currentDailyDate();
-  const daily = getDailyPuzzle(date);
+  const daily = isValidDailyDate(date) ? getDailyPuzzle(date) : null;
   const totalPuzzles = getPuzzles().length;
   const totalThemes = getThemes().length;
   const themes = FEATURED_THEMES.map((s) => getTheme(s)).filter((t): t is Theme => Boolean(t));
@@ -77,7 +78,7 @@ export default function HomePage() {
             </span>
           </p>
           <div className="mt-8 hidden lg:block">
-            <LauncherCta puzzle={daily} />
+            {daily ? <LauncherCta puzzle={daily} /> : <Link href="/calendar" className="btn-primary">Play a past daily puzzle</Link>}
           </div>
           <div className="mt-8 hidden border-t border-[#d4cbb8] pt-6 lg:block">
             <LauncherChips />
@@ -85,7 +86,8 @@ export default function HomePage() {
         </div>
 
         <div className="home-launcher__preview">
-          <DailyPreview puzzle={daily} date={date} />
+          {daily ? <DailyPreview puzzle={daily} date={date} /> : <div className="paper-deep space-y-3 p-6"><p>Today’s puzzle is not ready yet.</p><Link href="/calendar" className="btn-primary">Browse past daily puzzles</Link></div>}
+          <PlayOptions />
         </div>
 
         <div className="home-launcher__chips lg:hidden">

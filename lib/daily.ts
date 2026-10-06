@@ -2,8 +2,7 @@
  * Daily puzzle schedule helpers (pure — no JSON import).
  *
  * - data/daily.json holds one entry per date from 2026-10-07 onward.
- * - 2026-10-06 (launch day) is intentionally NOT scheduled: getDailyPuzzle
- *   falls back to the original UTC-date hash pick so the live page stays put.
+ * - Launch day is frozen in data/daily-launch.json; missing dates are unpublished.
  * - Difficulty by UTC weekday: Sun/Mon/Wed easy, Tue/Thu/Fri medium, Sat hard.
  * - Theme rotation prefers seasonal themes in season; never repeats within 5 days;
  *   excludes hard-pack and large-print-pack.

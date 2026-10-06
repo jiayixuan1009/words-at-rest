@@ -76,14 +76,23 @@ export default async function ThemePage({ params }: Props) {
       <div className="mb-8 overflow-hidden rounded-sm border border-[#d4cbb8] sm:grid sm:grid-cols-[1.1fr_0.9fr]">
         <div className="flex flex-col justify-center p-6 sm:p-8">
           <h1 className="font-serif text-4xl tracking-tight">{theme.name} Word Search</h1>
+          <nav aria-label={`${theme.name} puzzles to play`} className="mt-3 flex flex-wrap gap-2 font-sans text-base">
+            {(["easy", "medium", "hard"] as const).map((level) => {
+              const p = puzzles.find((p) => p.difficulty === level && !p.largePrint);
+              return p ? <Link key={level} href={puzzlePath(p)} className="chip min-h-11 capitalize">Play {level}</Link> : null;
+            })}
+            {puzzles.find((p) => p.largePrint) && <Link href={puzzlePath(puzzles.find((p) => p.largePrint)!)} className="chip min-h-11">Play large print</Link>}
+          </nav>
           <Byline dates={dates} />
-          <p className="mt-4 max-w-2xl text-lg leading-relaxed text-[var(--ink-soft)]">{theme.description}</p>
+          <MobileMore id={`theme-intro-${theme.slug}`}>
+            <p className="mt-4 max-w-2xl text-lg leading-relaxed text-[var(--ink-soft)]">{theme.description}</p>
+          </MobileMore>
         </div>
         <Picture
           art={themeArt(theme.slug, theme.name)}
           priority
           sizes="(min-width: 1152px) 500px, (min-width: 640px) 45vw, 340px"
-          className="aspect-[4/3] w-full object-cover sm:aspect-auto sm:h-full"
+          className="hidden aspect-[4/3] w-full object-cover sm:block sm:aspect-auto sm:h-full"
         />
       </div>
 

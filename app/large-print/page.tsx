@@ -8,7 +8,7 @@ import Byline from "@/components/Byline";
 import Faq, { type FaqItem } from "@/components/Faq";
 import HubSchema from "@/components/HubSchema";
 import { routeDates } from "@/lib/content-dates";
-import { getLargePrintPuzzles } from "@/lib/data";
+import { getLargePrintPuzzles, puzzlePath } from "@/lib/data";
 import { ART } from "@/lib/images";
 import Picture from "@/components/Picture";
 import { seo } from "@/lib/seo";
@@ -62,6 +62,7 @@ export default function LargePrintPage() {
         <div className="grid sm:grid-cols-2">
           <div className="flex flex-col justify-center bg-[#ebe4d6]/50 p-8 sm:p-10">
             <h1 className="font-serif text-4xl tracking-tight sm:text-5xl">Large print word search</h1>
+            {puzzles[0] && <Link href={puzzlePath(puzzles[0])} className="btn-primary mt-4 self-start">Play a 9×9 puzzle</Link>}
             <Byline dates={DATES} />
             <p className="mt-4 text-xl leading-relaxed text-[var(--ink-soft)]">
               Bigger letters, smaller 9×9 grids, strong contrast, and words that read only across or
@@ -72,13 +73,13 @@ export default function LargePrintPage() {
             art={ART.largePrintPromo}
             priority
             sizes="(min-width: 1152px) 560px, (min-width: 640px) 50vw, 100vw"
-            className="aspect-[4/3] h-full w-full object-cover sm:aspect-auto"
+            className="hidden aspect-[4/3] h-full w-full object-cover sm:block sm:aspect-auto"
           />
         </div>
       </div>
       <p className="mt-6 max-w-3xl text-lg leading-relaxed text-[var(--ink-soft)]">
         You can also switch <strong className="text-[var(--ink)]">any</strong> puzzle on the site to
-        large print with the button above the grid. Your choice is remembered on this device.
+        the Larger grid size using the switch above the grid. Your choice is remembered on this device.
       </p>
       <div className="mt-12 grid gap-10 lg:grid-cols-[1.2fr_0.8fr] lg:items-start">
         <div>

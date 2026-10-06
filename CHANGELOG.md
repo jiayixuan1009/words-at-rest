@@ -9,6 +9,25 @@
 
 ## [未发布 Unreleased]
 
+### 修复 — 全站审计优先整改（待合并、未部署，基于 master `58608c3`）
+- `8f9dfd5`（2026-10-06 23:31，UTC+8）：以下优先整改代码与测试；验证结果见 `docs/AUDIT-REMEDIATION.md`。
+- 验证工具：图片检查修复Windows文件URL转路径；README移除过时的hash Daily说明；Analytics关闭时不排队游戏事件。
+- HTTP回归：检查SSR head标签、未来/无效日期404和noindex、robots与sitemap；移动指针只处理当前被捕获的指针。
+- 测量参数：各游戏事件携带grid_mode与入口路径，page_view保留真实URL的UTM参数以支持来源归因。
+- 整改状态与证据写入 `docs/AUDIT-REMEDIATION.md`，同步工作区问题列表；明确区分已实现、待部署及账户/广告/性能待验收项。
+- 发布状态：GitHub集成写入返回403；代码保留本地修复分支并导出补丁，未创建PR、未合并或部署。
+- F14：主题目录分为Seasonal、Anytime与Large print/Challenge packs，提供锚点跳转，保持所有主题的可抓取链接；手机隐藏目录装饰图。
+- 发布前置：`predeploy`执行Daily缓冲与回归测试；无障碍声明同步键盘与朗读能力，保留NVDA/VoiceOver/TalkBack未验收说明；Daily运维说明禁止替换已公开题目。
+- 回归验证：新增真实选词/路径迁移/方向限制与全题库检查，Daily测试改为直接调用实现（tsx开发依赖）；仅已同意的事件可等待GA初始化，拒绝/撤回会清空队列，未授权游戏行为不回填。
+- F04 / F05：主题、大字、成人页在标题旁提供直接开玩入口，手机介绍折叠/装饰图隐藏；首页与Daily提供具体Easy和9×9题入口，Daily手机装饰图后置。
+- F12 / F18：谜题页移除重复通用拼写/WCAG引语，保留有明确主题依据的来源；玩法说明同步键盘与 Grid size → Larger。
+- F07 / F10：GA改为接受分析后才加载（Basic consent mode），广告权限保持denied；提供拒绝、隐私页撤回与页脚入口，游戏事件不含所选路径/字母，SPA显式page_view；后台到账、Enhanced Measurement去重和正式广告CMP仍待账户验收。
+- F11：首日题冻结为独立JSON，保留原ID/进度；缺失日期不再hash回退，Daily/首页显示暂未就绪，日期页404，日历/sitemap仅链接已发布日期。
+- F18：Daily说明改用 Grid size → Larger，与当前控件一致。
+- F01：选词按实际字母与题目允许方向匹配，接受非预设正确位置；保存实际路径，兼容旧版已找到词数组，恢复时校验数据。
+- F03：网格单一 Tab 入口、方向键/Home/End移动、Enter/Space选首尾、Escape取消，行列与找到状态朗读；pointercancel只取消选择。
+- F13 / F07：完成态提供同难度下一题；游戏事件仅在接受分析且GA可用时发送。键盘与辅助技术全面验收仍待实机验证。
+
 ### 新增 — 子主题 Wave 1（分支 `subthemes-wave1`，未推送、未部署）
 - `6ddb57c`（2026-10-06 13:04）Sports / Food / Music 拆出 12 个扁平子主题，每个 6 题：golf、baseball、tennis、fishing；baking、desserts、herbs、fruits；instruments、jazz、classical、music-terms。
   - Theme 新增可选 `parentSlug`；父主题页加 "Explore …" 子主题卡片；面包屑 `Themes → 父 → 子`。

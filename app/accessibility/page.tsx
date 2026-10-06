@@ -14,7 +14,7 @@ import { SITE } from "@/lib/site";
 /*
  * Accessibility statement. Keep every line TRUE to the current code — this page
  * was written from measured behavior on 2026-10-06 (Playwright, 390px + 1280px):
- * - Grid cells are not focusable and have no key handlers → no keyboard selection.
+ * - Grid has a roving Tab stop, arrow/Home/End navigation and Enter/Space selection.
  * - "Grid size: Standard | Larger" (one site-wide setting, localStorage "war:gridSize",
  *   applied before first paint). Large print puzzles open in Larger unless Standard was chosen.
  * - Grid cells stay square. 390px phone, Standard: easy 34px, medium 29px, hard 23px,
@@ -122,19 +122,20 @@ export default function AccessibilityPage() {
           content” link appears on the first Tab press.
         </p>
         <p>
-          <strong>Not yet supported:</strong> selecting letters in the grid with the keyboard. Finding
-          a word currently needs a mouse, touchscreen or pen (drag across the word, or tap its first
-          and last letters). Keyboard selection is the top item on our accessibility to-do list.
+          Tab into the letter grid, then move with the arrow keys. Press Enter or Space on the first
+          letter and again on the last letter to select a word. Escape cancels the selection. Home
+          and End move to the ends of a row; Ctrl+Home and Ctrl+End move to the first and last grid
+          cells. You can also drag or tap the first and last letters with a pointer.
         </p>
 
         <h2 id="screen-readers">Screen readers</h2>
         <p>
           The letter grid is marked up as a grid of rows and cells, so a screen reader can read it
           letter by letter, and the word list is a normal list. The “found” counter above the grid
-          is announced when it changes. Because words cannot yet be selected without a pointer,
-          the puzzles are not fully playable with a screen reader alone, and found words in the list
-          are shown crossed out without a spoken label. We have not yet completed testing with
-          VoiceOver, TalkBack or NVDA.
+          is announced when it changes. Cells have letter, row, column and found/selected labels;
+          found words in the list also have a spoken “found” label. Keyboard selection is available,
+          but we have not yet completed testing with VoiceOver, TalkBack or NVDA, so we cannot
+          promise compatibility with every assistive technology.
         </p>
 
         <h2 id="touch">Phones and tap targets</h2>
@@ -156,8 +157,7 @@ export default function AccessibilityPage() {
 
         <h2 id="known-issues">Known issues</h2>
         <ul>
-          <li>No keyboard selection of words in the grid (see above).</li>
-          <li>Found words are not announced in the word list by screen readers.</li>
+          <li>Keyboard and spoken grid labels still need validation with NVDA, VoiceOver and TalkBack.</li>
           <li>Grid letter squares on medium and hard puzzles are below 40px on small phones.</li>
         </ul>
 

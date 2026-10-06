@@ -6,8 +6,8 @@
  *
  * Known gaps (acceptable for v1; fix before large catalog growth):
  * - Fill letters can accidentally spell a listed word along another path; the
- *   player UI only accepts intentional `placements`, so accidental paths do not
- *   count as “found”, but they can confuse. Mitigated lightly by `scrubAccidentalWords`.
+ *   UI accepts any correct occurrence in the allowed directions. Generation also
+ *   reduces extra occurrences with `scrubAccidentalWords`.
  * - No overlap-quality scoring; placement is random-fit.
  * - Backwards words only on hard.
  *

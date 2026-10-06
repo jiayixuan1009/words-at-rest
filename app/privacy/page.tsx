@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import AnalyticsPreferences from "@/components/AnalyticsPreferences";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import { Ornament } from "@/components/Picture";
 import { ART } from "@/lib/images";
@@ -44,8 +45,8 @@ export default function PrivacyPage() {
               <a href="#collect">What we collect</a>
             </li>
             <li>
-              <strong>Your puzzle progress</strong> (found words and your large-print setting) is saved
-              only in your own browser. We never receive it, and clearing your browser data erases it.{" "}
+              <strong>Your saved progress</strong> (found paths and grid size preference) stays in your
+              browser. If you allow analytics, we receive game event counts, not your saved paths.{" "}
               <a href="#cookies">Cookies and storage</a>
             </li>
             <li>
@@ -78,8 +79,9 @@ export default function PrivacyPage() {
           <li>
             <strong>Information stored only on your device.</strong> Puzzle progress (which words you
             have found) and your grid size preference (Standard or Larger) are saved in your browser’s{" "}
-            <code>localStorage</code>. That data stays on your device; we do not receive or sync it
-            to our servers.
+            <code>localStorage</code>. Saved paths stay on your device and are not synced to our servers.
+            If you allow analytics, we measure starts, found-word counts, completion, resume, resets,
+            grid size changes and next-puzzle clicks; we do not send the selected letters or paths.
           </li>
           <li>
             <strong>Automatic technical data.</strong> Like most websites, our hosting and security
@@ -109,13 +111,14 @@ export default function PrivacyPage() {
         </ul>
         <p>
           You can control or delete cookies in your browser settings. Blocking some cookies may
-          affect site features. A cookie / consent banner may be shown in regions where required
-          before non-essential cookies are used.
+          affect site features. We ask every visitor before loading Google Analytics. You can reject
+          analytics and still play and save progress, or change your choice below.
         </p>
 
         <h2 id="analytics">Analytics</h2>
+        <AnalyticsPreferences />
         <p>
-          We use Google Analytics 4 (GA4) to see aggregate traffic statistics — for example which
+          With your permission, we use Google Analytics 4 (GA4) to see aggregate traffic statistics — for example which
           pages and puzzles are popular — so we can improve the Site. GA4 sets cookies and collects
           usage data such as pages viewed, referring site, device and browser type, and approximate
           location; we do not send your name or email address to Google Analytics. Learn more at{" "}

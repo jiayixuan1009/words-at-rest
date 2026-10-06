@@ -31,6 +31,7 @@ export default function SiteFooter() {
             <li><Link href="/adults">For adults</Link></li>
             <li><Link href="/accessibility">Accessibility</Link></li>
             <li><Link href="/privacy">Privacy</Link></li>
+            <li><Link href="/privacy#analytics">Analytics choices</Link></li>
             <li><Link href="/terms">Terms</Link></li>
             <li><Link href="/contact">Contact</Link></li>
           </ul>

@@ -2,8 +2,9 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import PuzzleView from "@/components/PuzzleView";
+import PlayOptions from "@/components/PlayOptions";
 import Faq, { type FaqItem } from "@/components/Faq";
-import { currentDailyDate, formatLongDate, getDailyArchive, getDailyPuzzle } from "@/lib/data";
+import { currentDailyDate, formatLongDate, getDailyArchive, getDailyPuzzle, isValidDailyDate } from "@/lib/data";
 import { seo } from "@/lib/seo";
 import { SITE } from "@/lib/site";
 import { ART } from "@/lib/images";
@@ -49,16 +50,25 @@ const FAQ: FaqItem[] = [
 
 export default function DailyPage() {
   const date = currentDailyDate();
+  if (!isValidDailyDate(date)) return (
+    <section className="max-w-2xl space-y-4">
+      <h1 className="font-serif text-4xl">Today’s daily word search</h1>
+      <p className="text-lg">Today’s puzzle is not ready yet. Past puzzles and theme puzzles are still available.</p>
+      <Link href="/calendar" className="btn-primary">Play a past daily puzzle</Link>
+      <Link href="/difficulty/easy" className="inline-flex min-h-11 items-center">Try an easy puzzle</Link>
+    </section>
+  );
   const puzzle = getDailyPuzzle(date);
   const archive = getDailyArchive(30).slice(1);
 
   return (
     <>
       <Breadcrumbs items={[{ name: "Daily", href: "/daily" }]} />
-      <Picture art={ART.dailyHeader} priority sizes="(min-width: 1152px) 1088px, 100vw" className="mb-6 aspect-[10/3] w-full rounded-[3px] border border-[#d4cbb8] object-cover" />
+      <Picture art={ART.dailyHeader} sizes="(min-width: 1152px) 1088px, 100vw" className="mb-6 hidden aspect-[10/3] w-full rounded-[3px] border border-[#d4cbb8] object-cover sm:block" />
       <p className="font-sans text-sm uppercase tracking-[0.08em] text-[var(--ink-soft)]">
         <time dateTime={date}>{formatLongDate(date)}</time>
       </p>
+      <PlayOptions />
       <PuzzleView
         puzzle={puzzle}
         heading="Today’s Daily Word Search"
@@ -74,7 +84,7 @@ export default function DailyPage() {
         </p>
         <Quote c={CITATIONS.niaCognitiveHealth} />
         <p>
-          Prefer bigger letters? Use Large print on the grid, in line with the W3C note that{" "}
+          Prefer bigger letters? Choose Larger in the Grid size switch, in line with the W3C note that{" "}
           <q cite={CITATIONS.wcagResizeText.url}>{CITATIONS.wcagResizeText.quote.replace(/\.$/, "")}</q>{" "}
           (
           <cite>
