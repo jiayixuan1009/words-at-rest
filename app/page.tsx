@@ -6,6 +6,9 @@ import HubSchema from "@/components/HubSchema";
 import DifficultyTable from "@/components/DifficultyTable";
 import DailyPreview, { LauncherChips, LauncherCta } from "@/components/DailyLauncher";
 import Picture, { Ornament } from "@/components/Picture";
+import MobileMore from "@/components/MobileMore";
+import Sources, { Quote } from "@/components/Sources";
+import { CITATIONS } from "@/lib/citations";
 import { currentDailyDate, getDailyPuzzle, getLargePrintPuzzles, getPuzzles, getTheme, getThemes } from "@/lib/data";
 import { ART, DIFFICULTY_ART } from "@/lib/images";
 import { SITE } from "@/lib/site";
@@ -16,6 +19,12 @@ export const dynamic = "force-dynamic";
 
 const HOME_DESC =
   "Calm, free word search puzzles for adults and seniors. Large print, a new daily puzzle and seasonal themes — no download, no sign-up, no timer.";
+
+const HOME_CITED = [
+  CITATIONS.niaCognitiveHealth,
+  CITATIONS.alzSocBrainTraining,
+  CITATIONS.wcagResizeText,
+];
 
 export const metadata = seo({
   title: "Free Large Print & Daily Word Search | Words at Rest",
@@ -286,6 +295,48 @@ export default function HomePage() {
         </div>
       </section>
 
+      {/* 6b · Why word puzzles (cited; full HTML for bots, collapsed on phones) */}
+      <section aria-labelledby="why-puzzles-h" className="max-w-3xl">
+        <h2 id="why-puzzles-h" className="font-serif text-3xl text-[var(--ink)]">Why word puzzles?</h2>
+        <MobileMore id="why-puzzles" className="mt-4">
+          <div className="space-y-4 text-lg leading-relaxed text-[var(--ink-soft)]">
+            <p>
+              A word search asks for just enough attention to quiet the rest of the day: a clear
+              goal, steady progress and a small satisfaction each time a word lights up. Unlike a
+              crossword, every answer is already on the list — no trivia required.
+            </p>
+            <p>
+              We offer puzzles as a calm pastime, not as medicine or “brain training.” Health
+              organizations are careful with their wording. The National Institute on Aging notes
+              that evidence for a lasting cognitive benefit from activities like these is mixed:
+            </p>
+            <Quote c={CITATIONS.niaCognitiveHealth} />
+            <p>
+              The{" "}
+              <cite>
+                <a href={CITATIONS.alzSocBrainTraining.url} rel="noopener" target="_blank">
+                  Alzheimer’s Society
+                </a>
+              </cite>{" "}
+              likewise finds that{" "}
+              <q cite={CITATIONS.alzSocBrainTraining.url}>{CITATIONS.alzSocBrainTraining.quote}</q>
+            </p>
+            <p>
+              On the practical side, every grid has a Large print control. That follows the W3C’s{" "}
+              <cite>
+                <a href={CITATIONS.wcagResizeText.url} rel="noopener" target="_blank">
+                  resize-text guidance
+                </a>
+              </cite>
+              : <q cite={CITATIONS.wcagResizeText.url}>{CITATIONS.wcagResizeText.quote.replace(/\.$/, "")}</q>.
+              More detail is on our <Link href="/adults">word search for adults</Link> page and{" "}
+              <Link href="/accessibility">accessibility statement</Link>.
+            </p>
+          </div>
+        </MobileMore>
+        <Sources items={HOME_CITED} />
+      </section>
+
       {/* 7 · Featured puzzles — compact index */}
       <section aria-labelledby="featured-h">
         <h2 id="featured-h" className="font-serif text-3xl">Featured puzzles</h2>
@@ -317,6 +368,7 @@ export default function HomePage() {
         description={HOME_DESC}
         path="/"
         breadcrumb={false}
+        citations={HOME_CITED}
         extra={{ about: { "@id": `${SITE.url}/#organization` } }}
       />
     </div>

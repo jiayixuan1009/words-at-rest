@@ -12,6 +12,8 @@ import { getPuzzlesByTheme, getTheme, getThemes, puzzlePath } from "@/lib/data";
 import { ART, themeArt, themeOgImage } from "@/lib/images";
 import Picture from "@/components/Picture";
 import { THEME_EXTRA } from "@/lib/theme-content";
+import { THEME_SOURCES, THEME_GENERIC_SOURCE } from "@/lib/citations";
+import { SourceNote } from "@/components/Sources";
 import { clamp, seo, themeNoun } from "@/lib/seo";
 import { absoluteUrl } from "@/lib/site";
 import { themeDates } from "@/lib/content-dates";
@@ -56,6 +58,7 @@ export default async function ThemePage({ params }: Props) {
   if (!theme) notFound();
   const puzzles = getPuzzlesByTheme(theme.id);
   const extra = THEME_EXTRA[theme.slug];
+  const themeSource = THEME_SOURCES[theme.slug] ?? THEME_GENERIC_SOURCE;
   const all = getThemes();
   const idx = all.findIndex((t) => t.id === theme.id);
   const others = [1, 2, 3].map((k) => all[(idx + k) % all.length]);
@@ -137,6 +140,8 @@ export default async function ThemePage({ params }: Props) {
       </div>
       </MobileMore>
 
+      <SourceNote source={themeSource} heading="Sources & notes" />
+
       <AdSlot slot="theme-hub" />
 
       <section className="mt-12">
@@ -160,6 +165,7 @@ export default async function ThemePage({ params }: Props) {
         path={`/themes/${theme.slug}`}
         image={themeOgImage(theme.slug)}
         dates={dates}
+        citations={[themeSource.citation]}
         extra={{ mainEntity: { "@id": `${pageUrl}#itemlist` } }}
         nodes={[
           {

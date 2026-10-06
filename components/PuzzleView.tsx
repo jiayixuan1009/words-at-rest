@@ -12,6 +12,8 @@ import { puzzleDates, type PageDates } from "@/lib/content-dates";
 import { puzzleArt, themeOgImage } from "@/lib/images";
 import Picture from "./Picture";
 import { THEME_EXTRA } from "@/lib/theme-content";
+import { THEME_SOURCES, THEME_GENERIC_SOURCE, CITATIONS } from "@/lib/citations";
+import { InlineSource } from "@/components/Sources";
 import type { Puzzle } from "@/lib/types";
 
 const DIRECTIONS: Record<string, string> = {
@@ -41,6 +43,9 @@ export default function PuzzleView({
   const url = absoluteUrl(canonicalPath);
   const image = themeOgImage(puzzle.themeId);
   const art = puzzleArt(puzzle, theme?.name ?? puzzle.themeId);
+  const themeSource = theme
+    ? (THEME_SOURCES[theme.slug] ?? THEME_GENERIC_SOURCE)
+    : THEME_GENERIC_SOURCE;
   return (
     <article>
       <h1 className="text-3xl font-semibold tracking-tight text-stone-900 sm:text-4xl">
@@ -83,6 +88,12 @@ export default function PuzzleView({
             <strong className="text-stone-900">{theme.name} tip:</strong> {THEME_EXTRA[theme.slug].tip}
           </p>
         )}
+        <InlineSource source={themeSource} />
+        <p className="mt-2 text-base leading-relaxed text-stone-600">
+          New to word searches? See{" "}
+          <Link href="/how-to-play">how to play</Link>, which cites the W3C guidance that{" "}
+          <q cite={CITATIONS.wcagResizeText.url}>{CITATIONS.wcagResizeText.quote.replace(/\.$/, "")}</q>.
+        </p>
         <Byline dates={dates} />
         <div className="clear-both" />
       </section>
@@ -128,6 +139,7 @@ export default function PuzzleView({
               path: canonicalPath,
               image,
               dates,
+              citations: [themeSource.citation, CITATIONS.wcagResizeText],
               extra: {
                 breadcrumb: { "@id": `${url}#breadcrumb` },
                 about: theme?.primaryKeyword ?? puzzle.primaryKeyword,

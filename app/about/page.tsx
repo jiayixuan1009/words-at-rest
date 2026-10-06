@@ -13,7 +13,7 @@ import { getPuzzles, getThemes } from "@/lib/data";
 import { SITE } from "@/lib/site";
 import { PERSON_ID, seo } from "@/lib/seo";
 
-const CITED = [CITATIONS.wcagContrast, CITATIONS.niaCognitiveHealth, CITATIONS.alzSocBrainTraining];
+const CITED = [CITATIONS.wcagContrast, CITATIONS.niaCognitiveHealth, CITATIONS.alzSocBrainTraining, CITATIONS.mwColour];
 
 const DATES = routeDates("/about");
 
@@ -100,7 +100,14 @@ export default function AboutPage() {
         <p>
           <strong>Written and reviewed by a person.</strong> Every theme starts as a word bank of
           about 40 words that {SITE.editor.name} writes and reviews. Lists use American
-          English spelling, leave out brand names, licensed characters and anything that might be
+          English spelling (for example color, not colour). Merriam-Webster records colour as the{" "}
+          <q cite={CITATIONS.mwColour.url}>{CITATIONS.mwColour.quote}</q> (
+          <cite>
+            <a href={CITATIONS.mwColour.url} rel="noopener" target="_blank">
+              Merriam-Webster: {CITATIONS.mwColour.title}
+            </a>
+          </cite>
+          ). We leave out brand names, licensed characters and anything that might be
           upsetting, and favor words that are pleasant to read. Every list is our own; we do not copy
           word lists from other puzzle sites.
         </p>

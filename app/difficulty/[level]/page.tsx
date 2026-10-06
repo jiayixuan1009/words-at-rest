@@ -12,6 +12,10 @@ import { datesFor } from "@/lib/content-dates";
 import { getPuzzlesByDifficulty, isDifficulty } from "@/lib/data";
 import { clamp, seo } from "@/lib/seo";
 import { DIFFICULTIES, type Difficulty } from "@/lib/types";
+import Sources from "@/components/Sources";
+import { CITATIONS } from "@/lib/citations";
+
+const DIFF_CITED = [CITATIONS.wcagResizeText, CITATIONS.niaCognitiveHealth];
 
 const DATES = datesFor("app/difficulty/[level]/page.tsx");
 
@@ -145,12 +149,34 @@ export default async function DifficultyPage({ params }: Props) {
         <span className="mx-3 text-stone-400">·</span>
         <Link href="/how-to-play">How to play</Link>
       </p>
+      <section className="mt-10 max-w-3xl space-y-3 text-lg leading-relaxed text-stone-700">
+        <h2 className="text-2xl font-semibold text-stone-900">Comfort and honesty</h2>
+        <p>
+          Every grid has a Large print control. That follows the W3C’s{" "}
+          <cite>
+            <a href={CITATIONS.wcagResizeText.url} rel="noopener" target="_blank">
+              resize-text guidance
+            </a>
+          </cite>
+          : <q cite={CITATIONS.wcagResizeText.url}>{CITATIONS.wcagResizeText.quote.replace(/\.$/, "")}</q>.
+          We still present puzzles as a pastime, not treatment — the{" "}
+          <cite>
+            <a href={CITATIONS.niaCognitiveHealth.url} rel="noopener" target="_blank">
+              National Institute on Aging
+            </a>
+          </cite>{" "}
+          notes that evidence for a lasting cognitive benefit from activities like these{" "}
+          <q cite={CITATIONS.niaCognitiveHealth.url}>is not definitive</q>.
+        </p>
+      </section>
+      <Sources items={DIFF_CITED} />
       <HubSchema dates={DATES}
         type="CollectionPage"
         name={c.h1}
         description={c.intro}
         path={`/difficulty/${level}`}
         image={`/og/difficulty-${level}.jpg`}
+        citations={DIFF_CITED}
       />
     </>
   );

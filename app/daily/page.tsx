@@ -8,6 +8,10 @@ import { seo } from "@/lib/seo";
 import { SITE } from "@/lib/site";
 import { ART } from "@/lib/images";
 import Picture from "@/components/Picture";
+import Sources, { Quote } from "@/components/Sources";
+import { CITATIONS } from "@/lib/citations";
+
+const DAILY_CITED = [CITATIONS.niaCognitiveHealth, CITATIONS.wcagResizeText];
 
 export const dynamic = "force-dynamic";
 
@@ -62,6 +66,26 @@ export default function DailyPage() {
         canonicalPath="/daily"
         pageDates={{ published: SITE.dailyStart, modified: date }}
       />
+      <section className="mt-10 max-w-3xl space-y-3 text-lg leading-relaxed text-stone-700">
+        <h2 className="text-xl font-semibold text-stone-900">A calm daily habit</h2>
+        <p>
+          Many players treat the daily grid like a morning crossword — a few quiet minutes, not a
+          workout for the brain. The National Institute on Aging cautions readers about overclaiming:
+        </p>
+        <Quote c={CITATIONS.niaCognitiveHealth} />
+        <p>
+          Prefer bigger letters? Use Large print on the grid, in line with the W3C note that{" "}
+          <q cite={CITATIONS.wcagResizeText.url}>{CITATIONS.wcagResizeText.quote.replace(/\.$/, "")}</q>{" "}
+          (
+          <cite>
+            <a href={CITATIONS.wcagResizeText.url} rel="noopener" target="_blank">
+              WCAG 1.4.4
+            </a>
+          </cite>
+          ).
+        </p>
+      </section>
+      <Sources items={DAILY_CITED} />
       <section className="mt-10">
         <h2 className="text-xl font-semibold">Past daily puzzles</h2>
         {archive.length === 0 ? (

@@ -9,8 +9,12 @@ import { getPuzzles, getThemes } from "@/lib/data";
 import { seo } from "@/lib/seo";
 import { ART } from "@/lib/images";
 import Picture from "@/components/Picture";
+import Sources, { Quote } from "@/components/Sources";
+import { CITATIONS } from "@/lib/citations";
 
 const DATES = datesFor("app/themes/page.tsx", "data/themes/index.ts");
+
+const THEMES_CITED = [CITATIONS.mwColour, CITATIONS.niaCognitiveHealth];
 
 const DESCRIPTION =
   "Browse free word search puzzles by theme: Halloween, fall, Christmas, Bible, animals, ocean, garden, music, space, large print and more. Original word lists, playable online.";
@@ -67,8 +71,22 @@ export default function ThemesPage() {
           Have an idea for a new theme? <Link href="/contact">Tell us</Link> — reader suggestions help
           decide what we make next.
         </p>
+        <h2 className="font-serif text-2xl font-semibold text-[var(--ink)]">How we spell the word lists</h2>
+        <p>
+          Every theme uses American English spelling. Merriam-Webster records colour as the{" "}
+          <q cite={CITATIONS.mwColour.url}>{CITATIONS.mwColour.quote}</q>, so our lists prefer color,
+          favor and similar American forms. We also avoid medical claims about puzzles; the{" "}
+          <cite>
+            <a href={CITATIONS.niaCognitiveHealth.url} rel="noopener" target="_blank">
+              National Institute on Aging
+            </a>
+          </cite>{" "}
+          notes that lasting cognitive benefits from activities like these are not definitive.
+        </p>
+        <Quote c={CITATIONS.niaCognitiveHealth} />
       </section>
-      <HubSchema dates={DATES} type="CollectionPage" name="Word search themes" description={DESCRIPTION} path="/themes" />
+      <Sources items={THEMES_CITED} />
+      <HubSchema dates={DATES} type="CollectionPage" name="Word search themes" description={DESCRIPTION} path="/themes" citations={THEMES_CITED} />
     </>
   );
 }
