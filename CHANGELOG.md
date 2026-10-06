@@ -9,12 +9,13 @@
 
 ## [未发布 Unreleased]
 
-## 2026-10-07 — Wave I（加深季节/爱好 + 新工艺主题，待部署）
+## 2026-10-07 — Wave I（加深季节/爱好 + 新工艺主题，已部署）
 
 ### 新增 — Wave I（+6 主题 / +112 谜题）
 - **新主题（各 6）：** pottery、woodworking、calligraphy、libraries、volunteering、gardening-tools。
 - **加深既有 hub（+76）：** travel/music/cats/dogs/space/beach/camping/mountains 各 +4；knitting/reading/painting/sewing/quilting/hiking/cycling/swimming/tools 各 +2；christmas/halloween/animals/garden/ocean/fall/winter/thanksgiving/food/sports/bible 加深；large-print-pack +4。新词表与网格，不覆盖旧题。
 - **规模：** 主题 110→**116**，谜题 716→**828**（朝 ~1000）。
+- **Deploy:** Worker version `335086c4` → wordsatrest.com（account `b79c11a97188ceeb150acb0b6c4cda97`）。
 
 ## 2026-10-07 — Wave H（加深高流量 + 新主题，已部署）
 
