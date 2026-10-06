@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import Breadcrumbs from "@/components/Breadcrumbs";
+import MobileMore from "@/components/MobileMore";
 import PuzzleCard from "@/components/PuzzleCard";
 import AdSlot from "@/components/AdSlot";
 import Byline from "@/components/Byline";
@@ -78,7 +79,7 @@ export default async function ThemePage({ params }: Props) {
         <Picture
           art={themeArt(theme.slug, theme.name)}
           priority
-          sizes="(min-width: 1152px) 500px, (min-width: 640px) 45vw, 100vw"
+          sizes="(min-width: 1152px) 500px, (min-width: 640px) 45vw, 340px"
           className="aspect-[4/3] w-full object-cover sm:aspect-auto sm:h-full"
         />
       </div>
@@ -97,7 +98,8 @@ export default async function ThemePage({ params }: Props) {
         </div>
       )}
 
-      <div className="mt-12 max-w-3xl space-y-4 text-lg leading-relaxed text-[var(--ink-soft)]">
+      <MobileMore id="theme-about" className="mt-12">
+      <div className="max-w-3xl space-y-4 text-lg leading-relaxed text-[var(--ink-soft)]">
         {extra && (
           <>
             <h2 className="font-serif text-2xl font-semibold text-[var(--ink)]">
@@ -133,6 +135,7 @@ export default async function ThemePage({ params }: Props) {
           <Link href="/how-to-play">how to play</Link>.
         </p>
       </div>
+      </MobileMore>
 
       <AdSlot slot="theme-hub" />
 

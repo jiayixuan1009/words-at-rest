@@ -214,6 +214,39 @@
     background-color: var(--highlight);
   }
 
+  /* MobileMore: clip long secondary copy on phones behind a CSS-only "Read more". */
+  .mobile-more__label { display: none; }
+  @media (max-width: 639px) {
+    .mobile-more__body {
+      max-height: 11rem;
+      overflow: hidden;
+      -webkit-mask-image: linear-gradient(to bottom, #000 60%, transparent);
+      mask-image: linear-gradient(to bottom, #000 60%, transparent);
+    }
+    .mobile-more__toggle:checked ~ .mobile-more__body {
+      max-height: none;
+      -webkit-mask-image: none;
+      mask-image: none;
+    }
+    .mobile-more__label {
+      display: inline-flex;
+      align-items: center;
+      min-height: 44px;
+      margin-top: 0.25rem;
+      cursor: pointer;
+      font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+      font-size: 1rem;
+      font-weight: 600;
+      color: var(--moss);
+      text-decoration: underline;
+      text-underline-offset: 4px;
+    }
+    .mobile-more__close { display: none; }
+    .mobile-more__toggle:checked ~ .mobile-more__label .mobile-more__open { display: none; }
+    .mobile-more__toggle:checked ~ .mobile-more__label .mobile-more__close { display: inline; }
+    .mobile-more__toggle:focus-visible ~ .mobile-more__label { outline: 3px solid #b45309; outline-offset: 2px; }
+  }
+
   /* FAQ accordions (<details>): hide the native marker, rotate the plus. */
   .faq-summary::-webkit-details-marker { display: none; }
   .faq-chevron { transition: transform 0.15s; }

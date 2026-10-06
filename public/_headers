@@ -1,0 +1,16 @@
+# Content-hashed build assets: cache forever (replaces vinext's generated default).
+/_next/static/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Hand-made art and social cards keep stable file names (they can be replaced in place),
+# so cache for a day and let browsers revalidate in the background for a week.
+/images/*
+  Cache-Control: public, max-age=86400, stale-while-revalidate=604800
+/og/*
+  Cache-Control: public, max-age=86400, stale-while-revalidate=604800
+/favicon.ico
+  Cache-Control: public, max-age=86400, stale-while-revalidate=604800
+/apple-touch-icon.png
+  Cache-Control: public, max-age=86400, stale-while-revalidate=604800
+/logo.png
+  Cache-Control: public, max-age=86400, stale-while-revalidate=604800

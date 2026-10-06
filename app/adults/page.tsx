@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import Breadcrumbs from "@/components/Breadcrumbs";
+import MobileMore from "@/components/MobileMore";
 import Picture, { Ornament } from "@/components/Picture";
 import { ART } from "@/lib/images";
 import Prose from "@/components/Prose";
@@ -70,6 +71,7 @@ export default function AdultsPage() {
           around children or around constant pop-ups and countdowns. We went the other way: calm
           pages, thoughtful vocabulary, and puzzles that respect your time and attention.
         </p>
+        <MobileMore id="adults">
         <h2>What makes these puzzles different?</h2>
         <ul>
           <li>
@@ -134,6 +136,7 @@ export default function AdultsPage() {
           day, so it is easy to share with a partner, a parent or a friend, and past days stay
           available in the archive.
         </p>
+        </MobileMore>
         <h2>Where should I start?</h2>
         <ul>
           <li><Link href="/daily">Today’s daily puzzle</Link> — one fresh grid per day</li>

@@ -47,7 +47,7 @@ export function LauncherChips() {
           <li key={d} className="shrink-0">
             <Link href={`/difficulty/${d}`} className="chip capitalize">
               {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img src={DIFFICULTY_ART[d].badge.src} width={24} height={24} alt="" className="h-6 w-6" />
+              <img src={DIFFICULTY_ART[d].badge.src} width={24} height={24} alt="" loading="lazy" decoding="async" className="h-6 w-6" />
               {d}
             </Link>
           </li>
@@ -98,6 +98,8 @@ export default function DailyPreview({ puzzle, date }: { puzzle: Puzzle; date: s
         height={48}
         alt=""
         aria-hidden="true"
+        loading="lazy"
+        decoding="async"
         className="pointer-events-none absolute right-1.5 top-1.5 h-9 w-9 -scale-x-100 opacity-70 sm:right-2 sm:top-2 sm:h-12 sm:w-12"
       />
       <div className="flex flex-col gap-3 lg:grid lg:grid-cols-[minmax(0,13rem)_1fr] lg:items-center lg:gap-5">

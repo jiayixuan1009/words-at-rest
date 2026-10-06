@@ -86,6 +86,8 @@ export default function HomePage() {
         <div className="home-launcher__hero">
           {/* Desktop / tablet: LCP hero above the preview overlap */}
           <picture className="hidden md:block">
+            {/* Phones never show this picture: a 1×1 placeholder source stops the eager download. */}
+            <source media="(max-width: 767px)" srcSet="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />
             <source
               media="(min-width: 768px)"
               srcSet={`${ART.heroDesktop.variants?.[0][0]} 1200w, ${ART.heroDesktop.src} 1600w`}
@@ -177,7 +179,7 @@ export default function HomePage() {
           {(["easy", "medium", "hard"] as const).map((d) => (
             <li key={d} className="border-t-2 border-[var(--ink)] pt-4">
               <Link href={`/difficulty/${d}`} className="group block no-underline">
-                <Picture art={DIFFICULTY_ART[d].image} sizes="(min-width: 640px) 33vw, 92vw" className="aspect-[2/1] w-full rounded-[3px] border border-[#d4cbb8] object-cover" />
+                <Picture art={DIFFICULTY_ART[d].image} sizes="(min-width: 640px) 33vw, 92vw" className="hidden aspect-[2/1] w-full rounded-[3px] border border-[#d4cbb8] object-cover sm:block" />
                 <div className="mt-4 flex items-center gap-3">
                   <Picture art={DIFFICULTY_ART[d].badge} decorative className="h-11 w-11" />
                   <h3 className="font-serif text-3xl text-[var(--ink)] group-hover:text-[var(--moss)]">{LEVEL_COPY[d].name}</h3>
@@ -195,7 +197,7 @@ export default function HomePage() {
 
       {/* 4 · Large print aside */}
       <section aria-labelledby="lp-h" className="paper-deep -mx-5 grid gap-8 border-y border-[#cbbfa6] px-5 py-10 sm:mx-0 sm:rounded-[4px] sm:border sm:px-10 lg:grid-cols-[0.9fr_1.1fr] lg:items-start">
-        <Picture art={ART.homeAsideLargePrint} sizes="(min-width: 1024px) 460px, 92vw" className="aspect-[4/3] w-full rounded-[3px] border border-[#cbbfa6] object-cover" />
+        <Picture art={ART.homeAsideLargePrint} sizes="(min-width: 1024px) 460px, 92vw" className="hidden aspect-[4/3] w-full rounded-[3px] border border-[#cbbfa6] object-cover sm:block" />
         <div>
           <p className="kicker">Easy on the eyes</p>
           <h2 id="lp-h" className="mt-3 font-serif text-4xl">Large print, made comfortable</h2>
@@ -225,7 +227,7 @@ export default function HomePage() {
         <ol className="mt-10 grid gap-8 sm:grid-cols-2 lg:grid-cols-4">
           {STEPS.map((s, i) => (
             <li key={s.title}>
-              <Picture art={ART.howToSteps[i]} sizes="(min-width: 1024px) 260px, (min-width: 640px) 45vw, 92vw" className="aspect-[4/3] w-full object-contain" />
+              <Picture art={ART.howToSteps[i]} sizes="(min-width: 1024px) 260px, (min-width: 640px) 45vw, 92vw" className="hidden aspect-[4/3] w-full object-contain sm:block" />
               <p className="mt-2 font-serif text-5xl leading-none text-[var(--highlight)]" aria-hidden="true">{i + 1}</p>
               <h3 className="mt-1 font-serif text-2xl">{s.title}</h3>
               <p className="mt-2 text-lg leading-relaxed text-[var(--ink-soft)]">{s.text}</p>
@@ -296,8 +298,8 @@ export default function HomePage() {
 
       {/* 8 · Come back tomorrow (no sign-up; just a reminder) */}
       <section aria-labelledby="cta-h" className="grid items-center gap-8 overflow-hidden rounded-[4px] border border-[#cbbfa6] bg-[#faf6ee]/70 sm:grid-cols-[1fr_1fr]">
-        <Picture art={ART.ctaComeBack} sizes="(min-width: 640px) 50vw, 100vw" className="aspect-[5/3] h-full w-full object-cover" />
-        <div className="px-6 pb-8 sm:py-8 sm:pr-10">
+        <Picture art={ART.ctaComeBack} sizes="(min-width: 640px) 50vw, 100vw" className="hidden aspect-[5/3] h-full w-full object-cover sm:block" />
+        <div className="px-6 py-8 sm:pr-10">
           <p className="kicker">Tomorrow’s grid</p>
           <h2 id="cta-h" className="mt-3 font-serif text-4xl">A fresh puzzle every morning</h2>
           <p className="mt-4 text-lg leading-relaxed text-[var(--ink-soft)]">

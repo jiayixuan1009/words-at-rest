@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import Breadcrumbs from "@/components/Breadcrumbs";
+import MobileMore from "@/components/MobileMore";
 import Prose from "@/components/Prose";
 import JsonLd from "@/components/JsonLd";
 import Byline from "@/components/Byline";
@@ -127,6 +128,7 @@ export default function HowToPlayPage() {
           help, and try <Link href="/difficulty/hard">hard</Link> when you want a longer search.
         </p>
 
+        <MobileMore id="how-to">
         <h2>How do I make the letters bigger?</h2>
         <p>
           Press <em>Large print</em> above any grid for bigger letters and a list that is easier to
@@ -150,6 +152,7 @@ export default function HowToPlayPage() {
           <li>On hard puzzles, remember to read right to left and bottom to top.</li>
           <li>Take a break if you get stuck — fresh eyes find hidden words faster.</li>
         </ul>
+        </MobileMore>
         <p>
           Ready? Try <Link href="/daily">today’s daily puzzle</Link> or browse{" "}
           <Link href="/themes">all themes</Link>.

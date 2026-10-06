@@ -3,6 +3,15 @@ import { srcSetOf, type Art } from "@/lib/images";
 /**
  * Plain <img> with intrinsic width/height (no CLS), srcset for derived variants and
  * lazy loading by default. Pass `priority` for the LCP image (eager + fetchpriority=high).
+ *
+ * Priority images are wrapped in a layout-neutral <picture> (display: contents). React
+ * emits a <link rel=preload> for every eager <img> outside a <picture> — both in the HTML
+ * and in RSC payloads — so without the wrapper, prefetching a link (e.g. the "Hard" nav
+ * item) made phones download that page's hero image too. The image itself is still in
+ * the initial HTML with fetchpriority=high, so the browser finds it just as early.
+ *
+ * Lazy images that are display:none on phones (e.g. `hidden sm:block`) are never fetched
+ * there, which is how decorative art is skipped on mobile without hiding any text.
  */
 export default function Picture({
   art,
@@ -21,7 +30,7 @@ export default function Picture({
   decorative?: boolean;
 }) {
   const srcSet = srcSetOf(art);
-  return (
+  const img = (
     // eslint-disable-next-line @next/next/no-img-element
     <img
       src={art.src}
@@ -37,6 +46,7 @@ export default function Picture({
       className={className}
     />
   );
+  return priority ? <picture style={{ display: "contents" }}>{img}</picture> : img;
 }
 
 /** Decorative ornament (divider rule, flourish, section ornament). Always alt="". */

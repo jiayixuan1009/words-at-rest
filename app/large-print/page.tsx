@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import Breadcrumbs from "@/components/Breadcrumbs";
+import MobileMore from "@/components/MobileMore";
 import PuzzleCard from "@/components/PuzzleCard";
 import Prose from "@/components/Prose";
 import Byline from "@/components/Byline";
@@ -88,7 +89,7 @@ export default function LargePrintPage() {
             ))}
           </div>
         </div>
-        <figure>
+        <figure className="hidden sm:block">
           <Picture art={ART.largePrintComfort} sizes="(min-width: 1024px) 420px, 92vw" className="aspect-[3/2] w-full object-contain" />
           <figcaption className="mt-2 font-sans text-sm italic text-[var(--ink-soft)]">
             Large print grids scale to fill a tablet held in landscape.
@@ -98,6 +99,7 @@ export default function LargePrintPage() {
 
       <div className="mt-12">
         <Prose>
+          <MobileMore id="large-print">
           <h2>What makes a word search easy to read?</h2>
           <p>
             Most printed and online word searches squeeze 15 or more rows of small letters onto a
@@ -162,6 +164,7 @@ export default function LargePrintPage() {
               browser zoom is the built-in way to do it.
             </li>
           </ul>
+          </MobileMore>
           <p>
             Looking for a gentle next step? Try our{" "}
             <Link href="/difficulty/easy">easy word searches</Link>, today’s{" "}
