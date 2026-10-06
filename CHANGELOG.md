@@ -25,6 +25,13 @@
 
 ## 2026-10-06 — master（已推送 origin/master）
 
+### 新增 — 引用与引语（citations，2026-10-06 晚间部署）
+- `c5129af`（约 19:40）
+  - 首页新增 "Why word puzzles?"（MobileMore 折叠，用户与爬虫同一 HTML）：引用 NIA 完整 blockquote、Alzheimer’s Society 原句、W3C WCAG 1.4.4 resize-text；Sources 列表 + JSON-LD `citation`。
+  - 主题 hub：bible / garden / ocean / space 各挂可核实来源（Project Gutenberg KJV 公有领域、USDA 耐寒区、NOAA 海水占比、NASA 八大行星）并配原句 blockquote；其余主题用 Merriam-Webster 美式拼写说明。
+  - 谜题页 "About this puzzle" 轻量 Source 行 + 链到 How to play 的 WCAG 引语；`/daily`、`/difficulty/*`、`/themes`、About 同步补引。
+  - 注册表 `lib/citations.ts`；UI `Quote` / `SourceNote` / `InlineSource`；对照表 `design/CITATIONS.md`（每条含核对日 2026-10-06 与原文支撑句）。不编造数据、无医疗夸大。
+
 ### 新增 — 难度递进图（difficulty images，2026-10-06 晚间部署）
 - `981b479`（19:30）
   - 16 个已上线主题各接入 Easy / Medium / Hard 三张同系列插画 `public/images/themes/<slug>-<easy|medium|hard>.webp`（1200×900），由 `scripts/derive-images.mjs` 派生 640w 和新增的 320w 缩略图。
