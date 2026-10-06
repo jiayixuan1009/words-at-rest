@@ -1,0 +1,208 @@
+{
+  "id": "bible-easy-02",
+  "slug": "bible-easy-02",
+  "themeId": "bible",
+  "title": "Bible: New Testament Books",
+  "primaryKeyword": "bible word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ACTS",
+    "HEBREWS",
+    "JAMES",
+    "JOHN",
+    "JUDE",
+    "LUKE",
+    "MARK",
+    "MATTHEW",
+    "PETER",
+    "ROMANS"
+  ],
+  "grid": [
+    [
+      "M",
+      "G",
+      "Y",
+      "U",
+      "X",
+      "J",
+      "P",
+      "E",
+      "H",
+      "R"
+    ],
+    [
+      "W",
+      "J",
+      "L",
+      "Y",
+      "D",
+      "O",
+      "P",
+      "I",
+      "E",
+      "W"
+    ],
+    [
+      "I",
+      "M",
+      "Z",
+      "T",
+      "H",
+      "H",
+      "E",
+      "D",
+      "B",
+      "Z"
+    ],
+    [
+      "Z",
+      "A",
+      "S",
+      "J",
+      "V",
+      "N",
+      "T",
+      "B",
+      "R",
+      "A"
+    ],
+    [
+      "R",
+      "T",
+      "T",
+      "J",
+      "U",
+      "D",
+      "E",
+      "V",
+      "E",
+      "C"
+    ],
+    [
+      "O",
+      "T",
+      "K",
+      "A",
+      "R",
+      "D",
+      "R",
+      "C",
+      "W",
+      "T"
+    ],
+    [
+      "M",
+      "H",
+      "M",
+      "M",
+      "L",
+      "Z",
+      "Q",
+      "Y",
+      "S",
+      "S"
+    ],
+    [
+      "A",
+      "E",
+      "G",
+      "E",
+      "U",
+      "A",
+      "V",
+      "J",
+      "X",
+      "D"
+    ],
+    [
+      "N",
+      "W",
+      "V",
+      "S",
+      "K",
+      "Z",
+      "J",
+      "Q",
+      "R",
+      "Y"
+    ],
+    [
+      "S",
+      "D",
+      "S",
+      "I",
+      "E",
+      "A",
+      "M",
+      "A",
+      "R",
+      "K"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "MATTHEW",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "HEBREWS",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "ROMANS",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "JAMES",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "PETER",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "MARK",
+      "row": 9,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "LUKE",
+      "row": 6,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "JOHN",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "ACTS",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "JUDE",
+      "row": 4,
+      "col": 3,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 5002
+}

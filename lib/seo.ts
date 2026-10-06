@@ -104,7 +104,7 @@ export function formatIsoDate(iso: string): string {
   });
 }
 
-const PROPER_THEMES = new Set(["Halloween", "Christmas"]);
+const PROPER_THEMES = new Set(["Halloween", "Christmas", "Bible"]);
 /** Theme name for use mid-sentence: proper nouns keep their capital, others lower-case. */
 export function themeNoun(name: string): string {
   return PROPER_THEMES.has(name) ? name : name.toLowerCase();

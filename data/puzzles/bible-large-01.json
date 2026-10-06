@@ -1,0 +1,173 @@
+{
+  "id": "bible-large-01",
+  "slug": "bible-large-01",
+  "themeId": "bible",
+  "title": "Large Print Bible: Virtues",
+  "primaryKeyword": "large print bible word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "FAITH",
+    "GRACE",
+    "HOPE",
+    "JOY",
+    "KINDNESS",
+    "LOVE",
+    "MERCY",
+    "PEACE"
+  ],
+  "grid": [
+    [
+      "H",
+      "L",
+      "O",
+      "V",
+      "E",
+      "M",
+      "M",
+      "Z",
+      "Q"
+    ],
+    [
+      "D",
+      "H",
+      "G",
+      "B",
+      "Z",
+      "H",
+      "E",
+      "F",
+      "V"
+    ],
+    [
+      "R",
+      "K",
+      "R",
+      "S",
+      "K",
+      "H",
+      "R",
+      "A",
+      "T"
+    ],
+    [
+      "J",
+      "H",
+      "A",
+      "P",
+      "R",
+      "O",
+      "C",
+      "I",
+      "C"
+    ],
+    [
+      "K",
+      "J",
+      "C",
+      "E",
+      "U",
+      "P",
+      "Y",
+      "T",
+      "I"
+    ],
+    [
+      "F",
+      "L",
+      "E",
+      "A",
+      "C",
+      "E",
+      "B",
+      "H",
+      "J"
+    ],
+    [
+      "P",
+      "A",
+      "N",
+      "C",
+      "Q",
+      "I",
+      "W",
+      "S",
+      "Q"
+    ],
+    [
+      "M",
+      "U",
+      "X",
+      "E",
+      "E",
+      "J",
+      "O",
+      "Y",
+      "G"
+    ],
+    [
+      "K",
+      "I",
+      "N",
+      "D",
+      "N",
+      "E",
+      "S",
+      "S",
+      "U"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "KINDNESS",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "PEACE",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "FAITH",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "GRACE",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "MERCY",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "LOVE",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "HOPE",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "JOY",
+      "row": 7,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 5006
+}

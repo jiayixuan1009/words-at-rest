@@ -23,7 +23,7 @@ export const metadata = seo({
   imageAlt: "Words at Rest — calm word search puzzles for adults",
 });
 
-const FEATURED_THEMES = ["halloween", "fall", "christmas", "garden", "ocean", "cats", "travel"];
+const FEATURED_THEMES = ["halloween", "fall", "christmas", "bible", "garden", "ocean", "cats"];
 
 const STEPS = [
   { title: "Pick a puzzle", text: "Start with today’s daily grid, or choose a theme and a difficulty you like." },

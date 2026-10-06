@@ -8,6 +8,7 @@ const CHIP_THEMES = [
   { slug: "halloween", name: "Halloween" },
   { slug: "fall", name: "Fall" },
   { slug: "christmas", name: "Christmas" },
+  { slug: "bible", name: "Bible" },
   { slug: "garden", name: "Garden" },
   { slug: "cats", name: "Cats" },
 ];

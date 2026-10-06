@@ -21,7 +21,9 @@ export function generateStaticParams() {
   return getThemes().map((t) => ({ theme: t.slug }));
 }
 
-function themeTitle(name: string): string {
+function themeTitle(name: string, slug?: string): string {
+  // Primary keyword target: "bible word search" + large-print intent (≤43 so + site suffix ≤60).
+  if (slug === "bible") return "Bible Word Search — Free & Large Print";
   const long = `${name} Word Search — Free Online Puzzles`;
   return long.length <= 43 ? long : `${name} Word Search — Free Puzzles`;
 }
@@ -32,7 +34,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const puzzles = getPuzzlesByTheme(theme.id);
   const sample = theme.words.slice(0, 3).map((w) => w.toLowerCase()).join(", ");
   return seo({
-    title: themeTitle(theme.name),
+    title: themeTitle(theme.name, theme.slug),
     description: clamp(
       `${puzzles.length} free ${themeNoun(theme.name)} word search puzzles for adults — ${sample} and more. Play online, no timer, large print on every grid.`,
       158,

@@ -1,0 +1,284 @@
+{
+  "id": "bible-medium-01",
+  "slug": "bible-medium-01",
+  "themeId": "bible",
+  "title": "Bible: Old Testament People",
+  "primaryKeyword": "bible word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ABRAHAM",
+    "DANIEL",
+    "DAVID",
+    "ELIJAH",
+    "ESTHER",
+    "GIDEON",
+    "ISAIAH",
+    "JONAH",
+    "JOSEPH",
+    "MOSES",
+    "NOAH",
+    "RUTH",
+    "SAMSON",
+    "SOLOMON"
+  ],
+  "grid": [
+    [
+      "U",
+      "U",
+      "I",
+      "R",
+      "H",
+      "R",
+      "D",
+      "A",
+      "V",
+      "I",
+      "D",
+      "I"
+    ],
+    [
+      "E",
+      "N",
+      "R",
+      "T",
+      "U",
+      "F",
+      "I",
+      "T",
+      "U",
+      "S",
+      "O",
+      "M"
+    ],
+    [
+      "L",
+      "P",
+      "U",
+      "D",
+      "E",
+      "H",
+      "Q",
+      "S",
+      "E",
+      "M",
+      "A",
+      "T"
+    ],
+    [
+      "I",
+      "R",
+      "L",
+      "A",
+      "S",
+      "M",
+      "N",
+      "S",
+      "A",
+      "H",
+      "R",
+      "E"
+    ],
+    [
+      "J",
+      "G",
+      "Y",
+      "N",
+      "T",
+      "R",
+      "O",
+      "Z",
+      "A",
+      "I",
+      "K",
+      "X"
+    ],
+    [
+      "A",
+      "I",
+      "J",
+      "I",
+      "H",
+      "M",
+      "P",
+      "R",
+      "U",
+      "S",
+      "A",
+      "W"
+    ],
+    [
+      "H",
+      "D",
+      "O",
+      "E",
+      "E",
+      "H",
+      "B",
+      "H",
+      "J",
+      "A",
+      "E",
+      "H"
+    ],
+    [
+      "T",
+      "E",
+      "N",
+      "L",
+      "R",
+      "A",
+      "T",
+      "D",
+      "O",
+      "M",
+      "N",
+      "A"
+    ],
+    [
+      "K",
+      "O",
+      "A",
+      "Z",
+      "I",
+      "H",
+      "A",
+      "M",
+      "S",
+      "S",
+      "O",
+      "R"
+    ],
+    [
+      "B",
+      "N",
+      "H",
+      "L",
+      "F",
+      "P",
+      "D",
+      "J",
+      "E",
+      "O",
+      "A",
+      "M"
+    ],
+    [
+      "L",
+      "R",
+      "W",
+      "U",
+      "V",
+      "E",
+      "G",
+      "A",
+      "P",
+      "N",
+      "H",
+      "X"
+    ],
+    [
+      "X",
+      "S",
+      "O",
+      "L",
+      "O",
+      "M",
+      "O",
+      "N",
+      "H",
+      "V",
+      "V",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ABRAHAM",
+      "row": 7,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "SOLOMON",
+      "row": 11,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "ESTHER",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "DANIEL",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "JOSEPH",
+      "row": 6,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "ELIJAH",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "ISAIAH",
+      "row": 1,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "SAMSON",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "GIDEON",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "MOSES",
+      "row": 5,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "DAVID",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "JONAH",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "RUTH",
+      "row": 3,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "NOAH",
+      "row": 7,
+      "col": 10,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 5003
+}

@@ -2,7 +2,7 @@
  * Pre-generates puzzle JSON so pages SSR stable, indexable grids.
  * Run: npm run generate
  */
-import { readFileSync, writeFileSync, readdirSync, mkdirSync } from "node:fs";
+import { readFileSync, writeFileSync, readdirSync, mkdirSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import { generateGrid, createRng } from "../lib/engine.ts";
@@ -21,6 +21,8 @@ interface Spec {
   title: string;
   primaryKeyword: string;
   seed: number;
+  /** When set, use this ordered list instead of sampling the theme bank (sub-topic puzzles). */
+  fixedWords?: string[];
 }
 
 const SIZES: Record<Difficulty, number> = { easy: 10, medium: 12, hard: 15 };
@@ -64,6 +66,13 @@ const PUZZLE_SPECS: Spec[] = [
   { themeId: "garden", difficulty: "easy", n: 1, title: "Easy Garden Word Search", primaryKeyword: "garden word search", seed: 2901 },
   { themeId: "garden", difficulty: "medium", n: 1, title: "Medium Garden Word Search", primaryKeyword: "garden word search", seed: 2902 },
   { themeId: "garden", difficulty: "hard", n: 1, title: "Hard Garden Word Search", primaryKeyword: "hard word search", seed: 2903 },
+  // Evergreen — Bible / Christian (fixed sub-topic lists; respectful, non-denominational)
+  { themeId: "bible", difficulty: "easy", n: 1, title: "Bible: Old Testament Books", primaryKeyword: "bible word search", seed: 5001, fixedWords: ["GENESIS", "EXODUS", "LEVITICUS", "NUMBERS", "JOSHUA", "JUDGES", "SAMUEL", "KINGS", "ESTHER", "PSALMS"] },
+  { themeId: "bible", difficulty: "easy", n: 2, title: "Bible: New Testament Books", primaryKeyword: "bible word search", seed: 5002, fixedWords: ["MATTHEW", "MARK", "LUKE", "JOHN", "ACTS", "ROMANS", "HEBREWS", "JAMES", "PETER", "JUDE"] },
+  { themeId: "bible", difficulty: "medium", n: 1, title: "Bible: Old Testament People", primaryKeyword: "bible word search", seed: 5003, fixedWords: ["ABRAHAM", "MOSES", "DAVID", "SOLOMON", "ESTHER", "RUTH", "DANIEL", "JOSEPH", "NOAH", "ELIJAH", "ISAIAH", "SAMSON", "GIDEON", "JONAH"] },
+  { themeId: "bible", difficulty: "medium", n: 2, title: "Bible: Disciples & Apostles", primaryKeyword: "bible word search", seed: 5004, fixedWords: ["PETER", "ANDREW", "JAMES", "JOHN", "PHILIP", "THOMAS", "MATTHEW", "SIMON", "PAUL", "BARNABAS", "TIMOTHY", "LYDIA", "MARTHA", "STEPHEN"] },
+  { themeId: "bible", difficulty: "hard", n: 1, title: "Hard Bible: Places & Cities", primaryKeyword: "bible word search", seed: 5005, fixedWords: ["JERUSALEM", "BETHLEHEM", "NAZARETH", "GALILEE", "JORDAN", "EGYPT", "BABYLON", "CANAAN", "SINAI", "JERICHO", "DAMASCUS", "ANTIOCH", "EPHESUS", "GETHSEMANE", "CALVARY", "CAPERNAUM", "NINEVEH", "SAMARIA"] },
+  { themeId: "bible", difficulty: "easy", n: 1, largePrint: true, title: "Large Print Bible: Virtues", primaryKeyword: "large print bible word search", seed: 5006, fixedWords: ["LOVE", "JOY", "PEACE", "FAITH", "HOPE", "GRACE", "MERCY", "KINDNESS"] },
   // Packs
   { themeId: "hard-pack", difficulty: "hard", n: 1, title: "Hard Word Search: Quiet Focus", primaryKeyword: "hard word search", seed: 4001 },
   { themeId: "hard-pack", difficulty: "hard", n: 2, title: "Hard Word Search: Craft & Curiosity", primaryKeyword: "hard word search", seed: 4002 },
@@ -83,16 +92,39 @@ const themes = new Map<string, Theme>(
     }),
 );
 
+const onlyArg = process.argv.find((a) => a.startsWith("--only="));
+const onlyTheme = onlyArg ? onlyArg.slice("--only=".length) : null;
+
 const slugs: string[] = [];
 for (const spec of PUZZLE_SPECS) {
   const theme = themes.get(spec.themeId);
   if (!theme) throw new Error(`Unknown theme ${spec.themeId}`);
+  const suffix = spec.largePrint ? "large" : spec.difficulty;
+  const slug = `${spec.themeId}-${suffix}-${String(spec.n).padStart(2, "0")}`;
+  const outPath = join(puzzlesDir, `${slug}.json`);
+
+  // --only=<themeId> regenerates that theme's puzzles and leaves every other grid file untouched.
+  if (onlyTheme && spec.themeId !== onlyTheme) {
+    if (!existsSync(outPath)) throw new Error(`Missing puzzle ${slug}; run a full generate first`);
+    slugs.push(slug);
+    continue;
+  }
+
   const size = spec.largePrint ? 9 : SIZES[spec.difficulty];
   const count = spec.largePrint ? 8 : WORD_COUNTS[spec.difficulty];
-  const rng = createRng(spec.seed * 7 + 13);
-  const pool = theme.words.filter((w) => w.length <= size);
-  const shuffled = [...pool].sort(() => rng() - 0.5);
-  const chosen = shuffled.slice(0, count);
+  let chosen: string[];
+  if (spec.fixedWords?.length) {
+    chosen = spec.fixedWords.map((w) => w.toUpperCase().replace(/[^A-Z]/g, "")).filter((w) => w.length <= size);
+    if (chosen.length < count) {
+      throw new Error(`${slug}: fixedWords has ${chosen.length} placeable words, need ${count}`);
+    }
+    chosen = chosen.slice(0, count);
+  } else {
+    const rng = createRng(spec.seed * 7 + 13);
+    const pool = theme.words.filter((w) => w.length <= size);
+    const shuffled = [...pool].sort(() => rng() - 0.5);
+    chosen = shuffled.slice(0, count);
+  }
   const { grid, placements, skipped } = generateGrid({
     words: chosen,
     size,
@@ -100,8 +132,6 @@ for (const spec of PUZZLE_SPECS) {
     seed: spec.seed,
   });
   if (skipped.length) console.warn(`[${spec.themeId}] skipped: ${skipped.join(", ")}`);
-  const suffix = spec.largePrint ? "large" : spec.difficulty;
-  const slug = `${spec.themeId}-${suffix}-${String(spec.n).padStart(2, "0")}`;
   const puzzle: Puzzle = {
     id: slug,
     slug,
@@ -117,7 +147,7 @@ for (const spec of PUZZLE_SPECS) {
     createdAt: "2026-10-06",
     seed: spec.seed,
   };
-  writeFileSync(join(puzzlesDir, `${slug}.json`), JSON.stringify(puzzle, null, 2) + "\n");
+  writeFileSync(outPath, JSON.stringify(puzzle, null, 2) + "\n");
   slugs.push(slug);
   console.log(`wrote ${slug} (${size}x${size}, ${placements.length} words)`);
 }

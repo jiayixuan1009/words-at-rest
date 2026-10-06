@@ -10,7 +10,7 @@ import { ART } from "@/lib/images";
 import Picture from "@/components/Picture";
 
 const DESCRIPTION =
-  "Browse free word search puzzles by theme: Halloween, fall, Christmas, animals, ocean, garden, music, space, large print and more. Original word lists, playable online.";
+  "Browse free word search puzzles by theme: Halloween, fall, Christmas, Bible, animals, ocean, garden, music, space, large print and more. Original word lists, playable online.";
 
 export const metadata: Metadata = seo({
   title: "Word Search Themes — Browse All Puzzles",
@@ -46,7 +46,7 @@ export default function ThemesPage() {
           <Link href="/themes/halloween">Halloween</Link>, <Link href="/themes/fall">fall</Link> and{" "}
           <Link href="/themes/christmas">Christmas</Link> — follow the calendar and get new puzzles as
           each season comes round. <strong className="text-[var(--ink)]">Evergreen themes</strong>{" "}
-          such as animals, food, ocean, garden, travel, music and space work any time of year.{" "}
+          such as Bible, animals, food, ocean, garden, travel, music and space work any time of year.{" "}
           <strong className="text-[var(--ink)]">Packs</strong> group puzzles by how they play rather
           than by topic: the <Link href="/themes/large-print-pack">Large Print Pack</Link> for
           comfortable reading and the <Link href="/themes/hard-pack">Hard Pack</Link> for a serious

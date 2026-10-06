@@ -103,6 +103,13 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
       "Made for gardeners in the off-season, allotment friends and anyone who finds plant names calming. It pairs well with a cup of tea on a rainy day when you cannot get outside.",
     tip: "Flower names are short and vowel-heavy (IRIS, LILY, ROSE). Start with the long, consonant-rich words such as GREENHOUSE and COMPOST, then hunt the flowers.",
   },
+  bible: {
+    vocabulary:
+      "The Bible list is grouped by familiar Scripture vocabulary: books of the Old and New Testaments (Genesis, Exodus, Matthew, Acts), people of the Old Testament (Abraham, Moses, David, Esther), disciples and New Testament figures (Peter, Paul, Lydia, Martha), places named in the text (Jerusalem, Bethlehem, Nazareth, Galilee), and short virtue words drawn from everyday church English — love, joy, peace, faith, hope, grace, mercy and kindness. Names follow common English / King James spellings. There are no verse quotations on the grid, no denominational slogans, and no cartoon characters.",
+    goodFor:
+      "A calm fit for church groups, adult Sunday-school helpers, seniors' activity hours, and anyone who wants a quiet, faith-friendly puzzle for personal devotion time. The easy grids warm up with book names; the hard grid hides eighteen place-names in all eight directions; the large-print puzzle uses eight short virtue words on a 9×9 grid.",
+    tip: "Long place-names such as JERUSALEM, BETHLEHEM and GETHSEMANE have distinctive letter pairs (RU, TH, THS). Find those first on the hard grid; shorter book names such as JOB or ACTS are easier to miss along the edges.",
+  },
   "large-print-pack": {
     vocabulary:
       "The Large Print Pack uses short, friendly words — teapot, meadow, cottage, kettle, quilt, birdsong — chosen so that every word is easy to read at a glance. Each grid has eight words in a 9×9 layout.",

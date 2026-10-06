@@ -33,6 +33,12 @@ import p_music_medium_01 from "./music-medium-01.json";
 import p_garden_easy_01 from "./garden-easy-01.json";
 import p_garden_medium_01 from "./garden-medium-01.json";
 import p_garden_hard_01 from "./garden-hard-01.json";
+import p_bible_easy_01 from "./bible-easy-01.json";
+import p_bible_easy_02 from "./bible-easy-02.json";
+import p_bible_medium_01 from "./bible-medium-01.json";
+import p_bible_medium_02 from "./bible-medium-02.json";
+import p_bible_hard_01 from "./bible-hard-01.json";
+import p_bible_large_01 from "./bible-large-01.json";
 import p_hard_pack_hard_01 from "./hard-pack-hard-01.json";
 import p_hard_pack_hard_02 from "./hard-pack-hard-02.json";
 import p_hard_pack_hard_03 from "./hard-pack-hard-03.json";
@@ -75,6 +81,12 @@ export const puzzles = [
   p_garden_easy_01,
   p_garden_medium_01,
   p_garden_hard_01,
+  p_bible_easy_01,
+  p_bible_easy_02,
+  p_bible_medium_01,
+  p_bible_medium_02,
+  p_bible_hard_01,
+  p_bible_large_01,
   p_hard_pack_hard_01,
   p_hard_pack_hard_02,
   p_hard_pack_hard_03,

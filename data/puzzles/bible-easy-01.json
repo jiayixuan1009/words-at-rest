@@ -1,0 +1,208 @@
+{
+  "id": "bible-easy-01",
+  "slug": "bible-easy-01",
+  "themeId": "bible",
+  "title": "Bible: Old Testament Books",
+  "primaryKeyword": "bible word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ESTHER",
+    "EXODUS",
+    "GENESIS",
+    "JOSHUA",
+    "JUDGES",
+    "KINGS",
+    "LEVITICUS",
+    "NUMBERS",
+    "PSALMS",
+    "SAMUEL"
+  ],
+  "grid": [
+    [
+      "T",
+      "J",
+      "P",
+      "U",
+      "K",
+      "W",
+      "L",
+      "L",
+      "K",
+      "O"
+    ],
+    [
+      "P",
+      "O",
+      "T",
+      "S",
+      "L",
+      "L",
+      "B",
+      "V",
+      "I",
+      "J"
+    ],
+    [
+      "S",
+      "S",
+      "D",
+      "A",
+      "E",
+      "E",
+      "Q",
+      "I",
+      "N",
+      "U"
+    ],
+    [
+      "A",
+      "H",
+      "N",
+      "M",
+      "V",
+      "X",
+      "Q",
+      "G",
+      "G",
+      "D"
+    ],
+    [
+      "L",
+      "U",
+      "U",
+      "U",
+      "I",
+      "O",
+      "E",
+      "E",
+      "S",
+      "G"
+    ],
+    [
+      "M",
+      "A",
+      "M",
+      "E",
+      "T",
+      "D",
+      "S",
+      "N",
+      "Y",
+      "E"
+    ],
+    [
+      "S",
+      "L",
+      "B",
+      "L",
+      "I",
+      "U",
+      "T",
+      "E",
+      "R",
+      "S"
+    ],
+    [
+      "O",
+      "L",
+      "E",
+      "R",
+      "C",
+      "S",
+      "H",
+      "S",
+      "E",
+      "E"
+    ],
+    [
+      "Q",
+      "N",
+      "R",
+      "H",
+      "U",
+      "G",
+      "E",
+      "I",
+      "E",
+      "A"
+    ],
+    [
+      "T",
+      "X",
+      "S",
+      "N",
+      "S",
+      "L",
+      "R",
+      "S",
+      "L",
+      "F"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "LEVITICUS",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "GENESIS",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "NUMBERS",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "EXODUS",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "JOSHUA",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "JUDGES",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SAMUEL",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "ESTHER",
+      "row": 4,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "PSALMS",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "KINGS",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 5001
+}

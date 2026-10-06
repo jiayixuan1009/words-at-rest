@@ -12,6 +12,7 @@ import cats from "./cats.json";
 import travel from "./travel.json";
 import music from "./music.json";
 import garden from "./garden.json";
+import bible from "./bible.json";
 import largePrintPack from "./large-print-pack.json";
 import hardPack from "./hard-pack.json";
 
@@ -30,6 +31,7 @@ export const themes = [
   travel,
   music,
   garden,
+  bible,
   largePrintPack,
   hardPack,
 ] as Theme[];

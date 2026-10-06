@@ -92,11 +92,15 @@ const THEME_MOTIF: Record<string, string> = {
   travel: "an old suitcase, a map, a compass and a stamp",
   music: "a music stand, a record, headphones and a kettle",
   garden: "a potted plant and a trowel on a potting bench",
+  bible: "a closed old Bible with a ribbon bookmark, an olive branch and an oil lamp on a wooden table",
   "large-print-pack": "reading glasses on an open puzzle book under a lamp",
   "hard-pack": "a dense puzzle grid with a fountain pen",
 };
 
-/** Theme slug → 1200×900 painted cover (with a 640w variant). */
+/** Theme slug → 1200×900 painted cover (with a 640w variant).
+ *  Bible currently reuses a calm desk/book stand-in at public/images/themes/bible.webp
+ *  until the dedicated cover from design/BIBLE-IMAGE-REQUEST.md lands — swap that path only.
+ */
 export function themeArt(slug: string, themeName: string): Art {
   const src = `/images/themes/${slug}.webp`;
   return art(src, 1200, 900, themeImageAlt(slug, themeName), [640]);

@@ -1,0 +1,284 @@
+{
+  "id": "bible-medium-02",
+  "slug": "bible-medium-02",
+  "themeId": "bible",
+  "title": "Bible: Disciples & Apostles",
+  "primaryKeyword": "bible word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ANDREW",
+    "BARNABAS",
+    "JAMES",
+    "JOHN",
+    "LYDIA",
+    "MARTHA",
+    "MATTHEW",
+    "PAUL",
+    "PETER",
+    "PHILIP",
+    "SIMON",
+    "STEPHEN",
+    "THOMAS",
+    "TIMOTHY"
+  ],
+  "grid": [
+    [
+      "H",
+      "P",
+      "H",
+      "I",
+      "L",
+      "I",
+      "P",
+      "A",
+      "U",
+      "L",
+      "S",
+      "E"
+    ],
+    [
+      "J",
+      "Z",
+      "J",
+      "Y",
+      "V",
+      "T",
+      "H",
+      "O",
+      "M",
+      "A",
+      "S",
+      "P"
+    ],
+    [
+      "A",
+      "T",
+      "C",
+      "S",
+      "J",
+      "O",
+      "H",
+      "N",
+      "S",
+      "L",
+      "G",
+      "J"
+    ],
+    [
+      "M",
+      "I",
+      "T",
+      "U",
+      "T",
+      "K",
+      "V",
+      "A",
+      "P",
+      "N",
+      "Z",
+      "O"
+    ],
+    [
+      "E",
+      "M",
+      "F",
+      "O",
+      "K",
+      "E",
+      "B",
+      "P",
+      "N",
+      "O",
+      "M",
+      "X"
+    ],
+    [
+      "S",
+      "O",
+      "C",
+      "X",
+      "Z",
+      "A",
+      "P",
+      "Q",
+      "Q",
+      "F",
+      "A",
+      "O"
+    ],
+    [
+      "Z",
+      "T",
+      "Z",
+      "B",
+      "N",
+      "N",
+      "A",
+      "H",
+      "P",
+      "V",
+      "R",
+      "I"
+    ],
+    [
+      "M",
+      "H",
+      "D",
+      "R",
+      "O",
+      "F",
+      "N",
+      "L",
+      "E",
+      "R",
+      "T",
+      "Z"
+    ],
+    [
+      "U",
+      "Y",
+      "A",
+      "M",
+      "H",
+      "A",
+      "D",
+      "Y",
+      "T",
+      "N",
+      "H",
+      "J"
+    ],
+    [
+      "Q",
+      "B",
+      "I",
+      "M",
+      "L",
+      "W",
+      "R",
+      "D",
+      "E",
+      "T",
+      "A",
+      "X"
+    ],
+    [
+      "W",
+      "S",
+      "O",
+      "U",
+      "K",
+      "E",
+      "E",
+      "I",
+      "R",
+      "V",
+      "N",
+      "M"
+    ],
+    [
+      "M",
+      "A",
+      "T",
+      "T",
+      "H",
+      "E",
+      "W",
+      "A",
+      "J",
+      "T",
+      "N",
+      "A"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BARNABAS",
+      "row": 9,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "MATTHEW",
+      "row": 11,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "TIMOTHY",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "STEPHEN",
+      "row": 2,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "ANDREW",
+      "row": 6,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "PHILIP",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "THOMAS",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "MARTHA",
+      "row": 4,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "PETER",
+      "row": 6,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "JAMES",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SIMON",
+      "row": 10,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "LYDIA",
+      "row": 7,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "JOHN",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "PAUL",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 5004
+}
