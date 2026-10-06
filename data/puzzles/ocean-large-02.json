@@ -1,0 +1,173 @@
+{
+  "id": "ocean-large-02",
+  "slug": "ocean-large-02",
+  "themeId": "ocean",
+  "title": "Large Print Ocean: Soft Pier",
+  "primaryKeyword": "large print ocean word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BOAT",
+    "CRAB",
+    "DOCK",
+    "FISH",
+    "NET",
+    "PIER",
+    "ROPE",
+    "WIND"
+  ],
+  "grid": [
+    [
+      "Z",
+      "K",
+      "D",
+      "H",
+      "N",
+      "E",
+      "T",
+      "B",
+      "W"
+    ],
+    [
+      "V",
+      "B",
+      "O",
+      "A",
+      "T",
+      "O",
+      "H",
+      "U",
+      "I"
+    ],
+    [
+      "D",
+      "Y",
+      "C",
+      "C",
+      "J",
+      "D",
+      "B",
+      "Q",
+      "N"
+    ],
+    [
+      "J",
+      "Q",
+      "K",
+      "R",
+      "L",
+      "C",
+      "K",
+      "I",
+      "D"
+    ],
+    [
+      "M",
+      "A",
+      "X",
+      "A",
+      "D",
+      "Q",
+      "P",
+      "B",
+      "K"
+    ],
+    [
+      "L",
+      "I",
+      "N",
+      "B",
+      "G",
+      "C",
+      "I",
+      "E",
+      "E"
+    ],
+    [
+      "A",
+      "F",
+      "I",
+      "S",
+      "H",
+      "G",
+      "E",
+      "V",
+      "W"
+    ],
+    [
+      "R",
+      "O",
+      "P",
+      "E",
+      "K",
+      "I",
+      "R",
+      "C",
+      "S"
+    ],
+    [
+      "O",
+      "V",
+      "G",
+      "C",
+      "Z",
+      "A",
+      "M",
+      "C",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PIER",
+      "row": 4,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "DOCK",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "BOAT",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "ROPE",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CRAB",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "FISH",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "WIND",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "NET",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2424
+}

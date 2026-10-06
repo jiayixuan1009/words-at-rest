@@ -1,0 +1,173 @@
+{
+  "id": "food-large-02",
+  "slug": "food-large-02",
+  "themeId": "food",
+  "title": "Large Print Food: Soft Toast",
+  "primaryKeyword": "large print food word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BOWL",
+    "EGG",
+    "FORK",
+    "HONEY",
+    "JAM",
+    "MILK",
+    "OAT",
+    "TOAST"
+  ],
+  "grid": [
+    [
+      "D",
+      "G",
+      "Y",
+      "Z",
+      "O",
+      "A",
+      "T",
+      "X",
+      "H"
+    ],
+    [
+      "B",
+      "O",
+      "W",
+      "L",
+      "U",
+      "Q",
+      "V",
+      "Z",
+      "O"
+    ],
+    [
+      "I",
+      "E",
+      "W",
+      "B",
+      "M",
+      "E",
+      "R",
+      "G",
+      "N"
+    ],
+    [
+      "G",
+      "D",
+      "X",
+      "S",
+      "E",
+      "J",
+      "X",
+      "E",
+      "E"
+    ],
+    [
+      "Z",
+      "N",
+      "U",
+      "R",
+      "J",
+      "W",
+      "X",
+      "G",
+      "Y"
+    ],
+    [
+      "J",
+      "A",
+      "M",
+      "M",
+      "I",
+      "L",
+      "K",
+      "G",
+      "P"
+    ],
+    [
+      "F",
+      "O",
+      "R",
+      "K",
+      "C",
+      "T",
+      "T",
+      "Q",
+      "Q"
+    ],
+    [
+      "D",
+      "V",
+      "C",
+      "E",
+      "E",
+      "R",
+      "W",
+      "S",
+      "U"
+    ],
+    [
+      "N",
+      "C",
+      "U",
+      "Q",
+      "T",
+      "O",
+      "A",
+      "S",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TOAST",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "HONEY",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "MILK",
+      "row": 5,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BOWL",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "FORK",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "EGG",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "OAT",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "JAM",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2324
+}

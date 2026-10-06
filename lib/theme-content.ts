@@ -676,6 +676,62 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
       "Soft evergreen for seniors' hours.",
     tip: "Long words like GRATITUDE and COMPASSION anchor harder grids.",
   },
+  chess: {
+    vocabulary:
+      "Board and piece English — no brand or titled-game names.",
+    goodFor:
+      "Quiet strategy evenings for adults.",
+    tip: "Long words like ENDGAME and STRATEGY stand out first.",
+  },
+  "national-parks": {
+    vocabulary:
+      "Trail and ranger English — no concession brands. Companion to Camping.",
+    goodFor:
+      "Outdoor adults who like park vocabulary.",
+    tip: "Long words such as WILDERNESS and LOOKOUT anchor harder grids.",
+  },
+  landmarks: {
+    vocabulary:
+      "Monument and vista English — generic place nouns only.",
+    goodFor:
+      "Travel companion without named attractions.",
+    tip: "Long words like CATHEDRAL and LIGHTHOUSE jump out quickly.",
+  },
+  "farm-animals": {
+    vocabulary:
+      "Barn and pasture English — no farm brands. Companion to Animals.",
+    goodFor:
+      "Calm barnyard vocabulary for seniors' hours.",
+    tip: "Long words such as PASTURE and ROOSTER stand out.",
+  },
+  home: {
+    vocabulary:
+      "Room and household English — no product brands.",
+    goodFor:
+      "Evergreen living-space words.",
+    tip: "Long words like FIREPLACE and BOOKCASE anchor the hard grid.",
+  },
+  astronomy: {
+    vocabulary:
+      "Star and sky English — companion to Space, not a duplicate hub focus.",
+    goodFor:
+      "Night-sky vocabulary for curious adults.",
+    tip: "Long words such as TELESCOPE and SUPERNOVA stand out first.",
+  },
+  "board-games": {
+    vocabulary:
+      "Tabletop English — dice, token, turn — no game titles or brands.",
+    goodFor:
+      "Quiet play-night companion.",
+    tip: "Long words like STRATEGY and FRIEND are easier than DIE or WIN.",
+  },
+  yoga: {
+    vocabulary:
+      "Calm practice English — no studio brands; no medical claims.",
+    goodFor:
+      "Soft stretch vocabulary for adults.",
+    tip: "Long words such as PRACTICE and BOLSTER anchor harder grids.",
+  },
   photography: {
     vocabulary:
       "Camera craft English — no camera brands.",

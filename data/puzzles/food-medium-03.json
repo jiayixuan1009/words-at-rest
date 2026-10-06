@@ -1,0 +1,284 @@
+{
+  "id": "food-medium-03",
+  "slug": "food-medium-03",
+  "themeId": "food",
+  "title": "Food: Sunday Roast",
+  "primaryKeyword": "food word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BUTTER",
+    "CABBAGE",
+    "CARROT",
+    "CRUST",
+    "GRAVY",
+    "HERB",
+    "OVEN",
+    "PARSNIP",
+    "PLATTER",
+    "POTATO",
+    "ROAST",
+    "SLICE",
+    "STUFFING",
+    "TIMER"
+  ],
+  "grid": [
+    [
+      "V",
+      "C",
+      "A",
+      "B",
+      "B",
+      "A",
+      "G",
+      "E",
+      "A",
+      "Y",
+      "T",
+      "O"
+    ],
+    [
+      "O",
+      "R",
+      "Q",
+      "S",
+      "V",
+      "H",
+      "E",
+      "R",
+      "B",
+      "T",
+      "I",
+      "W"
+    ],
+    [
+      "P",
+      "P",
+      "C",
+      "L",
+      "G",
+      "U",
+      "P",
+      "T",
+      "H",
+      "K",
+      "M",
+      "B"
+    ],
+    [
+      "L",
+      "A",
+      "V",
+      "I",
+      "X",
+      "X",
+      "S",
+      "D",
+      "R",
+      "V",
+      "E",
+      "U"
+    ],
+    [
+      "A",
+      "R",
+      "N",
+      "C",
+      "Y",
+      "A",
+      "Q",
+      "X",
+      "Q",
+      "B",
+      "R",
+      "T"
+    ],
+    [
+      "T",
+      "S",
+      "O",
+      "E",
+      "O",
+      "G",
+      "R",
+      "A",
+      "V",
+      "Y",
+      "N",
+      "T"
+    ],
+    [
+      "T",
+      "N",
+      "V",
+      "R",
+      "P",
+      "O",
+      "T",
+      "A",
+      "T",
+      "O",
+      "F",
+      "E"
+    ],
+    [
+      "E",
+      "I",
+      "E",
+      "O",
+      "P",
+      "I",
+      "F",
+      "A",
+      "Q",
+      "H",
+      "A",
+      "R"
+    ],
+    [
+      "R",
+      "P",
+      "N",
+      "S",
+      "T",
+      "U",
+      "F",
+      "F",
+      "I",
+      "N",
+      "G",
+      "S"
+    ],
+    [
+      "G",
+      "M",
+      "D",
+      "H",
+      "E",
+      "C",
+      "A",
+      "R",
+      "R",
+      "O",
+      "T",
+      "U"
+    ],
+    [
+      "V",
+      "F",
+      "B",
+      "G",
+      "I",
+      "V",
+      "C",
+      "R",
+      "U",
+      "S",
+      "T",
+      "N"
+    ],
+    [
+      "K",
+      "V",
+      "Q",
+      "Y",
+      "I",
+      "B",
+      "B",
+      "N",
+      "D",
+      "I",
+      "T",
+      "J"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "STUFFING",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "CABBAGE",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PARSNIP",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "PLATTER",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "POTATO",
+      "row": 6,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CARROT",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "BUTTER",
+      "row": 2,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "ROAST",
+      "row": 6,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "GRAVY",
+      "row": 5,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "CRUST",
+      "row": 10,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "SLICE",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "TIMER",
+      "row": 0,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "OVEN",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "HERB",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2322
+}

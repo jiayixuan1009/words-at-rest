@@ -1,0 +1,284 @@
+{
+  "id": "garden-medium-03",
+  "slug": "garden-medium-03",
+  "themeId": "garden",
+  "title": "Garden: Border Walk",
+  "primaryKeyword": "garden word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ANNUAL",
+    "APRON",
+    "BASKET",
+    "BENCH",
+    "BORDER",
+    "BULB",
+    "CAN",
+    "GLOVE",
+    "HEDGE",
+    "HOSE",
+    "PERENNIAL",
+    "SEEDLING",
+    "SHRUB",
+    "WATERING"
+  ],
+  "grid": [
+    [
+      "G",
+      "B",
+      "O",
+      "S",
+      "S",
+      "E",
+      "E",
+      "D",
+      "L",
+      "I",
+      "N",
+      "G"
+    ],
+    [
+      "B",
+      "U",
+      "L",
+      "B",
+      "Q",
+      "N",
+      "C",
+      "A",
+      "W",
+      "W",
+      "Q",
+      "K"
+    ],
+    [
+      "Q",
+      "Q",
+      "C",
+      "M",
+      "U",
+      "J",
+      "Q",
+      "L",
+      "J",
+      "Z",
+      "J",
+      "B"
+    ],
+    [
+      "L",
+      "I",
+      "G",
+      "L",
+      "O",
+      "V",
+      "E",
+      "D",
+      "Z",
+      "C",
+      "C",
+      "M"
+    ],
+    [
+      "A",
+      "P",
+      "R",
+      "O",
+      "N",
+      "H",
+      "O",
+      "S",
+      "E",
+      "R",
+      "R",
+      "B"
+    ],
+    [
+      "O",
+      "A",
+      "N",
+      "N",
+      "U",
+      "A",
+      "L",
+      "N",
+      "X",
+      "Y",
+      "U",
+      "A"
+    ],
+    [
+      "Z",
+      "Z",
+      "P",
+      "E",
+      "R",
+      "E",
+      "N",
+      "N",
+      "I",
+      "A",
+      "L",
+      "S"
+    ],
+    [
+      "X",
+      "L",
+      "P",
+      "I",
+      "T",
+      "H",
+      "E",
+      "D",
+      "G",
+      "E",
+      "K",
+      "K"
+    ],
+    [
+      "W",
+      "A",
+      "T",
+      "E",
+      "R",
+      "I",
+      "N",
+      "G",
+      "H",
+      "U",
+      "I",
+      "E"
+    ],
+    [
+      "I",
+      "B",
+      "E",
+      "N",
+      "C",
+      "H",
+      "Z",
+      "B",
+      "Y",
+      "Z",
+      "Z",
+      "T"
+    ],
+    [
+      "I",
+      "C",
+      "A",
+      "N",
+      "S",
+      "H",
+      "R",
+      "U",
+      "B",
+      "R",
+      "W",
+      "D"
+    ],
+    [
+      "M",
+      "N",
+      "B",
+      "O",
+      "R",
+      "D",
+      "E",
+      "R",
+      "P",
+      "H",
+      "X",
+      "D"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PERENNIAL",
+      "row": 6,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SEEDLING",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "WATERING",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BORDER",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ANNUAL",
+      "row": 5,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BASKET",
+      "row": 4,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "HEDGE",
+      "row": 7,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SHRUB",
+      "row": 10,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "GLOVE",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "APRON",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BENCH",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BULB",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "HOSE",
+      "row": 4,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "CAN",
+      "row": 10,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2922
+}

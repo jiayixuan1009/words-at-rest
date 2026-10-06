@@ -1,0 +1,208 @@
+{
+  "id": "national-parks-easy-01",
+  "slug": "national-parks-easy-01",
+  "themeId": "national-parks",
+  "title": "National Parks: Trail Gate",
+  "primaryKeyword": "national parks word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BEAR",
+    "CAMP",
+    "ELK",
+    "HIKE",
+    "LAKE",
+    "PARK",
+    "PASS",
+    "PEAK",
+    "RIDGE",
+    "TRAIL"
+  ],
+  "grid": [
+    [
+      "P",
+      "T",
+      "T",
+      "K",
+      "S",
+      "H",
+      "F",
+      "C",
+      "Q",
+      "R"
+    ],
+    [
+      "E",
+      "E",
+      "Q",
+      "P",
+      "A",
+      "S",
+      "S",
+      "S",
+      "B",
+      "G"
+    ],
+    [
+      "A",
+      "X",
+      "T",
+      "R",
+      "A",
+      "I",
+      "L",
+      "X",
+      "E",
+      "Q"
+    ],
+    [
+      "K",
+      "O",
+      "O",
+      "Z",
+      "Q",
+      "N",
+      "A",
+      "I",
+      "A",
+      "I"
+    ],
+    [
+      "K",
+      "C",
+      "N",
+      "P",
+      "M",
+      "X",
+      "E",
+      "C",
+      "R",
+      "C"
+    ],
+    [
+      "S",
+      "Z",
+      "W",
+      "P",
+      "A",
+      "R",
+      "K",
+      "L",
+      "E",
+      "C"
+    ],
+    [
+      "Q",
+      "S",
+      "V",
+      "C",
+      "A",
+      "M",
+      "P",
+      "A",
+      "U",
+      "E"
+    ],
+    [
+      "H",
+      "I",
+      "K",
+      "E",
+      "E",
+      "M",
+      "K",
+      "K",
+      "W",
+      "L"
+    ],
+    [
+      "G",
+      "V",
+      "E",
+      "L",
+      "S",
+      "O",
+      "O",
+      "E",
+      "U",
+      "K"
+    ],
+    [
+      "Z",
+      "H",
+      "R",
+      "I",
+      "D",
+      "G",
+      "E",
+      "W",
+      "S",
+      "K"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TRAIL",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "RIDGE",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PARK",
+      "row": 5,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "CAMP",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "LAKE",
+      "row": 5,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "PEAK",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "HIKE",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "PASS",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BEAR",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "ELK",
+      "row": 6,
+      "col": 9,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8811
+}

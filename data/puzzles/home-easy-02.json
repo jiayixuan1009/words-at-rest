@@ -1,0 +1,208 @@
+{
+  "id": "home-easy-02",
+  "slug": "home-easy-02",
+  "themeId": "home",
+  "title": "Home: Quiet Room",
+  "primaryKeyword": "home word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ATTIC",
+    "CHAIR",
+    "COZY",
+    "DEN",
+    "LOFT",
+    "PORCH",
+    "SHELF",
+    "STUDY",
+    "TABLE",
+    "WARM"
+  ],
+  "grid": [
+    [
+      "M",
+      "O",
+      "C",
+      "M",
+      "G",
+      "P",
+      "C",
+      "G",
+      "X",
+      "L"
+    ],
+    [
+      "P",
+      "X",
+      "O",
+      "J",
+      "V",
+      "P",
+      "N",
+      "W",
+      "A",
+      "W"
+    ],
+    [
+      "S",
+      "R",
+      "Z",
+      "U",
+      "D",
+      "O",
+      "Y",
+      "C",
+      "T",
+      "A"
+    ],
+    [
+      "U",
+      "K",
+      "Y",
+      "E",
+      "J",
+      "R",
+      "G",
+      "C",
+      "A",
+      "R"
+    ],
+    [
+      "S",
+      "H",
+      "E",
+      "L",
+      "F",
+      "C",
+      "T",
+      "H",
+      "B",
+      "M"
+    ],
+    [
+      "Z",
+      "B",
+      "D",
+      "E",
+      "N",
+      "H",
+      "C",
+      "A",
+      "L",
+      "W"
+    ],
+    [
+      "D",
+      "A",
+      "T",
+      "T",
+      "I",
+      "C",
+      "J",
+      "I",
+      "E",
+      "B"
+    ],
+    [
+      "B",
+      "H",
+      "N",
+      "L",
+      "O",
+      "F",
+      "T",
+      "R",
+      "G",
+      "I"
+    ],
+    [
+      "K",
+      "H",
+      "Q",
+      "S",
+      "U",
+      "S",
+      "T",
+      "U",
+      "D",
+      "Y"
+    ],
+    [
+      "D",
+      "O",
+      "Z",
+      "T",
+      "F",
+      "L",
+      "V",
+      "K",
+      "A",
+      "B"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PORCH",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "ATTIC",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "STUDY",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "CHAIR",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "TABLE",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "SHELF",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "LOFT",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "WARM",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "COZY",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "DEN",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8842
+}

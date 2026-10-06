@@ -1,0 +1,173 @@
+{
+  "id": "home-large-01",
+  "slug": "home-large-01",
+  "themeId": "home",
+  "title": "Large Print Home: Soft Lamp",
+  "primaryKeyword": "large print home word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "DOOR",
+    "HOME",
+    "KEY",
+    "LAMP",
+    "REST",
+    "ROOM",
+    "RUG",
+    "SOFA"
+  ],
+  "grid": [
+    [
+      "M",
+      "P",
+      "T",
+      "R",
+      "U",
+      "G",
+      "G",
+      "N",
+      "L"
+    ],
+    [
+      "U",
+      "R",
+      "F",
+      "U",
+      "J",
+      "Q",
+      "E",
+      "R",
+      "A"
+    ],
+    [
+      "D",
+      "P",
+      "K",
+      "I",
+      "Q",
+      "K",
+      "Y",
+      "S",
+      "M"
+    ],
+    [
+      "O",
+      "T",
+      "E",
+      "D",
+      "M",
+      "K",
+      "R",
+      "S",
+      "P"
+    ],
+    [
+      "O",
+      "G",
+      "Y",
+      "G",
+      "W",
+      "E",
+      "E",
+      "O",
+      "H"
+    ],
+    [
+      "R",
+      "Q",
+      "I",
+      "I",
+      "R",
+      "H",
+      "S",
+      "F",
+      "H"
+    ],
+    [
+      "U",
+      "D",
+      "S",
+      "J",
+      "Y",
+      "O",
+      "T",
+      "A",
+      "Y"
+    ],
+    [
+      "R",
+      "O",
+      "O",
+      "M",
+      "C",
+      "M",
+      "Z",
+      "I",
+      "Y"
+    ],
+    [
+      "N",
+      "Q",
+      "Q",
+      "F",
+      "P",
+      "E",
+      "J",
+      "J",
+      "F"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "HOME",
+      "row": 5,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "ROOM",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "DOOR",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "LAMP",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "SOFA",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "REST",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "RUG",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "KEY",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8846
+}

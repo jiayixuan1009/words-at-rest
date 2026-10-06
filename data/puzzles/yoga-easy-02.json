@@ -1,0 +1,208 @@
+{
+  "id": "yoga-easy-02",
+  "slug": "yoga-easy-02",
+  "themeId": "yoga",
+  "title": "Yoga: Quiet Breath",
+  "primaryKeyword": "yoga word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BALANCE",
+    "BLOCK",
+    "BREATH",
+    "COOL",
+    "FOCUS",
+    "QUIET",
+    "STILL",
+    "STRAP",
+    "STRETCH",
+    "WARM"
+  ],
+  "grid": [
+    [
+      "X",
+      "M",
+      "O",
+      "M",
+      "Y",
+      "P",
+      "B",
+      "W",
+      "O",
+      "C"
+    ],
+    [
+      "F",
+      "O",
+      "C",
+      "U",
+      "S",
+      "D",
+      "L",
+      "U",
+      "Z",
+      "Z"
+    ],
+    [
+      "D",
+      "Y",
+      "I",
+      "N",
+      "D",
+      "Q",
+      "O",
+      "A",
+      "C",
+      "N"
+    ],
+    [
+      "O",
+      "B",
+      "A",
+      "L",
+      "A",
+      "N",
+      "C",
+      "E",
+      "I",
+      "G"
+    ],
+    [
+      "F",
+      "Y",
+      "W",
+      "A",
+      "R",
+      "M",
+      "K",
+      "E",
+      "S",
+      "Y"
+    ],
+    [
+      "O",
+      "C",
+      "O",
+      "O",
+      "L",
+      "T",
+      "V",
+      "W",
+      "T",
+      "S"
+    ],
+    [
+      "S",
+      "T",
+      "R",
+      "E",
+      "T",
+      "C",
+      "H",
+      "U",
+      "I",
+      "T"
+    ],
+    [
+      "Z",
+      "M",
+      "R",
+      "V",
+      "I",
+      "D",
+      "U",
+      "N",
+      "L",
+      "R"
+    ],
+    [
+      "I",
+      "Q",
+      "U",
+      "I",
+      "E",
+      "T",
+      "C",
+      "Y",
+      "L",
+      "A"
+    ],
+    [
+      "B",
+      "E",
+      "E",
+      "B",
+      "R",
+      "E",
+      "A",
+      "T",
+      "H",
+      "P"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "STRETCH",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BALANCE",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BREATH",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BLOCK",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "STRAP",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "FOCUS",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "STILL",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "QUIET",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "WARM",
+      "row": 4,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "COOL",
+      "row": 5,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8872
+}

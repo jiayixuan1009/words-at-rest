@@ -1,0 +1,173 @@
+{
+  "id": "sports-large-02",
+  "slug": "sports-large-02",
+  "themeId": "sports",
+  "title": "Large Print Sports: Soft Track",
+  "primaryKeyword": "large print sports word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "DASH",
+    "FIELD",
+    "HEAT",
+    "LANE",
+    "PACE",
+    "POLE",
+    "SHOT",
+    "TRACK"
+  ],
+  "grid": [
+    [
+      "C",
+      "L",
+      "S",
+      "H",
+      "O",
+      "T",
+      "T",
+      "E",
+      "H"
+    ],
+    [
+      "C",
+      "A",
+      "B",
+      "F",
+      "E",
+      "A",
+      "H",
+      "X",
+      "Z"
+    ],
+    [
+      "V",
+      "N",
+      "B",
+      "D",
+      "W",
+      "C",
+      "E",
+      "N",
+      "T"
+    ],
+    [
+      "Q",
+      "E",
+      "R",
+      "A",
+      "N",
+      "S",
+      "A",
+      "M",
+      "R"
+    ],
+    [
+      "N",
+      "W",
+      "W",
+      "S",
+      "F",
+      "O",
+      "T",
+      "B",
+      "A"
+    ],
+    [
+      "X",
+      "Y",
+      "N",
+      "H",
+      "P",
+      "O",
+      "L",
+      "E",
+      "C"
+    ],
+    [
+      "B",
+      "F",
+      "I",
+      "E",
+      "L",
+      "D",
+      "H",
+      "V",
+      "K"
+    ],
+    [
+      "E",
+      "F",
+      "H",
+      "W",
+      "D",
+      "P",
+      "A",
+      "C",
+      "E"
+    ],
+    [
+      "H",
+      "O",
+      "O",
+      "E",
+      "N",
+      "B",
+      "O",
+      "E",
+      "X"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TRACK",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "FIELD",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "LANE",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "DASH",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "POLE",
+      "row": 5,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SHOT",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "HEAT",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "PACE",
+      "row": 7,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2224
+}

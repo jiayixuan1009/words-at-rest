@@ -3,11 +3,18 @@
 本文件格式参考 [Keep a Changelog](https://keepachangelog.com/zh-CN/1.1.0/)。日期为 commit 时间（Asia/Shanghai，UTC+8）。  
 项目尚未打版本号，按日期 + commit 记录。完整产品说明见 [`docs/PRODUCT.md`](docs/PRODUCT.md)，后续计划见 [`docs/ROADMAP.md`](docs/ROADMAP.md)。
 
-规模速查（主题 / 谜题）：`95609a5` 3 / 7 → `31aaf1b` 15 / 40 → `c46b10c` / `de568d3` 16 / 46 → Package B **32 / 142** → Wave C **47 / 232** → Wave D **62 / 322** → Wave E **77 / 412** → Wave F **92 / 502** → Wave G **102 / 605**（朝 ~1000）。
+规模速查（主题 / 谜题）：`95609a5` 3 / 7 → `31aaf1b` 15 / 40 → `c46b10c` / `de568d3` 16 / 46 → Package B **32 / 142** → Wave C **47 / 232** → Wave D **62 / 322** → Wave E **77 / 412** → Wave F **92 / 502** → Wave G **102 / 605** → Wave H **110 / 716**（朝 ~1000）。
 
 ---
 
 ## [未发布 Unreleased]
+
+## 2026-10-07 — Wave H（加深高流量 + 新主题，待部署）
+
+### 新增 — Wave H（+8 主题 / +111 谜题）
+- **新主题（各 6）：** chess、national-parks、landmarks、farm-animals、home、astronomy、board-games、yoga。
+- **加深既有 hub（+63）：** christmas / halloween / bible / animals / food / sports / garden / ocean / fall 各 +4；travel / music / cats / dogs 各 +4；winter / thanksgiving 各 +2；large-print-pack +4；space +3。新词表与网格，不覆盖旧题。
+- **规模：** 主题 102→**110**，谜题 605→**716**（朝 ~1000）。
 
 ## 2026-10-07 — Wave G（新主题 + 高流量加深，已部署）
 

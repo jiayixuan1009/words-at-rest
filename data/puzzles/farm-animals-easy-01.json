@@ -1,0 +1,208 @@
+{
+  "id": "farm-animals-easy-01",
+  "slug": "farm-animals-easy-01",
+  "themeId": "farm-animals",
+  "title": "Farm Animals: Barn Morning",
+  "primaryKeyword": "farm animals word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BARN",
+    "COW",
+    "DUCK",
+    "EGG",
+    "GOAT",
+    "HAY",
+    "HEN",
+    "LAMB",
+    "PIG",
+    "WOOL"
+  ],
+  "grid": [
+    [
+      "R",
+      "S",
+      "M",
+      "C",
+      "X",
+      "V",
+      "S",
+      "A",
+      "U",
+      "L"
+    ],
+    [
+      "G",
+      "O",
+      "A",
+      "T",
+      "D",
+      "S",
+      "A",
+      "V",
+      "F",
+      "Z"
+    ],
+    [
+      "L",
+      "R",
+      "P",
+      "V",
+      "G",
+      "C",
+      "G",
+      "G",
+      "B",
+      "D"
+    ],
+    [
+      "B",
+      "M",
+      "L",
+      "U",
+      "W",
+      "U",
+      "O",
+      "L",
+      "A",
+      "U"
+    ],
+    [
+      "E",
+      "S",
+      "L",
+      "C",
+      "Q",
+      "U",
+      "X",
+      "L",
+      "R",
+      "C"
+    ],
+    [
+      "F",
+      "H",
+      "W",
+      "O",
+      "L",
+      "Y",
+      "E",
+      "L",
+      "N",
+      "K"
+    ],
+    [
+      "R",
+      "D",
+      "A",
+      "W",
+      "L",
+      "A",
+      "M",
+      "B",
+      "A",
+      "C"
+    ],
+    [
+      "E",
+      "G",
+      "G",
+      "H",
+      "A",
+      "Y",
+      "S",
+      "H",
+      "E",
+      "N"
+    ],
+    [
+      "P",
+      "X",
+      "W",
+      "O",
+      "O",
+      "L",
+      "R",
+      "T",
+      "I",
+      "A"
+    ],
+    [
+      "Z",
+      "P",
+      "I",
+      "G",
+      "L",
+      "F",
+      "S",
+      "Z",
+      "D",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "GOAT",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "LAMB",
+      "row": 6,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "DUCK",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "BARN",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "WOOL",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "COW",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "HEN",
+      "row": 7,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "PIG",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "HAY",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "EGG",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8831
+}

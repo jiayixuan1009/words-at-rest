@@ -1,0 +1,284 @@
+{
+  "id": "national-parks-medium-01",
+  "slug": "national-parks-medium-01",
+  "themeId": "national-parks",
+  "title": "National Parks: Ranger Walk",
+  "primaryKeyword": "national parks word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "DESERT",
+    "DRIVE",
+    "EAGLE",
+    "EXHIBIT",
+    "GEYSER",
+    "GLACIER",
+    "LOOKOUT",
+    "PERMIT",
+    "PICNIC",
+    "PLATEAU",
+    "SCENIC",
+    "SHELTER",
+    "VISITOR",
+    "WILDLIFE"
+  ],
+  "grid": [
+    [
+      "L",
+      "O",
+      "O",
+      "K",
+      "O",
+      "U",
+      "T",
+      "W",
+      "H",
+      "M",
+      "D",
+      "V"
+    ],
+    [
+      "E",
+      "A",
+      "G",
+      "L",
+      "E",
+      "P",
+      "V",
+      "R",
+      "H",
+      "Y",
+      "R",
+      "I"
+    ],
+    [
+      "G",
+      "E",
+      "Y",
+      "S",
+      "E",
+      "R",
+      "L",
+      "H",
+      "L",
+      "Z",
+      "I",
+      "S"
+    ],
+    [
+      "P",
+      "I",
+      "C",
+      "N",
+      "I",
+      "C",
+      "O",
+      "A",
+      "K",
+      "U",
+      "V",
+      "I"
+    ],
+    [
+      "F",
+      "C",
+      "W",
+      "I",
+      "S",
+      "T",
+      "P",
+      "S",
+      "T",
+      "S",
+      "E",
+      "T"
+    ],
+    [
+      "W",
+      "I",
+      "L",
+      "D",
+      "L",
+      "I",
+      "F",
+      "E",
+      "Y",
+      "E",
+      "E",
+      "O"
+    ],
+    [
+      "Q",
+      "G",
+      "R",
+      "Z",
+      "W",
+      "Y",
+      "C",
+      "Y",
+      "R",
+      "P",
+      "A",
+      "R"
+    ],
+    [
+      "N",
+      "Q",
+      "G",
+      "L",
+      "A",
+      "C",
+      "I",
+      "E",
+      "R",
+      "M",
+      "H",
+      "U"
+    ],
+    [
+      "E",
+      "X",
+      "H",
+      "I",
+      "B",
+      "I",
+      "T",
+      "W",
+      "T",
+      "I",
+      "I",
+      "J"
+    ],
+    [
+      "P",
+      "U",
+      "O",
+      "C",
+      "O",
+      "S",
+      "C",
+      "E",
+      "N",
+      "I",
+      "C",
+      "T"
+    ],
+    [
+      "I",
+      "E",
+      "B",
+      "S",
+      "H",
+      "E",
+      "L",
+      "T",
+      "E",
+      "R",
+      "Q",
+      "R"
+    ],
+    [
+      "E",
+      "L",
+      "O",
+      "D",
+      "E",
+      "S",
+      "E",
+      "R",
+      "T",
+      "N",
+      "E",
+      "F"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "WILDLIFE",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "GLACIER",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PLATEAU",
+      "row": 1,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "VISITOR",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "EXHIBIT",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SHELTER",
+      "row": 10,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "LOOKOUT",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "GEYSER",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "DESERT",
+      "row": 11,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "PERMIT",
+      "row": 4,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "PICNIC",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SCENIC",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "DRIVE",
+      "row": 0,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "EAGLE",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8813
+}

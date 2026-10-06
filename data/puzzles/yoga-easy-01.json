@@ -1,0 +1,208 @@
+{
+  "id": "yoga-easy-01",
+  "slug": "yoga-easy-01",
+  "themeId": "yoga",
+  "title": "Yoga: Mat Morning",
+  "primaryKeyword": "yoga word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CALM",
+    "CORE",
+    "EASE",
+    "FLOW",
+    "FOOT",
+    "MAT",
+    "POSE",
+    "REST",
+    "SOFT",
+    "YOGA"
+  ],
+  "grid": [
+    [
+      "M",
+      "A",
+      "T",
+      "C",
+      "C",
+      "Q",
+      "E",
+      "E",
+      "E",
+      "J"
+    ],
+    [
+      "J",
+      "C",
+      "A",
+      "L",
+      "M",
+      "H",
+      "F",
+      "O",
+      "O",
+      "T"
+    ],
+    [
+      "E",
+      "A",
+      "S",
+      "E",
+      "A",
+      "L",
+      "N",
+      "Q",
+      "U",
+      "L"
+    ],
+    [
+      "M",
+      "Q",
+      "W",
+      "C",
+      "B",
+      "C",
+      "V",
+      "B",
+      "N",
+      "R"
+    ],
+    [
+      "V",
+      "O",
+      "T",
+      "W",
+      "Y",
+      "O",
+      "U",
+      "T",
+      "Q",
+      "B"
+    ],
+    [
+      "J",
+      "D",
+      "Q",
+      "B",
+      "S",
+      "R",
+      "W",
+      "F",
+      "L",
+      "T"
+    ],
+    [
+      "F",
+      "L",
+      "O",
+      "W",
+      "O",
+      "E",
+      "Q",
+      "W",
+      "G",
+      "M"
+    ],
+    [
+      "W",
+      "C",
+      "G",
+      "B",
+      "F",
+      "Y",
+      "O",
+      "G",
+      "A",
+      "G"
+    ],
+    [
+      "V",
+      "C",
+      "T",
+      "N",
+      "T",
+      "P",
+      "O",
+      "S",
+      "E",
+      "F"
+    ],
+    [
+      "M",
+      "V",
+      "R",
+      "E",
+      "S",
+      "T",
+      "D",
+      "Q",
+      "O",
+      "G"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "YOGA",
+      "row": 7,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "POSE",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "FLOW",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CALM",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SOFT",
+      "row": 5,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "REST",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "EASE",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CORE",
+      "row": 3,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "FOOT",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "MAT",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8871
+}

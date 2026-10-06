@@ -1,0 +1,208 @@
+{
+  "id": "landmarks-easy-01",
+  "slug": "landmarks-easy-01",
+  "themeId": "landmarks",
+  "title": "Landmarks: Tower View",
+  "primaryKeyword": "landmarks word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ARCH",
+    "BRIDGE",
+    "DOME",
+    "FORT",
+    "GATE",
+    "MAP",
+    "PLAZA",
+    "TOWER",
+    "VIEW",
+    "WALL"
+  ],
+  "grid": [
+    [
+      "Q",
+      "W",
+      "N",
+      "F",
+      "S",
+      "R",
+      "H",
+      "G",
+      "R",
+      "S"
+    ],
+    [
+      "G",
+      "I",
+      "E",
+      "F",
+      "M",
+      "N",
+      "A",
+      "J",
+      "D",
+      "W"
+    ],
+    [
+      "Q",
+      "Y",
+      "B",
+      "D",
+      "Z",
+      "K",
+      "A",
+      "R",
+      "C",
+      "H"
+    ],
+    [
+      "B",
+      "R",
+      "H",
+      "O",
+      "T",
+      "O",
+      "W",
+      "E",
+      "R",
+      "R"
+    ],
+    [
+      "I",
+      "R",
+      "J",
+      "M",
+      "V",
+      "I",
+      "E",
+      "W",
+      "F",
+      "F"
+    ],
+    [
+      "X",
+      "X",
+      "E",
+      "E",
+      "W",
+      "Y",
+      "H",
+      "Y",
+      "Q",
+      "E"
+    ],
+    [
+      "D",
+      "U",
+      "G",
+      "A",
+      "T",
+      "E",
+      "Z",
+      "B",
+      "I",
+      "W"
+    ],
+    [
+      "M",
+      "A",
+      "P",
+      "P",
+      "L",
+      "A",
+      "Z",
+      "A",
+      "Y",
+      "A"
+    ],
+    [
+      "S",
+      "B",
+      "R",
+      "I",
+      "D",
+      "G",
+      "E",
+      "F",
+      "O",
+      "L"
+    ],
+    [
+      "F",
+      "O",
+      "R",
+      "T",
+      "P",
+      "N",
+      "K",
+      "M",
+      "V",
+      "L"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BRIDGE",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TOWER",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "PLAZA",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "GATE",
+      "row": 6,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ARCH",
+      "row": 2,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "DOME",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "WALL",
+      "row": 6,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "FORT",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "VIEW",
+      "row": 4,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "MAP",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8821
+}

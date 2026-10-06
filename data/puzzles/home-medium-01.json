@@ -1,0 +1,284 @@
+{
+  "id": "home-medium-01",
+  "slug": "home-medium-01",
+  "themeId": "home",
+  "title": "Home: Pantry Shelf",
+  "primaryKeyword": "home word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BOOKCASE",
+    "CHIMNEY",
+    "CLOCK",
+    "CLOSET",
+    "CURTAIN",
+    "FENCE",
+    "GARDEN",
+    "HEARTH",
+    "KITCHEN",
+    "MIRROR",
+    "PANTRY",
+    "PATH",
+    "QUIET",
+    "WINDOW"
+  ],
+  "grid": [
+    [
+      "G",
+      "M",
+      "Q",
+      "U",
+      "C",
+      "L",
+      "O",
+      "S",
+      "E",
+      "T",
+      "Q",
+      "X"
+    ],
+    [
+      "C",
+      "A",
+      "U",
+      "C",
+      "W",
+      "P",
+      "F",
+      "E",
+      "N",
+      "C",
+      "E",
+      "B"
+    ],
+    [
+      "T",
+      "R",
+      "R",
+      "N",
+      "H",
+      "K",
+      "I",
+      "T",
+      "C",
+      "H",
+      "E",
+      "N"
+    ],
+    [
+      "W",
+      "J",
+      "E",
+      "D",
+      "M",
+      "I",
+      "Z",
+      "D",
+      "Q",
+      "N",
+      "U",
+      "N"
+    ],
+    [
+      "Y",
+      "B",
+      "J",
+      "W",
+      "E",
+      "E",
+      "M",
+      "E",
+      "U",
+      "D",
+      "H",
+      "M"
+    ],
+    [
+      "B",
+      "C",
+      "O",
+      "K",
+      "A",
+      "N",
+      "M",
+      "N",
+      "I",
+      "P",
+      "E",
+      "I"
+    ],
+    [
+      "P",
+      "W",
+      "U",
+      "O",
+      "A",
+      "C",
+      "D",
+      "J",
+      "E",
+      "J",
+      "A",
+      "R"
+    ],
+    [
+      "T",
+      "W",
+      "I",
+      "R",
+      "K",
+      "J",
+      "L",
+      "P",
+      "T",
+      "Y",
+      "R",
+      "R"
+    ],
+    [
+      "L",
+      "O",
+      "Y",
+      "N",
+      "T",
+      "C",
+      "D",
+      "O",
+      "A",
+      "L",
+      "T",
+      "O"
+    ],
+    [
+      "G",
+      "L",
+      "B",
+      "E",
+      "D",
+      "A",
+      "A",
+      "N",
+      "C",
+      "T",
+      "H",
+      "R"
+    ],
+    [
+      "B",
+      "A",
+      "D",
+      "L",
+      "A",
+      "O",
+      "I",
+      "S",
+      "V",
+      "K",
+      "H",
+      "S"
+    ],
+    [
+      "P",
+      "A",
+      "N",
+      "T",
+      "R",
+      "Y",
+      "W",
+      "N",
+      "E",
+      "X",
+      "H",
+      "A"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BOOKCASE",
+      "row": 4,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "KITCHEN",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "CHIMNEY",
+      "row": 1,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "CURTAIN",
+      "row": 5,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "PANTRY",
+      "row": 11,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CLOSET",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "WINDOW",
+      "row": 6,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "HEARTH",
+      "row": 4,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "MIRROR",
+      "row": 4,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "GARDEN",
+      "row": 0,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "CLOCK",
+      "row": 6,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "FENCE",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "QUIET",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "PATH",
+      "row": 7,
+      "col": 7,
+      "direction": "SE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8843
+}

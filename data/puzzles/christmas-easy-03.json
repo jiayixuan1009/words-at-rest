@@ -1,0 +1,208 @@
+{
+  "id": "christmas-easy-03",
+  "slug": "christmas-easy-03",
+  "themeId": "christmas",
+  "title": "Christmas: Candle Window",
+  "primaryKeyword": "christmas word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BELL",
+    "CARD",
+    "GIFT",
+    "JOY",
+    "LIGHT",
+    "NOEL",
+    "PEACE",
+    "SNOW",
+    "TREE",
+    "WARM"
+  ],
+  "grid": [
+    [
+      "A",
+      "I",
+      "B",
+      "O",
+      "Z",
+      "K",
+      "P",
+      "V",
+      "P",
+      "D"
+    ],
+    [
+      "I",
+      "H",
+      "X",
+      "G",
+      "C",
+      "A",
+      "R",
+      "D",
+      "I",
+      "I"
+    ],
+    [
+      "A",
+      "G",
+      "S",
+      "O",
+      "W",
+      "H",
+      "W",
+      "A",
+      "R",
+      "M"
+    ],
+    [
+      "L",
+      "I",
+      "G",
+      "H",
+      "T",
+      "T",
+      "A",
+      "W",
+      "J",
+      "B"
+    ],
+    [
+      "F",
+      "P",
+      "E",
+      "A",
+      "C",
+      "E",
+      "I",
+      "I",
+      "O",
+      "R"
+    ],
+    [
+      "Q",
+      "T",
+      "H",
+      "T",
+      "L",
+      "P",
+      "O",
+      "Z",
+      "Y",
+      "G"
+    ],
+    [
+      "B",
+      "W",
+      "Z",
+      "R",
+      "V",
+      "S",
+      "N",
+      "O",
+      "W",
+      "I"
+    ],
+    [
+      "E",
+      "P",
+      "O",
+      "E",
+      "V",
+      "X",
+      "H",
+      "M",
+      "B",
+      "F"
+    ],
+    [
+      "L",
+      "N",
+      "O",
+      "E",
+      "L",
+      "G",
+      "Y",
+      "I",
+      "Y",
+      "T"
+    ],
+    [
+      "L",
+      "K",
+      "X",
+      "G",
+      "U",
+      "X",
+      "J",
+      "Z",
+      "Z",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "LIGHT",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "PEACE",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BELL",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SNOW",
+      "row": 6,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "TREE",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "GIFT",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "CARD",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "WARM",
+      "row": 2,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "NOEL",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "JOY",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 1241
+}

@@ -3,7 +3,7 @@
 > Words at Rest (https://wordsatrest.com) is a free, independent website of calm English (en-US) word search puzzles for adults and seniors. Edited by Reggie J. Contact: hello@wordsatrest.com.
 
 Key facts:
-- Launched 2026-10-06. 102 themes, 605 hand-themed puzzles, plus one unique daily puzzle per day from 2026-10-07 (UTC midnight; /daily/YYYY-MM-DD; /calendar).
+- Launched 2026-10-06. 110 themes, 716 hand-themed puzzles, plus one unique daily puzzle per day from 2026-10-07 (UTC midnight; /daily/YYYY-MM-DD; /calendar).
 - Easy 10×10/10 · Medium 12×12/14 · Hard 15×15/18 · Large print 9×9/8. Original word lists; no licensed characters.
 - No medical or brain-training claims.
 

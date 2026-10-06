@@ -1,0 +1,208 @@
+{
+  "id": "space-easy-02",
+  "slug": "space-easy-02",
+  "themeId": "space",
+  "title": "Space: Quiet Orbit",
+  "primaryKeyword": "space word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BASE",
+    "CREW",
+    "DOCK",
+    "DUST",
+    "MOON",
+    "ORBIT",
+    "RING",
+    "SHIP",
+    "STAR",
+    "VOID"
+  ],
+  "grid": [
+    [
+      "V",
+      "O",
+      "O",
+      "Z",
+      "K",
+      "K",
+      "J",
+      "L",
+      "L",
+      "P"
+    ],
+    [
+      "O",
+      "R",
+      "K",
+      "S",
+      "H",
+      "I",
+      "P",
+      "E",
+      "Q",
+      "S"
+    ],
+    [
+      "I",
+      "B",
+      "N",
+      "F",
+      "S",
+      "R",
+      "W",
+      "M",
+      "N",
+      "N"
+    ],
+    [
+      "D",
+      "I",
+      "V",
+      "D",
+      "T",
+      "A",
+      "O",
+      "O",
+      "F",
+      "P"
+    ],
+    [
+      "U",
+      "T",
+      "E",
+      "U",
+      "A",
+      "H",
+      "G",
+      "O",
+      "U",
+      "T"
+    ],
+    [
+      "Z",
+      "F",
+      "U",
+      "S",
+      "R",
+      "Z",
+      "Z",
+      "N",
+      "V",
+      "R"
+    ],
+    [
+      "F",
+      "O",
+      "F",
+      "T",
+      "C",
+      "R",
+      "E",
+      "W",
+      "A",
+      "B"
+    ],
+    [
+      "D",
+      "O",
+      "C",
+      "K",
+      "U",
+      "G",
+      "R",
+      "I",
+      "N",
+      "G"
+    ],
+    [
+      "Z",
+      "C",
+      "S",
+      "G",
+      "B",
+      "A",
+      "S",
+      "E",
+      "X",
+      "V"
+    ],
+    [
+      "P",
+      "E",
+      "Z",
+      "H",
+      "J",
+      "Q",
+      "W",
+      "B",
+      "K",
+      "H"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ORBIT",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "MOON",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "STAR",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "DUST",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "RING",
+      "row": 7,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "VOID",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SHIP",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "DOCK",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CREW",
+      "row": 6,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BASE",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2111
+}

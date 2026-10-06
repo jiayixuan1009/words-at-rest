@@ -1,0 +1,208 @@
+{
+  "id": "ocean-easy-03",
+  "slug": "ocean-easy-03",
+  "themeId": "ocean",
+  "title": "Ocean: Pier Walk",
+  "primaryKeyword": "ocean word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BOAT",
+    "CRAB",
+    "DOCK",
+    "DUSK",
+    "FISH",
+    "NET",
+    "PIER",
+    "ROPE",
+    "SPRAY",
+    "WIND"
+  ],
+  "grid": [
+    [
+      "P",
+      "N",
+      "E",
+      "T",
+      "E",
+      "I",
+      "D",
+      "R",
+      "D",
+      "T"
+    ],
+    [
+      "M",
+      "P",
+      "R",
+      "U",
+      "S",
+      "C",
+      "H",
+      "Z",
+      "Z",
+      "T"
+    ],
+    [
+      "D",
+      "I",
+      "O",
+      "R",
+      "U",
+      "L",
+      "B",
+      "O",
+      "A",
+      "T"
+    ],
+    [
+      "O",
+      "E",
+      "P",
+      "X",
+      "V",
+      "M",
+      "Y",
+      "S",
+      "F",
+      "X"
+    ],
+    [
+      "C",
+      "R",
+      "E",
+      "B",
+      "S",
+      "P",
+      "R",
+      "A",
+      "Y",
+      "C"
+    ],
+    [
+      "K",
+      "P",
+      "V",
+      "D",
+      "W",
+      "I",
+      "N",
+      "D",
+      "Z",
+      "Y"
+    ],
+    [
+      "F",
+      "I",
+      "Y",
+      "U",
+      "Q",
+      "O",
+      "U",
+      "A",
+      "C",
+      "H"
+    ],
+    [
+      "I",
+      "D",
+      "Q",
+      "S",
+      "J",
+      "H",
+      "L",
+      "M",
+      "M",
+      "G"
+    ],
+    [
+      "S",
+      "J",
+      "D",
+      "K",
+      "C",
+      "R",
+      "A",
+      "B",
+      "G",
+      "I"
+    ],
+    [
+      "H",
+      "U",
+      "G",
+      "B",
+      "S",
+      "I",
+      "V",
+      "D",
+      "N",
+      "W"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SPRAY",
+      "row": 4,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "PIER",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "DOCK",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BOAT",
+      "row": 2,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "ROPE",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "CRAB",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "FISH",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "WIND",
+      "row": 5,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "DUSK",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "NET",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2421
+}

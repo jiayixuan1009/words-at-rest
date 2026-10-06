@@ -1,0 +1,284 @@
+{
+  "id": "bible-medium-04",
+  "slug": "bible-medium-04",
+  "themeId": "bible",
+  "title": "Bible: Prophets Path",
+  "primaryKeyword": "bible word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ALTAR",
+    "AMOS",
+    "DANIEL",
+    "EZEKIEL",
+    "HAGGAI",
+    "ISAIAH",
+    "JEREMIAH",
+    "JOEL",
+    "MALACHI",
+    "MICAH",
+    "NAHUM",
+    "PROPHET",
+    "TEMPLE",
+    "VISION"
+  ],
+  "grid": [
+    [
+      "J",
+      "V",
+      "M",
+      "I",
+      "C",
+      "A",
+      "H",
+      "L",
+      "A",
+      "M",
+      "O",
+      "S"
+    ],
+    [
+      "O",
+      "H",
+      "D",
+      "K",
+      "H",
+      "A",
+      "G",
+      "G",
+      "A",
+      "I",
+      "P",
+      "P"
+    ],
+    [
+      "E",
+      "H",
+      "Q",
+      "G",
+      "K",
+      "Q",
+      "T",
+      "J",
+      "U",
+      "V",
+      "G",
+      "V"
+    ],
+    [
+      "L",
+      "K",
+      "Q",
+      "Q",
+      "M",
+      "L",
+      "V",
+      "E",
+      "F",
+      "E",
+      "K",
+      "W"
+    ],
+    [
+      "W",
+      "I",
+      "A",
+      "Q",
+      "E",
+      "B",
+      "I",
+      "R",
+      "T",
+      "Z",
+      "T",
+      "G"
+    ],
+    [
+      "N",
+      "S",
+      "D",
+      "I",
+      "M",
+      "H",
+      "S",
+      "E",
+      "E",
+      "E",
+      "R",
+      "F"
+    ],
+    [
+      "Y",
+      "O",
+      "N",
+      "U",
+      "C",
+      "R",
+      "I",
+      "M",
+      "M",
+      "K",
+      "P",
+      "F"
+    ],
+    [
+      "P",
+      "A",
+      "H",
+      "A",
+      "A",
+      "A",
+      "O",
+      "I",
+      "P",
+      "I",
+      "S",
+      "K"
+    ],
+    [
+      "D",
+      "A",
+      "L",
+      "T",
+      "F",
+      "X",
+      "N",
+      "A",
+      "L",
+      "E",
+      "P",
+      "J"
+    ],
+    [
+      "N",
+      "A",
+      "L",
+      "A",
+      "J",
+      "U",
+      "C",
+      "H",
+      "E",
+      "L",
+      "I",
+      "X"
+    ],
+    [
+      "M",
+      "A",
+      "Z",
+      "K",
+      "I",
+      "S",
+      "A",
+      "I",
+      "A",
+      "H",
+      "E",
+      "U"
+    ],
+    [
+      "J",
+      "T",
+      "P",
+      "R",
+      "O",
+      "P",
+      "H",
+      "E",
+      "T",
+      "V",
+      "C",
+      "W"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "JEREMIAH",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "EZEKIEL",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "MALACHI",
+      "row": 10,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "PROPHET",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ISAIAH",
+      "row": 10,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "DANIEL",
+      "row": 8,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "HAGGAI",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "VISION",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "TEMPLE",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "MICAH",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "NAHUM",
+      "row": 9,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "ALTAR",
+      "row": 10,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "JOEL",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "AMOS",
+      "row": 0,
+      "col": 8,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 5012
+}

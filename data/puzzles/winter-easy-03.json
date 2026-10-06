@@ -1,0 +1,208 @@
+{
+  "id": "winter-easy-03",
+  "slug": "winter-easy-03",
+  "themeId": "winter",
+  "title": "Winter: Mitten Hook",
+  "primaryKeyword": "winter word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BOOT",
+    "COAT",
+    "FIRE",
+    "FLAKE",
+    "HAT",
+    "HOME",
+    "ICE",
+    "MITTEN",
+    "MUG",
+    "QUIET"
+  ],
+  "grid": [
+    [
+      "D",
+      "R",
+      "O",
+      "T",
+      "Q",
+      "F",
+      "D",
+      "M",
+      "U",
+      "G"
+    ],
+    [
+      "A",
+      "S",
+      "M",
+      "H",
+      "I",
+      "L",
+      "O",
+      "C",
+      "C",
+      "Q"
+    ],
+    [
+      "X",
+      "B",
+      "B",
+      "M",
+      "C",
+      "A",
+      "C",
+      "O",
+      "A",
+      "T"
+    ],
+    [
+      "G",
+      "Q",
+      "B",
+      "H",
+      "E",
+      "K",
+      "C",
+      "B",
+      "P",
+      "S"
+    ],
+    [
+      "T",
+      "Z",
+      "O",
+      "O",
+      "W",
+      "E",
+      "X",
+      "Y",
+      "B",
+      "Z"
+    ],
+    [
+      "F",
+      "L",
+      "O",
+      "M",
+      "S",
+      "Y",
+      "D",
+      "N",
+      "D",
+      "W"
+    ],
+    [
+      "D",
+      "Y",
+      "T",
+      "E",
+      "C",
+      "M",
+      "G",
+      "A",
+      "R",
+      "B"
+    ],
+    [
+      "M",
+      "I",
+      "T",
+      "T",
+      "E",
+      "N",
+      "H",
+      "A",
+      "T",
+      "W"
+    ],
+    [
+      "Z",
+      "Q",
+      "O",
+      "Y",
+      "P",
+      "F",
+      "I",
+      "R",
+      "E",
+      "X"
+    ],
+    [
+      "C",
+      "R",
+      "Q",
+      "P",
+      "H",
+      "Q",
+      "U",
+      "I",
+      "E",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "MITTEN",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "FLAKE",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "QUIET",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "COAT",
+      "row": 2,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "BOOT",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "FIRE",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "HOME",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "HAT",
+      "row": 7,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "ICE",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "MUG",
+      "row": 0,
+      "col": 7,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 1221
+}

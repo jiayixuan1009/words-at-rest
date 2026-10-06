@@ -13,7 +13,8 @@
 | Wave 0 | SEO 修复第二批（audit-fix-2）：正文 SSR、作者 / 日期 / Person / sameAs、引用、en-US、移动端提速与折叠 | **进行中**（worktree `war-fix`） | 审计反馈、对话 |
 | Wave 1 · 节日 | Thanksgiving、Winter、Valentine's、Easter + `/holidays` | **已上线**（Package B，`5763f2f` / Worker `a4473ae1`）；封面仍借旧图 | THEME-EXPANSION-PLAN §6 |
 | Wave 1b · 子主题 | Sports：golf / baseball / tennis / fishing；Food：baking / desserts / herbs / fruits；Music：instruments / jazz / classical / music-terms | **已上线**（Package B，与节日同批）；封面借父主题图 | THEME-EXPANSION-PLAN §15 |
-| Wave G（本波）| 10 new hubs + deepen halloween/christmas/fall/bible/animals/food/sports/garden/ocean/thanksgiving/winter/large-print | **已部署**（`e979d79` / Worker `a48dbe45`，102 / 605） | 少薄页、冲 1000 |
+| Wave H（本波）| deepen hubs + chess/national-parks/landmarks/farm-animals/home/astronomy/board-games/yoga | **本地完成待部署**（`wave-h`，110 / 716） | 冲 800+ |
+| Wave G | 10 new hubs + deepen halloween/christmas/fall/bible/animals/food/sports/garden/ocean/thanksgiving/winter/large-print | **已部署**（`e979d79` / Worker `a48dbe45`，102 / 605） | 少薄页、冲 1000 |
 | Wave F | countries / continents / cities / knitting / reading / painting / birthday / wedding / chemistry / mythology / volcanoes / forests / rivers / deserts / museums | **已上线**（`f7f574d` / Worker `7bbc1c6f`，92 / 502） | 竞品主题目录对齐 |
 | Wave E | kindness / gratitude / mindfulness / colors / tools / soccer / basketball / american-history / presidents / dinosaurs / insects / reptiles / cooking / shopping / money | **已上线**（`35b33b4` / Worker `395dc560`，77 / 412） | 竞品主题目录对齐 |
 | Wave D | us-states / world-capitals / human-body / camping / horses / cars / trains / airplanes / farming / beach / mountains / lakes / school / jobs / friendship | **已上线**（`c85285b` / Worker `dc80faf2`，62 / 322） | 竞品主题目录对齐 |

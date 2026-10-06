@@ -1,0 +1,173 @@
+{
+  "id": "space-large-01",
+  "slug": "space-large-01",
+  "themeId": "space",
+  "title": "Large Print Space: Soft Star",
+  "primaryKeyword": "large print space word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BASE",
+    "CREW",
+    "DUST",
+    "MOON",
+    "ORBIT",
+    "RING",
+    "SHIP",
+    "STAR"
+  ],
+  "grid": [
+    [
+      "B",
+      "O",
+      "P",
+      "F",
+      "S",
+      "G",
+      "M",
+      "C",
+      "M"
+    ],
+    [
+      "A",
+      "R",
+      "C",
+      "H",
+      "I",
+      "N",
+      "E",
+      "H",
+      "O"
+    ],
+    [
+      "S",
+      "B",
+      "X",
+      "H",
+      "K",
+      "S",
+      "M",
+      "O",
+      "O"
+    ],
+    [
+      "E",
+      "I",
+      "H",
+      "U",
+      "G",
+      "L",
+      "O",
+      "U",
+      "N"
+    ],
+    [
+      "S",
+      "T",
+      "A",
+      "R",
+      "I",
+      "N",
+      "G",
+      "E",
+      "N"
+    ],
+    [
+      "S",
+      "H",
+      "I",
+      "P",
+      "Y",
+      "C",
+      "D",
+      "D",
+      "T"
+    ],
+    [
+      "R",
+      "B",
+      "W",
+      "D",
+      "C",
+      "R",
+      "U",
+      "F",
+      "M"
+    ],
+    [
+      "O",
+      "J",
+      "L",
+      "F",
+      "T",
+      "E",
+      "S",
+      "K",
+      "D"
+    ],
+    [
+      "B",
+      "B",
+      "P",
+      "B",
+      "V",
+      "W",
+      "T",
+      "V",
+      "H"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ORBIT",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "STAR",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "MOON",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "RING",
+      "row": 4,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "DUST",
+      "row": 5,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "SHIP",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CREW",
+      "row": 5,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "BASE",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2113
+}

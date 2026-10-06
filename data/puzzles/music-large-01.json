@@ -1,0 +1,173 @@
+{
+  "id": "music-large-01",
+  "slug": "music-large-01",
+  "themeId": "music",
+  "title": "Large Print Music: Soft Note",
+  "primaryKeyword": "large print music word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BEAT",
+    "DUET",
+    "KEY",
+    "NOTE",
+    "REST",
+    "SCALE",
+    "SONG",
+    "TUNE"
+  ],
+  "grid": [
+    [
+      "Z",
+      "V",
+      "R",
+      "C",
+      "Z",
+      "N",
+      "H",
+      "K",
+      "J"
+    ],
+    [
+      "K",
+      "S",
+      "K",
+      "E",
+      "Y",
+      "S",
+      "Y",
+      "T",
+      "I"
+    ],
+    [
+      "D",
+      "C",
+      "U",
+      "T",
+      "B",
+      "J",
+      "J",
+      "H",
+      "H"
+    ],
+    [
+      "U",
+      "A",
+      "V",
+      "U",
+      "E",
+      "A",
+      "U",
+      "W",
+      "V"
+    ],
+    [
+      "E",
+      "L",
+      "B",
+      "N",
+      "A",
+      "B",
+      "S",
+      "T",
+      "B"
+    ],
+    [
+      "T",
+      "E",
+      "Y",
+      "E",
+      "T",
+      "G",
+      "O",
+      "X",
+      "A"
+    ],
+    [
+      "Y",
+      "O",
+      "R",
+      "E",
+      "N",
+      "U",
+      "N",
+      "F",
+      "H"
+    ],
+    [
+      "B",
+      "L",
+      "R",
+      "E",
+      "S",
+      "T",
+      "G",
+      "W",
+      "W"
+    ],
+    [
+      "K",
+      "P",
+      "Q",
+      "M",
+      "N",
+      "O",
+      "T",
+      "E",
+      "X"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SCALE",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "NOTE",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "REST",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SONG",
+      "row": 4,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "TUNE",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "BEAT",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "DUET",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "KEY",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2614
+}

@@ -1,0 +1,284 @@
+{
+  "id": "music-medium-02",
+  "slug": "music-medium-02",
+  "themeId": "music",
+  "title": "Music: Evening Recital",
+  "primaryKeyword": "music word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BRIDGE",
+    "CHORUS",
+    "ENSEMBLE",
+    "HARMONY",
+    "MEASURE",
+    "MELODY",
+    "PHRASE",
+    "RECITAL",
+    "REFRAIN",
+    "RHYTHM",
+    "SCORE",
+    "SOLO",
+    "STAFF",
+    "VERSE"
+  ],
+  "grid": [
+    [
+      "R",
+      "V",
+      "U",
+      "C",
+      "P",
+      "H",
+      "R",
+      "A",
+      "S",
+      "E",
+      "O",
+      "S"
+    ],
+    [
+      "S",
+      "H",
+      "L",
+      "X",
+      "C",
+      "H",
+      "O",
+      "R",
+      "U",
+      "S",
+      "H",
+      "O"
+    ],
+    [
+      "B",
+      "C",
+      "Y",
+      "D",
+      "Q",
+      "F",
+      "O",
+      "S",
+      "V",
+      "L",
+      "Q",
+      "L"
+    ],
+    [
+      "R",
+      "H",
+      "O",
+      "T",
+      "R",
+      "E",
+      "F",
+      "R",
+      "A",
+      "I",
+      "N",
+      "O"
+    ],
+    [
+      "I",
+      "L",
+      "N",
+      "R",
+      "H",
+      "E",
+      "G",
+      "T",
+      "J",
+      "D",
+      "N",
+      "H"
+    ],
+    [
+      "D",
+      "E",
+      "D",
+      "A",
+      "E",
+      "M",
+      "I",
+      "J",
+      "T",
+      "V",
+      "S",
+      "F"
+    ],
+    [
+      "G",
+      "F",
+      "C",
+      "Q",
+      "I",
+      "C",
+      "R",
+      "P",
+      "M",
+      "T",
+      "J",
+      "T"
+    ],
+    [
+      "E",
+      "Y",
+      "D",
+      "O",
+      "E",
+      "H",
+      "A",
+      "R",
+      "M",
+      "O",
+      "N",
+      "Y"
+    ],
+    [
+      "M",
+      "M",
+      "X",
+      "R",
+      "V",
+      "Y",
+      "V",
+      "E",
+      "R",
+      "S",
+      "E",
+      "W"
+    ],
+    [
+      "S",
+      "M",
+      "E",
+      "L",
+      "O",
+      "D",
+      "Y",
+      "S",
+      "T",
+      "A",
+      "F",
+      "F"
+    ],
+    [
+      "H",
+      "M",
+      "E",
+      "A",
+      "S",
+      "U",
+      "R",
+      "E",
+      "U",
+      "G",
+      "A",
+      "G"
+    ],
+    [
+      "S",
+      "F",
+      "T",
+      "Y",
+      "E",
+      "N",
+      "S",
+      "E",
+      "M",
+      "B",
+      "L",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ENSEMBLE",
+      "row": 11,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "RECITAL",
+      "row": 8,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "HARMONY",
+      "row": 7,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "MEASURE",
+      "row": 10,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "REFRAIN",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "MELODY",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "RHYTHM",
+      "row": 0,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "PHRASE",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CHORUS",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BRIDGE",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "VERSE",
+      "row": 8,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "SCORE",
+      "row": 1,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "STAFF",
+      "row": 9,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "SOLO",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2612
+}

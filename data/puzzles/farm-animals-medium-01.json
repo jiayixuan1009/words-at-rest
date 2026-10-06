@@ -1,0 +1,284 @@
+{
+  "id": "farm-animals-medium-01",
+  "slug": "farm-animals-medium-01",
+  "themeId": "farm-animals",
+  "title": "Farm Animals: Herd Day",
+  "primaryKeyword": "farm animals word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "DONKEY",
+    "FENCE",
+    "FLOCK",
+    "GRAIN",
+    "HOOF",
+    "MANE",
+    "MEADOW",
+    "PASTURE",
+    "RABBIT",
+    "ROOSTER",
+    "STABLE",
+    "STRAW",
+    "TROUGH",
+    "TURKEY"
+  ],
+  "grid": [
+    [
+      "M",
+      "A",
+      "S",
+      "G",
+      "N",
+      "E",
+      "F",
+      "L",
+      "O",
+      "C",
+      "K",
+      "I"
+    ],
+    [
+      "S",
+      "T",
+      "S",
+      "I",
+      "M",
+      "E",
+      "A",
+      "D",
+      "O",
+      "W",
+      "D",
+      "T"
+    ],
+    [
+      "N",
+      "F",
+      "A",
+      "H",
+      "M",
+      "A",
+      "N",
+      "E",
+      "K",
+      "F",
+      "O",
+      "R"
+    ],
+    [
+      "E",
+      "R",
+      "P",
+      "A",
+      "S",
+      "T",
+      "U",
+      "R",
+      "E",
+      "E",
+      "N",
+      "O"
+    ],
+    [
+      "G",
+      "S",
+      "T",
+      "A",
+      "B",
+      "L",
+      "E",
+      "M",
+      "Y",
+      "N",
+      "K",
+      "U"
+    ],
+    [
+      "D",
+      "R",
+      "M",
+      "X",
+      "U",
+      "Z",
+      "D",
+      "H",
+      "L",
+      "C",
+      "E",
+      "G"
+    ],
+    [
+      "F",
+      "G",
+      "B",
+      "I",
+      "Z",
+      "T",
+      "X",
+      "L",
+      "Q",
+      "E",
+      "Y",
+      "H"
+    ],
+    [
+      "F",
+      "J",
+      "B",
+      "R",
+      "A",
+      "B",
+      "B",
+      "I",
+      "T",
+      "O",
+      "J",
+      "W"
+    ],
+    [
+      "F",
+      "T",
+      "U",
+      "R",
+      "K",
+      "E",
+      "Y",
+      "I",
+      "T",
+      "L",
+      "A",
+      "I"
+    ],
+    [
+      "J",
+      "R",
+      "O",
+      "O",
+      "S",
+      "T",
+      "E",
+      "R",
+      "V",
+      "R",
+      "P",
+      "T"
+    ],
+    [
+      "G",
+      "T",
+      "L",
+      "H",
+      "O",
+      "O",
+      "F",
+      "G",
+      "T",
+      "F",
+      "D",
+      "O"
+    ],
+    [
+      "X",
+      "M",
+      "G",
+      "B",
+      "C",
+      "H",
+      "A",
+      "S",
+      "W",
+      "W",
+      "M",
+      "M"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ROOSTER",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PASTURE",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "TURKEY",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "DONKEY",
+      "row": 1,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "RABBIT",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "STABLE",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TROUGH",
+      "row": 1,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "MEADOW",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "FENCE",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "FLOCK",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "STRAW",
+      "row": 11,
+      "col": 7,
+      "direction": "NE"
+    },
+    {
+      "word": "GRAIN",
+      "row": 4,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "MANE",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "HOOF",
+      "row": 10,
+      "col": 3,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8833
+}

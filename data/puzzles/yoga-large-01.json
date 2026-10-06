@@ -1,0 +1,173 @@
+{
+  "id": "yoga-large-01",
+  "slug": "yoga-large-01",
+  "themeId": "yoga",
+  "title": "Large Print Yoga: Soft Mat",
+  "primaryKeyword": "large print yoga word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "CALM",
+    "EASE",
+    "FLOW",
+    "MAT",
+    "POSE",
+    "REST",
+    "SOFT",
+    "YOGA"
+  ],
+  "grid": [
+    [
+      "R",
+      "R",
+      "U",
+      "E",
+      "Y",
+      "W",
+      "Q",
+      "J",
+      "G"
+    ],
+    [
+      "E",
+      "D",
+      "B",
+      "A",
+      "O",
+      "H",
+      "F",
+      "H",
+      "L"
+    ],
+    [
+      "S",
+      "F",
+      "K",
+      "S",
+      "G",
+      "K",
+      "L",
+      "Y",
+      "Y"
+    ],
+    [
+      "T",
+      "O",
+      "U",
+      "E",
+      "A",
+      "T",
+      "O",
+      "Y",
+      "M"
+    ],
+    [
+      "B",
+      "S",
+      "R",
+      "Z",
+      "W",
+      "W",
+      "W",
+      "O",
+      "S"
+    ],
+    [
+      "P",
+      "O",
+      "M",
+      "C",
+      "A",
+      "L",
+      "M",
+      "M",
+      "I"
+    ],
+    [
+      "O",
+      "F",
+      "Q",
+      "L",
+      "C",
+      "U",
+      "A",
+      "A",
+      "Q"
+    ],
+    [
+      "S",
+      "T",
+      "I",
+      "Y",
+      "V",
+      "W",
+      "L",
+      "T",
+      "M"
+    ],
+    [
+      "E",
+      "S",
+      "R",
+      "Y",
+      "V",
+      "T",
+      "G",
+      "O",
+      "K"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "YOGA",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "POSE",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "FLOW",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "CALM",
+      "row": 5,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "REST",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "EASE",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "SOFT",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "MAT",
+      "row": 5,
+      "col": 7,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8876
+}

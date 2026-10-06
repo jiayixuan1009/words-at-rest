@@ -1,0 +1,284 @@
+{
+  "id": "chess-medium-01",
+  "slug": "chess-medium-01",
+  "themeId": "chess",
+  "title": "Chess: Endgame Study",
+  "primaryKeyword": "chess word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BLUNDER",
+    "CAPTURE",
+    "DEFENSE",
+    "ENDGAME",
+    "FORK",
+    "GAMBIT",
+    "OPENING",
+    "POSITION",
+    "PROMOTE",
+    "SKEWER",
+    "STRATEGY",
+    "TACTIC",
+    "TEMPO",
+    "TIMER"
+  ],
+  "grid": [
+    [
+      "Z",
+      "O",
+      "F",
+      "S",
+      "Q",
+      "X",
+      "A",
+      "X",
+      "P",
+      "J",
+      "B",
+      "D"
+    ],
+    [
+      "D",
+      "E",
+      "F",
+      "E",
+      "N",
+      "S",
+      "E",
+      "T",
+      "O",
+      "C",
+      "E",
+      "E"
+    ],
+    [
+      "B",
+      "L",
+      "U",
+      "N",
+      "D",
+      "E",
+      "R",
+      "L",
+      "S",
+      "A",
+      "N",
+      "Z"
+    ],
+    [
+      "S",
+      "O",
+      "T",
+      "S",
+      "T",
+      "I",
+      "T",
+      "S",
+      "I",
+      "P",
+      "D",
+      "X"
+    ],
+    [
+      "T",
+      "K",
+      "E",
+      "K",
+      "A",
+      "G",
+      "I",
+      "V",
+      "T",
+      "T",
+      "G",
+      "R"
+    ],
+    [
+      "R",
+      "F",
+      "M",
+      "E",
+      "C",
+      "N",
+      "M",
+      "Y",
+      "I",
+      "U",
+      "A",
+      "R"
+    ],
+    [
+      "A",
+      "O",
+      "P",
+      "W",
+      "T",
+      "V",
+      "E",
+      "W",
+      "O",
+      "R",
+      "M",
+      "B"
+    ],
+    [
+      "T",
+      "R",
+      "O",
+      "E",
+      "I",
+      "I",
+      "R",
+      "T",
+      "N",
+      "E",
+      "E",
+      "W"
+    ],
+    [
+      "E",
+      "K",
+      "U",
+      "R",
+      "C",
+      "P",
+      "R",
+      "O",
+      "M",
+      "O",
+      "T",
+      "E"
+    ],
+    [
+      "G",
+      "Z",
+      "F",
+      "G",
+      "A",
+      "M",
+      "B",
+      "I",
+      "T",
+      "G",
+      "V",
+      "U"
+    ],
+    [
+      "Y",
+      "F",
+      "O",
+      "P",
+      "E",
+      "N",
+      "I",
+      "N",
+      "G",
+      "A",
+      "M",
+      "E"
+    ],
+    [
+      "M",
+      "U",
+      "R",
+      "P",
+      "C",
+      "H",
+      "G",
+      "S",
+      "L",
+      "V",
+      "V",
+      "A"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "STRATEGY",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "POSITION",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "OPENING",
+      "row": 10,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ENDGAME",
+      "row": 1,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "DEFENSE",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BLUNDER",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CAPTURE",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "PROMOTE",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "GAMBIT",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SKEWER",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "TACTIC",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "TEMPO",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "TIMER",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "FORK",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8803
+}

@@ -1,0 +1,284 @@
+{
+  "id": "animals-medium-03",
+  "slug": "animals-medium-03",
+  "themeId": "animals",
+  "title": "Animals: Prairie Rim",
+  "primaryKeyword": "animals word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ANTELOPE",
+    "BUFFALO",
+    "COYOTE",
+    "GRASS",
+    "HAWK",
+    "LIZARD",
+    "MOUSE",
+    "OWL",
+    "PRAIRIE",
+    "PRAIRIEDOG",
+    "RABBIT",
+    "SKY",
+    "SNAKE",
+    "TURTLE"
+  ],
+  "grid": [
+    [
+      "L",
+      "Z",
+      "G",
+      "P",
+      "S",
+      "Q",
+      "P",
+      "M",
+      "G",
+      "S",
+      "J",
+      "G"
+    ],
+    [
+      "I",
+      "H",
+      "H",
+      "E",
+      "N",
+      "S",
+      "K",
+      "Y",
+      "O",
+      "X",
+      "R",
+      "M"
+    ],
+    [
+      "Z",
+      "M",
+      "P",
+      "A",
+      "A",
+      "Z",
+      "P",
+      "R",
+      "A",
+      "U",
+      "K",
+      "D"
+    ],
+    [
+      "A",
+      "I",
+      "R",
+      "Z",
+      "K",
+      "N",
+      "R",
+      "A",
+      "N",
+      "O",
+      "S",
+      "Y"
+    ],
+    [
+      "R",
+      "B",
+      "A",
+      "Z",
+      "E",
+      "T",
+      "A",
+      "B",
+      "T",
+      "H",
+      "W",
+      "E"
+    ],
+    [
+      "D",
+      "U",
+      "I",
+      "C",
+      "L",
+      "U",
+      "I",
+      "B",
+      "E",
+      "A",
+      "F",
+      "L"
+    ],
+    [
+      "N",
+      "F",
+      "R",
+      "G",
+      "W",
+      "R",
+      "R",
+      "I",
+      "L",
+      "W",
+      "A",
+      "S"
+    ],
+    [
+      "J",
+      "F",
+      "I",
+      "R",
+      "V",
+      "T",
+      "I",
+      "T",
+      "O",
+      "K",
+      "Q",
+      "Y"
+    ],
+    [
+      "F",
+      "A",
+      "E",
+      "A",
+      "Z",
+      "L",
+      "E",
+      "P",
+      "P",
+      "W",
+      "I",
+      "K"
+    ],
+    [
+      "Y",
+      "L",
+      "D",
+      "S",
+      "D",
+      "E",
+      "C",
+      "J",
+      "E",
+      "M",
+      "K",
+      "B"
+    ],
+    [
+      "E",
+      "O",
+      "O",
+      "S",
+      "F",
+      "K",
+      "Q",
+      "N",
+      "W",
+      "C",
+      "Y",
+      "M"
+    ],
+    [
+      "R",
+      "M",
+      "G",
+      "L",
+      "W",
+      "C",
+      "O",
+      "Y",
+      "O",
+      "T",
+      "E",
+      "W"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PRAIRIEDOG",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "ANTELOPE",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "PRAIRIE",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "BUFFALO",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "COYOTE",
+      "row": 11,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "LIZARD",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "TURTLE",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "RABBIT",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SNAKE",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "MOUSE",
+      "row": 0,
+      "col": 7,
+      "direction": "SE"
+    },
+    {
+      "word": "GRASS",
+      "row": 6,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "HAWK",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "OWL",
+      "row": 3,
+      "col": 9,
+      "direction": "SE"
+    },
+    {
+      "word": "SKY",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2022
+}

@@ -1,0 +1,284 @@
+{
+  "id": "sports-medium-03",
+  "slug": "sports-medium-03",
+  "themeId": "sports",
+  "title": "Sports: Match Night",
+  "primaryKeyword": "sports word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BENCH",
+    "CAPTAIN",
+    "CLOCK",
+    "COACH",
+    "FOUL",
+    "HALFTIME",
+    "LEAGUE",
+    "MATCH",
+    "OVERTIME",
+    "REFEREE",
+    "SCORE",
+    "SEASON",
+    "SIDELINE",
+    "WHISTLE"
+  ],
+  "grid": [
+    [
+      "C",
+      "L",
+      "E",
+      "A",
+      "G",
+      "U",
+      "E",
+      "R",
+      "S",
+      "J",
+      "A",
+      "S"
+    ],
+    [
+      "W",
+      "C",
+      "Z",
+      "V",
+      "D",
+      "H",
+      "S",
+      "H",
+      "I",
+      "C",
+      "S",
+      "M"
+    ],
+    [
+      "U",
+      "H",
+      "Q",
+      "G",
+      "C",
+      "W",
+      "C",
+      "H",
+      "D",
+      "A",
+      "K",
+      "Q"
+    ],
+    [
+      "W",
+      "G",
+      "I",
+      "T",
+      "L",
+      "H",
+      "O",
+      "A",
+      "E",
+      "P",
+      "O",
+      "Z"
+    ],
+    [
+      "S",
+      "R",
+      "A",
+      "S",
+      "R",
+      "B",
+      "R",
+      "L",
+      "L",
+      "T",
+      "V",
+      "C"
+    ],
+    [
+      "E",
+      "M",
+      "R",
+      "A",
+      "T",
+      "T",
+      "E",
+      "F",
+      "I",
+      "A",
+      "E",
+      "L"
+    ],
+    [
+      "A",
+      "M",
+      "H",
+      "E",
+      "T",
+      "L",
+      "I",
+      "T",
+      "N",
+      "I",
+      "R",
+      "O"
+    ],
+    [
+      "S",
+      "B",
+      "C",
+      "L",
+      "F",
+      "L",
+      "E",
+      "I",
+      "E",
+      "N",
+      "T",
+      "C"
+    ],
+    [
+      "O",
+      "F",
+      "O",
+      "U",
+      "L",
+      "E",
+      "G",
+      "M",
+      "T",
+      "Y",
+      "I",
+      "K"
+    ],
+    [
+      "N",
+      "H",
+      "A",
+      "Q",
+      "N",
+      "S",
+      "R",
+      "E",
+      "F",
+      "L",
+      "M",
+      "M"
+    ],
+    [
+      "W",
+      "K",
+      "C",
+      "D",
+      "C",
+      "D",
+      "H",
+      "E",
+      "Z",
+      "T",
+      "E",
+      "J"
+    ],
+    [
+      "U",
+      "H",
+      "H",
+      "A",
+      "D",
+      "F",
+      "D",
+      "B",
+      "E",
+      "N",
+      "C",
+      "H"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SIDELINE",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "HALFTIME",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "OVERTIME",
+      "row": 3,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "CAPTAIN",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "WHISTLE",
+      "row": 1,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "REFEREE",
+      "row": 5,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "LEAGUE",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SEASON",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "MATCH",
+      "row": 5,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "COACH",
+      "row": 7,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "BENCH",
+      "row": 11,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "SCORE",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "CLOCK",
+      "row": 4,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "FOUL",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2222
+}

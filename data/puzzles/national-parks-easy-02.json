@@ -1,0 +1,208 @@
+{
+  "id": "national-parks-easy-02",
+  "slug": "national-parks-easy-02",
+  "themeId": "national-parks",
+  "title": "National Parks: Quiet Vista",
+  "primaryKeyword": "national parks word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CANYON",
+    "CLIFF",
+    "FALLS",
+    "FOREST",
+    "LODGE",
+    "MEADOW",
+    "RANGER",
+    "RIVER",
+    "VALLEY",
+    "VISTA"
+  ],
+  "grid": [
+    [
+      "M",
+      "C",
+      "C",
+      "C",
+      "V",
+      "J",
+      "N",
+      "J",
+      "Q",
+      "C"
+    ],
+    [
+      "Z",
+      "X",
+      "C",
+      "M",
+      "F",
+      "A",
+      "L",
+      "L",
+      "S",
+      "D"
+    ],
+    [
+      "D",
+      "L",
+      "A",
+      "F",
+      "O",
+      "R",
+      "E",
+      "S",
+      "T",
+      "O"
+    ],
+    [
+      "Q",
+      "V",
+      "N",
+      "U",
+      "V",
+      "A",
+      "L",
+      "L",
+      "E",
+      "Y"
+    ],
+    [
+      "F",
+      "V",
+      "Y",
+      "R",
+      "A",
+      "N",
+      "G",
+      "E",
+      "R",
+      "K"
+    ],
+    [
+      "H",
+      "X",
+      "O",
+      "F",
+      "B",
+      "A",
+      "B",
+      "Z",
+      "M",
+      "R"
+    ],
+    [
+      "B",
+      "E",
+      "N",
+      "C",
+      "L",
+      "I",
+      "F",
+      "F",
+      "C",
+      "I"
+    ],
+    [
+      "L",
+      "P",
+      "A",
+      "L",
+      "O",
+      "D",
+      "G",
+      "E",
+      "Y",
+      "V"
+    ],
+    [
+      "Q",
+      "O",
+      "U",
+      "V",
+      "I",
+      "S",
+      "T",
+      "A",
+      "I",
+      "E"
+    ],
+    [
+      "J",
+      "K",
+      "V",
+      "M",
+      "E",
+      "A",
+      "D",
+      "O",
+      "W",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "RANGER",
+      "row": 4,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "CANYON",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "VALLEY",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "MEADOW",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "FOREST",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "LODGE",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "VISTA",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "RIVER",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "FALLS",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CLIFF",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8812
+}

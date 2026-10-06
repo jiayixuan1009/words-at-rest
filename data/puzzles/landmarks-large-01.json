@@ -1,0 +1,173 @@
+{
+  "id": "landmarks-large-01",
+  "slug": "landmarks-large-01",
+  "themeId": "landmarks",
+  "title": "Large Print Landmarks: Soft Arch",
+  "primaryKeyword": "large print landmarks word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "ARCH",
+    "BRIDGE",
+    "DOME",
+    "GATE",
+    "MAP",
+    "TOWER",
+    "VIEW",
+    "WALL"
+  ],
+  "grid": [
+    [
+      "Z",
+      "R",
+      "S",
+      "E",
+      "N",
+      "J",
+      "Y",
+      "L",
+      "R"
+    ],
+    [
+      "X",
+      "B",
+      "R",
+      "I",
+      "D",
+      "G",
+      "E",
+      "K",
+      "Q"
+    ],
+    [
+      "Q",
+      "M",
+      "A",
+      "P",
+      "M",
+      "R",
+      "B",
+      "H",
+      "A"
+    ],
+    [
+      "R",
+      "L",
+      "W",
+      "A",
+      "L",
+      "L",
+      "A",
+      "M",
+      "S"
+    ],
+    [
+      "G",
+      "S",
+      "G",
+      "A",
+      "T",
+      "E",
+      "L",
+      "J",
+      "X"
+    ],
+    [
+      "C",
+      "A",
+      "S",
+      "Q",
+      "U",
+      "Q",
+      "A",
+      "S",
+      "V"
+    ],
+    [
+      "O",
+      "R",
+      "N",
+      "Y",
+      "Y",
+      "R",
+      "R",
+      "J",
+      "I"
+    ],
+    [
+      "O",
+      "C",
+      "T",
+      "O",
+      "W",
+      "E",
+      "R",
+      "H",
+      "E"
+    ],
+    [
+      "V",
+      "H",
+      "P",
+      "Z",
+      "D",
+      "O",
+      "M",
+      "E",
+      "W"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BRIDGE",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TOWER",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "GATE",
+      "row": 4,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ARCH",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "DOME",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "WALL",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "VIEW",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "MAP",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8826
+}

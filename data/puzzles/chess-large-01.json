@@ -1,0 +1,173 @@
+{
+  "id": "chess-large-01",
+  "slug": "chess-large-01",
+  "themeId": "chess",
+  "title": "Large Print Chess: Soft Pawn",
+  "primaryKeyword": "large print chess word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BOARD",
+    "CHECK",
+    "DRAW",
+    "KING",
+    "MOVE",
+    "PAWN",
+    "ROOK",
+    "TURN"
+  ],
+  "grid": [
+    [
+      "R",
+      "J",
+      "K",
+      "I",
+      "N",
+      "G",
+      "D",
+      "L",
+      "D"
+    ],
+    [
+      "B",
+      "D",
+      "Q",
+      "Q",
+      "G",
+      "G",
+      "B",
+      "G",
+      "R"
+    ],
+    [
+      "O",
+      "O",
+      "M",
+      "K",
+      "O",
+      "F",
+      "G",
+      "X",
+      "O"
+    ],
+    [
+      "A",
+      "D",
+      "R",
+      "A",
+      "W",
+      "H",
+      "P",
+      "C",
+      "O"
+    ],
+    [
+      "R",
+      "P",
+      "W",
+      "S",
+      "G",
+      "P",
+      "Q",
+      "H",
+      "K"
+    ],
+    [
+      "D",
+      "A",
+      "M",
+      "O",
+      "V",
+      "E",
+      "P",
+      "E",
+      "N"
+    ],
+    [
+      "S",
+      "W",
+      "M",
+      "E",
+      "D",
+      "G",
+      "Z",
+      "C",
+      "J"
+    ],
+    [
+      "O",
+      "N",
+      "I",
+      "N",
+      "W",
+      "Z",
+      "K",
+      "K",
+      "Z"
+    ],
+    [
+      "E",
+      "N",
+      "S",
+      "R",
+      "T",
+      "U",
+      "R",
+      "N",
+      "C"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BOARD",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CHECK",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "PAWN",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "KING",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ROOK",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "MOVE",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "TURN",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "DRAW",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8806
+}

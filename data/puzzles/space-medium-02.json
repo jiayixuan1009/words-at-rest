@@ -1,0 +1,284 @@
+{
+  "id": "space-medium-02",
+  "slug": "space-medium-02",
+  "themeId": "space",
+  "title": "Space: Distant Glow",
+  "primaryKeyword": "space word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BASE",
+    "COMET",
+    "COSMOS",
+    "CREW",
+    "GALAXY",
+    "LANDER",
+    "MODULE",
+    "NEBULA",
+    "ORBIT",
+    "PLANET",
+    "PROBE",
+    "ROCKET",
+    "SIGNAL",
+    "THRUST"
+  ],
+  "grid": [
+    [
+      "B",
+      "V",
+      "H",
+      "Y",
+      "P",
+      "U",
+      "O",
+      "S",
+      "T",
+      "A",
+      "Z",
+      "S"
+    ],
+    [
+      "A",
+      "T",
+      "R",
+      "C",
+      "I",
+      "Y",
+      "I",
+      "I",
+      "L",
+      "S",
+      "S",
+      "I"
+    ],
+    [
+      "S",
+      "H",
+      "I",
+      "R",
+      "L",
+      "T",
+      "B",
+      "U",
+      "P",
+      "Y",
+      "I",
+      "G"
+    ],
+    [
+      "E",
+      "R",
+      "I",
+      "E",
+      "K",
+      "R",
+      "B",
+      "O",
+      "R",
+      "Q",
+      "M",
+      "N"
+    ],
+    [
+      "P",
+      "U",
+      "M",
+      "W",
+      "O",
+      "E",
+      "P",
+      "O",
+      "O",
+      "L",
+      "C",
+      "A"
+    ],
+    [
+      "R",
+      "S",
+      "M",
+      "V",
+      "N",
+      "V",
+      "L",
+      "K",
+      "B",
+      "A",
+      "O",
+      "L"
+    ],
+    [
+      "O",
+      "T",
+      "O",
+      "A",
+      "N",
+      "K",
+      "A",
+      "K",
+      "E",
+      "N",
+      "M",
+      "A"
+    ],
+    [
+      "C",
+      "L",
+      "D",
+      "T",
+      "K",
+      "K",
+      "N",
+      "N",
+      "Q",
+      "D",
+      "E",
+      "I"
+    ],
+    [
+      "K",
+      "G",
+      "U",
+      "Z",
+      "E",
+      "G",
+      "E",
+      "F",
+      "D",
+      "E",
+      "T",
+      "D"
+    ],
+    [
+      "E",
+      "L",
+      "L",
+      "V",
+      "P",
+      "U",
+      "T",
+      "D",
+      "R",
+      "R",
+      "E",
+      "D"
+    ],
+    [
+      "T",
+      "T",
+      "E",
+      "V",
+      "M",
+      "C",
+      "O",
+      "S",
+      "M",
+      "O",
+      "S",
+      "L"
+    ],
+    [
+      "R",
+      "D",
+      "V",
+      "G",
+      "A",
+      "L",
+      "A",
+      "X",
+      "Y",
+      "M",
+      "O",
+      "M"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PLANET",
+      "row": 4,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "NEBULA",
+      "row": 5,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "GALAXY",
+      "row": 11,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "ROCKET",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "LANDER",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "MODULE",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "SIGNAL",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "THRUST",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "COSMOS",
+      "row": 10,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "COMET",
+      "row": 4,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "PROBE",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "ORBIT",
+      "row": 4,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "CREW",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "BASE",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2112
+}

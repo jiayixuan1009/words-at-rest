@@ -1,0 +1,284 @@
+{
+  "id": "landmarks-medium-02",
+  "slug": "landmarks-medium-02",
+  "themeId": "landmarks",
+  "title": "Landmarks: Heritage Hour",
+  "primaryKeyword": "landmarks word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BRONZE",
+    "COURT",
+    "FORT",
+    "GARDEN",
+    "HALL",
+    "HERITAGE",
+    "HISTORY",
+    "LANDMARK",
+    "LIGHTHOUSE",
+    "MARKET",
+    "MUSEUM",
+    "SPIRE",
+    "SQUARE",
+    "VISTA"
+  ],
+  "grid": [
+    [
+      "L",
+      "Q",
+      "J",
+      "A",
+      "M",
+      "N",
+      "L",
+      "H",
+      "Y",
+      "U",
+      "L",
+      "V"
+    ],
+    [
+      "Q",
+      "M",
+      "E",
+      "S",
+      "U",
+      "L",
+      "Z",
+      "E",
+      "L",
+      "B",
+      "H",
+      "A"
+    ],
+    [
+      "B",
+      "A",
+      "J",
+      "P",
+      "S",
+      "I",
+      "D",
+      "R",
+      "A",
+      "Q",
+      "I",
+      "C"
+    ],
+    [
+      "C",
+      "R",
+      "L",
+      "I",
+      "E",
+      "G",
+      "F",
+      "I",
+      "N",
+      "B",
+      "S",
+      "K"
+    ],
+    [
+      "C",
+      "K",
+      "D",
+      "R",
+      "U",
+      "H",
+      "O",
+      "T",
+      "D",
+      "R",
+      "T",
+      "G"
+    ],
+    [
+      "K",
+      "E",
+      "V",
+      "E",
+      "M",
+      "T",
+      "R",
+      "A",
+      "M",
+      "O",
+      "O",
+      "C"
+    ],
+    [
+      "C",
+      "T",
+      "I",
+      "S",
+      "B",
+      "H",
+      "T",
+      "G",
+      "A",
+      "N",
+      "R",
+      "Q"
+    ],
+    [
+      "M",
+      "G",
+      "S",
+      "C",
+      "Q",
+      "O",
+      "M",
+      "E",
+      "R",
+      "Z",
+      "Y",
+      "S"
+    ],
+    [
+      "K",
+      "M",
+      "T",
+      "O",
+      "V",
+      "U",
+      "C",
+      "C",
+      "K",
+      "E",
+      "H",
+      "P"
+    ],
+    [
+      "O",
+      "Y",
+      "A",
+      "U",
+      "C",
+      "S",
+      "A",
+      "D",
+      "B",
+      "J",
+      "A",
+      "I"
+    ],
+    [
+      "U",
+      "G",
+      "A",
+      "R",
+      "D",
+      "E",
+      "N",
+      "R",
+      "M",
+      "H",
+      "L",
+      "H"
+    ],
+    [
+      "G",
+      "L",
+      "P",
+      "T",
+      "O",
+      "B",
+      "S",
+      "E",
+      "E",
+      "U",
+      "L",
+      "V"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "LIGHTHOUSE",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "HERITAGE",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "LANDMARK",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "HISTORY",
+      "row": 1,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "MUSEUM",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "GARDEN",
+      "row": 10,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "MARKET",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SQUARE",
+      "row": 6,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "BRONZE",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SPIRE",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "VISTA",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "COURT",
+      "row": 7,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "HALL",
+      "row": 8,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "FORT",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8824
+}

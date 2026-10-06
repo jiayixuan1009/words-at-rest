@@ -1,0 +1,173 @@
+{
+  "id": "bible-large-02",
+  "slug": "bible-large-02",
+  "themeId": "bible",
+  "title": "Large Print Bible: Soft Psalm",
+  "primaryKeyword": "large print bible word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "HEART",
+    "LAMP",
+    "PATH",
+    "PSALM",
+    "REST",
+    "ROCK",
+    "SONG",
+    "WORD"
+  ],
+  "grid": [
+    [
+      "B",
+      "Z",
+      "D",
+      "K",
+      "Y",
+      "U",
+      "T",
+      "J",
+      "B"
+    ],
+    [
+      "G",
+      "P",
+      "S",
+      "A",
+      "L",
+      "M",
+      "L",
+      "L",
+      "V"
+    ],
+    [
+      "J",
+      "R",
+      "E",
+      "S",
+      "T",
+      "P",
+      "A",
+      "Z",
+      "T"
+    ],
+    [
+      "R",
+      "O",
+      "T",
+      "A",
+      "R",
+      "R",
+      "M",
+      "V",
+      "S"
+    ],
+    [
+      "T",
+      "P",
+      "A",
+      "T",
+      "H",
+      "Z",
+      "P",
+      "S",
+      "O"
+    ],
+    [
+      "R",
+      "O",
+      "C",
+      "K",
+      "W",
+      "O",
+      "R",
+      "D",
+      "N"
+    ],
+    [
+      "V",
+      "D",
+      "R",
+      "M",
+      "G",
+      "B",
+      "Y",
+      "N",
+      "G"
+    ],
+    [
+      "S",
+      "H",
+      "E",
+      "A",
+      "R",
+      "T",
+      "G",
+      "Z",
+      "U"
+    ],
+    [
+      "F",
+      "T",
+      "N",
+      "V",
+      "N",
+      "I",
+      "B",
+      "W",
+      "Z"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PSALM",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "HEART",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SONG",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "PATH",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "ROCK",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "LAMP",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "WORD",
+      "row": 5,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "REST",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 5014
+}

@@ -1,0 +1,173 @@
+{
+  "id": "garden-large-02",
+  "slug": "garden-large-02",
+  "themeId": "garden",
+  "title": "Large Print Garden: Soft Herb",
+  "primaryKeyword": "large print garden word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BASIL",
+    "BED",
+    "BEE",
+    "DILL",
+    "MINT",
+    "PATH",
+    "SAGE",
+    "SUN"
+  ],
+  "grid": [
+    [
+      "M",
+      "I",
+      "E",
+      "F",
+      "B",
+      "T",
+      "A",
+      "H",
+      "E"
+    ],
+    [
+      "N",
+      "D",
+      "S",
+      "K",
+      "A",
+      "Q",
+      "Q",
+      "J",
+      "I"
+    ],
+    [
+      "X",
+      "T",
+      "C",
+      "B",
+      "S",
+      "L",
+      "P",
+      "Z",
+      "O"
+    ],
+    [
+      "Q",
+      "Q",
+      "X",
+      "X",
+      "I",
+      "C",
+      "S",
+      "D",
+      "P"
+    ],
+    [
+      "S",
+      "B",
+      "E",
+      "D",
+      "L",
+      "J",
+      "A",
+      "U",
+      "P"
+    ],
+    [
+      "I",
+      "D",
+      "I",
+      "L",
+      "L",
+      "Q",
+      "G",
+      "M",
+      "A"
+    ],
+    [
+      "L",
+      "C",
+      "T",
+      "E",
+      "B",
+      "S",
+      "E",
+      "I",
+      "T"
+    ],
+    [
+      "C",
+      "Q",
+      "F",
+      "T",
+      "E",
+      "U",
+      "W",
+      "N",
+      "H"
+    ],
+    [
+      "T",
+      "H",
+      "X",
+      "G",
+      "E",
+      "N",
+      "E",
+      "T",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BASIL",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "MINT",
+      "row": 5,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SAGE",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "DILL",
+      "row": 5,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PATH",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "BED",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BEE",
+      "row": 6,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "SUN",
+      "row": 6,
+      "col": 5,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2924
+}

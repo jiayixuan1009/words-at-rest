@@ -1,0 +1,208 @@
+{
+  "id": "astronomy-easy-01",
+  "slug": "astronomy-easy-01",
+  "themeId": "astronomy",
+  "title": "Astronomy: Star Chart",
+  "primaryKeyword": "astronomy word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "COMET",
+    "DAWN",
+    "DUSK",
+    "MOON",
+    "NIGHT",
+    "ORBIT",
+    "RING",
+    "SKY",
+    "STAR",
+    "SUN"
+  ],
+  "grid": [
+    [
+      "M",
+      "E",
+      "Y",
+      "N",
+      "I",
+      "G",
+      "H",
+      "T",
+      "R",
+      "H"
+    ],
+    [
+      "O",
+      "A",
+      "R",
+      "I",
+      "N",
+      "G",
+      "J",
+      "S",
+      "L",
+      "Q"
+    ],
+    [
+      "I",
+      "S",
+      "M",
+      "U",
+      "B",
+      "N",
+      "A",
+      "X",
+      "Y",
+      "V"
+    ],
+    [
+      "Z",
+      "U",
+      "O",
+      "V",
+      "H",
+      "R",
+      "O",
+      "T",
+      "W",
+      "U"
+    ],
+    [
+      "G",
+      "N",
+      "C",
+      "O",
+      "R",
+      "B",
+      "I",
+      "T",
+      "N",
+      "C"
+    ],
+    [
+      "X",
+      "P",
+      "E",
+      "S",
+      "T",
+      "A",
+      "R",
+      "Q",
+      "Z",
+      "D"
+    ],
+    [
+      "C",
+      "O",
+      "M",
+      "E",
+      "T",
+      "M",
+      "Y",
+      "D",
+      "V",
+      "A"
+    ],
+    [
+      "Z",
+      "O",
+      "M",
+      "L",
+      "D",
+      "U",
+      "S",
+      "K",
+      "N",
+      "W"
+    ],
+    [
+      "X",
+      "B",
+      "H",
+      "A",
+      "R",
+      "S",
+      "K",
+      "Y",
+      "D",
+      "N"
+    ],
+    [
+      "M",
+      "Y",
+      "I",
+      "T",
+      "F",
+      "M",
+      "O",
+      "O",
+      "N",
+      "O"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ORBIT",
+      "row": 4,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "COMET",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "NIGHT",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "STAR",
+      "row": 5,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "MOON",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "DAWN",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "DUSK",
+      "row": 7,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "RING",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SUN",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SKY",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8851
+}

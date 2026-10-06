@@ -67,7 +67,8 @@ export default function ThemesPage() {
           U.S. states, world capitals, human body, american history, presidents, dinosaurs, insects, reptiles,
           cooking, shopping, money, countries, continents, cities, knitting, reading, painting, birthday, wedding,
           chemistry, mythology, volcanoes, forests, rivers, deserts, museums, sewing, quilting, swimming, hiking, cycling,
-          geology, architecture, islands, emotions, photography, cars, trains, airplanes, soccer, basketball, travel, music (with instruments, jazz, classical and musical terms), sports (with golf,
+          geology, architecture, islands, emotions, photography, chess, national-parks, landmarks, farm-animals,
+          home, astronomy, board-games, yoga, cars, trains, airplanes, soccer, basketball, travel, music (with instruments, jazz, classical and musical terms), sports (with golf,
           baseball, tennis and fishing) and space work any time of year.{" "}
           <strong className="text-[var(--ink)]">Packs</strong> group puzzles by how they play rather
           than by topic: the <Link href="/themes/large-print-pack">Large Print Pack</Link> for

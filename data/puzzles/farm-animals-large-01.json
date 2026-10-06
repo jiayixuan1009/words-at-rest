@@ -1,0 +1,173 @@
+{
+  "id": "farm-animals-large-01",
+  "slug": "farm-animals-large-01",
+  "themeId": "farm-animals",
+  "title": "Large Print Farm Animals: Soft Hen",
+  "primaryKeyword": "large print farm animals word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BARN",
+    "COW",
+    "EGG",
+    "GOAT",
+    "HAY",
+    "HEN",
+    "LAMB",
+    "PIG"
+  ],
+  "grid": [
+    [
+      "K",
+      "E",
+      "Q",
+      "Y",
+      "C",
+      "V",
+      "Q",
+      "H",
+      "T"
+    ],
+    [
+      "L",
+      "L",
+      "I",
+      "A",
+      "O",
+      "O",
+      "E",
+      "K",
+      "X"
+    ],
+    [
+      "N",
+      "O",
+      "K",
+      "I",
+      "W",
+      "P",
+      "K",
+      "I",
+      "K"
+    ],
+    [
+      "C",
+      "H",
+      "Q",
+      "H",
+      "H",
+      "F",
+      "A",
+      "K",
+      "P"
+    ],
+    [
+      "W",
+      "D",
+      "E",
+      "E",
+      "S",
+      "Y",
+      "Z",
+      "B",
+      "B"
+    ],
+    [
+      "H",
+      "Q",
+      "G",
+      "N",
+      "L",
+      "A",
+      "P",
+      "D",
+      "A"
+    ],
+    [
+      "A",
+      "R",
+      "G",
+      "O",
+      "A",
+      "T",
+      "I",
+      "O",
+      "R"
+    ],
+    [
+      "Y",
+      "I",
+      "C",
+      "V",
+      "M",
+      "M",
+      "G",
+      "L",
+      "N"
+    ],
+    [
+      "R",
+      "Q",
+      "W",
+      "R",
+      "B",
+      "Z",
+      "Z",
+      "S",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "GOAT",
+      "row": 6,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "LAMB",
+      "row": 5,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "BARN",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "COW",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "HEN",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "PIG",
+      "row": 5,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "HAY",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "EGG",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8836
+}

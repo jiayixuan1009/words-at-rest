@@ -1,0 +1,208 @@
+{
+  "id": "travel-easy-02",
+  "slug": "travel-easy-02",
+  "themeId": "travel",
+  "title": "Travel: Ticket Desk",
+  "primaryKeyword": "travel word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BAG",
+    "FERRY",
+    "GATE",
+    "HOTEL",
+    "INN",
+    "MAP",
+    "PASS",
+    "TICKET",
+    "TRAIN",
+    "TRIP"
+  ],
+  "grid": [
+    [
+      "M",
+      "G",
+      "E",
+      "L",
+      "Y",
+      "I",
+      "B",
+      "V",
+      "C",
+      "X"
+    ],
+    [
+      "X",
+      "E",
+      "H",
+      "G",
+      "Q",
+      "N",
+      "A",
+      "F",
+      "F",
+      "F"
+    ],
+    [
+      "B",
+      "T",
+      "O",
+      "A",
+      "Y",
+      "N",
+      "G",
+      "U",
+      "U",
+      "E"
+    ],
+    [
+      "I",
+      "R",
+      "T",
+      "T",
+      "O",
+      "V",
+      "M",
+      "A",
+      "P",
+      "R"
+    ],
+    [
+      "M",
+      "A",
+      "E",
+      "E",
+      "W",
+      "G",
+      "S",
+      "O",
+      "V",
+      "R"
+    ],
+    [
+      "E",
+      "I",
+      "L",
+      "G",
+      "S",
+      "D",
+      "S",
+      "M",
+      "S",
+      "Y"
+    ],
+    [
+      "M",
+      "N",
+      "W",
+      "W",
+      "S",
+      "B",
+      "A",
+      "K",
+      "V",
+      "U"
+    ],
+    [
+      "K",
+      "E",
+      "T",
+      "I",
+      "C",
+      "K",
+      "E",
+      "T",
+      "I",
+      "V"
+    ],
+    [
+      "P",
+      "O",
+      "A",
+      "C",
+      "P",
+      "A",
+      "S",
+      "S",
+      "L",
+      "L"
+    ],
+    [
+      "C",
+      "H",
+      "T",
+      "R",
+      "I",
+      "P",
+      "N",
+      "R",
+      "U",
+      "C"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TICKET",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "TRAIN",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "FERRY",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "HOTEL",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "PASS",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "GATE",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "TRIP",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "INN",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "BAG",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "MAP",
+      "row": 3,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2511
+}

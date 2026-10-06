@@ -1,0 +1,284 @@
+{
+  "id": "yoga-medium-01",
+  "slug": "yoga-medium-01",
+  "themeId": "yoga",
+  "title": "Yoga: Stretch Hour",
+  "primaryKeyword": "yoga word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ANKLE",
+    "BLANKET",
+    "BOLSTER",
+    "EXHALE",
+    "GAZE",
+    "HIP",
+    "INHALE",
+    "MORNING",
+    "PRACTICE",
+    "SESSION",
+    "SHOULDER",
+    "SPINE",
+    "STUDIO",
+    "WRIST"
+  ],
+  "grid": [
+    [
+      "S",
+      "E",
+      "S",
+      "S",
+      "I",
+      "O",
+      "N",
+      "F",
+      "W",
+      "H",
+      "P",
+      "B"
+    ],
+    [
+      "P",
+      "R",
+      "S",
+      "X",
+      "I",
+      "V",
+      "A",
+      "E",
+      "R",
+      "V",
+      "R",
+      "L"
+    ],
+    [
+      "S",
+      "D",
+      "S",
+      "P",
+      "H",
+      "N",
+      "V",
+      "V",
+      "I",
+      "G",
+      "A",
+      "A"
+    ],
+    [
+      "B",
+      "L",
+      "T",
+      "D",
+      "I",
+      "A",
+      "H",
+      "X",
+      "S",
+      "A",
+      "C",
+      "N"
+    ],
+    [
+      "M",
+      "O",
+      "R",
+      "N",
+      "I",
+      "N",
+      "G",
+      "A",
+      "T",
+      "Z",
+      "T",
+      "K"
+    ],
+    [
+      "M",
+      "Z",
+      "B",
+      "K",
+      "F",
+      "Z",
+      "E",
+      "O",
+      "L",
+      "E",
+      "I",
+      "E"
+    ],
+    [
+      "A",
+      "W",
+      "R",
+      "O",
+      "A",
+      "E",
+      "S",
+      "N",
+      "F",
+      "E",
+      "C",
+      "T"
+    ],
+    [
+      "S",
+      "H",
+      "O",
+      "U",
+      "L",
+      "D",
+      "E",
+      "R",
+      "M",
+      "C",
+      "E",
+      "X"
+    ],
+    [
+      "H",
+      "X",
+      "H",
+      "A",
+      "U",
+      "S",
+      "S",
+      "T",
+      "U",
+      "D",
+      "I",
+      "O"
+    ],
+    [
+      "I",
+      "V",
+      "H",
+      "T",
+      "T",
+      "J",
+      "T",
+      "Z",
+      "V",
+      "U",
+      "J",
+      "X"
+    ],
+    [
+      "P",
+      "X",
+      "K",
+      "K",
+      "Z",
+      "I",
+      "L",
+      "E",
+      "N",
+      "D",
+      "F",
+      "E"
+    ],
+    [
+      "E",
+      "A",
+      "N",
+      "K",
+      "L",
+      "E",
+      "W",
+      "X",
+      "R",
+      "E",
+      "C",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SHOULDER",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "PRACTICE",
+      "row": 0,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "BOLSTER",
+      "row": 5,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "BLANKET",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "SESSION",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "MORNING",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "INHALE",
+      "row": 1,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "EXHALE",
+      "row": 11,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "STUDIO",
+      "row": 8,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "SPINE",
+      "row": 1,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "WRIST",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "ANKLE",
+      "row": 11,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "GAZE",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "HIP",
+      "row": 8,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8873
+}

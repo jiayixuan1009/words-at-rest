@@ -1,0 +1,173 @@
+{
+  "id": "fall-large-02",
+  "slug": "fall-large-02",
+  "themeId": "fall",
+  "title": "Large Print Fall: Soft Apple",
+  "primaryKeyword": "large print fall word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "APPLE",
+    "DUSK",
+    "GOLD",
+    "GOURD",
+    "PEAR",
+    "PILE",
+    "RAKE",
+    "WALK"
+  ],
+  "grid": [
+    [
+      "V",
+      "J",
+      "W",
+      "N",
+      "V",
+      "P",
+      "F",
+      "R",
+      "D"
+    ],
+    [
+      "T",
+      "A",
+      "A",
+      "D",
+      "U",
+      "S",
+      "K",
+      "O",
+      "Y"
+    ],
+    [
+      "S",
+      "P",
+      "L",
+      "Z",
+      "G",
+      "R",
+      "A",
+      "K",
+      "E"
+    ],
+    [
+      "X",
+      "P",
+      "K",
+      "P",
+      "O",
+      "O",
+      "F",
+      "W",
+      "V"
+    ],
+    [
+      "J",
+      "L",
+      "X",
+      "I",
+      "U",
+      "G",
+      "Y",
+      "Q",
+      "I"
+    ],
+    [
+      "D",
+      "E",
+      "J",
+      "L",
+      "R",
+      "G",
+      "O",
+      "L",
+      "D"
+    ],
+    [
+      "B",
+      "D",
+      "A",
+      "E",
+      "D",
+      "Q",
+      "X",
+      "M",
+      "G"
+    ],
+    [
+      "C",
+      "M",
+      "C",
+      "W",
+      "F",
+      "P",
+      "E",
+      "A",
+      "R"
+    ],
+    [
+      "N",
+      "C",
+      "D",
+      "A",
+      "N",
+      "D",
+      "C",
+      "E",
+      "H"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "APPLE",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "GOURD",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "PEAR",
+      "row": 7,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "RAKE",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "PILE",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "GOLD",
+      "row": 5,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "WALK",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "DUSK",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 1124
+}

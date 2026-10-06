@@ -1,0 +1,208 @@
+{
+  "id": "cats-easy-02",
+  "slug": "cats-easy-02",
+  "themeId": "cats",
+  "title": "Cats: Window Seat",
+  "primaryKeyword": "cats word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BOWL",
+    "CAT",
+    "KIT",
+    "LAP",
+    "NAP",
+    "PAW",
+    "SOFT",
+    "SUN",
+    "TAIL",
+    "YARN"
+  ],
+  "grid": [
+    [
+      "S",
+      "U",
+      "N",
+      "S",
+      "F",
+      "P",
+      "A",
+      "W",
+      "J",
+      "S"
+    ],
+    [
+      "B",
+      "U",
+      "B",
+      "B",
+      "N",
+      "N",
+      "B",
+      "Q",
+      "U",
+      "O"
+    ],
+    [
+      "B",
+      "L",
+      "H",
+      "O",
+      "O",
+      "J",
+      "I",
+      "Y",
+      "K",
+      "F"
+    ],
+    [
+      "N",
+      "A",
+      "G",
+      "W",
+      "A",
+      "Z",
+      "Y",
+      "H",
+      "I",
+      "T"
+    ],
+    [
+      "I",
+      "P",
+      "E",
+      "L",
+      "L",
+      "I",
+      "A",
+      "E",
+      "T",
+      "C"
+    ],
+    [
+      "K",
+      "Y",
+      "W",
+      "A",
+      "G",
+      "T",
+      "D",
+      "C",
+      "A",
+      "T"
+    ],
+    [
+      "I",
+      "L",
+      "B",
+      "S",
+      "J",
+      "E",
+      "D",
+      "N",
+      "Q",
+      "F"
+    ],
+    [
+      "K",
+      "Y",
+      "A",
+      "R",
+      "N",
+      "S",
+      "C",
+      "A",
+      "K",
+      "H"
+    ],
+    [
+      "X",
+      "W",
+      "S",
+      "T",
+      "A",
+      "I",
+      "L",
+      "P",
+      "N",
+      "C"
+    ],
+    [
+      "M",
+      "N",
+      "H",
+      "K",
+      "X",
+      "U",
+      "C",
+      "H",
+      "Q",
+      "L"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TAIL",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "YARN",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BOWL",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "SOFT",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "CAT",
+      "row": 5,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "KIT",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "PAW",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "NAP",
+      "row": 6,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "LAP",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SUN",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2711
+}

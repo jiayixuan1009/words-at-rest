@@ -101,6 +101,14 @@ import architecture from "./architecture.json";
 import islands from "./islands.json";
 import emotions from "./emotions.json";
 import photography from "./photography.json";
+import chess from "./chess.json";
+import nationalParks from "./national-parks.json";
+import landmarks from "./landmarks.json";
+import farmAnimals from "./farm-animals.json";
+import home from "./home.json";
+import astronomy from "./astronomy.json";
+import boardGames from "./board-games.json";
+import yoga from "./yoga.json";
 
 /** Theme order: seasonal first, then evergreen, then packs. */
 export const themes = [
@@ -204,6 +212,14 @@ export const themes = [
   islands,
   emotions,
   photography,
+  chess,
+  nationalParks,
+  landmarks,
+  farmAnimals,
+  home,
+  astronomy,
+  boardGames,
+  yoga,
   largePrintPack,
   hardPack,
 ] as Theme[];

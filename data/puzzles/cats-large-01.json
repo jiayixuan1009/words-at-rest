@@ -1,0 +1,173 @@
+{
+  "id": "cats-large-01",
+  "slug": "cats-large-01",
+  "themeId": "cats",
+  "title": "Large Print Cats: Soft Nap",
+  "primaryKeyword": "large print cats word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BOWL",
+    "CAT",
+    "LAP",
+    "NAP",
+    "PAW",
+    "SUN",
+    "TAIL",
+    "YARN"
+  ],
+  "grid": [
+    [
+      "V",
+      "K",
+      "H",
+      "Q",
+      "L",
+      "T",
+      "A",
+      "I",
+      "L"
+    ],
+    [
+      "R",
+      "X",
+      "C",
+      "O",
+      "N",
+      "A",
+      "W",
+      "H",
+      "F"
+    ],
+    [
+      "P",
+      "D",
+      "A",
+      "X",
+      "K",
+      "S",
+      "P",
+      "A",
+      "W"
+    ],
+    [
+      "O",
+      "O",
+      "T",
+      "K",
+      "G",
+      "U",
+      "L",
+      "A",
+      "P"
+    ],
+    [
+      "T",
+      "N",
+      "Q",
+      "E",
+      "H",
+      "N",
+      "D",
+      "X",
+      "C"
+    ],
+    [
+      "A",
+      "A",
+      "Y",
+      "B",
+      "M",
+      "U",
+      "F",
+      "Y",
+      "M"
+    ],
+    [
+      "T",
+      "P",
+      "J",
+      "O",
+      "M",
+      "U",
+      "F",
+      "A",
+      "J"
+    ],
+    [
+      "V",
+      "H",
+      "A",
+      "W",
+      "Z",
+      "O",
+      "L",
+      "R",
+      "L"
+    ],
+    [
+      "S",
+      "L",
+      "X",
+      "L",
+      "G",
+      "M",
+      "K",
+      "N",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TAIL",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "YARN",
+      "row": 5,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "BOWL",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "CAT",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "PAW",
+      "row": 2,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "NAP",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "LAP",
+      "row": 3,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "SUN",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2714
+}

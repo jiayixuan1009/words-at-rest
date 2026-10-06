@@ -1,0 +1,208 @@
+{
+  "id": "home-easy-01",
+  "slug": "home-easy-01",
+  "themeId": "home",
+  "title": "Home: Porch Light",
+  "primaryKeyword": "home word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "DOOR",
+    "HALL",
+    "HOME",
+    "KEY",
+    "LAMP",
+    "REST",
+    "ROOF",
+    "ROOM",
+    "RUG",
+    "SOFA"
+  ],
+  "grid": [
+    [
+      "C",
+      "D",
+      "X",
+      "R",
+      "O",
+      "O",
+      "F",
+      "U",
+      "U",
+      "R"
+    ],
+    [
+      "D",
+      "I",
+      "T",
+      "E",
+      "G",
+      "Q",
+      "Y",
+      "X",
+      "K",
+      "S"
+    ],
+    [
+      "N",
+      "U",
+      "S",
+      "O",
+      "F",
+      "A",
+      "P",
+      "S",
+      "N",
+      "Q"
+    ],
+    [
+      "D",
+      "Y",
+      "A",
+      "L",
+      "E",
+      "R",
+      "P",
+      "I",
+      "M",
+      "U"
+    ],
+    [
+      "O",
+      "L",
+      "A",
+      "M",
+      "P",
+      "E",
+      "K",
+      "P",
+      "M",
+      "C"
+    ],
+    [
+      "O",
+      "S",
+      "Y",
+      "D",
+      "R",
+      "S",
+      "C",
+      "K",
+      "E",
+      "Y"
+    ],
+    [
+      "R",
+      "S",
+      "N",
+      "R",
+      "U",
+      "T",
+      "J",
+      "N",
+      "U",
+      "H"
+    ],
+    [
+      "R",
+      "M",
+      "O",
+      "O",
+      "B",
+      "R",
+      "U",
+      "G",
+      "Y",
+      "O"
+    ],
+    [
+      "N",
+      "Z",
+      "Q",
+      "O",
+      "A",
+      "H",
+      "A",
+      "L",
+      "L",
+      "M"
+    ],
+    [
+      "R",
+      "D",
+      "P",
+      "M",
+      "I",
+      "B",
+      "S",
+      "X",
+      "J",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "HOME",
+      "row": 6,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "ROOM",
+      "row": 6,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "HALL",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "DOOR",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "ROOF",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "LAMP",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SOFA",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "REST",
+      "row": 3,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "RUG",
+      "row": 7,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "KEY",
+      "row": 5,
+      "col": 7,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8841
+}

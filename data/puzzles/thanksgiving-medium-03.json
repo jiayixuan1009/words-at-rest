@@ -1,0 +1,284 @@
+{
+  "id": "thanksgiving-medium-03",
+  "slug": "thanksgiving-medium-03",
+  "themeId": "thanksgiving",
+  "title": "Thanksgiving: Quiet Feast",
+  "primaryKeyword": "thanksgiving word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BLESSING",
+    "CRANBERRY",
+    "FAMILY",
+    "FEAST",
+    "GATHER",
+    "GRATITUDE",
+    "GRAVY",
+    "GUEST",
+    "HARVEST",
+    "HOST",
+    "STUFFING",
+    "TABLE",
+    "TOAST",
+    "TURKEY"
+  ],
+  "grid": [
+    [
+      "U",
+      "H",
+      "O",
+      "S",
+      "T",
+      "O",
+      "A",
+      "S",
+      "T",
+      "S",
+      "T",
+      "H"
+    ],
+    [
+      "J",
+      "G",
+      "A",
+      "T",
+      "H",
+      "E",
+      "R",
+      "N",
+      "N",
+      "S",
+      "Y",
+      "Z"
+    ],
+    [
+      "O",
+      "Y",
+      "G",
+      "M",
+      "X",
+      "D",
+      "C",
+      "Y",
+      "E",
+      "L",
+      "G",
+      "Z"
+    ],
+    [
+      "E",
+      "C",
+      "U",
+      "L",
+      "J",
+      "C",
+      "V",
+      "V",
+      "I",
+      "Y",
+      "N",
+      "G"
+    ],
+    [
+      "V",
+      "R",
+      "E",
+      "S",
+      "A",
+      "A",
+      "R",
+      "M",
+      "E",
+      "T",
+      "N",
+      "D"
+    ],
+    [
+      "C",
+      "A",
+      "S",
+      "P",
+      "R",
+      "A",
+      "A",
+      "K",
+      "S",
+      "I",
+      "W",
+      "R"
+    ],
+    [
+      "R",
+      "N",
+      "T",
+      "G",
+      "H",
+      "F",
+      "R",
+      "A",
+      "F",
+      "R",
+      "G",
+      "M"
+    ],
+    [
+      "N",
+      "B",
+      "O",
+      "P",
+      "W",
+      "U",
+      "E",
+      "F",
+      "U",
+      "S",
+      "Q",
+      "R"
+    ],
+    [
+      "A",
+      "E",
+      "K",
+      "J",
+      "T",
+      "F",
+      "U",
+      "T",
+      "A",
+      "B",
+      "L",
+      "E"
+    ],
+    [
+      "D",
+      "R",
+      "G",
+      "R",
+      "A",
+      "T",
+      "I",
+      "T",
+      "U",
+      "D",
+      "E",
+      "E"
+    ],
+    [
+      "P",
+      "R",
+      "I",
+      "F",
+      "S",
+      "B",
+      "U",
+      "R",
+      "V",
+      "U",
+      "J",
+      "P"
+    ],
+    [
+      "B",
+      "Y",
+      "T",
+      "B",
+      "L",
+      "E",
+      "S",
+      "S",
+      "I",
+      "N",
+      "G",
+      "D"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "GRATITUDE",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CRANBERRY",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "STUFFING",
+      "row": 10,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "BLESSING",
+      "row": 11,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "HARVEST",
+      "row": 6,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "GATHER",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TURKEY",
+      "row": 8,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "FAMILY",
+      "row": 6,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "FEAST",
+      "row": 8,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "GRAVY",
+      "row": 6,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "GUEST",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "TOAST",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "TABLE",
+      "row": 8,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "HOST",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 1132
+}
