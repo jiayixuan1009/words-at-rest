@@ -1,0 +1,284 @@
+{
+  "id": "calligraphy-medium-02",
+  "slug": "calligraphy-medium-02",
+  "themeId": "calligraphy",
+  "title": "Calligraphy: Desk Flourish",
+  "primaryKeyword": "calligraphy word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ART",
+    "ASCENDER",
+    "BEAUTY",
+    "BLOTTER",
+    "DESCENDER",
+    "INKSTONE",
+    "MINUSCULE",
+    "PRACTICE",
+    "PRESSURE",
+    "QUIET",
+    "SEAL",
+    "STUDY",
+    "SWASH",
+    "WAX"
+  ],
+  "grid": [
+    [
+      "E",
+      "E",
+      "P",
+      "S",
+      "A",
+      "H",
+      "M",
+      "P",
+      "F",
+      "B",
+      "X",
+      "A"
+    ],
+    [
+      "W",
+      "A",
+      "X",
+      "P",
+      "N",
+      "V",
+      "I",
+      "H",
+      "O",
+      "L",
+      "P",
+      "Z"
+    ],
+    [
+      "T",
+      "B",
+      "J",
+      "L",
+      "R",
+      "S",
+      "N",
+      "I",
+      "M",
+      "O",
+      "R",
+      "Y"
+    ],
+    [
+      "D",
+      "S",
+      "A",
+      "H",
+      "S",
+      "E",
+      "U",
+      "C",
+      "E",
+      "T",
+      "A",
+      "S"
+    ],
+    [
+      "I",
+      "E",
+      "W",
+      "K",
+      "O",
+      "N",
+      "S",
+      "O",
+      "L",
+      "T",
+      "C",
+      "A"
+    ],
+    [
+      "S",
+      "N",
+      "S",
+      "A",
+      "F",
+      "K",
+      "C",
+      "S",
+      "Q",
+      "E",
+      "T",
+      "S"
+    ],
+    [
+      "B",
+      "A",
+      "K",
+      "C",
+      "S",
+      "F",
+      "U",
+      "C",
+      "U",
+      "R",
+      "I",
+      "C"
+    ],
+    [
+      "R",
+      "E",
+      "V",
+      "S",
+      "E",
+      "H",
+      "L",
+      "Z",
+      "I",
+      "R",
+      "C",
+      "E"
+    ],
+    [
+      "G",
+      "W",
+      "A",
+      "T",
+      "T",
+      "N",
+      "E",
+      "H",
+      "E",
+      "G",
+      "E",
+      "N"
+    ],
+    [
+      "M",
+      "W",
+      "K",
+      "U",
+      "G",
+      "O",
+      "D",
+      "Y",
+      "T",
+      "A",
+      "R",
+      "D"
+    ],
+    [
+      "D",
+      "W",
+      "A",
+      "D",
+      "T",
+      "J",
+      "N",
+      "E",
+      "I",
+      "R",
+      "X",
+      "E"
+    ],
+    [
+      "N",
+      "S",
+      "E",
+      "Y",
+      "L",
+      "Y",
+      "A",
+      "E",
+      "R",
+      "T",
+      "M",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "MINUSCULE",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "DESCENDER",
+      "row": 3,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "ASCENDER",
+      "row": 4,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "PRESSURE",
+      "row": 1,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "PRACTICE",
+      "row": 1,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "INKSTONE",
+      "row": 4,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "BLOTTER",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "BEAUTY",
+      "row": 6,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "STUDY",
+      "row": 7,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "QUIET",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "SWASH",
+      "row": 3,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "SEAL",
+      "row": 5,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "WAX",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "ART",
+      "row": 9,
+      "col": 9,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8924
+}

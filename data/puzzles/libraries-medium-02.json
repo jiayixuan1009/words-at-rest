@@ -1,0 +1,284 @@
+{
+  "id": "libraries-medium-02",
+  "slug": "libraries-medium-02",
+  "themeId": "libraries",
+  "title": "Libraries: Reading Room",
+  "primaryKeyword": "libraries word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ARCHIVE",
+    "BORROW",
+    "BROWSE",
+    "FICTION",
+    "FINE",
+    "HISTORY",
+    "READING",
+    "REFERENCE",
+    "RENEW",
+    "RESERVE",
+    "RETURN",
+    "SCIENCE",
+    "SEARCH",
+    "WING"
+  ],
+  "grid": [
+    [
+      "G",
+      "F",
+      "X",
+      "L",
+      "Q",
+      "D",
+      "L",
+      "C",
+      "Q",
+      "J",
+      "R",
+      "G"
+    ],
+    [
+      "U",
+      "I",
+      "V",
+      "L",
+      "F",
+      "I",
+      "C",
+      "T",
+      "I",
+      "O",
+      "N",
+      "Q"
+    ],
+    [
+      "D",
+      "N",
+      "X",
+      "B",
+      "D",
+      "K",
+      "Y",
+      "U",
+      "Q",
+      "O",
+      "W",
+      "Q"
+    ],
+    [
+      "Y",
+      "E",
+      "R",
+      "E",
+      "F",
+      "E",
+      "R",
+      "E",
+      "N",
+      "C",
+      "E",
+      "R"
+    ],
+    [
+      "F",
+      "I",
+      "S",
+      "H",
+      "H",
+      "A",
+      "R",
+      "M",
+      "V",
+      "T",
+      "V",
+      "E"
+    ],
+    [
+      "B",
+      "P",
+      "C",
+      "Y",
+      "R",
+      "R",
+      "E",
+      "H",
+      "Z",
+      "Y",
+      "Y",
+      "A"
+    ],
+    [
+      "R",
+      "K",
+      "I",
+      "R",
+      "E",
+      "C",
+      "T",
+      "I",
+      "W",
+      "B",
+      "S",
+      "D"
+    ],
+    [
+      "O",
+      "Q",
+      "E",
+      "E",
+      "S",
+      "H",
+      "U",
+      "S",
+      "X",
+      "O",
+      "E",
+      "I"
+    ],
+    [
+      "W",
+      "K",
+      "N",
+      "N",
+      "E",
+      "I",
+      "R",
+      "T",
+      "W",
+      "R",
+      "A",
+      "N"
+    ],
+    [
+      "S",
+      "P",
+      "C",
+      "E",
+      "R",
+      "V",
+      "N",
+      "O",
+      "I",
+      "R",
+      "R",
+      "G"
+    ],
+    [
+      "E",
+      "F",
+      "E",
+      "W",
+      "V",
+      "E",
+      "O",
+      "R",
+      "N",
+      "O",
+      "C",
+      "V"
+    ],
+    [
+      "X",
+      "N",
+      "Y",
+      "M",
+      "E",
+      "A",
+      "Z",
+      "Y",
+      "G",
+      "W",
+      "H",
+      "Y"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "REFERENCE",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ARCHIVE",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "FICTION",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "HISTORY",
+      "row": 5,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SCIENCE",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "RESERVE",
+      "row": 5,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "READING",
+      "row": 3,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "BORROW",
+      "row": 6,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "RETURN",
+      "row": 4,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "BROWSE",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SEARCH",
+      "row": 6,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "RENEW",
+      "row": 6,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "WING",
+      "row": 8,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "FINE",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8934
+}

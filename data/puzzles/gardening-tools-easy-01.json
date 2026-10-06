@@ -1,0 +1,208 @@
+{
+  "id": "gardening-tools-easy-01",
+  "slug": "gardening-tools-easy-01",
+  "themeId": "gardening-tools",
+  "title": "Gardening Tools: Shed Shelf",
+  "primaryKeyword": "gardening tools word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CAN",
+    "FORK",
+    "HAT",
+    "HOE",
+    "HOOK",
+    "POT",
+    "RAKE",
+    "SAW",
+    "SPADE",
+    "TOOL"
+  ],
+  "grid": [
+    [
+      "D",
+      "M",
+      "N",
+      "R",
+      "I",
+      "J",
+      "D",
+      "H",
+      "O",
+      "E"
+    ],
+    [
+      "H",
+      "R",
+      "Z",
+      "P",
+      "C",
+      "A",
+      "N",
+      "R",
+      "D",
+      "J"
+    ],
+    [
+      "A",
+      "A",
+      "K",
+      "Y",
+      "D",
+      "L",
+      "Z",
+      "H",
+      "X",
+      "T"
+    ],
+    [
+      "T",
+      "G",
+      "J",
+      "R",
+      "M",
+      "A",
+      "U",
+      "O",
+      "C",
+      "F"
+    ],
+    [
+      "T",
+      "M",
+      "L",
+      "A",
+      "O",
+      "M",
+      "S",
+      "O",
+      "K",
+      "O"
+    ],
+    [
+      "A",
+      "S",
+      "Y",
+      "K",
+      "P",
+      "Z",
+      "P",
+      "K",
+      "A",
+      "R"
+    ],
+    [
+      "F",
+      "K",
+      "S",
+      "E",
+      "O",
+      "T",
+      "A",
+      "S",
+      "O",
+      "K"
+    ],
+    [
+      "D",
+      "X",
+      "A",
+      "K",
+      "T",
+      "O",
+      "D",
+      "J",
+      "L",
+      "L"
+    ],
+    [
+      "Z",
+      "M",
+      "W",
+      "J",
+      "D",
+      "O",
+      "E",
+      "V",
+      "X",
+      "O"
+    ],
+    [
+      "S",
+      "P",
+      "N",
+      "N",
+      "B",
+      "L",
+      "F",
+      "N",
+      "S",
+      "O"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SPADE",
+      "row": 4,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "RAKE",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "FORK",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "HOOK",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "TOOL",
+      "row": 6,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "HOE",
+      "row": 0,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "SAW",
+      "row": 6,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "CAN",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "HAT",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "POT",
+      "row": 5,
+      "col": 4,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8951
+}

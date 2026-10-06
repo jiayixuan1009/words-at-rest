@@ -1,0 +1,173 @@
+{
+  "id": "camping-large-02",
+  "slug": "camping-large-02",
+  "themeId": "camping",
+  "title": "Large Print Camping: Soft Tent",
+  "primaryKeyword": "large print camping word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "DARK",
+    "FIRE",
+    "LOG",
+    "MAT",
+    "MUG",
+    "PEG",
+    "STAR",
+    "TENT"
+  ],
+  "grid": [
+    [
+      "Q",
+      "S",
+      "K",
+      "F",
+      "B",
+      "F",
+      "W",
+      "Z",
+      "N"
+    ],
+    [
+      "Z",
+      "T",
+      "Q",
+      "L",
+      "M",
+      "A",
+      "T",
+      "X",
+      "E"
+    ],
+    [
+      "H",
+      "A",
+      "W",
+      "O",
+      "R",
+      "V",
+      "R",
+      "F",
+      "O"
+    ],
+    [
+      "P",
+      "R",
+      "V",
+      "G",
+      "B",
+      "T",
+      "P",
+      "I",
+      "L"
+    ],
+    [
+      "E",
+      "G",
+      "P",
+      "R",
+      "M",
+      "J",
+      "L",
+      "R",
+      "Y"
+    ],
+    [
+      "G",
+      "M",
+      "Y",
+      "V",
+      "D",
+      "E",
+      "P",
+      "E",
+      "A"
+    ],
+    [
+      "D",
+      "D",
+      "A",
+      "R",
+      "K",
+      "Q",
+      "G",
+      "H",
+      "K"
+    ],
+    [
+      "T",
+      "E",
+      "N",
+      "T",
+      "J",
+      "Z",
+      "D",
+      "F",
+      "D"
+    ],
+    [
+      "W",
+      "B",
+      "E",
+      "I",
+      "B",
+      "W",
+      "M",
+      "U",
+      "G"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FIRE",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "TENT",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "DARK",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "STAR",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "LOG",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "PEG",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "MAT",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "MUG",
+      "row": 8,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 3314
+}

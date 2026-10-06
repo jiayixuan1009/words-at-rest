@@ -1,0 +1,173 @@
+{
+  "id": "gardening-tools-large-01",
+  "slug": "gardening-tools-large-01",
+  "themeId": "gardening-tools",
+  "title": "Large Print Gardening Tools: Soft Rake",
+  "primaryKeyword": "large print gardening tools word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "CAN",
+    "FORK",
+    "HAT",
+    "HOE",
+    "POT",
+    "RAKE",
+    "SPADE",
+    "TOOL"
+  ],
+  "grid": [
+    [
+      "I",
+      "R",
+      "H",
+      "R",
+      "A",
+      "K",
+      "E",
+      "I",
+      "X"
+    ],
+    [
+      "B",
+      "L",
+      "H",
+      "H",
+      "O",
+      "E",
+      "U",
+      "T",
+      "V"
+    ],
+    [
+      "J",
+      "N",
+      "A",
+      "T",
+      "Q",
+      "F",
+      "O",
+      "R",
+      "K"
+    ],
+    [
+      "S",
+      "I",
+      "T",
+      "J",
+      "O",
+      "Z",
+      "C",
+      "F",
+      "G"
+    ],
+    [
+      "Q",
+      "Z",
+      "K",
+      "S",
+      "E",
+      "T",
+      "O",
+      "O",
+      "L"
+    ],
+    [
+      "W",
+      "Z",
+      "F",
+      "P",
+      "O",
+      "T",
+      "V",
+      "E",
+      "J"
+    ],
+    [
+      "C",
+      "A",
+      "N",
+      "A",
+      "J",
+      "B",
+      "M",
+      "Z",
+      "L"
+    ],
+    [
+      "T",
+      "U",
+      "V",
+      "D",
+      "V",
+      "M",
+      "P",
+      "R",
+      "V"
+    ],
+    [
+      "S",
+      "Q",
+      "Z",
+      "E",
+      "U",
+      "L",
+      "S",
+      "Y",
+      "L"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SPADE",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "RAKE",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "FORK",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "TOOL",
+      "row": 4,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "HOE",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "CAN",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "HAT",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "POT",
+      "row": 5,
+      "col": 3,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8956
+}

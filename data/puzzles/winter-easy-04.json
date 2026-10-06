@@ -1,0 +1,208 @@
+{
+  "id": "winter-easy-04",
+  "slug": "winter-easy-04",
+  "themeId": "winter",
+  "title": "Winter: Soft Light",
+  "primaryKeyword": "winter word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BOOK",
+    "GLOW",
+    "HOME",
+    "LAMP",
+    "LIGHT",
+    "MUG",
+    "QUIET",
+    "REST",
+    "SOFT",
+    "WARM"
+  ],
+  "grid": [
+    [
+      "C",
+      "J",
+      "X",
+      "G",
+      "U",
+      "L",
+      "A",
+      "M",
+      "P",
+      "S"
+    ],
+    [
+      "C",
+      "Z",
+      "F",
+      "O",
+      "E",
+      "I",
+      "M",
+      "M",
+      "U",
+      "G"
+    ],
+    [
+      "Y",
+      "I",
+      "R",
+      "G",
+      "Z",
+      "G",
+      "S",
+      "J",
+      "O",
+      "H"
+    ],
+    [
+      "U",
+      "S",
+      "E",
+      "W",
+      "R",
+      "H",
+      "V",
+      "A",
+      "R",
+      "U"
+    ],
+    [
+      "B",
+      "C",
+      "S",
+      "A",
+      "I",
+      "T",
+      "G",
+      "J",
+      "G",
+      "W"
+    ],
+    [
+      "O",
+      "M",
+      "T",
+      "R",
+      "M",
+      "S",
+      "L",
+      "V",
+      "O",
+      "H"
+    ],
+    [
+      "O",
+      "N",
+      "H",
+      "M",
+      "R",
+      "O",
+      "O",
+      "M",
+      "H",
+      "O"
+    ],
+    [
+      "K",
+      "O",
+      "H",
+      "Z",
+      "E",
+      "F",
+      "W",
+      "W",
+      "A",
+      "M"
+    ],
+    [
+      "M",
+      "B",
+      "O",
+      "D",
+      "H",
+      "T",
+      "D",
+      "Z",
+      "A",
+      "E"
+    ],
+    [
+      "I",
+      "Q",
+      "U",
+      "I",
+      "E",
+      "T",
+      "Y",
+      "Y",
+      "L",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "LIGHT",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "QUIET",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "LAMP",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "GLOW",
+      "row": 4,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "WARM",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "SOFT",
+      "row": 5,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "HOME",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "BOOK",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "REST",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "MUG",
+      "row": 1,
+      "col": 7,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 1232
+}

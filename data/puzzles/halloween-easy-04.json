@@ -1,0 +1,208 @@
+{
+  "id": "halloween-easy-04",
+  "slug": "halloween-easy-04",
+  "themeId": "halloween",
+  "title": "Halloween: Leaf Pile",
+  "primaryKeyword": "halloween word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BAG",
+    "DUSK",
+    "GATE",
+    "GLOW",
+    "HOME",
+    "LEAF",
+    "PATH",
+    "PILE",
+    "RAKE",
+    "WARM"
+  ],
+  "grid": [
+    [
+      "Z",
+      "Q",
+      "Q",
+      "Y",
+      "S",
+      "T",
+      "Z",
+      "R",
+      "W",
+      "Z"
+    ],
+    [
+      "T",
+      "D",
+      "P",
+      "R",
+      "T",
+      "U",
+      "G",
+      "H",
+      "R",
+      "P"
+    ],
+    [
+      "W",
+      "G",
+      "A",
+      "T",
+      "E",
+      "B",
+      "A",
+      "O",
+      "A",
+      "J"
+    ],
+    [
+      "A",
+      "X",
+      "H",
+      "G",
+      "S",
+      "A",
+      "T",
+      "M",
+      "K",
+      "D"
+    ],
+    [
+      "R",
+      "N",
+      "Y",
+      "L",
+      "U",
+      "G",
+      "C",
+      "E",
+      "E",
+      "Q"
+    ],
+    [
+      "M",
+      "D",
+      "H",
+      "O",
+      "L",
+      "R",
+      "S",
+      "Q",
+      "P",
+      "Y"
+    ],
+    [
+      "X",
+      "U",
+      "P",
+      "W",
+      "R",
+      "Q",
+      "L",
+      "I",
+      "A",
+      "S"
+    ],
+    [
+      "T",
+      "S",
+      "X",
+      "X",
+      "L",
+      "E",
+      "A",
+      "F",
+      "T",
+      "C"
+    ],
+    [
+      "M",
+      "K",
+      "P",
+      "I",
+      "L",
+      "E",
+      "B",
+      "O",
+      "H",
+      "J"
+    ],
+    [
+      "P",
+      "E",
+      "I",
+      "H",
+      "J",
+      "Q",
+      "O",
+      "O",
+      "D",
+      "Y"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "LEAF",
+      "row": 7,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "PILE",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "RAKE",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "PATH",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "GATE",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "GLOW",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "WARM",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "DUSK",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "HOME",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "BAG",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 1061
+}

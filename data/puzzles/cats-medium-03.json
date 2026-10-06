@@ -1,0 +1,284 @@
+{
+  "id": "cats-medium-03",
+  "slug": "cats-medium-03",
+  "themeId": "cats",
+  "title": "Cats: Midnight Patrol",
+  "primaryKeyword": "cats word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BOX",
+    "CHASE",
+    "CLAW",
+    "CREEP",
+    "FEATHER",
+    "LASER",
+    "LEAP",
+    "PATROL",
+    "POST",
+    "POUNCE",
+    "SCRATCH",
+    "SHADOW",
+    "TREE",
+    "TUNNEL"
+  ],
+  "grid": [
+    [
+      "C",
+      "V",
+      "L",
+      "A",
+      "S",
+      "E",
+      "R",
+      "A",
+      "P",
+      "S",
+      "K",
+      "W"
+    ],
+    [
+      "R",
+      "S",
+      "E",
+      "C",
+      "O",
+      "P",
+      "O",
+      "U",
+      "N",
+      "C",
+      "E",
+      "W"
+    ],
+    [
+      "E",
+      "P",
+      "C",
+      "K",
+      "B",
+      "D",
+      "T",
+      "U",
+      "N",
+      "N",
+      "E",
+      "L"
+    ],
+    [
+      "E",
+      "O",
+      "P",
+      "R",
+      "O",
+      "S",
+      "D",
+      "V",
+      "R",
+      "S",
+      "X",
+      "I"
+    ],
+    [
+      "P",
+      "L",
+      "A",
+      "Z",
+      "A",
+      "T",
+      "J",
+      "E",
+      "Q",
+      "O",
+      "X",
+      "O"
+    ],
+    [
+      "U",
+      "X",
+      "T",
+      "P",
+      "E",
+      "T",
+      "H",
+      "T",
+      "T",
+      "O",
+      "Q",
+      "U"
+    ],
+    [
+      "T",
+      "D",
+      "R",
+      "Y",
+      "O",
+      "T",
+      "C",
+      "S",
+      "B",
+      "W",
+      "V",
+      "F"
+    ],
+    [
+      "R",
+      "K",
+      "O",
+      "Q",
+      "A",
+      "D",
+      "O",
+      "H",
+      "O",
+      "Z",
+      "T",
+      "X"
+    ],
+    [
+      "N",
+      "M",
+      "L",
+      "E",
+      "V",
+      "P",
+      "W",
+      "D",
+      "M",
+      "W",
+      "R",
+      "M"
+    ],
+    [
+      "H",
+      "C",
+      "F",
+      "J",
+      "A",
+      "K",
+      "A",
+      "C",
+      "A",
+      "A",
+      "E",
+      "I"
+    ],
+    [
+      "M",
+      "N",
+      "S",
+      "E",
+      "L",
+      "H",
+      "A",
+      "L",
+      "V",
+      "T",
+      "E",
+      "F"
+    ],
+    [
+      "R",
+      "Z",
+      "L",
+      "Y",
+      "S",
+      "U",
+      "C",
+      "H",
+      "A",
+      "S",
+      "E",
+      "U"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SCRATCH",
+      "row": 1,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "FEATHER",
+      "row": 9,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "PATROL",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "SHADOW",
+      "row": 11,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "POUNCE",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "TUNNEL",
+      "row": 2,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "CREEP",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "LASER",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CHASE",
+      "row": 11,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "LEAP",
+      "row": 11,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "CLAW",
+      "row": 11,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "POST",
+      "row": 8,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "TREE",
+      "row": 7,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "BOX",
+      "row": 6,
+      "col": 8,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2722
+}

@@ -1,0 +1,208 @@
+{
+  "id": "woodworking-easy-01",
+  "slug": "woodworking-easy-01",
+  "themeId": "woodworking",
+  "title": "Woodworking: Bench Start",
+  "primaryKeyword": "woodworking word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CUT",
+    "EDGE",
+    "END",
+    "FACE",
+    "NAIL",
+    "OAK",
+    "PINE",
+    "SAW",
+    "SHOP",
+    "WOOD"
+  ],
+  "grid": [
+    [
+      "G",
+      "S",
+      "F",
+      "D",
+      "U",
+      "C",
+      "U",
+      "T",
+      "W",
+      "M"
+    ],
+    [
+      "E",
+      "D",
+      "G",
+      "E",
+      "Z",
+      "Y",
+      "J",
+      "D",
+      "W",
+      "R"
+    ],
+    [
+      "Q",
+      "O",
+      "E",
+      "Z",
+      "C",
+      "L",
+      "Y",
+      "M",
+      "Z",
+      "C"
+    ],
+    [
+      "P",
+      "A",
+      "F",
+      "H",
+      "P",
+      "M",
+      "Z",
+      "T",
+      "W",
+      "P"
+    ],
+    [
+      "I",
+      "D",
+      "S",
+      "F",
+      "S",
+      "A",
+      "W",
+      "W",
+      "Z",
+      "W"
+    ],
+    [
+      "N",
+      "M",
+      "H",
+      "E",
+      "G",
+      "N",
+      "A",
+      "I",
+      "L",
+      "O"
+    ],
+    [
+      "E",
+      "K",
+      "O",
+      "O",
+      "F",
+      "A",
+      "C",
+      "E",
+      "D",
+      "O"
+    ],
+    [
+      "M",
+      "P",
+      "P",
+      "A",
+      "Q",
+      "E",
+      "N",
+      "D",
+      "A",
+      "D"
+    ],
+    [
+      "U",
+      "A",
+      "Y",
+      "K",
+      "L",
+      "Y",
+      "R",
+      "Y",
+      "G",
+      "O"
+    ],
+    [
+      "F",
+      "M",
+      "Z",
+      "V",
+      "F",
+      "J",
+      "Z",
+      "C",
+      "L",
+      "S"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "WOOD",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "PINE",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "EDGE",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "FACE",
+      "row": 6,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "NAIL",
+      "row": 5,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SHOP",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "OAK",
+      "row": 6,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "SAW",
+      "row": 4,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CUT",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "END",
+      "row": 7,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8911
+}

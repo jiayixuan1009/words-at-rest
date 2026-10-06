@@ -1,0 +1,284 @@
+{
+  "id": "cycling-medium-03",
+  "slug": "cycling-medium-03",
+  "themeId": "cycling",
+  "title": "Cycling: Hill Climb",
+  "primaryKeyword": "cycling word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BRAKE",
+    "CADENCE",
+    "CASSETTE",
+    "CHAIN",
+    "CLIMB",
+    "DESCENT",
+    "DRAFT",
+    "GEARING",
+    "HANDLE",
+    "PATCH",
+    "PELOTON",
+    "SADDLE",
+    "SPROCKET",
+    "TUBE"
+  ],
+  "grid": [
+    [
+      "M",
+      "B",
+      "R",
+      "A",
+      "K",
+      "E",
+      "S",
+      "A",
+      "D",
+      "D",
+      "L",
+      "E"
+    ],
+    [
+      "L",
+      "P",
+      "A",
+      "T",
+      "C",
+      "H",
+      "K",
+      "Q",
+      "I",
+      "P",
+      "U",
+      "I"
+    ],
+    [
+      "T",
+      "S",
+      "T",
+      "G",
+      "D",
+      "C",
+      "A",
+      "D",
+      "E",
+      "N",
+      "C",
+      "E"
+    ],
+    [
+      "U",
+      "P",
+      "E",
+      "L",
+      "O",
+      "T",
+      "O",
+      "N",
+      "Z",
+      "D",
+      "H",
+      "R"
+    ],
+    [
+      "B",
+      "U",
+      "G",
+      "E",
+      "A",
+      "R",
+      "I",
+      "N",
+      "G",
+      "E",
+      "L",
+      "U"
+    ],
+    [
+      "E",
+      "E",
+      "O",
+      "S",
+      "X",
+      "D",
+      "A",
+      "I",
+      "Q",
+      "S",
+      "E",
+      "C"
+    ],
+    [
+      "Q",
+      "Q",
+      "D",
+      "R",
+      "A",
+      "F",
+      "T",
+      "W",
+      "Z",
+      "C",
+      "H",
+      "H"
+    ],
+    [
+      "H",
+      "N",
+      "Q",
+      "S",
+      "P",
+      "R",
+      "O",
+      "C",
+      "K",
+      "E",
+      "T",
+      "A"
+    ],
+    [
+      "C",
+      "A",
+      "S",
+      "S",
+      "E",
+      "T",
+      "T",
+      "E",
+      "S",
+      "N",
+      "D",
+      "I"
+    ],
+    [
+      "Q",
+      "D",
+      "M",
+      "B",
+      "Q",
+      "H",
+      "W",
+      "D",
+      "E",
+      "T",
+      "S",
+      "N"
+    ],
+    [
+      "L",
+      "H",
+      "A",
+      "N",
+      "D",
+      "L",
+      "E",
+      "A",
+      "B",
+      "Q",
+      "C",
+      "L"
+    ],
+    [
+      "K",
+      "K",
+      "C",
+      "N",
+      "C",
+      "L",
+      "I",
+      "M",
+      "B",
+      "I",
+      "I",
+      "P"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SPROCKET",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "CASSETTE",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "DESCENT",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "GEARING",
+      "row": 4,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CADENCE",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "PELOTON",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SADDLE",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "HANDLE",
+      "row": 10,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CLIMB",
+      "row": 11,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "DRAFT",
+      "row": 6,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BRAKE",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CHAIN",
+      "row": 5,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "PATCH",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TUBE",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 4112
+}

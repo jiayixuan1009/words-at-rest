@@ -1,0 +1,173 @@
+{
+  "id": "music-large-02",
+  "slug": "music-large-02",
+  "themeId": "music",
+  "title": "Large Print Music: Soft Tune",
+  "primaryKeyword": "large print music word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BASS",
+    "DRUM",
+    "FLUTE",
+    "HARP",
+    "REST",
+    "SOFT",
+    "SONG",
+    "TUNE"
+  ],
+  "grid": [
+    [
+      "L",
+      "D",
+      "R",
+      "U",
+      "M",
+      "Z",
+      "F",
+      "O",
+      "J"
+    ],
+    [
+      "G",
+      "B",
+      "A",
+      "S",
+      "S",
+      "U",
+      "J",
+      "J",
+      "I"
+    ],
+    [
+      "S",
+      "O",
+      "N",
+      "G",
+      "Y",
+      "S",
+      "O",
+      "F",
+      "T"
+    ],
+    [
+      "D",
+      "K",
+      "H",
+      "A",
+      "R",
+      "P",
+      "L",
+      "J",
+      "V"
+    ],
+    [
+      "Y",
+      "X",
+      "J",
+      "O",
+      "V",
+      "G",
+      "R",
+      "Y",
+      "B"
+    ],
+    [
+      "F",
+      "L",
+      "U",
+      "T",
+      "E",
+      "X",
+      "E",
+      "E",
+      "I"
+    ],
+    [
+      "D",
+      "R",
+      "X",
+      "K",
+      "B",
+      "B",
+      "S",
+      "Z",
+      "Z"
+    ],
+    [
+      "W",
+      "J",
+      "J",
+      "Y",
+      "R",
+      "I",
+      "T",
+      "F",
+      "K"
+    ],
+    [
+      "L",
+      "W",
+      "C",
+      "T",
+      "U",
+      "N",
+      "E",
+      "P",
+      "V"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FLUTE",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SONG",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "TUNE",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "HARP",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "DRUM",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BASS",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "REST",
+      "row": 4,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "SOFT",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2624
+}

@@ -1,0 +1,173 @@
+{
+  "id": "large-print-pack-large-13",
+  "slug": "large-print-pack-large-13",
+  "themeId": "large-print-pack",
+  "title": "Large Print Word Search: Meadow Walk",
+  "primaryKeyword": "large print large print word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BIRD",
+    "GRASS",
+    "MEADOW",
+    "PATH",
+    "SKY",
+    "SOFT",
+    "SUN",
+    "WALK"
+  ],
+  "grid": [
+    [
+      "H",
+      "I",
+      "Z",
+      "Z",
+      "Q",
+      "U",
+      "F",
+      "P",
+      "W"
+    ],
+    [
+      "I",
+      "C",
+      "S",
+      "K",
+      "W",
+      "A",
+      "L",
+      "K",
+      "D"
+    ],
+    [
+      "T",
+      "H",
+      "K",
+      "A",
+      "M",
+      "S",
+      "Q",
+      "D",
+      "S"
+    ],
+    [
+      "P",
+      "R",
+      "Y",
+      "B",
+      "V",
+      "T",
+      "W",
+      "G",
+      "T"
+    ],
+    [
+      "J",
+      "B",
+      "I",
+      "R",
+      "D",
+      "W",
+      "N",
+      "R",
+      "F"
+    ],
+    [
+      "M",
+      "E",
+      "A",
+      "D",
+      "O",
+      "W",
+      "B",
+      "A",
+      "A"
+    ],
+    [
+      "S",
+      "F",
+      "P",
+      "E",
+      "U",
+      "O",
+      "B",
+      "S",
+      "V"
+    ],
+    [
+      "U",
+      "B",
+      "N",
+      "S",
+      "O",
+      "F",
+      "T",
+      "S",
+      "U"
+    ],
+    [
+      "N",
+      "P",
+      "A",
+      "T",
+      "H",
+      "L",
+      "O",
+      "J",
+      "X"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "MEADOW",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "GRASS",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "PATH",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BIRD",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SOFT",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "WALK",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SKY",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "SUN",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 3031
+}

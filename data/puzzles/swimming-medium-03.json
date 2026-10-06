@@ -1,0 +1,284 @@
+{
+  "id": "swimming-medium-03",
+  "slug": "swimming-medium-03",
+  "themeId": "swimming",
+  "title": "Swimming: Drill Set",
+  "primaryKeyword": "swimming word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BREATH",
+    "DISTANCE",
+    "DRILL",
+    "FINS",
+    "INTERVAL",
+    "KICKBOARD",
+    "PULLBUOY",
+    "PUSH",
+    "RECOVERY",
+    "SNORKEL",
+    "SPRINT",
+    "STROKE",
+    "TIMING",
+    "WALL"
+  ],
+  "grid": [
+    [
+      "K",
+      "T",
+      "I",
+      "M",
+      "I",
+      "N",
+      "G",
+      "A",
+      "F",
+      "L",
+      "H",
+      "E"
+    ],
+    [
+      "U",
+      "I",
+      "R",
+      "S",
+      "R",
+      "I",
+      "L",
+      "O",
+      "A",
+      "S",
+      "C",
+      "K"
+    ],
+    [
+      "H",
+      "P",
+      "C",
+      "N",
+      "P",
+      "L",
+      "K",
+      "V",
+      "U",
+      "N",
+      "K",
+      "J"
+    ],
+    [
+      "S",
+      "U",
+      "H",
+      "K",
+      "I",
+      "O",
+      "R",
+      "P",
+      "A",
+      "E",
+      "B",
+      "C"
+    ],
+    [
+      "T",
+      "L",
+      "S",
+      "R",
+      "B",
+      "E",
+      "X",
+      "T",
+      "D",
+      "B",
+      "R",
+      "U"
+    ],
+    [
+      "R",
+      "L",
+      "D",
+      "G",
+      "T",
+      "O",
+      "S",
+      "S",
+      "S",
+      "F",
+      "E",
+      "S"
+    ],
+    [
+      "O",
+      "B",
+      "B",
+      "N",
+      "G",
+      "I",
+      "A",
+      "N",
+      "X",
+      "P",
+      "A",
+      "P"
+    ],
+    [
+      "K",
+      "U",
+      "I",
+      "J",
+      "D",
+      "W",
+      "I",
+      "R",
+      "V",
+      "Q",
+      "T",
+      "R"
+    ],
+    [
+      "E",
+      "O",
+      "T",
+      "U",
+      "V",
+      "F",
+      "A",
+      "U",
+      "D",
+      "N",
+      "H",
+      "I"
+    ],
+    [
+      "X",
+      "Y",
+      "N",
+      "X",
+      "L",
+      "Z",
+      "O",
+      "L",
+      "I",
+      "E",
+      "G",
+      "N"
+    ],
+    [
+      "N",
+      "S",
+      "N",
+      "O",
+      "R",
+      "K",
+      "E",
+      "L",
+      "L",
+      "H",
+      "T",
+      "T"
+    ],
+    [
+      "O",
+      "K",
+      "R",
+      "E",
+      "C",
+      "O",
+      "V",
+      "E",
+      "R",
+      "Y",
+      "R",
+      "B"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "KICKBOARD",
+      "row": 0,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "PULLBUOY",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "INTERVAL",
+      "row": 7,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "RECOVERY",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "DISTANCE",
+      "row": 7,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "SNORKEL",
+      "row": 10,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SPRINT",
+      "row": 5,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "STROKE",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BREATH",
+      "row": 3,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "TIMING",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "DRILL",
+      "row": 5,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "FINS",
+      "row": 8,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "WALL",
+      "row": 7,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "PUSH",
+      "row": 3,
+      "col": 7,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 4212
+}

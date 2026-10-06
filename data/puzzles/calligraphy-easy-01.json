@@ -1,0 +1,208 @@
+{
+  "id": "calligraphy-easy-01",
+  "slug": "calligraphy-easy-01",
+  "themeId": "calligraphy",
+  "title": "Calligraphy: Nib Practice",
+  "primaryKeyword": "calligraphy word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "DESK",
+    "DIP",
+    "FORM",
+    "HAND",
+    "INK",
+    "LAMP",
+    "LINE",
+    "NIB",
+    "PAGE",
+    "PEN"
+  ],
+  "grid": [
+    [
+      "Q",
+      "M",
+      "B",
+      "T",
+      "Z",
+      "T",
+      "X",
+      "U",
+      "J",
+      "Z"
+    ],
+    [
+      "H",
+      "N",
+      "O",
+      "M",
+      "S",
+      "H",
+      "H",
+      "N",
+      "A",
+      "Q"
+    ],
+    [
+      "L",
+      "D",
+      "E",
+      "S",
+      "K",
+      "A",
+      "Q",
+      "I",
+      "V",
+      "F"
+    ],
+    [
+      "A",
+      "Z",
+      "Z",
+      "J",
+      "J",
+      "N",
+      "N",
+      "B",
+      "K",
+      "L"
+    ],
+    [
+      "M",
+      "M",
+      "E",
+      "V",
+      "M",
+      "D",
+      "D",
+      "J",
+      "G",
+      "I"
+    ],
+    [
+      "P",
+      "A",
+      "O",
+      "G",
+      "L",
+      "N",
+      "K",
+      "P",
+      "L",
+      "N"
+    ],
+    [
+      "D",
+      "H",
+      "I",
+      "N",
+      "K",
+      "Y",
+      "U",
+      "A",
+      "F",
+      "E"
+    ],
+    [
+      "P",
+      "E",
+      "N",
+      "D",
+      "I",
+      "P",
+      "W",
+      "G",
+      "O",
+      "U"
+    ],
+    [
+      "W",
+      "C",
+      "I",
+      "X",
+      "E",
+      "P",
+      "X",
+      "E",
+      "R",
+      "E"
+    ],
+    [
+      "O",
+      "K",
+      "L",
+      "H",
+      "Y",
+      "T",
+      "I",
+      "E",
+      "M",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PAGE",
+      "row": 5,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "LINE",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "HAND",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "FORM",
+      "row": 6,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "DESK",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "LAMP",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "PEN",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "NIB",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "INK",
+      "row": 6,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "DIP",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8921
+}

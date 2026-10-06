@@ -1,0 +1,208 @@
+{
+  "id": "cycling-easy-03",
+  "slug": "cycling-easy-03",
+  "themeId": "cycling",
+  "title": "Cycling: Quiet Path",
+  "primaryKeyword": "cycling word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BELL",
+    "LANE",
+    "LIGHT",
+    "LOCK",
+    "PACE",
+    "PARK",
+    "PATH",
+    "RIDE",
+    "SUN",
+    "WIND"
+  ],
+  "grid": [
+    [
+      "N",
+      "I",
+      "S",
+      "W",
+      "I",
+      "N",
+      "D",
+      "U",
+      "K",
+      "T"
+    ],
+    [
+      "L",
+      "N",
+      "U",
+      "L",
+      "L",
+      "H",
+      "P",
+      "A",
+      "T",
+      "H"
+    ],
+    [
+      "T",
+      "X",
+      "N",
+      "O",
+      "K",
+      "T",
+      "B",
+      "X",
+      "L",
+      "R"
+    ],
+    [
+      "E",
+      "C",
+      "D",
+      "C",
+      "B",
+      "E",
+      "L",
+      "L",
+      "A",
+      "N"
+    ],
+    [
+      "Y",
+      "Q",
+      "M",
+      "K",
+      "H",
+      "V",
+      "A",
+      "P",
+      "S",
+      "S"
+    ],
+    [
+      "V",
+      "M",
+      "L",
+      "Z",
+      "K",
+      "T",
+      "W",
+      "A",
+      "C",
+      "P"
+    ],
+    [
+      "R",
+      "X",
+      "A",
+      "P",
+      "A",
+      "C",
+      "E",
+      "R",
+      "Z",
+      "R"
+    ],
+    [
+      "N",
+      "K",
+      "N",
+      "I",
+      "S",
+      "C",
+      "Y",
+      "K",
+      "X",
+      "I"
+    ],
+    [
+      "I",
+      "Y",
+      "E",
+      "E",
+      "V",
+      "J",
+      "U",
+      "C",
+      "H",
+      "D"
+    ],
+    [
+      "S",
+      "C",
+      "L",
+      "I",
+      "G",
+      "H",
+      "T",
+      "C",
+      "T",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "LIGHT",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PATH",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "LANE",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "RIDE",
+      "row": 6,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "BELL",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "LOCK",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "PARK",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "WIND",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "PACE",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SUN",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 4111
+}

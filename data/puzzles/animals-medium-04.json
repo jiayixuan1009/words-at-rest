@@ -1,0 +1,284 @@
+{
+  "id": "animals-medium-04",
+  "slug": "animals-medium-04",
+  "themeId": "animals",
+  "title": "Animals: River Bank",
+  "primaryKeyword": "animals word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BANK",
+    "CURRENT",
+    "DAMSEL",
+    "DRAGONFLY",
+    "FROG",
+    "HERON",
+    "KINGFISHER",
+    "MINNOW",
+    "MOSS",
+    "OTTER",
+    "REED",
+    "RIPPLE",
+    "STONE",
+    "WILLOW"
+  ],
+  "grid": [
+    [
+      "R",
+      "S",
+      "M",
+      "M",
+      "I",
+      "N",
+      "N",
+      "O",
+      "W",
+      "D",
+      "X",
+      "O"
+    ],
+    [
+      "B",
+      "Y",
+      "X",
+      "B",
+      "Z",
+      "O",
+      "T",
+      "T",
+      "E",
+      "R",
+      "Z",
+      "D"
+    ],
+    [
+      "D",
+      "R",
+      "E",
+      "E",
+      "D",
+      "J",
+      "R",
+      "I",
+      "P",
+      "P",
+      "L",
+      "E"
+    ],
+    [
+      "R",
+      "R",
+      "K",
+      "I",
+      "N",
+      "G",
+      "F",
+      "I",
+      "S",
+      "H",
+      "E",
+      "R"
+    ],
+    [
+      "X",
+      "B",
+      "A",
+      "V",
+      "X",
+      "Q",
+      "D",
+      "K",
+      "C",
+      "K",
+      "C",
+      "K"
+    ],
+    [
+      "V",
+      "W",
+      "A",
+      "G",
+      "R",
+      "Z",
+      "P",
+      "F",
+      "P",
+      "F",
+      "U",
+      "P"
+    ],
+    [
+      "P",
+      "S",
+      "I",
+      "N",
+      "O",
+      "D",
+      "F",
+      "R",
+      "O",
+      "G",
+      "R",
+      "Z"
+    ],
+    [
+      "I",
+      "T",
+      "W",
+      "L",
+      "K",
+      "N",
+      "A",
+      "G",
+      "J",
+      "I",
+      "R",
+      "J"
+    ],
+    [
+      "W",
+      "O",
+      "M",
+      "G",
+      "L",
+      "Z",
+      "F",
+      "M",
+      "L",
+      "P",
+      "E",
+      "K"
+    ],
+    [
+      "O",
+      "N",
+      "O",
+      "T",
+      "F",
+      "O",
+      "B",
+      "L",
+      "S",
+      "D",
+      "N",
+      "Q"
+    ],
+    [
+      "P",
+      "E",
+      "S",
+      "L",
+      "U",
+      "S",
+      "W",
+      "N",
+      "Y",
+      "E",
+      "T",
+      "O"
+    ],
+    [
+      "V",
+      "P",
+      "S",
+      "I",
+      "M",
+      "H",
+      "E",
+      "R",
+      "O",
+      "N",
+      "L",
+      "L"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "KINGFISHER",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "DRAGONFLY",
+      "row": 2,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "CURRENT",
+      "row": 4,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "MINNOW",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "RIPPLE",
+      "row": 2,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "WILLOW",
+      "row": 5,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "DAMSEL",
+      "row": 6,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "OTTER",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "HERON",
+      "row": 11,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "STONE",
+      "row": 6,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "REED",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BANK",
+      "row": 4,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "MOSS",
+      "row": 8,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "FROG",
+      "row": 6,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2032
+}

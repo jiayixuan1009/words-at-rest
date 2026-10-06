@@ -1,0 +1,208 @@
+{
+  "id": "space-easy-03",
+  "slug": "space-easy-03",
+  "themeId": "space",
+  "title": "Space: Quiet Module",
+  "primaryKeyword": "space word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "AIR",
+    "CALM",
+    "CREW",
+    "DOCK",
+    "HATCH",
+    "LOCK",
+    "MODULE",
+    "PORT",
+    "STAR",
+    "VIEW"
+  ],
+  "grid": [
+    [
+      "H",
+      "Z",
+      "T",
+      "W",
+      "J",
+      "N",
+      "U",
+      "W",
+      "S",
+      "Z"
+    ],
+    [
+      "A",
+      "M",
+      "G",
+      "R",
+      "Y",
+      "P",
+      "O",
+      "R",
+      "T",
+      "H"
+    ],
+    [
+      "T",
+      "O",
+      "W",
+      "S",
+      "Y",
+      "D",
+      "T",
+      "M",
+      "D",
+      "V"
+    ],
+    [
+      "C",
+      "D",
+      "F",
+      "T",
+      "N",
+      "A",
+      "I",
+      "R",
+      "O",
+      "R"
+    ],
+    [
+      "H",
+      "U",
+      "D",
+      "A",
+      "V",
+      "A",
+      "K",
+      "C",
+      "C",
+      "Z"
+    ],
+    [
+      "V",
+      "L",
+      "S",
+      "R",
+      "A",
+      "L",
+      "O",
+      "C",
+      "K",
+      "R"
+    ],
+    [
+      "T",
+      "E",
+      "R",
+      "H",
+      "V",
+      "I",
+      "E",
+      "W",
+      "J",
+      "Z"
+    ],
+    [
+      "I",
+      "C",
+      "R",
+      "E",
+      "W",
+      "I",
+      "V",
+      "E",
+      "U",
+      "A"
+    ],
+    [
+      "R",
+      "W",
+      "Y",
+      "V",
+      "C",
+      "A",
+      "L",
+      "M",
+      "K",
+      "F"
+    ],
+    [
+      "S",
+      "H",
+      "K",
+      "V",
+      "S",
+      "U",
+      "B",
+      "S",
+      "H",
+      "U"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "MODULE",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "HATCH",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "DOCK",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "CREW",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "LOCK",
+      "row": 5,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "PORT",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "VIEW",
+      "row": 6,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "STAR",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "CALM",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "AIR",
+      "row": 3,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2121
+}

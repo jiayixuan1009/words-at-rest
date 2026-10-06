@@ -1,0 +1,208 @@
+{
+  "id": "knitting-easy-03",
+  "slug": "knitting-easy-03",
+  "themeId": "knitting",
+  "title": "Knitting: Soft Skein",
+  "primaryKeyword": "knitting word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BIND",
+    "CAST",
+    "NEEDLE",
+    "ROW",
+    "SKEIN",
+    "SOFT",
+    "STITCH",
+    "WARM",
+    "WOOL",
+    "YARN"
+  ],
+  "grid": [
+    [
+      "Y",
+      "H",
+      "C",
+      "A",
+      "S",
+      "T",
+      "U",
+      "D",
+      "G",
+      "C"
+    ],
+    [
+      "A",
+      "I",
+      "S",
+      "J",
+      "V",
+      "M",
+      "T",
+      "S",
+      "L",
+      "S"
+    ],
+    [
+      "R",
+      "A",
+      "K",
+      "B",
+      "V",
+      "Z",
+      "C",
+      "O",
+      "T",
+      "W"
+    ],
+    [
+      "N",
+      "G",
+      "E",
+      "I",
+      "F",
+      "R",
+      "M",
+      "F",
+      "C",
+      "O"
+    ],
+    [
+      "E",
+      "Y",
+      "I",
+      "N",
+      "N",
+      "O",
+      "F",
+      "T",
+      "F",
+      "O"
+    ],
+    [
+      "P",
+      "W",
+      "N",
+      "D",
+      "V",
+      "G",
+      "K",
+      "B",
+      "K",
+      "L"
+    ],
+    [
+      "C",
+      "A",
+      "U",
+      "V",
+      "C",
+      "B",
+      "Z",
+      "E",
+      "V",
+      "D"
+    ],
+    [
+      "J",
+      "R",
+      "A",
+      "S",
+      "T",
+      "I",
+      "T",
+      "C",
+      "H",
+      "E"
+    ],
+    [
+      "U",
+      "M",
+      "J",
+      "Y",
+      "N",
+      "E",
+      "E",
+      "D",
+      "L",
+      "E"
+    ],
+    [
+      "W",
+      "E",
+      "W",
+      "K",
+      "R",
+      "O",
+      "W",
+      "H",
+      "M",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "NEEDLE",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "STITCH",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SKEIN",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "YARN",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "WOOL",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "CAST",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BIND",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "SOFT",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "WARM",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "ROW",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 3511
+}

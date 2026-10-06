@@ -1,0 +1,284 @@
+{
+  "id": "hiking-medium-03",
+  "slug": "hiking-medium-03",
+  "themeId": "hiking",
+  "title": "Hiking: Forest Grade",
+  "primaryKeyword": "hiking word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BRIDGE",
+    "CONTOUR",
+    "ELEVATION",
+    "FILTER",
+    "FOREST",
+    "GRADE",
+    "LAYER",
+    "LOOKOUT",
+    "MILEAGE",
+    "PACE",
+    "SHELTER",
+    "STREAM",
+    "SWITCHBACK",
+    "VISTA"
+  ],
+  "grid": [
+    [
+      "I",
+      "M",
+      "N",
+      "V",
+      "I",
+      "S",
+      "T",
+      "A",
+      "R",
+      "S",
+      "F",
+      "L"
+    ],
+    [
+      "L",
+      "O",
+      "O",
+      "K",
+      "O",
+      "U",
+      "T",
+      "L",
+      "D",
+      "W",
+      "J",
+      "U"
+    ],
+    [
+      "H",
+      "E",
+      "K",
+      "J",
+      "P",
+      "R",
+      "Z",
+      "A",
+      "T",
+      "I",
+      "P",
+      "C"
+    ],
+    [
+      "Y",
+      "L",
+      "S",
+      "G",
+      "F",
+      "F",
+      "L",
+      "Y",
+      "U",
+      "T",
+      "F",
+      "O"
+    ],
+    [
+      "D",
+      "E",
+      "H",
+      "R",
+      "I",
+      "R",
+      "F",
+      "E",
+      "U",
+      "C",
+      "X",
+      "N"
+    ],
+    [
+      "M",
+      "V",
+      "E",
+      "A",
+      "L",
+      "T",
+      "Q",
+      "R",
+      "M",
+      "H",
+      "F",
+      "T"
+    ],
+    [
+      "I",
+      "A",
+      "L",
+      "D",
+      "T",
+      "B",
+      "K",
+      "L",
+      "B",
+      "B",
+      "O",
+      "O"
+    ],
+    [
+      "L",
+      "T",
+      "T",
+      "E",
+      "E",
+      "Y",
+      "Y",
+      "B",
+      "R",
+      "A",
+      "R",
+      "U"
+    ],
+    [
+      "E",
+      "I",
+      "E",
+      "H",
+      "R",
+      "Z",
+      "O",
+      "T",
+      "I",
+      "C",
+      "E",
+      "R"
+    ],
+    [
+      "A",
+      "O",
+      "R",
+      "R",
+      "W",
+      "D",
+      "E",
+      "Z",
+      "D",
+      "K",
+      "S",
+      "V"
+    ],
+    [
+      "G",
+      "N",
+      "S",
+      "T",
+      "R",
+      "E",
+      "A",
+      "M",
+      "G",
+      "L",
+      "T",
+      "V"
+    ],
+    [
+      "E",
+      "P",
+      "P",
+      "A",
+      "C",
+      "E",
+      "L",
+      "G",
+      "E",
+      "F",
+      "I",
+      "S"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SWITCHBACK",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "ELEVATION",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "CONTOUR",
+      "row": 2,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "SHELTER",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "LOOKOUT",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "MILEAGE",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "FOREST",
+      "row": 5,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "STREAM",
+      "row": 10,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BRIDGE",
+      "row": 6,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "FILTER",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "GRADE",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "VISTA",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "LAYER",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "PACE",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 4012
+}

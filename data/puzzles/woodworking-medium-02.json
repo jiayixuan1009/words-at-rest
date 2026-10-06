@@ -1,0 +1,284 @@
+{
+  "id": "woodworking-medium-02",
+  "slug": "woodworking-medium-02",
+  "themeId": "woodworking",
+  "title": "Woodworking: Shop Project",
+  "primaryKeyword": "woodworking word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BEAM",
+    "BIT",
+    "BLADE",
+    "CRAFT",
+    "DOVETAIL",
+    "KERF",
+    "MARK",
+    "MORTISE",
+    "OIL",
+    "PROJECT",
+    "RASP",
+    "SCREW",
+    "TENON",
+    "WAX"
+  ],
+  "grid": [
+    [
+      "H",
+      "I",
+      "B",
+      "Z",
+      "K",
+      "T",
+      "B",
+      "E",
+      "A",
+      "M",
+      "N",
+      "W"
+    ],
+    [
+      "E",
+      "V",
+      "K",
+      "C",
+      "R",
+      "A",
+      "F",
+      "T",
+      "X",
+      "N",
+      "E",
+      "Z"
+    ],
+    [
+      "A",
+      "O",
+      "O",
+      "K",
+      "E",
+      "R",
+      "F",
+      "E",
+      "E",
+      "R",
+      "C",
+      "I"
+    ],
+    [
+      "B",
+      "M",
+      "O",
+      "R",
+      "T",
+      "I",
+      "S",
+      "E",
+      "C",
+      "N",
+      "S",
+      "R"
+    ],
+    [
+      "D",
+      "I",
+      "E",
+      "T",
+      "W",
+      "B",
+      "F",
+      "S",
+      "Q",
+      "T",
+      "O",
+      "U"
+    ],
+    [
+      "L",
+      "O",
+      "K",
+      "F",
+      "K",
+      "I",
+      "Q",
+      "S",
+      "W",
+      "A",
+      "X",
+      "N"
+    ],
+    [
+      "R",
+      "A",
+      "V",
+      "R",
+      "I",
+      "T",
+      "A",
+      "W",
+      "I",
+      "J",
+      "A",
+      "N"
+    ],
+    [
+      "I",
+      "A",
+      "A",
+      "E",
+      "P",
+      "R",
+      "O",
+      "J",
+      "E",
+      "C",
+      "T",
+      "W"
+    ],
+    [
+      "W",
+      "M",
+      "S",
+      "O",
+      "T",
+      "G",
+      "Z",
+      "D",
+      "U",
+      "Z",
+      "F",
+      "I"
+    ],
+    [
+      "N",
+      "B",
+      "D",
+      "P",
+      "N",
+      "A",
+      "A",
+      "X",
+      "K",
+      "X",
+      "I",
+      "B"
+    ],
+    [
+      "M",
+      "L",
+      "S",
+      "U",
+      "T",
+      "L",
+      "I",
+      "P",
+      "O",
+      "I",
+      "L",
+      "C"
+    ],
+    [
+      "N",
+      "X",
+      "U",
+      "K",
+      "B",
+      "C",
+      "T",
+      "L",
+      "X",
+      "H",
+      "G",
+      "M"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "DOVETAIL",
+      "row": 4,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "MORTISE",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PROJECT",
+      "row": 7,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "TENON",
+      "row": 1,
+      "col": 7,
+      "direction": "SE"
+    },
+    {
+      "word": "BLADE",
+      "row": 11,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "SCREW",
+      "row": 4,
+      "col": 7,
+      "direction": "NE"
+    },
+    {
+      "word": "CRAFT",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BEAM",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "RASP",
+      "row": 6,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "MARK",
+      "row": 8,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "KERF",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BIT",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "OIL",
+      "row": 10,
+      "col": 8,
+      "direction": "E"
+    },
+    {
+      "word": "WAX",
+      "row": 5,
+      "col": 8,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8914
+}

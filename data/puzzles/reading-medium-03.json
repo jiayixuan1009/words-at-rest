@@ -1,0 +1,284 @@
+{
+  "id": "reading-medium-03",
+  "slug": "reading-medium-03",
+  "themeId": "reading",
+  "title": "Reading: Chapter End",
+  "primaryKeyword": "reading word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ANNOTATE",
+    "BOOKMARK",
+    "CHAPTER",
+    "DOGGEREL",
+    "EPILOGUE",
+    "FOOTNOTE",
+    "GLOSSARY",
+    "INDEX",
+    "LIBRARY",
+    "MARGIN",
+    "PARAGRAPH",
+    "PASSAGE",
+    "PREFACE",
+    "SENTENCE"
+  ],
+  "grid": [
+    [
+      "K",
+      "P",
+      "B",
+      "O",
+      "O",
+      "K",
+      "M",
+      "A",
+      "R",
+      "K",
+      "P",
+      "A"
+    ],
+    [
+      "H",
+      "S",
+      "A",
+      "U",
+      "F",
+      "C",
+      "F",
+      "E",
+      "D",
+      "I",
+      "A",
+      "N"
+    ],
+    [
+      "X",
+      "E",
+      "N",
+      "R",
+      "S",
+      "O",
+      "E",
+      "E",
+      "L",
+      "N",
+      "S",
+      "N"
+    ],
+    [
+      "C",
+      "N",
+      "G",
+      "B",
+      "A",
+      "Z",
+      "O",
+      "L",
+      "X",
+      "D",
+      "S",
+      "O"
+    ],
+    [
+      "H",
+      "T",
+      "B",
+      "L",
+      "Z",
+      "G",
+      "E",
+      "T",
+      "E",
+      "E",
+      "A",
+      "T"
+    ],
+    [
+      "A",
+      "E",
+      "U",
+      "P",
+      "O",
+      "R",
+      "R",
+      "U",
+      "N",
+      "X",
+      "G",
+      "A"
+    ],
+    [
+      "P",
+      "N",
+      "P",
+      "R",
+      "E",
+      "S",
+      "G",
+      "A",
+      "K",
+      "O",
+      "E",
+      "T"
+    ],
+    [
+      "T",
+      "C",
+      "L",
+      "G",
+      "M",
+      "O",
+      "S",
+      "E",
+      "P",
+      "H",
+      "T",
+      "E"
+    ],
+    [
+      "E",
+      "E",
+      "G",
+      "V",
+      "L",
+      "D",
+      "B",
+      "A",
+      "Q",
+      "H",
+      "U",
+      "E"
+    ],
+    [
+      "R",
+      "O",
+      "B",
+      "I",
+      "Q",
+      "L",
+      "M",
+      "A",
+      "R",
+      "G",
+      "I",
+      "N"
+    ],
+    [
+      "D",
+      "M",
+      "P",
+      "L",
+      "I",
+      "B",
+      "R",
+      "A",
+      "R",
+      "Y",
+      "D",
+      "V"
+    ],
+    [
+      "G",
+      "E",
+      "M",
+      "O",
+      "B",
+      "P",
+      "R",
+      "E",
+      "F",
+      "A",
+      "C",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PARAGRAPH",
+      "row": 0,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "SENTENCE",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "FOOTNOTE",
+      "row": 1,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "EPILOGUE",
+      "row": 11,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "GLOSSARY",
+      "row": 3,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "BOOKMARK",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "DOGGEREL",
+      "row": 10,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "ANNOTATE",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "CHAPTER",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "PASSAGE",
+      "row": 0,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "PREFACE",
+      "row": 11,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "LIBRARY",
+      "row": 10,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "MARGIN",
+      "row": 9,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "INDEX",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 3612
+}

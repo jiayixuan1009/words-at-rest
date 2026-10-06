@@ -1,0 +1,208 @@
+{
+  "id": "thanksgiving-easy-04",
+  "slug": "thanksgiving-easy-04",
+  "themeId": "thanksgiving",
+  "title": "Thanksgiving: Warm Kitchen",
+  "primaryKeyword": "thanksgiving word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BASTE",
+    "BOWL",
+    "DISH",
+    "HOME",
+    "OVEN",
+    "SHARE",
+    "SPOON",
+    "STEAM",
+    "TRAY",
+    "WARM"
+  ],
+  "grid": [
+    [
+      "X",
+      "T",
+      "S",
+      "P",
+      "T",
+      "R",
+      "A",
+      "Y",
+      "I",
+      "Z"
+    ],
+    [
+      "D",
+      "H",
+      "T",
+      "H",
+      "N",
+      "B",
+      "O",
+      "W",
+      "L",
+      "H"
+    ],
+    [
+      "S",
+      "B",
+      "E",
+      "M",
+      "G",
+      "N",
+      "D",
+      "I",
+      "S",
+      "H"
+    ],
+    [
+      "H",
+      "A",
+      "A",
+      "Y",
+      "S",
+      "O",
+      "S",
+      "Z",
+      "N",
+      "P"
+    ],
+    [
+      "A",
+      "S",
+      "M",
+      "V",
+      "I",
+      "V",
+      "P",
+      "U",
+      "O",
+      "M"
+    ],
+    [
+      "R",
+      "T",
+      "H",
+      "O",
+      "M",
+      "E",
+      "O",
+      "P",
+      "X",
+      "O"
+    ],
+    [
+      "E",
+      "E",
+      "X",
+      "N",
+      "E",
+      "N",
+      "O",
+      "A",
+      "V",
+      "N"
+    ],
+    [
+      "D",
+      "M",
+      "C",
+      "A",
+      "J",
+      "E",
+      "N",
+      "U",
+      "X",
+      "C"
+    ],
+    [
+      "R",
+      "Q",
+      "E",
+      "P",
+      "P",
+      "U",
+      "F",
+      "J",
+      "G",
+      "D"
+    ],
+    [
+      "F",
+      "J",
+      "Y",
+      "H",
+      "R",
+      "W",
+      "A",
+      "R",
+      "M",
+      "Q"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "STEAM",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "BASTE",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SPOON",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "SHARE",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "OVEN",
+      "row": 3,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "WARM",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "TRAY",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "DISH",
+      "row": 2,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "BOWL",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "HOME",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 1145
+}

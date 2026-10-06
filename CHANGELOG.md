@@ -3,11 +3,18 @@
 本文件格式参考 [Keep a Changelog](https://keepachangelog.com/zh-CN/1.1.0/)。日期为 commit 时间（Asia/Shanghai，UTC+8）。  
 项目尚未打版本号，按日期 + commit 记录。完整产品说明见 [`docs/PRODUCT.md`](docs/PRODUCT.md)，后续计划见 [`docs/ROADMAP.md`](docs/ROADMAP.md)。
 
-规模速查（主题 / 谜题）：`95609a5` 3 / 7 → `31aaf1b` 15 / 40 → `c46b10c` / `de568d3` 16 / 46 → Package B **32 / 142** → Wave C **47 / 232** → Wave D **62 / 322** → Wave E **77 / 412** → Wave F **92 / 502** → Wave G **102 / 605** → Wave H **110 / 716**（朝 ~1000）。
+规模速查（主题 / 谜题）：`95609a5` 3 / 7 → `31aaf1b` 15 / 40 → `c46b10c` / `de568d3` 16 / 46 → Package B **32 / 142** → Wave C **47 / 232** → Wave D **62 / 322** → Wave E **77 / 412** → Wave F **92 / 502** → Wave G **102 / 605** → Wave H **110 / 716** → Wave I **116 / 828**（朝 ~1000）。
 
 ---
 
 ## [未发布 Unreleased]
+
+## 2026-10-07 — Wave I（加深季节/爱好 + 新工艺主题，待部署）
+
+### 新增 — Wave I（+6 主题 / +112 谜题）
+- **新主题（各 6）：** pottery、woodworking、calligraphy、libraries、volunteering、gardening-tools。
+- **加深既有 hub（+76）：** travel/music/cats/dogs/space/beach/camping/mountains 各 +4；knitting/reading/painting/sewing/quilting/hiking/cycling/swimming/tools 各 +2；christmas/halloween/animals/garden/ocean/fall/winter/thanksgiving/food/sports/bible 加深；large-print-pack +4。新词表与网格，不覆盖旧题。
+- **规模：** 主题 110→**116**，谜题 716→**828**（朝 ~1000）。
 
 ## 2026-10-07 — Wave H（加深高流量 + 新主题，已部署）
 

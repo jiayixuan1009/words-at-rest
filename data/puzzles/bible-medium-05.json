@@ -1,0 +1,284 @@
+{
+  "id": "bible-medium-05",
+  "slug": "bible-medium-05",
+  "themeId": "bible",
+  "title": "Bible: Olive Grove",
+  "primaryKeyword": "bible word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BREAD",
+    "CUP",
+    "GARDEN",
+    "GROVE",
+    "GUEST",
+    "HOST",
+    "LAMP",
+    "NIGHT",
+    "OIL",
+    "OLIVE",
+    "PEACE",
+    "PRAYER",
+    "TABLE",
+    "WATCH"
+  ],
+  "grid": [
+    [
+      "K",
+      "O",
+      "V",
+      "Y",
+      "D",
+      "Y",
+      "X",
+      "C",
+      "Y",
+      "R",
+      "X",
+      "E"
+    ],
+    [
+      "T",
+      "X",
+      "L",
+      "A",
+      "M",
+      "P",
+      "O",
+      "L",
+      "I",
+      "V",
+      "E",
+      "Z"
+    ],
+    [
+      "J",
+      "C",
+      "N",
+      "Q",
+      "N",
+      "D",
+      "W",
+      "I",
+      "L",
+      "X",
+      "G",
+      "G"
+    ],
+    [
+      "X",
+      "L",
+      "R",
+      "T",
+      "I",
+      "X",
+      "A",
+      "Z",
+      "B",
+      "K",
+      "G",
+      "P"
+    ],
+    [
+      "O",
+      "L",
+      "R",
+      "F",
+      "G",
+      "G",
+      "T",
+      "G",
+      "R",
+      "T",
+      "U",
+      "Y"
+    ],
+    [
+      "H",
+      "P",
+      "W",
+      "U",
+      "H",
+      "U",
+      "C",
+      "A",
+      "E",
+      "C",
+      "E",
+      "J"
+    ],
+    [
+      "P",
+      "R",
+      "R",
+      "L",
+      "T",
+      "E",
+      "H",
+      "R",
+      "A",
+      "L",
+      "H",
+      "S"
+    ],
+    [
+      "G",
+      "E",
+      "T",
+      "A",
+      "L",
+      "S",
+      "B",
+      "D",
+      "D",
+      "H",
+      "G",
+      "S"
+    ],
+    [
+      "J",
+      "R",
+      "A",
+      "A",
+      "Y",
+      "T",
+      "C",
+      "E",
+      "H",
+      "O",
+      "S",
+      "T"
+    ],
+    [
+      "J",
+      "D",
+      "O",
+      "C",
+      "B",
+      "E",
+      "O",
+      "N",
+      "S",
+      "R",
+      "N",
+      "V"
+    ],
+    [
+      "U",
+      "U",
+      "A",
+      "V",
+      "E",
+      "L",
+      "R",
+      "I",
+      "G",
+      "L",
+      "S",
+      "G"
+    ],
+    [
+      "W",
+      "A",
+      "S",
+      "F",
+      "E",
+      "U",
+      "E",
+      "T",
+      "L",
+      "T",
+      "X",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "GARDEN",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "PRAYER",
+      "row": 5,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "OLIVE",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "GROVE",
+      "row": 7,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "WATCH",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "NIGHT",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "BREAD",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "TABLE",
+      "row": 7,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "GUEST",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "PEACE",
+      "row": 6,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "LAMP",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "HOST",
+      "row": 8,
+      "col": 8,
+      "direction": "E"
+    },
+    {
+      "word": "OIL",
+      "row": 9,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "CUP",
+      "row": 5,
+      "col": 9,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 5022
+}

@@ -1,0 +1,173 @@
+{
+  "id": "large-print-pack-large-15",
+  "slug": "large-print-pack-large-15",
+  "themeId": "large-print-pack",
+  "title": "Large Print Word Search: Harbor Bench",
+  "primaryKeyword": "large print large print word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BENCH",
+    "BOAT",
+    "CALM",
+    "GULL",
+    "HARBOR",
+    "VIEW",
+    "WAVE",
+    "WIND"
+  ],
+  "grid": [
+    [
+      "O",
+      "B",
+      "O",
+      "A",
+      "T",
+      "U",
+      "T",
+      "X",
+      "A"
+    ],
+    [
+      "E",
+      "W",
+      "C",
+      "A",
+      "L",
+      "M",
+      "X",
+      "C",
+      "W"
+    ],
+    [
+      "B",
+      "X",
+      "K",
+      "I",
+      "C",
+      "P",
+      "X",
+      "Q",
+      "I"
+    ],
+    [
+      "E",
+      "H",
+      "A",
+      "R",
+      "B",
+      "O",
+      "R",
+      "F",
+      "N"
+    ],
+    [
+      "N",
+      "K",
+      "U",
+      "H",
+      "G",
+      "U",
+      "L",
+      "L",
+      "D"
+    ],
+    [
+      "C",
+      "O",
+      "Z",
+      "U",
+      "P",
+      "K",
+      "G",
+      "M",
+      "D"
+    ],
+    [
+      "H",
+      "S",
+      "K",
+      "Y",
+      "W",
+      "A",
+      "V",
+      "E",
+      "E"
+    ],
+    [
+      "X",
+      "A",
+      "S",
+      "P",
+      "Z",
+      "F",
+      "H",
+      "E",
+      "U"
+    ],
+    [
+      "F",
+      "I",
+      "R",
+      "L",
+      "M",
+      "V",
+      "I",
+      "E",
+      "W"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "HARBOR",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BENCH",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BOAT",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "GULL",
+      "row": 4,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "WAVE",
+      "row": 6,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "WIND",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "CALM",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "VIEW",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 3033
+}

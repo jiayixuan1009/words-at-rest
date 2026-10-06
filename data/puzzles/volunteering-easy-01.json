@@ -1,0 +1,208 @@
+{
+  "id": "volunteering-easy-01",
+  "slug": "volunteering-easy-01",
+  "themeId": "volunteering",
+  "title": "Volunteering: Shift Morning",
+  "primaryKeyword": "volunteering word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CARE",
+    "GIVE",
+    "HELP",
+    "LIST",
+    "ROLE",
+    "SHARE",
+    "SIGN",
+    "TASK",
+    "TEAM",
+    "TIME"
+  ],
+  "grid": [
+    [
+      "X",
+      "S",
+      "H",
+      "A",
+      "R",
+      "E",
+      "T",
+      "L",
+      "U",
+      "N"
+    ],
+    [
+      "S",
+      "V",
+      "B",
+      "I",
+      "C",
+      "G",
+      "I",
+      "W",
+      "T",
+      "R"
+    ],
+    [
+      "O",
+      "B",
+      "E",
+      "I",
+      "A",
+      "G",
+      "M",
+      "B",
+      "P",
+      "V"
+    ],
+    [
+      "T",
+      "A",
+      "S",
+      "K",
+      "R",
+      "T",
+      "E",
+      "A",
+      "M",
+      "E"
+    ],
+    [
+      "A",
+      "N",
+      "H",
+      "R",
+      "E",
+      "E",
+      "O",
+      "A",
+      "S",
+      "L"
+    ],
+    [
+      "T",
+      "L",
+      "M",
+      "O",
+      "R",
+      "N",
+      "N",
+      "V",
+      "I",
+      "J"
+    ],
+    [
+      "P",
+      "W",
+      "N",
+      "L",
+      "A",
+      "E",
+      "H",
+      "E",
+      "L",
+      "P"
+    ],
+    [
+      "G",
+      "C",
+      "R",
+      "E",
+      "J",
+      "L",
+      "I",
+      "S",
+      "T",
+      "W"
+    ],
+    [
+      "S",
+      "X",
+      "N",
+      "H",
+      "N",
+      "X",
+      "U",
+      "W",
+      "H",
+      "K"
+    ],
+    [
+      "G",
+      "I",
+      "V",
+      "E",
+      "A",
+      "O",
+      "S",
+      "I",
+      "G",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SHARE",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "HELP",
+      "row": 6,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "GIVE",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CARE",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "TEAM",
+      "row": 3,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "ROLE",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "TASK",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "LIST",
+      "row": 7,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SIGN",
+      "row": 9,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "TIME",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8941
+}

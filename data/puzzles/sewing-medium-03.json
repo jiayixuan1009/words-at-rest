@@ -1,0 +1,284 @@
+{
+  "id": "sewing-medium-03",
+  "slug": "sewing-medium-03",
+  "themeId": "sewing",
+  "title": "Sewing: Pattern Night",
+  "primaryKeyword": "sewing word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BOBBIN",
+    "FACING",
+    "FOOT",
+    "GRAINLINE",
+    "INTERFACING",
+    "LENGTH",
+    "LINING",
+    "NOTCH",
+    "PATTERN",
+    "PRESSER",
+    "SEAMALLOW",
+    "STITCH",
+    "TENSION",
+    "ZIPPER"
+  ],
+  "grid": [
+    [
+      "R",
+      "N",
+      "B",
+      "V",
+      "T",
+      "E",
+      "N",
+      "S",
+      "I",
+      "O",
+      "N",
+      "K"
+    ],
+    [
+      "I",
+      "N",
+      "X",
+      "O",
+      "O",
+      "U",
+      "H",
+      "Q",
+      "N",
+      "O",
+      "C",
+      "E"
+    ],
+    [
+      "N",
+      "O",
+      "E",
+      "Y",
+      "B",
+      "T",
+      "V",
+      "R",
+      "R",
+      "T",
+      "N",
+      "W"
+    ],
+    [
+      "T",
+      "T",
+      "E",
+      "S",
+      "G",
+      "B",
+      "E",
+      "R",
+      "S",
+      "I",
+      "O",
+      "P"
+    ],
+    [
+      "E",
+      "C",
+      "S",
+      "N",
+      "L",
+      "T",
+      "I",
+      "L",
+      "L",
+      "L",
+      "P",
+      "R"
+    ],
+    [
+      "R",
+      "H",
+      "E",
+      "A",
+      "T",
+      "S",
+      "Y",
+      "N",
+      "L",
+      "Q",
+      "S",
+      "E"
+    ],
+    [
+      "F",
+      "L",
+      "F",
+      "A",
+      "V",
+      "D",
+      "I",
+      "A",
+      "F",
+      "M",
+      "A",
+      "S"
+    ],
+    [
+      "A",
+      "I",
+      "P",
+      "N",
+      "T",
+      "A",
+      "M",
+      "F",
+      "V",
+      "G",
+      "N",
+      "S"
+    ],
+    [
+      "C",
+      "N",
+      "F",
+      "N",
+      "R",
+      "A",
+      "M",
+      "C",
+      "I",
+      "H",
+      "L",
+      "E"
+    ],
+    [
+      "I",
+      "I",
+      "O",
+      "G",
+      "E",
+      "S",
+      "T",
+      "I",
+      "T",
+      "C",
+      "H",
+      "R"
+    ],
+    [
+      "N",
+      "N",
+      "O",
+      "S",
+      "O",
+      "F",
+      "A",
+      "C",
+      "I",
+      "N",
+      "G",
+      "Q"
+    ],
+    [
+      "G",
+      "G",
+      "T",
+      "Q",
+      "Z",
+      "I",
+      "P",
+      "P",
+      "E",
+      "R",
+      "J",
+      "K"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "INTERFACING",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "GRAINLINE",
+      "row": 9,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "SEAMALLOW",
+      "row": 10,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "PATTERN",
+      "row": 7,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "PRESSER",
+      "row": 3,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "TENSION",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "LINING",
+      "row": 6,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "FACING",
+      "row": 10,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "ZIPPER",
+      "row": 11,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BOBBIN",
+      "row": 0,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "STITCH",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "LENGTH",
+      "row": 6,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "NOTCH",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "FOOT",
+      "row": 8,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 3812
+}

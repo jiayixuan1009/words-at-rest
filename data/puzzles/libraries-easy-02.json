@@ -1,0 +1,208 @@
+{
+  "id": "libraries-easy-02",
+  "slug": "libraries-easy-02",
+  "themeId": "libraries",
+  "title": "Libraries: Shelf Browse",
+  "primaryKeyword": "libraries word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "AISLE",
+    "AUTHOR",
+    "CHAIR",
+    "COVER",
+    "HOLD",
+    "NOVEL",
+    "POEM",
+    "SPINE",
+    "STUDY",
+    "TITLE"
+  ],
+  "grid": [
+    [
+      "C",
+      "Q",
+      "S",
+      "L",
+      "T",
+      "V",
+      "N",
+      "G",
+      "L",
+      "T"
+    ],
+    [
+      "Z",
+      "S",
+      "P",
+      "I",
+      "N",
+      "E",
+      "K",
+      "C",
+      "H",
+      "I"
+    ],
+    [
+      "I",
+      "V",
+      "U",
+      "C",
+      "C",
+      "O",
+      "V",
+      "E",
+      "R",
+      "T"
+    ],
+    [
+      "W",
+      "H",
+      "A",
+      "I",
+      "S",
+      "L",
+      "E",
+      "U",
+      "E",
+      "L"
+    ],
+    [
+      "U",
+      "O",
+      "C",
+      "C",
+      "H",
+      "A",
+      "I",
+      "R",
+      "X",
+      "E"
+    ],
+    [
+      "P",
+      "L",
+      "S",
+      "T",
+      "N",
+      "U",
+      "M",
+      "Q",
+      "V",
+      "S"
+    ],
+    [
+      "O",
+      "D",
+      "G",
+      "P",
+      "O",
+      "T",
+      "K",
+      "H",
+      "M",
+      "T"
+    ],
+    [
+      "Z",
+      "M",
+      "T",
+      "O",
+      "V",
+      "H",
+      "G",
+      "H",
+      "U",
+      "U"
+    ],
+    [
+      "C",
+      "Q",
+      "N",
+      "E",
+      "E",
+      "O",
+      "B",
+      "O",
+      "N",
+      "D"
+    ],
+    [
+      "Y",
+      "S",
+      "Q",
+      "M",
+      "L",
+      "R",
+      "Y",
+      "A",
+      "T",
+      "Y"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "AUTHOR",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "AISLE",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CHAIR",
+      "row": 4,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "TITLE",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "NOVEL",
+      "row": 5,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "COVER",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SPINE",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "STUDY",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "POEM",
+      "row": 6,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "HOLD",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8932
+}

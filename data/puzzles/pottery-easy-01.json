@@ -1,0 +1,208 @@
+{
+  "id": "pottery-easy-01",
+  "slug": "pottery-easy-01",
+  "themeId": "pottery",
+  "title": "Pottery: Clay Morning",
+  "primaryKeyword": "pottery word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BOWL",
+    "CLAY",
+    "FOOT",
+    "KILN",
+    "MUG",
+    "POT",
+    "RIM",
+    "SLIP",
+    "VASE",
+    "WHEEL"
+  ],
+  "grid": [
+    [
+      "Z",
+      "E",
+      "L",
+      "H",
+      "F",
+      "O",
+      "O",
+      "T",
+      "M",
+      "M"
+    ],
+    [
+      "C",
+      "N",
+      "B",
+      "M",
+      "K",
+      "I",
+      "L",
+      "N",
+      "B",
+      "U"
+    ],
+    [
+      "S",
+      "I",
+      "Y",
+      "J",
+      "Y",
+      "V",
+      "W",
+      "Y",
+      "I",
+      "L"
+    ],
+    [
+      "H",
+      "U",
+      "S",
+      "J",
+      "S",
+      "A",
+      "R",
+      "F",
+      "H",
+      "S"
+    ],
+    [
+      "C",
+      "L",
+      "A",
+      "Y",
+      "J",
+      "S",
+      "S",
+      "L",
+      "I",
+      "P"
+    ],
+    [
+      "A",
+      "F",
+      "W",
+      "H",
+      "E",
+      "E",
+      "L",
+      "P",
+      "O",
+      "T"
+    ],
+    [
+      "W",
+      "B",
+      "L",
+      "U",
+      "R",
+      "U",
+      "S",
+      "C",
+      "C",
+      "C"
+    ],
+    [
+      "P",
+      "T",
+      "G",
+      "U",
+      "L",
+      "R",
+      "D",
+      "R",
+      "M",
+      "X"
+    ],
+    [
+      "Y",
+      "B",
+      "H",
+      "Y",
+      "S",
+      "M",
+      "U",
+      "G",
+      "M",
+      "C"
+    ],
+    [
+      "L",
+      "G",
+      "B",
+      "O",
+      "W",
+      "L",
+      "U",
+      "R",
+      "I",
+      "M"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "WHEEL",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CLAY",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "KILN",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BOWL",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "VASE",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "FOOT",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SLIP",
+      "row": 4,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "MUG",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "RIM",
+      "row": 9,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "POT",
+      "row": 5,
+      "col": 7,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8901
+}

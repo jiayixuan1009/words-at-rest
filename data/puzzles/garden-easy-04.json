@@ -1,0 +1,208 @@
+{
+  "id": "garden-easy-04",
+  "slug": "garden-easy-04",
+  "themeId": "garden",
+  "title": "Garden: Potting Hour",
+  "primaryKeyword": "garden word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BED",
+    "GROW",
+    "POT",
+    "ROW",
+    "SEED",
+    "SHADE",
+    "SOFT",
+    "SOIL",
+    "SUN",
+    "WATER"
+  ],
+  "grid": [
+    [
+      "R",
+      "I",
+      "S",
+      "O",
+      "F",
+      "T",
+      "X",
+      "G",
+      "V",
+      "I"
+    ],
+    [
+      "J",
+      "O",
+      "E",
+      "H",
+      "I",
+      "X",
+      "F",
+      "S",
+      "S",
+      "U"
+    ],
+    [
+      "G",
+      "R",
+      "O",
+      "W",
+      "P",
+      "F",
+      "U",
+      "E",
+      "B",
+      "S"
+    ],
+    [
+      "A",
+      "N",
+      "D",
+      "G",
+      "P",
+      "Z",
+      "V",
+      "E",
+      "S",
+      "Q"
+    ],
+    [
+      "J",
+      "A",
+      "Q",
+      "M",
+      "B",
+      "E",
+      "D",
+      "D",
+      "U",
+      "C"
+    ],
+    [
+      "R",
+      "S",
+      "S",
+      "H",
+      "A",
+      "D",
+      "E",
+      "W",
+      "N",
+      "P"
+    ],
+    [
+      "O",
+      "D",
+      "O",
+      "D",
+      "K",
+      "N",
+      "O",
+      "V",
+      "B",
+      "W"
+    ],
+    [
+      "W",
+      "P",
+      "I",
+      "A",
+      "Z",
+      "X",
+      "D",
+      "K",
+      "H",
+      "V"
+    ],
+    [
+      "N",
+      "O",
+      "L",
+      "A",
+      "E",
+      "R",
+      "T",
+      "P",
+      "Z",
+      "O"
+    ],
+    [
+      "H",
+      "T",
+      "W",
+      "A",
+      "T",
+      "E",
+      "R",
+      "P",
+      "B",
+      "I"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "WATER",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SHADE",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SOIL",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "SEED",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SOFT",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "GROW",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "POT",
+      "row": 7,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SUN",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "ROW",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BED",
+      "row": 4,
+      "col": 4,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2931
+}

@@ -1,0 +1,173 @@
+{
+  "id": "calligraphy-large-01",
+  "slug": "calligraphy-large-01",
+  "themeId": "calligraphy",
+  "title": "Large Print Calligraphy: Soft Nib",
+  "primaryKeyword": "large print calligraphy word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "DESK",
+    "DIP",
+    "HAND",
+    "INK",
+    "LINE",
+    "NIB",
+    "PAGE",
+    "PEN"
+  ],
+  "grid": [
+    [
+      "F",
+      "P",
+      "A",
+      "G",
+      "E",
+      "S",
+      "I",
+      "A",
+      "F"
+    ],
+    [
+      "K",
+      "N",
+      "I",
+      "U",
+      "P",
+      "Y",
+      "N",
+      "D",
+      "H"
+    ],
+    [
+      "L",
+      "I",
+      "F",
+      "Z",
+      "E",
+      "O",
+      "K",
+      "Q",
+      "J"
+    ],
+    [
+      "F",
+      "B",
+      "H",
+      "E",
+      "T",
+      "O",
+      "I",
+      "K",
+      "Q"
+    ],
+    [
+      "Q",
+      "F",
+      "A",
+      "R",
+      "D",
+      "X",
+      "F",
+      "N",
+      "P"
+    ],
+    [
+      "Q",
+      "U",
+      "N",
+      "A",
+      "E",
+      "P",
+      "E",
+      "N",
+      "V"
+    ],
+    [
+      "S",
+      "D",
+      "D",
+      "F",
+      "S",
+      "D",
+      "I",
+      "P",
+      "I"
+    ],
+    [
+      "N",
+      "H",
+      "T",
+      "T",
+      "K",
+      "E",
+      "C",
+      "L",
+      "S"
+    ],
+    [
+      "V",
+      "N",
+      "O",
+      "F",
+      "C",
+      "L",
+      "I",
+      "N",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PAGE",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "LINE",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "DESK",
+      "row": 4,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "HAND",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "PEN",
+      "row": 5,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "NIB",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "INK",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "DIP",
+      "row": 6,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8926
+}

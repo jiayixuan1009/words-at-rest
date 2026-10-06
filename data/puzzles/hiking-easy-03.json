@@ -1,0 +1,208 @@
+{
+  "id": "hiking-easy-03",
+  "slug": "hiking-easy-03",
+  "themeId": "hiking",
+  "title": "Hiking: Creek Cross",
+  "primaryKeyword": "hiking word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BOOT",
+    "CREEK",
+    "CROSS",
+    "MAP",
+    "PACK",
+    "POLE",
+    "REST",
+    "ROCK",
+    "STEP",
+    "VIEW"
+  ],
+  "grid": [
+    [
+      "O",
+      "T",
+      "W",
+      "J",
+      "N",
+      "R",
+      "A",
+      "A",
+      "I",
+      "N"
+    ],
+    [
+      "B",
+      "L",
+      "X",
+      "N",
+      "F",
+      "O",
+      "X",
+      "Y",
+      "T",
+      "V"
+    ],
+    [
+      "P",
+      "O",
+      "L",
+      "E",
+      "S",
+      "C",
+      "V",
+      "J",
+      "A",
+      "I"
+    ],
+    [
+      "C",
+      "C",
+      "I",
+      "G",
+      "H",
+      "K",
+      "S",
+      "Y",
+      "A",
+      "E"
+    ],
+    [
+      "J",
+      "H",
+      "P",
+      "A",
+      "C",
+      "K",
+      "X",
+      "K",
+      "Y",
+      "W"
+    ],
+    [
+      "C",
+      "R",
+      "O",
+      "S",
+      "S",
+      "B",
+      "O",
+      "O",
+      "T",
+      "Y"
+    ],
+    [
+      "A",
+      "S",
+      "J",
+      "X",
+      "U",
+      "P",
+      "S",
+      "L",
+      "P",
+      "M"
+    ],
+    [
+      "C",
+      "R",
+      "E",
+      "E",
+      "K",
+      "W",
+      "T",
+      "B",
+      "B",
+      "A"
+    ],
+    [
+      "O",
+      "Q",
+      "D",
+      "C",
+      "B",
+      "G",
+      "E",
+      "B",
+      "D",
+      "P"
+    ],
+    [
+      "D",
+      "R",
+      "E",
+      "S",
+      "T",
+      "N",
+      "P",
+      "N",
+      "A",
+      "L"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CREEK",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CROSS",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "ROCK",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "STEP",
+      "row": 6,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "BOOT",
+      "row": 5,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "POLE",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "PACK",
+      "row": 4,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "REST",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "VIEW",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "MAP",
+      "row": 6,
+      "col": 9,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 4011
+}

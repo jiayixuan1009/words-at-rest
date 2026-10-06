@@ -1,0 +1,208 @@
+{
+  "id": "woodworking-easy-02",
+  "slug": "woodworking-easy-02",
+  "themeId": "woodworking",
+  "title": "Woodworking: Quiet Grain",
+  "primaryKeyword": "woodworking word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BENCH",
+    "BOARD",
+    "CLAMP",
+    "FILE",
+    "GLUE",
+    "GRAIN",
+    "PLANE",
+    "PLANK",
+    "SAND",
+    "VISE"
+  ],
+  "grid": [
+    [
+      "L",
+      "B",
+      "E",
+      "G",
+      "G",
+      "R",
+      "A",
+      "I",
+      "N",
+      "R"
+    ],
+    [
+      "P",
+      "F",
+      "I",
+      "L",
+      "E",
+      "B",
+      "B",
+      "V",
+      "B",
+      "T"
+    ],
+    [
+      "X",
+      "V",
+      "M",
+      "A",
+      "Z",
+      "I",
+      "H",
+      "H",
+      "O",
+      "J"
+    ],
+    [
+      "P",
+      "P",
+      "K",
+      "B",
+      "H",
+      "B",
+      "R",
+      "T",
+      "A",
+      "R"
+    ],
+    [
+      "L",
+      "L",
+      "G",
+      "E",
+      "A",
+      "D",
+      "W",
+      "P",
+      "R",
+      "G"
+    ],
+    [
+      "A",
+      "A",
+      "L",
+      "N",
+      "F",
+      "Z",
+      "C",
+      "C",
+      "D",
+      "Y"
+    ],
+    [
+      "N",
+      "N",
+      "U",
+      "C",
+      "K",
+      "F",
+      "X",
+      "L",
+      "P",
+      "K"
+    ],
+    [
+      "K",
+      "E",
+      "E",
+      "H",
+      "Z",
+      "W",
+      "P",
+      "A",
+      "Q",
+      "O"
+    ],
+    [
+      "F",
+      "R",
+      "S",
+      "A",
+      "N",
+      "D",
+      "M",
+      "M",
+      "R",
+      "P"
+    ],
+    [
+      "V",
+      "I",
+      "S",
+      "E",
+      "N",
+      "B",
+      "V",
+      "P",
+      "L",
+      "S"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "GRAIN",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BOARD",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "PLANK",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CLAMP",
+      "row": 5,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "PLANE",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "BENCH",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "GLUE",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "FILE",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SAND",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "VISE",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8912
+}

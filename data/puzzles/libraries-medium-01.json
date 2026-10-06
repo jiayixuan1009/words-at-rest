@@ -1,0 +1,284 @@
+{
+  "id": "libraries-medium-01",
+  "slug": "libraries-medium-01",
+  "themeId": "libraries",
+  "title": "Libraries: Catalog Hour",
+  "primaryKeyword": "libraries word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ANNEX",
+    "ATLAS",
+    "BINDING",
+    "CARREL",
+    "CATALOG",
+    "CHAPTER",
+    "EDITION",
+    "ESSAY",
+    "FOLIO",
+    "GENRE",
+    "INDEX",
+    "READER",
+    "SILENCE",
+    "VOLUME"
+  ],
+  "grid": [
+    [
+      "P",
+      "A",
+      "W",
+      "C",
+      "C",
+      "W",
+      "G",
+      "E",
+      "T",
+      "F",
+      "T",
+      "C"
+    ],
+    [
+      "L",
+      "M",
+      "M",
+      "P",
+      "X",
+      "A",
+      "S",
+      "S",
+      "L",
+      "O",
+      "P",
+      "Y"
+    ],
+    [
+      "B",
+      "A",
+      "N",
+      "N",
+      "E",
+      "X",
+      "T",
+      "S",
+      "F",
+      "L",
+      "U",
+      "W"
+    ],
+    [
+      "O",
+      "B",
+      "I",
+      "O",
+      "J",
+      "D",
+      "C",
+      "A",
+      "V",
+      "I",
+      "J",
+      "B"
+    ],
+    [
+      "V",
+      "Y",
+      "I",
+      "N",
+      "D",
+      "E",
+      "X",
+      "Y",
+      "L",
+      "O",
+      "B",
+      "E"
+    ],
+    [
+      "O",
+      "A",
+      "Z",
+      "N",
+      "C",
+      "Q",
+      "R",
+      "M",
+      "E",
+      "O",
+      "C",
+      "D"
+    ],
+    [
+      "L",
+      "Z",
+      "T",
+      "F",
+      "D",
+      "E",
+      "C",
+      "R",
+      "I",
+      "P",
+      "G",
+      "I"
+    ],
+    [
+      "U",
+      "M",
+      "S",
+      "L",
+      "D",
+      "I",
+      "N",
+      "A",
+      "Q",
+      "T",
+      "B",
+      "T"
+    ],
+    [
+      "M",
+      "B",
+      "E",
+      "A",
+      "A",
+      "E",
+      "N",
+      "X",
+      "R",
+      "T",
+      "T",
+      "I"
+    ],
+    [
+      "E",
+      "B",
+      "E",
+      "I",
+      "G",
+      "S",
+      "E",
+      "G",
+      "Q",
+      "R",
+      "J",
+      "O"
+    ],
+    [
+      "L",
+      "R",
+      "N",
+      "S",
+      "I",
+      "L",
+      "E",
+      "N",
+      "C",
+      "E",
+      "E",
+      "N"
+    ],
+    [
+      "C",
+      "H",
+      "A",
+      "P",
+      "T",
+      "E",
+      "R",
+      "I",
+      "V",
+      "Z",
+      "E",
+      "L"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CATALOG",
+      "row": 0,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "EDITION",
+      "row": 4,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "BINDING",
+      "row": 3,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "CHAPTER",
+      "row": 11,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SILENCE",
+      "row": 10,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "VOLUME",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "READER",
+      "row": 10,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "CARREL",
+      "row": 6,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "INDEX",
+      "row": 4,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "GENRE",
+      "row": 9,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "ESSAY",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "ATLAS",
+      "row": 5,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "FOLIO",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "ANNEX",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8933
+}

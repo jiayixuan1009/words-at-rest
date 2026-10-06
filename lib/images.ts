@@ -187,6 +187,12 @@ const THEME_MOTIF: Record<string, string> = {
   astronomy: "a small telescope, star chart and crescent moon",
   "board-games": "dice, a token and a folded board edge on a table",
   yoga: "a rolled mat, block and soft studio light sketch",
+  pottery: "a clay bowl on a wheel, sponge and glaze jar",
+  woodworking: "a wood plane, chisel and scrap of oak on a bench",
+  calligraphy: "a nib pen, ink bottle and flourish on cream paper",
+  libraries: "stacked books, a library card and reading lamp",
+  volunteering: "a name badge, tote and sign-up clipboard",
+  "gardening-tools": "a trowel, pruners and coiled hose on a potting bench",
   "large-print-pack": "reading glasses on an open puzzle book under a lamp",
   "hard-pack": "a dense puzzle grid with a fountain pen",
 };
@@ -223,6 +229,8 @@ const THEME_MOTIF: Record<string, string> = {
  * TEMPORARY covers for Wave G (sewing…photography): borrow nearby art; swap webp/OG only.
  *
  * TEMPORARY covers for Wave H (chess…yoga): borrow nearby art; swap webp/OG only.
+ *
+ * TEMPORARY covers for Wave I (pottery…gardening-tools): borrow nearby art; swap webp/OG only.
  */
 
 export function themeArt(slug: string, themeName: string): Art {

@@ -725,6 +725,48 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
       "Quiet play-night companion.",
     tip: "Long words like STRATEGY and FRIEND are easier than DIE or WIN.",
   },
+  pottery: {
+    vocabulary:
+      "Clay and kiln English — no pottery-brand names.",
+    goodFor:
+      "Quiet studio craft for adults.",
+    tip: "Long words like BISQUE and STUDIO stand out first.",
+  },
+  woodworking: {
+    vocabulary:
+      "Shop and joinery English — no tool brands. Companion to Tools.",
+    goodFor:
+      "Bench vocabulary for calm hobby hours.",
+    tip: "Long words such as DOVETAIL and MORTISE anchor harder grids.",
+  },
+  calligraphy: {
+    vocabulary:
+      "Pen and ink English — no brand names. Companion to Painting.",
+    goodFor:
+      "Desk craft for adults who like quiet focus.",
+    tip: "Long words like FLOURISH and BASELINE jump out quickly.",
+  },
+  libraries: {
+    vocabulary:
+      "Shelf and quiet-reading English — no publisher brands. Companion to Reading.",
+    goodFor:
+      "Calm room vocabulary for seniors' hours.",
+    tip: "Long words such as CATALOG and ARCHIVE stand out.",
+  },
+  volunteering: {
+    vocabulary:
+      "Service and community English — no organization brands. Companion to Kindness.",
+    goodFor:
+      "Giving vocabulary without medical claims.",
+    tip: "Long words like COMMUNITY and SHELTER anchor the hard grid.",
+  },
+  "gardening-tools": {
+    vocabulary:
+      "Hand-tool English — companion to Garden and Tools; no brands.",
+    goodFor:
+      "Shed vocabulary for outdoor adults.",
+    tip: "Long words such as WHEELBARROW and GREENHOUSE stand out first.",
+  },
   yoga: {
     vocabulary:
       "Calm practice English — no studio brands; no medical claims.",

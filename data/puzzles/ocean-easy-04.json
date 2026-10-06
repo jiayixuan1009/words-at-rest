@@ -1,0 +1,208 @@
+{
+  "id": "ocean-easy-04",
+  "slug": "ocean-easy-04",
+  "themeId": "ocean",
+  "title": "Ocean: Quiet Beach",
+  "primaryKeyword": "ocean word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "AIR",
+    "BEACH",
+    "BLUE",
+    "CALM",
+    "HORIZON",
+    "REST",
+    "SALT",
+    "SOFT",
+    "WALK",
+    "WAVE"
+  ],
+  "grid": [
+    [
+      "D",
+      "R",
+      "E",
+      "S",
+      "T",
+      "J",
+      "S",
+      "O",
+      "F",
+      "T"
+    ],
+    [
+      "X",
+      "S",
+      "J",
+      "Y",
+      "A",
+      "L",
+      "Z",
+      "Q",
+      "X",
+      "Z"
+    ],
+    [
+      "P",
+      "F",
+      "A",
+      "K",
+      "C",
+      "C",
+      "Y",
+      "Y",
+      "Y",
+      "M"
+    ],
+    [
+      "E",
+      "R",
+      "I",
+      "H",
+      "O",
+      "R",
+      "I",
+      "Z",
+      "O",
+      "N"
+    ],
+    [
+      "P",
+      "H",
+      "R",
+      "V",
+      "B",
+      "L",
+      "U",
+      "E",
+      "A",
+      "M"
+    ],
+    [
+      "B",
+      "N",
+      "H",
+      "W",
+      "Q",
+      "W",
+      "A",
+      "L",
+      "K",
+      "J"
+    ],
+    [
+      "E",
+      "B",
+      "L",
+      "A",
+      "N",
+      "X",
+      "Q",
+      "V",
+      "V",
+      "E"
+    ],
+    [
+      "A",
+      "J",
+      "Y",
+      "V",
+      "C",
+      "A",
+      "L",
+      "M",
+      "Z",
+      "K"
+    ],
+    [
+      "C",
+      "E",
+      "F",
+      "E",
+      "C",
+      "Q",
+      "M",
+      "E",
+      "F",
+      "D"
+    ],
+    [
+      "H",
+      "P",
+      "F",
+      "K",
+      "S",
+      "S",
+      "A",
+      "L",
+      "T",
+      "L"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "HORIZON",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BEACH",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "WAVE",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "SALT",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SOFT",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "CALM",
+      "row": 7,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BLUE",
+      "row": 4,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "WALK",
+      "row": 5,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "REST",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "AIR",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 2431
+}

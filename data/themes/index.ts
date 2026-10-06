@@ -109,6 +109,12 @@ import home from "./home.json";
 import astronomy from "./astronomy.json";
 import boardGames from "./board-games.json";
 import yoga from "./yoga.json";
+import pottery from "./pottery.json";
+import woodworking from "./woodworking.json";
+import calligraphy from "./calligraphy.json";
+import libraries from "./libraries.json";
+import volunteering from "./volunteering.json";
+import gardeningTools from "./gardening-tools.json";
 
 /** Theme order: seasonal first, then evergreen, then packs. */
 export const themes = [
@@ -220,6 +226,12 @@ export const themes = [
   astronomy,
   boardGames,
   yoga,
+  pottery,
+  woodworking,
+  calligraphy,
+  libraries,
+  volunteering,
+  gardeningTools,
   largePrintPack,
   hardPack,
 ] as Theme[];

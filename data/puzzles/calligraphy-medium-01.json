@@ -1,0 +1,284 @@
+{
+  "id": "calligraphy-medium-01",
+  "slug": "calligraphy-medium-01",
+  "themeId": "calligraphy",
+  "title": "Calligraphy: Ink Evening",
+  "primaryKeyword": "calligraphy word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BASELINE",
+    "BOTTLE",
+    "CAPITAL",
+    "CURSIVE",
+    "FLOURISH",
+    "HOLDER",
+    "INKWELL",
+    "ITALIC",
+    "MARGIN",
+    "OBLIQUE",
+    "RHYTHM",
+    "ROMAN",
+    "SLANT",
+    "SPACING"
+  ],
+  "grid": [
+    [
+      "Y",
+      "O",
+      "S",
+      "Y",
+      "B",
+      "C",
+      "E",
+      "Y",
+      "U",
+      "Q",
+      "T",
+      "I"
+    ],
+    [
+      "P",
+      "D",
+      "B",
+      "J",
+      "F",
+      "O",
+      "U",
+      "I",
+      "U",
+      "K",
+      "H",
+      "T"
+    ],
+    [
+      "B",
+      "H",
+      "Q",
+      "L",
+      "J",
+      "L",
+      "T",
+      "R",
+      "C",
+      "L",
+      "L",
+      "A"
+    ],
+    [
+      "G",
+      "A",
+      "O",
+      "W",
+      "I",
+      "I",
+      "O",
+      "T",
+      "S",
+      "Q",
+      "J",
+      "L"
+    ],
+    [
+      "C",
+      "F",
+      "S",
+      "L",
+      "F",
+      "Q",
+      "N",
+      "U",
+      "L",
+      "I",
+      "G",
+      "I"
+    ],
+    [
+      "A",
+      "R",
+      "N",
+      "E",
+      "D",
+      "S",
+      "U",
+      "K",
+      "R",
+      "E",
+      "V",
+      "C"
+    ],
+    [
+      "P",
+      "K",
+      "H",
+      "R",
+      "L",
+      "E",
+      "P",
+      "E",
+      "W",
+      "I",
+      "E",
+      "E"
+    ],
+    [
+      "I",
+      "O",
+      "S",
+      "Y",
+      "O",
+      "I",
+      "R",
+      "A",
+      "A",
+      "E",
+      "S",
+      "R"
+    ],
+    [
+      "T",
+      "X",
+      "L",
+      "C",
+      "T",
+      "M",
+      "N",
+      "U",
+      "C",
+      "U",
+      "L",
+      "H"
+    ],
+    [
+      "A",
+      "C",
+      "A",
+      "X",
+      "V",
+      "H",
+      "A",
+      "E",
+      "L",
+      "I",
+      "W",
+      "L"
+    ],
+    [
+      "L",
+      "F",
+      "N",
+      "J",
+      "M",
+      "Y",
+      "M",
+      "N",
+      "N",
+      "G",
+      "N",
+      "R"
+    ],
+    [
+      "G",
+      "X",
+      "T",
+      "M",
+      "A",
+      "R",
+      "G",
+      "I",
+      "N",
+      "A",
+      "V",
+      "G"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FLOURISH",
+      "row": 1,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "BASELINE",
+      "row": 2,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "SPACING",
+      "row": 5,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "INKWELL",
+      "row": 3,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "OBLIQUE",
+      "row": 0,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "CURSIVE",
+      "row": 0,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "CAPITAL",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "MARGIN",
+      "row": 11,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BOTTLE",
+      "row": 0,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "HOLDER",
+      "row": 2,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "ITALIC",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "RHYTHM",
+      "row": 5,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "ROMAN",
+      "row": 6,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "SLANT",
+      "row": 7,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8923
+}

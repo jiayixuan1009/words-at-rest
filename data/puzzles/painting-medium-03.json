@@ -1,0 +1,284 @@
+{
+  "id": "painting-medium-03",
+  "slug": "painting-medium-03",
+  "themeId": "painting",
+  "title": "Painting: Color Study",
+  "primaryKeyword": "painting word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "COMPOSITION",
+    "GLAZE",
+    "HUE",
+    "IMPASTO",
+    "LANDSCAPE",
+    "LIFE",
+    "PALETTE",
+    "PIGMENT",
+    "PORTRAIT",
+    "SKETCH",
+    "STILL",
+    "STUDY",
+    "UNDERPAINT",
+    "VALUE"
+  ],
+  "grid": [
+    [
+      "I",
+      "M",
+      "P",
+      "A",
+      "S",
+      "T",
+      "O",
+      "I",
+      "W",
+      "M",
+      "R",
+      "U"
+    ],
+    [
+      "F",
+      "A",
+      "P",
+      "O",
+      "R",
+      "T",
+      "R",
+      "A",
+      "I",
+      "T",
+      "E",
+      "P"
+    ],
+    [
+      "J",
+      "D",
+      "E",
+      "K",
+      "J",
+      "G",
+      "L",
+      "A",
+      "Z",
+      "E",
+      "L",
+      "A"
+    ],
+    [
+      "A",
+      "L",
+      "V",
+      "A",
+      "L",
+      "U",
+      "E",
+      "Z",
+      "F",
+      "M",
+      "T",
+      "L"
+    ],
+    [
+      "C",
+      "O",
+      "M",
+      "P",
+      "O",
+      "S",
+      "I",
+      "T",
+      "I",
+      "O",
+      "N",
+      "E"
+    ],
+    [
+      "O",
+      "C",
+      "F",
+      "P",
+      "I",
+      "G",
+      "M",
+      "E",
+      "N",
+      "T",
+      "H",
+      "T"
+    ],
+    [
+      "I",
+      "B",
+      "M",
+      "S",
+      "T",
+      "U",
+      "D",
+      "Y",
+      "D",
+      "C",
+      "U",
+      "T"
+    ],
+    [
+      "A",
+      "U",
+      "N",
+      "D",
+      "E",
+      "R",
+      "P",
+      "A",
+      "I",
+      "N",
+      "T",
+      "E"
+    ],
+    [
+      "S",
+      "T",
+      "I",
+      "L",
+      "L",
+      "H",
+      "U",
+      "E",
+      "X",
+      "N",
+      "G",
+      "I"
+    ],
+    [
+      "L",
+      "A",
+      "N",
+      "D",
+      "S",
+      "C",
+      "A",
+      "P",
+      "E",
+      "Y",
+      "P",
+      "Q"
+    ],
+    [
+      "I",
+      "D",
+      "E",
+      "Q",
+      "S",
+      "K",
+      "E",
+      "T",
+      "C",
+      "H",
+      "R",
+      "X"
+    ],
+    [
+      "K",
+      "L",
+      "I",
+      "F",
+      "E",
+      "J",
+      "K",
+      "Z",
+      "I",
+      "G",
+      "Q",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "COMPOSITION",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "UNDERPAINT",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "LANDSCAPE",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "PORTRAIT",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PALETTE",
+      "row": 1,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "PIGMENT",
+      "row": 5,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "IMPASTO",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SKETCH",
+      "row": 10,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "GLAZE",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "STUDY",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "STILL",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "VALUE",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "LIFE",
+      "row": 11,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "HUE",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 3712
+}

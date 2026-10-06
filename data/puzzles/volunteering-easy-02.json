@@ -1,0 +1,208 @@
+{
+  "id": "volunteering-easy-02",
+  "slug": "volunteering-easy-02",
+  "themeId": "volunteering",
+  "title": "Volunteering: Quiet Help",
+  "primaryKeyword": "volunteering word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BADGE",
+    "BUILD",
+    "CLEAN",
+    "DRIVE",
+    "FOOD",
+    "HOPE",
+    "HOST",
+    "SERVE",
+    "SHIFT",
+    "TOTE"
+  ],
+  "grid": [
+    [
+      "N",
+      "L",
+      "I",
+      "J",
+      "H",
+      "U",
+      "S",
+      "A",
+      "F",
+      "V"
+    ],
+    [
+      "J",
+      "V",
+      "F",
+      "D",
+      "O",
+      "F",
+      "J",
+      "T",
+      "Z",
+      "E"
+    ],
+    [
+      "K",
+      "N",
+      "L",
+      "M",
+      "P",
+      "E",
+      "E",
+      "C",
+      "C",
+      "D"
+    ],
+    [
+      "O",
+      "D",
+      "L",
+      "C",
+      "E",
+      "F",
+      "H",
+      "L",
+      "B",
+      "E"
+    ],
+    [
+      "S",
+      "R",
+      "V",
+      "E",
+      "X",
+      "O",
+      "O",
+      "E",
+      "A",
+      "L"
+    ],
+    [
+      "E",
+      "I",
+      "B",
+      "J",
+      "Q",
+      "O",
+      "S",
+      "A",
+      "D",
+      "R"
+    ],
+    [
+      "R",
+      "V",
+      "U",
+      "K",
+      "O",
+      "D",
+      "T",
+      "N",
+      "G",
+      "X"
+    ],
+    [
+      "V",
+      "E",
+      "I",
+      "S",
+      "H",
+      "I",
+      "F",
+      "T",
+      "E",
+      "R"
+    ],
+    [
+      "E",
+      "M",
+      "L",
+      "G",
+      "F",
+      "H",
+      "H",
+      "R",
+      "Q",
+      "T"
+    ],
+    [
+      "M",
+      "N",
+      "D",
+      "Z",
+      "M",
+      "T",
+      "O",
+      "T",
+      "E",
+      "L"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SERVE",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SHIFT",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BADGE",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "DRIVE",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "CLEAN",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "BUILD",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "TOTE",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "FOOD",
+      "row": 3,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "HOST",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "HOPE",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8942
+}

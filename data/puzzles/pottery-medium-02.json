@@ -1,0 +1,284 @@
+{
+  "id": "pottery-medium-02",
+  "slug": "pottery-medium-02",
+  "themeId": "pottery",
+  "title": "Pottery: Kiln Day",
+  "primaryKeyword": "pottery word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BAT",
+    "COLOR",
+    "DRY",
+    "EARTH",
+    "FIRE",
+    "FORM",
+    "HAND",
+    "LIP",
+    "QUIET",
+    "RIB",
+    "SHAPE",
+    "SHELF",
+    "TOOL",
+    "WIRE"
+  ],
+  "grid": [
+    [
+      "W",
+      "L",
+      "N",
+      "J",
+      "W",
+      "Q",
+      "U",
+      "I",
+      "E",
+      "T",
+      "B",
+      "E"
+    ],
+    [
+      "H",
+      "W",
+      "T",
+      "O",
+      "O",
+      "L",
+      "H",
+      "A",
+      "N",
+      "D",
+      "Z",
+      "A"
+    ],
+    [
+      "A",
+      "Y",
+      "Y",
+      "W",
+      "A",
+      "W",
+      "V",
+      "T",
+      "I",
+      "A",
+      "M",
+      "R"
+    ],
+    [
+      "R",
+      "R",
+      "D",
+      "F",
+      "Z",
+      "S",
+      "H",
+      "E",
+      "L",
+      "F",
+      "F",
+      "T"
+    ],
+    [
+      "D",
+      "Z",
+      "J",
+      "E",
+      "I",
+      "X",
+      "T",
+      "J",
+      "N",
+      "C",
+      "F",
+      "H"
+    ],
+    [
+      "E",
+      "N",
+      "I",
+      "C",
+      "F",
+      "R",
+      "S",
+      "R",
+      "B",
+      "W",
+      "O",
+      "N"
+    ],
+    [
+      "R",
+      "S",
+      "G",
+      "O",
+      "A",
+      "T",
+      "E",
+      "I",
+      "A",
+      "Q",
+      "R",
+      "C"
+    ],
+    [
+      "I",
+      "B",
+      "I",
+      "L",
+      "M",
+      "G",
+      "Q",
+      "B",
+      "T",
+      "X",
+      "M",
+      "J"
+    ],
+    [
+      "W",
+      "K",
+      "V",
+      "O",
+      "I",
+      "Y",
+      "O",
+      "S",
+      "I",
+      "Q",
+      "Q",
+      "G"
+    ],
+    [
+      "O",
+      "I",
+      "W",
+      "R",
+      "I",
+      "W",
+      "P",
+      "V",
+      "A",
+      "I",
+      "R",
+      "X"
+    ],
+    [
+      "A",
+      "P",
+      "R",
+      "V",
+      "U",
+      "I",
+      "U",
+      "L",
+      "Y",
+      "W",
+      "N",
+      "V"
+    ],
+    [
+      "M",
+      "L",
+      "U",
+      "E",
+      "L",
+      "S",
+      "H",
+      "A",
+      "P",
+      "E",
+      "P",
+      "B"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "COLOR",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "SHAPE",
+      "row": 11,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SHELF",
+      "row": 3,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "QUIET",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "EARTH",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "FORM",
+      "row": 4,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "FIRE",
+      "row": 3,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "TOOL",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "WIRE",
+      "row": 8,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "HAND",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "DRY",
+      "row": 4,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "RIB",
+      "row": 5,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "BAT",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "LIP",
+      "row": 11,
+      "col": 4,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8904
+}

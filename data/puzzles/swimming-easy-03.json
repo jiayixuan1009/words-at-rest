@@ -1,0 +1,208 @@
+{
+  "id": "swimming-easy-03",
+  "slug": "swimming-easy-03",
+  "themeId": "swimming",
+  "title": "Swimming: Quiet Lane",
+  "primaryKeyword": "swimming word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CAP",
+    "GLIDE",
+    "GOGGLE",
+    "KICK",
+    "LANE",
+    "LAP",
+    "PACE",
+    "PUSH",
+    "REST",
+    "TURN"
+  ],
+  "grid": [
+    [
+      "O",
+      "J",
+      "G",
+      "R",
+      "Q",
+      "Y",
+      "Z",
+      "E",
+      "V",
+      "U"
+    ],
+    [
+      "T",
+      "D",
+      "A",
+      "Z",
+      "Y",
+      "Q",
+      "R",
+      "G",
+      "K",
+      "N"
+    ],
+    [
+      "G",
+      "I",
+      "H",
+      "Z",
+      "C",
+      "K",
+      "Z",
+      "O",
+      "I",
+      "Z"
+    ],
+    [
+      "L",
+      "J",
+      "L",
+      "M",
+      "H",
+      "I",
+      "X",
+      "G",
+      "T",
+      "B"
+    ],
+    [
+      "I",
+      "L",
+      "W",
+      "T",
+      "H",
+      "C",
+      "I",
+      "G",
+      "X",
+      "J"
+    ],
+    [
+      "D",
+      "A",
+      "S",
+      "T",
+      "L",
+      "K",
+      "O",
+      "L",
+      "F",
+      "L"
+    ],
+    [
+      "E",
+      "N",
+      "P",
+      "U",
+      "A",
+      "G",
+      "T",
+      "E",
+      "W",
+      "B"
+    ],
+    [
+      "D",
+      "E",
+      "U",
+      "R",
+      "P",
+      "I",
+      "P",
+      "A",
+      "C",
+      "E"
+    ],
+    [
+      "N",
+      "T",
+      "S",
+      "N",
+      "J",
+      "R",
+      "E",
+      "S",
+      "T",
+      "S"
+    ],
+    [
+      "S",
+      "U",
+      "H",
+      "Y",
+      "X",
+      "C",
+      "A",
+      "P",
+      "H",
+      "Y"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "GOGGLE",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "GLIDE",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "LANE",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "KICK",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "TURN",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "PUSH",
+      "row": 6,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "PACE",
+      "row": 7,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "REST",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "LAP",
+      "row": 5,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "CAP",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 4211
+}

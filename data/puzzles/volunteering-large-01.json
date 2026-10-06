@@ -1,0 +1,173 @@
+{
+  "id": "volunteering-large-01",
+  "slug": "volunteering-large-01",
+  "themeId": "volunteering",
+  "title": "Large Print Volunteering: Soft Hand",
+  "primaryKeyword": "large print volunteering word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "CARE",
+    "GIVE",
+    "HELP",
+    "SHARE",
+    "SIGN",
+    "TASK",
+    "TEAM",
+    "TIME"
+  ],
+  "grid": [
+    [
+      "G",
+      "I",
+      "V",
+      "E",
+      "T",
+      "A",
+      "S",
+      "K",
+      "Z"
+    ],
+    [
+      "I",
+      "G",
+      "N",
+      "U",
+      "C",
+      "E",
+      "N",
+      "C",
+      "I"
+    ],
+    [
+      "K",
+      "T",
+      "E",
+      "A",
+      "M",
+      "F",
+      "R",
+      "A",
+      "Z"
+    ],
+    [
+      "I",
+      "S",
+      "T",
+      "I",
+      "M",
+      "E",
+      "T",
+      "R",
+      "D"
+    ],
+    [
+      "D",
+      "H",
+      "E",
+      "L",
+      "P",
+      "C",
+      "M",
+      "E",
+      "X"
+    ],
+    [
+      "G",
+      "A",
+      "S",
+      "P",
+      "W",
+      "I",
+      "F",
+      "Q",
+      "E"
+    ],
+    [
+      "O",
+      "U",
+      "U",
+      "C",
+      "Z",
+      "H",
+      "V",
+      "U",
+      "F"
+    ],
+    [
+      "P",
+      "R",
+      "S",
+      "H",
+      "A",
+      "R",
+      "E",
+      "J",
+      "S"
+    ],
+    [
+      "S",
+      "I",
+      "G",
+      "N",
+      "B",
+      "B",
+      "H",
+      "D",
+      "K"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SHARE",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "HELP",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "GIVE",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CARE",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "TEAM",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TASK",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SIGN",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "TIME",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 8946
+}

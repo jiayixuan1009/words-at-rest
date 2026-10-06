@@ -1,0 +1,208 @@
+{
+  "id": "painting-easy-03",
+  "slug": "painting-easy-03",
+  "themeId": "painting",
+  "title": "Painting: Quiet Studio",
+  "primaryKeyword": "painting word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BRUSH",
+    "CANVAS",
+    "EASEL",
+    "INK",
+    "LIGHT",
+    "OIL",
+    "PAINT",
+    "SOFT",
+    "TONE",
+    "WASH"
+  ],
+  "grid": [
+    [
+      "A",
+      "B",
+      "R",
+      "U",
+      "S",
+      "H",
+      "M",
+      "N",
+      "I",
+      "V"
+    ],
+    [
+      "T",
+      "T",
+      "X",
+      "F",
+      "L",
+      "T",
+      "O",
+      "N",
+      "E",
+      "B"
+    ],
+    [
+      "N",
+      "G",
+      "A",
+      "F",
+      "X",
+      "U",
+      "B",
+      "H",
+      "X",
+      "Y"
+    ],
+    [
+      "C",
+      "M",
+      "R",
+      "E",
+      "A",
+      "S",
+      "E",
+      "L",
+      "N",
+      "U"
+    ],
+    [
+      "M",
+      "I",
+      "X",
+      "F",
+      "V",
+      "Q",
+      "W",
+      "A",
+      "S",
+      "H"
+    ],
+    [
+      "R",
+      "C",
+      "A",
+      "N",
+      "V",
+      "A",
+      "S",
+      "H",
+      "A",
+      "Z"
+    ],
+    [
+      "I",
+      "C",
+      "I",
+      "N",
+      "K",
+      "D",
+      "Q",
+      "G",
+      "L",
+      "X"
+    ],
+    [
+      "Q",
+      "R",
+      "P",
+      "I",
+      "O",
+      "I",
+      "S",
+      "O",
+      "F",
+      "T"
+    ],
+    [
+      "O",
+      "I",
+      "L",
+      "I",
+      "G",
+      "H",
+      "T",
+      "K",
+      "G",
+      "Z"
+    ],
+    [
+      "P",
+      "A",
+      "I",
+      "N",
+      "T",
+      "Q",
+      "I",
+      "M",
+      "S",
+      "W"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CANVAS",
+      "row": 5,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BRUSH",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PAINT",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "LIGHT",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "EASEL",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "WASH",
+      "row": 4,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "TONE",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SOFT",
+      "row": 7,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "OIL",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "INK",
+      "row": 6,
+      "col": 2,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 3711
+}

@@ -1,0 +1,173 @@
+{
+  "id": "large-print-pack-large-16",
+  "slug": "large-print-pack-large-16",
+  "themeId": "large-print-pack",
+  "title": "Large Print Word Search: Quiet Choir",
+  "primaryKeyword": "large print large print word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "CHOIR",
+    "HOME",
+    "HOPE",
+    "HYMN",
+    "JOY",
+    "LIGHT",
+    "PEACE",
+    "REST"
+  ],
+  "grid": [
+    [
+      "H",
+      "O",
+      "P",
+      "E",
+      "R",
+      "H",
+      "O",
+      "M",
+      "E"
+    ],
+    [
+      "Z",
+      "L",
+      "I",
+      "G",
+      "H",
+      "T",
+      "V",
+      "D",
+      "D"
+    ],
+    [
+      "O",
+      "P",
+      "E",
+      "A",
+      "C",
+      "E",
+      "J",
+      "K",
+      "C"
+    ],
+    [
+      "J",
+      "L",
+      "C",
+      "Z",
+      "E",
+      "J",
+      "K",
+      "H",
+      "I"
+    ],
+    [
+      "O",
+      "V",
+      "H",
+      "V",
+      "P",
+      "X",
+      "N",
+      "Y",
+      "W"
+    ],
+    [
+      "Y",
+      "S",
+      "O",
+      "Z",
+      "E",
+      "F",
+      "F",
+      "M",
+      "A"
+    ],
+    [
+      "E",
+      "R",
+      "I",
+      "R",
+      "E",
+      "S",
+      "T",
+      "N",
+      "E"
+    ],
+    [
+      "O",
+      "G",
+      "R",
+      "K",
+      "O",
+      "Z",
+      "V",
+      "L",
+      "R"
+    ],
+    [
+      "W",
+      "U",
+      "L",
+      "Q",
+      "X",
+      "Y",
+      "Y",
+      "Q",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CHOIR",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "PEACE",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "LIGHT",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "HYMN",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "HOPE",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "REST",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "HOME",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "JOY",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 3034
+}
