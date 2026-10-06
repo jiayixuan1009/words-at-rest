@@ -48,47 +48,78 @@ export default function HomePage() {
   const featured = getPuzzles().filter((p) => !p.largePrint).slice(0, 6);
   const largePrint = getLargePrintPuzzles().slice(0, 4);
   return (
-    <div className="space-y-20 sm:space-y-24">
-      {/* 1 · Launcher: today's daily puzzle in one click */}
-      <section aria-labelledby="home-title" className="grid gap-10 lg:grid-cols-[minmax(0,1fr)_minmax(0,1fr)] lg:gap-14">
-        <div className="lg:pt-4">
+    <div className="space-y-14 sm:space-y-24">
+      {/* 1 · Launcher: mobile fold = title → today's card → chips → hero; desktop unchanged */}
+      <section aria-labelledby="home-title" className="home-launcher">
+        <div className="home-launcher__copy">
           <p className="kicker">Free · Online · No timer</p>
-          <h1 id="home-title" className="display mt-4 font-serif">
+          <h1 id="home-title" className="display home-title mt-2.5 font-serif sm:mt-4">
             Free word search puzzles, at your own pace.
           </h1>
-          <p className="mt-5 max-w-[30rem] text-[1.25rem] leading-relaxed text-[var(--ink-soft)]">
-            Calm grids for adults and seniors — large print, daily and seasonal themes. No download, no
-            sign-up. Just a quiet cup and a list of words.
+          <p className="mt-3 max-w-[30rem] text-[1.0625rem] leading-snug text-[var(--ink-soft)] sm:mt-5 sm:text-[1.25rem] sm:leading-relaxed">
+            <span className="lg:hidden">
+              Calm grids for adults and seniors — large print, daily and seasonal. No download, no sign-up.
+            </span>
+            <span className="hidden lg:inline">
+              Calm grids for adults and seniors — large print, daily and seasonal themes. No download, no
+              sign-up. Just a quiet cup and a list of words.
+            </span>
           </p>
-          <div className="mt-8">
+          <div className="mt-8 hidden lg:block">
             <LauncherCta puzzle={daily} />
           </div>
           <div className="mt-8 hidden border-t border-[#d4cbb8] pt-6 lg:block">
             <LauncherChips />
           </div>
         </div>
-        <div>
-          <picture>
-            <source media="(min-width: 768px)" srcSet={`${ART.heroDesktop.variants?.[0][0]} 1200w, ${ART.heroDesktop.src} 1600w`} sizes="(min-width: 1024px) 540px, 100vw" width={1600} height={1200} />
+
+        <div className="home-launcher__preview">
+          <DailyPreview puzzle={daily} date={date} />
+        </div>
+
+        <div className="home-launcher__chips lg:hidden">
+          <LauncherChips />
+        </div>
+
+        <div className="home-launcher__hero">
+          {/* Desktop / tablet: LCP hero above the preview overlap */}
+          <picture className="hidden md:block">
+            <source
+              media="(min-width: 768px)"
+              srcSet={`${ART.heroDesktop.variants?.[0][0]} 1200w, ${ART.heroDesktop.src} 1600w`}
+              sizes="(min-width: 1024px) 540px, 100vw"
+              width={1600}
+              height={1200}
+            />
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
-              src={ART.heroMobile.variants?.[0][0]}
-              srcSet={`${ART.heroMobile.variants?.[0][0]} 800w, ${ART.heroMobile.src} 1200w`}
-              sizes="100vw"
-              width={1200}
-              height={900}
+              src={ART.heroDesktop.variants?.[0][0] ?? ART.heroDesktop.src}
+              srcSet={`${ART.heroDesktop.variants?.[0][0]} 1200w, ${ART.heroDesktop.src} 1600w`}
+              sizes="(min-width: 1024px) 540px, 100vw"
+              width={1600}
+              height={1200}
               alt={ART.heroDesktop.alt}
               fetchPriority="high"
               loading="eager"
               className="aspect-[4/3] w-full rounded-[4px] border border-[#d4cbb8] object-cover"
             />
           </picture>
-          <div className="relative z-10 -mt-16 px-3 sm:-mt-24 sm:px-8 lg:-ml-10 lg:mr-6 lg:px-0">
-            <DailyPreview puzzle={daily} date={date} />
-          </div>
-          <div className="mt-8 lg:hidden">
-            <LauncherChips />
-          </div>
+          {/* Mobile: below-fold short banner — lazy, not preloaded */}
+          <picture className="md:hidden">
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
+              src={ART.heroMobile.variants?.[0][0] ?? ART.heroMobile.src}
+              srcSet={`${ART.heroMobile.variants?.[0][0]} 800w, ${ART.heroMobile.src} 1200w`}
+              sizes="100vw"
+              width={1200}
+              height={900}
+              alt={ART.heroMobile.alt}
+              loading="lazy"
+              decoding="async"
+              fetchPriority="low"
+              className="aspect-[5/2] w-full rounded-[4px] border border-[#d4cbb8] object-cover"
+            />
+          </picture>
         </div>
       </section>
 
