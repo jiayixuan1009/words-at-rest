@@ -2,7 +2,7 @@
 
 实现参考：[W3C交互网格键盘规范](https://www.w3.org/WAI/ARIA/apg/patterns/grid/)；[Google同意模式开发指南](https://developers.google.com/tag-platform/security/guides/consent)。这些规范链接不代表本站已通过完整无障碍或法律合规认证。
 
-基线：master `58608c3`；整改分支：`fix/audit-priority`。状态：代码与本地验证已完成，待合并和部署。首次审计与复核报告位于工作区 `../research/audit-2026-10-06/`；不能把本分支的效果当成线上已经修复。
+基线：master `58608c3`；整改分支：`fix/audit-priority`，代码提交`8f9dfd5`（2026-10-06 23:31，UTC+8）。状态：代码与本地验证已完成，待合并和部署。首次审计与复核报告位于工作区 `../research/audit-2026-10-06/`；不能把本分支的效果当成线上已经修复。
 
 ## 已完成代码整改
 
