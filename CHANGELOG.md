@@ -34,13 +34,15 @@
 - F03：网格单一 Tab 入口、方向键/Home/End移动、Enter/Space选首尾、Escape取消，行列与找到状态朗读；pointercancel只取消选择。
 - F13 / F07：完成态提供同难度下一题；游戏事件仅在接受分析且GA可用时发送。键盘与辅助技术全面验收仍待实机验证。
 
-### 发布 — Package B：节日 Wave 1 + 全部 12 个子主题（待部署）
+### 发布 — Package B：节日 Wave 1 + 全部 12 个子主题（2026-10-07，UTC+8，待写入部署版本）
 - 用户确认方案 B（节日与 12 个子主题同批上线）。分支 `holidays-rebase`（worktree `/workspace/war-holidays`）基于 master `de568d3`。
 - **节日 Wave 1**（`e731b3f` ← `0b358cc`）：Thanksgiving、Winter、Valentine's Day、Easter，各 6 题；`/holidays` 汇总页；页脚入口；难度递进图已从 `design/pending-difficulty/` 接入 `public/images/themes/`（`DIFFICULTY_ART_THEMES`）。封面 / OG 暂借旧图。
 - **子主题 Wave 1**（`f46526d` ← `6ddb57c`）：Sports → golf / baseball / tennis / fishing；Food → baking / desserts / herbs / fruits；Music → instruments / jazz / classical / music-terms；各 6 题。`parentSlug`、父页 Explore 卡片、面包屑 Themes → 父 → 子。封面 / OG 暂用父主题图。
 - **文档**合入：`docs/PRODUCT.md`、`docs/ROADMAP.md`、`docs/README.md`、`design/STRUCTURED-DATA-PLAN.md`。
 - **导航：** 顶部仍 4 项（Daily / Themes / Large Print / How to Play）；Holidays 在页脚。
 - **规模：** 主题 16→**32**，谜题 46→**142**。`llms.txt` / sitemap 同步。
+- 本地验证（`holidays-rebase`）：typecheck、build、check-images（20 主题难度图）、check-jsonld、check-routes、daily:check、daily:test、`npm test`（142 catalog）均通过；预览 sitemap ≈192 `<loc>`。
+
 - 规划：`design/THEME-EXPANSION-PLAN.md`；出图：`design/HOLIDAY-IMAGE-REQUEST.md`、`design/SUBTHEME-IMAGE-REQUEST.md`。
 
 ---
