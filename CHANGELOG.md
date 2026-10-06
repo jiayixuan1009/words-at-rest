@@ -9,13 +9,16 @@
 
 ## [未发布 Unreleased]
 
-## 2026-10-07 — Wave F（地理/手作/庆典/科学神话/地貌/博物馆，待部署）
+## 2026-10-07 — Wave F（地理/手作/庆典/科学神话/地貌/博物馆，已部署）
 
 ### 新增 — Wave F 批量内容（+15 主题 / +90 谜题）
 - 主题：countries、continents、cities、knitting、reading、painting、birthday、wedding、chemistry、mythology、volcanoes、forests、rivers、deserts、museums（各 6 题）。
 - mythology 仅通用神话名词，无影视游戏 IP；chemistry / money 类不做品牌与医疗建议。
 - `parentSlug`：forests → trees；rivers → lakes。
 - **规模：** 主题 77→**92**，谜题 412→**502**（朝 ~1000）。
+- **已部署：** Worker `words-at-rest` 版本 `7bbc1c6f-33f1-41f9-b47d-7a4ff4da959b`；commit `f7f574d`；sitemap ≈**612** `<loc>`；`llms.txt` 92/502。
+- **下一波建议（Wave G）：** gardening-tools / sewing / quilting； swimming / hiking / cycling； astronomy（dup space skip）/ geology / weather-already； emotions / hobbies； architecture / buildings； islands / coasts； orthography skip；或给热门主题再各加 2–4 道变体谜题冲数量。
+
 
 ## 2026-10-07 — Wave E（软主题 + 颜色/工具 + 球类 + 历史/科学 + 烹饪/购物，已部署）
 
