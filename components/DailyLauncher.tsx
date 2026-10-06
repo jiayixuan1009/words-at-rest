@@ -125,10 +125,7 @@ export default function DailyPreview({ puzzle, date }: { puzzle: Puzzle; date: s
         >
           {puzzle.grid.map((row, r) =>
             row.map((ch, c) => (
-              <span
-                key={`${r},${c}`}
-                className={`flex aspect-square items-center justify-center leading-none ${hintCells.has(`${r},${c}`) ? "bg-[var(--highlight)]" : ""}`}
-              >
+              <span key={`${r},${c}`} className={hintCells.has(`${r},${c}`) ? "is-hint" : undefined}>
                 {ch}
               </span>
             )),

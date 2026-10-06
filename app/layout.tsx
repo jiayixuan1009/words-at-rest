@@ -6,7 +6,7 @@ import Analytics from "@/components/Analytics";
 import CookieConsent from "@/components/CookieConsent";
 import JsonLd from "@/components/JsonLd";
 import { absoluteUrl, SITE } from "@/lib/site";
-import { organizationSchema } from "@/lib/seo";
+import { siteGraph } from "@/lib/seo";
 
 const DEFAULT_TITLE = "Free Large Print & Daily Word Search | Words at Rest";
 const DEFAULT_DESC =
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     siteName: SITE.name,
-    locale: "en_US",
+    locale: SITE.ogLocale,
     title: DEFAULT_TITLE,
     description: DEFAULT_DESC,
     images: [DEFAULT_IMAGE],
@@ -57,7 +57,7 @@ export const viewport: Viewport = {
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
-    <html lang="en">
+    <html lang={SITE.language}>
       <body className="flex min-h-screen flex-col text-[var(--ink)]">
         <a href="#main" className="sr-only focus:not-sr-only focus:absolute focus:left-4 focus:top-4 focus:z-50 focus:rounded-md focus:bg-white focus:p-3">
           Skip to content
@@ -69,7 +69,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
         <SiteFooter />
         <CookieConsent />
         <Analytics />
-        <JsonLd data={organizationSchema()} />
+        <JsonLd data={siteGraph()} />
       </body>
     </html>
   );

@@ -7,7 +7,14 @@ import Prose from "@/components/Prose";
 import Byline from "@/components/Byline";
 import Faq, { type FaqItem } from "@/components/Faq";
 import HubSchema from "@/components/HubSchema";
+import { routeDates } from "@/lib/content-dates";
 import { seo } from "@/lib/seo";
+import Sources, { Quote } from "@/components/Sources";
+import { CITATIONS } from "@/lib/citations";
+
+const CITED = [CITATIONS.niaCognitiveHealth, CITATIONS.alzSocBrainTraining];
+
+const DATES = routeDates("/adults");
 
 const DESCRIPTION =
   "Free word search puzzles made for adults: thoughtful word lists, hard 15×15 grids, large print options and no timers, sign-ups or flashing ads.";
@@ -27,7 +34,7 @@ const FAQ: FaqItem[] = [
   },
   {
     q: "Are word searches good for your brain?",
-    a: "Word searches exercise attention, visual scanning and pattern recognition, and many people find them a relaxing way to focus. They are best seen as an enjoyable mental activity rather than a medical treatment — we do not claim they prevent memory loss or any illness.",
+    a: "Word searches exercise attention, visual scanning and pattern recognition, and many people find them a relaxing way to focus. Research on puzzles and long-term brain health is mixed: the US National Institute on Aging says evidence for a lasting cognitive benefit from activities like these is not definitive. So we treat them as an enjoyable pastime and do not claim they prevent memory loss or any illness.",
   },
   {
     q: "Which difficulty should an adult start with?",
@@ -50,7 +57,7 @@ export default function AdultsPage() {
       <div className="mb-10 grid gap-8 sm:grid-cols-2 sm:items-end">
         <div>
           <h1 className="font-serif text-4xl tracking-tight sm:text-5xl">Word search for adults</h1>
-          <Byline />
+          <Byline dates={DATES} />
           <p className="mt-4 text-lg leading-relaxed text-[var(--ink-soft)]">
             Built for grown-ups who want a quiet puzzle — not a kids&apos; app, not a pop-up carnival.
           </p>
@@ -104,6 +111,22 @@ export default function AdultsPage() {
           of them as a pleasant habit for the mind rather than a cure for anything, and we will never
           make medical claims about them.
         </p>
+        <h2>What does the research say about puzzles and the brain?</h2>
+        <p>
+          The honest answer is that the evidence is mixed. Several observational studies have found
+          that people who do mentally stimulating activities — crosswords, puzzles, learning a new
+          hobby — may have a lower risk of cognitive decline. But, as the Alzheimer’s Society points
+          out, that kind of study cannot show the activity itself is the cause. Health organizations
+          are careful with their wording:
+        </p>
+        <Quote c={CITATIONS.niaCognitiveHealth} />
+        <Quote c={CITATIONS.alzSocBrainTraining} />
+        <p>
+          The National Institute on Aging also tells readers to <q cite={CITATIONS.niaBrainGames.url}>beware of claims that playing
+          certain computer and online games can improve your memory and thinking</q>. We agree, so we
+          offer word searches as a calm, absorbing way to spend a few minutes — not as brain training,
+          and not as a way to prevent dementia.
+        </p>
         <h2>A small daily habit</h2>
         <p>
           Many players treat the <Link href="/daily">daily word search</Link> like a morning
@@ -121,8 +144,9 @@ export default function AdultsPage() {
           <li><Link href="/large-print">Large print word search</Link> — easiest on the eyes</li>
         </ul>
       </Prose>
-      <Faq items={FAQ} heading="Word search for adults: common questions" />
-      <HubSchema name="Word search for adults" description={DESCRIPTION} path="/adults" image="/og/adults.jpg" />
+      <Faq items={FAQ} path="/adults" heading="Word search for adults: common questions" />
+      <Sources items={CITED} />
+      <HubSchema dates={DATES} name="Word search for adults" description={DESCRIPTION} path="/adults" image="/og/adults.jpg" citations={CITED} />
     </>
   );
 }

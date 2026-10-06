@@ -239,7 +239,7 @@ export default function PuzzleGrid({
           onPointerUp={onPointerUp}
           onPointerCancel={onPointerUp}
           className={`puzzle-board grid select-none touch-none p-1.5 sm:p-2 ${
-            largePrint ? "w-full max-w-2xl" : "w-full max-w-xl"
+            largePrint ? "is-lp w-full max-w-2xl" : "w-full max-w-xl"
           }`}
           style={{ gridTemplateColumns: `repeat(${size}, minmax(0, 1fr))` }}
         >
@@ -247,32 +247,24 @@ export default function PuzzleGrid({
             // display:contents keeps every cell a direct CSS-grid item while giving
             // assistive tech / crawlers a proper grid > row > gridcell structure.
             <div key={r} role="row" aria-rowindex={r + 1} className="contents">
-            {row.map((letter, c) => {
-              const k = `${r},${c}`;
-              const isFound = foundCells.has(k);
-              const isSel = selectionCells.has(k);
-              return (
-                <div
-                  key={k}
-                  role="gridcell"
-                  aria-colindex={c + 1}
-                  data-r={r}
-                  data-c={c}
-                  onPointerDown={(e) => onPointerDown(e, [r, c])}
-                  className={`puzzle-cell flex aspect-square cursor-pointer items-center justify-center uppercase transition-colors ${
-                    largePrint ? "text-2xl sm:text-4xl" : "text-base sm:text-xl"
-                  } ${
-                    isSel
-                      ? "bg-[var(--highlight)] text-[var(--ink)]"
-                      : isFound
-                        ? "bg-[var(--found)] text-[var(--moss)]"
-                        : "bg-transparent text-[var(--ink)]"
-                  }`}
-                >
-                  {letter}
-                </div>
-              );
-            })}
+              {row.map((letter, c) => {
+                const k = `${r},${c}`;
+                // Shared cell styles live in globals.css (.puzzle-cell) to keep the HTML small.
+                const state = selectionCells.has(k) ? " is-sel" : foundCells.has(k) ? " is-found" : "";
+                return (
+                  <div
+                    key={k}
+                    role="gridcell"
+                    aria-colindex={c + 1}
+                    data-r={r}
+                    data-c={c}
+                    onPointerDown={(e) => onPointerDown(e, [r, c])}
+                    className={`puzzle-cell${state}`}
+                  >
+                    {letter}
+                  </div>
+                );
+              })}
             </div>
           ))}
         </div>

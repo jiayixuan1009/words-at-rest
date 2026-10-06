@@ -13,7 +13,7 @@ import Picture from "@/components/Picture";
 import { THEME_EXTRA } from "@/lib/theme-content";
 import { clamp, seo, themeNoun } from "@/lib/seo";
 import { absoluteUrl } from "@/lib/site";
-import JsonLd from "@/components/JsonLd";
+import { themeDates } from "@/lib/content-dates";
 
 type Props = { params: Promise<{ theme: string }> };
 
@@ -59,6 +59,8 @@ export default async function ThemePage({ params }: Props) {
   const idx = all.findIndex((t) => t.id === theme.id);
   const others = [1, 2, 3].map((k) => all[(idx + k) % all.length]);
   const words = [...theme.words].sort();
+  const dates = themeDates(puzzles);
+  const pageUrl = absoluteUrl(`/themes/${theme.slug}`);
   return (
     <>
       <Breadcrumbs
@@ -70,7 +72,7 @@ export default async function ThemePage({ params }: Props) {
       <div className="mb-8 overflow-hidden rounded-sm border border-[#d4cbb8] sm:grid sm:grid-cols-[1.1fr_0.9fr]">
         <div className="flex flex-col justify-center p-6 sm:p-8">
           <h1 className="font-serif text-4xl tracking-tight">{theme.name} Word Search</h1>
-          <Byline />
+          <Byline dates={dates} />
           <p className="mt-4 max-w-2xl text-lg leading-relaxed text-[var(--ink-soft)]">{theme.description}</p>
         </div>
         <Picture
@@ -154,19 +156,22 @@ export default async function ThemePage({ params }: Props) {
         description={theme.description}
         path={`/themes/${theme.slug}`}
         image={themeOgImage(theme.slug)}
-      />
-      <JsonLd
-        data={{
-          "@context": "https://schema.org",
-          "@type": "ItemList",
-          name: `${theme.name} word search puzzles`,
-          itemListElement: puzzles.map((p, i) => ({
-            "@type": "ListItem",
-            position: i + 1,
-            name: p.title,
-            url: absoluteUrl(puzzlePath(p)),
-          })),
-        }}
+        dates={dates}
+        extra={{ mainEntity: { "@id": `${pageUrl}#itemlist` } }}
+        nodes={[
+          {
+            "@type": "ItemList",
+            "@id": `${pageUrl}#itemlist`,
+            name: `${theme.name} word search puzzles`,
+            numberOfItems: puzzles.length,
+            itemListElement: puzzles.map((p, i) => ({
+              "@type": "ListItem",
+              position: i + 1,
+              name: p.title,
+              url: absoluteUrl(puzzlePath(p)),
+            })),
+          },
+        ]}
       />
     </>
   );

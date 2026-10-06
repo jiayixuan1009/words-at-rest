@@ -6,10 +6,16 @@ import { ART } from "@/lib/images";
 import Prose from "@/components/Prose";
 import Byline from "@/components/Byline";
 import HubSchema from "@/components/HubSchema";
-import JsonLd from "@/components/JsonLd";
+import { routeDates } from "@/lib/content-dates";
+import Sources from "@/components/Sources";
+import { CITATIONS } from "@/lib/citations";
 import { getPuzzles, getThemes } from "@/lib/data";
 import { SITE } from "@/lib/site";
-import { editorSchema, seo } from "@/lib/seo";
+import { PERSON_ID, seo } from "@/lib/seo";
+
+const CITED = [CITATIONS.wcagContrast, CITATIONS.niaCognitiveHealth, CITATIONS.alzSocBrainTraining];
+
+const DATES = routeDates("/about");
 
 const DESCRIPTION =
   "Who makes Words at Rest: an independent site publishing calm, free word search puzzles for adults and seniors, edited by Reggie J. Our principles and how puzzles are made.";
@@ -28,7 +34,7 @@ export default function AboutPage() {
       <Breadcrumbs items={[{ name: "About", href: "/about" }]} />
       <Prose>
         <h1 className="text-4xl font-semibold tracking-tight">About Words at Rest</h1>
-        <Byline />
+        <Byline dates={DATES} />
         <Picture art={ART.aboutSpot} priority sizes="(min-width: 768px) 720px, 100vw" className="my-6 aspect-[3/2] w-full max-w-xl object-contain" />
         <p>
           Words at Rest is a small, independent puzzle site with one simple idea: word searches
@@ -91,7 +97,9 @@ export default function AboutPage() {
           </li>
           <li>
             <strong>Accessible.</strong> Large print, high contrast and clear, readable pages are a
-            priority, not an afterthought.
+            priority, not an afterthought. We use the W3C’s{" "}
+            <cite><a href={CITATIONS.wcagContrast.url} rel="noopener" target="_blank">WCAG contrast guidance</a></cite>{" "}
+            (at least 4.5:1 for normal text) as our yardstick.
           </li>
           <li>
             <strong>Free to play.</strong> No download and no account required. The site is
@@ -99,7 +107,12 @@ export default function AboutPage() {
           </li>
           <li>
             <strong>Honest.</strong> We describe word searches as an enjoyable pastime and make no
-            medical or brain-training claims.
+            medical or brain-training claims. That follows the evidence: the National Institute on
+            Aging says proof of a lasting cognitive benefit from activities like these{" "}
+            <q cite={CITATIONS.niaCognitiveHealth.url}>is not definitive</q>, and the{" "}
+            <cite><a href={CITATIONS.alzSocBrainTraining.url} rel="noopener" target="_blank">Alzheimer’s Society</a></cite>{" "}
+            finds no strong evidence that brain training reduces dementia risk. More in{" "}
+            <Link href="/adults">word search for adults</Link>.
           </li>
         </ul>
 
@@ -119,8 +132,16 @@ export default function AboutPage() {
           promptly and update the date at the top of the affected page.
         </p>
       </Prose>
-      <HubSchema type="AboutPage" name="About Words at Rest" description={DESCRIPTION} path="/about" />
-      <JsonLd data={editorSchema()} />
+      <Sources items={CITED} />
+      <HubSchema
+        dates={DATES}
+        type="AboutPage"
+        name="About Words at Rest"
+        description={DESCRIPTION}
+        path="/about"
+        citations={CITED}
+        extra={{ mainEntity: { "@id": PERSON_ID } }}
+      />
     </>
   );
 }

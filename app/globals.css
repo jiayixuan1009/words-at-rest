@@ -73,6 +73,17 @@
     font-family: "Courier New", Courier, ui-monospace, monospace;
     font-weight: 600;
     letter-spacing: 0.02em;
+    /* Shared cell styles live here (not as per-cell utility classes) to keep the HTML small. */
+    @apply flex aspect-square cursor-pointer items-center justify-center uppercase transition-colors text-base sm:text-xl bg-transparent text-[var(--ink)];
+  }
+  .puzzle-board.is-lp .puzzle-cell {
+    @apply text-2xl sm:text-4xl;
+  }
+  .puzzle-cell.is-found {
+    @apply bg-[var(--found)] text-[var(--moss)];
+  }
+  .puzzle-cell.is-sel {
+    @apply bg-[var(--highlight)] text-[var(--ink)];
   }
 
   .hero-band {
@@ -191,6 +202,22 @@
     font-family: "Courier New", Courier, ui-monospace, monospace;
     font-weight: 600;
   }
+  /* Preview-card letters: one shared rule instead of per-cell utility classes (lighter HTML). */
+  .mini-grid > span {
+    display: flex;
+    aspect-ratio: 1 / 1;
+    align-items: center;
+    justify-content: center;
+    line-height: 1;
+  }
+  .mini-grid > span.is-hint {
+    background-color: var(--highlight);
+  }
+
+  /* FAQ accordions (<details>): hide the native marker, rotate the plus. */
+  .faq-summary::-webkit-details-marker { display: none; }
+  .faq-chevron { transition: transform 0.15s; }
+  .faq-item[open] .faq-chevron { transform: rotate(45deg); }
 
   .soft-rule {
     border: none;

@@ -5,6 +5,7 @@ import PuzzleView from "@/components/PuzzleView";
 import Faq, { type FaqItem } from "@/components/Faq";
 import { currentDailyDate, formatLongDate, getDailyArchive, getDailyPuzzle } from "@/lib/data";
 import { seo } from "@/lib/seo";
+import { SITE } from "@/lib/site";
 import { ART } from "@/lib/images";
 import Picture from "@/components/Picture";
 
@@ -59,6 +60,7 @@ export default function DailyPage() {
         heading="Today’s Daily Word Search"
         intro={`Today’s puzzle is “${puzzle.title}”: ${puzzle.words.length} words in a ${puzzle.gridSize}×${puzzle.gridSize} grid. Find them at your own pace — a fresh grid arrives every day at midnight UTC.`}
         canonicalPath="/daily"
+        pageDates={{ published: SITE.dailyStart, modified: date }}
       />
       <section className="mt-10">
         <h2 className="text-xl font-semibold">Past daily puzzles</h2>
@@ -81,7 +83,7 @@ export default function DailyPage() {
           </ul>
         )}
       </section>
-      <Faq items={FAQ} heading="Daily word search: common questions" />
+      <Faq items={FAQ} heading="Daily word search: common questions" path="/daily" />
     </>
   );
 }

@@ -4,10 +4,13 @@ import ThemeCard from "@/components/ThemeCard";
 import Link from "next/link";
 import Byline from "@/components/Byline";
 import HubSchema from "@/components/HubSchema";
+import { datesFor } from "@/lib/content-dates";
 import { getPuzzles, getThemes } from "@/lib/data";
 import { seo } from "@/lib/seo";
 import { ART } from "@/lib/images";
 import Picture from "@/components/Picture";
+
+const DATES = datesFor("app/themes/page.tsx", "data/themes/index.ts");
 
 const DESCRIPTION =
   "Browse free word search puzzles by theme: Halloween, fall, Christmas, Bible, animals, ocean, garden, music, space, large print and more. Original word lists, playable online.";
@@ -26,7 +29,7 @@ export default function ThemesPage() {
       <Breadcrumbs items={[{ name: "Themes", href: "/themes" }]} />
       <Picture art={ART.themesBanner} priority sizes="(min-width: 1152px) 1088px, 100vw" className="mb-8 aspect-[16/5] w-full rounded-[3px] object-cover" />
       <h1 className="font-serif text-4xl tracking-tight sm:text-5xl">Word search themes</h1>
-      <Byline />
+      <Byline dates={DATES} />
       <p className="mt-4 max-w-2xl text-lg leading-relaxed text-[var(--ink-soft)]">
         {themes.length} themes and {total} free puzzles. Every theme has its own original word list
         and several puzzles across difficulty levels — written for adults, free of licensed
@@ -65,7 +68,7 @@ export default function ThemesPage() {
           decide what we make next.
         </p>
       </section>
-      <HubSchema type="CollectionPage" name="Word search themes" description={DESCRIPTION} path="/themes" />
+      <HubSchema dates={DATES} type="CollectionPage" name="Word search themes" description={DESCRIPTION} path="/themes" />
     </>
   );
 }

@@ -6,10 +6,17 @@ import Prose from "@/components/Prose";
 import Byline from "@/components/Byline";
 import Faq, { type FaqItem } from "@/components/Faq";
 import HubSchema from "@/components/HubSchema";
+import { routeDates } from "@/lib/content-dates";
 import { getLargePrintPuzzles } from "@/lib/data";
 import { ART } from "@/lib/images";
 import Picture from "@/components/Picture";
 import { seo } from "@/lib/seo";
+import Sources from "@/components/Sources";
+import { CITATIONS } from "@/lib/citations";
+
+const CITED = [CITATIONS.acbLargePrint, CITATIONS.wcagContrast, CITATIONS.wcagResizeText];
+
+const DATES = routeDates("/large-print");
 
 const DESCRIPTION =
   "Free large print word search puzzles for seniors and low vision: big letters, 9×9 grids, high contrast and no timer. Play online on phone, tablet or desktop.";
@@ -54,7 +61,7 @@ export default function LargePrintPage() {
         <div className="grid sm:grid-cols-2">
           <div className="flex flex-col justify-center bg-[#ebe4d6]/50 p-8 sm:p-10">
             <h1 className="font-serif text-4xl tracking-tight sm:text-5xl">Large print word search</h1>
-            <Byline />
+            <Byline dates={DATES} />
             <p className="mt-4 text-xl leading-relaxed text-[var(--ink-soft)]">
               Bigger letters, smaller 9×9 grids, strong contrast, and words that read only across or
               down. No timer — just a calm puzzle at your own pace.
@@ -112,9 +119,26 @@ export default function LargePrintPage() {
             </li>
             <li>
               <strong>Short, familiar words.</strong> Eight everyday words per puzzle — teapot,
-              meadow, kettle, birdsong — easy to recognise at a glance.
+              meadow, kettle, birdsong — easy to recognize at a glance.
             </li>
           </ul>
+          <h2>How big is “large print”?</h2>
+          <p>
+            For printed documents, the{" "}
+            <cite><a href={CITATIONS.acbLargePrint.url} rel="noopener" target="_blank">large print guidelines</a></cite>{" "}
+            of the American Council of the Blind set the base font at{" "}
+            <q cite={CITATIONS.acbLargePrint.url}>{CITATIONS.acbLargePrint.quote}</q>. On a screen, 18 point
+            is about 24 CSS pixels (the W3C’s accessibility guidance uses the same conversion). That is
+            where our large print grid letters start on a phone, and they grow to 36 pixels on tablets
+            and computers.
+          </p>
+          <p>
+            Contrast matters as much as size. The W3C’s{" "}
+            <cite><a href={CITATIONS.wcagContrast.url} rel="noopener" target="_blank">contrast guidance</a></cite>{" "}
+            notes that <q cite={CITATIONS.wcagContrast.url}>{CITATIONS.wcagContrast.quote}</q>, and sets a
+            minimum contrast ratio of 4.5:1 for normal text with that in mind. Our grid letters are dark
+            brown ink (#2c241b) on cream (#faf6ee), a ratio of about 14:1.
+          </p>
           <h2>Who are large print puzzles for?</h2>
           <p>
             Large print word searches suit seniors, people with low vision or tired eyes, anyone
@@ -132,6 +156,11 @@ export default function LargePrintPage() {
               on your hands.
             </li>
             <li>Take breaks. Progress is saved, so you can finish the puzzle later.</li>
+            <li>
+              Zoom in whenever you like. Web accessibility guidelines (WCAG 2.2) ask that{" "}
+              <q cite={CITATIONS.wcagResizeText.url}>{CITATIONS.wcagResizeText.quote.replace(/\.$/, "")}</q> —
+              browser zoom is the built-in way to do it.
+            </li>
           </ul>
           <p>
             Looking for a gentle next step? Try our{" "}
@@ -141,13 +170,15 @@ export default function LargePrintPage() {
           </p>
         </Prose>
       </div>
-      <Faq items={FAQ} heading="Large print word search: common questions" />
-      <HubSchema
+      <Sources items={CITED} />
+      <Faq items={FAQ} path="/large-print" heading="Large print word search: common questions" />
+      <HubSchema dates={DATES}
         type="CollectionPage"
         name="Large print word search"
         description={DESCRIPTION}
         path="/large-print"
         image="/og/large-print.jpg"
+        citations={CITED}
       />
     </>
   );

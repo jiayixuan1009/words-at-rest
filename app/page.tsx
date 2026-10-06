@@ -2,23 +2,25 @@ import Link from "next/link";
 import PuzzleCard from "@/components/PuzzleCard";
 import ThemeCard from "@/components/ThemeCard";
 import AdSlot from "@/components/AdSlot";
-import JsonLd from "@/components/JsonLd";
+import HubSchema from "@/components/HubSchema";
 import DifficultyTable from "@/components/DifficultyTable";
 import DailyPreview, { LauncherChips, LauncherCta } from "@/components/DailyLauncher";
 import Picture, { Ornament } from "@/components/Picture";
 import { currentDailyDate, getDailyPuzzle, getLargePrintPuzzles, getPuzzles, getTheme, getThemes } from "@/lib/data";
 import { ART, DIFFICULTY_ART } from "@/lib/images";
 import { SITE } from "@/lib/site";
-import { ORG_ID, WEBSITE_ID, seo } from "@/lib/seo";
+import { seo } from "@/lib/seo";
 import type { Theme } from "@/lib/types";
 
 export const dynamic = "force-dynamic";
 
+const HOME_DESC =
+  "Calm, free word search puzzles for adults and seniors. Large print, a new daily puzzle and seasonal themes — no download, no sign-up, no timer.";
+
 export const metadata = seo({
   title: "Free Large Print & Daily Word Search | Words at Rest",
   absoluteTitle: true,
-  description:
-    "Calm, free word search puzzles for adults and seniors. Large print, a new daily puzzle and seasonal themes — no download, no sign-up, no timer.",
+  description: HOME_DESC,
   path: "/",
   imageAlt: "Words at Rest — calm word search puzzles for adults",
 });
@@ -308,17 +310,12 @@ export default function HomePage() {
         </div>
       </section>
 
-      <JsonLd
-        data={{
-          "@context": "https://schema.org",
-          "@type": "WebSite",
-          "@id": WEBSITE_ID,
-          name: SITE.name,
-          url: SITE.url,
-          description: SITE.tagline,
-          inLanguage: "en",
-          publisher: { "@id": ORG_ID },
-        }}
+      <HubSchema
+        name="Free Large Print & Daily Word Search"
+        description={HOME_DESC}
+        path="/"
+        breadcrumb={false}
+        extra={{ about: { "@id": `${SITE.url}/#organization` } }}
       />
     </div>
   );

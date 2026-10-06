@@ -3,9 +3,11 @@ import PuzzleGrid from "./PuzzleGrid";
 import AdSlot from "./AdSlot";
 import JsonLd from "./JsonLd";
 import PuzzleCard from "./PuzzleCard";
+import Byline from "./Byline";
 import { getPuzzlesByTheme, getTheme } from "@/lib/data";
 import { absoluteUrl, SITE } from "@/lib/site";
-import { EDITOR_ID, ORG_ID, themeNoun } from "@/lib/seo";
+import { authorRef, ORG_ID, themeNoun, webPageNode } from "@/lib/seo";
+import { puzzleDates, type PageDates } from "@/lib/content-dates";
 import { themeOgImage } from "@/lib/images";
 import { THEME_EXTRA } from "@/lib/theme-content";
 import type { Puzzle } from "@/lib/types";
@@ -21,14 +23,21 @@ export default function PuzzleView({
   heading,
   intro,
   canonicalPath,
+  pageDates,
 }: {
   puzzle: Puzzle;
   heading?: string;
   intro?: string;
   canonicalPath: string;
+  /** Page dates (daily pages pass their calendar date); defaults to the puzzle file's git dates. */
+  pageDates?: PageDates;
 }) {
   const theme = getTheme(puzzle.themeId);
   const related = getPuzzlesByTheme(puzzle.themeId).filter((p) => p.id !== puzzle.id);
+  const gameDates = puzzleDates(puzzle);
+  const dates = pageDates ?? gameDates;
+  const url = absoluteUrl(canonicalPath);
+  const image = themeOgImage(puzzle.themeId);
   return (
     <article>
       <h1 className="text-3xl font-semibold tracking-tight text-stone-900 sm:text-4xl">
@@ -63,6 +72,7 @@ export default function PuzzleView({
             <strong className="text-stone-900">{theme.name} tip:</strong> {THEME_EXTRA[theme.slug].tip}
           </p>
         )}
+        <Byline dates={dates} />
       </section>
 
       <section className="mt-8">
@@ -99,26 +109,39 @@ export default function PuzzleView({
       <JsonLd
         data={{
           "@context": "https://schema.org",
-          "@type": "WebPage",
-          name: heading ?? puzzle.title,
-          url: absoluteUrl(canonicalPath),
-          isPartOf: { "@type": "WebSite", name: SITE.name, url: SITE.url },
-          about: theme?.primaryKeyword ?? puzzle.primaryKeyword,
-          primaryImageOfPage: { "@type": "ImageObject", url: absoluteUrl(themeOgImage(puzzle.themeId)) },
-          publisher: { "@id": ORG_ID },
-          mainEntity: {
-            "@type": "Game",
-            name: puzzle.title,
-            genre: "Word search puzzle",
-            description: `${puzzle.words.length} words in a ${puzzle.gridSize}×${puzzle.gridSize} grid (${puzzle.largePrint ? "large print" : puzzle.difficulty}).`,
-            image: absoluteUrl(themeOgImage(puzzle.themeId)),
-            inLanguage: "en",
-            audience: { "@type": "PeopleAudience", suggestedMinAge: 13 },
-            isAccessibleForFree: true,
-            author: { "@type": "Person", "@id": EDITOR_ID, name: SITE.editor.name },
-            publisher: { "@id": ORG_ID },
-            dateCreated: puzzle.createdAt,
-          },
+          "@graph": [
+            webPageNode({
+              type: "ItemPage",
+              name: heading ?? puzzle.title,
+              path: canonicalPath,
+              image,
+              dates,
+              extra: {
+                breadcrumb: { "@id": `${url}#breadcrumb` },
+                about: theme?.primaryKeyword ?? puzzle.primaryKeyword,
+                mainEntity: { "@id": `${url}#game` },
+              },
+            }),
+            {
+              "@type": "Game",
+              "@id": `${url}#game`,
+              name: puzzle.title,
+              url,
+              genre: "Word search puzzle",
+              description: `${puzzle.words.length} words in a ${puzzle.gridSize}×${puzzle.gridSize} grid (${puzzle.largePrint ? "large print" : puzzle.difficulty}).`,
+              keywords: puzzle.words.map((w) => w.toLowerCase()).join(", "),
+              image: absoluteUrl(image),
+              inLanguage: SITE.language,
+              audience: { "@type": "PeopleAudience", suggestedMinAge: 13 },
+              isAccessibleForFree: true,
+              author: authorRef(),
+              publisher: { "@id": ORG_ID },
+              mainEntityOfPage: { "@id": `${url}#webpage` },
+              dateCreated: gameDates.published,
+              datePublished: gameDates.published,
+              dateModified: gameDates.modified,
+            },
+          ],
         }}
       />
     </article>

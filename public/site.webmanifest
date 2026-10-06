@@ -1,5 +1,7 @@
 {
   "name": "Words at Rest",
+  "lang": "en-US",
+  "dir": "ltr",
   "short_name": "Words at Rest",
   "description": "Calm, free word search puzzles for adults — large print, daily and seasonal.",
   "start_url": "/",

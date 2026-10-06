@@ -7,10 +7,16 @@ import Byline from "@/components/Byline";
 import DifficultyTable from "@/components/DifficultyTable";
 import Faq, { type FaqItem } from "@/components/Faq";
 import HubSchema from "@/components/HubSchema";
+import { routeDates } from "@/lib/content-dates";
 import { ART } from "@/lib/images";
 import Picture from "@/components/Picture";
 import { absoluteUrl } from "@/lib/site";
 import { seo } from "@/lib/seo";
+import { CITATIONS } from "@/lib/citations";
+
+const CITED = [CITATIONS.wcagResizeText];
+
+const DATES = routeDates("/how-to-play");
 
 const DESCRIPTION =
   "How to play word search online: what a word search is, how to select words by dragging or tapping, difficulty levels compared, large print, and simple solving tips.";
@@ -66,7 +72,7 @@ export default function HowToPlayPage() {
       </div>
       <Prose>
         <h1 className="font-serif text-4xl tracking-tight">How to play word search online</h1>
-        <Byline />
+        <Byline dates={DATES} />
         <h2>What is a word search?</h2>
         <p id="definition" className="definition rounded-sm border-l-4 border-[var(--moss)] bg-[#ebe4d6]/50 py-3 pl-4">
           <strong className="text-[var(--ink)]">A word search</strong> is a puzzle made of a square
@@ -77,7 +83,7 @@ export default function HowToPlayPage() {
         <p>
           Word searches are sometimes called word finds, word seeks or wordsearch puzzles. They need
           no special knowledge — if you can read the list, you can solve the puzzle — which is why
-          they are a favourite for quiet breaks, waiting rooms and family tables. Online, the grid
+          they are a favorite for quiet breaks, waiting rooms and family tables. Online, the grid
           marks words for you, so there is no pencil to lose.
         </p>
 
@@ -129,6 +135,11 @@ export default function HowToPlayPage() {
           the most comfortable experience, our <Link href="/large-print">large print puzzles</Link>{" "}
           use a smaller 9×9 grid and only eight words.
         </p>
+        <p>
+          Zooming is exactly what browsers are designed for: the W3C’s{" "}
+          <cite><a href={CITATIONS.wcagResizeText.url} rel="noopener" target="_blank">Web Content Accessibility Guidelines</a></cite>{" "}
+          ask that <q cite={CITATIONS.wcagResizeText.url}>{CITATIONS.wcagResizeText.quote.replace(/\.$/, "")}</q>.
+        </p>
 
         <h2>Solving tips</h2>
         <ul>
@@ -144,7 +155,7 @@ export default function HowToPlayPage() {
           <Link href="/themes">all themes</Link>.
         </p>
       </Prose>
-      <Faq items={FAQ} heading="How to play: frequently asked questions" />
+      <Faq items={FAQ} path="/how-to-play" heading="How to play: frequently asked questions" />
       <JsonLd
         data={{
           "@context": "https://schema.org",
@@ -157,12 +168,12 @@ export default function HowToPlayPage() {
           step: STEPS.map((s, i) => ({ "@type": "HowToStep", position: i + 1, name: s.name, text: s.text })),
         }}
       />
-      <HubSchema
+      <HubSchema dates={DATES}
         name="How to play word search online"
         description={DESCRIPTION}
         path="/how-to-play"
         image="/og/how-to-play.jpg"
-        speakable={["#definition", ".faq-answer"]}
+        citations={CITED}
       />
     </>
   );

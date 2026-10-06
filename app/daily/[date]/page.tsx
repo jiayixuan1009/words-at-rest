@@ -40,6 +40,7 @@ export default async function DailyArchivePage({ params }: Props) {
         heading={`Daily Word Search — ${long}`}
         intro={`The daily puzzle for ${long}: “${puzzle.title}”. ${puzzle.words.length} words, ${puzzle.gridSize}×${puzzle.gridSize} grid.`}
         canonicalPath={`/daily/${date}`}
+        pageDates={{ published: date, modified: date }}
       />
       <p className="mt-8">
         <Link href="/daily">← Back to today&apos;s puzzle</Link>

@@ -8,9 +8,12 @@ import PuzzleCard from "@/components/PuzzleCard";
 import Byline from "@/components/Byline";
 import DifficultyTable from "@/components/DifficultyTable";
 import HubSchema from "@/components/HubSchema";
+import { datesFor } from "@/lib/content-dates";
 import { getPuzzlesByDifficulty, isDifficulty } from "@/lib/data";
 import { clamp, seo } from "@/lib/seo";
 import { DIFFICULTIES, type Difficulty } from "@/lib/types";
+
+const DATES = datesFor("app/difficulty/[level]/page.tsx");
 
 type Props = { params: Promise<{ level: string }> };
 
@@ -97,7 +100,7 @@ export default async function DifficultyPage({ params }: Props) {
             <Picture art={DIFFICULTY_ART[level].badge} decorative priority className="h-14 w-14" />
             <h1 className="font-serif text-4xl font-semibold tracking-tight sm:text-5xl">{c.h1}</h1>
           </div>
-          <Byline />
+          <Byline dates={DATES} />
           <p className="mt-4 max-w-3xl text-lg text-stone-700">{c.intro}</p>
         </div>
         <Picture art={DIFFICULTY_ART[level].image} priority sizes="(min-width: 1024px) 480px, 100vw" className="aspect-[2/1] w-full rounded-[3px] border border-[#d4cbb8] object-cover" />
@@ -142,7 +145,7 @@ export default async function DifficultyPage({ params }: Props) {
         <span className="mx-3 text-stone-400">·</span>
         <Link href="/how-to-play">How to play</Link>
       </p>
-      <HubSchema
+      <HubSchema dates={DATES}
         type="CollectionPage"
         name={c.h1}
         description={c.intro}

@@ -5,8 +5,11 @@ import Picture from "@/components/Picture";
 import { ART } from "@/lib/images";
 import Prose from "@/components/Prose";
 import HubSchema from "@/components/HubSchema";
+import { routeDates } from "@/lib/content-dates";
 import { SITE } from "@/lib/site";
 import { seo } from "@/lib/seo";
+
+const DATES = routeDates("/contact");
 
 const DESCRIPTION =
   "Contact Words at Rest by email with puzzle feedback, typo reports, theme ideas, accessibility issues, privacy requests or copyright concerns. We reply within a few business days.";
@@ -61,7 +64,7 @@ export default function ContactPage() {
           you do not need to share.
         </p>
       </Prose>
-      <HubSchema type="ContactPage" name="Contact Words at Rest" description={DESCRIPTION} path="/contact" />
+      <HubSchema dates={DATES} type="ContactPage" name="Contact Words at Rest" description={DESCRIPTION} path="/contact" />
     </>
   );
 }
