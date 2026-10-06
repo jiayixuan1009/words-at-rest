@@ -15,6 +15,7 @@
 - HTTP回归：检查SSR head标签、未来/无效日期404和noindex、robots与sitemap；移动指针只处理当前被捕获的指针。
 - 测量参数：各游戏事件携带grid_mode与入口路径，page_view保留真实URL的UTM参数以支持来源归因。
 - 整改状态与证据写入 `docs/AUDIT-REMEDIATION.md`，同步工作区问题列表；明确区分已实现、待部署及账户/广告/性能待验收项。
+- 发布状态：GitHub集成写入返回403；代码保留本地修复分支并导出补丁，未创建PR、未合并或部署。
 - F14：主题目录分为Seasonal、Anytime与Large print/Challenge packs，提供锚点跳转，保持所有主题的可抓取链接；手机隐藏目录装饰图。
 - 发布前置：`predeploy`执行Daily缓冲与回归测试；无障碍声明同步键盘与朗读能力，保留NVDA/VoiceOver/TalkBack未验收说明；Daily运维说明禁止替换已公开题目。
 - 回归验证：新增真实选词/路径迁移/方向限制与全题库检查，Daily测试改为直接调用实现（tsx开发依赖）；仅已同意的事件可等待GA初始化，拒绝/撤回会清空队列，未授权游戏行为不回填。
