@@ -98,8 +98,6 @@ const THEME_MOTIF: Record<string, string> = {
 };
 
 /** Theme slug → 1200×900 painted cover (with a 640w variant).
- *  Bible currently reuses a calm desk/book stand-in at public/images/themes/bible.webp
- *  until the dedicated cover from design/BIBLE-IMAGE-REQUEST.md lands — swap that path only.
  */
 export function themeArt(slug: string, themeName: string): Art {
   const src = `/images/themes/${slug}.webp`;
