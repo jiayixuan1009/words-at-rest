@@ -15,12 +15,16 @@ import { SITE } from "@/lib/site";
  * Accessibility statement. Keep every line TRUE to the current code — this page
  * was written from measured behavior on 2026-10-06 (Playwright, 390px + 1280px):
  * - Grid cells are not focusable and have no key handlers → no keyboard selection.
- * - Grid cells stay square at every size. On a 390px phone: easy 34px, medium 29px,
- *   hard 23px, large print puzzles 38px.
- * - Grid letters are bold sans sized to the square (0.62×, 14–30px; Large print 0.75×, 16–44px).
- *   390px phone: easy 21px, medium 18px, hard 14px; Large print on: 26 / 21.5 / 17px;
- *   large print puzzles 29px. 1280px: easy 30, medium 29, hard 23px; Large print 44 / 41 / 33px.
- * - Word list 18px (20px on desktop), 24px with Large print. Puzzle buttons + menu ≥44px tall.
+ * - "Grid size: Standard | Larger" (one site-wide setting, localStorage "war:gridSize",
+ *   applied before first paint). Large print puzzles open in Larger unless Standard was chosen.
+ * - Grid cells stay square. 390px phone, Standard: easy 34px, medium 29px, hard 23px,
+ *   large print puzzles 38px. Larger (grid edge to edge): 37 / 31 / 25px, large print 41px.
+ * - Grid letters (bold sans, sized to the square). Standard 0.62× (14–30px): 390px easy 21,
+ *   medium 18, hard 14px; 1280px 30 / 29 / 23px. Larger 0.78× (16–52px, never above 0.84× the
+ *   square): 390px 29 / 24 / 19px; 1280px 52 / 46.5 / 37px; 320px hard 16px. Large print
+ *   puzzles: 390px 24px (Standard) / 32px (Larger); 1280px 30 / 52px.
+ * - Word list 18px (20px on desktop); Larger 24px, below the grid. Grid size buttons, Reset
+ *   and menu links ≥44px tall.
  * - Contrast on the paper background (#f4efe6): ink 13.3:1, secondary text (#4f473d) 8.0:1,
  *   links 6.7:1, crossed-out found words (#736452, still struck through) 5.0:1.
  * - No horizontal scrolling at 320px or 640px wide (≈ 400% / 200% zoom of 1280px).
@@ -32,7 +36,7 @@ const CITED = [CITATIONS.wcagContrast, CITATIONS.wcagResizeText];
 const DATES = routeDates("/accessibility");
 
 const DESCRIPTION =
-  "Accessibility statement for Words at Rest: large print mode, text size, contrast, keyboard and screen reader support, mobile tap targets, known issues, and how to report a problem.";
+  "Accessibility statement for Words at Rest: grid size and large print, text size, contrast, keyboard and screen reader support, mobile tap targets, known issues, and how to report a problem.";
 
 export const metadata: Metadata = seo({
   title: "Accessibility Statement",
@@ -66,20 +70,30 @@ export default function AccessibilityPage() {
           does not fully meet that goal yet; the known gaps are listed below.
         </p>
 
-        <h2 id="large-print">Large print</h2>
+        <h2 id="large-print">Grid size and large print</h2>
         <ul>
           <li>
-            Every puzzle has a <strong>Large print</strong> button above the grid. Grid letters are
-            always sized to fit their square; Large print makes them bigger still. On larger screens
-            the grid also gets wider, so letters grow by about 40–50% (on a hard puzzle, 23px to
-            33px). On a phone the grid is already as wide as the screen, so letters grow by about a
-            fifth (on a hard puzzle, 14px to 17px). It also enlarges the word list from 18px to 24px.
-            Your choice is remembered in your browser.
+            Every puzzle has a <strong>Grid size</strong> switch above the grid with two settings,{" "}
+            <strong>Standard</strong> and <strong>Larger</strong>. Larger makes the squares and
+            letters bigger and gives the grid more room: on a phone it stretches to the edges of the
+            screen, and on a computer it grows up to about 736 pixels wide, with the word list moved
+            below it in bigger type (24px). Letters always fit inside their squares.
           </li>
           <li>
-            We also publish {lpCount} dedicated <Link href="/large-print">large print puzzles</Link>:
-            a smaller 9×9 grid with eight words that read only across or down, with letters about
-            29px tall on a typical phone and up to 44px on a larger screen.
+            On a typical 390-pixel-wide phone, letters go from 21px to 29px on easy puzzles, 18px to
+            24px on medium and 14px to 19px on hard. On a laptop they go from 30px to 52px on easy,
+            29px to 46px on medium and 23px to 37px on hard.
+          </li>
+          <li>
+            The setting applies to every puzzle on the site and is remembered in your browser, so
+            puzzles open at your chosen size straight away. It changes only the puzzle grid and word
+            list; to make all text bigger, use your browser’s zoom or text-size setting.
+          </li>
+          <li>
+            We also publish {lpCount} <Link href="/large-print">large print puzzles</Link>: a
+            smaller 9×9 grid with eight words that read only across or down. They open in the Larger
+            grid size unless you have chosen Standard, with letters about 32px tall on a typical
+            phone and up to 52px on a larger screen.
           </li>
         </ul>
 
@@ -103,7 +117,7 @@ export default function AccessibilityPage() {
 
         <h2 id="keyboard">Keyboard</h2>
         <p>
-          All links and buttons — the main menu, the Large print and Reset buttons, and the footer —
+          All links and buttons — the main menu, the Grid size and Reset buttons, and the footer —
           can be reached with the Tab key and show a clear orange focus outline. A “Skip to
           content” link appears on the first Tab press.
         </p>
@@ -125,16 +139,17 @@ export default function AccessibilityPage() {
 
         <h2 id="touch">Phones and tap targets</h2>
         <ul>
-          <li>Main menu links and the Large print and Reset buttons are at least 44 pixels tall.</li>
+          <li>Main menu links and the Grid size and Reset buttons are at least 44 pixels tall.</li>
           <li>
             You can tap the first letter and then the last letter of a word instead of dragging,
             which is easier with a shaky hand or a small screen.
           </li>
           <li>
             Grid letters are smaller than that on a phone. On a typical 390-pixel-wide phone a
-            letter square is about 34px on easy puzzles, 29px on medium and 23px on hard. If that is
-            too small, try a <Link href="/large-print">large print puzzle</Link> (about 38px), an
-            easy puzzle, or a tablet.
+            letter square is about 34px on easy puzzles, 29px on medium and 23px on hard (37px, 31px
+            and 25px with the Larger grid size). If that is too small, try a{" "}
+            <Link href="/large-print">large print puzzle</Link> (about 41px with Larger), an easy
+            puzzle, or a tablet.
           </li>
           <li>Nothing flashes, there is no sound, and there are no countdown timers.</li>
         </ul>

@@ -55,9 +55,21 @@ export const viewport: Viewport = {
   initialScale: 1,
 };
 
+/**
+ * Grid size preference (Standard | Larger), applied before first paint so puzzles open at the
+ * chosen size with no flash or layout shift. Reads localStorage only; nothing is sent anywhere.
+ * Migrates the old per-device "war:largePrint" toggle ("1" → larger, "0" → standard).
+ * Server HTML is identical for everyone (no attribute = Standard; see globals.css "Grid size").
+ */
+const GRID_SIZE_SCRIPT = `try{var s=localStorage.getItem("war:gridSize");if(!s){var l=localStorage.getItem("war:largePrint");s=l==="1"?"larger":l==="0"?"standard":""}if(s==="larger"||s==="standard")document.documentElement.setAttribute("data-grid-size",s)}catch(e){}`;
+
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
-    <html lang={SITE.language}>
+    // suppressHydrationWarning: data-grid-size is added by the head script before React hydrates.
+    <html lang={SITE.language} suppressHydrationWarning>
+      <head>
+        <script dangerouslySetInnerHTML={{ __html: GRID_SIZE_SCRIPT }} />
+      </head>
       <body className="flex min-h-screen flex-col text-[var(--ink)]">
         <a href="#main" className="sr-only focus:not-sr-only focus:absolute focus:left-4 focus:top-4 focus:z-50 focus:rounded-md focus:bg-white focus:p-3">
           Skip to content

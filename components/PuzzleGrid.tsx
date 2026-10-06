@@ -7,6 +7,12 @@
  *
  * Interaction: drag across a word, or tap the first letter then the last letter.
  * Progress is saved in localStorage (per puzzle id). No timer by design (Calm Mode).
+ *
+ * Grid size (Standard | Larger) is one site-wide preference, not per puzzle. It is stored in
+ * localStorage ("war:gridSize") and applied before first paint by the inline script in
+ * app/layout.tsx as <html data-grid-size="…">, so all size/layout styling is pure CSS
+ * (globals.css, "Grid size") and nothing shifts after hydration. With no stored choice,
+ * Large print puzzles (data-lp-default) open in Larger and everything else in Standard.
  */
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { lineCells, placementCells } from "@/lib/engine";
@@ -20,8 +26,12 @@ export interface PuzzleGridProps {
   grid: string[][];
   words: string[];
   placements: Placement[];
+  /** Large print puzzles open in the Larger grid unless the visitor has chosen Standard. */
   defaultLargePrint?: boolean;
 }
+
+type GridSize = "standard" | "larger";
+const GRID_SIZE_KEY = "war:gridSize";
 
 export default function PuzzleGrid({
   puzzleId,
@@ -42,7 +52,8 @@ export default function PuzzleGrid({
   const longestWord = targetWords.reduce((m, w) => Math.max(m, w.length), 0);
 
   const [found, setFound] = useState<Set<string>>(() => new Set());
-  const [largePrint, setLargePrint] = useState(defaultLargePrint);
+  // Only drives aria-pressed; the visual state comes from CSS on <html data-grid-size>.
+  const [gridSize, setGridSize] = useState<GridSize>(defaultLargePrint ? "larger" : "standard");
   const [dragStart, setDragStart] = useState<Cell | null>(null);
   const [hover, setHover] = useState<Cell | null>(null);
   const [pending, setPending] = useState<Cell | null>(null);
@@ -59,12 +70,12 @@ export default function PuzzleGrid({
         const allowed = new Set(targetWords);
         setFound(new Set(saved.filter((w) => allowed.has(w))));
       }
-      const lp = localStorage.getItem("war:largePrint");
-      if (lp !== null && !defaultLargePrint) setLargePrint(lp === "1");
     } catch {
       /* storage unavailable — play without saving */
     }
-  }, [storageKey, defaultLargePrint, targetWords]);
+    const chosen = document.documentElement.dataset.gridSize;
+    if (chosen === "standard" || chosen === "larger") setGridSize(chosen);
+  }, [storageKey, targetWords]);
 
   const persist = useCallback(
     (next: Set<string>) => {
@@ -195,30 +206,43 @@ export default function PuzzleGrid({
     setMessage("Progress cleared.");
   };
 
-  const toggleLargePrint = () => {
-    setLargePrint((v) => {
-      try {
-        localStorage.setItem("war:largePrint", v ? "0" : "1");
-      } catch {
-        /* ignore */
-      }
-      return !v;
-    });
+  const chooseGridSize = (next: GridSize) => {
+    document.documentElement.dataset.gridSize = next;
+    setGridSize(next);
+    try {
+      localStorage.setItem(GRID_SIZE_KEY, next);
+      localStorage.removeItem("war:largePrint"); // legacy per-device toggle, migrated in layout.tsx
+    } catch {
+      /* ignore — the choice still applies until the page is closed */
+    }
   };
 
   const complete = found.size === targetCount && targetCount > 0;
 
   return (
-    <section aria-label="Word search puzzle" className="space-y-4">
-      <div className="flex flex-wrap items-center gap-3 font-sans text-[1.0625rem]">
-        <button
-          type="button"
-          onClick={toggleLargePrint}
-          aria-pressed={largePrint}
-          className="min-h-11 rounded-full border border-[#b8a990] px-4 py-2 font-medium hover:bg-[#ebe4d6]/60"
-        >
-          {largePrint ? "Standard print" : "Large print"}
-        </button>
+    <section
+      aria-label="Word search puzzle"
+      className="puzzle-ui space-y-4"
+      data-lp-default={defaultLargePrint ? "" : undefined}
+    >
+      <div className="flex flex-wrap items-center gap-x-3 gap-y-2 font-sans text-[1.0625rem]">
+        <div role="group" aria-label="Grid size" className="inline-flex items-center gap-2">
+          <span aria-hidden="true" className="text-[var(--ink-soft)]">Grid size</span>
+          <span className="grid-size">
+            {(["standard", "larger"] as const).map((s) => (
+              <button
+                key={s}
+                type="button"
+                data-size={s}
+                aria-pressed={gridSize === s}
+                onClick={() => chooseGridSize(s)}
+                className="grid-size__btn"
+              >
+                {s === "standard" ? "Standard" : "Larger"}
+              </button>
+            ))}
+          </span>
+        </div>
         <button
           type="button"
           onClick={reset}
@@ -231,7 +255,7 @@ export default function PuzzleGrid({
         </span>
       </div>
 
-      <div className="flex flex-col gap-6 lg:flex-row lg:items-start">
+      <div className="puzzle-layout flex flex-col gap-6 lg:flex-row lg:items-start">
         <div
           ref={gridRef}
           role="grid"
@@ -239,9 +263,7 @@ export default function PuzzleGrid({
           onPointerMove={onPointerMove}
           onPointerUp={onPointerUp}
           onPointerCancel={onPointerUp}
-          className={`puzzle-board grid select-none touch-none p-1.5 sm:p-2 ${
-            largePrint ? "is-lp w-full max-w-2xl" : "w-full max-w-xl"
-          }`}
+          className="puzzle-board grid w-full max-w-xl select-none touch-none p-1.5 sm:p-2"
           style={{ gridTemplateColumns: `repeat(${size}, minmax(0, 1fr))`, ["--n" as string]: size }}
         >
           {grid.map((row, r) => (
@@ -270,10 +292,10 @@ export default function PuzzleGrid({
           ))}
         </div>
 
-        <div className="min-w-48">
-          <h2 className={`mb-2 font-semibold ${largePrint ? "text-2xl" : "text-xl"}`}>Words to find</h2>
+        <div className="word-panel min-w-48">
+          <h2 className="mb-2 text-xl font-semibold">Words to find</h2>
           <ul
-            className={`word-list grid gap-x-6 gap-y-1 [overflow-wrap:anywhere] lg:grid-cols-1 ${largePrint ? "text-2xl" : "text-[1.125rem] leading-snug lg:text-[1.25rem]"}`}
+            className="word-list grid gap-x-6 gap-y-1 text-[1.125rem] leading-snug [overflow-wrap:anywhere] lg:grid-cols-1 lg:text-[1.25rem]"
             style={{ ["--wl" as string]: longestWord }}
           >
             {targetWords.map((w) => (

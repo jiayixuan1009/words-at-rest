@@ -152,7 +152,7 @@ export default async function CalendarMonthPage({ params }: Props) {
           <thead>
             <tr>
               {WEEKDAYS.map((w) => (
-                <th key={w} scope="col" className="border-b border-[#d4cbb8] px-2 py-2 text-base font-semibold text-stone-600">
+                <th key={w} scope="col" className="border-b border-[#d4cbb8] px-2 py-2 text-base font-semibold text-[var(--ink-soft)]">
                   {w}
                 </th>
               ))}
@@ -195,7 +195,7 @@ export default async function CalendarMonthPage({ params }: Props) {
                         <span className="mt-0.5 text-[0.9375rem] leading-snug text-stone-700">
                           {theme?.name ?? puzzle.themeId}
                         </span>
-                        <span className="text-sm capitalize text-stone-500">{puzzle.difficulty}</span>
+                        <span className="text-sm capitalize text-[var(--ink-soft)]">{puzzle.difficulty}</span>
                       </Link>
                     </td>
                   );

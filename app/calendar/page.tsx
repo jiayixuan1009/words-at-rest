@@ -89,7 +89,7 @@ function MonthGrid({ ym, today }: { ym: string; today: string }) {
           <thead>
             <tr>
               {WEEKDAYS.map((w) => (
-                <th key={w} scope="col" className="border-b border-[#d4cbb8] px-2 py-2 text-base font-semibold text-stone-600">
+                <th key={w} scope="col" className="border-b border-[#d4cbb8] px-2 py-2 text-base font-semibold text-[var(--ink-soft)]">
                   {w}
                 </th>
               ))}
@@ -132,7 +132,7 @@ function MonthGrid({ ym, today }: { ym: string; today: string }) {
                         <span className="mt-0.5 text-[0.9375rem] leading-snug text-stone-700">
                           {theme?.name ?? puzzle.themeId}
                         </span>
-                        <span className="text-sm capitalize text-stone-500">{puzzle.difficulty}</span>
+                        <span className="text-sm capitalize text-[var(--ink-soft)]">{puzzle.difficulty}</span>
                       </Link>
                     </td>
                   );
@@ -221,7 +221,7 @@ function WhatsNew({ today }: { today: string }) {
         midnight UTC.
       </p>
       {items.length === 0 ? (
-        <p className="mt-4 text-base text-stone-600">No daily puzzles yet.</p>
+        <p className="mt-4 text-base text-[var(--ink-soft)]">No daily puzzles yet.</p>
       ) : (
         <ol className="mt-4 space-y-2">
           {items.map((item) => {
@@ -237,7 +237,7 @@ function WhatsNew({ today }: { today: string }) {
                   </span>
                   <span className="mt-1 text-[1rem] text-stone-700 sm:mt-0 sm:text-right">
                     {item.title}
-                    <span className="mt-0.5 block text-sm capitalize text-stone-500 sm:mt-0 sm:inline sm:before:content-['·_']">
+                    <span className="mt-0.5 block text-sm capitalize text-[var(--ink-soft)] sm:mt-0 sm:inline sm:before:content-['·_']">
                       {theme?.name ?? item.themeId} · {item.difficulty}
                     </span>
                   </span>
@@ -307,7 +307,7 @@ export default function CalendarPage() {
       </p>
       <MonthGrid ym={ym} today={today} />
       <WhatsNew today={today} />
-      <p className="mt-10 text-base text-stone-600">
+      <p className="mt-10 text-base text-[var(--ink-soft)]">
         Difficulty by weekday (UTC): Sunday, Monday and Wednesday easy; Tuesday, Thursday and Friday
         medium; Saturday hard.
       </p>

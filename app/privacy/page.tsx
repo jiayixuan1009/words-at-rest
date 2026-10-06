@@ -77,7 +77,7 @@ export default function PrivacyPage() {
         <ul>
           <li>
             <strong>Information stored only on your device.</strong> Puzzle progress (which words you
-            have found) and your large-print preference are saved in your browser’s{" "}
+            have found) and your grid size preference (Standard or Larger) are saved in your browser’s{" "}
             <code>localStorage</code>. That data stays on your device; we do not receive or sync it
             to our servers.
           </li>
@@ -103,7 +103,7 @@ export default function PrivacyPage() {
           We and our partners may use cookies, local storage, pixels and similar technologies to:
         </p>
         <ul>
-          <li>Remember preferences (for example large print) on your device;</li>
+          <li>Remember preferences (for example the puzzle grid size) on your device;</li>
           <li>Understand how the Site is used (Google Analytics 4);</li>
           <li>Serve, personalize and measure advertising (when AdSense or similar is enabled).</li>
         </ul>

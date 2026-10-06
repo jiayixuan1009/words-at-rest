@@ -77,7 +77,8 @@
 
   /*
    * Grid letters: bold, wide-aperture sans sized to the cell. --n (letters per row) is set
-   * inline on the board. 0.62 × cell width (14–30px at default text size); Large print 0.75 × (16–44px).
+   * inline on the board. Standard: 0.62 × cell width (14–30px at default text size).
+   * The Larger grid size overrides this below ("Grid size").
    * min-height: 0 + line-height: 1 keep every cell square on phones at all grid sizes.
    */
   .puzzle-cell {
@@ -92,16 +93,10 @@
     /* Shared cell styles live here (not as per-cell utility classes) to keep the HTML small. */
     @apply flex aspect-square cursor-pointer items-center justify-center uppercase transition-colors bg-transparent text-[var(--ink)];
   }
-  .puzzle-board.is-lp .puzzle-cell {
-    font-size: clamp(1rem, calc(100cqi / var(--n, 10) * 0.75), 2.75rem);
-  }
   /* Browsers without container units (pre-2023): estimate the board width from the viewport. */
   @supports not (width: 1cqi) {
     .puzzle-cell {
       font-size: clamp(0.875rem, calc(min(100vw - 2rem, 36rem) / var(--n, 10) * 0.62), 1.875rem);
-    }
-    .puzzle-board.is-lp .puzzle-cell {
-      font-size: clamp(1rem, calc(min(100vw - 2rem, 42rem) / var(--n, 10) * 0.75), 2.75rem);
     }
   }
   /*
@@ -389,6 +384,101 @@
     .home-launcher__hero {
       /* sits in the top-right cell; preview overlaps from below */
     }
+  }
+}
+
+/*
+ * Grid size: Standard (default) | Larger — one site-wide preference.
+ * <html data-grid-size> is set before first paint by the inline script in app/layout.tsx.
+ * Larger applies when the visitor chose it, or on Large print puzzles ([data-lp-default])
+ * unless they chose Standard. Unlayered on purpose so it overrides the Tailwind utilities
+ * used for the Standard layout (max-w-xl, lg:flex-row, lg:grid-cols-1, text sizes).
+ *
+ * Larger design: the board fills the screen width on phones (edge to edge) and up to
+ * 46rem (never taller than the window) on larger screens; the word list moves below the
+ * grid in bigger type; letters are 0.78 × the cell (16–52px) but never above 0.84 × the
+ * cell, so they always fit; grid lines and the found highlight are stronger.
+ */
+.grid-size {
+  display: inline-flex;
+  border: 1px solid #b8a990;
+  border-radius: 999px;
+  padding: 2px;
+  background: rgba(250, 246, 238, 0.7);
+}
+.grid-size__btn {
+  min-height: 44px;
+  min-width: 44px;
+  padding: 0.4rem 0.95rem;
+  border-radius: 999px;
+  font-weight: 600;
+  color: var(--ink-soft);
+  background: transparent;
+  cursor: pointer;
+}
+.grid-size__btn:hover {
+  color: var(--ink);
+  background: rgba(235, 228, 214, 0.8);
+}
+/* Selected segment (Standard by default). */
+.grid-size__btn[data-size="standard"],
+:is(html[data-grid-size="larger"] .puzzle-ui, html:not([data-grid-size="standard"]) .puzzle-ui[data-lp-default]) .grid-size__btn[data-size="larger"] {
+  background: var(--moss);
+  color: #faf6ee;
+}
+:is(html[data-grid-size="larger"] .puzzle-ui, html:not([data-grid-size="standard"]) .puzzle-ui[data-lp-default]) .grid-size__btn[data-size="standard"] {
+  background: transparent;
+  color: var(--ink-soft);
+}
+
+:is(html[data-grid-size="larger"] .puzzle-ui, html:not([data-grid-size="standard"]) .puzzle-ui[data-lp-default]) {
+  --board-max: min(46rem, max(24rem, calc(100svh - 8rem)));
+}
+:is(html[data-grid-size="larger"] .puzzle-ui, html:not([data-grid-size="standard"]) .puzzle-ui[data-lp-default]) .puzzle-layout {
+  flex-direction: column;
+  align-items: stretch;
+}
+:is(html[data-grid-size="larger"] .puzzle-ui, html:not([data-grid-size="standard"]) .puzzle-ui[data-lp-default]) .puzzle-board {
+  max-width: var(--board-max);
+  border: 2px solid #b8a990;
+}
+:is(html[data-grid-size="larger"] .puzzle-ui, html:not([data-grid-size="standard"]) .puzzle-ui[data-lp-default]) .puzzle-cell {
+  border-color: rgba(140, 118, 88, 0.55);
+  font-size: min(calc(100cqi / var(--n, 10) * 0.84), clamp(1rem, calc(100cqi / var(--n, 10) * 0.78), 3.25rem));
+}
+:is(html[data-grid-size="larger"] .puzzle-ui, html:not([data-grid-size="standard"]) .puzzle-ui[data-lp-default]) .puzzle-cell.is-found {
+  background: #bcd8b4;
+  color: #263d2d;
+}
+:is(html[data-grid-size="larger"] .puzzle-ui, html:not([data-grid-size="standard"]) .puzzle-ui[data-lp-default]) .word-panel {
+  max-width: var(--board-max);
+}
+:is(html[data-grid-size="larger"] .puzzle-ui, html:not([data-grid-size="standard"]) .puzzle-ui[data-lp-default]) .word-panel h2 {
+  font-size: 1.5rem;
+}
+:is(html[data-grid-size="larger"] .puzzle-ui, html:not([data-grid-size="standard"]) .puzzle-ui[data-lp-default]) .word-list {
+  font-size: 1.5rem;
+  line-height: 1.35;
+  /* As many columns as fit, each at least as wide as the longest word. */
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, calc(var(--wl, 8) * 0.75em)), 1fr));
+}
+@media (max-width: 639px) {
+  /*
+   * Edge to edge on phones: cancel <main>'s 1rem side padding; side borders dropped.
+   * 10px inner side padding keeps the first/last letters off the very screen edge
+   * (edge-swipe "back" gestures) while still gaining ~12% cell width over Standard.
+   */
+  :is(html[data-grid-size="larger"] .puzzle-ui, html:not([data-grid-size="standard"]) .puzzle-ui[data-lp-default]) .puzzle-board {
+    width: calc(100% + 2rem);
+    max-width: none;
+    margin-inline: -1rem;
+    padding: 4px 10px;
+    border-inline-width: 0;
+  }
+}
+@supports not (width: 1cqi) {
+  :is(html[data-grid-size="larger"] .puzzle-ui, html:not([data-grid-size="standard"]) .puzzle-ui[data-lp-default]) .puzzle-cell {
+    font-size: clamp(1rem, calc(min(100vw, 46rem) / var(--n, 10) * 0.76), 3.25rem);
   }
 }
 

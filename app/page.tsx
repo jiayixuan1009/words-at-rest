@@ -275,8 +275,8 @@ export default function HomePage() {
               astronomy and the seasons.
             </li>
             <li>
-              <strong className="text-[var(--ink)]">Easy on the eyes.</strong> A Large print button
-              on every grid, plus dedicated 9×9 large print puzzles.
+              <strong className="text-[var(--ink)]">Easy on the eyes.</strong> A Larger grid size
+              on every puzzle, plus dedicated 9×9 large print puzzles.
             </li>
             <li>
               <strong className="text-[var(--ink)]">Calm by design.</strong> No timers, no scores, no

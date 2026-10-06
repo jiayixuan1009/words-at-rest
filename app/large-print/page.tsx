@@ -41,7 +41,7 @@ const FAQ: FaqItem[] = [
   },
   {
     q: "Can I make any puzzle large print?",
-    a: "Yes. Every puzzle on the site has a Large print button above the grid. It enlarges the letters and the word list, and your choice is remembered on this device. Harder puzzles still have more words and directions, so start with easy or the large print pack.",
+    a: "Yes. Every puzzle on the site has a Grid size switch above the grid. Choose Larger to enlarge the squares, the letters and the word list; your choice is remembered on this device for every puzzle. Harder puzzles still have more words and directions, so start with easy or the large print pack.",
   },
   {
     q: "Can I print these puzzles?",
@@ -49,7 +49,7 @@ const FAQ: FaqItem[] = [
   },
   {
     q: "What if the letters are still too small?",
-    a: "Combine the Large print button with your browser’s zoom: Ctrl and + on Windows, Cmd and + on a Mac, or pinch to zoom on a phone or tablet. A tablet held in landscape usually gives the most comfortable view.",
+    a: "Combine the Larger grid size with your browser’s zoom: Ctrl and + on Windows, Cmd and + on a Mac, or pinch to zoom on a phone or tablet. A tablet held in landscape usually gives the most comfortable view.",
   },
 ];
 
@@ -108,8 +108,8 @@ export default function LargePrintPage() {
           </p>
           <ul>
             <li>
-              <strong>Bigger letters.</strong> Grid letters are about one and a half to nearly two
-              times the size of standard print, and the word list grows with them.
+              <strong>Bigger letters.</strong> Grid letters are about one and a half to two times
+              the size of those on our standard puzzles, and the word list grows with them.
             </li>
             <li>
               <strong>Fewer letters.</strong> A 9×9 grid has 81 letters, compared with 225 in a
@@ -168,7 +168,7 @@ export default function LargePrintPage() {
           <p>
             Looking for a gentle next step? Try our{" "}
             <Link href="/difficulty/easy">easy word searches</Link>, today’s{" "}
-            <Link href="/daily">daily puzzle</Link> with large print switched on, or read{" "}
+            <Link href="/daily">daily puzzle</Link> with the Larger grid size, or read{" "}
             <Link href="/how-to-play">how to play</Link>.
           </p>
         </Prose>

@@ -43,7 +43,7 @@ const FAQ: FaqItem[] = [
   },
   {
     q: "Can I make the daily puzzle bigger?",
-    a: "Yes. Press the Large print button above the grid for bigger letters and a larger word list. Your choice is remembered on this device. You can also use your browser’s zoom, or try our dedicated large print word search puzzles.",
+    a: "Yes. Choose Larger in the Grid size switch above the grid for bigger squares, bigger letters and a larger word list. Your choice is remembered on this device for every puzzle. You can also use your browser’s zoom, or try our dedicated large print word search puzzles.",
   },
 ];
 
