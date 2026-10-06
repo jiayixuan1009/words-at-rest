@@ -11,9 +11,10 @@ export const metadata: Metadata = {
 export default function NotFound() {
   return (
     <div className="mx-auto max-w-lg py-8 text-center">
+      {/* No `priority`: this boundary is serialized into every page's RSC payload,
+          and a high-priority <img> there made React preload the 404 art site-wide. */}
       <Picture
         art={ART.notFound}
-        priority
         sizes="(min-width: 640px) 448px, 92vw"
         className="mx-auto mb-8 aspect-[16/10] w-full max-w-md rounded-[3px] object-cover"
       />

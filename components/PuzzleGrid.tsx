@@ -243,8 +243,11 @@ export default function PuzzleGrid({
           }`}
           style={{ gridTemplateColumns: `repeat(${size}, minmax(0, 1fr))` }}
         >
-          {grid.map((row, r) =>
-            row.map((letter, c) => {
+          {grid.map((row, r) => (
+            // display:contents keeps every cell a direct CSS-grid item while giving
+            // assistive tech / crawlers a proper grid > row > gridcell structure.
+            <div key={r} role="row" aria-rowindex={r + 1} className="contents">
+            {row.map((letter, c) => {
               const k = `${r},${c}`;
               const isFound = foundCells.has(k);
               const isSel = selectionCells.has(k);
@@ -252,6 +255,7 @@ export default function PuzzleGrid({
                 <div
                   key={k}
                   role="gridcell"
+                  aria-colindex={c + 1}
                   data-r={r}
                   data-c={c}
                   onPointerDown={(e) => onPointerDown(e, [r, c])}
@@ -268,8 +272,9 @@ export default function PuzzleGrid({
                   {letter}
                 </div>
               );
-            }),
-          )}
+            })}
+            </div>
+          ))}
         </div>
 
         <div className="min-w-48">
