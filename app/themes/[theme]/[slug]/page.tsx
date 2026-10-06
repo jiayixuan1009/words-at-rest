@@ -9,6 +9,11 @@ import { puzzleDescription, puzzleSeoTitle } from "@/lib/puzzle-seo";
 
 type Props = { params: Promise<{ theme: string; slug: string }> };
 
+// Render per request (no ISR cache). vinext places generateMetadata() output in a
+// hidden <body> div for requests without a User-Agent, and the ISR cache would then
+// serve that variant to every crawler. Rendering is cheap (static data).
+export const dynamic = "force-dynamic";
+
 export function generateStaticParams() {
   return getPuzzles().map((p) => ({ theme: p.themeId, slug: p.slug }));
 }

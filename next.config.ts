@@ -7,6 +7,8 @@ const nextConfig: NextConfig = {
   // at the end of <body> that only JavaScript moves into <head> — and the ISR
   // cache then serves that variant to every crawler (GPTBot, ClaudeBot,
   // PerplexityBot…). Our metadata is synchronous data, so blocking costs nothing.
+  // (An empty User-Agent still streams; the generateMetadata routes are therefore
+  // force-dynamic so that variant is never cached.)
   htmlLimitedBots: /.*/,
 };
 

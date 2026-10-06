@@ -17,6 +17,11 @@ import JsonLd from "@/components/JsonLd";
 
 type Props = { params: Promise<{ theme: string }> };
 
+// Render per request (no ISR cache). vinext places generateMetadata() output in a
+// hidden <body> div for requests without a User-Agent, and the ISR cache would then
+// serve that variant to every crawler. Rendering is cheap (static data).
+export const dynamic = "force-dynamic";
+
 export function generateStaticParams() {
   return getThemes().map((t) => ({ theme: t.slug }));
 }

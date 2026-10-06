@@ -62,6 +62,11 @@ const COPY: Record<
   },
 };
 
+// Render per request (no ISR cache). vinext places generateMetadata() output in a
+// hidden <body> div for requests without a User-Agent, and the ISR cache would then
+// serve that variant to every crawler. Rendering is cheap (static data).
+export const dynamic = "force-dynamic";
+
 export function generateStaticParams() {
   return DIFFICULTIES.map((level) => ({ level }));
 }
