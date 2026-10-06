@@ -1,9 +1,9 @@
 # 更新日志（Changelog）
 
 本文件格式参考 [Keep a Changelog](https://keepachangelog.com/zh-CN/1.1.0/)。日期为 commit 时间（Asia/Shanghai，UTC+8）。  
-项目尚未打版本号，按日期 + commit 记录。完整产品说明 `docs/PRODUCT.md` 与后续计划 `docs/ROADMAP.md` 目前在分支 `subthemes-wave1`（`86de8e3`），尚未合入 master。
+项目尚未打版本号，按日期 + commit 记录。完整产品说明见 [`docs/PRODUCT.md`](docs/PRODUCT.md)，后续计划见 [`docs/ROADMAP.md`](docs/ROADMAP.md)。
 
-规模速查（主题 / 谜题）：`95609a5` 3 / 7 → `31aaf1b` 15 / 40 → `c46b10c` 16 / 46（当前线上 master）→ `0b358cc` 20 / 70 → `6ddb57c` 32 / 142。
+规模速查（主题 / 谜题）：`95609a5` 3 / 7 → `31aaf1b` 15 / 40 → `c46b10c` / `de568d3` 16 / 46 → Package B `holidays-rebase` **32 / 142**。
 
 ---
 
@@ -34,20 +34,14 @@
 - F03：网格单一 Tab 入口、方向键/Home/End移动、Enter/Space选首尾、Escape取消，行列与找到状态朗读；pointercancel只取消选择。
 - F13 / F07：完成态提供同难度下一题；游戏事件仅在接受分析且GA可用时发送。键盘与辅助技术全面验收仍待实机验证。
 
-### 新增 — 子主题 Wave 1（分支 `subthemes-wave1`，未推送、未部署）
-- `6ddb57c`（2026-10-06 13:04）Sports / Food / Music 拆出 12 个扁平子主题，每个 6 题：golf、baseball、tennis、fishing；baking、desserts、herbs、fruits；instruments、jazz、classical、music-terms。
-  - Theme 新增可选 `parentSlug`；父主题页加 "Explore …" 子主题卡片；面包屑 `Themes → 父 → 子`。
-  - 封面 / OG 暂用父主题图；出图需求 `design/SUBTHEME-IMAGE-REQUEST.md`；规划 `design/THEME-EXPANSION-PLAN.md` §15。
-- `a613061`（2026-10-06 13:04）从子主题提交中移除误纳入的难度图文档（当时属于并行工作）。
-- `86de8e3` 文档：`docs/PRODUCT.md`、`docs/ROADMAP.md`、`docs/README.md`、`CHANGELOG.md`；补入 `design/STRUCTURED-DATA-PLAN.md`、`design/DIFFICULTY-IMAGE-REQUEST.md`、`design/difficulty-image-manifest.csv`。
-
-### 新增 — 节日 Wave 1（分支 `holidays-rebase`，基于 master `de568d3`，未推送、未部署）
-- 原 `holidays-wave1` `0b358cc` 已 cherry-pick 到当前 master 为 `e731b3f`（worktree `/workspace/war-holidays`）：Thanksgiving、Winter、Valentine's Day、Easter 四个主题，每个 6 题（easy×2 / medium×2 / hard / large）；新增 `/holidays` 汇总页；页脚、sitemap、`llms.txt`、主题 Seasonal 分组已接。
-  - **顶部导航仍为 4 项**（Daily / Themes / Large Print / How to Play）；Holidays 入口在页脚与 `/themes` 季节分组，避免挤掉 Large Print。
-  - 封面 / OG 暂借旧图（thanksgiving←fall、winter←christmas、valentines←food、easter←garden）；出图需求 `design/HOLIDAY-IMAGE-REQUEST.md`。
-  - **难度递进图已接线：** `design/pending-difficulty/{easter,thanksgiving,valentines,winter}-{easy,medium,hard}.webp` → `public/images/themes/`，派生 640/320；`DIFFICULTY_ART_THEMES` + `LEVEL_MOTIF` 已加四个 slug。
-  - 规模：主题 16→20，谜题 46→70。规划见 `design/THEME-EXPANSION-PLAN.md`。
-  - 上线前：typecheck / build / check-images / daily:check；等 Reggie 确认后再 push / deploy。
+### 发布 — Package B：节日 Wave 1 + 全部 12 个子主题（待部署）
+- 用户确认方案 B（节日与 12 个子主题同批上线）。分支 `holidays-rebase`（worktree `/workspace/war-holidays`）基于 master `de568d3`。
+- **节日 Wave 1**（`e731b3f` ← `0b358cc`）：Thanksgiving、Winter、Valentine's Day、Easter，各 6 题；`/holidays` 汇总页；页脚入口；难度递进图已从 `design/pending-difficulty/` 接入 `public/images/themes/`（`DIFFICULTY_ART_THEMES`）。封面 / OG 暂借旧图。
+- **子主题 Wave 1**（`f46526d` ← `6ddb57c`）：Sports → golf / baseball / tennis / fishing；Food → baking / desserts / herbs / fruits；Music → instruments / jazz / classical / music-terms；各 6 题。`parentSlug`、父页 Explore 卡片、面包屑 Themes → 父 → 子。封面 / OG 暂用父主题图。
+- **文档**合入：`docs/PRODUCT.md`、`docs/ROADMAP.md`、`docs/README.md`、`design/STRUCTURED-DATA-PLAN.md`。
+- **导航：** 顶部仍 4 项（Daily / Themes / Large Print / How to Play）；Holidays 在页脚。
+- **规模：** 主题 16→**32**，谜题 46→**142**。`llms.txt` / sitemap 同步。
+- 规划：`design/THEME-EXPANSION-PLAN.md`；出图：`design/HOLIDAY-IMAGE-REQUEST.md`、`design/SUBTHEME-IMAGE-REQUEST.md`。
 
 ---
 
@@ -98,7 +92,7 @@
   - 显示位置：谜题列表卡片（主题页、`/difficulty/*`、相关谜题、首页、大字页）桌面端 112px 缩略图；谜题页网格下方 "About this puzzle" 配图。手机端均隐藏 + 懒加载，不下载；无跨路由预加载；首屏 LCP 图不变。
   - JSON-LD：Game `image` 首项为难度图（ImageObject 1200×900），其后为 OG 卡。
   - 新增 `scripts/check-images.mjs`：校验名单内每主题 3 难度 × 3 尺寸齐全、无未使用图。
-  - 节日主题（easter、thanksgiving、valentines、winter）原图暂存 `design/pending-difficulty/`，随 `holidays-wave1` 上线。
+  - 节日主题（easter、thanksgiving、valentines、winter）难度图已随 Package B 接入 `public/images/themes/`。
 
 ### 新增 — 信任元素（trust signals，2026-10-06 晚间部署）
 - `02ab749`（15:08）
