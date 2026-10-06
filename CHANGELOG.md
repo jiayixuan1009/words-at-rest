@@ -25,6 +25,15 @@
 
 ## 2026-10-06 — master（已推送 origin/master）
 
+### 新增 — 难度递进图（difficulty images，2026-10-06 晚间部署）
+- `981b479`（19:30）
+  - 16 个已上线主题各接入 Easy / Medium / Hard 三张同系列插画 `public/images/themes/<slug>-<easy|medium|hard>.webp`（1200×900），由 `scripts/derive-images.mjs` 派生 640w 和新增的 320w 缩略图。
+  - 规则：`lib/images.ts` `puzzleArt()` — 主题在 `DIFFICULTY_ART_THEMES` 中则用难度图，否则回退主题封面；大字谜题复用 easy 图（按 `design/difficulty-image-manifest.csv`）。
+  - 显示位置：谜题列表卡片（主题页、`/difficulty/*`、相关谜题、首页、大字页）桌面端 112px 缩略图；谜题页网格下方 "About this puzzle" 配图。手机端均隐藏 + 懒加载，不下载；无跨路由预加载；首屏 LCP 图不变。
+  - JSON-LD：Game `image` 首项为难度图（ImageObject 1200×900），其后为 OG 卡。
+  - 新增 `scripts/check-images.mjs`：校验名单内每主题 3 难度 × 3 尺寸齐全、无未使用图。
+  - 节日主题（easter、thanksgiving、valentines、winter）原图暂存 `design/pending-difficulty/`，随 `holidays-wave1` 上线。
+
 ### 新增 — 信任元素（trust signals，2026-10-06 晚间部署）
 - `02ab749`（15:08）
   - 事实条 `Free · No sign-up · No timer · Original word lists · Progress stays on your device`：全站页脚 + 谜题页网格下方（`components/TrustFacts.tsx`，inline SVG 图标）。每条均已对照代码核实；刻意不写 "ad-free"（AdSense 计划中）和 "no tracking"（GA4 已开）。
