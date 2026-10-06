@@ -1,0 +1,284 @@
+{
+  "id": "baking-medium-01",
+  "slug": "baking-medium-01",
+  "themeId": "baking",
+  "title": "Baking: Technique",
+  "primaryKeyword": "baking word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BATTER",
+    "CINNAMON",
+    "CRUMB",
+    "CRUST",
+    "FOLD",
+    "KNEAD",
+    "MUFFIN",
+    "PASTRY",
+    "PREHEAT",
+    "PROOF",
+    "SCONE",
+    "STEAM",
+    "VANILLA",
+    "WHISK"
+  ],
+  "grid": [
+    [
+      "F",
+      "O",
+      "L",
+      "D",
+      "S",
+      "W",
+      "O",
+      "E",
+      "P",
+      "S",
+      "X",
+      "A"
+    ],
+    [
+      "P",
+      "C",
+      "R",
+      "U",
+      "M",
+      "B",
+      "C",
+      "B",
+      "G",
+      "F",
+      "W",
+      "O"
+    ],
+    [
+      "U",
+      "P",
+      "R",
+      "O",
+      "O",
+      "F",
+      "E",
+      "R",
+      "F",
+      "T",
+      "R",
+      "C"
+    ],
+    [
+      "V",
+      "P",
+      "R",
+      "E",
+      "H",
+      "E",
+      "A",
+      "T",
+      "U",
+      "E",
+      "F",
+      "T"
+    ],
+    [
+      "S",
+      "A",
+      "J",
+      "X",
+      "B",
+      "P",
+      "E",
+      "C",
+      "T",
+      "S",
+      "N",
+      "C"
+    ],
+    [
+      "Y",
+      "T",
+      "N",
+      "I",
+      "U",
+      "L",
+      "A",
+      "T",
+      "L",
+      "I",
+      "T",
+      "I"
+    ],
+    [
+      "S",
+      "N",
+      "E",
+      "I",
+      "S",
+      "A",
+      "A",
+      "S",
+      "F",
+      "M",
+      "D",
+      "N"
+    ],
+    [
+      "C",
+      "Y",
+      "W",
+      "A",
+      "L",
+      "B",
+      "G",
+      "F",
+      "T",
+      "Z",
+      "L",
+      "N"
+    ],
+    [
+      "O",
+      "F",
+      "H",
+      "U",
+      "M",
+      "L",
+      "U",
+      "D",
+      "L",
+      "R",
+      "T",
+      "A"
+    ],
+    [
+      "N",
+      "L",
+      "I",
+      "U",
+      "K",
+      "M",
+      "A",
+      "E",
+      "G",
+      "T",
+      "Y",
+      "M"
+    ],
+    [
+      "E",
+      "S",
+      "S",
+      "K",
+      "N",
+      "E",
+      "A",
+      "D",
+      "C",
+      "M",
+      "L",
+      "O"
+    ],
+    [
+      "H",
+      "E",
+      "K",
+      "O",
+      "T",
+      "S",
+      "V",
+      "E",
+      "M",
+      "L",
+      "F",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CINNAMON",
+      "row": 4,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "PREHEAT",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "VANILLA",
+      "row": 3,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "BATTER",
+      "row": 7,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "MUFFIN",
+      "row": 9,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "PASTRY",
+      "row": 4,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "KNEAD",
+      "row": 10,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "PROOF",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "WHISK",
+      "row": 7,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "CRUST",
+      "row": 1,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "CRUMB",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SCONE",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "STEAM",
+      "row": 4,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "FOLD",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6113
+}

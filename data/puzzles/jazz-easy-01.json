@@ -1,0 +1,208 @@
+{
+  "id": "jazz-easy-01",
+  "slug": "jazz-easy-01",
+  "themeId": "jazz",
+  "title": "Jazz: Night Basics",
+  "primaryKeyword": "jazz word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BLUES",
+    "CLUB",
+    "HEAD",
+    "HORN",
+    "JAM",
+    "JAZZ",
+    "MUTE",
+    "RIFF",
+    "SOLO",
+    "SWING"
+  ],
+  "grid": [
+    [
+      "B",
+      "D",
+      "J",
+      "W",
+      "P",
+      "M",
+      "C",
+      "M",
+      "Y",
+      "P"
+    ],
+    [
+      "K",
+      "F",
+      "S",
+      "S",
+      "O",
+      "U",
+      "J",
+      "A",
+      "Z",
+      "Z"
+    ],
+    [
+      "Y",
+      "H",
+      "O",
+      "R",
+      "N",
+      "T",
+      "I",
+      "W",
+      "X",
+      "C"
+    ],
+    [
+      "W",
+      "D",
+      "J",
+      "H",
+      "K",
+      "E",
+      "F",
+      "D",
+      "B",
+      "L"
+    ],
+    [
+      "F",
+      "O",
+      "I",
+      "S",
+      "O",
+      "M",
+      "N",
+      "O",
+      "L",
+      "U"
+    ],
+    [
+      "W",
+      "G",
+      "Q",
+      "O",
+      "H",
+      "E",
+      "A",
+      "D",
+      "U",
+      "B"
+    ],
+    [
+      "L",
+      "U",
+      "Z",
+      "L",
+      "F",
+      "F",
+      "Z",
+      "C",
+      "E",
+      "F"
+    ],
+    [
+      "N",
+      "N",
+      "Y",
+      "O",
+      "L",
+      "C",
+      "V",
+      "M",
+      "S",
+      "O"
+    ],
+    [
+      "L",
+      "L",
+      "N",
+      "J",
+      "A",
+      "M",
+      "R",
+      "I",
+      "F",
+      "F"
+    ],
+    [
+      "B",
+      "S",
+      "W",
+      "I",
+      "N",
+      "G",
+      "A",
+      "J",
+      "I",
+      "G"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SWING",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BLUES",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "JAZZ",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "SOLO",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "RIFF",
+      "row": 8,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "CLUB",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "MUTE",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "HEAD",
+      "row": 5,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "HORN",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "JAM",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6221
+}

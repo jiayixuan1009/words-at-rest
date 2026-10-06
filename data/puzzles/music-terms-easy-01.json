@@ -1,0 +1,208 @@
+{
+  "id": "music-terms-easy-01",
+  "slug": "music-terms-easy-01",
+  "themeId": "music-terms",
+  "title": "Musical Terms: Basics",
+  "primaryKeyword": "musical terms word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BEAT",
+    "CLEF",
+    "FLAT",
+    "KEY",
+    "NOTE",
+    "PITCH",
+    "REST",
+    "SHARP",
+    "TEMPO",
+    "TONE"
+  ],
+  "grid": [
+    [
+      "C",
+      "J",
+      "M",
+      "C",
+      "J",
+      "Z",
+      "P",
+      "V",
+      "J",
+      "K"
+    ],
+    [
+      "L",
+      "N",
+      "G",
+      "W",
+      "K",
+      "S",
+      "H",
+      "A",
+      "R",
+      "P"
+    ],
+    [
+      "E",
+      "S",
+      "N",
+      "T",
+      "H",
+      "B",
+      "C",
+      "P",
+      "I",
+      "L"
+    ],
+    [
+      "F",
+      "L",
+      "A",
+      "T",
+      "K",
+      "H",
+      "Q",
+      "N",
+      "D",
+      "R"
+    ],
+    [
+      "W",
+      "P",
+      "G",
+      "B",
+      "K",
+      "Q",
+      "B",
+      "O",
+      "U",
+      "S"
+    ],
+    [
+      "T",
+      "T",
+      "E",
+      "M",
+      "P",
+      "O",
+      "S",
+      "T",
+      "M",
+      "Q"
+    ],
+    [
+      "U",
+      "R",
+      "E",
+      "S",
+      "T",
+      "D",
+      "K",
+      "E",
+      "E",
+      "L"
+    ],
+    [
+      "P",
+      "I",
+      "T",
+      "C",
+      "H",
+      "B",
+      "E",
+      "A",
+      "T",
+      "Z"
+    ],
+    [
+      "N",
+      "X",
+      "L",
+      "K",
+      "K",
+      "I",
+      "Y",
+      "U",
+      "Q",
+      "X"
+    ],
+    [
+      "M",
+      "T",
+      "O",
+      "N",
+      "E",
+      "H",
+      "U",
+      "M",
+      "Q",
+      "D"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TEMPO",
+      "row": 5,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SHARP",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "PITCH",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BEAT",
+      "row": 7,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "NOTE",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "REST",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CLEF",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "FLAT",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "TONE",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "KEY",
+      "row": 6,
+      "col": 6,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6241
+}

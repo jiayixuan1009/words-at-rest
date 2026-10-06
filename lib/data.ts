@@ -19,6 +19,11 @@ export function getTheme(slug: string): Theme | undefined {
   return themes.find((t) => t.slug === slug);
 }
 
+/** Flat child themes that declare parentSlug (e.g. golf → sports). */
+export function getChildThemes(parentSlug: string): Theme[] {
+  return themes.filter((t) => t.parentSlug === parentSlug);
+}
+
 export function getPuzzles(): Puzzle[] {
   return puzzles;
 }

@@ -1,0 +1,208 @@
+{
+  "id": "baking-easy-01",
+  "slug": "baking-easy-01",
+  "themeId": "baking",
+  "title": "Baking: Pantry Basics",
+  "primaryKeyword": "baking word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BAKE",
+    "DOUGH",
+    "EGG",
+    "FLOUR",
+    "MILK",
+    "MIX",
+    "OVEN",
+    "ROLL",
+    "SALT",
+    "YEAST"
+  ],
+  "grid": [
+    [
+      "L",
+      "C",
+      "S",
+      "U",
+      "F",
+      "S",
+      "A",
+      "L",
+      "T",
+      "T"
+    ],
+    [
+      "W",
+      "Z",
+      "J",
+      "R",
+      "L",
+      "A",
+      "D",
+      "W",
+      "X",
+      "P"
+    ],
+    [
+      "N",
+      "P",
+      "B",
+      "A",
+      "O",
+      "Y",
+      "O",
+      "T",
+      "O",
+      "M"
+    ],
+    [
+      "Q",
+      "S",
+      "H",
+      "M",
+      "U",
+      "V",
+      "U",
+      "K",
+      "G",
+      "B"
+    ],
+    [
+      "A",
+      "V",
+      "G",
+      "T",
+      "R",
+      "I",
+      "G",
+      "J",
+      "R",
+      "A"
+    ],
+    [
+      "I",
+      "M",
+      "I",
+      "X",
+      "Q",
+      "M",
+      "H",
+      "M",
+      "O",
+      "K"
+    ],
+    [
+      "Y",
+      "E",
+      "A",
+      "S",
+      "T",
+      "I",
+      "W",
+      "S",
+      "L",
+      "E"
+    ],
+    [
+      "R",
+      "I",
+      "G",
+      "C",
+      "I",
+      "L",
+      "S",
+      "J",
+      "L",
+      "T"
+    ],
+    [
+      "H",
+      "E",
+      "G",
+      "G",
+      "F",
+      "K",
+      "Y",
+      "J",
+      "O",
+      "W"
+    ],
+    [
+      "U",
+      "O",
+      "V",
+      "E",
+      "N",
+      "Q",
+      "N",
+      "J",
+      "E",
+      "Q"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FLOUR",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "YEAST",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "DOUGH",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "OVEN",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BAKE",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "MILK",
+      "row": 5,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "SALT",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "ROLL",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "MIX",
+      "row": 5,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "EGG",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6111
+}

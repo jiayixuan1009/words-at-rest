@@ -1,0 +1,173 @@
+{
+  "id": "baseball-large-01",
+  "slug": "baseball-large-01",
+  "themeId": "baseball",
+  "title": "Large Print Baseball: Easy Inning",
+  "primaryKeyword": "large print baseball word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BALL",
+    "BASE",
+    "BAT",
+    "CAP",
+    "GLOVE",
+    "HIT",
+    "MITT",
+    "RUN"
+  ],
+  "grid": [
+    [
+      "C",
+      "R",
+      "F",
+      "P",
+      "N",
+      "G",
+      "Y",
+      "M",
+      "N"
+    ],
+    [
+      "A",
+      "U",
+      "X",
+      "E",
+      "M",
+      "G",
+      "R",
+      "I",
+      "V"
+    ],
+    [
+      "P",
+      "N",
+      "Q",
+      "C",
+      "B",
+      "L",
+      "C",
+      "T",
+      "W"
+    ],
+    [
+      "B",
+      "B",
+      "A",
+      "S",
+      "E",
+      "O",
+      "B",
+      "T",
+      "G"
+    ],
+    [
+      "A",
+      "H",
+      "C",
+      "E",
+      "R",
+      "V",
+      "A",
+      "D",
+      "H"
+    ],
+    [
+      "T",
+      "L",
+      "L",
+      "V",
+      "X",
+      "E",
+      "L",
+      "F",
+      "U"
+    ],
+    [
+      "N",
+      "M",
+      "T",
+      "E",
+      "W",
+      "A",
+      "L",
+      "D",
+      "R"
+    ],
+    [
+      "M",
+      "G",
+      "L",
+      "C",
+      "H",
+      "I",
+      "T",
+      "A",
+      "A"
+    ],
+    [
+      "L",
+      "L",
+      "O",
+      "I",
+      "I",
+      "V",
+      "X",
+      "R",
+      "W"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "GLOVE",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "BALL",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "BASE",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "MITT",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "BAT",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "HIT",
+      "row": 7,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "RUN",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "CAP",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6026
+}

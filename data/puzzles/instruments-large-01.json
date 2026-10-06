@@ -1,0 +1,173 @@
+{
+  "id": "instruments-large-01",
+  "slug": "instruments-large-01",
+  "themeId": "instruments",
+  "title": "Large Print Instruments: Soft Duo",
+  "primaryKeyword": "large print instruments word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BASS",
+    "BELLS",
+    "DRUM",
+    "FLUTE",
+    "HARP",
+    "HORN",
+    "LUTE",
+    "PIANO"
+  ],
+  "grid": [
+    [
+      "H",
+      "S",
+      "J",
+      "N",
+      "P",
+      "B",
+      "Q",
+      "E",
+      "X"
+    ],
+    [
+      "P",
+      "V",
+      "D",
+      "F",
+      "P",
+      "I",
+      "A",
+      "N",
+      "O"
+    ],
+    [
+      "B",
+      "U",
+      "R",
+      "L",
+      "C",
+      "O",
+      "J",
+      "M",
+      "A"
+    ],
+    [
+      "E",
+      "P",
+      "U",
+      "U",
+      "H",
+      "L",
+      "U",
+      "T",
+      "E"
+    ],
+    [
+      "L",
+      "K",
+      "M",
+      "T",
+      "A",
+      "D",
+      "G",
+      "H",
+      "I"
+    ],
+    [
+      "L",
+      "R",
+      "B",
+      "E",
+      "R",
+      "H",
+      "O",
+      "R",
+      "N"
+    ],
+    [
+      "S",
+      "Y",
+      "Q",
+      "A",
+      "P",
+      "B",
+      "A",
+      "S",
+      "S"
+    ],
+    [
+      "F",
+      "G",
+      "S",
+      "L",
+      "D",
+      "E",
+      "D",
+      "T",
+      "H"
+    ],
+    [
+      "A",
+      "A",
+      "S",
+      "L",
+      "V",
+      "G",
+      "E",
+      "H",
+      "U"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PIANO",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "FLUTE",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "BELLS",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "HARP",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "DRUM",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "HORN",
+      "row": 5,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "BASS",
+      "row": 6,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "LUTE",
+      "row": 3,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6216
+}

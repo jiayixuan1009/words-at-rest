@@ -1,0 +1,173 @@
+{
+  "id": "jazz-large-01",
+  "slug": "jazz-large-01",
+  "themeId": "jazz",
+  "title": "Large Print Jazz: Soft Swing",
+  "primaryKeyword": "large print jazz word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BLUES",
+    "HORN",
+    "JAM",
+    "JAZZ",
+    "MUTE",
+    "RIFF",
+    "SOLO",
+    "SWING"
+  ],
+  "grid": [
+    [
+      "J",
+      "R",
+      "L",
+      "K",
+      "I",
+      "C",
+      "H",
+      "Q",
+      "A"
+    ],
+    [
+      "A",
+      "G",
+      "S",
+      "D",
+      "L",
+      "J",
+      "J",
+      "P",
+      "Z"
+    ],
+    [
+      "M",
+      "L",
+      "Q",
+      "L",
+      "B",
+      "A",
+      "B",
+      "Q",
+      "V"
+    ],
+    [
+      "U",
+      "Y",
+      "E",
+      "A",
+      "G",
+      "Z",
+      "L",
+      "C",
+      "Z"
+    ],
+    [
+      "S",
+      "W",
+      "I",
+      "N",
+      "G",
+      "Z",
+      "U",
+      "W",
+      "H"
+    ],
+    [
+      "U",
+      "R",
+      "M",
+      "U",
+      "T",
+      "E",
+      "E",
+      "H",
+      "X"
+    ],
+    [
+      "E",
+      "E",
+      "R",
+      "I",
+      "F",
+      "F",
+      "S",
+      "O",
+      "N"
+    ],
+    [
+      "V",
+      "Q",
+      "W",
+      "Y",
+      "N",
+      "L",
+      "U",
+      "R",
+      "W"
+    ],
+    [
+      "S",
+      "O",
+      "L",
+      "O",
+      "S",
+      "P",
+      "O",
+      "N",
+      "J"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SWING",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BLUES",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "JAZZ",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "SOLO",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "RIFF",
+      "row": 6,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "MUTE",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "HORN",
+      "row": 5,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "JAM",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6226
+}

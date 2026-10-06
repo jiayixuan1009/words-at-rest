@@ -1,0 +1,173 @@
+{
+  "id": "herbs-large-01",
+  "slug": "herbs-large-01",
+  "themeId": "herbs",
+  "title": "Large Print Herbs: Soft Pinch",
+  "primaryKeyword": "large print herbs word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BASIL",
+    "BAY",
+    "DILL",
+    "HERB",
+    "MINT",
+    "SAGE",
+    "SALT",
+    "THYME"
+  ],
+  "grid": [
+    [
+      "S",
+      "P",
+      "P",
+      "V",
+      "E",
+      "G",
+      "U",
+      "I",
+      "C"
+    ],
+    [
+      "A",
+      "L",
+      "E",
+      "Y",
+      "D",
+      "I",
+      "L",
+      "L",
+      "M"
+    ],
+    [
+      "L",
+      "T",
+      "T",
+      "X",
+      "S",
+      "T",
+      "C",
+      "W",
+      "E"
+    ],
+    [
+      "T",
+      "W",
+      "M",
+      "S",
+      "A",
+      "G",
+      "E",
+      "M",
+      "X"
+    ],
+    [
+      "G",
+      "A",
+      "A",
+      "P",
+      "B",
+      "A",
+      "S",
+      "I",
+      "L"
+    ],
+    [
+      "Q",
+      "E",
+      "H",
+      "F",
+      "D",
+      "M",
+      "E",
+      "N",
+      "X"
+    ],
+    [
+      "I",
+      "K",
+      "A",
+      "H",
+      "E",
+      "R",
+      "B",
+      "T",
+      "T"
+    ],
+    [
+      "G",
+      "B",
+      "A",
+      "Y",
+      "Z",
+      "M",
+      "E",
+      "W",
+      "X"
+    ],
+    [
+      "U",
+      "Q",
+      "Y",
+      "T",
+      "H",
+      "Y",
+      "M",
+      "E",
+      "Z"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BASIL",
+      "row": 4,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "THYME",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "MINT",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SAGE",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "DILL",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "HERB",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SALT",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BAY",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6136
+}

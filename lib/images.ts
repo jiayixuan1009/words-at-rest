@@ -92,6 +92,18 @@ const THEME_MOTIF: Record<string, string> = {
   travel: "an old suitcase, a map, a compass and a stamp",
   music: "a music stand, a record, headphones and a kettle",
   garden: "a potted plant and a trowel on a potting bench",
+  golf: "a golf tee, ball and putter on cropped grass",
+  baseball: "a baseball glove, ball and bat on a wooden bench",
+  tennis: "a tennis racket, balls and a folded towel by a clay court edge",
+  fishing: "a fishing rod, reel and tackle box by a quiet lakeshore",
+  baking: "a loaf of bread, a rolling pin and a bowl of flour on a kitchen table",
+  desserts: "a slice of cake, a berry tart and a cream jug on cream paper",
+  herbs: "bundles of basil, thyme and rosemary with a mortar and pestle",
+  fruits: "a market basket of apples, citrus and berries",
+  instruments: "a violin, flute and sheet music on a music stand",
+  jazz: "a muted trumpet, brushes and a small combo stool under soft light",
+  classical: "a conductor's baton, score and a quiet concert hall chair",
+  "music-terms": "an open theory workbook, a pencil and a metronome",
   bible: "a closed old Bible with a ribbon bookmark, an olive branch and an oil lamp on a wooden table",
   thanksgiving: "a harvest table still life with a pumpkin, corn, acorns and a linen napkin",
   winter: "a mug of cocoa, wool mittens and pine beside a frosted window",
@@ -108,6 +120,11 @@ const THEME_MOTIF: Record<string, string> = {
  * (fall / christmas / food / garden) until dedicated paintings from
  * design/HOLIDAY-IMAGE-REQUEST.md land — swap those files only; no code change needed.
  * Matching OG bases live at design/og-base/og-theme-<slug>.png (same swap rule).
+ *
+ * TEMPORARY covers for sub-theme Wave 1 (golf/baseball/tennis/fishing,
+ * baking/desserts/herbs/fruits, instruments/jazz/classical/music-terms):
+ * reuse parent sports/food/music art until design/SUBTHEME-IMAGE-REQUEST.md lands.
+ * Swap public/images/themes/<slug>.webp (+ -640) and design/og-base/og-theme-<slug>.png only.
  */
 export function themeArt(slug: string, themeName: string): Art {
   const src = `/images/themes/${slug}.webp`;

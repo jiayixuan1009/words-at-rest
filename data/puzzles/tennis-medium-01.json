@@ -1,0 +1,284 @@
+{
+  "id": "tennis-medium-01",
+  "slug": "tennis-medium-01",
+  "themeId": "tennis",
+  "title": "Tennis: Baseline Play",
+  "primaryKeyword": "tennis word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ADVANTAGE",
+    "APPROACH",
+    "BACKHAND",
+    "BASELINE",
+    "DEUCE",
+    "DOUBLES",
+    "FOOTWORK",
+    "FOREHAND",
+    "PASSING",
+    "RACKET",
+    "RACQUET",
+    "SINGLES",
+    "UMPIRE",
+    "WINNER"
+  ],
+  "grid": [
+    [
+      "B",
+      "G",
+      "J",
+      "A",
+      "S",
+      "U",
+      "N",
+      "L",
+      "I",
+      "R",
+      "W",
+      "F"
+    ],
+    [
+      "A",
+      "D",
+      "E",
+      "D",
+      "I",
+      "F",
+      "Z",
+      "A",
+      "Y",
+      "A",
+      "J",
+      "O"
+    ],
+    [
+      "S",
+      "P",
+      "V",
+      "V",
+      "N",
+      "O",
+      "C",
+      "A",
+      "P",
+      "C",
+      "W",
+      "O"
+    ],
+    [
+      "E",
+      "A",
+      "A",
+      "A",
+      "G",
+      "R",
+      "W",
+      "P",
+      "H",
+      "K",
+      "T",
+      "T"
+    ],
+    [
+      "L",
+      "S",
+      "P",
+      "N",
+      "L",
+      "E",
+      "I",
+      "P",
+      "E",
+      "E",
+      "U",
+      "W"
+    ],
+    [
+      "I",
+      "S",
+      "D",
+      "T",
+      "E",
+      "H",
+      "N",
+      "R",
+      "D",
+      "T",
+      "M",
+      "O"
+    ],
+    [
+      "N",
+      "I",
+      "A",
+      "A",
+      "S",
+      "A",
+      "N",
+      "O",
+      "E",
+      "H",
+      "P",
+      "R"
+    ],
+    [
+      "E",
+      "N",
+      "Y",
+      "G",
+      "I",
+      "N",
+      "E",
+      "A",
+      "U",
+      "A",
+      "I",
+      "K"
+    ],
+    [
+      "H",
+      "G",
+      "G",
+      "E",
+      "P",
+      "D",
+      "R",
+      "C",
+      "C",
+      "G",
+      "R",
+      "L"
+    ],
+    [
+      "D",
+      "O",
+      "U",
+      "B",
+      "L",
+      "E",
+      "S",
+      "H",
+      "E",
+      "V",
+      "E",
+      "H"
+    ],
+    [
+      "B",
+      "A",
+      "C",
+      "K",
+      "H",
+      "A",
+      "N",
+      "D",
+      "C",
+      "W",
+      "U",
+      "R"
+    ],
+    [
+      "D",
+      "C",
+      "R",
+      "A",
+      "C",
+      "Q",
+      "U",
+      "E",
+      "T",
+      "G",
+      "L",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ADVANTAGE",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "FOREHAND",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "BACKHAND",
+      "row": 10,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BASELINE",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "FOOTWORK",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "APPROACH",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "RACQUET",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SINGLES",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "DOUBLES",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "PASSING",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "RACKET",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "UMPIRE",
+      "row": 4,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "WINNER",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "DEUCE",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6033
+}

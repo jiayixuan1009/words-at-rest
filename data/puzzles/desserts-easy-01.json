@@ -1,0 +1,208 @@
+{
+  "id": "desserts-easy-01",
+  "slug": "desserts-easy-01",
+  "themeId": "desserts",
+  "title": "Desserts: Sweet Basics",
+  "primaryKeyword": "desserts word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BAKE",
+    "CAKE",
+    "CREAM",
+    "ICING",
+    "PIE",
+    "PLATE",
+    "SCOOP",
+    "SLICE",
+    "SPOON",
+    "TART"
+  ],
+  "grid": [
+    [
+      "N",
+      "R",
+      "S",
+      "P",
+      "B",
+      "Q",
+      "L",
+      "C",
+      "U",
+      "J"
+    ],
+    [
+      "V",
+      "P",
+      "E",
+      "S",
+      "P",
+      "O",
+      "O",
+      "N",
+      "A",
+      "W"
+    ],
+    [
+      "S",
+      "I",
+      "Q",
+      "Z",
+      "U",
+      "Z",
+      "I",
+      "E",
+      "A",
+      "E"
+    ],
+    [
+      "K",
+      "E",
+      "T",
+      "A",
+      "R",
+      "T",
+      "S",
+      "G",
+      "K",
+      "Q"
+    ],
+    [
+      "I",
+      "S",
+      "L",
+      "J",
+      "X",
+      "G",
+      "C",
+      "Y",
+      "C",
+      "R"
+    ],
+    [
+      "C",
+      "P",
+      "L",
+      "A",
+      "T",
+      "E",
+      "O",
+      "K",
+      "M",
+      "Q"
+    ],
+    [
+      "I",
+      "S",
+      "L",
+      "I",
+      "C",
+      "E",
+      "O",
+      "X",
+      "N",
+      "C"
+    ],
+    [
+      "N",
+      "M",
+      "K",
+      "K",
+      "E",
+      "O",
+      "P",
+      "C",
+      "V",
+      "A"
+    ],
+    [
+      "G",
+      "U",
+      "U",
+      "C",
+      "R",
+      "E",
+      "A",
+      "M",
+      "D",
+      "K"
+    ],
+    [
+      "S",
+      "J",
+      "T",
+      "O",
+      "C",
+      "B",
+      "B",
+      "A",
+      "K",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CREAM",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "ICING",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SLICE",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SCOOP",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "SPOON",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "PLATE",
+      "row": 5,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CAKE",
+      "row": 6,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "TART",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BAKE",
+      "row": 9,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "PIE",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6121
+}

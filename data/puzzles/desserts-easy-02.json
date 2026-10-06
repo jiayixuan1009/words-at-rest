@@ -1,0 +1,208 @@
+{
+  "id": "desserts-easy-02",
+  "slug": "desserts-easy-02",
+  "themeId": "desserts",
+  "title": "Desserts: Cold Treats",
+  "primaryKeyword": "desserts word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BERRY",
+    "CHILL",
+    "FUDGE",
+    "GELATO",
+    "MOUSSE",
+    "SERVE",
+    "SORBET",
+    "SUNDAE",
+    "TOFFEE",
+    "WHIP"
+  ],
+  "grid": [
+    [
+      "C",
+      "H",
+      "I",
+      "L",
+      "L",
+      "D",
+      "H",
+      "Z",
+      "N",
+      "G"
+    ],
+    [
+      "X",
+      "N",
+      "T",
+      "O",
+      "F",
+      "F",
+      "E",
+      "E",
+      "X",
+      "U"
+    ],
+    [
+      "C",
+      "B",
+      "S",
+      "E",
+      "R",
+      "V",
+      "E",
+      "A",
+      "N",
+      "D"
+    ],
+    [
+      "E",
+      "B",
+      "O",
+      "C",
+      "S",
+      "O",
+      "R",
+      "B",
+      "E",
+      "T"
+    ],
+    [
+      "A",
+      "U",
+      "B",
+      "F",
+      "U",
+      "D",
+      "G",
+      "E",
+      "S",
+      "J"
+    ],
+    [
+      "S",
+      "U",
+      "N",
+      "D",
+      "A",
+      "E",
+      "R",
+      "I",
+      "F",
+      "M"
+    ],
+    [
+      "Q",
+      "N",
+      "I",
+      "Z",
+      "G",
+      "E",
+      "L",
+      "A",
+      "T",
+      "O"
+    ],
+    [
+      "V",
+      "M",
+      "T",
+      "C",
+      "S",
+      "Y",
+      "Q",
+      "C",
+      "G",
+      "P"
+    ],
+    [
+      "A",
+      "I",
+      "H",
+      "L",
+      "M",
+      "O",
+      "U",
+      "S",
+      "S",
+      "E"
+    ],
+    [
+      "I",
+      "B",
+      "E",
+      "R",
+      "R",
+      "Y",
+      "W",
+      "H",
+      "I",
+      "P"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SORBET",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "GELATO",
+      "row": 6,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SUNDAE",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "MOUSSE",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "TOFFEE",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "FUDGE",
+      "row": 4,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BERRY",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CHILL",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SERVE",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "WHIP",
+      "row": 9,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6122
+}

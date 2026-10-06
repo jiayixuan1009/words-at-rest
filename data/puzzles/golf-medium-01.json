@@ -1,0 +1,284 @@
+{
+  "id": "golf-medium-01",
+  "slug": "golf-medium-01",
+  "themeId": "golf",
+  "title": "Golf: Fairway & Rough",
+  "primaryKeyword": "golf word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BUNKER",
+    "CADDIE",
+    "COURSE",
+    "DIVOT",
+    "DRIVER",
+    "FAIRWAY",
+    "FOLLOW",
+    "HAZARD",
+    "LINKS",
+    "MATCH",
+    "PUTTER",
+    "ROUGH",
+    "STROKE",
+    "WEDGE"
+  ],
+  "grid": [
+    [
+      "P",
+      "A",
+      "Q",
+      "W",
+      "D",
+      "E",
+      "Y",
+      "R",
+      "Y",
+      "T",
+      "I",
+      "V"
+    ],
+    [
+      "V",
+      "V",
+      "F",
+      "Q",
+      "G",
+      "A",
+      "E",
+      "M",
+      "T",
+      "C",
+      "I",
+      "L"
+    ],
+    [
+      "L",
+      "R",
+      "L",
+      "D",
+      "W",
+      "V",
+      "D",
+      "I",
+      "V",
+      "O",
+      "T",
+      "X"
+    ],
+    [
+      "L",
+      "A",
+      "E",
+      "R",
+      "I",
+      "H",
+      "I",
+      "P",
+      "Y",
+      "U",
+      "O",
+      "U"
+    ],
+    [
+      "J",
+      "W",
+      "I",
+      "R",
+      "C",
+      "H",
+      "A",
+      "Z",
+      "A",
+      "R",
+      "D",
+      "K"
+    ],
+    [
+      "H",
+      "A",
+      "D",
+      "S",
+      "D",
+      "A",
+      "B",
+      "U",
+      "K",
+      "S",
+      "W",
+      "L"
+    ],
+    [
+      "F",
+      "B",
+      "M",
+      "E",
+      "M",
+      "Y",
+      "D",
+      "U",
+      "Q",
+      "E",
+      "N",
+      "I"
+    ],
+    [
+      "S",
+      "T",
+      "R",
+      "O",
+      "K",
+      "E",
+      "Q",
+      "D",
+      "N",
+      "C",
+      "S",
+      "N"
+    ],
+    [
+      "M",
+      "B",
+      "T",
+      "R",
+      "O",
+      "U",
+      "G",
+      "H",
+      "I",
+      "K",
+      "X",
+      "K"
+    ],
+    [
+      "R",
+      "A",
+      "P",
+      "U",
+      "T",
+      "T",
+      "E",
+      "R",
+      "X",
+      "E",
+      "E",
+      "S"
+    ],
+    [
+      "R",
+      "Q",
+      "Y",
+      "F",
+      "O",
+      "L",
+      "L",
+      "O",
+      "W",
+      "X",
+      "B",
+      "R"
+    ],
+    [
+      "E",
+      "Y",
+      "I",
+      "F",
+      "E",
+      "N",
+      "M",
+      "A",
+      "T",
+      "C",
+      "H",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FAIRWAY",
+      "row": 6,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "BUNKER",
+      "row": 5,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "HAZARD",
+      "row": 4,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "DRIVER",
+      "row": 5,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "PUTTER",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "STROKE",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CADDIE",
+      "row": 4,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "COURSE",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "FOLLOW",
+      "row": 10,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "ROUGH",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "DIVOT",
+      "row": 2,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "WEDGE",
+      "row": 4,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "LINKS",
+      "row": 5,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "MATCH",
+      "row": 11,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6013
+}

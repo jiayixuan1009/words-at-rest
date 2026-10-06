@@ -1,0 +1,208 @@
+{
+  "id": "herbs-easy-02",
+  "slug": "herbs-easy-02",
+  "themeId": "herbs",
+  "title": "Herbs: Fresh Leaves",
+  "primaryKeyword": "herbs and spices word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ANISE",
+    "BLEND",
+    "CHILI",
+    "CHIVES",
+    "CLOVE",
+    "FENNEL",
+    "GINGER",
+    "PARSLEY",
+    "PEPPER",
+    "SPICE"
+  ],
+  "grid": [
+    [
+      "F",
+      "K",
+      "I",
+      "X",
+      "C",
+      "H",
+      "I",
+      "V",
+      "E",
+      "S"
+    ],
+    [
+      "E",
+      "A",
+      "N",
+      "I",
+      "S",
+      "E",
+      "O",
+      "S",
+      "C",
+      "O"
+    ],
+    [
+      "N",
+      "V",
+      "L",
+      "T",
+      "Y",
+      "Q",
+      "G",
+      "P",
+      "R",
+      "P"
+    ],
+    [
+      "N",
+      "C",
+      "H",
+      "I",
+      "L",
+      "I",
+      "X",
+      "I",
+      "O",
+      "E"
+    ],
+    [
+      "E",
+      "B",
+      "B",
+      "F",
+      "O",
+      "E",
+      "B",
+      "C",
+      "I",
+      "P"
+    ],
+    [
+      "L",
+      "S",
+      "Q",
+      "K",
+      "L",
+      "Z",
+      "V",
+      "E",
+      "B",
+      "P"
+    ],
+    [
+      "C",
+      "G",
+      "I",
+      "N",
+      "G",
+      "E",
+      "R",
+      "I",
+      "T",
+      "E"
+    ],
+    [
+      "J",
+      "P",
+      "A",
+      "R",
+      "S",
+      "L",
+      "E",
+      "Y",
+      "W",
+      "R"
+    ],
+    [
+      "A",
+      "F",
+      "B",
+      "L",
+      "E",
+      "N",
+      "D",
+      "T",
+      "P",
+      "V"
+    ],
+    [
+      "R",
+      "C",
+      "L",
+      "O",
+      "V",
+      "E",
+      "Z",
+      "J",
+      "T",
+      "Y"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PARSLEY",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CHIVES",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "PEPPER",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "GINGER",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "FENNEL",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SPICE",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "BLEND",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CHILI",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "ANISE",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CLOVE",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6132
+}

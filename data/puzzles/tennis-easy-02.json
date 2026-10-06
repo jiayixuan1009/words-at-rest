@@ -1,0 +1,208 @@
+{
+  "id": "tennis-easy-02",
+  "slug": "tennis-easy-02",
+  "themeId": "tennis",
+  "title": "Tennis: Stroke Names",
+  "primaryKeyword": "tennis word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CLAY",
+    "COURT",
+    "DROP",
+    "FAULT",
+    "GRASS",
+    "RETURN",
+    "SLICE",
+    "SMASH",
+    "TOSS",
+    "VOLLEY"
+  ],
+  "grid": [
+    [
+      "G",
+      "I",
+      "C",
+      "D",
+      "N",
+      "R",
+      "C",
+      "L",
+      "A",
+      "Y"
+    ],
+    [
+      "Y",
+      "G",
+      "O",
+      "S",
+      "H",
+      "M",
+      "Y",
+      "P",
+      "Q",
+      "T"
+    ],
+    [
+      "H",
+      "R",
+      "U",
+      "C",
+      "S",
+      "W",
+      "D",
+      "R",
+      "O",
+      "P"
+    ],
+    [
+      "O",
+      "A",
+      "R",
+      "E",
+      "T",
+      "U",
+      "R",
+      "N",
+      "F",
+      "H"
+    ],
+    [
+      "G",
+      "S",
+      "T",
+      "H",
+      "Y",
+      "M",
+      "E",
+      "O",
+      "A",
+      "N"
+    ],
+    [
+      "R",
+      "S",
+      "S",
+      "S",
+      "C",
+      "G",
+      "Z",
+      "L",
+      "U",
+      "J"
+    ],
+    [
+      "V",
+      "O",
+      "L",
+      "L",
+      "E",
+      "Y",
+      "L",
+      "H",
+      "L",
+      "H"
+    ],
+    [
+      "P",
+      "B",
+      "I",
+      "N",
+      "C",
+      "A",
+      "P",
+      "G",
+      "T",
+      "S"
+    ],
+    [
+      "Q",
+      "Y",
+      "C",
+      "Z",
+      "X",
+      "T",
+      "O",
+      "S",
+      "S",
+      "I"
+    ],
+    [
+      "I",
+      "K",
+      "E",
+      "K",
+      "U",
+      "S",
+      "M",
+      "A",
+      "S",
+      "H"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "VOLLEY",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "RETURN",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SMASH",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SLICE",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "COURT",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "FAULT",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "GRASS",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "DROP",
+      "row": 2,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "TOSS",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "CLAY",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6032
+}

@@ -1,0 +1,208 @@
+{
+  "id": "baseball-easy-02",
+  "slug": "baseball-easy-02",
+  "themeId": "baseball",
+  "title": "Baseball: In the Field",
+  "primaryKeyword": "baseball word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BUNT",
+    "CLEATS",
+    "DOUBLE",
+    "FORCE",
+    "FOUL",
+    "PITCH",
+    "SINGLE",
+    "STEAL",
+    "TAG",
+    "TRIPLE"
+  ],
+  "grid": [
+    [
+      "L",
+      "M",
+      "Z",
+      "C",
+      "I",
+      "Z",
+      "F",
+      "G",
+      "V",
+      "E"
+    ],
+    [
+      "N",
+      "Y",
+      "P",
+      "I",
+      "T",
+      "C",
+      "H",
+      "N",
+      "V",
+      "D"
+    ],
+    [
+      "G",
+      "K",
+      "W",
+      "S",
+      "I",
+      "N",
+      "G",
+      "L",
+      "E",
+      "M"
+    ],
+    [
+      "X",
+      "D",
+      "O",
+      "U",
+      "B",
+      "L",
+      "E",
+      "H",
+      "I",
+      "E"
+    ],
+    [
+      "R",
+      "X",
+      "T",
+      "A",
+      "F",
+      "O",
+      "R",
+      "C",
+      "E",
+      "V"
+    ],
+    [
+      "W",
+      "P",
+      "R",
+      "L",
+      "L",
+      "T",
+      "W",
+      "Z",
+      "P",
+      "B"
+    ],
+    [
+      "V",
+      "B",
+      "I",
+      "F",
+      "O",
+      "U",
+      "L",
+      "B",
+      "Y",
+      "C"
+    ],
+    [
+      "B",
+      "U",
+      "P",
+      "D",
+      "O",
+      "I",
+      "T",
+      "A",
+      "G",
+      "S"
+    ],
+    [
+      "C",
+      "N",
+      "L",
+      "S",
+      "T",
+      "E",
+      "A",
+      "L",
+      "N",
+      "R"
+    ],
+    [
+      "C",
+      "T",
+      "E",
+      "I",
+      "C",
+      "L",
+      "E",
+      "A",
+      "T",
+      "S"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SINGLE",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "DOUBLE",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TRIPLE",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "CLEATS",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "PITCH",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "FORCE",
+      "row": 4,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "STEAL",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BUNT",
+      "row": 6,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "FOUL",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "TAG",
+      "row": 7,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6022
+}

@@ -1,0 +1,284 @@
+{
+  "id": "fruits-medium-02",
+  "slug": "fruits-medium-02",
+  "themeId": "fruits",
+  "title": "Fruits: Market Stall",
+  "primaryKeyword": "fruits word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "APRICOT",
+    "AVOCADO",
+    "BANANA",
+    "CHERRY",
+    "COCONUT",
+    "DATE",
+    "FIG",
+    "MANGO",
+    "OLIVE",
+    "ORANGE",
+    "PAPAYA",
+    "PRUNE",
+    "QUINCE",
+    "RAISIN"
+  ],
+  "grid": [
+    [
+      "B",
+      "A",
+      "V",
+      "O",
+      "C",
+      "A",
+      "D",
+      "O",
+      "Z",
+      "Z",
+      "A",
+      "Q"
+    ],
+    [
+      "O",
+      "R",
+      "A",
+      "N",
+      "G",
+      "E",
+      "O",
+      "Q",
+      "Q",
+      "P",
+      "M",
+      "Q"
+    ],
+    [
+      "F",
+      "L",
+      "O",
+      "E",
+      "A",
+      "P",
+      "R",
+      "I",
+      "C",
+      "O",
+      "T",
+      "W"
+    ],
+    [
+      "H",
+      "F",
+      "T",
+      "D",
+      "Q",
+      "V",
+      "S",
+      "F",
+      "I",
+      "G",
+      "T",
+      "U"
+    ],
+    [
+      "C",
+      "A",
+      "E",
+      "B",
+      "I",
+      "I",
+      "C",
+      "U",
+      "N",
+      "E",
+      "P",
+      "N"
+    ],
+    [
+      "D",
+      "C",
+      "O",
+      "C",
+      "O",
+      "N",
+      "U",
+      "T",
+      "B",
+      "Z",
+      "A",
+      "Q"
+    ],
+    [
+      "B",
+      "Q",
+      "N",
+      "N",
+      "A",
+      "W",
+      "Y",
+      "D",
+      "A",
+      "R",
+      "P",
+      "U"
+    ],
+    [
+      "O",
+      "L",
+      "I",
+      "V",
+      "E",
+      "Z",
+      "L",
+      "N",
+      "N",
+      "E",
+      "A",
+      "I"
+    ],
+    [
+      "O",
+      "P",
+      "R",
+      "U",
+      "N",
+      "E",
+      "K",
+      "V",
+      "A",
+      "K",
+      "Y",
+      "N"
+    ],
+    [
+      "C",
+      "H",
+      "E",
+      "R",
+      "R",
+      "Y",
+      "N",
+      "Y",
+      "N",
+      "Z",
+      "A",
+      "C"
+    ],
+    [
+      "A",
+      "M",
+      "A",
+      "N",
+      "G",
+      "O",
+      "A",
+      "Q",
+      "A",
+      "J",
+      "Q",
+      "E"
+    ],
+    [
+      "K",
+      "S",
+      "A",
+      "N",
+      "J",
+      "G",
+      "R",
+      "A",
+      "I",
+      "S",
+      "I",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "COCONUT",
+      "row": 5,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "AVOCADO",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "APRICOT",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "ORANGE",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BANANA",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "PAPAYA",
+      "row": 4,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "CHERRY",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "RAISIN",
+      "row": 11,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "QUINCE",
+      "row": 5,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "MANGO",
+      "row": 10,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PRUNE",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "OLIVE",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "DATE",
+      "row": 5,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "FIG",
+      "row": 3,
+      "col": 7,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6154
+}

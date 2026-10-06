@@ -1,0 +1,284 @@
+{
+  "id": "classical-medium-01",
+  "slug": "classical-medium-01",
+  "themeId": "classical",
+  "title": "Classical: Concert Hall",
+  "primaryKeyword": "classical music word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ANDANTE",
+    "CONCERTO",
+    "FUGUE",
+    "MOVEMENT",
+    "NOCTURNE",
+    "ORCHESTRA",
+    "OVERTURE",
+    "PRELUDE",
+    "PRESTO",
+    "QUARTET",
+    "SOLOIST",
+    "STACCATO",
+    "SYMPHONY",
+    "VIVACE"
+  ],
+  "grid": [
+    [
+      "A",
+      "N",
+      "D",
+      "A",
+      "N",
+      "T",
+      "E",
+      "B",
+      "A",
+      "O",
+      "H",
+      "S"
+    ],
+    [
+      "I",
+      "M",
+      "O",
+      "V",
+      "E",
+      "M",
+      "E",
+      "N",
+      "T",
+      "R",
+      "C",
+      "O"
+    ],
+    [
+      "J",
+      "U",
+      "C",
+      "C",
+      "F",
+      "U",
+      "G",
+      "U",
+      "E",
+      "C",
+      "R",
+      "L"
+    ],
+    [
+      "J",
+      "P",
+      "B",
+      "O",
+      "T",
+      "K",
+      "C",
+      "J",
+      "P",
+      "H",
+      "S",
+      "O"
+    ],
+    [
+      "P",
+      "R",
+      "V",
+      "O",
+      "N",
+      "U",
+      "I",
+      "S",
+      "T",
+      "E",
+      "T",
+      "I"
+    ],
+    [
+      "R",
+      "E",
+      "I",
+      "M",
+      "V",
+      "C",
+      "R",
+      "P",
+      "N",
+      "S",
+      "A",
+      "S"
+    ],
+    [
+      "E",
+      "L",
+      "V",
+      "Z",
+      "N",
+      "E",
+      "E",
+      "N",
+      "R",
+      "T",
+      "C",
+      "T"
+    ],
+    [
+      "S",
+      "U",
+      "A",
+      "H",
+      "H",
+      "L",
+      "R",
+      "R",
+      "E",
+      "R",
+      "C",
+      "N"
+    ],
+    [
+      "T",
+      "D",
+      "C",
+      "O",
+      "P",
+      "S",
+      "G",
+      "T",
+      "T",
+      "A",
+      "A",
+      "H"
+    ],
+    [
+      "O",
+      "E",
+      "E",
+      "E",
+      "J",
+      "P",
+      "I",
+      "Q",
+      "U",
+      "O",
+      "T",
+      "W"
+    ],
+    [
+      "W",
+      "S",
+      "Y",
+      "M",
+      "P",
+      "H",
+      "O",
+      "N",
+      "Y",
+      "R",
+      "O",
+      "D"
+    ],
+    [
+      "B",
+      "W",
+      "Q",
+      "U",
+      "A",
+      "R",
+      "T",
+      "E",
+      "T",
+      "I",
+      "E",
+      "H"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ORCHESTRA",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SYMPHONY",
+      "row": 10,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CONCERTO",
+      "row": 2,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "OVERTURE",
+      "row": 4,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "NOCTURNE",
+      "row": 0,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "STACCATO",
+      "row": 3,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "MOVEMENT",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PRELUDE",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "QUARTET",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ANDANTE",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SOLOIST",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "PRESTO",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "VIVACE",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "FUGUE",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6233
+}

@@ -1,0 +1,284 @@
+{
+  "id": "jazz-medium-02",
+  "slug": "jazz-medium-02",
+  "themeId": "jazz",
+  "title": "Jazz: Groove & Form",
+  "primaryKeyword": "jazz word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BALLAD",
+    "BLUENOTE",
+    "BRIDGE",
+    "CABARET",
+    "CHANGES",
+    "CHORUS",
+    "IMPROVISE",
+    "POLYRHYTHM",
+    "QUARTET",
+    "RHYTHM",
+    "SESSION",
+    "STANDARDS",
+    "STRIDE",
+    "TURNAROUND"
+  ],
+  "grid": [
+    [
+      "T",
+      "X",
+      "Q",
+      "U",
+      "A",
+      "R",
+      "T",
+      "E",
+      "T",
+      "S",
+      "M",
+      "V"
+    ],
+    [
+      "U",
+      "S",
+      "E",
+      "S",
+      "S",
+      "I",
+      "O",
+      "N",
+      "D",
+      "K",
+      "S",
+      "I"
+    ],
+    [
+      "R",
+      "B",
+      "W",
+      "I",
+      "A",
+      "Y",
+      "B",
+      "R",
+      "U",
+      "E",
+      "M",
+      "M"
+    ],
+    [
+      "N",
+      "A",
+      "X",
+      "F",
+      "Y",
+      "O",
+      "A",
+      "T",
+      "G",
+      "H",
+      "O",
+      "P"
+    ],
+    [
+      "A",
+      "L",
+      "Z",
+      "V",
+      "R",
+      "D",
+      "E",
+      "N",
+      "T",
+      "V",
+      "M",
+      "R"
+    ],
+    [
+      "R",
+      "L",
+      "N",
+      "N",
+      "N",
+      "R",
+      "A",
+      "Y",
+      "E",
+      "H",
+      "J",
+      "O"
+    ],
+    [
+      "O",
+      "A",
+      "B",
+      "A",
+      "A",
+      "H",
+      "H",
+      "R",
+      "T",
+      "X",
+      "N",
+      "V"
+    ],
+    [
+      "U",
+      "D",
+      "T",
+      "B",
+      "C",
+      "R",
+      "S",
+      "Y",
+      "G",
+      "H",
+      "P",
+      "I"
+    ],
+    [
+      "N",
+      "S",
+      "A",
+      "Z",
+      "Y",
+      "C",
+      "H",
+      "O",
+      "R",
+      "U",
+      "S",
+      "S"
+    ],
+    [
+      "D",
+      "C",
+      "I",
+      "L",
+      "C",
+      "R",
+      "S",
+      "T",
+      "R",
+      "I",
+      "D",
+      "E"
+    ],
+    [
+      "M",
+      "S",
+      "O",
+      "W",
+      "G",
+      "B",
+      "R",
+      "I",
+      "D",
+      "G",
+      "E",
+      "D"
+    ],
+    [
+      "L",
+      "P",
+      "J",
+      "Z",
+      "B",
+      "L",
+      "U",
+      "E",
+      "N",
+      "O",
+      "T",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "POLYRHYTHM",
+      "row": 11,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "TURNAROUND",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "STANDARDS",
+      "row": 8,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "IMPROVISE",
+      "row": 1,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "BLUENOTE",
+      "row": 11,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "QUARTET",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SESSION",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CABARET",
+      "row": 9,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "CHANGES",
+      "row": 7,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "RHYTHM",
+      "row": 9,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "BALLAD",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "STRIDE",
+      "row": 9,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "CHORUS",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "BRIDGE",
+      "row": 10,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6224
+}

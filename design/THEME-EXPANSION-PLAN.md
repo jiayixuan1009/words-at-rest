@@ -432,3 +432,68 @@
 ---
 
 *— End of THEME-EXPANSION-PLAN.md. 无代码变更。Semrush 未提供可用数字；需求判断基于公开竞品结构与专用页证据。*
+
+---
+
+## 15. 子主题拆解 — Sports / Food / Music（2026-10-06 增补）
+
+> 用户请求：把 sports、food、music 拆成更细。本节省仅规划 + Wave 1 实现说明。  
+> Semrush 仍不可用；证据为竞品专用页 / 分类（定性）。
+
+### 15.1 URL / 信息架构决策：**扁平子主题**（推荐并已采用）
+
+| 方案 | URL 例 | 结论 |
+|---|---|---|
+| **A · 扁平**（选用） | `/themes/golf`，父页 `/themes/sports` 链出子卡 | ✅ |
+| B · 嵌套 | `/themes/sports/golf` | ❌ 与现有谜题路由 `/themes/[theme]/[slug]` 冲突 |
+
+**理由：**
+
+1. 现路由第二段已是 **puzzle slug**；嵌套子主题会与谜题路径撞车。  
+2. 主关键词形态是 `golf word search` / `baking word search`，扁平 slug 更贴 SEO。  
+3. Theme 数据模型本就是扁平列表；加可选 `parentSlug` 即可在父 hub 渲染子卡，无需新动态段。  
+4. 面包屑：`Themes → Sports → Golf`；sitemap 照常收录每个 `/themes/{slug}`。
+
+### 15.2 竞品证据摘要（定性）
+
+| 父主题 | 高频细分（竞品有专用页） | 代表来源 |
+|---|---|---|
+| Sports | Baseball, Basketball, Football (US), Soccer, Tennis, Golf, Fishing, Hockey, Bowling, Olympics 混词 | [Puzzletainment sports set](https://www.puzzletainment.com/printable-sports-word-searches-for-kids/) · [Summer sports: soccer/tennis/golf](https://manyjoyfulthings.com/2026/06/09/free-printable-summer-sports-word-searches/) · [My Joyfilled Life baseball/football/basketball](https://www.myjoyfilledlife.com/sports-word-search/) · [Cluegrid sports](https://cluegrid.org/word-search/sports) |
+| Food | Baking, Fruits, Vegetables, Desserts, Herbs & Spices, Breakfast, Cooking methods / terms | [Suncatcher Studio food set](https://suncatcherstudio.com/printables/word-search/food-word-search/) · [BrightSprout baking / herbs](https://brightsprout.com/browse/middle-school/life-skills/cooking/word-searches) · [Baked goods](https://www.wordsearchaddict.com/baked-goods-printable-word-search-puzzle/) |
+| Music | Instruments, Jazz, Classical/terms, Genres, Orchestra, Guitar/Piano；大量 **艺人命名页**（我们不做） | [WordSearchZen music hub](https://wordsearchzen.com/free-music-word-searches/) · [Musical Terms](https://wordsearchwizard.com/puzzles/musical-terms/) · [Genres](https://wordsearchland.com/puzzles/genres-of-music-word-search-419) |
+
+**受众 / IP：** 优先长者友好（Golf、Fishing、Baking、Classical terms、Instruments）。词表与标题 **不用** NFL/NBA 队名、联赛商标、乐队/艺人姓名；Jazz/Classical 用风格与乐理词。
+
+### 15.3 完整候选清单
+
+**Sports：** golf · baseball · tennis · fishing · basketball · football（美式规则词，非队名）· soccer · hockey · bowling · olympics（项目通名）· swimming · yoga  
+
+**Food：** baking · desserts · herbs（herbs & spices）· fruits · vegetables · breakfast · cooking（methods/terms）· bbq · pasta · bread  
+
+**Music：** instruments · jazz · classical · music-terms · orchestra · piano · guitar · genres（通名）· choir · opera  
+
+### 15.4 Wave 1 首选（每父 4 个 = 12）
+
+| 父 | slug | H1 / 主词 | 选因 |
+|---|---|---|---|
+| sports | `golf` | Golf word search | 竞品夏日专题；长者契合高 |
+| sports | `baseball` | Baseball word search | 多站专用页 |
+| sports | `tennis` | Tennis word search | 夏日专题；成人观众 |
+| sports | `fishing` | Fishing word search | 户外放松；长者契合 |
+| food | `baking` | Baking word search | 烘焙术语页极多 |
+| food | `desserts` | Desserts word search | Suncatcher 等标准细分 |
+| food | `herbs` | Herbs and spices word search | 厨房 evergreen |
+| food | `fruits` | Fruits word search | 高频打印主题 |
+| music | `instruments` | Musical instruments word search | Zen 专页；无艺人 |
+| music | `jazz` | Jazz word search | Zen Jazz Music；用风格词 |
+| music | `classical` | Classical music word search | 曲式/力度词，不用艺人标题 |
+| music | `music-terms` | Musical terms word search | 乐理词专用页多 |
+
+每子主题 **6 题**（Bible 模板）：easy-01/02、medium-01/02、hard-01、large-01。
+
+### 15.5 父 hub 行为
+
+- `/themes/sports|food|music` 在谜题列表上方增加 **「Explore …」** 子主题卡片网格。  
+- 子主题页面包屑含父主题；文案链回父 hub。  
+- 主题总览 `/themes` 仍列出全部（含子主题），便于发现与索引。
+

@@ -1,0 +1,208 @@
+{
+  "id": "herbs-easy-01",
+  "slug": "herbs-easy-01",
+  "themeId": "herbs",
+  "title": "Herbs: Kitchen Garden",
+  "primaryKeyword": "herbs and spices word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BASIL",
+    "BAY",
+    "DILL",
+    "GARLIC",
+    "HERB",
+    "MINT",
+    "ONION",
+    "SAGE",
+    "SALT",
+    "THYME"
+  ],
+  "grid": [
+    [
+      "L",
+      "J",
+      "E",
+      "N",
+      "U",
+      "D",
+      "I",
+      "L",
+      "L",
+      "Z"
+    ],
+    [
+      "O",
+      "R",
+      "R",
+      "F",
+      "F",
+      "M",
+      "I",
+      "N",
+      "T",
+      "E"
+    ],
+    [
+      "D",
+      "U",
+      "T",
+      "H",
+      "Y",
+      "M",
+      "E",
+      "W",
+      "M",
+      "Z"
+    ],
+    [
+      "H",
+      "G",
+      "K",
+      "B",
+      "D",
+      "O",
+      "N",
+      "I",
+      "O",
+      "N"
+    ],
+    [
+      "O",
+      "A",
+      "P",
+      "L",
+      "X",
+      "G",
+      "G",
+      "B",
+      "A",
+      "Y"
+    ],
+    [
+      "B",
+      "R",
+      "X",
+      "S",
+      "R",
+      "U",
+      "J",
+      "V",
+      "G",
+      "T"
+    ],
+    [
+      "W",
+      "L",
+      "O",
+      "A",
+      "K",
+      "B",
+      "A",
+      "S",
+      "I",
+      "L"
+    ],
+    [
+      "V",
+      "I",
+      "J",
+      "G",
+      "Z",
+      "H",
+      "B",
+      "L",
+      "C",
+      "J"
+    ],
+    [
+      "Q",
+      "C",
+      "N",
+      "E",
+      "E",
+      "K",
+      "N",
+      "C",
+      "O",
+      "F"
+    ],
+    [
+      "F",
+      "S",
+      "A",
+      "L",
+      "T",
+      "H",
+      "E",
+      "R",
+      "B",
+      "P"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "GARLIC",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "BASIL",
+      "row": 6,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "THYME",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ONION",
+      "row": 3,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "MINT",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "DILL",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SAGE",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "HERB",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SALT",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BAY",
+      "row": 4,
+      "col": 7,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6131
+}

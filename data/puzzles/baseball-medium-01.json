@@ -1,0 +1,284 @@
+{
+  "id": "baseball-medium-01",
+  "slug": "baseball-medium-01",
+  "themeId": "baseball",
+  "title": "Baseball: Positions",
+  "primaryKeyword": "baseball word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CATCHER",
+    "CURVE",
+    "DIAMOND",
+    "DUGOUT",
+    "INFIELD",
+    "INNING",
+    "LINEUP",
+    "OUTFIELD",
+    "PITCHER",
+    "RELAY",
+    "SLIDER",
+    "STRIKE",
+    "UMPIRE",
+    "WARMUP"
+  ],
+  "grid": [
+    [
+      "B",
+      "D",
+      "U",
+      "G",
+      "O",
+      "U",
+      "T",
+      "P",
+      "S",
+      "D",
+      "N",
+      "J"
+    ],
+    [
+      "L",
+      "I",
+      "N",
+      "E",
+      "U",
+      "P",
+      "T",
+      "I",
+      "A",
+      "J",
+      "E",
+      "V"
+    ],
+    [
+      "D",
+      "I",
+      "A",
+      "M",
+      "O",
+      "N",
+      "D",
+      "S",
+      "J",
+      "K",
+      "E",
+      "K"
+    ],
+    [
+      "S",
+      "K",
+      "Q",
+      "P",
+      "K",
+      "G",
+      "W",
+      "P",
+      "I",
+      "N",
+      "D",
+      "C"
+    ],
+    [
+      "I",
+      "N",
+      "F",
+      "I",
+      "E",
+      "L",
+      "D",
+      "R",
+      "B",
+      "L",
+      "Y",
+      "A"
+    ],
+    [
+      "C",
+      "U",
+      "O",
+      "T",
+      "T",
+      "D",
+      "T",
+      "I",
+      "E",
+      "B",
+      "W",
+      "T"
+    ],
+    [
+      "U",
+      "M",
+      "R",
+      "C",
+      "I",
+      "S",
+      "R",
+      "I",
+      "Q",
+      "G",
+      "A",
+      "C"
+    ],
+    [
+      "R",
+      "P",
+      "E",
+      "H",
+      "X",
+      "N",
+      "F",
+      "D",
+      "B",
+      "I",
+      "R",
+      "H"
+    ],
+    [
+      "V",
+      "I",
+      "L",
+      "E",
+      "G",
+      "T",
+      "N",
+      "G",
+      "F",
+      "D",
+      "M",
+      "E"
+    ],
+    [
+      "E",
+      "R",
+      "A",
+      "R",
+      "U",
+      "P",
+      "Z",
+      "I",
+      "Z",
+      "W",
+      "U",
+      "R"
+    ],
+    [
+      "G",
+      "E",
+      "Y",
+      "O",
+      "I",
+      "H",
+      "O",
+      "D",
+      "N",
+      "R",
+      "P",
+      "I"
+    ],
+    [
+      "M",
+      "S",
+      "L",
+      "I",
+      "D",
+      "E",
+      "R",
+      "G",
+      "K",
+      "G",
+      "C",
+      "D"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "OUTFIELD",
+      "row": 10,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "DIAMOND",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "INFIELD",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CATCHER",
+      "row": 3,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "PITCHER",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "INNING",
+      "row": 6,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "DUGOUT",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "UMPIRE",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "STRIKE",
+      "row": 6,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "SLIDER",
+      "row": 11,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "LINEUP",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "WARMUP",
+      "row": 5,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "CURVE",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "RELAY",
+      "row": 6,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6023
+}

@@ -104,6 +104,67 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
     tip: "Flower names are short and vowel-heavy (IRIS, LILY, ROSE). Start with the long, consonant-rich words such as GREENHOUSE and COMPOST, then hunt the flowers.",
   },
 
+
+  golf: {
+    vocabulary: "Golf lists use everyday course English — tee, par, birdie, fairway, bunker, putter — with no club brands or tournament trademarks.",
+    goodFor: "A calm fit for golfers, armchair Open-watchers and seniors who know the scorecard language.",
+    tip: "Long words like SCORECARD and HANDICAP stand out; find them first, then hunt short ones like PAR and TEE.",
+  },
+  baseball: {
+    vocabulary: "Baseball lists stick to diamond vocabulary — inning, dugout, slider, shortstop — with no team or league names.",
+    goodFor: "Summer afternoons, sports fans and anyone who likes familiar game words without scoreboard noise.",
+    tip: "Look for distinctive clusters such as STR in STRIKE or OUT in OUTFIELD before scanning letter by letter.",
+  },
+  tennis: {
+    vocabulary: "Tennis lists cover court talk — serve, rally, deuce, forehand, baseline — without tournament brands.",
+    goodFor: "Players, spectators and adults who like a paced, grown-up sports puzzle.",
+    tip: "Compound words such as FOREHAND and TIEBREAK are easier to spot than short ones like ACE or LET.",
+  },
+  fishing: {
+    vocabulary: "Fishing lists use shoreline English — rod, reel, bait, current, trout — with no tackle-brand names.",
+    goodFor: "A relaxed theme for anglers and seniors who prefer outdoor quiet over stadium sports.",
+    tip: "Short words like ROD and NET hide along edges; leave them until the longer tackle words are found.",
+  },
+  baking: {
+    vocabulary: "Baking lists gather pantry and technique words — flour, yeast, knead, proof, crust — with no bakery brands.",
+    goodFor: "Home bakers and anyone who likes a warm kitchen-minded puzzle.",
+    tip: "Double letters in BUTTER, BATTER and MUFFIN jump out of a grid quickly.",
+  },
+  desserts: {
+    vocabulary: "Dessert lists lean into cakes, custards and cold treats — mousse, cobbler, ganache — without restaurant chains.",
+    goodFor: "A sweet, low-pressure theme for after-dinner solving.",
+    tip: "Long pastry words such as CHEESECAKE and SHORTCAKE anchor one side of the hard grid.",
+  },
+  herbs: {
+    vocabulary: "Herbs and spices lists name kitchen plants and pantry spices — basil, thyme, cumin, saffron — with no brand jars.",
+    goodFor: "Cooks, gardeners and anyone refreshing herb vocabulary.",
+    tip: "Unusual letters help: the FF in SAFFRON, the Z in ZEST when it appears, the double M in CINNAMON.",
+  },
+  fruits: {
+    vocabulary: "Fruit lists use common market names — apple, citrus, berries, stone fruit — in everyday English.",
+    goodFor: "A gentle evergreen theme for all ages of adult solvers.",
+    tip: "Berry names share endings; when you find BERRY, check nearby letters for BLUE or RASP.",
+  },
+  instruments: {
+    vocabulary: "Instrument lists name strings, winds, brass and percussion — violin, clarinet, trumpet, timpani — with no brand names.",
+    goodFor: "Music students, teachers and lifelong listeners.",
+    tip: "Long names such as SAXOPHONE and TAMBOURINE are usually easier than short ones like HORN or DRUM.",
+  },
+  jazz: {
+    vocabulary: "Jazz lists use style and session words — swing, blues, improvise, quartet — with no artist or label names.",
+    goodFor: "Jazz listeners who want genre vocabulary without celebrity trivia.",
+    tip: "Words ending in -ISE / -ION (IMPROVISE, SESSION) reverse cleanly; scan for ESI or NOI clusters.",
+  },
+  classical: {
+    vocabulary: "Classical lists use forms and markings — sonata, symphony, allegro, crescendo — not composer-as-brand titles.",
+    goodFor: "Concert-goers and anyone who remembers theory terms from school.",
+    tip: "Italian tempo words (ALLEGRO, ADAGIO, ANDANTE) have distinctive vowel patterns — spot those first.",
+  },
+  "music-terms": {
+    vocabulary: "Musical-terms lists cover theory English — tempo, interval, fermata, cadence — with no artist names.",
+    goodFor: "Rehearsal warm-ups, adult learners and choir members refreshing vocabulary.",
+    tip: "Short words like BAR, KEY and TIE hide on edges; find DYNAMICS and SIGNATURE first on harder grids.",
+  },
   thanksgiving: {
     vocabulary:
       "The Thanksgiving list covers the harvest table (gravy, maize, cider, yams, pie), kitchen prep (stuffing, cranberry, cornbread, platter), autumn walks (gourd, orchard, hayride, cornucopia) and quieter gratitude words such as thanks, blessing, hospitality and reunion. Everyday English only — no brand names and no licensed characters.",

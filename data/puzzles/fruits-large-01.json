@@ -1,0 +1,173 @@
+{
+  "id": "fruits-large-01",
+  "slug": "fruits-large-01",
+  "themeId": "fruits",
+  "title": "Large Print Fruits: Soft Basket",
+  "primaryKeyword": "large print fruits word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "APPLE",
+    "BERRY",
+    "GRAPE",
+    "LEMON",
+    "MANGO",
+    "MELON",
+    "PEACH",
+    "PEAR"
+  ],
+  "grid": [
+    [
+      "E",
+      "V",
+      "B",
+      "E",
+      "R",
+      "R",
+      "Y",
+      "J",
+      "V"
+    ],
+    [
+      "P",
+      "E",
+      "A",
+      "R",
+      "P",
+      "W",
+      "W",
+      "B",
+      "Y"
+    ],
+    [
+      "G",
+      "R",
+      "A",
+      "P",
+      "E",
+      "V",
+      "X",
+      "L",
+      "H"
+    ],
+    [
+      "E",
+      "B",
+      "X",
+      "N",
+      "S",
+      "Q",
+      "P",
+      "Y",
+      "X"
+    ],
+    [
+      "Q",
+      "L",
+      "E",
+      "M",
+      "O",
+      "N",
+      "E",
+      "M",
+      "T"
+    ],
+    [
+      "Z",
+      "Y",
+      "E",
+      "S",
+      "L",
+      "E",
+      "A",
+      "E",
+      "D"
+    ],
+    [
+      "A",
+      "P",
+      "P",
+      "L",
+      "E",
+      "J",
+      "C",
+      "L",
+      "R"
+    ],
+    [
+      "H",
+      "F",
+      "N",
+      "I",
+      "S",
+      "D",
+      "H",
+      "O",
+      "O"
+    ],
+    [
+      "U",
+      "B",
+      "M",
+      "A",
+      "N",
+      "G",
+      "O",
+      "N",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "APPLE",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "PEACH",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "GRAPE",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "LEMON",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "MELON",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "MANGO",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BERRY",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PEAR",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6146
+}

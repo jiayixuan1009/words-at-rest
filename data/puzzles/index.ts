@@ -63,6 +63,78 @@ import p_bible_medium_01 from "./bible-medium-01.json";
 import p_bible_medium_02 from "./bible-medium-02.json";
 import p_bible_hard_01 from "./bible-hard-01.json";
 import p_bible_large_01 from "./bible-large-01.json";
+import p_golf_easy_01 from "./golf-easy-01.json";
+import p_golf_easy_02 from "./golf-easy-02.json";
+import p_golf_medium_01 from "./golf-medium-01.json";
+import p_golf_medium_02 from "./golf-medium-02.json";
+import p_golf_hard_01 from "./golf-hard-01.json";
+import p_golf_large_01 from "./golf-large-01.json";
+import p_baseball_easy_01 from "./baseball-easy-01.json";
+import p_baseball_easy_02 from "./baseball-easy-02.json";
+import p_baseball_medium_01 from "./baseball-medium-01.json";
+import p_baseball_medium_02 from "./baseball-medium-02.json";
+import p_baseball_hard_01 from "./baseball-hard-01.json";
+import p_baseball_large_01 from "./baseball-large-01.json";
+import p_tennis_easy_01 from "./tennis-easy-01.json";
+import p_tennis_easy_02 from "./tennis-easy-02.json";
+import p_tennis_medium_01 from "./tennis-medium-01.json";
+import p_tennis_medium_02 from "./tennis-medium-02.json";
+import p_tennis_hard_01 from "./tennis-hard-01.json";
+import p_tennis_large_01 from "./tennis-large-01.json";
+import p_fishing_easy_01 from "./fishing-easy-01.json";
+import p_fishing_easy_02 from "./fishing-easy-02.json";
+import p_fishing_medium_01 from "./fishing-medium-01.json";
+import p_fishing_medium_02 from "./fishing-medium-02.json";
+import p_fishing_hard_01 from "./fishing-hard-01.json";
+import p_fishing_large_01 from "./fishing-large-01.json";
+import p_baking_easy_01 from "./baking-easy-01.json";
+import p_baking_easy_02 from "./baking-easy-02.json";
+import p_baking_medium_01 from "./baking-medium-01.json";
+import p_baking_medium_02 from "./baking-medium-02.json";
+import p_baking_hard_01 from "./baking-hard-01.json";
+import p_baking_large_01 from "./baking-large-01.json";
+import p_desserts_easy_01 from "./desserts-easy-01.json";
+import p_desserts_easy_02 from "./desserts-easy-02.json";
+import p_desserts_medium_01 from "./desserts-medium-01.json";
+import p_desserts_medium_02 from "./desserts-medium-02.json";
+import p_desserts_hard_01 from "./desserts-hard-01.json";
+import p_desserts_large_01 from "./desserts-large-01.json";
+import p_herbs_easy_01 from "./herbs-easy-01.json";
+import p_herbs_easy_02 from "./herbs-easy-02.json";
+import p_herbs_medium_01 from "./herbs-medium-01.json";
+import p_herbs_medium_02 from "./herbs-medium-02.json";
+import p_herbs_hard_01 from "./herbs-hard-01.json";
+import p_herbs_large_01 from "./herbs-large-01.json";
+import p_fruits_easy_01 from "./fruits-easy-01.json";
+import p_fruits_easy_02 from "./fruits-easy-02.json";
+import p_fruits_medium_01 from "./fruits-medium-01.json";
+import p_fruits_medium_02 from "./fruits-medium-02.json";
+import p_fruits_hard_01 from "./fruits-hard-01.json";
+import p_fruits_large_01 from "./fruits-large-01.json";
+import p_instruments_easy_01 from "./instruments-easy-01.json";
+import p_instruments_easy_02 from "./instruments-easy-02.json";
+import p_instruments_medium_01 from "./instruments-medium-01.json";
+import p_instruments_medium_02 from "./instruments-medium-02.json";
+import p_instruments_hard_01 from "./instruments-hard-01.json";
+import p_instruments_large_01 from "./instruments-large-01.json";
+import p_jazz_easy_01 from "./jazz-easy-01.json";
+import p_jazz_easy_02 from "./jazz-easy-02.json";
+import p_jazz_medium_01 from "./jazz-medium-01.json";
+import p_jazz_medium_02 from "./jazz-medium-02.json";
+import p_jazz_hard_01 from "./jazz-hard-01.json";
+import p_jazz_large_01 from "./jazz-large-01.json";
+import p_classical_easy_01 from "./classical-easy-01.json";
+import p_classical_easy_02 from "./classical-easy-02.json";
+import p_classical_medium_01 from "./classical-medium-01.json";
+import p_classical_medium_02 from "./classical-medium-02.json";
+import p_classical_hard_01 from "./classical-hard-01.json";
+import p_classical_large_01 from "./classical-large-01.json";
+import p_music_terms_easy_01 from "./music-terms-easy-01.json";
+import p_music_terms_easy_02 from "./music-terms-easy-02.json";
+import p_music_terms_medium_01 from "./music-terms-medium-01.json";
+import p_music_terms_medium_02 from "./music-terms-medium-02.json";
+import p_music_terms_hard_01 from "./music-terms-hard-01.json";
+import p_music_terms_large_01 from "./music-terms-large-01.json";
 import p_hard_pack_hard_01 from "./hard-pack-hard-01.json";
 import p_hard_pack_hard_02 from "./hard-pack-hard-02.json";
 import p_hard_pack_hard_03 from "./hard-pack-hard-03.json";
@@ -135,6 +207,78 @@ export const puzzles = [
   p_bible_medium_02,
   p_bible_hard_01,
   p_bible_large_01,
+  p_golf_easy_01,
+  p_golf_easy_02,
+  p_golf_medium_01,
+  p_golf_medium_02,
+  p_golf_hard_01,
+  p_golf_large_01,
+  p_baseball_easy_01,
+  p_baseball_easy_02,
+  p_baseball_medium_01,
+  p_baseball_medium_02,
+  p_baseball_hard_01,
+  p_baseball_large_01,
+  p_tennis_easy_01,
+  p_tennis_easy_02,
+  p_tennis_medium_01,
+  p_tennis_medium_02,
+  p_tennis_hard_01,
+  p_tennis_large_01,
+  p_fishing_easy_01,
+  p_fishing_easy_02,
+  p_fishing_medium_01,
+  p_fishing_medium_02,
+  p_fishing_hard_01,
+  p_fishing_large_01,
+  p_baking_easy_01,
+  p_baking_easy_02,
+  p_baking_medium_01,
+  p_baking_medium_02,
+  p_baking_hard_01,
+  p_baking_large_01,
+  p_desserts_easy_01,
+  p_desserts_easy_02,
+  p_desserts_medium_01,
+  p_desserts_medium_02,
+  p_desserts_hard_01,
+  p_desserts_large_01,
+  p_herbs_easy_01,
+  p_herbs_easy_02,
+  p_herbs_medium_01,
+  p_herbs_medium_02,
+  p_herbs_hard_01,
+  p_herbs_large_01,
+  p_fruits_easy_01,
+  p_fruits_easy_02,
+  p_fruits_medium_01,
+  p_fruits_medium_02,
+  p_fruits_hard_01,
+  p_fruits_large_01,
+  p_instruments_easy_01,
+  p_instruments_easy_02,
+  p_instruments_medium_01,
+  p_instruments_medium_02,
+  p_instruments_hard_01,
+  p_instruments_large_01,
+  p_jazz_easy_01,
+  p_jazz_easy_02,
+  p_jazz_medium_01,
+  p_jazz_medium_02,
+  p_jazz_hard_01,
+  p_jazz_large_01,
+  p_classical_easy_01,
+  p_classical_easy_02,
+  p_classical_medium_01,
+  p_classical_medium_02,
+  p_classical_hard_01,
+  p_classical_large_01,
+  p_music_terms_easy_01,
+  p_music_terms_easy_02,
+  p_music_terms_medium_01,
+  p_music_terms_medium_02,
+  p_music_terms_hard_01,
+  p_music_terms_large_01,
   p_hard_pack_hard_01,
   p_hard_pack_hard_02,
   p_hard_pack_hard_03,

@@ -1,0 +1,284 @@
+{
+  "id": "fishing-medium-01",
+  "slug": "fishing-medium-01",
+  "themeId": "fishing",
+  "title": "Fishing: Tackle Box",
+  "primaryKeyword": "fishing word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BOBBER",
+    "COOLER",
+    "CREEL",
+    "CURRENT",
+    "EDDY",
+    "FLOAT",
+    "KAYAK",
+    "LEADER",
+    "NYMPH",
+    "REELIN",
+    "SINKER",
+    "STREAM",
+    "TACKLE",
+    "WADER"
+  ],
+  "grid": [
+    [
+      "K",
+      "W",
+      "N",
+      "C",
+      "R",
+      "C",
+      "O",
+      "O",
+      "L",
+      "E",
+      "R",
+      "J"
+    ],
+    [
+      "E",
+      "A",
+      "X",
+      "T",
+      "B",
+      "O",
+      "B",
+      "B",
+      "E",
+      "R",
+      "G",
+      "W"
+    ],
+    [
+      "D",
+      "D",
+      "C",
+      "A",
+      "K",
+      "W",
+      "V",
+      "I",
+      "X",
+      "H",
+      "W",
+      "S"
+    ],
+    [
+      "D",
+      "E",
+      "W",
+      "C",
+      "Z",
+      "S",
+      "I",
+      "N",
+      "K",
+      "E",
+      "R",
+      "M"
+    ],
+    [
+      "Y",
+      "R",
+      "K",
+      "K",
+      "S",
+      "T",
+      "R",
+      "E",
+      "A",
+      "M",
+      "I",
+      "N"
+    ],
+    [
+      "C",
+      "A",
+      "Q",
+      "L",
+      "M",
+      "W",
+      "B",
+      "K",
+      "U",
+      "K",
+      "F",
+      "Y"
+    ],
+    [
+      "R",
+      "U",
+      "O",
+      "E",
+      "J",
+      "R",
+      "F",
+      "A",
+      "R",
+      "A",
+      "L",
+      "M"
+    ],
+    [
+      "E",
+      "W",
+      "R",
+      "Z",
+      "Z",
+      "Y",
+      "E",
+      "E",
+      "N",
+      "Y",
+      "O",
+      "P"
+    ],
+    [
+      "E",
+      "K",
+      "Z",
+      "R",
+      "F",
+      "A",
+      "D",
+      "E",
+      "A",
+      "A",
+      "A",
+      "H"
+    ],
+    [
+      "L",
+      "V",
+      "A",
+      "D",
+      "E",
+      "A",
+      "F",
+      "C",
+      "L",
+      "K",
+      "T",
+      "D"
+    ],
+    [
+      "A",
+      "C",
+      "U",
+      "R",
+      "E",
+      "N",
+      "N",
+      "U",
+      "L",
+      "I",
+      "N",
+      "O"
+    ],
+    [
+      "Q",
+      "C",
+      "I",
+      "L",
+      "M",
+      "B",
+      "T",
+      "K",
+      "F",
+      "X",
+      "N",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CURRENT",
+      "row": 5,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "TACKLE",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "SINKER",
+      "row": 3,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "LEADER",
+      "row": 11,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "BOBBER",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "STREAM",
+      "row": 4,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "REELIN",
+      "row": 6,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "COOLER",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "FLOAT",
+      "row": 5,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "NYMPH",
+      "row": 4,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "WADER",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "CREEL",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "KAYAK",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "EDDY",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6043
+}

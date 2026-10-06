@@ -1,0 +1,173 @@
+{
+  "id": "fishing-large-01",
+  "slug": "fishing-large-01",
+  "themeId": "fishing",
+  "title": "Large Print Fishing: Quiet Shore",
+  "primaryKeyword": "large print fishing word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BAIT",
+    "CAST",
+    "HOOK",
+    "LAKE",
+    "LINE",
+    "NET",
+    "REEL",
+    "ROD"
+  ],
+  "grid": [
+    [
+      "F",
+      "N",
+      "W",
+      "S",
+      "Z",
+      "U",
+      "G",
+      "V",
+      "E"
+    ],
+    [
+      "R",
+      "E",
+      "E",
+      "L",
+      "F",
+      "B",
+      "A",
+      "I",
+      "T"
+    ],
+    [
+      "J",
+      "T",
+      "F",
+      "F",
+      "I",
+      "Z",
+      "D",
+      "O",
+      "N"
+    ],
+    [
+      "U",
+      "G",
+      "C",
+      "A",
+      "S",
+      "T",
+      "L",
+      "X",
+      "Y"
+    ],
+    [
+      "S",
+      "O",
+      "A",
+      "L",
+      "I",
+      "N",
+      "E",
+      "P",
+      "P"
+    ],
+    [
+      "U",
+      "T",
+      "S",
+      "A",
+      "D",
+      "H",
+      "T",
+      "V",
+      "A"
+    ],
+    [
+      "S",
+      "N",
+      "R",
+      "K",
+      "L",
+      "O",
+      "J",
+      "U",
+      "E"
+    ],
+    [
+      "Y",
+      "V",
+      "O",
+      "E",
+      "F",
+      "O",
+      "C",
+      "W",
+      "K"
+    ],
+    [
+      "B",
+      "X",
+      "D",
+      "C",
+      "V",
+      "K",
+      "U",
+      "M",
+      "A"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "REEL",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "LINE",
+      "row": 4,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "HOOK",
+      "row": 5,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "BAIT",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "LAKE",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "CAST",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ROD",
+      "row": 6,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "NET",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6046
+}

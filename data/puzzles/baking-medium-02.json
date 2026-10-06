@@ -1,0 +1,284 @@
+{
+  "id": "baking-medium-02",
+  "slug": "baking-medium-02",
+  "themeId": "baking",
+  "title": "Baking: Oven Day",
+  "primaryKeyword": "baking word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BATTER",
+    "BISCUIT",
+    "COOKIE",
+    "CRUST",
+    "FROST",
+    "KNEAD",
+    "MUFFIN",
+    "PASTRY",
+    "PREHEAT",
+    "PROOF",
+    "SCONE",
+    "SCORE",
+    "TIMER",
+    "ZEST"
+  ],
+  "grid": [
+    [
+      "Q",
+      "K",
+      "B",
+      "K",
+      "R",
+      "S",
+      "C",
+      "O",
+      "R",
+      "E",
+      "A",
+      "P"
+    ],
+    [
+      "G",
+      "C",
+      "N",
+      "D",
+      "A",
+      "W",
+      "R",
+      "T",
+      "B",
+      "K",
+      "Y",
+      "A"
+    ],
+    [
+      "R",
+      "Q",
+      "R",
+      "E",
+      "P",
+      "V",
+      "I",
+      "Y",
+      "A",
+      "F",
+      "U",
+      "S"
+    ],
+    [
+      "P",
+      "I",
+      "C",
+      "N",
+      "A",
+      "U",
+      "W",
+      "V",
+      "T",
+      "R",
+      "V",
+      "T"
+    ],
+    [
+      "Z",
+      "R",
+      "Z",
+      "O",
+      "C",
+      "D",
+      "W",
+      "T",
+      "T",
+      "O",
+      "Y",
+      "R"
+    ],
+    [
+      "E",
+      "W",
+      "O",
+      "S",
+      "O",
+      "T",
+      "Y",
+      "J",
+      "E",
+      "S",
+      "P",
+      "Y"
+    ],
+    [
+      "S",
+      "W",
+      "I",
+      "O",
+      "U",
+      "K",
+      "I",
+      "V",
+      "R",
+      "T",
+      "R",
+      "X"
+    ],
+    [
+      "T",
+      "B",
+      "Q",
+      "U",
+      "F",
+      "D",
+      "I",
+      "M",
+      "E",
+      "O",
+      "E",
+      "C"
+    ],
+    [
+      "M",
+      "U",
+      "F",
+      "F",
+      "I",
+      "N",
+      "F",
+      "E",
+      "E",
+      "R",
+      "H",
+      "P"
+    ],
+    [
+      "I",
+      "B",
+      "K",
+      "I",
+      "S",
+      "E",
+      "Z",
+      "G",
+      "V",
+      "R",
+      "E",
+      "W"
+    ],
+    [
+      "J",
+      "G",
+      "C",
+      "R",
+      "U",
+      "S",
+      "T",
+      "Z",
+      "A",
+      "K",
+      "A",
+      "W"
+    ],
+    [
+      "A",
+      "A",
+      "T",
+      "S",
+      "C",
+      "O",
+      "N",
+      "E",
+      "N",
+      "C",
+      "T",
+      "X"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BISCUIT",
+      "row": 7,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "PREHEAT",
+      "row": 5,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "COOKIE",
+      "row": 3,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "BATTER",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "MUFFIN",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "PASTRY",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "FROST",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SCORE",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "TIMER",
+      "row": 5,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "PROOF",
+      "row": 3,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "KNEAD",
+      "row": 0,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "CRUST",
+      "row": 10,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SCONE",
+      "row": 11,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "ZEST",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6114
+}

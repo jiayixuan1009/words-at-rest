@@ -64,7 +64,7 @@ export default function ThemesPage() {
           <Link href="/themes/easter">Easter</Link> — follow the calendar. See also the{" "}
           <Link href="/holidays">holidays hub</Link>.{" "}
           <strong className="text-[var(--ink)]">Evergreen themes</strong>{" "}
-          such as Bible, animals, food, ocean, garden, travel, music and space work any time of year.{" "}
+          such as Bible, animals, food (with baking, desserts, herbs and fruits), ocean, garden, travel, music (with instruments, jazz, classical and musical terms), sports (with golf, baseball, tennis and fishing) and space work any time of year.{" "}
           <strong className="text-[var(--ink)]">Packs</strong> group puzzles by how they play rather
           than by topic: the <Link href="/themes/large-print-pack">Large Print Pack</Link> for
           comfortable reading and the <Link href="/themes/hard-pack">Hard Pack</Link> for a serious

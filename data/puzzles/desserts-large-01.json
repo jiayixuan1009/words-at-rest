@@ -1,0 +1,173 @@
+{
+  "id": "desserts-large-01",
+  "slug": "desserts-large-01",
+  "themeId": "desserts",
+  "title": "Large Print Desserts: Soft Sweet",
+  "primaryKeyword": "large print desserts word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BAKE",
+    "CAKE",
+    "CREAM",
+    "FUDGE",
+    "PIE",
+    "SCOOP",
+    "SLICE",
+    "TART"
+  ],
+  "grid": [
+    [
+      "S",
+      "L",
+      "I",
+      "C",
+      "E",
+      "C",
+      "V",
+      "J",
+      "M"
+    ],
+    [
+      "P",
+      "I",
+      "E",
+      "I",
+      "R",
+      "R",
+      "W",
+      "B",
+      "A"
+    ],
+    [
+      "O",
+      "C",
+      "F",
+      "F",
+      "V",
+      "E",
+      "R",
+      "Y",
+      "Q"
+    ],
+    [
+      "Y",
+      "A",
+      "T",
+      "U",
+      "B",
+      "A",
+      "K",
+      "E",
+      "J"
+    ],
+    [
+      "N",
+      "K",
+      "D",
+      "D",
+      "H",
+      "M",
+      "K",
+      "G",
+      "T"
+    ],
+    [
+      "Y",
+      "E",
+      "P",
+      "G",
+      "L",
+      "H",
+      "H",
+      "T",
+      "A"
+    ],
+    [
+      "T",
+      "U",
+      "B",
+      "E",
+      "H",
+      "B",
+      "S",
+      "O",
+      "R"
+    ],
+    [
+      "M",
+      "E",
+      "S",
+      "S",
+      "C",
+      "O",
+      "O",
+      "P",
+      "T"
+    ],
+    [
+      "W",
+      "A",
+      "Y",
+      "V",
+      "H",
+      "D",
+      "R",
+      "B",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CREAM",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "FUDGE",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "SCOOP",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SLICE",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CAKE",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "TART",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "BAKE",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "PIE",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 6126
+}
