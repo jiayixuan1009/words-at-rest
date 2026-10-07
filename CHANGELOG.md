@@ -15,6 +15,7 @@
 - 已有 `-640` 与校验收据一致，跳过 `derive-images`；运行 `node scripts/generate-og.mjs` 为 105 个主题重生成 `/public/og/themes/*.jpg`（keeper OG 卡字节未变）。
 - 未改谜题 / hub 文案 / `data/themes`；未提交 `tsbuildinfo`。`/holidays` 的 `og-holidays.png` 仍与 fall 同源（用户未提供新 holidays 底图）。
 - typecheck + 生产构建通过。
+- **Deploy（2026-10-07 ~16:19 Asia/Shanghai）：** commit `c254de3` → master；Worker version `872c6c6e-1033-43e3-be36-a9d69f71885e`（account `b79c11a97188ceeb150acb0b6c4cda97`）。线上 MD5 抽查 valentines/thanksgiving/winter/easter/golf/yoga/apothecary 封面与 OG 均与仓库一致；上述原复用组相对 food/fall/christmas/garden/sports 已独立。证据：`/workspace/reports/wordsatrest-images-deploy-2026-10-07/`。
 
 ### 改进 — 强化解题反馈（2026-10-07，已上线）
 - 根据竞品实测强化全部PuzzleGrid：拖选预览与实际答案改为连续圆角色带，四组柔和颜色保留不同答案；依据实际格子中心绘制，适配标准／大字、手机、横纵斜向和交叉路径，保留服务端字母及无JS高亮。
