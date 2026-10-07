@@ -33,7 +33,10 @@ export function puzzleDates(p: Puzzle): PageDates {
   return datesFor(`data/puzzles/${p.id}.json`);
 }
 
-/** A theme hub: first and latest commit across its puzzle files. */
-export function themeDates(puzzles: Puzzle[]): PageDates {
-  return datesFor(...puzzles.map((p) => `data/puzzles/${p.id}.json`));
+/** A theme hub: first/latest commit across theme JSON + puzzle files (hub copy edits bump modified). */
+export function themeDates(puzzles: Puzzle[], themeId: string): PageDates {
+  return datesFor(
+    `data/themes/${themeId}.json`,
+    ...puzzles.map((p) => `data/puzzles/${p.id}.json`),
+  );
 }

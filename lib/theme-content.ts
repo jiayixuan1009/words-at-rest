@@ -161,9 +161,11 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
     tip: "Italian tempo words (ALLEGRO, ADAGIO, ANDANTE) have distinctive vowel patterns — spot those first.",
   },
   "music-terms": {
-    vocabulary: "Musical-terms lists cover theory English — tempo, interval, fermata, cadence — with no artist names.",
-    goodFor: "Rehearsal warm-ups, adult learners and choir members refreshing vocabulary.",
-    tip: "Short words like BAR, KEY and TIE hide on edges; find DYNAMICS and SIGNATURE first on harder grids.",
+    vocabulary:
+      "Expect classroom and score words: ACCENT, BAR, BEAT, CADENCE, CHORD, CLEF, DYNAMICS, FERMATA, FLAT, HALF, HARMONIZE, HARMONY, INTERVAL, MAJOR, MEASURE, MINOR, NOTE, REST, RHYTHM, SCALE, SHARP, STAFF, TEMPO and TONE among the full bank. Nothing names a living performer or a streaming service. Short words like BAR, FLAT and NOTE suit easy grids; RHYTHM, DYNAMICS and FERMATA challenge harder ones with unusual letter patterns.",
+    goodFor:
+      "Choir members, teachers, returning adult students and listeners who enjoy knowing the difference between a fermata and a rest. It differs from Instruments by naming ideas rather than objects, and from Jazz or Classical by staying theory-neutral. Large print helps when rehearsal lighting is poor. After terms, try Instruments or Classical for a fuller music evening.",
+    tip: "Consonant clusters win: RHYTHM has almost no vowels — hunt THM. DYNAMICS and FERMATA carry rare Y and F-M pairs. Find those long oddities before BAR, BEAT and NOTE. On hard grids, music terms often share a staff-like horizontal row; once you clear one line, scan the next as if reading a score.",
   },
   thanksgiving: {
     vocabulary:
@@ -202,31 +204,31 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
   },
   "st-patricks": {
     vocabulary:
-      "The St. Patrick's list mixes green hills, shamrocks, pipes and gentle Irish spring vocabulary with a few folklore words such as legend and blessing. No cartoon leprechaun brands and no trademarked characters.",
+      "The list mixes Irish-spring and folklore-light words: BAGPIPE, BLESSING, BREAD, BUTTER, CABBAGE, CASTLE, CELTIC, CHARM, CHURCH, CLOVER, COAST, COIN, GREEN, HARP, HILL, PIPE, RAIN, SHAMROCK and STONE among others. No studio mascots. Short words like COIN, HILL and PIPE suit easy puzzles; BAGPIPE, SHAMROCK and BLESSING fill harder grids. Food words such as CABBAGE, BREAD and BUTTER sit beside landscape words so the day feels domestic as well as festive.",
     goodFor:
-      "March afternoons, parish or community tables, and adults who want a seasonal green puzzle that stays calm. Large print keeps eight short words on a 9×9 grid.",
-    tip: "Unusual letter clusters help: the SH in SHAMROCK, the LD in EMERALD, the double G in BAGPIPE. Find those first on harder grids.",
+      "March mornings, community centers and adults who enjoy Celtic-tinged vocabulary without loud party themes. It differs from Spring by carrying specific March traditions while staying respectful and brand-free. Large print helps when green decorations already fill the table. After St. Patrick's Day, Spring and Flowers continue the season. Readers who want green-season vocabulary without party noise will find this closer to Spring than to a costume aisle.",
+    tip: "Long distinctive spellings — SHAMROCK, BAGPIPE, BLESSING, CELTIC — come first; then COIN, HILL and PIPE. The CK ending in SHAMROCK and the GP in BAGPIPE are rare landmarks. On hard boards, clover-words may run backwards; try reverse reading before you abandon a row. CLOVER and SHAMROCK are related ideas with different spellings — treat them as separate hunts.",
   },
   "mothers-day": {
     vocabulary:
-      "Mother's Day lists lean into flowers, cards, breakfast trays and everyday appreciation words — hug, thanks, cherish, patience — without gift-brand names.",
+      "The bank gathers soft May words: ADMIRE, APRON, BLESSING, BLOOM, BOUQUET, BREAKFAST, BRUNCH, CARD, CARE, CHERISH, COFFEE, COMFORT, FLOWER, GIFT, HUG, LOVE, MOM, NOTE and TEA among others. Nothing is a greeting-card trademark or cartoon mascot. Short words like MOM, HUG and TEA suit easy boards; BOUQUET, BREAKFAST and CHERISH stretch across harder ones. Quiet verbs such as ADMIRE and CHERISH keep the tone personal rather than commercial.",
     goodFor:
-      "A gentle May puzzle for family mornings, care-home activity hours and anyone who prefers a quiet card-table mood.",
-    tip: "Long appreciation words such as GRATITUDE and PATIENCE stand out; leave short ones like MOM and HUG for the edges.",
+      "May family tables, care-home craft hours and anyone who wants seasonal warmth without shopping pressure. It sits beside Flowers for blooms and Spring for wider seasonal vocabulary. Large print keeps brunch words readable when phones are passed around the table. Kindness and Gratitude are natural follow-ons when the holiday weekend ends. It is meant for a slow May morning, not a shopping sprint — the same editorial promise as the rest of the site.",
+    tip: "Long words first — BOUQUET, BREAKFAST, CHERISH, BLESSING — then MOM, HUG and TEA. Double letters in COFFEE and BLOOM help. On medium grids, flower-adjacent words often share diagonals; finding BLOOM can reveal FLOWER nearby. BRUNCH and BREAKFAST can overlap in letters mentally; confirm each full spelling on the printed list.",
   },
   "fathers-day": {
     vocabulary:
-      "Father's Day lists use porch, grill, tools, fishing and everyday appreciation English — pride, wisdom, respect — with no brand tools or team names.",
+      "Words lean toward ordinary affection and shared pastimes: ADVICE, BENCH, BOAT, CAMP, CARD, CARE, CATCH, CHAIR, COFFEE, COMFORT, DAD, FAMILY, FISHING, GRILL, HUG, LESSON, TIE, TOOL and WALK among the bank. No retailer slogans or licensed characters. Short words like DAD, HUG and TIE keep easy puzzles warm; longer ones such as COMFORT and FISHING fill harder grids.",
     goodFor:
-      "June Sundays, family gatherings and seniors who like a familiar domestic-outdoor mix.",
-    tip: "Compound and longer words like WORKSHOP and NEWSPAPER anchor the hard grid; short ones like DAD hide along edges.",
+      "Families planning a low-key June gathering, activity groups in June and adults who want a seasonal puzzle that is not about shopping. It differs from Mother's Day by leaning into tools, boats and grill-side vocabulary while keeping the same gentle tone. Large print helps when cards and puzzles share the table. After Father's Day, Summer and Fishing extend the season.",
+    tip: "Find FISHING, COMFORT and FAMILY before DAD, HUG and TIE. The double F in COFFEE and the CH in CATCH or CHAIR are useful anchors. On hard grids, short dad-words often hide backwards along the bottom row — check right-to-left before you give up.",
   },
   "independence-day": {
     vocabulary:
-      "Independence Day lists cover picnics, parades, fireworks, flags and summer gathering words, plus a few civic English terms such as liberty and founding. No campaign brands.",
+      "Expect summer-civic and picnic English: ANTHEM, BAND, BANNER, BASKET, BLANKET, BOOM, BRIDGE, CHEER, CITIZEN, COOLER, CORN, COURTHOUSE, FLAG, FIREWORK, PARADE, PICNIC, SPARKLER and STAR among the set. We avoid candidate names and advocacy slogans. Short words like BAND, FLAG and CORN hide on easy boards; FIREWORK, COURTHOUSE and SPARKLER challenge harder ones. Civic nouns such as CITIZEN and COURTHOUSE sit beside picnic gear so the day feels communal without becoming a lecture.",
     goodFor:
-      "A calm Fourth of July afternoon for adults who want seasonal vocabulary without loud party graphics.",
-    tip: "Long words such as WATERMELON, FIREWORK and COURTHOUSE are easier to spot than FLAG or PIE — find them first.",
+      "July family gatherings, quiet porches before fireworks and adults who want a patriotic-tinged puzzle without argument. It differs from American History by staying in the picnic-and-parade present. Large print helps at dusk when lighting is uneven. Summer and Beach make easy next themes after the cooler is empty. Families who want a printable-feeling online grid for the holiday table will find the tone closer to a porch than a rally.",
+    tip: "Hunt FIREWORK, COURTHOUSE, SPARKLER and BANNER before FLAG, BAND and CORN. Double letters in BANNER and BASKET stand out. On hard grids, parade words sometimes march diagonally down the page — follow one diagonal as if it were a route on a town map. BOOM and BAND are short and easy to miss once fireworks words dominate your attention — leave a final edge sweep for them.",
   },
   spring: {
     vocabulary:
@@ -244,31 +246,31 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
   },
   vegetables: {
     vocabulary:
-      "Vegetable lists use common market and garden produce — roots, greens, pods and everyday cooking verbs — with no grocery brands.",
+      "Expect market names: ARTICHOKE, ARUGULA, ASPARAGUS, BEAN, BEET, BROCCOLI, CABBAGE, CARROT, CAULIFLOWER, CELERY, CHARD, CORN, CUCUMBER, KALE, LEEK, LETTUCE, ONION, PEPPER, POTATO, SPINACH, SQUASH and TURNIP among others. Everyday English spellings only. Short words like BEAN, BEET and CORN hide on easy grids; CAULIFLOWER, ASPARAGUS and ARTICHOKE dominate hard ones. Leafy names and root names share the bank so spring and autumn cooks both feel at home.",
     goodFor:
-      "Home cooks, gardeners and a calm food-cluster companion to fruits and herbs.",
-    tip: "Long produce names like CAULIFLOWER and ASPARAGUS anchor harder grids; short ones like PEA hide on edges.",
+      "Gardeners, cooks and seniors who grew up with a vegetable patch. It differs from Garden by listing edible plants rather than tools and blooms. Large print keeps long produce names readable. Fruits and Herbs round out a full kitchen-garden set. Market shoppers who already know the produce aisle will recognize every entry without needing a botany lesson.",
+    tip: "Attack the long names first — CAULIFLOWER, ASPARAGUS, ARTICHOKE, BROCCOLI — then BEAN, BEET and CORN. Double L in BROCCOLI and CAULIFLOWER, and the GG in? — look for CC in BROCCOLI. On hard boards, vegetable words often run vertically like rows in a bed; scan columns after rows. ARUGULA and ASPARAGUS both start with A — scan the A's once, then branch outward for each word.",
   },
   breakfast: {
     vocabulary:
-      "Breakfast lists cover eggs, toast, oats, coffee and pantry staples for a slow morning table — no restaurant chains.",
+      "Morning foods and moments: BACON, BAGEL, BANANA, BERRY, BISCUIT, BUTTER, CEREAL, COFFEE, CREAM, CROISSANT, DANISH, DAWN, EGGS, JAM, JUICE, MUFFIN, OATMEAL, OMELET, PANCAKE, SYRUP, TOAST and YOGURT among the bank. No chain trademarks. Short words like JAM and EGGS suit easy boards; CROISSANT, OATMEAL and PANCAKE challenge harder ones. Time-of-day words such as DAWN keep the mood early and unhurried, matching the rest of Words at Rest.",
     goodFor:
-      "Morning coffee breaks and seniors who like familiar kitchen English.",
-    tip: "Double letters in BUTTER, WAFFLE and MUFFIN stand out quickly in a grid.",
+      "Early risers, weekend brunch tables and quiet care-home mornings. It stays softer than full Cooking and sweeter than Kitchen utensils alone. Large print helps before glasses are found. Coffee & Tea is the natural companion cup beside this hub. Unlike a generic Food hub pass, every answer here belongs to the first meal, which makes reading the list aloud feel like setting a table.",
+    tip: "Long pastry spellings — CROISSANT, PANCAKE, OATMEAL, BISCUIT — first; then JAM, EGGS and TOAST. Double letters in BUTTER, COFFEE and MUFFIN help. On hard grids, breakfast words may hide diagonally like crumbs — check both directions from any double T. CROISSANT's silent letters are still all present in the grid — trust the spelling on the list.",
   },
   "coffee-tea": {
     vocabulary:
-      "Coffee and tea lists name brew methods, leaves, mugs and quiet café English without brand beans or tea labels.",
+      "The list mixes drinks and comforts: AFTERNOON, AROMA, BEAN, BISCUIT, BLACK, BLEND, BREW, CHAMOMILE, CINNAMON, COCOA, COFFEE, CREAM, CUP, HONEY, KETTLE, LEAF, MUG, POT, SAUCER, STEAM, SUGAR and TEA among others. We leave out chain trademarks and product lines. Short words like TEA, CUP and MUG hide easily; CHAMOMILE and CINNAMON stretch across harder boards. Herbal notes such as CHAMOMILE sit beside coffee words so tea drinkers are not treated as an afterthought.",
     goodFor:
-      "A mid-morning pause theme for adults who live by the kettle.",
-    tip: "Unusual clusters help: the SS in ESPRESSO, the MM in CHAMOMILE, the double F in COFFEE.",
+      "Morning people, afternoon-tea traditionalists, care-home quiet hours and anyone who wants a kitchen theme softer than full Cooking. It sits beside Breakfast for early plates and Kitchen for utensils. Seniors often prefer this list because every word smells familiar. Large print keeps steam-and-biscuit words readable on tablets propped by the sofa. It is deliberately brand-free: no chain menus, only the shared English of cups, leaves and steam.",
+    tip: "Long spice and herb spellings — CHAMOMILE, CINNAMON — are first targets; then sweep for TEA, CUP and MUG on the edges. Double letters in COFFEE and BISCUIT help. On medium grids, drink words often sit near each other like items on a tray — finding BREW can reveal BEAN one diagonal away. BLACK and BLEND are easy to confuse mid-scan — check the third letter before you mark.",
   },
   kitchen: {
     vocabulary:
-      "Kitchen lists gather utensils, cookware and pantry verbs — whisk, ladle, simmer, roast — with no appliance brands.",
+      "Tools and actions fill the bank: APRON, BAKE, BAKING, BLENDER, BOARD, BOIL, BOWL, CHOP, COLANDER, CUP, DRAWER, FORK, KETTLE, KNIFE, LADLE, OVEN, PAN, PEEL, PLATE, POT, SINK, SKILLET, SPOON, STOVE and WHISK among others. No product lines. Short words like CUP, PAN and POT hide quickly; COLANDER, BLENDER and SKILLET stretch across hard grids. Prep verbs such as CHOP, BOIL and PEEL sit beside nouns so the list feels like a recipe without becoming one.",
     goodFor:
-      "Home cooks and anyone who likes a domestic, practical word list.",
-    tip: "Long utensil words such as SPATULA and COLANDER are easier than short ones like PAN or LID.",
+      "Home cooks, care-home baking clubs and anyone who finds kitchen nouns grounding. It differs from Cooking by naming objects more than techniques, and from Baking by staying general. Large print suits countertop tablet play. After kitchen tools, Breakfast or Desserts make tasty next stops. Home bakers can hop to Baking next; tea drinkers can open Coffee & Tea without leaving the kitchen mood.",
+    tip: "Find COLANDER, BLENDER, SKILLET and DRAWER before CUP, PAN and POT. Double letters in OVEN? Look instead for LL in COLANDER and SKILLET's LL. On medium grids, utensil words often cluster like a drying rack — one find reveals another a row away. BAKE and BAKING may both appear — finish the longer word first so the shorter one does not steal its letters in your mind.",
   },
   birds: {
     vocabulary:
@@ -300,24 +302,24 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
   },
   "us-states": {
     vocabulary:
-      "State names in everyday American English — coasts, plains and border states — with no campaign brands.",
+      "The list includes state names such as ALABAMA, ALASKA, ARIZONA, ARKANSAS, CALIFORNIA, COLORADO, CONNECTICUT and DELAWARE plus helpful map nouns — BORDER, CAPITAL, COAST, DESERT — drawn from the theme bank. Spellings match everyday English maps. We omit party logos, candidate names and tourism slogans. Long names like CONNECTICUT and CALIFORNIA dominate hard grids; shorter ones such as OHIO (when present) and COAST keep easy puzzles kind.",
     goodFor:
-      "A calm geography theme for adults who like maps without trivia pressure.",
-    tip: "Long names such as MASSACHUSETTS and PENNSYLVANIA stand out; leave short ones like OHIO for the edges.",
+      "A classic evergreen for American readers abroad, grandparents reviewing the map with older kids, classroom adults and anyone who finds state names oddly soothing. It complements American History and Presidents without turning into a civics exam. Large print helps with longer New England spellings. After states, World Capitals or Continents stretch the map further.",
+    tip: "Double letters appear often — ALABAMA, TENNESSEE-style patterns, MISSISSIPPI when in the set — so scan for AA, SS or LL early. CONNECTICUT's CT cluster and ARIZONA's Z are rare landmarks. Work longest names first; short coastal words hide inside longer ones if you rush. On hard boards, state names may run diagonally like a border line — check both directions from any capital C or A you spot.",
   },
   "world-capitals": {
     vocabulary:
-      "Familiar capital-city names from several continents — everyday atlas English, not obscure trivia.",
+      "The bank lists widely recognized capitals such as ACCRA, AMSTERDAM, ANKARA, ATHENS, BAGHDAD, BANGKOK, BEIJING, BEIRUT, BERLIN, BERN, BOGOTA and BRASILIA, among others in the full set. Spellings follow common English map forms. We do not add airline brands, hotel chains or tourist-campaign slogans. Longer names like AMSTERDAM and BRASILIA anchor hard puzzles; shorter ones such as BERN and ACCRA keep easy grids moving.",
     goodFor:
-      "Armchair travellers and anyone refreshing world geography at a gentle pace.",
-    tip: "Unusual letter pairs help: the JJ in JAKARTA when it appears, double letters in TALLINN-style names, or QQ rarely — scan rare letters first.",
+      "Armchair travelers, quiz-night regulars who want a calmer format, students of maps and seniors who still love spinning a globe. It differs from Cities by sticking to capital status, and from Countries by naming seats of government rather than nations. Large print helps with longer foreign spellings on small screens. After a capitals session, Continents and Travel make natural next stops.",
+    tip: "Double letters are gifts: AMSTERDAM, BANGKOK and others often show repeated consonants. Scan for MM, NN or KK patterns before reading every row. Unusual openings — Accra's A-C-C, Beijing's J — jump out once you look for them. On hard grids, capitals may run backwards; if ATHENS will not appear left-to-right, try the reverse path from the final S.",
   },
   "human-body": {
     vocabulary:
-      "Everyday anatomy words — bones, organs and senses — in plain adult English. No medical claims.",
+      "Words stay ordinary and non-clinical: ANKLE, ARM, ARTERY, BACK, BLOOD, BONE, BRAIN, BREATH, CHEST, EAR, ELBOW, EYE, FINGER, HEART, KNEE, LUNG, MUSCLE, NERVE, SPINE and WRIST appear in the wider bank. We avoid disease names, procedure jargon and pharmaceutical trademarks. Short words like EAR, EYE and ARM suit easy boards; longer ones such as ARTERY and MUSCLE give hard puzzles more cover.",
     goodFor:
-      "A practical evergreen theme for curious adults and gentle vocabulary practice.",
-    tip: "Long words like SHOULDER and STOMACH anchor harder grids; short ones like EYE hide on edges.",
+      "Adults who like clear concrete nouns, ESL learners refreshing body vocabulary and seniors who prefer familiar words over abstract themes. Activity leaders often choose it because every answer is easy to picture and say aloud. It is not a substitute for medical advice — only a word list. Large print pairs well when reading glasses are already in use. Yoga and Mindfulness offer gentler neighboring moods after you finish the grid.",
+    tip: "Longer anatomy words — ARTERY, MUSCLE, BREATH, FINGER — should be found before three-letter ones like EAR, EYE and ARM, which vanish into crossings. Letter pairs such as EE in KNEE and ELBOW's EW are handy landmarks. On hard grids, body words sometimes share a letter at a joint (literally): mark the shared cell carefully so both words stay visible in your progress.",
   },
   camping: {
     vocabulary:
@@ -440,24 +442,24 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
   },
   soccer: {
     vocabulary:
-      "Pitch and match English — no club or league brands.",
+      "Match-day words fill the list: ASSIST, BALL, BENCH, BOOTS, CAPTAIN, CARD, CLEATS, COACH, CORNER, CROSS, DEFENDER, FIELD, GOAL, KICK, MATCH, PASS, PITCH, REFEREE, SAVE, STRIKER, TACKLE, TEAM and WHISTLE among others. No club or sponsor names. Short words like GOAL, PASS and KICK suit easy puzzles; DEFENDER, REFEREE and WHISTLE stretch harder boards. The tone stays match-day practical: substitutions, sidelines and the shape of a quiet afternoon watching a game, still without naming any club.",
     goodFor:
-      "Sports fans who want a calm soccer list; child of Sports.",
-    tip: "Long words like DEFENDER and PENALTY are easier than GOAL or NET.",
+      "Fans, casual players and seniors who watched decades of matches. It stays general — not a fantasy-league tool. Large print helps on sunny match-day porches. Basketball and Baseball offer other ball-sport moods after the final whistle. Compared with our general Sports hub, this list stays on one game so every word feels familiar to fans who never needed a rulebook refresher.",
+    tip: "Find DEFENDER, REFEREE, WHISTLE and CAPTAIN before GOAL, PASS and KICK. Double letters in WHISTLE? Look for EE in REFEREE and CLEATS' EA. On hard grids, soccer words often cut diagonally like a through-ball — check long diagonals early. If ASSIST and PASS both appear, mark them carefully — they often cross on the letter S.",
   },
   basketball: {
     vocabulary:
-      "Court English without team brands.",
+      "Court talk includes ASSIST, BACKBOARD, BALL, BASKET, BENCH, BLOCK, CENTER, CLOCK, COACH, COURT, DRIBBLE, DRILL, FREE, GUARD, HOOP, JUMP, LAYUP, PASS, REBOUND, SHOT, SWISH, TEAM and TIMEOUT among the bank. No franchise names. Short words like HOOP, PASS and SHOT hide easily; BACKBOARD, DRIBBLE and REBOUND challenge hard grids. Practice words such as DRILL sit beside game words so the puzzle feels like a gym afternoon, not a merchandise catalogue.",
     goodFor:
-      "A sports child theme for practice-minded adults.",
-    tip: "Compound words such as BACKBOARD and FASTBREAK jump out of a grid.",
+      "Players, spectators and adults who like familiar sports words without scoreboard noise. Large print suits gym-bag phone play. Soccer and Baseball are natural sibling themes. Activity groups often pick basketball vocabulary because it is widely known across ages of adults. It is a focused sibling of Sports: same calm adult style, narrower court vocabulary, still free of franchise noise.",
+    tip: "Long compounds first — BACKBOARD, DRIBBLE, REBOUND, TIMEOUT — then HOOP, PASS and SHOT. Double letters in DRIBBLE and BALL help. On hard boards, court words may run backwards from the baseline; try reverse traces along the bottom rows. When FREE and THROW-style fragments appear as separate list words, confirm each full entry on your list before you mark.",
   },
   "american-history": {
     vocabulary:
-      "Civic and period English — colony, constitution, frontier — no campaign brands.",
+      "The list mixes civic nouns and period words: ABOLITION, ALLIES, AMENDMENT, ARMISTICE, BALLOT, CANAL, CAPITAL, CENSUS, COLONY, CONGRESS, CONSTITUTION, FRONTIER, LIBERTY, PIONEER, SENATE and TREATY appear beside quieter terms such as CHURCH and CIVIL. We deliberately skip living campaign brands, party logos and entertainment franchises. Long Latinate words such as CONSTITUTION and AMENDMENT give hard grids their backbone; shorter ones like CIVIL and CANAL keep easy puzzles approachable.",
     goodFor:
-      "Adults who like calm history vocabulary without trivia noise.",
-    tip: "Long words like CONSTITUTION and EMANCIPATION anchor the hard grid.",
+      "A thoughtful choice for lifelong learners, classroom adults, book-club evenings and seniors who enjoy history without a shouting match. It sits beside Presidents for personal names and offices, Independence Day for July vocabulary and U.S. States for geography. Because the tone is civic rather than sensational, it suits quiet libraries and care-home discussion hours. Large print keeps long words readable on phones.",
+    tip: "Latinate endings help: scan for TION in CONSTITUTION, ABOLITION and AMENDMENT, and for NESS or ALLY patterns when they appear. Long words are your friends on hard grids — find them before hunting BALLOT or CANAL. Unusual letter pairs such as GZ? — look instead for NZ-less ARMISTICE (STI cluster) and the double S in CENSUS. Working longest-to-shortest prevents short civic words from vanishing inside longer ones.",
   },
   presidents: {
     vocabulary:
@@ -601,10 +603,10 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
   },
   deserts: {
     vocabulary:
-      "Arid-land English — dune, oasis, canyon.",
+      "Arid vocabulary fills the bank: ARID, BLOOM, BUSH, BUTTE, CACTUS, CAMEL, CAMP, CANYON, DAWN, DESERT, DRY, DUNE, DUST, HAWK, HEAT, HORIZON, LIZARD, MESA, MIRAGE, OASIS, PLATEAU, SAND, SCORPION, SHADE, THORN, TRAIL, TWILIGHT and WADI among others. No tourism slogans. Short words like DRY, SUN and SAND hide on easy grids; PLATEAU, HORIZON and SCORPION anchor hard ones. Cool-night words such as DAWN, TWILIGHT and SHADE balance the heat words so the theme is not only about midday glare.",
     goodFor:
-      "Adults who like open-horizon vocabulary.",
-    tip: "Long words like PLATEAU and HORIZON are easier than SUN or DRY.",
+      "Geography lovers, travelers who remember dry-country roads and seniors who find desert nouns oddly peaceful. It differs from Beach by trading salt for sand and shade. Large print helps with longer words like SCORPION on small screens. Geology and Mountains continue the landform set. Pair it with National Parks when you want canyon overlooks after the dunes, or with Geology for rockier landforms.",
+    tip: "Find PLATEAU, HORIZON, SCORPION and CANYON before DRY, SUN and SAND. Rare letters help: Q is absent, but Z in LIZARD and X? — look for Z and the SC in SCORPION. On hard grids, desert words often sit on long horizontals like a horizon line — clear the middle rows early. OASIS and ARID are useful contrast pair — finding one often means the other is elsewhere, not overlapping.",
   },
   museums: {
     vocabulary:
@@ -685,10 +687,10 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
   },
   "national-parks": {
     vocabulary:
-      "Trail and ranger English — no concession brands. Companion to Camping.",
+      "Expect landscape and visit words: ARCH, BASIN, CANYON, CAVE, CLIFF, DESERT, MESA, OVERLOOK, RIDGE, TRAIL, VALLEY and VISTA alongside wildlife such as BEAR and BISON. Practical park English — BACKPACK, CAMP, CENTER, DRIVE, LODGE, MAP, RANGER, TRAILHEAD — keeps the list useful rather than trivia-heavy. We avoid naming specific branded lodges or concessionaires. Short words like CAMP, CAVE and MAP suit easy grids; longer ones such as TRAILHEAD and BACKPACK give hard puzzles their shape.",
     goodFor:
-      "Outdoor adults who like park vocabulary.",
-    tip: "Long words such as WILDERNESS and LOOKOUT anchor harder grids.",
+      "A strong evergreen theme for hikers, road-trippers, armchair travelers and seniors who remember family park visits. Activity directors often like it because the words are concrete and the tone stays calm — awe without adrenaline. Pair it with Camping for tents and cookfires, Hiking for footpath vocabulary or Mountains and Forests when you want elevation and trees after the overlook. Large print helps on bright porches and small phone screens alike.",
+    tip: "Long landmark words — TRAILHEAD, BACKPACK, OVERLOOK, CANYON — are easier first finds than three- and four-letter words like MAP, CAMP or ARCH. Scan for uncommon clusters such as CK in BACKPACK or GH in OVERLOOK. On medium and hard grids, park words frequently sit on diagonals that follow a 'ridge line' across the board; once you find one vista word, check the neighboring diagonal for the next.",
   },
   landmarks: {
     vocabulary:
@@ -699,10 +701,10 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
   },
   "farm-animals": {
     vocabulary:
-      "Barn and pasture English — no farm brands. Companion to Animals.",
+      "The farm-animals list stays close to the barnyard: ALPACA, BARN, BULL, CALF, CHICK, COW, DONKEY, DUCK, GOAT, HEN, LAMB, PIG, PONY, ROOSTER, SHEEP and TURKEY sit beside chore words such as FEED, HAY, TROUGH and PASTURE. You will also meet quiet yard details — FENCE, GATE, NEST, STALL and YARD — so the puzzle reads like a morning walk between the barn and the coop. Every name is common English. There are no licensed cartoon characters, no breed-registry jargon and no commercial farm brands. Short words such as CAT, DOG, EGG and PIG keep the easy grid friendly; longer ones such as DONKEY and ROOSTER give the hard grid something to hide.",
     goodFor:
-      "Calm barnyard vocabulary for seniors' hours.",
-    tip: "Long words such as PASTURE and ROOSTER stand out.",
+      "A natural pick for adults who grew up near farms, grandparents solving with older grandchildren, care-home activity hours and anyone who prefers familiar animal names over exotic wildlife lists. It works as a soft companion to our broader Animals hub and to Horses when you want a more pastoral set. Large print suits tired eyes after a long day outdoors or on a phone screen. Because the vocabulary is concrete and visual, it is also a calm choice for English learners who already know farm words from childhood stories — still written for adults, not for preschool worksheets.",
+    tip: "Start with longer, distinctive spellings — ALPACA, DONKEY, ROOSTER, TURKEY — before hunting three-letter words like CAT, DOG, HEN and PIG. Short animal names hide along edges and in crossings. The double letters in EGG, and the unusual C-K ending in CHICK, are useful landmarks once you know to look for them. If a word seems missing, check diagonals on medium and hard grids; farm words are often placed vertically in the easy set and wander more on harder boards.",
   },
   home: {
     vocabulary:
@@ -720,10 +722,10 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
   },
   "board-games": {
     vocabulary:
-      "Tabletop English — dice, token, turn — no game titles or brands.",
+      "The bank covers table habits and pieces: BOARD, CARD, DECK, DICE, DIE, TOKEN, DRAW, DEAL, TURN, BANK, CLOCK, SCORE and FAMILY, plus mood words such as COZY, CHANCE and PLAY. Nothing is a trademarked title, expansion name or publisher. That keeps the list honest and reusable across many evenings. Short words like DIE, DEAL and TURN hide quickly; longer ones such as FAMILY and SCOREPAD (when present) give harder grids more to conceal.",
     goodFor:
-      "Quiet play-night companion.",
-    tip: "Long words like STRATEGY and FRIEND are easier than DIE or WIN.",
+      "Perfect for rainy evenings, retirement-community game rooms, family visits where not everyone wants a loud party game and anyone who associates cardboard and dice with quiet company. It differs from Chess by staying general — no opening theory, just the furniture of play. Seniors who prefer large print can still enjoy the same grown-up word list. Pair with Friendship or Kindness for a softer social set after the dice are put away.",
+    tip: "Find longer words first — FAMILY, BOARD, CHANCE, TOKEN — then hunt DIE, DEAL, DRAW and TURN along edges. Double letters in DICE? Wait — look for double letters in BOARD (none) and in SCORE when it appears; the CK in CLOCK and the CK-less DEAL are useful contrasts. On hard grids, remember DIE and DECK can share letters in crossings; mark carefully so one find does not hide another.",
   },
   pottery: {
     vocabulary:
@@ -797,10 +799,10 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
   },
   "gardening-tools": {
     vocabulary:
-      "Hand-tool English — companion to Garden and Tools; no brands.",
+      "The list leans into hand tools and shed furniture: TROWEL, PRUNER, CLIPPERS, RAKE, HOE, CULTIVATOR, SPADE, FORK, SHEARS, WHEELBARROW, BUCKET, CAN, CART, BENCH, APRON and BOOT. Structure words such as COLDFRAME, TRELLIS and GREENHOUSE appear beside craft and clean-up terms — CRAFT, CLEAN, BASKET — so the puzzle feels like unlocking the shed on a Saturday morning. Nothing is a brand name or a product SKU. Short words like CAN, HOE and RAKE keep beginners moving; longer compounds such as COLDFRAME and CULTIVATOR anchor harder grids.",
     goodFor:
-      "Shed vocabulary for outdoor adults.",
-    tip: "Long words such as WHEELBARROW and GREENHOUSE stand out first.",
+      "Ideal for allotment keepers, balcony gardeners, retirees who still keep a tool wall and anyone who finds the vocabulary of soil more calming than flower Latin. It pairs with Garden for plant names, Tools for a wider workshop set and Flowers when you want blooms after you have found the trowel. Care homes and quiet clubs often prefer this concrete theme because every word names something you can picture. Large print helps when gloves come off and reading glasses go on.",
+    tip: "Hunt long compounds first — COLDFRAME, CULTIVATOR, WHEELBARROW, CLIPPERS — then sweep for short tools like HOE, RAKE and CAN. The double P in CLIPPERS and the OW in TROWEL stand out once you train your eye. On hard grids, tool names often run backwards from the handle end of the word; if SPADE will not appear forwards, try reading right-to-left along the same row.",
   },
   yoga: {
     vocabulary:

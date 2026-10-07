@@ -67,7 +67,7 @@ export default async function ThemePage({ params }: Props) {
     .map((k) => all[(idx + k) % all.length])
     .filter((t) => t.id !== theme.id);
   const words = [...theme.words].sort();
-  const dates = themeDates(puzzles);
+  const dates = themeDates(puzzles, theme.id);
   const pageUrl = absoluteUrl(`/themes/${theme.slug}`);
   return (
     <>

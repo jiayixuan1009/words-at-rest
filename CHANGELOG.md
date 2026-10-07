@@ -9,6 +9,15 @@
 
 ## [未发布 Unreleased]
 
+## 2026-10-07 — Hub 文案加厚（Wave C–K 偏薄主题，待部署）
+
+### 变更 — 加厚 20 个偏薄主题 hub 英文 intro
+- 目标：每个 hub 原创英文约 **250–450** 词（description + `THEME_EXTRA`），面向成人/大字友好，FAQ 式价值说明，链到相关主题 / how-to-play / large-print；无关键词堆砌、无医疗宣称、无 IP。
+- **加厚主题（20）：** farm-animals、gardening-tools、national-parks、board-games、american-history、world-capitals、human-body、us-states、music-terms、coffee-tea、fathers-day、mothers-day、independence-day、st-patricks、kitchen、breakfast、vegetables、soccer、basketball、deserts。
+- 优先：缺 `THEME_EXTRA` 的 Wave H/C 等新主题、季节 hub、Food/Sports/Music/Garden 子主题与地理长尾；已较厚的 halloween 等跳过。
+- `data/themes/*.json` description 扩写；`lib/theme-content.ts` 补全/加厚 vocabulary / goodFor / tip。
+- `themeDates()` 纳入对应 `data/themes/{id}.json`，hub 文案提交后 `dateModified` 随 git 自然更新（仅改文案的 hub，不碰谜题文件）。
+
 ## 2026-10-07 — Wave JK（冲过 ~1000，已部署）
 
 ### 新增 — Wave JK（+5 主题 / +215 谜题 → **1043**）
