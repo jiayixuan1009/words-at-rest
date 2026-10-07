@@ -46,6 +46,14 @@
 - 2026-11-05 — Daily Word Search: Apothecary (Medium) (apothecary / medium).
 - 2026-11-06 — Daily Word Search: Architecture (Medium) (architecture / medium).
 
+### 改进 — 补齐全部主题难度递进图 + 节日 OG 底图（2026-10-08）
+- Asrock `words-at-rest-current` 交付：此前缺失的 **101** 个主题 × Easy/Medium/Hard 插画（各 `1200×900` + `-640` + `-320`），共 **909** 个新 WebP；原有 **20** 组难度图字节未改。
+- 全站难度递进图现为 **121 / 121** 主题齐全（`final-validation.json`：`availableTotalThemeSeries=121`、`missing=[]`、`uniqueDifficultyMasters=303`）。
+- 独立 `design/og-base/og-holidays.png`（不再复用 fall）；同步 `public/images/holidays/og-holidays.png`；仅重生成 `/public/og/holidays.jpg`（**未**回写 Asrock 上过期的主题 OG JPG，避免回归）。
+- `lib/images.ts` 的 `DIFFICULTY_ART_THEMES` 扩至全部 121 slug，谜题页 `puzzleArt` 可按难度选用递进图。
+- 未改封面 / 主题 OG 底图（与 master MD5 一致）；未改谜题数据 / content dates；未提交 `tsbuildinfo`。
+- 校验收据：`design/exports/difficulty-2026-10-08/{README.md,final-validation.json}`。
+- **Deploy（2026-10-08 ~02:35 Asia/Shanghai）：** commit `842019d` → master；Worker version `714fedcd-3b65-4a8a-9cb3-f2e467b91a3c`（account `b79c11a97188ceeb150acb0b6c4cda97`）。线上 10/10 MD5 抽查 MATCH（含 airplanes 三难度、yoga-hard-640、museums-medium、weather-easy-320、food-easy、valentines 封面、`/og/holidays.jpg`、`/images/holidays/og-holidays.png`）；holidays OG ≠ fall。证据：`/workspace/reports/wordsatrest-images-complete-2026-10-08/`。
 
 ### 改进 — 难度 / 大字列表分页（2026-10-08）
 - `/difficulty/easy|medium|hard` 与 `/large-print` 不再一次渲染全部 PuzzleCard（此前 easy ≈ **1.0 MB HTML / ~531 图**）。

@@ -256,16 +256,34 @@ export function themeImageAlt(slug: string, themeName: string): string {
 }
 
 /**
- * Themes that have the progressive Easy/Medium/Hard art set (design/DIFFICULTY-IMAGE-REQUEST.md):
+ * Themes that have the progressive Easy/Medium/Hard art set (121/121; design/DIFFICULTY-IMAGE-REQUEST.md + difficulty-2026-10-08 drop):
  * public/images/themes/<slug>-<easy|medium|hard>.webp (1200×900) plus -640 and -320 variants.
  * The Workers runtime can't stat files, so this list is the source of truth;
  * scripts/check-images.mjs fails the build check if a listed file is missing.
  * Add a slug here only after all three levels exist.
  */
 export const DIFFICULTY_ART_THEMES: ReadonlySet<string> = new Set([
-  "animals", "bible", "cats", "christmas", "dogs", "easter", "fall", "food", "garden",
-  "hard-pack", "halloween", "large-print-pack", "music", "ocean", "space", "sports",
-  "thanksgiving", "travel", "valentines", "winter",
+  "airplanes", "american-history", "animals", "apothecary", "architecture", "astronomy",
+  "baking", "baseball", "basketball", "beach", "bible", "birds",
+  "birdwatching", "birthday", "board-games", "breakfast", "calligraphy", "camping",
+  "cars", "cats", "chemistry", "chess", "christmas", "cities",
+  "classical", "coffee-tea", "colors", "continents", "cooking", "countries",
+  "cycling", "deserts", "desserts", "dinosaurs", "dogs", "easter",
+  "emotions", "fall", "farm-animals", "farming", "fathers-day", "fishing",
+  "flowers", "food", "forests", "friendship", "fruits", "garden",
+  "gardening-tools", "geology", "golf", "gratitude", "halloween", "hard-pack",
+  "herbs", "hiking", "home", "horses", "human-body", "independence-day",
+  "insects", "instruments", "islands", "jazz", "jobs", "journaling",
+  "kindness", "kitchen", "knitting", "lakes", "landmarks", "large-print-pack",
+  "libraries", "lighthouses", "meditation", "mindfulness", "money", "mothers-day",
+  "mountains", "museums", "music", "music-terms", "mythology", "national-parks",
+  "new-year", "ocean", "painting", "photography", "pottery", "presidents",
+  "quilting", "reading", "reptiles", "rivers", "school", "sewing",
+  "shopping", "soccer", "space", "sports", "spring", "st-patricks",
+  "summer", "swimming", "tennis", "thanksgiving", "tools", "trains",
+  "travel", "trees", "us-states", "valentines", "vegetables", "volcanoes",
+  "volunteering", "weather", "wedding", "winter", "woodworking", "world-capitals",
+  "yoga",
 ]);
 
 /** What the painting shows at each level (same scene, fuller as difficulty rises). */
