@@ -4,6 +4,20 @@ import { readFileSync, readdirSync } from "node:fs";
 import { matchSelection, restoreProgress, moveGridFocus } from "../lib/game.ts";
 import { placementCells, DIRECTIONS_BY_DIFFICULTY, DIRECTION_VECTORS } from "../lib/engine.ts";
 import { readConsent, setConsent, trackEvent } from "../lib/analytics.ts";
+import { bandGeometry } from "../lib/puzzle-feedback.ts";
+
+test("Feedback bands follow actual cell centres in every direction and at resized widths", () => {
+  const metrics = { width: 300, height: 300, x: 20, y: 20, dx: 30, dy: 30, thickness: 21 };
+  assert.equal(bandGeometry([], metrics), null);
+  assert.deepEqual(bandGeometry([[1, 1]], metrics), { x1: 50, y1: 50, x2: 50, y2: 50 });
+  for (const [dr, dc] of [[0, 1], [1, 0], [1, 1], [1, -1]]) {
+    const a = [2, 2], b = [2 + dr * 3, 2 + dc * 3];
+    const forward = bandGeometry([a, b], metrics), reverse = bandGeometry([b, a], metrics);
+    assert.deepEqual(reverse, { x1: forward.x2, y1: forward.y2, x2: forward.x1, y2: forward.y1 });
+    const enlarged = bandGeometry([a, b], { ...metrics, x: 40, y: 40, dx: 60, dy: 60 });
+    assert.deepEqual(enlarged, Object.fromEntries(Object.entries(forward).map(([k, v]) => [k, v * 2])));
+  }
+});
 
 const read = (path) => JSON.parse(readFileSync(new URL(path, import.meta.url), "utf8"));
 const halloween = read("../data/puzzles/halloween-easy-01.json");

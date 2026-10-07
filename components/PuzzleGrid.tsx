@@ -19,6 +19,7 @@ import Link from "next/link";
 import { lineCells } from "@/lib/engine";
 import { matchSelection, moveGridFocus, restoreProgress, type FoundPaths } from "@/lib/game";
 import { trackEvent } from "@/lib/analytics";
+import { bandGeometry, PATH_COLORS, type BoardMetrics } from "@/lib/puzzle-feedback";
 import type { Difficulty, Placement } from "@/lib/types";
 
 type Cell = [number, number];
@@ -79,6 +80,35 @@ export default function PuzzleGrid({
   const [feedbacks, setFeedbacks] = useState<Feedback[]>([]);
   const feedbackIdRef = useRef(0);
   const feedbackTimersRef = useRef(new Map<number, ReturnType<typeof setTimeout>>());
+  const [boardMetrics, setBoardMetrics] = useState<BoardMetrics | null>(null);
+
+  useEffect(() => {
+    const board = gridRef.current;
+    if (!board) return;
+    const first = board.querySelector<HTMLElement>('[data-r="0"][data-c="0"]');
+    const horizontal = board.querySelector<HTMLElement>('[data-r="0"][data-c="1"]');
+    const vertical = board.querySelector<HTMLElement>('[data-r="1"][data-c="0"]');
+    if (!first) return;
+    const measure = () => {
+      const bounds = board.getBoundingClientRect(), cell = first.getBoundingClientRect();
+      setBoardMetrics({
+        width: board.clientWidth, height: board.clientHeight,
+        x: cell.left - bounds.left - board.clientLeft + cell.width / 2,
+        y: cell.top - bounds.top - board.clientTop + cell.height / 2,
+        dx: horizontal ? horizontal.getBoundingClientRect().left - cell.left : cell.width,
+        dy: vertical ? vertical.getBoundingClientRect().top - cell.top : cell.height,
+        thickness: Math.min(cell.width, cell.height) * 0.72,
+      });
+    };
+    measure();
+    if (typeof ResizeObserver === "undefined") {
+      window.addEventListener("resize", measure);
+      return () => window.removeEventListener("resize", measure);
+    }
+    const observer = new ResizeObserver(measure);
+    observer.observe(board); observer.observe(first);
+    return () => observer.disconnect();
+  }, [size]);
 
   // Feedback belongs only to new selections, never to restored progress. Independent
   // timers let consecutive finds finish without blocking input or losing a pulse.
@@ -92,7 +122,7 @@ export default function PuzzleGrid({
     const timer = setTimeout(() => {
       feedbackTimersRef.current.delete(id);
       setFeedbacks((current) => current.filter((item) => item.id !== id));
-    }, kind === "found" ? 700 : 220);
+    }, kind === "found" ? 1100 : 220);
     feedbackTimersRef.current.set(id, timer);
   }, []);
   const latestFind = feedbacks.filter((item) => item.kind === "found").at(-1);
@@ -148,6 +178,11 @@ export default function PuzzleGrid({
     else if (pending) s.add(key(pending));
     return s;
   }, [dragStart, hover, pending]);
+  const selectionPath = useMemo(() => {
+    const anchor = dragStart ?? pending;
+    return anchor ? lineCells(anchor, hover ?? anchor) ?? [anchor] : [];
+  }, [dragStart, pending, hover]);
+  const wordColor = (word: string) => PATH_COLORS[targetWords.indexOf(word) % PATH_COLORS.length];
 
   const evaluate = useCallback(
     (a: Cell, b: Cell) => {
@@ -333,12 +368,17 @@ export default function PuzzleGrid({
       <div className="puzzle-progress" role="progressbar" aria-label="Words found" aria-valuemin={0} aria-valuemax={targetCount} aria-valuenow={found.size} aria-valuetext={`${found.size} of ${targetCount} words found`}>
         <span className={latestFind ? "puzzle-progress__fill is-new-find" : "puzzle-progress__fill"} style={{ transform: `scaleX(${targetCount ? found.size / targetCount : 0})` }} />
       </div>
+      <div className="puzzle-feedback-bar" aria-hidden="true">
+        {latestFind ? <span key={latestFind.id} className="puzzle-found-toast"><span className="puzzle-check">✓</span> {latestFind.word} found</span> : <span>{complete ? "All words found" : found.size ? "Keep going — you're making progress" : "Find a word to begin"}</span>}
+        <span className="puzzle-remaining">{complete ? "Complete" : `${targetCount - found.size} ${targetCount - found.size === 1 ? "word" : "words"} to go`}</span>
+      </div>
 
       <p id={instructionsId} className="font-sans text-base text-[var(--ink-soft)]">
         Drag across a word, or tap its first and last letters. Keyboard: Tab into the grid, use arrow keys to move, Enter or Space to select each end, and Escape to cancel.
       </p>
 
       <div className="puzzle-layout flex flex-col gap-6 lg:flex-row lg:items-start">
+        <div className="puzzle-board-wrap w-full max-w-xl">
         <div
           ref={gridRef}
           role="grid"
@@ -350,9 +390,29 @@ export default function PuzzleGrid({
           onPointerMove={onPointerMove}
           onPointerUp={onPointerUp}
           onPointerCancel={cancelSelection}
-          className={`puzzle-board grid w-full max-w-xl select-none touch-none p-1.5 sm:p-2${complete && latestFind ? " is-celebrating" : ""}`}
+          className={`puzzle-board grid w-full max-w-xl select-none touch-none p-1.5 sm:p-2${boardMetrics ? " has-bands" : ""}${complete && latestFind ? " is-celebrating" : ""}`}
           style={{ gridTemplateColumns: `repeat(${size}, minmax(0, 1fr))`, ["--n" as string]: size }}
         >
+          {boardMetrics && <svg className="puzzle-bands" aria-hidden="true" focusable="false" viewBox={`0 0 ${boardMetrics.width} ${boardMetrics.height}`} preserveAspectRatio="none">
+            {Object.entries(progress).map(([word, cells]) => {
+              const geometry = bandGeometry(cells, boardMetrics);
+              if (!geometry) return null;
+              const color = wordColor(word);
+              const feedback = feedbacks.find((item) => item.word === word);
+              return <g key={word} className="puzzle-band" style={{ ["--band-fill" as string]: color.fill, ["--band-edge" as string]: color.edge }}>
+                <line {...geometry} stroke={color.edge} strokeWidth={boardMetrics.thickness + 3} strokeLinecap="round" />
+                <line {...geometry} stroke={color.fill} strokeWidth={boardMetrics.thickness} strokeLinecap="round" />
+                {feedback && <line key={feedback.id} {...geometry} className="puzzle-band-sweep" pathLength={1} stroke={color.edge} strokeWidth={boardMetrics.thickness + 4} strokeLinecap="round" />}
+              </g>;
+            })}
+            {selectionPath.length > 0 && (() => {
+              const geometry = bandGeometry(selectionPath, boardMetrics);
+              return geometry && <g className="puzzle-selection-band">
+                <line {...geometry} stroke="#956b2e" strokeWidth={boardMetrics.thickness + 3} strokeLinecap="round" />
+                <line {...geometry} stroke="#efd09b" strokeWidth={boardMetrics.thickness} strokeLinecap="round" />
+              </g>;
+            })()}
+          </svg>}
           {grid.map((row, r) => (
             // display:contents keeps every cell a direct CSS-grid item while giving
             // assistive tech / crawlers a proper grid > row > gridcell structure.
@@ -381,12 +441,14 @@ export default function PuzzleGrid({
                     className={`puzzle-cell${state}${endpoints}${pending && key(pending) === k ? " is-armed" : ""}`}
                   >
                     <span className="puzzle-letter">{letter}</span>
-                    {pulse && <span key={pulse.feedback.id} aria-hidden="true" className={`puzzle-cell-feedback is-${pulse.feedback.kind}`} style={{ animationDelay: pulse.feedback.kind === "found" ? `${pulse.order / Math.max(1, pulse.feedback.cells.length - 1) * 80}ms` : "0ms" }} />}
+                    {pulse?.feedback.kind === "miss" && <span key={pulse.feedback.id} aria-hidden="true" className="puzzle-cell-feedback is-miss" />}
                   </div>
                 );
               })}
             </div>
           ))}
+        </div>
+        {complete && latestFind && <div key={latestFind.id} className="puzzle-celebration" aria-hidden="true">{Array.from({ length: 12 }, (_, i) => <span key={i} style={{ ["--i" as string]: i, ["--rise" as string]: `${65 + i % 4 * 18}px`, ["--tilt" as string]: `${i % 2 ? 85 : -85}deg`, ["--particle-color" as string]: PATH_COLORS[i % PATH_COLORS.length].edge }} />)}</div>}
         </div>
 
         <div className="word-panel min-w-48">
@@ -399,8 +461,10 @@ export default function PuzzleGrid({
               <li
                 key={w}
                 className={`puzzle-word${found.has(w) ? " is-found" : ""}${feedbacks.some((item) => item.word === w) ? " is-new-find" : ""}`}
+                style={{ ["--word-color" as string]: wordColor(w).edge }}
               >
                 <span className="puzzle-word__label">{w}</span>
+                <span className="puzzle-word__check" aria-hidden="true">{found.has(w) ? "✓" : ""}</span>
                 {found.has(w) && <span className="sr-only"> — found</span>}
               </li>
             ))}
@@ -408,7 +472,8 @@ export default function PuzzleGrid({
           {complete && (
             <div className={`puzzle-complete-card mt-4${latestFind ? " is-new-completion" : ""}`}>
               <h3 className="font-serif text-xl font-semibold">Nicely done — all words found.</h3>
-              <p className="mt-1 text-base text-[var(--ink-soft)]">Take a breath. Another calm puzzle is ready when you are.</p>
+              <p className="mt-1 text-base text-[var(--ink-soft)]">You found all {targetCount} words. Take a breath and enjoy the moment.</p>
+              {nextPuzzle && <p className="puzzle-next-preview">Up next: {nextPuzzle.title}</p>}
               {nextPuzzle && <Link href={nextPuzzle.href} className="btn-primary mt-3" onClick={() => event("next_puzzle", { next_puzzle_path: nextPuzzle.href })}>
                 Play another puzzle <span className="sr-only">: {nextPuzzle.title}</span><span aria-hidden="true"> →</span>
               </Link>}
