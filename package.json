@@ -26,7 +26,7 @@
   },
   "type": "module",
   "scripts": {
-    "test": "node --test scripts/test-game.mjs && npm run daily:test",
+    "test": "node --test scripts/test-game.mjs scripts/test-pagination.mjs && npm run daily:test",
     "predeploy": "npm run daily:check && npm test",
     "dev": "vite dev",
     "build": "vite build",
@@ -40,7 +40,7 @@
     "daily:check": "node scripts/check-daily.ts",
     "daily:test": "node scripts/test-daily.mjs"
   },
-  "description": "Words at Rest (wordsatrest.com) — calm word search puzzles for adults. vinext (Next.js API on Vite) + Cloudflare Workers.",
+  "description": "Words at Rest (wordsatrest.com) \u2014 calm word search puzzles for adults. vinext (Next.js API on Vite) + Cloudflare Workers.",
   "engines": {
     "node": ">=22.18"
   }
