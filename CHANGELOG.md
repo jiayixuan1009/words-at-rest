@@ -9,6 +9,13 @@
 
 ## [未发布 Unreleased]
 
+### 改进 — 105 个主题专属封面与 OG 底图（2026-10-07）
+- 用 Asrock `words-at-rest-current` 新出的专属插画替换此前复用父主题占位图的 **105** 个主题封面（`public/images/themes/{slug}.webp` + `-640.webp`）及对应 `design/og-base/og-theme-{slug}.png`；16 个 keeper（animals / bible / cats / christmas / dogs / fall / food / garden / halloween / hard-pack / large-print-pack / music / ocean / space / sports / travel）未改。
+- 全站 **121 / 121** 主题封面与 OG 底图现均为独立 MD5；Asrock `final-validation.json`：`uniqueCoverHashes=121`、`uniqueOgHashes=121`、`issues=[]`。含 P0 节日：valentines、thanksgiving、winter、easter，以及 golf 等原复用组。
+- 已有 `-640` 与校验收据一致，跳过 `derive-images`；运行 `node scripts/generate-og.mjs` 为 105 个主题重生成 `/public/og/themes/*.jpg`（keeper OG 卡字节未变）。
+- 未改谜题 / hub 文案 / `data/themes`；未提交 `tsbuildinfo`。`/holidays` 的 `og-holidays.png` 仍与 fall 同源（用户未提供新 holidays 底图）。
+- typecheck + 生产构建通过。
+
 ### 改进 — 强化解题反馈（2026-10-07，已上线）
 - 根据竞品实测强化全部PuzzleGrid：拖选预览与实际答案改为连续圆角色带，四组柔和颜色保留不同答案；依据实际格子中心绘制，适配标准／大字、手机、横纵斜向和交叉路径，保留服务端字母及无JS高亮。
 - 找词增加整路径扫亮、棋盘上方成功提示、词表勾选／强调及同步计数进度；保留剩余词数。通关增加一次短粒子庆祝、边缘光晕、完整成果与下一题预告。
