@@ -16,6 +16,7 @@
 - SEO 定义／主题／来源等仍在折线下方；`home-mid` 广告仍在主题区之后，不盖住字母格。
 - 新增 `components/HomeDailyPuzzle.tsx`；精简 `DailyLauncher`（仅保留 LauncherChips）；`home-launcher` CSS 改为全宽 stack。
 - 未改谜题数据 / content dates；未提交 `tsbuildinfo`。
+- **Deploy（2026-10-08 ~01:35 Asia/Shanghai）：** commit `1eee66b` → master；Worker version `4489ca13-84c9-4c6c-a6eb-e96159d5e4cb`（account `b79c11a97188ceeb150acb0b6c4cda97`）。线上 `/` 可圈词且 URL 不跳转；`/daily` 共用 `war:progress:daily-2026-10-07`。证据：`/workspace/reports/wordsatrest-home-embed-2026-10-08/`。
 
 ### 改进 — 105 个主题专属封面与 OG 底图（2026-10-07）
 - 用 Asrock `words-at-rest-current` 新出的专属插画替换此前复用父主题占位图的 **105** 个主题封面（`public/images/themes/{slug}.webp` + `-640.webp`）及对应 `design/og-base/og-theme-{slug}.png`；16 个 keeper（animals / bible / cats / christmas / dogs / fall / food / garden / halloween / hard-pack / large-print-pack / music / ocean / space / sports / travel）未改。
