@@ -17,6 +17,7 @@
 - `sitemap.xml` 纳入难度与大字后续页；`/page/1` 永久重定向到裸路径；越界页 404。
 - 新增 `lib/pagination.ts`、`components/Pagination.tsx`、共享 `DifficultyLevelView` / `LargePrintView`；`scripts/test-pagination.mjs` 接入 `npm test`。
 - 未改谜题数据 / 主题路由 / Daily；`/themes` 目录页仍为全量 ThemeCard（约 379 KB，后续可再分页）。
+- **Deploy（2026-10-08 ~02:15 Asia/Shanghai）：** commit `e1115fa` → master；Worker version `38c40d3b-b6a1-4360-b576-df350e58d452`（account `b79c11a97188ceeb150acb0b6c4cda97`）。线上 easy HTML **1,024,596 → 109,219**（−89%），imgs ~531 → 29；page/2 可抓取；page/999 404。证据：`/workspace/reports/wordsatrest-difficulty-paginate-2026-10-08/`。
 
 ### 改进 — 首页嵌入今日可玩 Daily 格子（2026-10-08）
 - 首页 `/` 首屏改为嵌入与 `/daily` **同一道**今日谜题的可交互 `PuzzleGrid`（词表、拖选／两点选、键盘、Grid size Larger、Reset 均可用）；不再用装饰性 mini-grid 预览卡跳转。
