@@ -1,5 +1,19 @@
 # Calm puzzle feedback
 
+## Stronger feedback update — 2026-10-07 (release pending)
+
+The current implementation supersedes the initial motion timings below. Every PuzzleGrid now draws continuous rounded bands through measured cell centres: a warm live selection preview, then one of four soft persistent answer colors. The selected path is retained even for an alternate occurrence or reverse endpoint order. An SVG layer ignores pointer input and leaves the stable, server-rendered letters above it. ResizeObserver keeps it aligned when the board, text size or breakpoint changes; the original cell backgrounds remain as a pre-hydration/no-JS fallback.
+
+New answers receive a 550ms path sweep, a 1100ms visual success message above the board, a 350ms count/progress/strike update and a persistent word-list check. Remaining words stay visible. The existing single polite live region supplies accessible feedback; decorative success messages do not create duplicate live announcements.
+
+Fresh completion receives a 900ms edge glow, twelve small leaf-shaped particles (950ms with up to 88ms stagger), a 650ms card entrance, the total found and the next puzzle's name. Particles stay within the board wrapper and never block interaction. Feedback expires at 1100ms. Reset/unmount clear all feedback timers; unmount also disconnects the resize observer. Restored and duplicate answers never replay success or celebration.
+
+Reduced-motion CSS hides sweeps and particles and disables success/count/list/card/glow animations and progress transitions; persistent bands, checks, count and success text remain. Print hides SVG and animated decoration while preserving found-cell backgrounds. No sounds, dependencies or new analytics events were added.
+
+Integrated upstream `01e3bf8`: kept the twenty expanded theme hubs and canonical eight-entry Daily schedule through October 14. Initial typecheck/build and seven game test groups plus Daily tests passed (1,043 catalog + eight Daily puzzles; 12,943 legal occurrences). Browser checks verified pointer alternate BAT, a keyboard 10/10 game, nine simultaneous sweeps and twelve completion particles, one live region, endpoint focus retained, restored 10/10 without replay, duplicate/Reset cleanup, 320px Larger without overflow and reverse diagonal CAULDRON with a running sweep. Final merged build and production verification are pending. OS reduced-motion and screen-reader tests have not been performed.
+
+Evidence: workspace `research/release-strong-feedback-2026-10-07/`. Prior production history below is retained as historical release evidence.
+
 Implemented on 2026-10-07 (Asia/Shanghai). Applies to all pages using PuzzleGrid, including catalog, large-print and Daily puzzles.
 
 - Selected cells form a warm band with defined endpoints. Arming the first letter by pointer or keyboard adds a single 180ms ring.
