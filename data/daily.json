@@ -2092,6 +2092,6222 @@
       ],
       "seed": 948568466,
       "createdAt": "2026-10-07T01:30:28.317Z"
+    },
+    {
+      "date": "2026-10-15",
+      "id": "daily-2026-10-15",
+      "slug": "daily-2026-10-15",
+      "themeId": "airplanes",
+      "difficulty": "medium",
+      "title": "Daily Word Search: Airplanes (Medium)",
+      "primaryKeyword": "daily airplanes word search",
+      "gridSize": 12,
+      "largePrint": false,
+      "words": [
+        "ALTITUDE",
+        "BELT",
+        "DOOR",
+        "GATE",
+        "HANGAR",
+        "JET",
+        "MAP",
+        "NOSE",
+        "RADIO",
+        "RAMP",
+        "RUNWAY",
+        "TAXI",
+        "TERMINAL",
+        "TURBULENCE"
+      ],
+      "grid": [
+        [
+          "B",
+          "M",
+          "A",
+          "P",
+          "D",
+          "K",
+          "V",
+          "R",
+          "E",
+          "X",
+          "O",
+          "L"
+        ],
+        [
+          "B",
+          "N",
+          "O",
+          "S",
+          "E",
+          "R",
+          "U",
+          "N",
+          "W",
+          "A",
+          "Y",
+          "E"
+        ],
+        [
+          "E",
+          "D",
+          "O",
+          "O",
+          "R",
+          "C",
+          "O",
+          "R",
+          "A",
+          "M",
+          "P",
+          "C"
+        ],
+        [
+          "B",
+          "V",
+          "T",
+          "U",
+          "R",
+          "B",
+          "U",
+          "L",
+          "E",
+          "N",
+          "C",
+          "E"
+        ],
+        [
+          "E",
+          "T",
+          "A",
+          "U",
+          "M",
+          "B",
+          "C",
+          "U",
+          "Z",
+          "F",
+          "T",
+          "U"
+        ],
+        [
+          "L",
+          "S",
+          "L",
+          "O",
+          "N",
+          "D",
+          "J",
+          "E",
+          "T",
+          "I",
+          "E",
+          "K"
+        ],
+        [
+          "T",
+          "I",
+          "T",
+          "X",
+          "X",
+          "H",
+          "A",
+          "N",
+          "G",
+          "A",
+          "R",
+          "D"
+        ],
+        [
+          "E",
+          "B",
+          "I",
+          "O",
+          "Z",
+          "T",
+          "N",
+          "N",
+          "U",
+          "L",
+          "M",
+          "X"
+        ],
+        [
+          "L",
+          "S",
+          "T",
+          "O",
+          "Y",
+          "R",
+          "A",
+          "D",
+          "I",
+          "O",
+          "I",
+          "O"
+        ],
+        [
+          "T",
+          "X",
+          "U",
+          "G",
+          "A",
+          "T",
+          "E",
+          "R",
+          "E",
+          "X",
+          "N",
+          "E"
+        ],
+        [
+          "Q",
+          "G",
+          "D",
+          "R",
+          "V",
+          "Q",
+          "N",
+          "F",
+          "A",
+          "P",
+          "A",
+          "A"
+        ],
+        [
+          "Z",
+          "Q",
+          "E",
+          "U",
+          "W",
+          "W",
+          "M",
+          "T",
+          "H",
+          "P",
+          "L",
+          "P"
+        ]
+      ],
+      "placements": [
+        {
+          "word": "TURBULENCE",
+          "row": 3,
+          "col": 2,
+          "direction": "E"
+        },
+        {
+          "word": "ALTITUDE",
+          "row": 4,
+          "col": 2,
+          "direction": "S"
+        },
+        {
+          "word": "TERMINAL",
+          "row": 4,
+          "col": 10,
+          "direction": "S"
+        },
+        {
+          "word": "HANGAR",
+          "row": 6,
+          "col": 5,
+          "direction": "E"
+        },
+        {
+          "word": "RUNWAY",
+          "row": 1,
+          "col": 5,
+          "direction": "E"
+        },
+        {
+          "word": "RADIO",
+          "row": 8,
+          "col": 5,
+          "direction": "E"
+        },
+        {
+          "word": "BELT",
+          "row": 3,
+          "col": 0,
+          "direction": "S"
+        },
+        {
+          "word": "NOSE",
+          "row": 1,
+          "col": 1,
+          "direction": "E"
+        },
+        {
+          "word": "DOOR",
+          "row": 2,
+          "col": 1,
+          "direction": "E"
+        },
+        {
+          "word": "GATE",
+          "row": 9,
+          "col": 3,
+          "direction": "E"
+        },
+        {
+          "word": "RAMP",
+          "row": 2,
+          "col": 7,
+          "direction": "E"
+        },
+        {
+          "word": "TAXI",
+          "row": 11,
+          "col": 7,
+          "direction": "NE"
+        },
+        {
+          "word": "JET",
+          "row": 5,
+          "col": 6,
+          "direction": "E"
+        },
+        {
+          "word": "MAP",
+          "row": 0,
+          "col": 1,
+          "direction": "E"
+        }
+      ],
+      "seed": 965346085,
+      "createdAt": "2026-10-07T18:39:24.974Z"
+    },
+    {
+      "date": "2026-10-16",
+      "id": "daily-2026-10-16",
+      "slug": "daily-2026-10-16",
+      "themeId": "american-history",
+      "difficulty": "medium",
+      "title": "Daily Word Search: American History (Medium)",
+      "primaryKeyword": "daily american history word search",
+      "gridSize": 12,
+      "largePrint": false,
+      "words": [
+        "ABOLITION",
+        "ALLIES",
+        "CAPITAL",
+        "CENSUS",
+        "CHURCH",
+        "CIVIL",
+        "CONGRESS",
+        "COURT",
+        "DEPRESSION",
+        "EMANCIPATION",
+        "FRONTIER",
+        "LIBERTY",
+        "RIGHTS",
+        "TREATY"
+      ],
+      "grid": [
+        [
+          "D",
+          "E",
+          "P",
+          "R",
+          "E",
+          "S",
+          "S",
+          "I",
+          "O",
+          "N",
+          "O",
+          "W"
+        ],
+        [
+          "F",
+          "R",
+          "O",
+          "N",
+          "T",
+          "I",
+          "E",
+          "R",
+          "M",
+          "Y",
+          "S",
+          "Q"
+        ],
+        [
+          "E",
+          "M",
+          "A",
+          "N",
+          "C",
+          "I",
+          "P",
+          "A",
+          "T",
+          "I",
+          "O",
+          "N"
+        ],
+        [
+          "D",
+          "J",
+          "X",
+          "A",
+          "I",
+          "S",
+          "S",
+          "R",
+          "N",
+          "S",
+          "P",
+          "A"
+        ],
+        [
+          "G",
+          "H",
+          "F",
+          "F",
+          "U",
+          "T",
+          "E",
+          "O",
+          "S",
+          "K",
+          "L",
+          "H"
+        ],
+        [
+          "R",
+          "C",
+          "H",
+          "S",
+          "H",
+          "B",
+          "I",
+          "E",
+          "P",
+          "E",
+          "L",
+          "C"
+        ],
+        [
+          "B",
+          "Q",
+          "N",
+          "G",
+          "I",
+          "T",
+          "R",
+          "E",
+          "A",
+          "T",
+          "Y",
+          "B"
+        ],
+        [
+          "Y",
+          "E",
+          "I",
+          "L",
+          "I",
+          "G",
+          "A",
+          "L",
+          "L",
+          "I",
+          "E",
+          "S"
+        ],
+        [
+          "C",
+          "R",
+          "B",
+          "L",
+          "N",
+          "C",
+          "A",
+          "P",
+          "I",
+          "T",
+          "A",
+          "L"
+        ],
+        [
+          "J",
+          "M",
+          "O",
+          "O",
+          "Z",
+          "W",
+          "C",
+          "H",
+          "U",
+          "R",
+          "C",
+          "H"
+        ],
+        [
+          "H",
+          "B",
+          "C",
+          "S",
+          "T",
+          "N",
+          "C",
+          "I",
+          "V",
+          "I",
+          "L",
+          "O"
+        ],
+        [
+          "A",
+          "H",
+          "N",
+          "G",
+          "C",
+          "O",
+          "U",
+          "R",
+          "T",
+          "I",
+          "S",
+          "Q"
+        ]
+      ],
+      "placements": [
+        {
+          "word": "EMANCIPATION",
+          "row": 2,
+          "col": 0,
+          "direction": "E"
+        },
+        {
+          "word": "DEPRESSION",
+          "row": 0,
+          "col": 0,
+          "direction": "E"
+        },
+        {
+          "word": "ABOLITION",
+          "row": 11,
+          "col": 0,
+          "direction": "NE"
+        },
+        {
+          "word": "CONGRESS",
+          "row": 10,
+          "col": 2,
+          "direction": "NE"
+        },
+        {
+          "word": "FRONTIER",
+          "row": 1,
+          "col": 0,
+          "direction": "E"
+        },
+        {
+          "word": "LIBERTY",
+          "row": 7,
+          "col": 3,
+          "direction": "NE"
+        },
+        {
+          "word": "CAPITAL",
+          "row": 8,
+          "col": 5,
+          "direction": "E"
+        },
+        {
+          "word": "CHURCH",
+          "row": 9,
+          "col": 6,
+          "direction": "E"
+        },
+        {
+          "word": "RIGHTS",
+          "row": 8,
+          "col": 1,
+          "direction": "NE"
+        },
+        {
+          "word": "CENSUS",
+          "row": 8,
+          "col": 0,
+          "direction": "NE"
+        },
+        {
+          "word": "TREATY",
+          "row": 6,
+          "col": 5,
+          "direction": "E"
+        },
+        {
+          "word": "ALLIES",
+          "row": 7,
+          "col": 6,
+          "direction": "E"
+        },
+        {
+          "word": "COURT",
+          "row": 11,
+          "col": 4,
+          "direction": "E"
+        },
+        {
+          "word": "CIVIL",
+          "row": 10,
+          "col": 6,
+          "direction": "E"
+        }
+      ],
+      "seed": 915013228,
+      "createdAt": "2026-10-07T18:39:24.981Z"
+    },
+    {
+      "date": "2026-10-17",
+      "id": "daily-2026-10-17",
+      "slug": "daily-2026-10-17",
+      "themeId": "animals",
+      "difficulty": "hard",
+      "title": "Daily Word Search: Animals (Hard)",
+      "primaryKeyword": "daily animals word search",
+      "gridSize": 15,
+      "largePrint": false,
+      "words": [
+        "ANT",
+        "BISON",
+        "CHEETAH",
+        "CRAB",
+        "FALCON",
+        "FERRET",
+        "FROG",
+        "HERON",
+        "LIZARD",
+        "LYNX",
+        "MINNOW",
+        "OTTER",
+        "OWL",
+        "REED",
+        "RIPPLE",
+        "SQUIRREL",
+        "STONE",
+        "WAVE"
+      ],
+      "grid": [
+        [
+          "B",
+          "H",
+          "V",
+          "Q",
+          "C",
+          "F",
+          "R",
+          "O",
+          "G",
+          "P",
+          "N",
+          "H",
+          "W",
+          "N",
+          "O"
+        ],
+        [
+          "C",
+          "D",
+          "V",
+          "D",
+          "J",
+          "G",
+          "K",
+          "D",
+          "T",
+          "D",
+          "J",
+          "X",
+          "O",
+          "B",
+          "F"
+        ],
+        [
+          "O",
+          "K",
+          "B",
+          "Z",
+          "V",
+          "U",
+          "Q",
+          "T",
+          "E",
+          "H",
+          "A",
+          "C",
+          "C",
+          "G",
+          "E"
+        ],
+        [
+          "H",
+          "F",
+          "Q",
+          "H",
+          "M",
+          "S",
+          "H",
+          "D",
+          "E",
+          "M",
+          "L",
+          "L",
+          "A",
+          "L",
+          "R"
+        ],
+        [
+          "P",
+          "E",
+          "B",
+          "E",
+          "C",
+          "E",
+          "R",
+          "Z",
+          "C",
+          "A",
+          "R",
+          "E",
+          "F",
+          "O",
+          "R"
+        ],
+        [
+          "A",
+          "S",
+          "X",
+          "C",
+          "R",
+          "A",
+          "G",
+          "I",
+          "F",
+          "K",
+          "F",
+          "R",
+          "M",
+          "T",
+          "E"
+        ],
+        [
+          "N",
+          "L",
+          "Z",
+          "O",
+          "Z",
+          "A",
+          "Z",
+          "R",
+          "F",
+          "B",
+          "Z",
+          "R",
+          "D",
+          "E",
+          "T"
+        ],
+        [
+          "T",
+          "C",
+          "N",
+          "I",
+          "H",
+          "X",
+          "S",
+          "S",
+          "W",
+          "M",
+          "W",
+          "I",
+          "Y",
+          "Q",
+          "F"
+        ],
+        [
+          "B",
+          "G",
+          "L",
+          "H",
+          "C",
+          "A",
+          "B",
+          "Z",
+          "I",
+          "X",
+          "O",
+          "U",
+          "K",
+          "D",
+          "B"
+        ],
+        [
+          "B",
+          "R",
+          "E",
+          "E",
+          "D",
+          "R",
+          "T",
+          "N",
+          "Q",
+          "V",
+          "W",
+          "Q",
+          "L",
+          "D",
+          "R"
+        ],
+        [
+          "S",
+          "A",
+          "B",
+          "A",
+          "R",
+          "C",
+          "N",
+          "E",
+          "T",
+          "B",
+          "I",
+          "S",
+          "Y",
+          "M",
+          "E"
+        ],
+        [
+          "T",
+          "W",
+          "L",
+          "W",
+          "O",
+          "O",
+          "O",
+          "F",
+          "E",
+          "H",
+          "P",
+          "W",
+          "N",
+          "U",
+          "T"
+        ],
+        [
+          "O",
+          "I",
+          "A",
+          "V",
+          "W",
+          "V",
+          "S",
+          "R",
+          "D",
+          "H",
+          "T",
+          "U",
+          "X",
+          "Z",
+          "T"
+        ],
+        [
+          "N",
+          "D",
+          "G",
+          "V",
+          "B",
+          "R",
+          "I",
+          "L",
+          "F",
+          "L",
+          "C",
+          "H",
+          "M",
+          "N",
+          "O"
+        ],
+        [
+          "E",
+          "P",
+          "L",
+          "K",
+          "E",
+          "B",
+          "B",
+          "R",
+          "I",
+          "P",
+          "P",
+          "L",
+          "E",
+          "L",
+          "K"
+        ]
+      ],
+      "placements": [
+        {
+          "word": "SQUIRREL",
+          "row": 10,
+          "col": 11,
+          "direction": "N"
+        },
+        {
+          "word": "CHEETAH",
+          "row": 13,
+          "col": 10,
+          "direction": "NW"
+        },
+        {
+          "word": "LIZARD",
+          "row": 8,
+          "col": 2,
+          "direction": "NE"
+        },
+        {
+          "word": "MINNOW",
+          "row": 7,
+          "col": 9,
+          "direction": "SW"
+        },
+        {
+          "word": "FALCON",
+          "row": 5,
+          "col": 8,
+          "direction": "NE"
+        },
+        {
+          "word": "FERRET",
+          "row": 1,
+          "col": 14,
+          "direction": "S"
+        },
+        {
+          "word": "RIPPLE",
+          "row": 14,
+          "col": 7,
+          "direction": "E"
+        },
+        {
+          "word": "STONE",
+          "row": 10,
+          "col": 0,
+          "direction": "S"
+        },
+        {
+          "word": "OTTER",
+          "row": 13,
+          "col": 14,
+          "direction": "N"
+        },
+        {
+          "word": "HERON",
+          "row": 3,
+          "col": 6,
+          "direction": "SW"
+        },
+        {
+          "word": "BISON",
+          "row": 14,
+          "col": 6,
+          "direction": "N"
+        },
+        {
+          "word": "FROG",
+          "row": 0,
+          "col": 5,
+          "direction": "E"
+        },
+        {
+          "word": "LYNX",
+          "row": 9,
+          "col": 12,
+          "direction": "S"
+        },
+        {
+          "word": "WAVE",
+          "row": 11,
+          "col": 1,
+          "direction": "SE"
+        },
+        {
+          "word": "REED",
+          "row": 9,
+          "col": 1,
+          "direction": "E"
+        },
+        {
+          "word": "CRAB",
+          "row": 10,
+          "col": 5,
+          "direction": "W"
+        },
+        {
+          "word": "ANT",
+          "row": 5,
+          "col": 0,
+          "direction": "S"
+        },
+        {
+          "word": "OWL",
+          "row": 11,
+          "col": 4,
+          "direction": "W"
+        }
+      ],
+      "seed": 931790847,
+      "createdAt": "2026-10-07T18:39:24.988Z"
+    },
+    {
+      "date": "2026-10-18",
+      "id": "daily-2026-10-18",
+      "slug": "daily-2026-10-18",
+      "themeId": "apothecary",
+      "difficulty": "easy",
+      "title": "Daily Word Search: Apothecary (Easy)",
+      "primaryKeyword": "daily apothecary word search",
+      "gridSize": 10,
+      "largePrint": false,
+      "words": [
+        "BELL",
+        "BLEND",
+        "DRAWER",
+        "JAR",
+        "LAVENDER",
+        "PAPER",
+        "PESTLE",
+        "QUIET",
+        "SACHET",
+        "SCENT"
+      ],
+      "grid": [
+        [
+          "D",
+          "P",
+          "E",
+          "S",
+          "T",
+          "L",
+          "E",
+          "F",
+          "K",
+          "D"
+        ],
+        [
+          "Q",
+          "U",
+          "I",
+          "E",
+          "T",
+          "N",
+          "C",
+          "R",
+          "P",
+          "R"
+        ],
+        [
+          "V",
+          "Y",
+          "F",
+          "F",
+          "S",
+          "C",
+          "E",
+          "N",
+          "T",
+          "A"
+        ],
+        [
+          "L",
+          "A",
+          "V",
+          "E",
+          "N",
+          "D",
+          "E",
+          "R",
+          "O",
+          "W"
+        ],
+        [
+          "D",
+          "V",
+          "C",
+          "J",
+          "A",
+          "R",
+          "G",
+          "N",
+          "N",
+          "E"
+        ],
+        [
+          "C",
+          "S",
+          "A",
+          "C",
+          "H",
+          "E",
+          "T",
+          "P",
+          "W",
+          "R"
+        ],
+        [
+          "F",
+          "D",
+          "D",
+          "G",
+          "B",
+          "L",
+          "E",
+          "N",
+          "D",
+          "Z"
+        ],
+        [
+          "Q",
+          "G",
+          "U",
+          "B",
+          "E",
+          "L",
+          "L",
+          "V",
+          "F",
+          "P"
+        ],
+        [
+          "O",
+          "A",
+          "L",
+          "H",
+          "J",
+          "Q",
+          "W",
+          "Y",
+          "K",
+          "B"
+        ],
+        [
+          "O",
+          "M",
+          "P",
+          "A",
+          "P",
+          "E",
+          "R",
+          "P",
+          "O",
+          "T"
+        ]
+      ],
+      "placements": [
+        {
+          "word": "LAVENDER",
+          "row": 3,
+          "col": 0,
+          "direction": "E"
+        },
+        {
+          "word": "SACHET",
+          "row": 5,
+          "col": 1,
+          "direction": "E"
+        },
+        {
+          "word": "PESTLE",
+          "row": 0,
+          "col": 1,
+          "direction": "E"
+        },
+        {
+          "word": "DRAWER",
+          "row": 0,
+          "col": 9,
+          "direction": "S"
+        },
+        {
+          "word": "PAPER",
+          "row": 9,
+          "col": 2,
+          "direction": "E"
+        },
+        {
+          "word": "BLEND",
+          "row": 6,
+          "col": 4,
+          "direction": "E"
+        },
+        {
+          "word": "SCENT",
+          "row": 2,
+          "col": 4,
+          "direction": "E"
+        },
+        {
+          "word": "QUIET",
+          "row": 1,
+          "col": 0,
+          "direction": "E"
+        },
+        {
+          "word": "BELL",
+          "row": 7,
+          "col": 3,
+          "direction": "E"
+        },
+        {
+          "word": "JAR",
+          "row": 4,
+          "col": 3,
+          "direction": "E"
+        }
+      ],
+      "seed": 1015678942,
+      "createdAt": "2026-10-07T18:39:24.994Z"
+    },
+    {
+      "date": "2026-10-19",
+      "id": "daily-2026-10-19",
+      "slug": "daily-2026-10-19",
+      "themeId": "halloween",
+      "difficulty": "easy",
+      "title": "Daily Word Search: Halloween (Easy)",
+      "primaryKeyword": "daily halloween word search",
+      "gridSize": 10,
+      "largePrint": false,
+      "words": [
+        "AUTUMN",
+        "BAG",
+        "COSTUME",
+        "DARK",
+        "DUSK",
+        "FANG",
+        "GHOST",
+        "GLOW",
+        "HAT",
+        "LEAF"
+      ],
+      "grid": [
+        [
+          "D",
+          "A",
+          "R",
+          "K",
+          "G",
+          "J",
+          "M",
+          "G",
+          "F",
+          "W"
+        ],
+        [
+          "U",
+          "O",
+          "E",
+          "I",
+          "L",
+          "C",
+          "R",
+          "H",
+          "A",
+          "W"
+        ],
+        [
+          "S",
+          "E",
+          "H",
+          "A",
+          "R",
+          "O",
+          "W",
+          "O",
+          "N",
+          "G"
+        ],
+        [
+          "K",
+          "V",
+          "Y",
+          "U",
+          "C",
+          "S",
+          "M",
+          "S",
+          "G",
+          "Y"
+        ],
+        [
+          "G",
+          "B",
+          "Q",
+          "T",
+          "L",
+          "T",
+          "C",
+          "T",
+          "L",
+          "G"
+        ],
+        [
+          "A",
+          "A",
+          "H",
+          "U",
+          "E",
+          "U",
+          "M",
+          "H",
+          "B",
+          "L"
+        ],
+        [
+          "G",
+          "G",
+          "V",
+          "M",
+          "A",
+          "M",
+          "E",
+          "N",
+          "E",
+          "O"
+        ],
+        [
+          "X",
+          "E",
+          "H",
+          "N",
+          "F",
+          "E",
+          "G",
+          "X",
+          "U",
+          "W"
+        ],
+        [
+          "I",
+          "G",
+          "A",
+          "K",
+          "H",
+          "Z",
+          "B",
+          "U",
+          "Y",
+          "I"
+        ],
+        [
+          "X",
+          "G",
+          "T",
+          "Z",
+          "M",
+          "G",
+          "Z",
+          "D",
+          "V",
+          "T"
+        ]
+      ],
+      "placements": [
+        {
+          "word": "COSTUME",
+          "row": 1,
+          "col": 5,
+          "direction": "S"
+        },
+        {
+          "word": "AUTUMN",
+          "row": 2,
+          "col": 3,
+          "direction": "S"
+        },
+        {
+          "word": "GHOST",
+          "row": 0,
+          "col": 7,
+          "direction": "S"
+        },
+        {
+          "word": "LEAF",
+          "row": 4,
+          "col": 4,
+          "direction": "S"
+        },
+        {
+          "word": "GLOW",
+          "row": 4,
+          "col": 9,
+          "direction": "S"
+        },
+        {
+          "word": "FANG",
+          "row": 0,
+          "col": 8,
+          "direction": "S"
+        },
+        {
+          "word": "DUSK",
+          "row": 0,
+          "col": 0,
+          "direction": "S"
+        },
+        {
+          "word": "DARK",
+          "row": 0,
+          "col": 0,
+          "direction": "E"
+        },
+        {
+          "word": "HAT",
+          "row": 7,
+          "col": 2,
+          "direction": "S"
+        },
+        {
+          "word": "BAG",
+          "row": 4,
+          "col": 1,
+          "direction": "S"
+        }
+      ],
+      "seed": 1032456561,
+      "createdAt": "2026-10-07T18:39:24.999Z"
+    },
+    {
+      "date": "2026-10-20",
+      "id": "daily-2026-10-20",
+      "slug": "daily-2026-10-20",
+      "themeId": "fall",
+      "difficulty": "medium",
+      "title": "Daily Word Search: Fall (Medium)",
+      "primaryKeyword": "daily fall word search",
+      "gridSize": 12,
+      "largePrint": false,
+      "words": [
+        "BONFIRE",
+        "CHESTNUT",
+        "CRATE",
+        "FENCE",
+        "FOG",
+        "GATE",
+        "HAY",
+        "MIGRATION",
+        "MUSHROOM",
+        "NOVEMBER",
+        "SCARF",
+        "SPICE",
+        "SQUASH",
+        "THICKET"
+      ],
+      "grid": [
+        [
+          "M",
+          "U",
+          "S",
+          "H",
+          "R",
+          "O",
+          "O",
+          "M",
+          "O",
+          "C",
+          "N",
+          "Y"
+        ],
+        [
+          "Z",
+          "O",
+          "S",
+          "U",
+          "E",
+          "X",
+          "T",
+          "C",
+          "M",
+          "R",
+          "C",
+          "S"
+        ],
+        [
+          "P",
+          "Q",
+          "O",
+          "C",
+          "F",
+          "E",
+          "B",
+          "V",
+          "I",
+          "A",
+          "E",
+          "N"
+        ],
+        [
+          "O",
+          "D",
+          "I",
+          "O",
+          "K",
+          "E",
+          "V",
+          "S",
+          "G",
+          "T",
+          "E",
+          "O"
+        ],
+        [
+          "I",
+          "P",
+          "U",
+          "C",
+          "C",
+          "G",
+          "T",
+          "W",
+          "R",
+          "E",
+          "O",
+          "V"
+        ],
+        [
+          "S",
+          "V",
+          "I",
+          "N",
+          "B",
+          "S",
+          "Q",
+          "U",
+          "A",
+          "S",
+          "H",
+          "E"
+        ],
+        [
+          "H",
+          "H",
+          "E",
+          "G",
+          "L",
+          "Q",
+          "E",
+          "O",
+          "T",
+          "I",
+          "L",
+          "M"
+        ],
+        [
+          "T",
+          "F",
+          "O",
+          "N",
+          "S",
+          "D",
+          "P",
+          "W",
+          "I",
+          "Z",
+          "M",
+          "B"
+        ],
+        [
+          "X",
+          "F",
+          "J",
+          "Q",
+          "O",
+          "C",
+          "H",
+          "M",
+          "O",
+          "U",
+          "M",
+          "E"
+        ],
+        [
+          "L",
+          "N",
+          "H",
+          "A",
+          "Y",
+          "R",
+          "A",
+          "U",
+          "N",
+          "J",
+          "S",
+          "R"
+        ],
+        [
+          "B",
+          "O",
+          "N",
+          "F",
+          "I",
+          "R",
+          "E",
+          "R",
+          "G",
+          "A",
+          "T",
+          "E"
+        ],
+        [
+          "C",
+          "H",
+          "E",
+          "S",
+          "T",
+          "N",
+          "U",
+          "T",
+          "F",
+          "Z",
+          "H",
+          "B"
+        ]
+      ],
+      "placements": [
+        {
+          "word": "MIGRATION",
+          "row": 1,
+          "col": 8,
+          "direction": "S"
+        },
+        {
+          "word": "NOVEMBER",
+          "row": 2,
+          "col": 11,
+          "direction": "S"
+        },
+        {
+          "word": "CHESTNUT",
+          "row": 11,
+          "col": 0,
+          "direction": "E"
+        },
+        {
+          "word": "MUSHROOM",
+          "row": 0,
+          "col": 0,
+          "direction": "E"
+        },
+        {
+          "word": "THICKET",
+          "row": 7,
+          "col": 0,
+          "direction": "NE"
+        },
+        {
+          "word": "BONFIRE",
+          "row": 10,
+          "col": 0,
+          "direction": "E"
+        },
+        {
+          "word": "SQUASH",
+          "row": 5,
+          "col": 5,
+          "direction": "E"
+        },
+        {
+          "word": "CRATE",
+          "row": 0,
+          "col": 9,
+          "direction": "S"
+        },
+        {
+          "word": "FENCE",
+          "row": 7,
+          "col": 1,
+          "direction": "NE"
+        },
+        {
+          "word": "SPICE",
+          "row": 5,
+          "col": 0,
+          "direction": "NE"
+        },
+        {
+          "word": "SCARF",
+          "row": 7,
+          "col": 4,
+          "direction": "SE"
+        },
+        {
+          "word": "GATE",
+          "row": 10,
+          "col": 8,
+          "direction": "E"
+        },
+        {
+          "word": "FOG",
+          "row": 8,
+          "col": 1,
+          "direction": "NE"
+        },
+        {
+          "word": "HAY",
+          "row": 9,
+          "col": 2,
+          "direction": "E"
+        }
+      ],
+      "seed": 3464961053,
+      "createdAt": "2026-10-07T18:39:25.007Z"
+    },
+    {
+      "date": "2026-10-21",
+      "id": "daily-2026-10-21",
+      "slug": "daily-2026-10-21",
+      "themeId": "airplanes",
+      "difficulty": "easy",
+      "title": "Daily Word Search: Airplanes (Easy)",
+      "primaryKeyword": "daily airplanes word search",
+      "gridSize": 10,
+      "largePrint": false,
+      "words": [
+        "BELT",
+        "BOARD",
+        "COCKPIT",
+        "COMPASS",
+        "ENGINE",
+        "FUEL",
+        "MAP",
+        "PROPELLER",
+        "TAXI",
+        "WIND"
+      ],
+      "grid": [
+        [
+          "T",
+          "N",
+          "P",
+          "P",
+          "F",
+          "U",
+          "E",
+          "L",
+          "C",
+          "F"
+        ],
+        [
+          "A",
+          "C",
+          "R",
+          "B",
+          "Y",
+          "B",
+          "X",
+          "C",
+          "E",
+          "C"
+        ],
+        [
+          "X",
+          "O",
+          "O",
+          "E",
+          "P",
+          "C",
+          "C",
+          "G",
+          "N",
+          "D"
+        ],
+        [
+          "I",
+          "C",
+          "P",
+          "L",
+          "W",
+          "U",
+          "O",
+          "Q",
+          "G",
+          "F"
+        ],
+        [
+          "O",
+          "K",
+          "E",
+          "T",
+          "I",
+          "T",
+          "M",
+          "M",
+          "I",
+          "L"
+        ],
+        [
+          "T",
+          "P",
+          "L",
+          "D",
+          "N",
+          "O",
+          "P",
+          "U",
+          "N",
+          "I"
+        ],
+        [
+          "M",
+          "I",
+          "L",
+          "I",
+          "D",
+          "P",
+          "A",
+          "R",
+          "E",
+          "N"
+        ],
+        [
+          "M",
+          "T",
+          "E",
+          "R",
+          "X",
+          "A",
+          "S",
+          "M",
+          "X",
+          "M"
+        ],
+        [
+          "C",
+          "H",
+          "R",
+          "I",
+          "G",
+          "U",
+          "S",
+          "A",
+          "D",
+          "W"
+        ],
+        [
+          "B",
+          "B",
+          "O",
+          "A",
+          "R",
+          "D",
+          "E",
+          "P",
+          "B",
+          "Z"
+        ]
+      ],
+      "placements": [
+        {
+          "word": "PROPELLER",
+          "row": 0,
+          "col": 2,
+          "direction": "S"
+        },
+        {
+          "word": "COCKPIT",
+          "row": 1,
+          "col": 1,
+          "direction": "S"
+        },
+        {
+          "word": "COMPASS",
+          "row": 2,
+          "col": 6,
+          "direction": "S"
+        },
+        {
+          "word": "ENGINE",
+          "row": 1,
+          "col": 8,
+          "direction": "S"
+        },
+        {
+          "word": "BOARD",
+          "row": 9,
+          "col": 1,
+          "direction": "E"
+        },
+        {
+          "word": "FUEL",
+          "row": 0,
+          "col": 4,
+          "direction": "E"
+        },
+        {
+          "word": "BELT",
+          "row": 1,
+          "col": 3,
+          "direction": "S"
+        },
+        {
+          "word": "TAXI",
+          "row": 0,
+          "col": 0,
+          "direction": "S"
+        },
+        {
+          "word": "WIND",
+          "row": 3,
+          "col": 4,
+          "direction": "S"
+        },
+        {
+          "word": "MAP",
+          "row": 7,
+          "col": 7,
+          "direction": "S"
+        }
+      ],
+      "seed": 3448183434,
+      "createdAt": "2026-10-07T18:39:25.011Z"
+    },
+    {
+      "date": "2026-10-22",
+      "id": "daily-2026-10-22",
+      "slug": "daily-2026-10-22",
+      "themeId": "american-history",
+      "difficulty": "medium",
+      "title": "Daily Word Search: American History (Medium)",
+      "primaryKeyword": "daily american history word search",
+      "gridSize": 12,
+      "largePrint": false,
+      "words": [
+        "ALLIES",
+        "ARMISTICE",
+        "BALLOT",
+        "CHURCH",
+        "CIVIL",
+        "COURT",
+        "FRONTIER",
+        "HOUSE",
+        "LIBERTY",
+        "NEWDEAL",
+        "RAILROAD",
+        "REFORM",
+        "STRIKE",
+        "WAGON"
+      ],
+      "grid": [
+        [
+          "Z",
+          "X",
+          "R",
+          "E",
+          "F",
+          "O",
+          "R",
+          "M",
+          "Z",
+          "B",
+          "F",
+          "W"
+        ],
+        [
+          "W",
+          "C",
+          "M",
+          "C",
+          "N",
+          "E",
+          "W",
+          "D",
+          "E",
+          "A",
+          "L",
+          "A"
+        ],
+        [
+          "T",
+          "X",
+          "C",
+          "O",
+          "R",
+          "U",
+          "F",
+          "X",
+          "T",
+          "L",
+          "H",
+          "G"
+        ],
+        [
+          "D",
+          "V",
+          "A",
+          "N",
+          "B",
+          "A",
+          "L",
+          "L",
+          "O",
+          "T",
+          "O",
+          "O"
+        ],
+        [
+          "A",
+          "R",
+          "M",
+          "I",
+          "S",
+          "T",
+          "I",
+          "C",
+          "E",
+          "U",
+          "U",
+          "N"
+        ],
+        [
+          "M",
+          "T",
+          "G",
+          "I",
+          "C",
+          "R",
+          "T",
+          "L",
+          "G",
+          "B",
+          "S",
+          "N"
+        ],
+        [
+          "C",
+          "I",
+          "V",
+          "I",
+          "L",
+          "U",
+          "S",
+          "V",
+          "R",
+          "V",
+          "E",
+          "T"
+        ],
+        [
+          "A",
+          "L",
+          "L",
+          "I",
+          "E",
+          "S",
+          "N",
+          "T",
+          "W",
+          "O",
+          "R",
+          "K"
+        ],
+        [
+          "M",
+          "S",
+          "Q",
+          "I",
+          "C",
+          "J",
+          "G",
+          "C",
+          "R",
+          "U",
+          "A",
+          "O"
+        ],
+        [
+          "L",
+          "I",
+          "B",
+          "E",
+          "R",
+          "T",
+          "Y",
+          "I",
+          "O",
+          "I",
+          "S",
+          "D"
+        ],
+        [
+          "P",
+          "R",
+          "X",
+          "C",
+          "H",
+          "U",
+          "R",
+          "C",
+          "H",
+          "G",
+          "K",
+          "S"
+        ],
+        [
+          "F",
+          "R",
+          "O",
+          "N",
+          "T",
+          "I",
+          "E",
+          "R",
+          "Y",
+          "M",
+          "P",
+          "E"
+        ]
+      ],
+      "placements": [
+        {
+          "word": "ARMISTICE",
+          "row": 4,
+          "col": 0,
+          "direction": "E"
+        },
+        {
+          "word": "RAILROAD",
+          "row": 2,
+          "col": 4,
+          "direction": "SE"
+        },
+        {
+          "word": "FRONTIER",
+          "row": 11,
+          "col": 0,
+          "direction": "E"
+        },
+        {
+          "word": "LIBERTY",
+          "row": 9,
+          "col": 0,
+          "direction": "E"
+        },
+        {
+          "word": "NEWDEAL",
+          "row": 1,
+          "col": 4,
+          "direction": "E"
+        },
+        {
+          "word": "CHURCH",
+          "row": 10,
+          "col": 3,
+          "direction": "E"
+        },
+        {
+          "word": "ALLIES",
+          "row": 7,
+          "col": 0,
+          "direction": "E"
+        },
+        {
+          "word": "BALLOT",
+          "row": 3,
+          "col": 4,
+          "direction": "E"
+        },
+        {
+          "word": "REFORM",
+          "row": 0,
+          "col": 2,
+          "direction": "E"
+        },
+        {
+          "word": "STRIKE",
+          "row": 6,
+          "col": 6,
+          "direction": "SE"
+        },
+        {
+          "word": "WAGON",
+          "row": 0,
+          "col": 11,
+          "direction": "S"
+        },
+        {
+          "word": "COURT",
+          "row": 10,
+          "col": 7,
+          "direction": "NE"
+        },
+        {
+          "word": "HOUSE",
+          "row": 2,
+          "col": 10,
+          "direction": "S"
+        },
+        {
+          "word": "CIVIL",
+          "row": 6,
+          "col": 0,
+          "direction": "E"
+        }
+      ],
+      "seed": 3431405815,
+      "createdAt": "2026-10-07T18:39:25.016Z"
+    },
+    {
+      "date": "2026-10-23",
+      "id": "daily-2026-10-23",
+      "slug": "daily-2026-10-23",
+      "themeId": "animals",
+      "difficulty": "medium",
+      "title": "Daily Word Search: Animals (Medium)",
+      "primaryKeyword": "daily animals word search",
+      "gridSize": 12,
+      "largePrint": false,
+      "words": [
+        "BEAR",
+        "DEER",
+        "DRAGONFLY",
+        "FALCON",
+        "FERRET",
+        "FISH",
+        "GULL",
+        "HAWK",
+        "HERON",
+        "LLAMA",
+        "REEF",
+        "SQUIRREL",
+        "TURTLE",
+        "WAVE"
+      ],
+      "grid": [
+        [
+          "O",
+          "B",
+          "B",
+          "H",
+          "O",
+          "A",
+          "G",
+          "M",
+          "U",
+          "P",
+          "W",
+          "Z"
+        ],
+        [
+          "A",
+          "Q",
+          "S",
+          "E",
+          "M",
+          "D",
+          "D",
+          "F",
+          "B",
+          "F",
+          "A",
+          "B"
+        ],
+        [
+          "S",
+          "I",
+          "Z",
+          "A",
+          "U",
+          "O",
+          "T",
+          "D",
+          "T",
+          "A",
+          "V",
+          "C"
+        ],
+        [
+          "F",
+          "L",
+          "L",
+          "P",
+          "L",
+          "X",
+          "J",
+          "S",
+          "U",
+          "L",
+          "E",
+          "L"
+        ],
+        [
+          "V",
+          "L",
+          "A",
+          "Z",
+          "H",
+          "A",
+          "W",
+          "K",
+          "R",
+          "C",
+          "V",
+          "O"
+        ],
+        [
+          "S",
+          "F",
+          "E",
+          "R",
+          "R",
+          "E",
+          "T",
+          "F",
+          "T",
+          "O",
+          "F",
+          "Y"
+        ],
+        [
+          "Y",
+          "O",
+          "B",
+          "E",
+          "A",
+          "R",
+          "V",
+          "X",
+          "L",
+          "N",
+          "P",
+          "Z"
+        ],
+        [
+          "K",
+          "E",
+          "G",
+          "U",
+          "L",
+          "L",
+          "K",
+          "D",
+          "E",
+          "E",
+          "R",
+          "P"
+        ],
+        [
+          "D",
+          "R",
+          "A",
+          "G",
+          "O",
+          "N",
+          "F",
+          "L",
+          "Y",
+          "J",
+          "E",
+          "A"
+        ],
+        [
+          "B",
+          "C",
+          "P",
+          "W",
+          "S",
+          "Q",
+          "U",
+          "I",
+          "R",
+          "R",
+          "E",
+          "L"
+        ],
+        [
+          "H",
+          "E",
+          "R",
+          "O",
+          "N",
+          "U",
+          "B",
+          "K",
+          "U",
+          "O",
+          "F",
+          "P"
+        ],
+        [
+          "J",
+          "Y",
+          "V",
+          "P",
+          "J",
+          "E",
+          "Z",
+          "M",
+          "G",
+          "B",
+          "V",
+          "P"
+        ]
+      ],
+      "placements": [
+        {
+          "word": "DRAGONFLY",
+          "row": 8,
+          "col": 0,
+          "direction": "E"
+        },
+        {
+          "word": "SQUIRREL",
+          "row": 9,
+          "col": 4,
+          "direction": "E"
+        },
+        {
+          "word": "FERRET",
+          "row": 5,
+          "col": 1,
+          "direction": "E"
+        },
+        {
+          "word": "TURTLE",
+          "row": 2,
+          "col": 8,
+          "direction": "S"
+        },
+        {
+          "word": "FALCON",
+          "row": 1,
+          "col": 9,
+          "direction": "S"
+        },
+        {
+          "word": "HERON",
+          "row": 10,
+          "col": 0,
+          "direction": "E"
+        },
+        {
+          "word": "LLAMA",
+          "row": 4,
+          "col": 1,
+          "direction": "NE"
+        },
+        {
+          "word": "DEER",
+          "row": 7,
+          "col": 7,
+          "direction": "E"
+        },
+        {
+          "word": "FISH",
+          "row": 3,
+          "col": 0,
+          "direction": "NE"
+        },
+        {
+          "word": "GULL",
+          "row": 7,
+          "col": 2,
+          "direction": "E"
+        },
+        {
+          "word": "BEAR",
+          "row": 6,
+          "col": 2,
+          "direction": "E"
+        },
+        {
+          "word": "REEF",
+          "row": 7,
+          "col": 10,
+          "direction": "S"
+        },
+        {
+          "word": "WAVE",
+          "row": 0,
+          "col": 10,
+          "direction": "S"
+        },
+        {
+          "word": "HAWK",
+          "row": 4,
+          "col": 4,
+          "direction": "E"
+        }
+      ],
+      "seed": 3414628196,
+      "createdAt": "2026-10-07T18:39:25.021Z"
+    },
+    {
+      "date": "2026-10-24",
+      "id": "daily-2026-10-24",
+      "slug": "daily-2026-10-24",
+      "themeId": "apothecary",
+      "difficulty": "hard",
+      "title": "Daily Word Search: Apothecary (Hard)",
+      "primaryKeyword": "daily apothecary word search",
+      "gridSize": 15,
+      "largePrint": false,
+      "words": [
+        "BALM",
+        "BARK",
+        "BEESWAX",
+        "BELL",
+        "BLEND",
+        "CABINET",
+        "CORK",
+        "INFUSE",
+        "LEAF",
+        "MINT",
+        "PESTLE",
+        "SCALE",
+        "SHELF",
+        "SHOP",
+        "SOFT",
+        "STEEP",
+        "STRING",
+        "TEA"
+      ],
+      "grid": [
+        [
+          "F",
+          "F",
+          "D",
+          "L",
+          "F",
+          "I",
+          "M",
+          "B",
+          "I",
+          "S",
+          "S",
+          "D",
+          "T",
+          "L",
+          "Y"
+        ],
+        [
+          "X",
+          "A",
+          "B",
+          "F",
+          "L",
+          "B",
+          "A",
+          "E",
+          "G",
+          "N",
+          "E",
+          "O",
+          "Q",
+          "E",
+          "J"
+        ],
+        [
+          "P",
+          "S",
+          "E",
+          "Q",
+          "E",
+          "T",
+          "C",
+          "L",
+          "Q",
+          "X",
+          "F",
+          "L",
+          "F",
+          "A",
+          "A"
+        ],
+        [
+          "Z",
+          "E",
+          "L",
+          "L",
+          "H",
+          "Q",
+          "T",
+          "L",
+          "A",
+          "L",
+          "G",
+          "U",
+          "M",
+          "T",
+          "A"
+        ],
+        [
+          "F",
+          "C",
+          "E",
+          "H",
+          "S",
+          "R",
+          "B",
+          "W",
+          "R",
+          "A",
+          "P",
+          "L",
+          "S",
+          "V",
+          "D"
+        ],
+        [
+          "I",
+          "P",
+          "G",
+          "T",
+          "K",
+          "S",
+          "S",
+          "M",
+          "K",
+          "O",
+          "A",
+          "O",
+          "K",
+          "E",
+          "Z"
+        ],
+        [
+          "O",
+          "H",
+          "S",
+          "Q",
+          "S",
+          "E",
+          "Y",
+          "L",
+          "P",
+          "B",
+          "Z",
+          "R",
+          "X",
+          "G",
+          "G"
+        ],
+        [
+          "N",
+          "X",
+          "T",
+          "C",
+          "E",
+          "D",
+          "U",
+          "P",
+          "U",
+          "E",
+          "A",
+          "R",
+          "C",
+          "T",
+          "J"
+        ],
+        [
+          "B",
+          "Z",
+          "R",
+          "B",
+          "L",
+          "M",
+          "T",
+          "X",
+          "S",
+          "B",
+          "S",
+          "W",
+          "K",
+          "J",
+          "Z"
+        ],
+        [
+          "L",
+          "T",
+          "I",
+          "U",
+          "B",
+          "I",
+          "E",
+          "Q",
+          "E",
+          "H",
+          "R",
+          "T",
+          "Z",
+          "I",
+          "J"
+        ],
+        [
+          "E",
+          "Q",
+          "N",
+          "B",
+          "S",
+          "N",
+          "N",
+          "L",
+          "S",
+          "I",
+          "O",
+          "E",
+          "L",
+          "R",
+          "R"
+        ],
+        [
+          "N",
+          "V",
+          "G",
+          "I",
+          "C",
+          "T",
+          "I",
+          "M",
+          "K",
+          "H",
+          "V",
+          "P",
+          "W",
+          "E",
+          "H"
+        ],
+        [
+          "D",
+          "O",
+          "Y",
+          "W",
+          "A",
+          "J",
+          "B",
+          "N",
+          "R",
+          "I",
+          "B",
+          "K",
+          "C",
+          "N",
+          "X"
+        ],
+        [
+          "B",
+          "F",
+          "N",
+          "D",
+          "L",
+          "M",
+          "A",
+          "F",
+          "O",
+          "W",
+          "X",
+          "R",
+          "H",
+          "G",
+          "V"
+        ],
+        [
+          "C",
+          "U",
+          "E",
+          "T",
+          "E",
+          "E",
+          "C",
+          "L",
+          "C",
+          "G",
+          "O",
+          "K",
+          "U",
+          "M",
+          "A"
+        ]
+      ],
+      "placements": [
+        {
+          "word": "CABINET",
+          "row": 14,
+          "col": 6,
+          "direction": "N"
+        },
+        {
+          "word": "BEESWAX",
+          "row": 8,
+          "col": 3,
+          "direction": "NE"
+        },
+        {
+          "word": "PESTLE",
+          "row": 6,
+          "col": 8,
+          "direction": "SE"
+        },
+        {
+          "word": "INFUSE",
+          "row": 0,
+          "col": 8,
+          "direction": "SE"
+        },
+        {
+          "word": "STRING",
+          "row": 6,
+          "col": 2,
+          "direction": "S"
+        },
+        {
+          "word": "STEEP",
+          "row": 6,
+          "col": 4,
+          "direction": "NW"
+        },
+        {
+          "word": "SCALE",
+          "row": 10,
+          "col": 4,
+          "direction": "S"
+        },
+        {
+          "word": "SHELF",
+          "row": 4,
+          "col": 4,
+          "direction": "N"
+        },
+        {
+          "word": "BLEND",
+          "row": 8,
+          "col": 0,
+          "direction": "S"
+        },
+        {
+          "word": "MINT",
+          "row": 8,
+          "col": 5,
+          "direction": "S"
+        },
+        {
+          "word": "SOFT",
+          "row": 0,
+          "col": 10,
+          "direction": "SE"
+        },
+        {
+          "word": "SHOP",
+          "row": 8,
+          "col": 8,
+          "direction": "SE"
+        },
+        {
+          "word": "CORK",
+          "row": 14,
+          "col": 8,
+          "direction": "N"
+        },
+        {
+          "word": "BELL",
+          "row": 0,
+          "col": 7,
+          "direction": "S"
+        },
+        {
+          "word": "BARK",
+          "row": 8,
+          "col": 9,
+          "direction": "NE"
+        },
+        {
+          "word": "BALM",
+          "row": 6,
+          "col": 9,
+          "direction": "NE"
+        },
+        {
+          "word": "LEAF",
+          "row": 3,
+          "col": 3,
+          "direction": "NW"
+        },
+        {
+          "word": "TEA",
+          "row": 0,
+          "col": 12,
+          "direction": "SE"
+        }
+      ],
+      "seed": 3397850577,
+      "createdAt": "2026-10-07T18:39:25.026Z"
+    },
+    {
+      "date": "2026-10-25",
+      "id": "daily-2026-10-25",
+      "slug": "daily-2026-10-25",
+      "themeId": "halloween",
+      "difficulty": "easy",
+      "title": "Daily Word Search: Halloween (Easy)",
+      "primaryKeyword": "daily halloween word search",
+      "gridSize": 10,
+      "largePrint": false,
+      "words": [
+        "BOWL",
+        "CANDLE",
+        "CAT",
+        "GATE",
+        "GLOW",
+        "HOME",
+        "MASK",
+        "OCTOBER",
+        "SKELETON",
+        "WEREWOLF"
+      ],
+      "grid": [
+        [
+          "L",
+          "C",
+          "W",
+          "M",
+          "G",
+          "W",
+          "H",
+          "I",
+          "Z",
+          "N"
+        ],
+        [
+          "H",
+          "O",
+          "M",
+          "E",
+          "W",
+          "A",
+          "V",
+          "M",
+          "W",
+          "O"
+        ],
+        [
+          "Z",
+          "V",
+          "G",
+          "C",
+          "A",
+          "T",
+          "L",
+          "H",
+          "U",
+          "C"
+        ],
+        [
+          "F",
+          "I",
+          "E",
+          "Z",
+          "W",
+          "L",
+          "A",
+          "G",
+          "M",
+          "T"
+        ],
+        [
+          "S",
+          "K",
+          "E",
+          "L",
+          "E",
+          "T",
+          "O",
+          "N",
+          "A",
+          "O"
+        ],
+        [
+          "U",
+          "R",
+          "C",
+          "A",
+          "N",
+          "D",
+          "L",
+          "E",
+          "S",
+          "B"
+        ],
+        [
+          "G",
+          "A",
+          "T",
+          "E",
+          "P",
+          "S",
+          "M",
+          "B",
+          "K",
+          "E"
+        ],
+        [
+          "P",
+          "R",
+          "B",
+          "O",
+          "W",
+          "L",
+          "N",
+          "L",
+          "C",
+          "R"
+        ],
+        [
+          "C",
+          "G",
+          "L",
+          "O",
+          "W",
+          "Z",
+          "Z",
+          "G",
+          "I",
+          "O"
+        ],
+        [
+          "W",
+          "E",
+          "R",
+          "E",
+          "W",
+          "O",
+          "L",
+          "F",
+          "K",
+          "S"
+        ]
+      ],
+      "placements": [
+        {
+          "word": "SKELETON",
+          "row": 4,
+          "col": 0,
+          "direction": "E"
+        },
+        {
+          "word": "WEREWOLF",
+          "row": 9,
+          "col": 0,
+          "direction": "E"
+        },
+        {
+          "word": "OCTOBER",
+          "row": 1,
+          "col": 9,
+          "direction": "S"
+        },
+        {
+          "word": "CANDLE",
+          "row": 5,
+          "col": 2,
+          "direction": "E"
+        },
+        {
+          "word": "MASK",
+          "row": 3,
+          "col": 8,
+          "direction": "S"
+        },
+        {
+          "word": "GATE",
+          "row": 6,
+          "col": 0,
+          "direction": "E"
+        },
+        {
+          "word": "GLOW",
+          "row": 8,
+          "col": 1,
+          "direction": "E"
+        },
+        {
+          "word": "HOME",
+          "row": 1,
+          "col": 0,
+          "direction": "E"
+        },
+        {
+          "word": "BOWL",
+          "row": 7,
+          "col": 2,
+          "direction": "E"
+        },
+        {
+          "word": "CAT",
+          "row": 2,
+          "col": 3,
+          "direction": "E"
+        }
+      ],
+      "seed": 3381072958,
+      "createdAt": "2026-10-07T18:39:25.030Z"
+    },
+    {
+      "date": "2026-10-26",
+      "id": "daily-2026-10-26",
+      "slug": "daily-2026-10-26",
+      "themeId": "fall",
+      "difficulty": "easy",
+      "title": "Daily Word Search: Fall (Easy)",
+      "primaryKeyword": "daily fall word search",
+      "gridSize": 10,
+      "largePrint": false,
+      "words": [
+        "LADDER",
+        "MAPLE",
+        "ORCHARD",
+        "PATCH",
+        "PUMPKIN",
+        "REST",
+        "RUST",
+        "SOFT",
+        "SWEATER",
+        "THICKET"
+      ],
+      "grid": [
+        [
+          "K",
+          "O",
+          "M",
+          "B",
+          "A",
+          "Q",
+          "K",
+          "V",
+          "X",
+          "F"
+        ],
+        [
+          "T",
+          "R",
+          "X",
+          "D",
+          "T",
+          "O",
+          "O",
+          "A",
+          "Z",
+          "P"
+        ],
+        [
+          "L",
+          "C",
+          "G",
+          "I",
+          "H",
+          "G",
+          "N",
+          "S",
+          "R",
+          "P"
+        ],
+        [
+          "A",
+          "H",
+          "E",
+          "M",
+          "I",
+          "B",
+          "O",
+          "W",
+          "N",
+          "P"
+        ],
+        [
+          "D",
+          "A",
+          "M",
+          "A",
+          "C",
+          "H",
+          "R",
+          "M",
+          "R",
+          "U"
+        ],
+        [
+          "D",
+          "R",
+          "I",
+          "P",
+          "K",
+          "O",
+          "E",
+          "P",
+          "U",
+          "M"
+        ],
+        [
+          "E",
+          "D",
+          "L",
+          "L",
+          "E",
+          "N",
+          "S",
+          "A",
+          "S",
+          "P"
+        ],
+        [
+          "R",
+          "K",
+          "V",
+          "E",
+          "T",
+          "G",
+          "T",
+          "T",
+          "T",
+          "K"
+        ],
+        [
+          "X",
+          "C",
+          "A",
+          "S",
+          "O",
+          "F",
+          "T",
+          "C",
+          "H",
+          "I"
+        ],
+        [
+          "S",
+          "W",
+          "E",
+          "A",
+          "T",
+          "E",
+          "R",
+          "H",
+          "O",
+          "N"
+        ]
+      ],
+      "placements": [
+        {
+          "word": "ORCHARD",
+          "row": 0,
+          "col": 1,
+          "direction": "S"
+        },
+        {
+          "word": "PUMPKIN",
+          "row": 3,
+          "col": 9,
+          "direction": "S"
+        },
+        {
+          "word": "THICKET",
+          "row": 1,
+          "col": 4,
+          "direction": "S"
+        },
+        {
+          "word": "SWEATER",
+          "row": 9,
+          "col": 0,
+          "direction": "E"
+        },
+        {
+          "word": "LADDER",
+          "row": 2,
+          "col": 0,
+          "direction": "S"
+        },
+        {
+          "word": "PATCH",
+          "row": 5,
+          "col": 7,
+          "direction": "S"
+        },
+        {
+          "word": "MAPLE",
+          "row": 3,
+          "col": 3,
+          "direction": "S"
+        },
+        {
+          "word": "REST",
+          "row": 4,
+          "col": 6,
+          "direction": "S"
+        },
+        {
+          "word": "RUST",
+          "row": 4,
+          "col": 8,
+          "direction": "S"
+        },
+        {
+          "word": "SOFT",
+          "row": 8,
+          "col": 3,
+          "direction": "E"
+        }
+      ],
+      "seed": 3364295339,
+      "createdAt": "2026-10-07T18:39:25.035Z"
+    },
+    {
+      "date": "2026-10-27",
+      "id": "daily-2026-10-27",
+      "slug": "daily-2026-10-27",
+      "themeId": "airplanes",
+      "difficulty": "medium",
+      "title": "Daily Word Search: Airplanes (Medium)",
+      "primaryKeyword": "daily airplanes word search",
+      "gridSize": 12,
+      "largePrint": false,
+      "words": [
+        "AIRPORT",
+        "AISLE",
+        "BAG",
+        "CLOUD",
+        "COCKPIT",
+        "DOOR",
+        "HANGAR",
+        "PASSPORT",
+        "RADAR",
+        "ROUTE",
+        "TAKEOFF",
+        "TERMINAL",
+        "TURBULENCE",
+        "WIND"
+      ],
+      "grid": [
+        [
+          "I",
+          "K",
+          "F",
+          "T",
+          "E",
+          "R",
+          "M",
+          "I",
+          "N",
+          "A",
+          "L",
+          "P"
+        ],
+        [
+          "D",
+          "N",
+          "I",
+          "P",
+          "D",
+          "O",
+          "O",
+          "R",
+          "A",
+          "A",
+          "P",
+          "E"
+        ],
+        [
+          "S",
+          "Q",
+          "T",
+          "T",
+          "S",
+          "R",
+          "J",
+          "D",
+          "I",
+          "I",
+          "A",
+          "C"
+        ],
+        [
+          "Z",
+          "P",
+          "U",
+          "A",
+          "B",
+          "O",
+          "T",
+          "T",
+          "R",
+          "S",
+          "S",
+          "V"
+        ],
+        [
+          "P",
+          "I",
+          "R",
+          "K",
+          "G",
+          "U",
+          "E",
+          "Y",
+          "P",
+          "L",
+          "S",
+          "R"
+        ],
+        [
+          "V",
+          "W",
+          "B",
+          "E",
+          "L",
+          "T",
+          "D",
+          "A",
+          "O",
+          "E",
+          "P",
+          "R"
+        ],
+        [
+          "F",
+          "I",
+          "U",
+          "O",
+          "C",
+          "E",
+          "C",
+          "V",
+          "R",
+          "M",
+          "O",
+          "A"
+        ],
+        [
+          "P",
+          "N",
+          "L",
+          "F",
+          "B",
+          "A",
+          "G",
+          "N",
+          "T",
+          "B",
+          "R",
+          "D"
+        ],
+        [
+          "E",
+          "D",
+          "E",
+          "F",
+          "C",
+          "L",
+          "O",
+          "U",
+          "D",
+          "X",
+          "T",
+          "A"
+        ],
+        [
+          "S",
+          "M",
+          "N",
+          "E",
+          "I",
+          "S",
+          "A",
+          "F",
+          "M",
+          "R",
+          "T",
+          "R"
+        ],
+        [
+          "D",
+          "T",
+          "C",
+          "C",
+          "O",
+          "C",
+          "K",
+          "P",
+          "I",
+          "T",
+          "T",
+          "C"
+        ],
+        [
+          "X",
+          "X",
+          "E",
+          "E",
+          "Z",
+          "H",
+          "A",
+          "N",
+          "G",
+          "A",
+          "R",
+          "A"
+        ]
+      ],
+      "placements": [
+        {
+          "word": "TURBULENCE",
+          "row": 2,
+          "col": 2,
+          "direction": "S"
+        },
+        {
+          "word": "PASSPORT",
+          "row": 1,
+          "col": 10,
+          "direction": "S"
+        },
+        {
+          "word": "TERMINAL",
+          "row": 0,
+          "col": 3,
+          "direction": "E"
+        },
+        {
+          "word": "AIRPORT",
+          "row": 1,
+          "col": 8,
+          "direction": "S"
+        },
+        {
+          "word": "COCKPIT",
+          "row": 10,
+          "col": 3,
+          "direction": "E"
+        },
+        {
+          "word": "TAKEOFF",
+          "row": 2,
+          "col": 3,
+          "direction": "S"
+        },
+        {
+          "word": "HANGAR",
+          "row": 11,
+          "col": 5,
+          "direction": "E"
+        },
+        {
+          "word": "CLOUD",
+          "row": 8,
+          "col": 4,
+          "direction": "E"
+        },
+        {
+          "word": "AISLE",
+          "row": 1,
+          "col": 9,
+          "direction": "S"
+        },
+        {
+          "word": "ROUTE",
+          "row": 2,
+          "col": 5,
+          "direction": "S"
+        },
+        {
+          "word": "RADAR",
+          "row": 5,
+          "col": 11,
+          "direction": "S"
+        },
+        {
+          "word": "WIND",
+          "row": 5,
+          "col": 1,
+          "direction": "S"
+        },
+        {
+          "word": "DOOR",
+          "row": 1,
+          "col": 4,
+          "direction": "E"
+        },
+        {
+          "word": "BAG",
+          "row": 7,
+          "col": 4,
+          "direction": "E"
+        }
+      ],
+      "seed": 3347517720,
+      "createdAt": "2026-10-07T18:39:25.039Z"
+    },
+    {
+      "date": "2026-10-28",
+      "id": "daily-2026-10-28",
+      "slug": "daily-2026-10-28",
+      "themeId": "american-history",
+      "difficulty": "easy",
+      "title": "Daily Word Search: American History (Easy)",
+      "primaryKeyword": "daily american history word search",
+      "gridSize": 10,
+      "largePrint": false,
+      "words": [
+        "ARMISTICE",
+        "CIVIL",
+        "COLONY",
+        "FARM",
+        "MISSION",
+        "NEWDEAL",
+        "RIGHTS",
+        "SUFFRAGE",
+        "UNION",
+        "WAGON"
+      ],
+      "grid": [
+        [
+          "B",
+          "S",
+          "K",
+          "W",
+          "A",
+          "W",
+          "A",
+          "G",
+          "O",
+          "N"
+        ],
+        [
+          "F",
+          "U",
+          "J",
+          "Y",
+          "R",
+          "U",
+          "W",
+          "L",
+          "Z",
+          "C"
+        ],
+        [
+          "T",
+          "F",
+          "E",
+          "R",
+          "M",
+          "N",
+          "N",
+          "M",
+          "C",
+          "O"
+        ],
+        [
+          "M",
+          "F",
+          "G",
+          "I",
+          "I",
+          "I",
+          "E",
+          "S",
+          "I",
+          "L"
+        ],
+        [
+          "C",
+          "R",
+          "W",
+          "G",
+          "S",
+          "O",
+          "W",
+          "W",
+          "V",
+          "O"
+        ],
+        [
+          "D",
+          "A",
+          "F",
+          "H",
+          "T",
+          "N",
+          "D",
+          "S",
+          "I",
+          "N"
+        ],
+        [
+          "C",
+          "G",
+          "A",
+          "T",
+          "I",
+          "D",
+          "E",
+          "X",
+          "L",
+          "Y"
+        ],
+        [
+          "H",
+          "E",
+          "R",
+          "S",
+          "C",
+          "H",
+          "A",
+          "W",
+          "E",
+          "J"
+        ],
+        [
+          "L",
+          "R",
+          "M",
+          "X",
+          "E",
+          "N",
+          "L",
+          "N",
+          "D",
+          "M"
+        ],
+        [
+          "M",
+          "I",
+          "S",
+          "S",
+          "I",
+          "O",
+          "N",
+          "S",
+          "N",
+          "H"
+        ]
+      ],
+      "placements": [
+        {
+          "word": "ARMISTICE",
+          "row": 0,
+          "col": 4,
+          "direction": "S"
+        },
+        {
+          "word": "SUFFRAGE",
+          "row": 0,
+          "col": 1,
+          "direction": "S"
+        },
+        {
+          "word": "MISSION",
+          "row": 9,
+          "col": 0,
+          "direction": "E"
+        },
+        {
+          "word": "NEWDEAL",
+          "row": 2,
+          "col": 6,
+          "direction": "S"
+        },
+        {
+          "word": "COLONY",
+          "row": 1,
+          "col": 9,
+          "direction": "S"
+        },
+        {
+          "word": "RIGHTS",
+          "row": 2,
+          "col": 3,
+          "direction": "S"
+        },
+        {
+          "word": "CIVIL",
+          "row": 2,
+          "col": 8,
+          "direction": "S"
+        },
+        {
+          "word": "WAGON",
+          "row": 0,
+          "col": 5,
+          "direction": "E"
+        },
+        {
+          "word": "UNION",
+          "row": 1,
+          "col": 5,
+          "direction": "S"
+        },
+        {
+          "word": "FARM",
+          "row": 5,
+          "col": 2,
+          "direction": "S"
+        }
+      ],
+      "seed": 3330740101,
+      "createdAt": "2026-10-07T18:39:25.043Z"
+    },
+    {
+      "date": "2026-10-29",
+      "id": "daily-2026-10-29",
+      "slug": "daily-2026-10-29",
+      "themeId": "animals",
+      "difficulty": "medium",
+      "title": "Daily Word Search: Animals (Medium)",
+      "primaryKeyword": "daily animals word search",
+      "gridSize": 12,
+      "largePrint": false,
+      "words": [
+        "BUFFALO",
+        "CHIPMUNK",
+        "CURRENT",
+        "DOLPHIN",
+        "FISH",
+        "HARE",
+        "OCTOPUS",
+        "RACCOON",
+        "REEF",
+        "ROBIN",
+        "SNAIL",
+        "SNAKE",
+        "WAVE",
+        "ZEBRA"
+      ],
+      "grid": [
+        [
+          "B",
+          "C",
+          "A",
+          "U",
+          "D",
+          "O",
+          "L",
+          "P",
+          "H",
+          "I",
+          "N",
+          "M"
+        ],
+        [
+          "N",
+          "P",
+          "G",
+          "W",
+          "O",
+          "R",
+          "T",
+          "D",
+          "P",
+          "A",
+          "K",
+          "G"
+        ],
+        [
+          "R",
+          "J",
+          "S",
+          "R",
+          "I",
+          "W",
+          "A",
+          "V",
+          "E",
+          "N",
+          "Y",
+          "E"
+        ],
+        [
+          "O",
+          "C",
+          "T",
+          "O",
+          "P",
+          "U",
+          "S",
+          "O",
+          "U",
+          "N",
+          "O",
+          "U"
+        ],
+        [
+          "B",
+          "F",
+          "B",
+          "I",
+          "K",
+          "H",
+          "N",
+          "M",
+          "O",
+          "G",
+          "S",
+          "S"
+        ],
+        [
+          "I",
+          "I",
+          "U",
+          "C",
+          "F",
+          "W",
+          "P",
+          "O",
+          "H",
+          "W",
+          "N",
+          "N"
+        ],
+        [
+          "N",
+          "S",
+          "F",
+          "V",
+          "E",
+          "I",
+          "C",
+          "L",
+          "F",
+          "R",
+          "A",
+          "A"
+        ],
+        [
+          "N",
+          "H",
+          "F",
+          "R",
+          "H",
+          "C",
+          "C",
+          "Z",
+          "Y",
+          "E",
+          "K",
+          "I"
+        ],
+        [
+          "S",
+          "L",
+          "A",
+          "C",
+          "A",
+          "N",
+          "J",
+          "J",
+          "O",
+          "E",
+          "E",
+          "L"
+        ],
+        [
+          "J",
+          "H",
+          "L",
+          "R",
+          "Z",
+          "E",
+          "B",
+          "R",
+          "A",
+          "F",
+          "R",
+          "W"
+        ],
+        [
+          "N",
+          "F",
+          "O",
+          "V",
+          "C",
+          "U",
+          "R",
+          "R",
+          "E",
+          "N",
+          "T",
+          "O"
+        ],
+        [
+          "S",
+          "R",
+          "J",
+          "T",
+          "X",
+          "H",
+          "Q",
+          "T",
+          "R",
+          "V",
+          "Z",
+          "Q"
+        ]
+      ],
+      "placements": [
+        {
+          "word": "CHIPMUNK",
+          "row": 8,
+          "col": 3,
+          "direction": "NE"
+        },
+        {
+          "word": "RACCOON",
+          "row": 9,
+          "col": 3,
+          "direction": "NE"
+        },
+        {
+          "word": "CURRENT",
+          "row": 10,
+          "col": 4,
+          "direction": "E"
+        },
+        {
+          "word": "OCTOPUS",
+          "row": 3,
+          "col": 0,
+          "direction": "E"
+        },
+        {
+          "word": "DOLPHIN",
+          "row": 0,
+          "col": 4,
+          "direction": "E"
+        },
+        {
+          "word": "BUFFALO",
+          "row": 4,
+          "col": 2,
+          "direction": "S"
+        },
+        {
+          "word": "SNAIL",
+          "row": 4,
+          "col": 11,
+          "direction": "S"
+        },
+        {
+          "word": "ZEBRA",
+          "row": 9,
+          "col": 4,
+          "direction": "E"
+        },
+        {
+          "word": "ROBIN",
+          "row": 2,
+          "col": 0,
+          "direction": "S"
+        },
+        {
+          "word": "SNAKE",
+          "row": 4,
+          "col": 10,
+          "direction": "S"
+        },
+        {
+          "word": "WAVE",
+          "row": 2,
+          "col": 5,
+          "direction": "E"
+        },
+        {
+          "word": "FISH",
+          "row": 4,
+          "col": 1,
+          "direction": "S"
+        },
+        {
+          "word": "REEF",
+          "row": 6,
+          "col": 9,
+          "direction": "S"
+        },
+        {
+          "word": "HARE",
+          "row": 9,
+          "col": 1,
+          "direction": "NE"
+        }
+      ],
+      "seed": 3313962482,
+      "createdAt": "2026-10-07T18:39:25.047Z"
+    },
+    {
+      "date": "2026-10-30",
+      "id": "daily-2026-10-30",
+      "slug": "daily-2026-10-30",
+      "themeId": "apothecary",
+      "difficulty": "medium",
+      "title": "Daily Word Search: Apothecary (Medium)",
+      "primaryKeyword": "daily apothecary word search",
+      "gridSize": 12,
+      "largePrint": false,
+      "words": [
+        "BARK",
+        "BELL",
+        "CABINET",
+        "DRIED",
+        "INFUSE",
+        "LEAF",
+        "LEDGER",
+        "PAPER",
+        "PESTLE",
+        "SACHET",
+        "SAGE",
+        "TEA",
+        "THYME",
+        "WAX"
+      ],
+      "grid": [
+        [
+          "K",
+          "C",
+          "V",
+          "L",
+          "A",
+          "W",
+          "A",
+          "X",
+          "Y",
+          "X",
+          "I",
+          "C"
+        ],
+        [
+          "R",
+          "A",
+          "H",
+          "S",
+          "T",
+          "H",
+          "F",
+          "D",
+          "I",
+          "Q",
+          "U",
+          "C"
+        ],
+        [
+          "S",
+          "B",
+          "A",
+          "A",
+          "R",
+          "S",
+          "P",
+          "E",
+          "S",
+          "T",
+          "L",
+          "E"
+        ],
+        [
+          "R",
+          "I",
+          "O",
+          "K",
+          "S",
+          "A",
+          "C",
+          "H",
+          "E",
+          "T",
+          "O",
+          "H"
+        ],
+        [
+          "U",
+          "N",
+          "N",
+          "Q",
+          "L",
+          "G",
+          "E",
+          "T",
+          "S",
+          "P",
+          "D",
+          "L"
+        ],
+        [
+          "J",
+          "E",
+          "B",
+          "T",
+          "B",
+          "E",
+          "P",
+          "N",
+          "U",
+          "K",
+          "R",
+          "J"
+        ],
+        [
+          "C",
+          "T",
+          "O",
+          "H",
+          "E",
+          "I",
+          "D",
+          "S",
+          "J",
+          "K",
+          "I",
+          "B"
+        ],
+        [
+          "G",
+          "G",
+          "K",
+          "Y",
+          "L",
+          "N",
+          "S",
+          "G",
+          "P",
+          "B",
+          "E",
+          "A"
+        ],
+        [
+          "Q",
+          "X",
+          "B",
+          "M",
+          "L",
+          "F",
+          "Q",
+          "T",
+          "E",
+          "A",
+          "D",
+          "R"
+        ],
+        [
+          "J",
+          "J",
+          "N",
+          "E",
+          "L",
+          "U",
+          "H",
+          "L",
+          "T",
+          "R",
+          "D",
+          "K"
+        ],
+        [
+          "P",
+          "A",
+          "P",
+          "E",
+          "R",
+          "S",
+          "W",
+          "N",
+          "O",
+          "O",
+          "O",
+          "G"
+        ],
+        [
+          "L",
+          "E",
+          "A",
+          "F",
+          "V",
+          "E",
+          "Z",
+          "Z",
+          "W",
+          "Z",
+          "A",
+          "R"
+        ]
+      ],
+      "placements": [
+        {
+          "word": "CABINET",
+          "row": 0,
+          "col": 1,
+          "direction": "S"
+        },
+        {
+          "word": "SACHET",
+          "row": 3,
+          "col": 4,
+          "direction": "E"
+        },
+        {
+          "word": "LEDGER",
+          "row": 4,
+          "col": 4,
+          "direction": "SE"
+        },
+        {
+          "word": "INFUSE",
+          "row": 6,
+          "col": 5,
+          "direction": "S"
+        },
+        {
+          "word": "PESTLE",
+          "row": 2,
+          "col": 6,
+          "direction": "E"
+        },
+        {
+          "word": "THYME",
+          "row": 5,
+          "col": 3,
+          "direction": "S"
+        },
+        {
+          "word": "PAPER",
+          "row": 10,
+          "col": 0,
+          "direction": "E"
+        },
+        {
+          "word": "DRIED",
+          "row": 4,
+          "col": 10,
+          "direction": "S"
+        },
+        {
+          "word": "BELL",
+          "row": 5,
+          "col": 4,
+          "direction": "S"
+        },
+        {
+          "word": "BARK",
+          "row": 6,
+          "col": 11,
+          "direction": "S"
+        },
+        {
+          "word": "SAGE",
+          "row": 2,
+          "col": 5,
+          "direction": "S"
+        },
+        {
+          "word": "LEAF",
+          "row": 11,
+          "col": 0,
+          "direction": "E"
+        },
+        {
+          "word": "WAX",
+          "row": 0,
+          "col": 5,
+          "direction": "E"
+        },
+        {
+          "word": "TEA",
+          "row": 8,
+          "col": 7,
+          "direction": "E"
+        }
+      ],
+      "seed": 3364148244,
+      "createdAt": "2026-10-07T18:39:25.052Z"
+    },
+    {
+      "date": "2026-10-31",
+      "id": "daily-2026-10-31",
+      "slug": "daily-2026-10-31",
+      "themeId": "halloween",
+      "difficulty": "hard",
+      "title": "Daily Word Search: Halloween (Hard)",
+      "primaryKeyword": "daily halloween word search",
+      "gridSize": 15,
+      "largePrint": false,
+      "words": [
+        "ATTIC",
+        "BROOM",
+        "BROOMSTICK",
+        "CANDLE",
+        "CAPE",
+        "CAULDRON",
+        "LANTERN",
+        "LEAF",
+        "LIGHTS",
+        "MASK",
+        "MOON",
+        "MYSTERY",
+        "OWL",
+        "PILE",
+        "SPELL",
+        "STRING",
+        "VAMPIRE",
+        "WITCH"
+      ],
+      "grid": [
+        [
+          "F",
+          "O",
+          "Y",
+          "R",
+          "E",
+          "T",
+          "S",
+          "Y",
+          "M",
+          "I",
+          "B",
+          "J",
+          "A",
+          "H",
+          "J"
+        ],
+        [
+          "W",
+          "F",
+          "W",
+          "Z",
+          "M",
+          "O",
+          "O",
+          "N",
+          "K",
+          "O",
+          "T",
+          "R",
+          "G",
+          "X",
+          "H"
+        ],
+        [
+          "S",
+          "K",
+          "C",
+          "I",
+          "T",
+          "S",
+          "M",
+          "O",
+          "O",
+          "R",
+          "B",
+          "J",
+          "O",
+          "T",
+          "D"
+        ],
+        [
+          "Z",
+          "X",
+          "Z",
+          "M",
+          "F",
+          "O",
+          "D",
+          "P",
+          "E",
+          "S",
+          "C",
+          "G",
+          "Z",
+          "O",
+          "D"
+        ],
+        [
+          "B",
+          "L",
+          "E",
+          "A",
+          "Y",
+          "N",
+          "J",
+          "L",
+          "S",
+          "Z",
+          "T",
+          "P",
+          "C",
+          "T",
+          "M"
+        ],
+        [
+          "C",
+          "A",
+          "L",
+          "T",
+          "R",
+          "H",
+          "D",
+          "L",
+          "L",
+          "T",
+          "U",
+          "H",
+          "G",
+          "A",
+          "C"
+        ],
+        [
+          "P",
+          "N",
+          "I",
+          "A",
+          "V",
+          "N",
+          "Y",
+          "D",
+          "L",
+          "L",
+          "E",
+          "N",
+          "G",
+          "J",
+          "A"
+        ],
+        [
+          "C",
+          "T",
+          "P",
+          "T",
+          "A",
+          "A",
+          "V",
+          "A",
+          "M",
+          "E",
+          "E",
+          "X",
+          "E",
+          "I",
+          "U"
+        ],
+        [
+          "I",
+          "E",
+          "G",
+          "C",
+          "U",
+          "F",
+          "M",
+          "V",
+          "W",
+          "W",
+          "A",
+          "P",
+          "O",
+          "W",
+          "L"
+        ],
+        [
+          "R",
+          "R",
+          "D",
+          "Z",
+          "O",
+          "T",
+          "Z",
+          "P",
+          "Q",
+          "I",
+          "A",
+          "F",
+          "S",
+          "T",
+          "D"
+        ],
+        [
+          "O",
+          "N",
+          "B",
+          "K",
+          "M",
+          "I",
+          "Q",
+          "R",
+          "I",
+          "C",
+          "T",
+          "L",
+          "B",
+          "Z",
+          "R"
+        ],
+        [
+          "H",
+          "K",
+          "A",
+          "C",
+          "C",
+          "I",
+          "T",
+          "T",
+          "A",
+          "R",
+          "H",
+          "C",
+          "E",
+          "E",
+          "O"
+        ],
+        [
+          "E",
+          "S",
+          "X",
+          "G",
+          "Q",
+          "T",
+          "T",
+          "U",
+          "X",
+          "O",
+          "E",
+          "D",
+          "H",
+          "C",
+          "N"
+        ],
+        [
+          "W",
+          "A",
+          "S",
+          "G",
+          "S",
+          "T",
+          "R",
+          "I",
+          "N",
+          "G",
+          "H",
+          "D",
+          "T",
+          "E",
+          "U"
+        ],
+        [
+          "V",
+          "M",
+          "A",
+          "S",
+          "J",
+          "L",
+          "F",
+          "C",
+          "Z",
+          "E",
+          "S",
+          "T",
+          "B",
+          "P",
+          "X"
+        ]
+      ],
+      "placements": [
+        {
+          "word": "BROOMSTICK",
+          "row": 2,
+          "col": 10,
+          "direction": "W"
+        },
+        {
+          "word": "CAULDRON",
+          "row": 5,
+          "col": 14,
+          "direction": "S"
+        },
+        {
+          "word": "VAMPIRE",
+          "row": 6,
+          "col": 4,
+          "direction": "SE"
+        },
+        {
+          "word": "MYSTERY",
+          "row": 0,
+          "col": 8,
+          "direction": "W"
+        },
+        {
+          "word": "LANTERN",
+          "row": 4,
+          "col": 1,
+          "direction": "S"
+        },
+        {
+          "word": "LIGHTS",
+          "row": 8,
+          "col": 14,
+          "direction": "NW"
+        },
+        {
+          "word": "CANDLE",
+          "row": 8,
+          "col": 3,
+          "direction": "NE"
+        },
+        {
+          "word": "STRING",
+          "row": 13,
+          "col": 4,
+          "direction": "E"
+        },
+        {
+          "word": "ATTIC",
+          "row": 11,
+          "col": 8,
+          "direction": "W"
+        },
+        {
+          "word": "WITCH",
+          "row": 8,
+          "col": 8,
+          "direction": "SE"
+        },
+        {
+          "word": "BROOM",
+          "row": 0,
+          "col": 10,
+          "direction": "SE"
+        },
+        {
+          "word": "SPELL",
+          "row": 9,
+          "col": 12,
+          "direction": "NW"
+        },
+        {
+          "word": "MASK",
+          "row": 14,
+          "col": 1,
+          "direction": "N"
+        },
+        {
+          "word": "LEAF",
+          "row": 6,
+          "col": 8,
+          "direction": "SE"
+        },
+        {
+          "word": "PILE",
+          "row": 7,
+          "col": 2,
+          "direction": "N"
+        },
+        {
+          "word": "CAPE",
+          "row": 10,
+          "col": 9,
+          "direction": "NE"
+        },
+        {
+          "word": "MOON",
+          "row": 1,
+          "col": 4,
+          "direction": "E"
+        },
+        {
+          "word": "OWL",
+          "row": 8,
+          "col": 12,
+          "direction": "E"
+        }
+      ],
+      "seed": 3380925863,
+      "createdAt": "2026-10-07T18:39:25.057Z"
+    },
+    {
+      "date": "2026-11-01",
+      "id": "daily-2026-11-01",
+      "slug": "daily-2026-11-01",
+      "themeId": "fall",
+      "difficulty": "easy",
+      "title": "Daily Word Search: Fall (Easy)",
+      "primaryKeyword": "daily fall word search",
+      "gridSize": 10,
+      "largePrint": false,
+      "words": [
+        "BASKET",
+        "BOOTS",
+        "GOLD",
+        "GOLDEN",
+        "MIGRATING",
+        "NOVEMBER",
+        "ORCHARD",
+        "PATH",
+        "PUDDLE",
+        "RUST"
+      ],
+      "grid": [
+        [
+          "C",
+          "A",
+          "U",
+          "P",
+          "O",
+          "N",
+          "Q",
+          "E",
+          "X",
+          "T"
+        ],
+        [
+          "L",
+          "N",
+          "D",
+          "L",
+          "W",
+          "Y",
+          "B",
+          "B",
+          "R",
+          "M"
+        ],
+        [
+          "P",
+          "U",
+          "D",
+          "D",
+          "L",
+          "E",
+          "R",
+          "F",
+          "I",
+          "O"
+        ],
+        [
+          "M",
+          "I",
+          "G",
+          "R",
+          "A",
+          "T",
+          "I",
+          "N",
+          "G",
+          "R"
+        ],
+        [
+          "G",
+          "D",
+          "P",
+          "G",
+          "O",
+          "L",
+          "D",
+          "R",
+          "Y",
+          "C"
+        ],
+        [
+          "O",
+          "V",
+          "X",
+          "P",
+          "M",
+          "O",
+          "P",
+          "A",
+          "T",
+          "H"
+        ],
+        [
+          "L",
+          "D",
+          "E",
+          "B",
+          "A",
+          "S",
+          "K",
+          "E",
+          "T",
+          "A"
+        ],
+        [
+          "D",
+          "D",
+          "R",
+          "U",
+          "S",
+          "T",
+          "O",
+          "H",
+          "G",
+          "R"
+        ],
+        [
+          "E",
+          "H",
+          "O",
+          "B",
+          "O",
+          "O",
+          "T",
+          "S",
+          "C",
+          "D"
+        ],
+        [
+          "N",
+          "P",
+          "N",
+          "O",
+          "V",
+          "E",
+          "M",
+          "B",
+          "E",
+          "R"
+        ]
+      ],
+      "placements": [
+        {
+          "word": "MIGRATING",
+          "row": 3,
+          "col": 0,
+          "direction": "E"
+        },
+        {
+          "word": "NOVEMBER",
+          "row": 9,
+          "col": 2,
+          "direction": "E"
+        },
+        {
+          "word": "ORCHARD",
+          "row": 2,
+          "col": 9,
+          "direction": "S"
+        },
+        {
+          "word": "GOLDEN",
+          "row": 4,
+          "col": 0,
+          "direction": "S"
+        },
+        {
+          "word": "BASKET",
+          "row": 6,
+          "col": 3,
+          "direction": "E"
+        },
+        {
+          "word": "PUDDLE",
+          "row": 2,
+          "col": 0,
+          "direction": "E"
+        },
+        {
+          "word": "BOOTS",
+          "row": 8,
+          "col": 3,
+          "direction": "E"
+        },
+        {
+          "word": "PATH",
+          "row": 5,
+          "col": 6,
+          "direction": "E"
+        },
+        {
+          "word": "RUST",
+          "row": 7,
+          "col": 2,
+          "direction": "E"
+        },
+        {
+          "word": "GOLD",
+          "row": 4,
+          "col": 3,
+          "direction": "E"
+        }
+      ],
+      "seed": 770396093,
+      "createdAt": "2026-10-07T18:39:25.062Z"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "daily-2026-11-02",
+      "slug": "daily-2026-11-02",
+      "themeId": "airplanes",
+      "difficulty": "easy",
+      "title": "Daily Word Search: Airplanes (Easy)",
+      "primaryKeyword": "daily airplanes word search",
+      "gridSize": 10,
+      "largePrint": false,
+      "words": [
+        "AISLE",
+        "ALTITUDE",
+        "DOOR",
+        "FLIGHT",
+        "LUGGAGE",
+        "RAMP",
+        "SEAT",
+        "TAKEOFF",
+        "TURBULENCE",
+        "WINDOW"
+      ],
+      "grid": [
+        [
+          "N",
+          "A",
+          "I",
+          "S",
+          "L",
+          "E",
+          "N",
+          "Z",
+          "A",
+          "T"
+        ],
+        [
+          "L",
+          "U",
+          "G",
+          "G",
+          "A",
+          "G",
+          "E",
+          "H",
+          "D",
+          "H"
+        ],
+        [
+          "T",
+          "V",
+          "C",
+          "W",
+          "I",
+          "N",
+          "D",
+          "O",
+          "W",
+          "P"
+        ],
+        [
+          "T",
+          "U",
+          "R",
+          "B",
+          "U",
+          "L",
+          "E",
+          "N",
+          "C",
+          "E"
+        ],
+        [
+          "C",
+          "F",
+          "L",
+          "T",
+          "A",
+          "K",
+          "E",
+          "O",
+          "F",
+          "F"
+        ],
+        [
+          "S",
+          "E",
+          "A",
+          "T",
+          "M",
+          "W",
+          "M",
+          "G",
+          "Y",
+          "I"
+        ],
+        [
+          "S",
+          "O",
+          "R",
+          "E",
+          "D",
+          "O",
+          "O",
+          "R",
+          "C",
+          "Q"
+        ],
+        [
+          "H",
+          "G",
+          "A",
+          "L",
+          "T",
+          "I",
+          "T",
+          "U",
+          "D",
+          "E"
+        ],
+        [
+          "L",
+          "T",
+          "M",
+          "F",
+          "L",
+          "I",
+          "G",
+          "H",
+          "T",
+          "Z"
+        ],
+        [
+          "O",
+          "O",
+          "P",
+          "V",
+          "Z",
+          "Y",
+          "I",
+          "F",
+          "I",
+          "M"
+        ]
+      ],
+      "placements": [
+        {
+          "word": "TURBULENCE",
+          "row": 3,
+          "col": 0,
+          "direction": "E"
+        },
+        {
+          "word": "ALTITUDE",
+          "row": 7,
+          "col": 2,
+          "direction": "E"
+        },
+        {
+          "word": "TAKEOFF",
+          "row": 4,
+          "col": 3,
+          "direction": "E"
+        },
+        {
+          "word": "LUGGAGE",
+          "row": 1,
+          "col": 0,
+          "direction": "E"
+        },
+        {
+          "word": "WINDOW",
+          "row": 2,
+          "col": 3,
+          "direction": "E"
+        },
+        {
+          "word": "FLIGHT",
+          "row": 8,
+          "col": 3,
+          "direction": "E"
+        },
+        {
+          "word": "AISLE",
+          "row": 0,
+          "col": 1,
+          "direction": "E"
+        },
+        {
+          "word": "SEAT",
+          "row": 5,
+          "col": 0,
+          "direction": "E"
+        },
+        {
+          "word": "DOOR",
+          "row": 6,
+          "col": 4,
+          "direction": "E"
+        },
+        {
+          "word": "RAMP",
+          "row": 6,
+          "col": 2,
+          "direction": "S"
+        }
+      ],
+      "seed": 720063236,
+      "createdAt": "2026-10-07T18:39:25.067Z"
+    },
+    {
+      "date": "2026-11-03",
+      "id": "daily-2026-11-03",
+      "slug": "daily-2026-11-03",
+      "themeId": "american-history",
+      "difficulty": "medium",
+      "title": "Daily Word Search: American History (Medium)",
+      "primaryKeyword": "daily american history word search",
+      "gridSize": 12,
+      "largePrint": false,
+      "words": [
+        "ALLIES",
+        "AMENDMENT",
+        "CAPITAL",
+        "COURT",
+        "FORT",
+        "HARBOR",
+        "LIBERTY",
+        "MISSION",
+        "PORT",
+        "SCHOOL",
+        "SHIP",
+        "STATE",
+        "STRIKE",
+        "WAGON"
+      ],
+      "grid": [
+        [
+          "Y",
+          "F",
+          "M",
+          "I",
+          "S",
+          "S",
+          "I",
+          "O",
+          "N",
+          "O",
+          "X",
+          "L"
+        ],
+        [
+          "L",
+          "A",
+          "W",
+          "A",
+          "G",
+          "O",
+          "N",
+          "D",
+          "E",
+          "T",
+          "O",
+          "A"
+        ],
+        [
+          "C",
+          "M",
+          "X",
+          "W",
+          "A",
+          "F",
+          "E",
+          "E",
+          "G",
+          "O",
+          "S",
+          "Q"
+        ],
+        [
+          "L",
+          "E",
+          "P",
+          "O",
+          "H",
+          "Y",
+          "K",
+          "W",
+          "H",
+          "O",
+          "P",
+          "L"
+        ],
+        [
+          "C",
+          "N",
+          "J",
+          "O",
+          "G",
+          "I",
+          "Q",
+          "C",
+          "S",
+          "V",
+          "F",
+          "L"
+        ],
+        [
+          "O",
+          "D",
+          "W",
+          "A",
+          "R",
+          "R",
+          "S",
+          "W",
+          "T",
+          "Q",
+          "C",
+          "I"
+        ],
+        [
+          "U",
+          "M",
+          "F",
+          "T",
+          "L",
+          "T",
+          "L",
+          "V",
+          "A",
+          "Q",
+          "A",
+          "B"
+        ],
+        [
+          "R",
+          "E",
+          "S",
+          "Q",
+          "D",
+          "L",
+          "F",
+          "Y",
+          "T",
+          "R",
+          "P",
+          "E"
+        ],
+        [
+          "T",
+          "N",
+          "A",
+          "J",
+          "W",
+          "W",
+          "I",
+          "S",
+          "E",
+          "D",
+          "I",
+          "R"
+        ],
+        [
+          "Z",
+          "T",
+          "B",
+          "S",
+          "H",
+          "I",
+          "P",
+          "E",
+          "C",
+          "W",
+          "T",
+          "T"
+        ],
+        [
+          "H",
+          "A",
+          "R",
+          "B",
+          "O",
+          "R",
+          "Y",
+          "E",
+          "S",
+          "H",
+          "A",
+          "Y"
+        ],
+        [
+          "J",
+          "T",
+          "Z",
+          "F",
+          "O",
+          "R",
+          "T",
+          "I",
+          "L",
+          "W",
+          "L",
+          "E"
+        ]
+      ],
+      "placements": [
+        {
+          "word": "AMENDMENT",
+          "row": 1,
+          "col": 1,
+          "direction": "S"
+        },
+        {
+          "word": "LIBERTY",
+          "row": 4,
+          "col": 11,
+          "direction": "S"
+        },
+        {
+          "word": "MISSION",
+          "row": 0,
+          "col": 2,
+          "direction": "E"
+        },
+        {
+          "word": "CAPITAL",
+          "row": 5,
+          "col": 10,
+          "direction": "S"
+        },
+        {
+          "word": "ALLIES",
+          "row": 5,
+          "col": 3,
+          "direction": "SE"
+        },
+        {
+          "word": "STRIKE",
+          "row": 7,
+          "col": 2,
+          "direction": "NE"
+        },
+        {
+          "word": "SCHOOL",
+          "row": 5,
+          "col": 6,
+          "direction": "NE"
+        },
+        {
+          "word": "HARBOR",
+          "row": 10,
+          "col": 0,
+          "direction": "E"
+        },
+        {
+          "word": "COURT",
+          "row": 4,
+          "col": 0,
+          "direction": "S"
+        },
+        {
+          "word": "WAGON",
+          "row": 1,
+          "col": 2,
+          "direction": "E"
+        },
+        {
+          "word": "STATE",
+          "row": 4,
+          "col": 8,
+          "direction": "S"
+        },
+        {
+          "word": "SHIP",
+          "row": 9,
+          "col": 3,
+          "direction": "E"
+        },
+        {
+          "word": "FORT",
+          "row": 11,
+          "col": 3,
+          "direction": "E"
+        },
+        {
+          "word": "PORT",
+          "row": 3,
+          "col": 2,
+          "direction": "SE"
+        }
+      ],
+      "seed": 736840855,
+      "createdAt": "2026-10-07T18:39:25.072Z"
+    },
+    {
+      "date": "2026-11-04",
+      "id": "daily-2026-11-04",
+      "slug": "daily-2026-11-04",
+      "themeId": "animals",
+      "difficulty": "easy",
+      "title": "Daily Word Search: Animals (Easy)",
+      "primaryKeyword": "daily animals word search",
+      "gridSize": 10,
+      "largePrint": false,
+      "words": [
+        "ANT",
+        "FISH",
+        "LLAMA",
+        "LYNX",
+        "NEST",
+        "REED",
+        "ROBIN",
+        "SKY",
+        "WEASEL",
+        "ZEBRA"
+      ],
+      "grid": [
+        [
+          "N",
+          "T",
+          "L",
+          "L",
+          "A",
+          "M",
+          "A",
+          "B",
+          "K",
+          "B"
+        ],
+        [
+          "Q",
+          "V",
+          "R",
+          "W",
+          "R",
+          "Q",
+          "V",
+          "A",
+          "G",
+          "V"
+        ],
+        [
+          "Q",
+          "L",
+          "O",
+          "G",
+          "E",
+          "T",
+          "X",
+          "F",
+          "F",
+          "D"
+        ],
+        [
+          "G",
+          "Y",
+          "B",
+          "W",
+          "E",
+          "S",
+          "K",
+          "Y",
+          "I",
+          "V"
+        ],
+        [
+          "D",
+          "N",
+          "I",
+          "H",
+          "D",
+          "O",
+          "G",
+          "A",
+          "S",
+          "N"
+        ],
+        [
+          "T",
+          "X",
+          "N",
+          "Y",
+          "S",
+          "N",
+          "L",
+          "E",
+          "H",
+          "O"
+        ],
+        [
+          "F",
+          "A",
+          "E",
+          "K",
+          "R",
+          "Q",
+          "Z",
+          "M",
+          "C",
+          "P"
+        ],
+        [
+          "R",
+          "N",
+          "S",
+          "U",
+          "W",
+          "E",
+          "A",
+          "S",
+          "E",
+          "L"
+        ],
+        [
+          "O",
+          "T",
+          "T",
+          "B",
+          "B",
+          "Z",
+          "E",
+          "B",
+          "R",
+          "A"
+        ],
+        [
+          "R",
+          "X",
+          "X",
+          "A",
+          "C",
+          "G",
+          "G",
+          "Q",
+          "W",
+          "K"
+        ]
+      ],
+      "placements": [
+        {
+          "word": "WEASEL",
+          "row": 7,
+          "col": 4,
+          "direction": "E"
+        },
+        {
+          "word": "ZEBRA",
+          "row": 8,
+          "col": 5,
+          "direction": "E"
+        },
+        {
+          "word": "ROBIN",
+          "row": 1,
+          "col": 2,
+          "direction": "S"
+        },
+        {
+          "word": "LLAMA",
+          "row": 0,
+          "col": 2,
+          "direction": "E"
+        },
+        {
+          "word": "REED",
+          "row": 1,
+          "col": 4,
+          "direction": "S"
+        },
+        {
+          "word": "NEST",
+          "row": 5,
+          "col": 2,
+          "direction": "S"
+        },
+        {
+          "word": "FISH",
+          "row": 2,
+          "col": 8,
+          "direction": "S"
+        },
+        {
+          "word": "LYNX",
+          "row": 2,
+          "col": 1,
+          "direction": "S"
+        },
+        {
+          "word": "SKY",
+          "row": 3,
+          "col": 5,
+          "direction": "E"
+        },
+        {
+          "word": "ANT",
+          "row": 6,
+          "col": 1,
+          "direction": "S"
+        }
+      ],
+      "seed": 686507998,
+      "createdAt": "2026-10-07T18:39:25.076Z"
+    },
+    {
+      "date": "2026-11-05",
+      "id": "daily-2026-11-05",
+      "slug": "daily-2026-11-05",
+      "themeId": "apothecary",
+      "difficulty": "medium",
+      "title": "Daily Word Search: Apothecary (Medium)",
+      "primaryKeyword": "daily apothecary word search",
+      "gridSize": 12,
+      "largePrint": false,
+      "words": [
+        "DRIED",
+        "HONEY",
+        "LABEL",
+        "LAVENDER",
+        "MORTAR",
+        "OIL",
+        "ROSEMARY",
+        "SACHET",
+        "SCALE",
+        "SHELF",
+        "SHOP",
+        "STRING",
+        "THYME",
+        "TRADE"
+      ],
+      "grid": [
+        [
+          "C",
+          "X",
+          "V",
+          "I",
+          "Z",
+          "K",
+          "O",
+          "W",
+          "P",
+          "X",
+          "A",
+          "M"
+        ],
+        [
+          "S",
+          "T",
+          "R",
+          "I",
+          "N",
+          "G",
+          "S",
+          "Q",
+          "S",
+          "L",
+          "G",
+          "R"
+        ],
+        [
+          "C",
+          "S",
+          "H",
+          "O",
+          "P",
+          "X",
+          "Q",
+          "L",
+          "F",
+          "L",
+          "S",
+          "T"
+        ],
+        [
+          "L",
+          "S",
+          "A",
+          "K",
+          "R",
+          "O",
+          "S",
+          "E",
+          "M",
+          "A",
+          "R",
+          "Y"
+        ],
+        [
+          "M",
+          "A",
+          "V",
+          "S",
+          "A",
+          "C",
+          "H",
+          "E",
+          "T",
+          "B",
+          "O",
+          "Q"
+        ],
+        [
+          "L",
+          "O",
+          "V",
+          "D",
+          "Y",
+          "V",
+          "Q",
+          "F",
+          "E",
+          "E",
+          "I",
+          "O"
+        ],
+        [
+          "X",
+          "B",
+          "R",
+          "E",
+          "U",
+          "J",
+          "D",
+          "S",
+          "Q",
+          "L",
+          "L",
+          "T"
+        ],
+        [
+          "J",
+          "U",
+          "N",
+          "T",
+          "N",
+          "P",
+          "R",
+          "T",
+          "F",
+          "D",
+          "K",
+          "H"
+        ],
+        [
+          "X",
+          "O",
+          "E",
+          "G",
+          "A",
+          "D",
+          "I",
+          "L",
+          "R",
+          "Y",
+          "K",
+          "Y"
+        ],
+        [
+          "H",
+          "D",
+          "V",
+          "V",
+          "T",
+          "R",
+          "E",
+          "Q",
+          "O",
+          "A",
+          "M",
+          "M"
+        ],
+        [
+          "Y",
+          "U",
+          "Z",
+          "G",
+          "M",
+          "H",
+          "D",
+          "R",
+          "Y",
+          "S",
+          "D",
+          "E"
+        ],
+        [
+          "M",
+          "H",
+          "P",
+          "V",
+          "S",
+          "E",
+          "S",
+          "C",
+          "A",
+          "L",
+          "E",
+          "E"
+        ]
+      ],
+      "placements": [
+        {
+          "word": "LAVENDER",
+          "row": 3,
+          "col": 0,
+          "direction": "SE"
+        },
+        {
+          "word": "ROSEMARY",
+          "row": 3,
+          "col": 4,
+          "direction": "E"
+        },
+        {
+          "word": "MORTAR",
+          "row": 4,
+          "col": 0,
+          "direction": "SE"
+        },
+        {
+          "word": "STRING",
+          "row": 1,
+          "col": 0,
+          "direction": "E"
+        },
+        {
+          "word": "SACHET",
+          "row": 4,
+          "col": 3,
+          "direction": "E"
+        },
+        {
+          "word": "DRIED",
+          "row": 6,
+          "col": 6,
+          "direction": "S"
+        },
+        {
+          "word": "HONEY",
+          "row": 9,
+          "col": 0,
+          "direction": "NE"
+        },
+        {
+          "word": "THYME",
+          "row": 6,
+          "col": 11,
+          "direction": "S"
+        },
+        {
+          "word": "LABEL",
+          "row": 2,
+          "col": 9,
+          "direction": "S"
+        },
+        {
+          "word": "SCALE",
+          "row": 11,
+          "col": 6,
+          "direction": "E"
+        },
+        {
+          "word": "TRADE",
+          "row": 7,
+          "col": 7,
+          "direction": "SE"
+        },
+        {
+          "word": "SHELF",
+          "row": 11,
+          "col": 4,
+          "direction": "NE"
+        },
+        {
+          "word": "SHOP",
+          "row": 2,
+          "col": 1,
+          "direction": "E"
+        },
+        {
+          "word": "OIL",
+          "row": 4,
+          "col": 10,
+          "direction": "S"
+        }
+      ],
+      "seed": 703285617,
+      "createdAt": "2026-10-07T18:39:25.081Z"
+    },
+    {
+      "date": "2026-11-06",
+      "id": "daily-2026-11-06",
+      "slug": "daily-2026-11-06",
+      "themeId": "architecture",
+      "difficulty": "medium",
+      "title": "Daily Word Search: Architecture (Medium)",
+      "primaryKeyword": "daily architecture word search",
+      "gridSize": 12,
+      "largePrint": false,
+      "words": [
+        "ATRIUM",
+        "BALCONY",
+        "BRIDGE",
+        "DOOR",
+        "MODEL",
+        "PLAZA",
+        "PORCH",
+        "ROOF",
+        "SKETCH",
+        "STAIR",
+        "STEEL",
+        "TRUSS",
+        "VAULT",
+        "WINDOW"
+      ],
+      "grid": [
+        [
+          "M",
+          "W",
+          "I",
+          "N",
+          "D",
+          "O",
+          "W",
+          "V",
+          "D",
+          "R",
+          "Q",
+          "C"
+        ],
+        [
+          "D",
+          "I",
+          "O",
+          "Z",
+          "L",
+          "T",
+          "L",
+          "R",
+          "I",
+          "R",
+          "P",
+          "S"
+        ],
+        [
+          "F",
+          "M",
+          "U",
+          "E",
+          "L",
+          "E",
+          "O",
+          "A",
+          "Q",
+          "S",
+          "O",
+          "D"
+        ],
+        [
+          "U",
+          "G",
+          "E",
+          "U",
+          "D",
+          "I",
+          "T",
+          "H",
+          "M",
+          "Y",
+          "R",
+          "X"
+        ],
+        [
+          "Q",
+          "T",
+          "A",
+          "O",
+          "E",
+          "S",
+          "Q",
+          "A",
+          "Y",
+          "B",
+          "C",
+          "X"
+        ],
+        [
+          "S",
+          "V",
+          "M",
+          "X",
+          "Q",
+          "Q",
+          "P",
+          "Y",
+          "D",
+          "N",
+          "H",
+          "A"
+        ],
+        [
+          "H",
+          "V",
+          "B",
+          "A",
+          "L",
+          "C",
+          "O",
+          "N",
+          "Y",
+          "J",
+          "P",
+          "T"
+        ],
+        [
+          "L",
+          "S",
+          "K",
+          "E",
+          "T",
+          "C",
+          "H",
+          "H",
+          "L",
+          "Y",
+          "L",
+          "R"
+        ],
+        [
+          "P",
+          "V",
+          "O",
+          "F",
+          "B",
+          "R",
+          "I",
+          "D",
+          "G",
+          "E",
+          "A",
+          "I"
+        ],
+        [
+          "W",
+          "V",
+          "I",
+          "D",
+          "L",
+          "L",
+          "P",
+          "N",
+          "O",
+          "V",
+          "Z",
+          "U"
+        ],
+        [
+          "K",
+          "M",
+          "J",
+          "I",
+          "W",
+          "T",
+          "R",
+          "U",
+          "S",
+          "S",
+          "A",
+          "M"
+        ],
+        [
+          "R",
+          "O",
+          "O",
+          "F",
+          "D",
+          "X",
+          "K",
+          "M",
+          "D",
+          "O",
+          "O",
+          "R"
+        ]
+      ],
+      "placements": [
+        {
+          "word": "BALCONY",
+          "row": 6,
+          "col": 2,
+          "direction": "E"
+        },
+        {
+          "word": "WINDOW",
+          "row": 0,
+          "col": 1,
+          "direction": "E"
+        },
+        {
+          "word": "ATRIUM",
+          "row": 5,
+          "col": 11,
+          "direction": "S"
+        },
+        {
+          "word": "BRIDGE",
+          "row": 8,
+          "col": 4,
+          "direction": "E"
+        },
+        {
+          "word": "SKETCH",
+          "row": 7,
+          "col": 1,
+          "direction": "E"
+        },
+        {
+          "word": "MODEL",
+          "row": 5,
+          "col": 2,
+          "direction": "NE"
+        },
+        {
+          "word": "STAIR",
+          "row": 4,
+          "col": 5,
+          "direction": "NE"
+        },
+        {
+          "word": "PLAZA",
+          "row": 6,
+          "col": 10,
+          "direction": "S"
+        },
+        {
+          "word": "PORCH",
+          "row": 1,
+          "col": 10,
+          "direction": "S"
+        },
+        {
+          "word": "VAULT",
+          "row": 5,
+          "col": 1,
+          "direction": "NE"
+        },
+        {
+          "word": "STEEL",
+          "row": 5,
+          "col": 0,
+          "direction": "NE"
+        },
+        {
+          "word": "TRUSS",
+          "row": 10,
+          "col": 5,
+          "direction": "E"
+        },
+        {
+          "word": "ROOF",
+          "row": 11,
+          "col": 0,
+          "direction": "E"
+        },
+        {
+          "word": "DOOR",
+          "row": 11,
+          "col": 8,
+          "direction": "E"
+        }
+      ],
+      "seed": 652952760,
+      "createdAt": "2026-10-07T18:39:25.086Z"
     }
   ]
 }

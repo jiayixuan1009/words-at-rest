@@ -1,5 +1,8 @@
 @import "tailwindcss";
 
+/* Saved analytics choices are read in the head, before this SSR notice paints. */
+html[data-analytics-choice-saved] .analytics-notice { display: none; }
+
 @layer base {
   :root {
     color-scheme: light;

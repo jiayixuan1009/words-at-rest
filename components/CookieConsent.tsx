@@ -6,10 +6,14 @@ import { readConsent, setConsent } from "@/lib/analytics";
 import { SITE } from "@/lib/site";
 
 export default function CookieConsent() {
-  const [visible, setVisible] = useState(false);
+  // Present in SSR for new visitors; the head script hides saved choices before paint.
+  const [visible, setVisible] = useState(true);
   useEffect(() => {
     setVisible(readConsent() === null);
-    const open = () => setVisible(true);
+    const open = () => {
+      document.documentElement.removeAttribute("data-analytics-choice-saved");
+      setVisible(true);
+    };
     window.addEventListener("war:open-analytics-choices", open);
     return () => window.removeEventListener("war:open-analytics-choices", open);
   }, []);
@@ -19,7 +23,7 @@ export default function CookieConsent() {
     setVisible(false);
   };
   return (
-    <aside aria-label="Analytics choices" className="no-print border-y border-[#d4cbb8] bg-[#efe7d9]">
+    <aside aria-label="Analytics choices" className="analytics-notice no-print border-y border-[#d4cbb8] bg-[#efe7d9]">
       <div className="mx-auto flex max-w-6xl flex-wrap items-center gap-3 px-4 py-3 font-sans text-base sm:px-8">
         <p className="flex-1 basis-64">Allow optional analytics to help improve our puzzles? Playing and saving progress work either way. <Link href="/privacy#analytics">Privacy details</Link></p>
         <button type="button" onClick={() => choose("rejected")} className="min-h-11 rounded-full border border-[#b8a990] px-4 py-2">Reject analytics</button>

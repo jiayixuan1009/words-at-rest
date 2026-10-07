@@ -9,6 +9,43 @@
 
 ## [未发布 Unreleased]
 
+### 改进 — SEO流量入口与打印资源（2026-10-08）
+- 首页精选按UTC月份选择季节题，覆盖六个不同主题、大字及三个难度。
+- Themes目录增加主题搜索、分组、结果数和清空；所有121个链接仍在SSR中。
+- 新增 /printables 及四个资源页，八份A4/Letter PDF、八张预览；每份两题与两张答案，24pt黑白网格；链接大字页、相关主题和原在线题。
+- 消除Beach/Camping三组同名题，保留ID、种子、网格与既有进度。
+- Sitemap使用实际内容修改日期，纳入打印资源，保留全部已发布Daily（不再仅一年）；主题日期包含共享内容依赖。
+- Daily生成目标30天，校验最低7天；补排到2026-11-06，既有日期不变。
+- 更新未投广告文案；PDF下载事件遵守既有analytics同意；未启用广告，也未创建虚假ads.txt。
+- 修复Lighthouse发现的分析同意提示插入导致的布局偏移：SSR输出新访客提示，首屏脚本读取已保存选择，返回访客无需等待hydration隐藏。
+- 校验包含发现/筛选/资源数据与既有玩法、分页、Daily。广告账户、认证CMP、GSC/GA4后台验证仍需账户访问。
+
+### Daily puzzles — 新增排期
+- 2026-10-15 — Daily Word Search: Airplanes (Medium) (airplanes / medium).
+- 2026-10-16 — Daily Word Search: American History (Medium) (american-history / medium).
+- 2026-10-17 — Daily Word Search: Animals (Hard) (animals / hard).
+- 2026-10-18 — Daily Word Search: Apothecary (Easy) (apothecary / easy).
+- 2026-10-19 — Daily Word Search: Halloween (Easy) (halloween / easy).
+- 2026-10-20 — Daily Word Search: Fall (Medium) (fall / medium).
+- 2026-10-21 — Daily Word Search: Airplanes (Easy) (airplanes / easy).
+- 2026-10-22 — Daily Word Search: American History (Medium) (american-history / medium).
+- 2026-10-23 — Daily Word Search: Animals (Medium) (animals / medium).
+- 2026-10-24 — Daily Word Search: Apothecary (Hard) (apothecary / hard).
+- 2026-10-25 — Daily Word Search: Halloween (Easy) (halloween / easy).
+- 2026-10-26 — Daily Word Search: Fall (Easy) (fall / easy).
+- 2026-10-27 — Daily Word Search: Airplanes (Medium) (airplanes / medium).
+- 2026-10-28 — Daily Word Search: American History (Easy) (american-history / easy).
+- 2026-10-29 — Daily Word Search: Animals (Medium) (animals / medium).
+- 2026-10-30 — Daily Word Search: Apothecary (Medium) (apothecary / medium).
+- 2026-10-31 — Daily Word Search: Halloween (Hard) (halloween / hard).
+- 2026-11-01 — Daily Word Search: Fall (Easy) (fall / easy).
+- 2026-11-02 — Daily Word Search: Airplanes (Easy) (airplanes / easy).
+- 2026-11-03 — Daily Word Search: American History (Medium) (american-history / medium).
+- 2026-11-04 — Daily Word Search: Animals (Easy) (animals / easy).
+- 2026-11-05 — Daily Word Search: Apothecary (Medium) (apothecary / medium).
+- 2026-11-06 — Daily Word Search: Architecture (Medium) (architecture / medium).
+
+
 ### 改进 — 难度 / 大字列表分页（2026-10-08）
 - `/difficulty/easy|medium|hard` 与 `/large-print` 不再一次渲染全部 PuzzleCard（此前 easy ≈ **1.0 MB HTML / ~531 图**）。
 - 每页 **24** 张卡片；可抓取路径 `/difficulty/{level}/page/{n}`、`/large-print/page/{n}`（第 1 页仍为裸路径，无 `/page/1`）。

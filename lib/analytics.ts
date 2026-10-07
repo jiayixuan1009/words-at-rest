@@ -3,7 +3,7 @@ import { SITE } from "./site.ts";
 export const CONSENT_KEY = "war:analytics-consent";
 export const CONSENT_EVENT = "war:analytics-consent-change";
 export type AnalyticsConsent = "accepted" | "rejected";
-export type GameEvent = "puzzle_start" | "word_found" | "puzzle_complete" | "next_puzzle" | "progress_resume" | "reset" | "grid_size_change";
+export type GameEvent = "puzzle_start" | "word_found" | "puzzle_complete" | "next_puzzle" | "progress_resume" | "reset" | "grid_size_change" | "printable_download";
 
 declare global {
   interface Window {

@@ -15,6 +15,7 @@ import { THEME_EXTRA } from "@/lib/theme-content";
 import { THEME_SOURCES } from "@/lib/citations";
 import { InlineSource } from "@/components/Sources";
 import type { Puzzle } from "@/lib/types";
+import { printableForPuzzle } from "@/lib/printables";
 
 const DIRECTIONS: Record<string, string> = {
   easy: "Every word reads forwards, either across (left to right) or down (top to bottom).",
@@ -37,6 +38,7 @@ export default function PuzzleView({
   pageDates?: PageDates;
 }) {
   const theme = getTheme(puzzle.themeId);
+  const printable = printableForPuzzle(puzzle.id);
   const related = getPuzzlesByTheme(puzzle.themeId).filter((p) => p.id !== puzzle.id);
   const next = related.find((p) => p.difficulty === puzzle.difficulty && p.largePrint === puzzle.largePrint)
     ?? getPuzzles().find((p) => p.id !== puzzle.id && p.difficulty === puzzle.difficulty && p.largePrint === puzzle.largePrint)
@@ -102,6 +104,7 @@ export default function PuzzleView({
 
       <section className="mt-8">
         <h2 className="text-xl font-semibold">More ways to play</h2>
+        {printable && <p className="mt-3"><Link href={`/printables/${printable.slug}`}>Print this puzzle with an answer key — free Letter & A4 PDFs</Link></p>}
         <ul className="mt-2 flex flex-wrap gap-3 text-base">
           {theme && (
             <li>

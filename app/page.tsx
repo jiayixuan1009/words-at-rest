@@ -15,6 +15,7 @@ import { ART, DIFFICULTY_ART } from "@/lib/images";
 import { SITE } from "@/lib/site";
 import { seo } from "@/lib/seo";
 import type { Theme } from "@/lib/types";
+import { featuredPuzzles } from "@/lib/discovery";
 
 export const dynamic = "force-dynamic";
 
@@ -57,7 +58,7 @@ export default function HomePage() {
   const totalThemes = getThemes().length;
   const themes = FEATURED_THEMES.map((s) => getTheme(s)).filter((t): t is Theme => Boolean(t));
   const [lead, ...rest] = themes;
-  const featured = getPuzzles().filter((p) => !p.largePrint).slice(0, 6);
+  const featured = featuredPuzzles(getPuzzles(), date);
   const largePrint = getLargePrintPuzzles().slice(0, 4);
   return (
     <div className="space-y-14 sm:space-y-24">
@@ -199,6 +200,7 @@ export default function HomePage() {
           </ul>
           <p className="mt-6">
             <Link href="/large-print" className="chip">See all large print →</Link>
+            <Link href="/printables" className="chip ml-3">Printable PDFs →</Link>
           </p>
         </div>
       </section>

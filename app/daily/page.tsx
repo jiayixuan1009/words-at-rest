@@ -40,7 +40,7 @@ const FAQ: FaqItem[] = [
   },
   {
     q: "Is the daily puzzle free? Do I need an account?",
-    a: "The daily puzzle is completely free. There is nothing to download and no account, email or sign-up. The site is supported by advertising, and ads are never placed over the puzzle grid.",
+    a: "The daily puzzle is completely free. There is nothing to download and no account, email or sign-up. We plan to support the site with advertising while keeping ads away from the puzzle grid.",
   },
   {
     q: "Can I make the daily puzzle bigger?",

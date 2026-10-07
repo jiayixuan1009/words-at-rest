@@ -17,6 +17,7 @@ import { SourceNote } from "@/components/Sources";
 import { clamp, seo, themeNoun } from "@/lib/seo";
 import { absoluteUrl } from "@/lib/site";
 import { themeDates } from "@/lib/content-dates";
+import { PRINTABLES } from "@/lib/printables";
 
 type Props = { params: Promise<{ theme: string }> };
 
@@ -58,6 +59,7 @@ export default async function ThemePage({ params }: Props) {
   if (!theme) notFound();
   const puzzles = getPuzzlesByTheme(theme.id);
   const extra = THEME_EXTRA[theme.slug];
+  const printable = PRINTABLES.find(p => p.theme === theme.slug);
   const themeSource = THEME_SOURCES[theme.slug] ?? THEME_GENERIC_SOURCE;
   const parent = theme.parentSlug ? getTheme(theme.parentSlug) : undefined;
   const children = getChildThemes(theme.slug);
@@ -104,6 +106,7 @@ export default async function ThemePage({ params }: Props) {
       </div>
 
       <h2 className="font-serif text-3xl">{theme.name} puzzles</h2>
+      {printable && <p className="mt-3 text-lg"><Link href={`/printables/${printable.slug}`}>Free printable {theme.name.toLowerCase()} large print PDFs with answer keys</Link></p>}
       {puzzles.length === 0 ? (
         <div className="mt-4 max-w-md text-center">
           <Picture art={ART.empty} sizes="320px" className="mx-auto h-auto w-80" />

@@ -44,7 +44,7 @@ const FAQ: FaqItem[] = [
   },
   {
     q: "Are the puzzles really free? Do I need to sign up?",
-    a: "Yes, every puzzle is free and there is no account, app or email required. Words at Rest is supported by advertising, and ads are never placed on top of the puzzle grid or disguised as buttons.",
+    a: "Yes, every puzzle is free and there is no account, app or email required. We plan to support Words at Rest with advertising while keeping ads away from the puzzle grid and clearly separate from play buttons.",
   },
   {
     q: "Is this site suitable for children?",
