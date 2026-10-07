@@ -1883,6 +1883,215 @@
       ],
       "seed": 864680371,
       "createdAt": "2026-10-06T12:40:54.082Z"
+    },
+    {
+      "date": "2026-10-14",
+      "id": "daily-2026-10-14",
+      "slug": "daily-2026-10-14",
+      "themeId": "fall",
+      "difficulty": "easy",
+      "title": "Daily Word Search: Fall (Easy)",
+      "primaryKeyword": "daily fall word search",
+      "gridSize": 10,
+      "largePrint": false,
+      "words": [
+        "CIDER",
+        "CIDERMILL",
+        "CRISP",
+        "FOG",
+        "HARVEST",
+        "HAYBALE",
+        "HOME",
+        "LANTERN",
+        "MIGRATION",
+        "SOFT"
+      ],
+      "grid": [
+        [
+          "D",
+          "B",
+          "H",
+          "F",
+          "C",
+          "R",
+          "I",
+          "S",
+          "P",
+          "C"
+        ],
+        [
+          "N",
+          "U",
+          "A",
+          "M",
+          "H",
+          "O",
+          "M",
+          "E",
+          "W",
+          "I"
+        ],
+        [
+          "Z",
+          "L",
+          "Y",
+          "I",
+          "E",
+          "N",
+          "E",
+          "Z",
+          "F",
+          "D"
+        ],
+        [
+          "B",
+          "A",
+          "B",
+          "G",
+          "H",
+          "U",
+          "Q",
+          "U",
+          "O",
+          "E"
+        ],
+        [
+          "S",
+          "N",
+          "A",
+          "R",
+          "A",
+          "S",
+          "C",
+          "H",
+          "G",
+          "R"
+        ],
+        [
+          "P",
+          "T",
+          "L",
+          "A",
+          "R",
+          "F",
+          "I",
+          "B",
+          "S",
+          "M"
+        ],
+        [
+          "R",
+          "E",
+          "E",
+          "T",
+          "V",
+          "S",
+          "D",
+          "C",
+          "O",
+          "I"
+        ],
+        [
+          "T",
+          "R",
+          "Q",
+          "I",
+          "E",
+          "J",
+          "E",
+          "L",
+          "F",
+          "L"
+        ],
+        [
+          "Y",
+          "N",
+          "I",
+          "O",
+          "S",
+          "N",
+          "R",
+          "M",
+          "T",
+          "L"
+        ],
+        [
+          "A",
+          "L",
+          "T",
+          "N",
+          "T",
+          "X",
+          "L",
+          "E",
+          "I",
+          "Y"
+        ]
+      ],
+      "placements": [
+        {
+          "word": "MIGRATION",
+          "row": 1,
+          "col": 3,
+          "direction": "S"
+        },
+        {
+          "word": "CIDERMILL",
+          "row": 0,
+          "col": 9,
+          "direction": "S"
+        },
+        {
+          "word": "LANTERN",
+          "row": 2,
+          "col": 1,
+          "direction": "S"
+        },
+        {
+          "word": "HARVEST",
+          "row": 3,
+          "col": 4,
+          "direction": "S"
+        },
+        {
+          "word": "HAYBALE",
+          "row": 0,
+          "col": 2,
+          "direction": "S"
+        },
+        {
+          "word": "CIDER",
+          "row": 4,
+          "col": 6,
+          "direction": "S"
+        },
+        {
+          "word": "CRISP",
+          "row": 0,
+          "col": 4,
+          "direction": "E"
+        },
+        {
+          "word": "SOFT",
+          "row": 5,
+          "col": 8,
+          "direction": "S"
+        },
+        {
+          "word": "HOME",
+          "row": 1,
+          "col": 4,
+          "direction": "E"
+        },
+        {
+          "word": "FOG",
+          "row": 2,
+          "col": 8,
+          "direction": "S"
+        }
+      ],
+      "seed": 948568466,
+      "createdAt": "2026-10-07T01:30:28.317Z"
     }
   ]
 }

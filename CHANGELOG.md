@@ -11,6 +11,9 @@
 
 ## 2026-10-07 — Hub 文案加厚（Wave C–K 偏薄主题，待部署）
 
+### 维护 — Daily 缓冲补天
+- `npm run daily:add`：补 `2026-10-14` Daily（Fall / Easy），满足 `DAILY_BUFFER_DAYS=7`。
+
 ### 变更 — 加厚 20 个偏薄主题 hub 英文 intro
 - 目标：每个 hub 原创英文约 **250–450** 词（description + `THEME_EXTRA`），面向成人/大字友好，FAQ 式价值说明，链到相关主题 / how-to-play / large-print；无关键词堆砌、无医疗宣称、无 IP。
 - **加厚主题（20）：** farm-animals、gardening-tools、national-parks、board-games、american-history、world-capitals、human-body、us-states、music-terms、coffee-tea、fathers-day、mothers-day、independence-day、st-patricks、kitchen、breakfast、vegetables、soccer、basketball、deserts。
