@@ -1,6 +1,6 @@
 # SEO growth changes — 2026-10-08
 
-Based on production master `376024a`; implemented in `fix/seo-growth`.
+Started from production master `376024a`, then integrated `1261112` (all 121 themes' difficulty art) without dropping either changelog. Implemented in `fix/seo-growth`.
 
 ## Delivered
 
@@ -8,6 +8,7 @@ Based on production master `376024a`; implemented in `fix/seo-growth`.
 - Theme search, seasonal/anytime/pack filters, accessible result counts and clearing. All 121 links are rendered on the server; filters create no new URL variants.
 - Four printable landing pages plus a printable hub. Each pack provides Letter and A4 PDFs, two puzzle sheets, two answer keys and both puzzle previews. The same eight catalog puzzles remain playable online.
 - Eight PDFs / 32 pages visually reviewed after rendering. Grids use 24pt letters, word lists 18pt, and answers follow actual catalog placements. PDFs are marked binary in Git to preserve cross-reference offsets on Windows checkouts.
+- Both PDF paper sizes declare their corresponding HTML landing page as canonical through the HTTP Link header.
 - Printable links from homepage, footer, large-print, matching theme pages and the eight source puzzle pages. Download analytics uses the existing opt-in consent path.
 - Renamed three duplicate puzzle titles, with matching generator specifications. IDs, seeds, grids, placements and progress keys are unchanged. All 1,043 catalog titles are now unique.
 - Daily generation targets 30 future UTC days and retains the seven-day minimum validation. 23 entries added through 2026-11-06; the previous eight entries and frozen launch remain unchanged. Future dated URLs still return 404.

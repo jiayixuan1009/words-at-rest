@@ -32,6 +32,7 @@ for (const pack of ["large-print", "halloween", "thanksgiving", "christmas"]) {
     const res = await fetch(base + path);
     assert.equal(res.status, 200, path);
     assert.match(res.headers.get("content-type") || "", /application\/pdf/, path);
+    assert.equal(res.headers.get("link"), `<https://wordsatrest.com/printables/${pack}>; rel="canonical"`, path);
     const bytes = new Uint8Array(await res.arrayBuffer());
     assert.equal(new TextDecoder().decode(bytes.slice(0, 5)), "%PDF-", path);
   }
