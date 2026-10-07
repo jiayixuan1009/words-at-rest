@@ -16,6 +16,7 @@
 - `lib/images.ts` 的 `DIFFICULTY_ART_THEMES` 扩至全部 121 slug，谜题页 `puzzleArt` 可按难度选用递进图。
 - 未改封面 / 主题 OG 底图（与 master MD5 一致）；未改谜题数据 / content dates；未提交 `tsbuildinfo`。
 - 校验收据：`design/exports/difficulty-2026-10-08/{README.md,final-validation.json}`。
+- **Deploy（2026-10-08 ~02:35 Asia/Shanghai）：** commit `842019d` → master；Worker version `714fedcd-3b65-4a8a-9cb3-f2e467b91a3c`（account `b79c11a97188ceeb150acb0b6c4cda97`）。线上 10/10 MD5 抽查 MATCH（含 airplanes 三难度、yoga-hard-640、museums-medium、weather-easy-320、food-easy、valentines 封面、`/og/holidays.jpg`、`/images/holidays/og-holidays.png`）；holidays OG ≠ fall。证据：`/workspace/reports/wordsatrest-images-complete-2026-10-08/`。
 
 ### 改进 — 难度 / 大字列表分页（2026-10-08）
 - `/difficulty/easy|medium|hard` 与 `/large-print` 不再一次渲染全部 PuzzleCard（此前 easy ≈ **1.0 MB HTML / ~531 图**）。
