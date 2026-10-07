@@ -1,11 +1,11 @@
 import Link from "next/link";
 import PuzzleCard from "@/components/PuzzleCard";
 import ThemeCard from "@/components/ThemeCard";
-import PlayOptions from "@/components/PlayOptions";
 import AdSlot from "@/components/AdSlot";
 import HubSchema from "@/components/HubSchema";
 import DifficultyTable from "@/components/DifficultyTable";
-import DailyPreview, { LauncherChips, LauncherCta } from "@/components/DailyLauncher";
+import { LauncherChips } from "@/components/DailyLauncher";
+import HomeDailyPuzzle from "@/components/HomeDailyPuzzle";
 import Picture, { Ornament } from "@/components/Picture";
 import MobileMore from "@/components/MobileMore";
 import Sources, { Quote } from "@/components/Sources";
@@ -38,7 +38,7 @@ export const metadata = seo({
 const FEATURED_THEMES = ["halloween", "thanksgiving", "christmas", "winter", "bible", "garden", "ocean"];
 
 const STEPS = [
-  { title: "Pick a puzzle", text: "Start with today’s daily grid, or choose a theme and a difficulty you like." },
+  { title: "Pick a puzzle", text: "Today’s daily grid is on this page — or choose a theme and a difficulty you like." },
   { title: "Read the word list", text: "Every answer is already listed beside the grid — no trivia, no spelling test." },
   { title: "Mark each word", text: "Drag across a word, or tap its first letter and then its last letter." },
   { title: "Finish at your pace", text: "No timer and no score. Progress is saved on your device for next time." },
@@ -61,78 +61,51 @@ export default function HomePage() {
   const largePrint = getLargePrintPuzzles().slice(0, 4);
   return (
     <div className="space-y-14 sm:space-y-24">
-      {/* 1 · Launcher: mobile fold = title → today's card → chips → hero; desktop unchanged */}
+      {/* 1 · Launcher: title → playable today’s grid → chips → optional hero */}
       <section aria-labelledby="home-title" className="home-launcher">
         <div className="home-launcher__copy">
           <p className="kicker">Free · Online · No timer</p>
           <h1 id="home-title" className="display home-title mt-2.5 font-serif sm:mt-4">
             Free word search puzzles, at your own pace.
           </h1>
-          <p className="mt-3 max-w-[30rem] text-[1.0625rem] leading-snug text-[var(--ink-soft)] sm:mt-5 sm:text-[1.25rem] sm:leading-relaxed">
-            <span className="lg:hidden">
-              Calm grids for adults and seniors — large print, daily and seasonal. No download, no sign-up.
-            </span>
-            <span className="hidden lg:inline">
-              Calm grids for adults and seniors — large print, daily and seasonal themes. No download, no
-              sign-up. Just a quiet cup and a list of words.
-            </span>
+          <p className="mt-3 max-w-[36rem] text-[1.0625rem] leading-snug text-[var(--ink-soft)] sm:mt-5 sm:text-[1.25rem] sm:leading-relaxed">
+            Calm grids for adults and seniors — large print, daily and seasonal themes. No download, no
+            sign-up. Today&apos;s puzzle is ready below; mark words right here.
           </p>
-          <div className="mt-8 hidden lg:block">
-            {daily ? <LauncherCta puzzle={daily} /> : <Link href="/calendar" className="btn-primary">Play a past daily puzzle</Link>}
-          </div>
-          <div className="mt-8 hidden border-t border-[#d4cbb8] pt-6 lg:block">
-            <LauncherChips />
-          </div>
         </div>
 
-        <div className="home-launcher__preview">
-          {daily ? <DailyPreview puzzle={daily} date={date} /> : <div className="paper-deep space-y-3 p-6"><p>Today’s puzzle is not ready yet.</p><Link href="/calendar" className="btn-primary">Browse past daily puzzles</Link></div>}
-          <PlayOptions />
+        <div className="home-launcher__play">
+          {daily ? (
+            <HomeDailyPuzzle puzzle={daily} date={date} />
+          ) : (
+            <div className="space-y-3 rounded-[4px] border border-[#cbbfa6] bg-[#faf6ee]/80 p-6">
+              <p>Today&apos;s puzzle is not ready yet.</p>
+              <Link href="/calendar" className="btn-primary">
+                Browse past daily puzzles
+              </Link>
+            </div>
+          )}
         </div>
 
-        <div className="home-launcher__chips lg:hidden">
+        <div className="home-launcher__chips">
           <LauncherChips />
         </div>
 
         <div className="home-launcher__hero">
-          {/* Desktop / tablet: LCP hero above the preview overlap */}
-          <picture className="hidden md:block">
-            {/* Phones never show this picture: a 1×1 placeholder source stops the eager download. */}
-            <source media="(max-width: 767px)" srcSet="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />
-            <source
-              media="(min-width: 768px)"
-              srcSet={`${ART.heroDesktop.variants?.[0][0]} 1200w, ${ART.heroDesktop.src} 1600w`}
-              sizes="(min-width: 1024px) 540px, 100vw"
-              width={1600}
-              height={1200}
-            />
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img
-              src={ART.heroDesktop.variants?.[0][0] ?? ART.heroDesktop.src}
-              srcSet={`${ART.heroDesktop.variants?.[0][0]} 1200w, ${ART.heroDesktop.src} 1600w`}
-              sizes="(min-width: 1024px) 540px, 100vw"
-              width={1600}
-              height={1200}
-              alt={ART.heroDesktop.alt}
-              fetchPriority="high"
-              loading="eager"
-              className="aspect-[4/3] w-full rounded-[4px] border border-[#d4cbb8] object-cover"
-            />
-          </picture>
-          {/* Mobile: below-fold short banner — lazy, not preloaded */}
-          <picture className="md:hidden">
+          {/* Decorative only — playable grid is above; keep lazy so it never competes with play. */}
+          <picture>
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
               src={ART.heroMobile.variants?.[0][0] ?? ART.heroMobile.src}
-              srcSet={`${ART.heroMobile.variants?.[0][0]} 800w, ${ART.heroMobile.src} 1200w`}
-              sizes="100vw"
-              width={1200}
-              height={900}
-              alt={ART.heroMobile.alt}
+              srcSet={`${ART.heroMobile.variants?.[0][0]} 800w, ${ART.heroDesktop.variants?.[0][0]} 1200w, ${ART.heroDesktop.src} 1600w`}
+              sizes="(min-width: 1024px) 1088px, 100vw"
+              width={1600}
+              height={1200}
+              alt={ART.heroDesktop.alt}
               loading="lazy"
               decoding="async"
               fetchPriority="low"
-              className="aspect-[5/2] w-full rounded-[4px] border border-[#d4cbb8] object-cover"
+              className="aspect-[5/2] w-full rounded-[4px] border border-[#d4cbb8] object-cover sm:aspect-[10/3]"
             />
           </picture>
         </div>
@@ -361,7 +334,7 @@ export default function HomePage() {
             Mac) and come back tomorrow — nothing to sign up for.
           </p>
           <p className="mt-6">
-            <Link href="/daily" className="btn-primary">Play today&apos;s puzzle →</Link>
+            <Link href="/daily" className="btn-primary">Open the full daily page →</Link>
           </p>
         </div>
       </section>

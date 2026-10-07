@@ -9,6 +9,14 @@
 
 ## [未发布 Unreleased]
 
+### 改进 — 首页嵌入今日可玩 Daily 格子（2026-10-08）
+- 首页 `/` 首屏改为嵌入与 `/daily` **同一道**今日谜题的可交互 `PuzzleGrid`（词表、拖选／两点选、键盘、Grid size Larger、Reset 均可用）；不再用装饰性 mini-grid 预览卡跳转。
+- 进度键仍为 `war:progress:${puzzleId}`，与 `/daily` 共用 localStorage，首页与每日页切换不丢进度。
+- `/daily` 仍为 Daily 正式页（文案、归档、FAQ、canonical）；首页仅轻量标签 +「Full daily page / Calendar」链接，不整站重定向、不复制 Daily ItemPage JSON-LD。
+- SEO 定义／主题／来源等仍在折线下方；`home-mid` 广告仍在主题区之后，不盖住字母格。
+- 新增 `components/HomeDailyPuzzle.tsx`；精简 `DailyLauncher`（仅保留 LauncherChips）；`home-launcher` CSS 改为全宽 stack。
+- 未改谜题数据 / content dates；未提交 `tsbuildinfo`。
+
 ### 改进 — 105 个主题专属封面与 OG 底图（2026-10-07）
 - 用 Asrock `words-at-rest-current` 新出的专属插画替换此前复用父主题占位图的 **105** 个主题封面（`public/images/themes/{slug}.webp` + `-640.webp`）及对应 `design/og-base/og-theme-{slug}.png`；16 个 keeper（animals / bible / cats / christmas / dogs / fall / food / garden / halloween / hard-pack / large-print-pack / music / ocean / space / sports / travel）未改。
 - 全站 **121 / 121** 主题封面与 OG 底图现均为独立 MD5；Asrock `final-validation.json`：`uniqueCoverHashes=121`、`uniqueOgHashes=121`、`issues=[]`。含 P0 节日：valentines、thanksgiving、winter、easter，以及 golf 等原复用组。
