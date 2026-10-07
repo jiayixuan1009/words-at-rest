@@ -9,7 +9,7 @@
 
 ## [未发布 Unreleased]
 
-## 2026-10-07 — Hub 文案加厚（Wave C–K 偏薄主题，待部署）
+## 2026-10-07 — Hub 文案加厚（Wave C–K 偏薄主题，已部署）
 
 ### 维护 — Daily 缓冲补天
 - `npm run daily:add`：补 `2026-10-14` Daily（Fall / Easy），满足 `DAILY_BUFFER_DAYS=7`。
@@ -20,6 +20,9 @@
 - 优先：缺 `THEME_EXTRA` 的 Wave H/C 等新主题、季节 hub、Food/Sports/Music/Garden 子主题与地理长尾；已较厚的 halloween 等跳过。
 - `data/themes/*.json` description 扩写；`lib/theme-content.ts` 补全/加厚 vocabulary / goodFor / tip。
 - `themeDates()` 纳入对应 `data/themes/{id}.json`，hub 文案提交后 `dateModified` 随 git 自然更新（仅改文案的 hub，不碰谜题文件）。
+- **Commits:** `c5a7417`（文案）→ `3c842dd`（Daily 缓冲）。
+- **Deploy:** Worker version `c97af9aa-6df3-46da-94e1-07d6f8caebfd` → wordsatrest.com（account `b79c11a97188ceeb150acb0b6c4cda97`），2026-10-07 约 09:31 Asia/Shanghai。
+- **线上抽查：** `/themes/farm-animals`、`coffee-tea`、`soccer`、`deserts`、`mothers-day` 均含加厚 description + EXTRA 段落。
 
 ## 2026-10-07 — Wave JK（冲过 ~1000，已部署）
 
