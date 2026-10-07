@@ -15,6 +15,7 @@ export default function PuzzleCard({ puzzle }: { puzzle: Puzzle }) {
   return (
     <Link
       href={puzzlePath(puzzle)}
+      prefetch={false}
       className="flex items-center gap-4 border-b border-[#d4cbb8] py-4 no-underline transition hover:border-[var(--accent)]"
     >
       <Picture
