@@ -1,6 +1,6 @@
 # Calm puzzle feedback
 
-## Stronger feedback update — 2026-10-07 (release pending)
+## Stronger feedback update — 2026-10-07 (released)
 
 The current implementation supersedes the initial motion timings below. Every PuzzleGrid now draws continuous rounded bands through measured cell centres: a warm live selection preview, then one of four soft persistent answer colors. The selected path is retained even for an alternate occurrence or reverse endpoint order. An SVG layer ignores pointer input and leaves the stable, server-rendered letters above it. ResizeObserver keeps it aligned when the board, text size or breakpoint changes; the original cell backgrounds remain as a pre-hydration/no-JS fallback.
 
@@ -10,7 +10,11 @@ Fresh completion receives a 900ms edge glow, twelve small leaf-shaped particles 
 
 Reduced-motion CSS hides sweeps and particles and disables success/count/list/card/glow animations and progress transitions; persistent bands, checks, count and success text remain. Print hides SVG and animated decoration while preserving found-cell backgrounds. No sounds, dependencies or new analytics events were added.
 
-Integrated upstream `01e3bf8`: kept the twenty expanded theme hubs and canonical eight-entry Daily schedule through October 14. Initial typecheck/build and seven game test groups plus Daily tests passed (1,043 catalog + eight Daily puzzles; 12,943 legal occurrences). Browser checks verified pointer alternate BAT, a keyboard 10/10 game, nine simultaneous sweeps and twelve completion particles, one live region, endpoint focus retained, restored 10/10 without replay, duplicate/Reset cleanup, 320px Larger without overflow and reverse diagonal CAULDRON with a running sweep. Final merged build and production verification are pending. OS reduced-motion and screen-reader tests have not been performed.
+Integrated upstream `01e3bf8`: kept the twenty expanded theme hubs and canonical eight-entry Daily schedule through October 14. Typecheck/build and seven game test groups plus Daily tests passed (1,043 catalog + eight Daily puzzles; 12,943 legal occurrences). Browser checks verified pointer alternate BAT, a keyboard 10/10 game, nine simultaneous sweeps and twelve completion particles, one live region, endpoint focus retained, restored 10/10 without replay, duplicate/Reset cleanup, 320px Larger without overflow, reverse diagonal CAULDRON with a running sweep, and pointer-drag LANTERN. OS reduced-motion and screen-reader tests have not been performed.
+
+[PR #3](https://github.com/jiayixuan1009/words-at-rest/pull/3) merged as `44bf5f1`. GitHub's canonical source tree matched the tested local tree; the canonical merge was rebuilt before release. Deployed at 2026-10-07 10:56 Asia/Shanghai, Worker version `0d471ad6-5d65-4b34-8ca5-75584265ac23` serves 100% of production traffic. Rollback point: `c97af9aa-6df3-46da-94e1-07d6f8caebfd`. Worker startup 16ms is not page LCP.
+
+Production passed 16-page JSON-LD and HTTP metadata/canonical/404/noindex/robots/sitemap checks. The browser restored prior 10/10 with ten bands and no transient feedback, then reset and completed a fresh 10/10 using pointer BAT plus nine keyboard selections. All paths, checks, totals and the new completion card were present. The next-puzzle link navigated to Halloween: Quiet Porch with independent 0/10 progress. Production automation latency prevented reliable capture of transient animation frames; those were verified locally. Saved screenshot: `research/release-strong-feedback-2026-10-07/production-complete.png` in the workspace.
 
 Evidence: workspace `research/release-strong-feedback-2026-10-07/`. Prior production history below is retained as historical release evidence.
 
