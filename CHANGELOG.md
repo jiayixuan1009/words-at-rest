@@ -9,6 +9,11 @@
 
 ## [未发布 Unreleased]
 
+### 改进 — 首页标题区右侧配图（2026-10-08）
+- 在“Today's puzzle is ready below; mark words right here”所在标题／介绍行右侧铺设咖啡、字谜和窗边植物插画；底层画面柔化至纸色，仅覆盖介绍区域，整宽可玩题保持在下方。
+- 桌面复用现有响应式图片；手机／平板隐藏装饰图并选择1px占位源，保留首屏文字和游戏顺序。装饰图不拦截点击，对读屏隐藏。
+- typecheck／生产构建通过；浏览器验证1440／1024／768／390／320px无横向溢出、唯一H1、引用文案一致、游戏仍在介绍区域下方；1024px以下装饰源确为1px data URI。正确版本截图位于工作区 `research/home-intro-right-art-1440.png`（及其他四种屏宽）。
+
 ### Daily puzzles
 - 2026-10-15 — Daily Word Search: Airplanes (Medium) (airplanes / medium).
 

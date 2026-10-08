@@ -63,15 +63,35 @@ export default function HomePage() {
     <div className="space-y-14 sm:space-y-24">
       {/* 1 · Launcher: title → playable today’s grid → chips → optional hero */}
       <section aria-labelledby="home-title" className="home-launcher">
-        <div className="home-launcher__copy">
-          <p className="kicker">Free · Online · No timer</p>
-          <h1 id="home-title" className="display home-title mt-2.5 font-serif sm:mt-4">
-            Free word search puzzles, at your own pace.
-          </h1>
-          <p className="mt-3 max-w-[36rem] text-[1.0625rem] leading-snug text-[var(--ink-soft)] sm:mt-5 sm:text-[1.25rem] sm:leading-relaxed">
-            Calm grids for adults and seniors — large print, daily and seasonal themes. No download, no
-            sign-up. Today&apos;s puzzle is ready below; mark words right here.
-          </p>
+        <div className="home-launcher__intro">
+          <div className="home-launcher__copy">
+            <p className="kicker">Free · Online · No timer</p>
+            <h1 id="home-title" className="display home-title mt-2.5 font-serif sm:mt-4">
+              Free word search puzzles, at your own pace.
+            </h1>
+            <p className="mt-3 max-w-[36rem] text-[1.0625rem] leading-snug text-[var(--ink-soft)] sm:mt-5 sm:text-[1.25rem] sm:leading-relaxed">
+              Calm grids for adults and seniors — large print, daily and seasonal themes. No download, no
+              sign-up. Today&apos;s puzzle is ready below; mark words right here.
+            </p>
+          </div>
+          <picture className="home-launcher__intro-art" aria-hidden="true">
+            <source media="(max-width: 1023px)" srcSet="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />
+            <source
+              media="(min-width: 1024px)"
+              srcSet={`${ART.heroDesktop.variants?.[0][0]} 1200w, ${ART.heroDesktop.src} 1600w`}
+              sizes="(min-width: 1280px) 500px, 46vw"
+            />
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
+              src={ART.heroDesktop.variants?.[0][0] ?? ART.heroDesktop.src}
+              width={1600}
+              height={1200}
+              alt=""
+              loading="eager"
+              decoding="async"
+              fetchPriority="low"
+            />
+          </picture>
         </div>
 
         <div className="home-launcher__play">
