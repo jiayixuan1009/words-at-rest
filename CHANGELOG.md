@@ -9,6 +9,10 @@
 
 ## [未发布 Unreleased]
 
+### 改进 — 页脚意图文案（2026-10-08）
+- `SiteFooter` 品牌向「Illustrations were made… no stock photos」改为流量/意图句：Free large-print word searches — no timer, no sign-up, play online or print。
+- `app/` + `components/` 已检索同类 brand-flex（stock photos / illustrations were made / gouache）；仅此一处用户可见文案。
+
 ### 改进 — Daily 每天 10 道（含主题目录）（2026-10-08）
 - 每个 UTC 日目标 **10** 道：slot 1 为 featured（`/daily`、首页 embed、日历高亮）；slots 2–10 为 “Also today”，链到 `/themes/{theme}/{slug}`。
 - 新题写入 `data/puzzles/`（`{theme}-{difficulty}-{nn}`），与 Daily 共用同一 id/进度键；legacy `daily-YYYY-MM-DD` featured 网格不改写。
