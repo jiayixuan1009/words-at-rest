@@ -115,14 +115,15 @@ export default function HomePage() {
         <div className="home-launcher__hero">
           {/* Decorative only — playable grid is above; keep lazy so it never competes with play. */}
           <picture>
+            <source media="(max-width: 639px)" srcSet={ART.heroMobile.variants?.[0][0] ?? ART.heroMobile.src} />
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
-              src={ART.heroMobile.variants?.[0][0] ?? ART.heroMobile.src}
-              srcSet={srcSetOf(ART.heroMobile)}
+              src={ART.heroDesktop.src}
+              srcSet={srcSetOf(ART.heroDesktop)}
               sizes="(min-width: 1152px) 1088px, (min-width: 640px) calc(100vw - 64px), calc(100vw - 32px)"
-              width={ART.heroMobile.width}
-              height={ART.heroMobile.height}
-              alt={ART.heroMobile.alt}
+              width={ART.heroDesktop.width}
+              height={ART.heroDesktop.height}
+              alt={ART.heroDesktop.alt}
               loading="lazy"
               decoding="async"
               fetchPriority="low"
