@@ -9,9 +9,10 @@
 
 ## [未发布 Unreleased]
 
-### 改进 — 页脚意图文案（2026-10-08）
-- `SiteFooter` 品牌向「Illustrations were made… no stock photos」改为流量/意图句：Free large-print word searches — no timer, no sign-up, play online or print。
-- `app/` + `components/` 已检索同类 brand-flex（stock photos / illustrations were made / gouache）；仅此一处用户可见文案。
+### 改进 — 页脚与信任条意图文案（2026-10-08）
+- `SiteFooter`：stock-photos 行改为 “Large-print online play plus free printable PDFs for home, libraries and senior centers — no account needed.”
+- `TrustFacts`：「Original word lists」→「Printable PDFs」（图标与注释同步）。
+- `public/llms.txt`：large-print/printables 利益向措辞；谜题量与每天最多 10 道 daily 同步。
 
 ### 改进 — Daily 每天 10 道（含主题目录）（2026-10-08）
 - 每个 UTC 日目标 **10** 道：slot 1 为 featured（`/daily`、首页 embed、日历高亮）；slots 2–10 为 “Also today”，链到 `/themes/{theme}/{slug}`。

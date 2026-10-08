@@ -19,7 +19,7 @@ export default function SiteFooter() {
             Free word search puzzles for adults — large print, daily and seasonal. No timer, no fuss.
           </p>
           <p className="mt-2 max-w-sm font-sans text-base leading-relaxed">
-            Free large-print word searches — no timer, no sign-up, play online or print.
+            Large-print online play plus free printable PDFs for home, libraries and senior centers — no account needed.
           </p>
         </div>
         <nav aria-label="Footer">

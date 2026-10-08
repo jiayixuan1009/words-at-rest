@@ -4,7 +4,7 @@
  * - Free: no paywall, no purchases anywhere on the site.
  * - No sign-up: there are no accounts, logins or forms.
  * - No timer: PuzzleGrid has no clock or countdown (Calm Mode).
- * - Original word lists: themes are hand-written in data/themes (no licensed characters/brands).
+ * - Printable PDFs: free Letter/A4 packs at /printables (with answer keys).
  * - Saved paths + grid size preference stay in localStorage. Consented analytics
  *   may report found-word counts and game events, never the selected paths.
  * Deliberately NOT claimed: "ad-free" / "ad-light" (AdSense is planned) and
@@ -47,13 +47,13 @@ export const TRUST_FACTS: { label: string; icon: React.ReactNode }[] = [
     ),
   },
   {
-    label: "Original word lists",
-    // pencil on a line
+    label: "Printable PDFs",
+    // document / page
     icon: (
       <svg {...svg} className={ICON}>
-        <path d="m14.5 5.5 4 4L9 19H5v-4z" />
-        <path d="m12.5 7.5 4 4" />
-        <path d="M13 20h7" />
+        <path d="M7 3.5h7l3 3V20a1 1 0 0 1-1 1H7a1 1 0 0 1-1-1V4.5a1 1 0 0 1 1-1z" />
+        <path d="M14 3.5V7h3" />
+        <path d="M9 12h6M9 15h6M9 18h4" />
       </svg>
     ),
   },
