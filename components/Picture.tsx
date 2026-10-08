@@ -63,7 +63,7 @@ export function Ornament({ art, width, className = "" }: { art: Art; width: numb
   return (
     <div className={`flex justify-center ${className}`} aria-hidden="true">
       {/* eslint-disable-next-line @next/next/no-img-element */}
-      <img src={art.src} srcSet={srcSetOf(art)} sizes={`${width}px`} width={width} height={height} alt="" loading="lazy" decoding="async" className="max-w-full" style={{ height: "auto" }} />
+      <img src={art.src} srcSet={srcSetOf(art)} sizes={`${width}px`} width={width} height={height} alt="" aria-hidden="true" loading="lazy" decoding="async" className="max-w-full" style={{ height: "auto" }} />
     </div>
   );
 }

@@ -23,7 +23,7 @@ export function LauncherChips() {
           <li key={d} className="shrink-0">
             <Link prefetch={false} href={`/difficulty/${d}`} className="chip capitalize">
               {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img src={DIFFICULTY_ART[d].badge.src} width={24} height={24} alt="" loading="lazy" decoding="async" className="h-6 w-6" />
+              <img src={DIFFICULTY_ART[d].badge.src} width={24} height={24} alt="" aria-hidden="true" loading="lazy" decoding="async" className="h-6 w-6" />
               {d}
             </Link>
           </li>

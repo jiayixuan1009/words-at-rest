@@ -20,7 +20,6 @@ export default function PuzzleCard({ puzzle }: { puzzle: Puzzle }) {
     >
       <Picture
         art={a}
-        decorative
         sizes="112px"
         className="hidden aspect-[4/3] w-28 shrink-0 rounded-[3px] border border-[#d4cbb8] bg-[#efe7d9] object-cover sm:block"
       />

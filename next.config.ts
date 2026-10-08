@@ -10,6 +10,20 @@ const nextConfig: NextConfig = {
   // (An empty User-Agent still streams; the generateMetadata routes are therefore
   // force-dynamic so that variant is never cached.)
   htmlLimitedBots: /.*/,
+  async headers() {
+    return [
+      {
+        // Keep an exact root rule: vinext's wildcard header matcher excludes '/'.
+        source: "/",
+        headers: [{ key: "X-Robots-Tag", value: "max-image-preview:large" }],
+      },
+      {
+        source: "/:path*",
+        // Indexing stays page-specific in metadata; don't contradict a noindex page.
+        headers: [{ key: "X-Robots-Tag", value: "max-image-preview:large" }],
+      },
+    ];
+  },
 };
 
 export default nextConfig;

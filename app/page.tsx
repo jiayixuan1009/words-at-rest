@@ -88,6 +88,7 @@ export default function HomePage() {
               width={ART.heroDesktop.width}
               height={ART.heroDesktop.height}
               alt=""
+              aria-hidden="true"
               loading="eager"
               decoding="async"
               fetchPriority="high"

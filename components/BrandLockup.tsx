@@ -10,6 +10,7 @@ export default function BrandLockup({ tagline = false }: { tagline?: boolean }) 
         width={96}
         height={96}
         alt=""
+        aria-hidden="true"
         className="brand-symbol"
         decoding="async"
       />

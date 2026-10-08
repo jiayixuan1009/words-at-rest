@@ -6,10 +6,13 @@
 # so cache for a day and let browsers revalidate in the background for a week.
 /images/*
   Cache-Control: public, max-age=86400, stale-while-revalidate=604800
+  X-Robots-Tag: index, max-image-preview:large
 /art-assets/*
   Cache-Control: public, max-age=31536000, immutable
+  X-Robots-Tag: index, max-image-preview:large
 /og/*
   Cache-Control: public, max-age=86400, stale-while-revalidate=604800
+  X-Robots-Tag: index, max-image-preview:large
 /favicon.ico
   Cache-Control: public, max-age=86400, stale-while-revalidate=604800
 /apple-touch-icon.png
@@ -18,6 +21,7 @@
   Cache-Control: public, max-age=86400, stale-while-revalidate=604800
 /printables/*
   Cache-Control: public, max-age=86400, stale-while-revalidate=604800
+  X-Robots-Tag: index, follow, max-image-preview:large
 /printables/large-print-letter.pdf
   Link: <https://wordsatrest.com/printables/large-print>; rel="canonical"
 /printables/large-print-a4.pdf

@@ -171,7 +171,7 @@ export default async function PrintablePage({ params }: Props) {
     <div className={`mt-8 grid gap-8 ${puzzles.length > 2 ? "sm:grid-cols-2 lg:grid-cols-3" : "sm:grid-cols-2"}`}>
       {puzzles.map((p, i) => <section key={p.id}>
         <h2 className="font-serif text-2xl">Puzzle {i + 1}: {p.title.replace(/^Large Print (?:Christmas:\s*|Thanksgiving:\s*|Word Search:\s*)/i, "")}</h2>
-        <img src={`/printables/${pack.slug}-${i + 1}.png`} alt={`Preview of puzzle ${i + 1}: a 9 by 9 letter grid and word list`} width={612} height={792} loading="lazy" className="mt-3 h-auto w-full border border-[#d4cbb8]" />
+        <img src={`/printables/${pack.slug}-${i + 1}.png`} alt={`${p.title}: printable ${p.gridSize} by ${p.gridSize} letter grid with ${p.words.length} words to find`} width={612} height={792} loading="lazy" className="mt-3 h-auto w-full border border-[#d4cbb8]" />
         <p className="mt-3"><strong>Words:</strong> {p.words.join(", ")}.</p>
         <Link href={puzzlePath(p)} className="chip mt-3 min-h-11">Play this puzzle online</Link>
       </section>)}

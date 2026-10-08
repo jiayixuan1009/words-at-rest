@@ -13,7 +13,7 @@ export default function AdSlot({ slot, label = "Advertisement" }: { slot: string
     return (
       <div data-ad-slot={slot} aria-hidden="true" className="no-print my-8 flex min-h-[90px] items-center justify-center">
         {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img src={ART.adSpacer.src} width={364} height={20} alt="" loading="lazy" decoding="async" className="max-w-full opacity-70" style={{ height: "auto" }} />
+        <img src={ART.adSpacer.src} width={364} height={20} alt="" aria-hidden="true" loading="lazy" decoding="async" className="max-w-full opacity-70" style={{ height: "auto" }} />
       </div>
     );
   }
