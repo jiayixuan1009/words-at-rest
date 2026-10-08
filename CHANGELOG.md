@@ -9,6 +9,11 @@
 
 ## [未发布 Unreleased]
 
+### 改进 — 加深 Everyday Large Print 打印包（2026-10-08）
+- `/printables/large-print` 从 2 题扩至 **6** 题（large-print-pack-large-01…06），Letter/A4 PDF 与预览图重生成；每文件 12 页（谜题奇页、答案偶页）。
+- 落地页补充规格表、活动室用法、FAQ（字号/方向/许可/纸张/在线互链）；广告位仍不放在打印预览区。
+- `/printables` 索引与 `/large-print` 互链加强；`generate-printables.py` 支持可变包大小。
+
 ### 改进 — Wave #1 主题 hub 加厚 Loop（2026-10-08）
 - 加厚 8 个偏薄主题 hub：Meditation、Birdwatching、Journaling、Lighthouses、Apothecary、Yoga、Knitting、Libraries。
 - 各主题 `description` 扩至约 110–134 词；`THEME_EXTRA`（vocabulary / goodFor / tip）扩至合计约 290–330 有用英文词，并点名相关主题与 large print / how to play。

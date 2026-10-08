@@ -81,13 +81,15 @@ for pack in PACKS:
             page(c, pack, puzzle, i, True, size)
         c.save()
         reader = PdfReader(target)
-        assert len(reader.pages) == 4
+        expected_pages = len(pack["ids"]) * 2
+        assert len(reader.pages) == expected_pages, (target.name, len(reader.pages), expected_pages)
         assert all("WORDS TO FIND" in p.extract_text() for p in reader.pages)
         doc = pdfium.PdfDocument(str(target))
         for page_index in range(len(doc)):
             image = doc[page_index].render(scale=1.25).to_pil().convert("RGB")
             image.save(QA / f"{pack['slug']}-{fmt}-{page_index + 1}.png")
-            if fmt == "letter" and page_index in (0, 2):
+            # Puzzle sheets are even page indices: 0,2,4... → preview 1,2,3...
+            if fmt == "letter" and page_index % 2 == 0:
                 image.resize((612, 792)).save(OUT / f"{pack['slug']}-{page_index // 2 + 1}.png")
             tile = Image.new("RGB", (310, 430), "#dddddd")
             preview = ImageOps.contain(image, (290, 390))
@@ -96,7 +98,9 @@ for pack in PACKS:
             thumbs.append(tile)
         doc.close()
         print(target.name, len(reader.pages), "pages", target.stat().st_size, "bytes")
-sheet = Image.new("RGB", (310 * 4, 430 * 8), "white")
+cols = 4
+rows = max(1, (len(thumbs) + cols - 1) // cols)
+sheet = Image.new("RGB", (310 * cols, 430 * rows), "white")
 for i, tile in enumerate(thumbs):
-    sheet.paste(tile, ((i % 4) * 310, (i // 4) * 430))
+    sheet.paste(tile, ((i % cols) * 310, (i // cols) * 430))
 sheet.save(QA / "all-pages.png")

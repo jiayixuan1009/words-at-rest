@@ -36,7 +36,7 @@ export const LARGE_PRINT_FAQ: FaqItem[] = [
   },
   {
     q: "Can I print these puzzles?",
-    a: "Yes. Our printable packs offer free Letter and A4 PDFs with two large print puzzles and answer keys. Visit Printable PDFs in the footer to preview and download them without signing up. You can also play the same grids online.",
+    a: "Yes. The Everyday Large Print pack offers six free Letter and A4 PDFs with answer keys at 24-point letters. Preview and download from the Everyday Large Print printable page without signing up, or browse all seasonal packs from the Printables index. You can also play the same grids online.",
   },
   {
     q: "What if the letters are still too small?",
@@ -86,7 +86,7 @@ export default function LargePrintView({ page }: { page: number }) {
         You can also switch <strong className="text-[var(--ink)]">any</strong> puzzle on the site to the Larger grid
         size using the switch above the grid. Your choice is remembered on this device.
       </p>
-      {page === 1 && <p className="mt-4 text-lg"><Link href="/printables">Prefer paper? Download free large print PDFs with answer keys</Link>.</p>}
+      {page === 1 && <p className="mt-4 text-lg"><Link href="/printables/large-print">Prefer paper? Download the Everyday Large Print pack</Link> (six free PDFs with answer keys) or <Link href="/printables">browse all printable packs</Link>.</p>}
       <div className="mt-12 grid gap-10 lg:grid-cols-[1.2fr_0.8fr] lg:items-start">
         <div>
           <h2 className="font-serif text-3xl">
