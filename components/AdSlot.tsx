@@ -1,9 +1,9 @@
 import { ART } from "@/lib/images";
 
 /**
- * AdSense placeholder. Reserves space (avoids layout shift) but loads NO ad script.
+ * AdSense placeholder. Reserves space (avoids layout shift); RootLayout loads the global tag.
  * After AdSense approval: render <ins class="adsbygoogle" data-ad-client={ADSENSE_CLIENT}
- * data-ad-slot={slot}> here, lazy-load the script, and honour Consent Mode v2 for EEA/UK.
+ * data-ad-slot={slot}> here and use the approved advertising consent configuration.
  * Rules: never overlay the grid, never interrupt selection, no fake "Play" buttons.
  */
 export default function AdSlot({ slot, label = "Advertisement" }: { slot: string; label?: string }) {

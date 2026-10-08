@@ -69,6 +69,11 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
     <html lang={SITE.language} suppressHydrationWarning>
       <head>
         <script dangerouslySetInnerHTML={{ __html: GRID_SIZE_SCRIPT }} />
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6775124504429409"
+          crossOrigin="anonymous"
+        />
       </head>
       <body className="flex min-h-screen flex-col text-[var(--ink)]">
         <a href="#main" className="sr-only focus:not-sr-only focus:absolute focus:left-4 focus:top-4 focus:z-50 focus:rounded-md focus:bg-white focus:p-3">

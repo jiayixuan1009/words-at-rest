@@ -9,6 +9,10 @@
 
 ## [未发布 Unreleased]
 
+### 新增 — AdSense 全站脚本（2026-10-08）
+- 根布局 head 加入用户提供的 Google AdSense 脚本，publisher `ca-pub-6775124504429409`，保留 `async` 与 `crossorigin="anonymous"`，全站页面共享。
+- 更新广告占位组件注释以反映全局脚本已接入。
+
 ### 新增 — Microsoft Clarity（2026-10-08）
 - 全站接入 Clarity 项目 `yubihvuzyv`，异步加载官方追踪脚本；沿用现有 Analytics choices，仅同意统计后加载，并传递 ConsentV2（analytics granted / ads denied）。
 - 撤回同意立即停止 Clarity、清理 `_clck` / `_clsk`；再次允许时刷新页面恢复完整项目配置。隐私页补充热图、会话录制和 Microsoft 隐私政策；独立于 GA4 的启用状态。
