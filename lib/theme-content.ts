@@ -533,10 +533,10 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
   },
   knitting: {
     vocabulary:
-      "Yarn and needle English — stitch, purl, scarf — no yarn brands.",
+      "The knitting bank is a quiet craft drawer: ALPACA, BASKET, BLANKET, CABLE, CAST, CHART, CIRCULAR, COTTON, CROCHET, DECREASE, FIBER, GARTER, GAUGE, HANK, MITTEN, NEEDLE, PATTERN, PROJECT, PURL, RIBBING, SCARF, SHAWL, STOCKINETTE, SWEATER and YARN among others. Short tools such as HOOK, ROW, RIB, LOOP and HAT keep easy grids moving. Nothing is a yarn-shop brand or a pattern-company name — only common craft English. Longer compounds like STOCKINETTE and CIRCULAR anchor hard grids the way a finished cuff anchors a sleeve.",
     goodFor:
-      "A calm craft theme for quiet evenings.",
-    tip: "Long words like STOCKINETTE and SWEATER stand out first.",
+      "Ideal for evening knitters, craft-club tables, care-home activity hours and anyone who finds the click of needles more calming than a screen. It pairs with Sewing and Quilting for a wider handmade session, and with Reading when you want a lamp-side companion puzzle. Large print helps after a long project row. Seniors who learned to knit decades ago often recognize every word without needing a glossary.",
+    tip: "Find STOCKINETTE, CIRCULAR, PATTERN, BLANKET and DECREASE before short tools like ROW, RIB and HAT. The double T in STOCKINETTE and the CIRC cluster stand out once you train your eye. On hard grids, craft words often run backwards along a row like a wrong-side pass — if PURL will not appear forwards, try reading right-to-left on the same line.",
   },
   reading: {
     vocabulary:
@@ -750,10 +750,10 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
   },
   libraries: {
     vocabulary:
-      "Shelf and quiet-reading English — no publisher brands. Companion to Reading.",
+      "The libraries list walks quiet aisles: AISLE, ANNEX, ARCHIVE, ATLAS, AUTHOR, BINDING, BORROW, BROWSE, CARREL, CATALOG, CHAPTER, EDITION, FICTION, FOLIO, GENRE, HISTORY, INDEX, NOVEL, REFERENCE, RENEW, RESERVE, RETURN, SCIENCE, SHELF, STACK and VOLUME among others. Short desk words such as DUE, HOLD, LOAN, FINE, CARD and READ keep beginners moving. No publisher, bookstore or software brands — only the calm nouns of a public reading room. Longer anchors like REFERENCE, CATALOG and ARCHIVE steady the hard grid.",
     goodFor:
-      "Calm room vocabulary for seniors' hours.",
-    tip: "Long words such as CATALOG and ARCHIVE stand out.",
+      "A natural fit for lifelong readers, library volunteers, seniors' book clubs and quiet activity rooms that already smell like paper. It sits under Reading and pairs well with Journaling, Museums and American History when you want a wider study hour. Large print suits afternoon reading glasses. Activity directors often print a large-print sister pack for shared tables, then send residents back here for online play.",
+    tip: "Hunt REFERENCE, ARCHIVE, CATALOG, BINDING and CHAPTER first; leave DUE, HOLD and READ for the edges. Rare letter pairs help: the CH in CHAPTER, the IV in ARCHIVE. On hard grids, library words often hide on long verticals like a stack spine — clear one column early. FICTION and SCIENCE are useful contrast pair; finding one rarely means the other overlaps.",
   },
   volunteering: {
     vocabulary:
@@ -764,38 +764,38 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
   },
   meditation: {
     vocabulary:
-      "Calm practice English — no medical claims; no brand names. Companion to Mindfulness.",
+      "The meditation bank stays soft and practical: ATTENTION, BALANCE, BREATH, CLARITY, CUSHION, EXHALE, FOCUS, INHALE, MINDFUL, MOMENT, PAUSE, PEACE, POSTURE, PRACTICE, PRESENT, QUIET, SESSION, SETTLE, SILENCE, STILL and TIMER among others. Short sits such as SIT, REST, EASE, BELL, BOWL, MAT and ROOM keep easy grids friendly. No app brands, no medical claims and no studio slogans — only everyday calm-room English. Longer words like ATTENTION, PRACTICE and CUSHION anchor harder boards.",
     goodFor:
-      "Quiet sit vocabulary for adults.",
-    tip: "Long words like PRACTICE and CUSHION stand out first.",
+      "Suited to adults and seniors who want a quiet theme without self-help jargon. It sits under Mindfulness and pairs well with Yoga, Journaling and Gratitude for a longer calm session. Care homes and home solvers both do well with large print. Use it as a gentle evening puzzle, not as health advice — the word list describes a quiet room, nothing more.",
+    tip: "Find ATTENTION, PRACTICE, CUSHION, BALANCE and CLARITY before short words like SIT, BELL and MAT. Double letters help: the TT in ATTENTION and the SS in SESSION. On hard grids, practice words often sit on long horizontals like a held breath — clear the middle rows early. INHALE and EXHALE are a useful pair; spotting one often means the other is elsewhere, not overlapping.",
   },
   birdwatching: {
     vocabulary:
-      "Field and binocular English — companion to Birds; no brand names.",
+      "The birdwatching list mixes field craft and soft nature nouns: BINOCULAR, BRANCH, CANOPY, FEEDER, FLEDGE, FLOCK, MIGRATE, PATIENCE, PERCH, PLUMAGE, SCOPE, SHORE, MARSH, MEADOW, FOREST and GARDEN, plus short calls like BEAK, CHIRP, NEST, SEED, PATH and NOTE. No optics brands and no rare Latin species names — just adult English for a patient sit outdoors. Longer anchors such as BINOCULAR, PATIENCE and PLUMAGE steady the hard grid; short words hide along edges.",
     goodFor:
-      "Outdoor observation vocabulary.",
-    tip: "Long words such as BINOCULAR and MIGRATE anchor harder grids.",
+      "A calm fit for porch watchers, park walkers, seniors who keep a feeder log and nature clubs that want a puzzle after a stroll. It sits under Birds and pairs well with Forests, Hiking, Lakes and Flowers. Large print helps in bright daylight on a phone. Activity rooms can treat it as a gentle outdoor-memory theme without needing travel.",
+    tip: "Hunt BINOCULAR, PATIENCE, MIGRATE, PLUMAGE and FEEDER first; leave BEAK, EGG and NOTE for last. The OC in BINOCULAR and the PL in PLUMAGE jump out. On hard grids, birding words often run diagonally like a flight path — check diagonals after you clear the long horizontals. FLOCK and SHORE are useful mid-length wins between the giants and the tiny calls.",
   },
   lighthouses: {
     vocabulary:
-      "Beacon and shore English — companion to Ocean; no brand names.",
+      "The lighthouses bank is coastal and steady: BEACON, CHANNEL, CLIFF, GALLERY, HARBOR, KEEPER, LANTERN, PRISM, ROTATE, SIGNAL, STAIR, TOWER words such as HOUSE and LIGHT, plus short shore nouns like FOG, REEF, ROCK, SAIL, SHIP, GLOW and BEAM. No tourist brands and no named monuments — only common beacon English. Longer anchors like CHANNEL, GALLERY and LANTERN hold the hard grid; FOG, COT and LOG tuck into corners on easy boards.",
     goodFor:
-      "Coastal calm for adults and seniors.",
-    tip: "Long words like LANTERN and CHANNEL jump out quickly.",
+      "Ideal for seaside walkers, armchair coastal readers, seniors who remember harbor nights and anyone who finds foghorns oddly peaceful. It sits under Ocean and pairs well with Islands, Lakes, Travel and National Parks. Large print suits evening solving after a windy day. Activity directors often pair it with a short shoreline story before the puzzle starts.",
+    tip: "Find CHANNEL, GALLERY, LANTERN, BEACON and HARBOR before FOG, ROCK and LOG. Rare clusters help: the CH in CHANNEL, the RN in LANTERN. On hard grids, lighthouse words often stand on tall verticals like a tower — scan columns early. SIGNAL and ROTATE are solid mid-length finds once the longest beacons are marked.",
   },
   journaling: {
     vocabulary:
-      "Pen and page English — companion to Reading; no brand names.",
+      "The journaling list is desk-quiet: BINDING, CLARITY, ENTRY, GRATITUDE, JOURNAL, MARGIN, MEMORY, PROMPT, REFLECT, REVIEW, SCRIPT, THOUGHT and evening companions such as LAMP, CHAIR, DESK, INK, PAPER and PAGE. Short habits like PEN, NOTE, LIST, DATE, DAILY and REST keep easy grids kind. No notebook brands and no app names — only the nouns of an honest page. Longer anchors like GRATITUDE, JOURNAL and REFLECT steady harder boards.",
     goodFor:
-      "Desk habit vocabulary.",
-    tip: "Long words such as GRATITUDE and JOURNAL stand out.",
+      "A gentle theme for adults who keep a diary, seniors rebuilding a writing habit and quiet clubs that want a desk-side puzzle. It sits under Reading and pairs well with Libraries, Calligraphy, Mindfulness and Meditation. Large print helps when the lamp is soft. Use it as vocabulary practice, not as therapy advice — the words describe a notebook, nothing clinical.",
+    tip: "Hunt GRATITUDE, JOURNAL, REFLECT, BINDING and CLARITY first; leave PEN, INK and NOTE for the margins. Double letters help: the TT in GRATITUDE and the LL in FILLED when it appears. On hard grids, journal words often hide backwards along a line like a crossed-out draft — try right-to-left on stubborn rows. MEMORY and PROMPT are useful middle finds.",
   },
   apothecary: {
     vocabulary:
-      "Jar and herb English — companion to Herbs; common nouns only; no medical claims.",
+      "The apothecary bank smells like a quiet counter: BEESWAX, CABINET, CHAMOMILE, LAVENDER, MORTAR, PESTLE, ROSEMARY, SACHET, TINCTURE, BOTTLE, BUNDLE, DRAWER, LEDGER, LINEN, SCALE and SHELF, plus short shop nouns such as JAR, LEAF, OIL, ROOT, SAGE, MINT and CORK. Common herb and craft English only — no medical claims, no pharmacy chains and no product slogans. Longer anchors like CHAMOMILE, LAVENDER and TINCTURE hold the hard grid.",
     goodFor:
-      "Quiet shop-shelf vocabulary.",
-    tip: "Long words like TINCTURE and CHAMOMILE anchor the hard grid.",
+      "Suited to herb-garden readers, craft-table makers, seniors who remember dry shops with glass jars and anyone who likes calm scent words without health promises. It sits under Herbs and pairs well with Gardening Tools, Flowers, Cooking and Coffee Tea. Large print suits evening glasses. Keep the tone culinary and crafty; this is a word puzzle, not advice.",
+    tip: "Find CHAMOMILE, LAVENDER, TINCTURE, ROSEMARY and BEESWAX before JAR, OIL and LEAF. Distinctive clusters help: the CH in CHAMOMILE, the CT in TINCTURE. On hard grids, shop words often sit on long horizontals like a shelf row — clear middle rows early. MORTAR and PESTLE are a useful pair; finding one often means the other is elsewhere.",
   },
   "gardening-tools": {
     vocabulary:
@@ -806,10 +806,10 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
   },
   yoga: {
     vocabulary:
-      "Calm practice English — no studio brands; no medical claims.",
+      "The yoga bank stays prop-and-pace practical: BALANCE, BLANKET, BLOCK, BOLSTER, BREATH, EXHALE, INHALE, PRACTICE, RESTORE, SESSION, SHOULDER, SPINE, STRETCH words such as FOLD and FLOW, plus short studio nouns like MAT, POSE, REST, CORE, HIP and GAZE. No studio brands, no influencer names and no medical claims — only soft adult English for a quiet mat. Longer anchors like PRACTICE, BOLSTER and SHOULDER steady the hard grid.",
     goodFor:
-      "Soft stretch vocabulary for adults.",
-    tip: "Long words such as PRACTICE and BOLSTER anchor harder grids.",
+      "A gentle fit for adults who stretch at home, seniors who prefer calm movement words and activity hours that want a soft theme after a walk. It sits under Sports yet stays quiet; it pairs well with Meditation, Mindfulness and Hiking. Large print helps on a phone beside the mat. Treat the list as vocabulary, not instruction — there is no pose guidance here.",
+    tip: "Hunt PRACTICE, SHOULDER, BOLSTER, BLANKET and BALANCE first; leave MAT, HIP and GAZE for last. Letter clusters help: the ST in BOLSTER and the PR in PRACTICE. On hard grids, yoga words often run diagonally like a folded stretch — check diagonals after long horizontals. INHALE and EXHALE are a useful pair across the board.",
   },
   photography: {
     vocabulary:

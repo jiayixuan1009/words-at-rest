@@ -9,6 +9,13 @@
 
 ## [未发布 Unreleased]
 
+### 改进 — Wave #1 主题 hub 加厚 Loop（2026-10-08）
+- 加厚 8 个偏薄主题 hub：Meditation、Birdwatching、Journaling、Lighthouses、Apothecary、Yoga、Knitting、Libraries。
+- 各主题 `description` 扩至约 110–134 词；`THEME_EXTRA`（vocabulary / goodFor / tip）扩至合计约 290–330 有用英文词，并点名相关主题与 large print / how to play。
+- 语气面向成人与老年读者；Meditation / Yoga / Apothecary 明确无医疗宣称、无品牌名；禁 IP。
+- 修改 `data/themes/*.json` 与 `lib/theme-content.ts`，themeDates 随 hub 文案自动 bump。
+
+
 ### 改进 — PageSpeed移动与桌面报告整改（2026-10-08）
 - 修复统计同意提示Privacy details只靠颜色区分的问题；手机Read more复选框补可访问名称，桌面端移出焦点/可访问树。
 - 主题封面补320/640/960/1200px WebP，难度徽章补44/88/128px WebP；首页插图/装饰增加按实际尺寸选择的资源，保留原图并使用内容指纹路径和一年immutable缓存。
