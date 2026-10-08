@@ -9,6 +9,20 @@
 
 ## [未发布 Unreleased]
 
+### 改进 — Wave #2 P1 主题 hub 加厚（2026-10-08）
+- 加厚 7 个仍偏薄主题 hub（调研 P1）：Farming、Birds、Friendship、Flowers、Trees、Beach、Cycling。
+- 各主题 `description` 扩至约 124–130 词；`THEME_EXTRA`（vocabulary / goodFor / tip）与 description 合计约 320–340 有用英文词，并点名相关主题与 large print / how to play。
+- 语气面向成人与老年读者；Friendship 无医疗宣称；全批禁 IP / 禁品牌。修改 `data/themes/*.json` 与 `lib/theme-content.ts`。
+
+### 改进 — 加深 Thanksgiving Large Print 打印包（2026-10-08）
+- `/printables/thanksgiving` 从 2 题扩至 **6** 题（thanksgiving-large-01…06），Letter/A4 PDF 与预览图重生成；每文件 12 页（谜题奇页、答案偶页）。
+- 落地页补充规格表、活动室用法、FAQ（字号/语气/许可/纸张/互链）；链到 `/themes/thanksgiving`、`/holidays`、`/printables/activity-directors`、`/printables`、`/large-print`；预览区仍无 AdSlot。
+- `/printables` 索引与 Activity Director Kit 文案改为六题；未改写既有 easy/medium/hard 网格。
+
+### 改进 — 季节主题 hub FAQ 加深（2026-10-08）
+- Halloween / Thanksgiving / Christmas / Winter 主题 FAQ 各扩至 4–5 条（年龄向语气、打印包、相关主题、禁 IP）；Thanksgiving/Christmas FAQ 同步六题打印包事实。
+- 修改 `lib/theme-faq.ts`；Faq 组件继续输出 FAQPage schema。
+
 ### 改进 — Wave #2 P0 主题 hub 加厚（2026-10-08）
 - 加厚 8 个仍偏薄主题 hub（调研 P0）：Woodworking、Painting、Camping、Baking、Kindness、Chess、Museums、Astronomy。
 - 各主题 `description` 扩至约 123–131 词；`THEME_EXTRA`（vocabulary / goodFor / tip）与 description 合计约 313–329 有用英文词，并点名相关主题与 large print / how to play。

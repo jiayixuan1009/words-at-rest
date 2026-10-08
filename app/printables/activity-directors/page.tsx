@@ -103,7 +103,7 @@ export default function ActivityDirectorsPage() {
           )}
           {packCard(
             "thanksgiving",
-            "Two Thanksgiving puzzles about home, sharing and a warm meal — short and familiar for November sessions.",
+            "Six Thanksgiving large print puzzles about home, sharing, harvest and a warm meal — calm November sessions with answer keys.",
           )}
           {packCard(
             "christmas",

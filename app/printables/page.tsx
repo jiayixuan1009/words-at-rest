@@ -30,7 +30,7 @@ export default function PrintablesPage() {
       <h2 className="font-serif text-2xl">Printing tips and permission</h2>
       <p>Choose the file that matches your paper size, then print at actual size (100%). Puzzle pages sit on the odd pages; answer keys on the even pages, so facilitators can withhold solutions.</p>
       <p>These sheets are free for personal, classroom and community activity use, including libraries and senior centers. Keep the Words at Rest credit when sharing the sheets. No account or email address is required.</p>
-      <p>Start with the <Link href="/printables/large-print">Everyday Large Print pack</Link> (six puzzles) or the <Link href="/printables/christmas">Christmas Large Print pack</Link> (six puzzles), or play the same calm grids <Link href="/large-print">online</Link>.</p>
+      <p>Start with the <Link href="/printables/large-print">Everyday Large Print pack</Link> (six puzzles), the <Link href="/printables/thanksgiving">Thanksgiving Large Print pack</Link> (six puzzles) or the <Link href="/printables/christmas">Christmas Large Print pack</Link> (six puzzles), or play the same calm grids <Link href="/large-print">online</Link>.</p>
     </section>
     <HubSchema type="CollectionPage" name="Free printable large print word searches" description={description} path="/printables" dates={datesFor("app/printables/page.tsx", "data/printables.json")} />
   </>;

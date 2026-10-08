@@ -1,0 +1,173 @@
+{
+  "id": "thanksgiving-large-05",
+  "slug": "thanksgiving-large-05",
+  "themeId": "thanksgiving",
+  "title": "Large Print Thanksgiving: Soft Kitchen",
+  "primaryKeyword": "large print thanksgiving word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BOWL",
+    "GRAVY",
+    "OVEN",
+    "PIE",
+    "ROLL",
+    "SPOON",
+    "WARM",
+    "YAMS"
+  ],
+  "grid": [
+    [
+      "Q",
+      "K",
+      "F",
+      "U",
+      "T",
+      "X",
+      "U",
+      "A",
+      "B"
+    ],
+    [
+      "Z",
+      "M",
+      "I",
+      "V",
+      "O",
+      "O",
+      "V",
+      "E",
+      "N"
+    ],
+    [
+      "R",
+      "O",
+      "L",
+      "L",
+      "V",
+      "B",
+      "O",
+      "W",
+      "L"
+    ],
+    [
+      "W",
+      "K",
+      "G",
+      "Z",
+      "W",
+      "A",
+      "R",
+      "M",
+      "Y"
+    ],
+    [
+      "G",
+      "G",
+      "W",
+      "Q",
+      "J",
+      "T",
+      "U",
+      "O",
+      "A"
+    ],
+    [
+      "R",
+      "G",
+      "O",
+      "S",
+      "P",
+      "O",
+      "O",
+      "N",
+      "M"
+    ],
+    [
+      "A",
+      "I",
+      "A",
+      "N",
+      "K",
+      "S",
+      "M",
+      "I",
+      "S"
+    ],
+    [
+      "V",
+      "W",
+      "D",
+      "F",
+      "S",
+      "W",
+      "B",
+      "E",
+      "V"
+    ],
+    [
+      "Y",
+      "K",
+      "R",
+      "Y",
+      "P",
+      "I",
+      "E",
+      "B",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SPOON",
+      "row": 5,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "GRAVY",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "OVEN",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "BOWL",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "ROLL",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "YAMS",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "WARM",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "PIE",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 1135
+}

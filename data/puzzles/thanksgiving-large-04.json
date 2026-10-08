@@ -1,0 +1,173 @@
+{
+  "id": "thanksgiving-large-04",
+  "slug": "thanksgiving-large-04",
+  "themeId": "thanksgiving",
+  "title": "Large Print Thanksgiving: Soft Orchard",
+  "primaryKeyword": "large print thanksgiving word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "ACORN",
+    "APPLE",
+    "AUTUMN",
+    "BARN",
+    "CIDER",
+    "HOME",
+    "LEAF",
+    "WALK"
+  ],
+  "grid": [
+    [
+      "H",
+      "U",
+      "L",
+      "A",
+      "N",
+      "W",
+      "A",
+      "L",
+      "K"
+    ],
+    [
+      "O",
+      "K",
+      "M",
+      "U",
+      "G",
+      "Q",
+      "B",
+      "J",
+      "D"
+    ],
+    [
+      "M",
+      "P",
+      "U",
+      "T",
+      "H",
+      "D",
+      "A",
+      "W",
+      "P"
+    ],
+    [
+      "E",
+      "I",
+      "P",
+      "U",
+      "A",
+      "O",
+      "R",
+      "B",
+      "H"
+    ],
+    [
+      "Z",
+      "X",
+      "F",
+      "M",
+      "C",
+      "O",
+      "N",
+      "N",
+      "C"
+    ],
+    [
+      "U",
+      "P",
+      "N",
+      "N",
+      "O",
+      "G",
+      "P",
+      "L",
+      "I"
+    ],
+    [
+      "I",
+      "P",
+      "Y",
+      "C",
+      "R",
+      "J",
+      "C",
+      "E",
+      "D"
+    ],
+    [
+      "D",
+      "S",
+      "O",
+      "R",
+      "N",
+      "O",
+      "E",
+      "A",
+      "E"
+    ],
+    [
+      "M",
+      "A",
+      "P",
+      "P",
+      "L",
+      "E",
+      "Y",
+      "F",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "AUTUMN",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "APPLE",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CIDER",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "ACORN",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "BARN",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "WALK",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "LEAF",
+      "row": 5,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "HOME",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 1134
+}

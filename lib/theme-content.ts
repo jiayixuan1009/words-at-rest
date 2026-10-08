@@ -276,24 +276,24 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
   },
   birds: {
     vocabulary:
-      "Bird lists use common English bird names plus nest, song and watching vocabulary — no cartoon mascots.",
+      "The birds bank stays observational and brand-free: CARDINAL, CHICKADEE, SPARROW, BLACKBIRD, BLUEJAY, DOVE, ROBIN, NEST, CHORUS, BRANCH, BEAK, FLOCK and DAWN among others. Short watching bits such as EGG, WING, SONG, CLOUD and CROW keep easy grids friendly. Nothing is a cartoon mascot or wildlife-park brand — only common English bird names and quiet field-note words. Longer names like CHICKADEE, BLACKBIRD and CARDINAL anchor harder boards the way a tall perch anchors a garden view.",
     goodFor:
-      "Birdwatchers, garden sitters and a calm nature companion to animals.",
-    tip: "Long names like CHICKADEE and NUTHATCH stand out; leave ROBIN and OWL for last on harder grids.",
+      "Ideal for birdwatchers, garden sitters, care-home nature hours and anyone who prefers a sill to a screen. It pairs with Birdwatching and Animals for a wider wildlife session, and with Forests when you want canopy vocabulary nearby. Large print suits shared tablets after a morning walk. Seniors who kept feeders for decades often know every common name without needing mascot art.",
+    tip: "Find CHICKADEE, CARDINAL, BLACKBIRD, SPARROW and CHORUS before short words like EGG, WING and CROW. Unusual letter pairs help: the CK in CHICKADEE and the rare J in BLUEJAY when present. On hard grids, bird names often perch on diagonals — scan edges for BEAK and NEST first. ROBIN and DOVE are calm warm-ups that free attention for longer songbird strings."
   },
   flowers: {
     vocabulary:
-      "Flower lists name garden and florist blooms — rose, peony, lavender, magnolia — in everyday English.",
+      "The flowers bank stays garden-and-florist and brand-free: ASTER, AZALEA, PEONY, LAVENDER, CAMELLIA, BOUQUET, BORDER, BLOOM, PETAL, BUD and VASE among others. Short bed bits such as BEE, BED, COLOR and SUN keep easy grids friendly. Nothing is a nursery-chain name or licensed cartoon bloom — only common English flower and cutting-garden words. Longer names like LAVENDER, CAMELLIA, AZALEA and BOUQUET anchor harder boards the way a border anchors a path.",
     goodFor:
-      "Gardeners and anyone who finds bloom names calming; pairs well with the garden parent theme.",
-    tip: "Short vowel-heavy names (IRIS, LILY, ROSE) hide easily; start with longer ones like DAFFODIL and WISTERIA.",
+      "Ideal for gardeners, floristry hobbyists, care-home plant hours and anyone who finds bloom names more calming than a feed. It pairs with Garden and Trees for a wider plant session, and with Spring themes when you want seasonal flower vocabulary nearby. Large print helps after weeding or arranging. Seniors who kept cutting beds often recognize every common bloom without brand tags.",
+    tip: "Find LAVENDER, CAMELLIA, AZALEA, BOUQUET and BORDER before short words like BEE, BED and BUD. Double letters help: the LL in LAVENDER and the EE in BEE when you leave shorts for last. On hard grids, flower names often sit on diagonals like stems in a vase — scan for unusual letters such as Z in AZALEA first. BLOOM and PETAL are calm mid-length finds that open space around longer anchors."
   },
   trees: {
     vocabulary:
-      "Tree lists cover common tree names and woodland English — oak, maple, canopy, foliage — with no park brands.",
+      "The trees bank stays woodland and brand-free: OAK, MAPLE, BIRCH, BEECH, CEDAR, ASPEN, CANOPY, FOLIAGE, ACORN, BARK, BRANCH and AUTUMN among others. Short grove bits such as ASH, ELM, LEAF and ROOT keep easy grids friendly. Nothing is a park-agency brand or licensed forest character — only common English tree names and quiet wood words. Longer anchors like CANOPY, FOLIAGE, CHESTNUT and EVERGREEN (when present) steady harder boards the way a tall trunk steadies a path.",
     goodFor:
-      "Walkers, gardeners and seniors who like outdoor vocabulary year-round.",
-    tip: "Look for distinctive clusters such as SYC in SYCAMORE or ACK in BLACK when related words appear.",
+      "Ideal for walkers, gardeners, care-home nature hours and anyone who prefers shade vocabulary to screen noise. It pairs with Forests and Garden for a wider green session, and with Hiking when you want trail tree words nearby. Large print suits shared tablets after a park loop. Seniors who learned tree names decades ago often spot every common genus without needing branded trail maps.",
+    tip: "Find CANOPY, FOLIAGE, CHESTNUT, MAPLE and BIRCH before short words like ASH, ELM and LEAF. Unusual letters help: the Y in CANOPY and the CH in BEECH or BRANCH. On hard grids, tree names often run vertically like trunks — check columns early. ACORN and OAK are a useful pair; finding one often means oak-family words are nearby."
   },
   weather: {
     vocabulary:
@@ -360,17 +360,17 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
   },
   farming: {
     vocabulary:
-      "Field, barn and harvest English without agribusiness brands.",
+      "The farming bank stays field-and-barn and brand-free: ACRE, BARLEY, BARN, FURROW, HARVEST, ORCHARD, PASTURE, SILO, TRACTOR, WHEAT, PLOW, RAKE and DAWN among others. Short chore bits such as HEN, HAY, EGG, ROW, SOY and COW keep easy grids friendly. Nothing is an agribusiness name or licensed farm character — only common countryside English. Longer words like HARVEST, ORCHARD, PASTURE and IRRIGATE anchor harder boards the way a fence line anchors a meadow.",
     goodFor:
-      "A seniors-friendly outdoor-kitchen theme year-round.",
-    tip: "Double letters in BUTTER and CHEESE stand out; hunt short ones like HEN last.",
+      "Ideal for rural readers, allotment keepers, care-home countryside hours and anyone who finds barn words more calming than a news feed. It pairs with Farm Animals and Garden for a wider outdoor-kitchen session, and with Baking when you want grain-to-table vocabulary nearby. Large print helps after a long market morning. Seniors who grew up near fields often recognize every word without needing brand logos.",
+    tip: "Find HARVEST, ORCHARD, PASTURE, TRACTOR and IRRIGATE before short words like HEN, EGG, ROW and SOY. Double letters help: the TT in BUTTER and the EE in CHEESE jump out. On hard grids, crop words often run along long horizontals like a plowed row — clear the middle early. CORN and WHEAT are a useful pair; spotting one often means grain vocabulary is clustered nearby."
   },
   beach: {
     vocabulary:
-      "Sand, tide and shore English — no resort brands. Companion to Ocean.",
+      "The beach bank stays shore-and-tide and brand-free: DUNE, BOARDWALK, SHELL, BREEZE, TOWEL, CRAB, FOAM, PIER, COOLER, BAREFOOT, CLIFF and SAND among others. Short shore bits such as HAT, WAVE, SUN and TIDE keep easy grids friendly. Nothing is a resort brand or licensed seaside character — only common coastal English. Longer words like BOARDWALK, BAREFOOT, DRIFTWOOD and SEAGLASS (when present) anchor harder boards the way a pier anchors a bay view.",
     goodFor:
-      "Summer afternoons and anyone who wants a coastal mood without swimwear ads.",
-    tip: "Long words such as LIGHTHOUSE and UMBRELLA are easier than SUN or HAT.",
+      "Ideal for summer afternoons, coastal holidays, care-home seaside hours and anyone who wants a shore mood without swim-race intensity. It pairs with Ocean and Swimming for a wider waterfront session, and with Travel when you want harbor vocabulary nearby. Large print helps after a bright outdoor day. Seniors who spent decades near a shore often know every calm beach word without resort logos.",
+    tip: "Find BOARDWALK, BAREFOOT, COOLER, BREEZE and SHELL before short words like HAT, SUN and WAVE. Double letters help: the OO in COOLER and the EE in BREEZE. On hard grids, shore words often run along long horizontals like a tide line — clear middle rows early. SAND and TIDE are useful warm-ups that free attention for longer boardwalk strings."
   },
   mountains: {
     vocabulary:
@@ -402,10 +402,10 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
   },
   friendship: {
     vocabulary:
-      "Trust, kindness, letters and shared time — calm adult social vocabulary.",
+      "The friendship bank stays soft, adult and brand-free: COMPANION, COMFORT, CIRCLE, LETTER, TRUST, CHEER, BOND, VISIT, CARE, ALLY and SHARED among others. Short social bits such as CALL, CHAT, CARD, HUG and JOY keep easy grids friendly. Nothing is a dating-app name or licensed character — only everyday kindness-between-friends English. Longer words like COMPANION, COMFORT and CIRCLE anchor harder boards the way a weekly letter anchors a quiet week.",
     goodFor:
-      "A soft theme for seniors' hours and anyone who wants a gentle list.",
-    tip: "Words ending in -SHIP or -NESS (when present) and long ones like COMPANION stand out first.",
+      "Ideal for seniors' activity hours, adult friendship clubs and anyone who wants a gentle social theme without romance pressure. It pairs with Kindness and Gratitude for a wider soft-mood session, and with Volunteering when you want community vocabulary nearby. Large print suits shared tablets in a lounge. The tone stays grown-up — no medical claims and no brand slogans.",
+    tip: "Find COMPANION, COMFORT, CIRCLE, LETTER and TRUST before short words like HUG, CALL and JOY. Double letters help: the EE in CHEER and the LL in ALLY when present. On hard grids, friendship words often run across the middle like a conversation — clear long horizontals early. CARE and SHARE (when present) are useful pairs that free the board for longer anchors."
   },
   kindness: {
     vocabulary:
@@ -647,10 +647,10 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
   },
   cycling: {
     vocabulary:
-      "Bike and road English — no maker brands.",
+      "The cycling bank stays bike-and-road and brand-free: PEDAL, GEAR, HELMET, CADENCE, CHAIN, BRAKE, BOTTLE, CLIMB, DESCENT, DRAFT, LANE and CYCLE among others. Short ride bits such as BIKE, BELL, PATH and RIDE keep easy grids friendly. Nothing is a bike-maker name or race-team brand — only common adult cycling English. Longer words like CADENCE, DESCENT, CASSETTE and HELMET anchor harder boards the way a steady cadence anchors a long loop.",
     goodFor:
-      "Sports child theme for riders.",
-    tip: "Long words like HELMET and PELOTON are easier than BIKE or LOCK.",
+      "Ideal for lifelong riders, weekend loopers, care-home sports hours and anyone who prefers road vocabulary to race noise. It pairs with Sports and Hiking for a wider outdoor-movement session, and with Travel when you want path-and-map words nearby. Large print suits shared tablets after a ride. Seniors who rode for decades often recognize every gear word without needing maker logos.",
+    tip: "Find CADENCE, HELMET, DESCENT, CASSETTE and CHAIN before short words like BIKE, BELL and PATH. Double letters help: the LL in BELL and the SS in CASSETTE. On hard grids, cycling words often run on long diagonals like a downhill line — clear corners early. PEDAL and GEAR are a useful pair; spotting one often means drivetrain vocabulary is clustered nearby."
   },
   geology: {
     vocabulary:
