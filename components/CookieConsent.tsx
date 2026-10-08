@@ -13,7 +13,7 @@ export default function CookieConsent() {
     window.addEventListener("war:open-analytics-choices", open);
     return () => window.removeEventListener("war:open-analytics-choices", open);
   }, []);
-  if (!/^G-[A-Z0-9]+$/i.test(SITE.gaId) || !visible) return null;
+  if ((!/^G-[A-Z0-9]+$/i.test(SITE.gaId) && (SITE.clarityId === "off" || !/^[a-z0-9]+$/i.test(SITE.clarityId))) || !visible) return null;
   const choose = (value: "accepted" | "rejected") => {
     setConsent(value);
     setVisible(false);

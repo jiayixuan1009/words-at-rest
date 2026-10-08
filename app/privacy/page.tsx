@@ -25,7 +25,7 @@ export default function PrivacyPage() {
       <Prose>
         <Ornament art={ART.legalOrnament} width={200} className="!justify-start" />
         <h1 className="text-4xl font-semibold tracking-tight">Privacy Policy</h1>
-        <p className="text-base text-[var(--ink-soft)]">Last updated: {SITE.lastUpdatedLegal}</p>
+        <p className="text-base text-[var(--ink-soft)]">Last updated: October 8, 2026</p>
         <section
           aria-labelledby="privacy-summary"
           className="rounded-[4px] border border-[#cbbfa6] bg-[var(--paper-deep)] p-5 [&_li]:ml-5"
@@ -80,12 +80,12 @@ export default function PrivacyPage() {
             <strong>Information stored only on your device.</strong> Puzzle progress (which words you
             have found) and your grid size preference (Standard or Larger) are saved in your browser’s{" "}
             <code>localStorage</code>. Saved paths stay on your device and are not synced to our servers.
-            If you allow analytics, we measure starts, found-word counts, completion, resume, resets,
-            grid size changes and next-puzzle clicks; we do not send the selected letters or paths.
+            If you allow analytics, our GA4 events measure starts, found-word counts, completion, resume, resets,
+            grid size changes and next-puzzle clicks; these events do not include the selected letters or paths.
           </li>
           <li>
             <strong>Automatic technical data.</strong> Like most websites, our hosting and security
-            provider (Cloudflare), our analytics provider (Google Analytics) and any advertising partners we enable may process
+            provider (Cloudflare), our analytics providers (Google Analytics and Microsoft Clarity) and any advertising partners we enable may process
             technical information such as IP address, approximate location derived from IP, browser
             and device type, referring URL, pages viewed, and timestamps. This is used to deliver the
             Site, keep it secure, understand usage and (when enabled) show ads.
@@ -106,7 +106,7 @@ export default function PrivacyPage() {
         </p>
         <ul>
           <li>Remember preferences (for example the puzzle grid size) on your device;</li>
-          <li>Understand how the Site is used (Google Analytics 4);</li>
+          <li>Understand how the Site is used (Google Analytics 4 and Microsoft Clarity);</li>
           <li>Serve, personalize and measure advertising (when AdSense or similar is enabled).</li>
         </ul>
         <p>
@@ -116,6 +116,13 @@ export default function PrivacyPage() {
         </p>
 
         <h2 id="analytics">Analytics</h2>
+        <p>
+          With your optional analytics consent, we also use Microsoft Clarity to understand
+          clicks, scrolling and page interactions through heatmaps and session recordings.
+          Clarity is not loaded before you allow analytics. Withdrawing consent stops recording
+          and clears its first-party cookies. We do not enable advertising storage consent.
+          See <a href="https://privacy.microsoft.com/privacystatement" rel="noopener noreferrer">Microsoft’s Privacy Statement</a>.
+        </p>
         <AnalyticsPreferences />
         <p>
           With your permission, we use Google Analytics 4 (GA4) to see aggregate traffic statistics — for example which

@@ -9,6 +9,8 @@ declare global {
   interface Window {
     gtag?: (...args: unknown[]) => void;
     dataLayer?: unknown[];
+    clarity?: ((...args: unknown[]) => void) & { q?: unknown[][] };
+    warClarityStopped?: boolean;
     warAnalyticsConsent?: AnalyticsConsent;
     warAnalyticsReady?: boolean;
     warAnalyticsQueue?: { name: GameEvent; params: Record<string, string | number> }[];
@@ -39,6 +41,11 @@ export function setConsent(value: AnalyticsConsent) {
   window.warAnalyticsConsent = value;
   try { localStorage.setItem(CONSENT_KEY, value); } catch { /* Keep the choice for this page. */ }
   if (value === "rejected") {
+    window.clarity?.("consentv2", { analytics_Storage: "denied", ad_Storage: "denied" });
+    if (window.clarity) {
+      window.clarity("stop");
+      window.warClarityStopped = true;
+    }
     window.warAnalyticsReady = false;
     window.warAnalyticsQueue = [];
     // Disable new hits immediately, before React updates the loader.
@@ -46,7 +53,7 @@ export function setConsent(value: AnalyticsConsent) {
     for (const name of Object.keys(flags)) if (name.startsWith("ga-disable-")) flags[name] = true;
     for (const cookie of document.cookie.split(";")) {
       const name = cookie.trim().split("=")[0];
-      if (name !== "_ga" && !name.startsWith("_ga_")) continue;
+      if (name !== "_ga" && !name.startsWith("_ga_") && name !== "_clck" && name !== "_clsk") continue;
       const parts = location.hostname.split(".");
       document.cookie = name + "=; Max-Age=0; path=/";
       for (let i = 0; i < parts.length - 1; i++) document.cookie = name + "=; Max-Age=0; path=/; domain=." + parts.slice(i).join(".");

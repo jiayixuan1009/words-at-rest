@@ -88,7 +88,19 @@ test("Analytics rejects unconsented events, queues only accepted activity, clear
   window.warAnalyticsReady = true;
   trackEvent("word_found", { found_count: 1 });
   assert.equal(hits.length, 1);
+  const clarityCalls = [];
+  window.clarity = (...args) => clarityCalls.push(args);
+  const cookieWrites = [];
+  Object.defineProperty(globalThis.document, "cookie", {
+    get: () => "_clck=visitor; _clsk=session; progress=keep",
+    set: value => cookieWrites.push(value),
+  });
   setConsent("rejected");
+  assert.deepEqual(clarityCalls, [["consentv2", { analytics_Storage: "denied", ad_Storage: "denied" }], ["stop"]]);
+  assert.equal(window.warClarityStopped, true);
+  assert.ok(cookieWrites.some(value => value.startsWith("_clck=;")));
+  assert.ok(cookieWrites.some(value => value.startsWith("_clsk=;")));
+  assert.ok(cookieWrites.every(value => !value.startsWith("progress=")));
   assert.equal(window.warAnalyticsQueue.length, 0);
   assert.equal(trackEvent("puzzle_complete", { word_count: 1 }), false);
   assert.equal(hits.length, 1);

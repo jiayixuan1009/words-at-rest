@@ -9,6 +9,11 @@
 
 ## [未发布 Unreleased]
 
+### 新增 — Microsoft Clarity（2026-10-08）
+- 全站接入 Clarity 项目 `yubihvuzyv`，异步加载官方追踪脚本；沿用现有 Analytics choices，仅同意统计后加载，并传递 ConsentV2（analytics granted / ads denied）。
+- 撤回同意立即停止 Clarity、清理 `_clck` / `_clsk`；再次允许时刷新页面恢复完整项目配置。隐私页补充热图、会话录制和 Microsoft 隐私政策；独立于 GA4 的启用状态。
+- 增加撤回时 ConsentV2、停止录制及 Cookie 清理回归检查；浏览器验证未选择／拒绝不加载、允许后仅一份异步 `https://www.clarity.ms/tag/yubihvuzyv`、撤回移除加载器。
+
 ### 改进 — 首页标题区右侧配图（2026-10-08）
 - 在“Today's puzzle is ready below; mark words right here”所在标题／介绍行右侧铺设咖啡、字谜和窗边植物插画；底层画面柔化至纸色，仅覆盖介绍区域，整宽可玩题保持在下方。
 - 桌面复用现有响应式图片；手机／平板隐藏装饰图并选择1px占位源，保留首屏文字和游戏顺序。装饰图不拦截点击，对读屏隐藏。

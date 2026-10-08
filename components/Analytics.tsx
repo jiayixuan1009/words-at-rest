@@ -5,7 +5,7 @@ import { usePathname } from "next/navigation";
 import { SITE } from "@/lib/site";
 import { CONSENT_EVENT, CONSENT_KEY, readConsent } from "@/lib/analytics";
 
-/** Basic consent mode: no Google tag is requested until analytics is accepted. */
+/** Neither analytics provider is requested until optional analytics is accepted. */
 export default function Analytics() {
   const pathname = usePathname();
   const id = SITE.gaId;
@@ -27,6 +27,37 @@ export default function Analytics() {
       window.removeEventListener("storage", storage);
     };
   }, []);
+
+  useEffect(() => {
+    if (!/^[a-z0-9]+$/i.test(SITE.clarityId) || SITE.clarityId === "off") return;
+    if (!accepted) {
+      window.clarity?.("consentv2", { analytics_Storage: "denied", ad_Storage: "denied" });
+      if (window.clarity) {
+        window.clarity("stop");
+        window.warClarityStopped = true;
+      }
+      document.getElementById("war-clarity")?.remove();
+      return;
+    }
+    // A fresh document restores the project's full hosted configuration after stop.
+    if (window.warClarityStopped) {
+      window.location.reload();
+      return;
+    }
+    if (!window.clarity) {
+      window.clarity = Object.assign((...args: unknown[]) => {
+        (window.clarity!.q ??= []).push(args);
+      }, { q: [] as unknown[][] });
+    }
+    window.clarity("consentv2", { analytics_Storage: "granted", ad_Storage: "denied" });
+    if (!document.getElementById("war-clarity")) {
+      const script = document.createElement("script");
+      script.id = "war-clarity";
+      script.async = true;
+      script.src = "https://www.clarity.ms/tag/" + SITE.clarityId;
+      document.head.appendChild(script);
+    }
+  }, [accepted]);
 
   useEffect(() => {
     if (!/^G-[A-Z0-9]+$/i.test(id)) return;

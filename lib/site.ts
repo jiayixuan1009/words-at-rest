@@ -34,6 +34,8 @@ export const SITE = {
    * build without analytics, e.g. for local QA). A valid ID loads only after consent.
    */
   gaId: (process.env.NEXT_PUBLIC_GA_ID?.trim() || "G-QQWT6H8H2S") as string,
+  /** Microsoft Clarity project ID; loaded only after optional analytics consent. */
+  clarityId: (process.env.NEXT_PUBLIC_CLARITY_ID?.trim() || "yubihvuzyv") as string,
   /** Site language (BCP 47) — used for <html lang>, schema inLanguage, manifest. */
   language: "en-US",
   /** Open Graph locale form of `language`. */
