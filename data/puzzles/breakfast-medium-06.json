@@ -1,0 +1,284 @@
+{
+  "id": "breakfast-medium-06",
+  "slug": "breakfast-medium-06",
+  "themeId": "breakfast",
+  "title": "Breakfast Word Search (Medium) #06",
+  "primaryKeyword": "breakfast word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CEREAL",
+    "CROISSANT",
+    "DAWN",
+    "HONEY",
+    "KETTLE",
+    "MARMALADE",
+    "ORANGE",
+    "OVEN",
+    "PANCAKE",
+    "PASTRY",
+    "PEPPER",
+    "SYRUP",
+    "TEA",
+    "YOGURT"
+  ],
+  "grid": [
+    [
+      "H",
+      "R",
+      "Y",
+      "H",
+      "D",
+      "P",
+      "C",
+      "E",
+      "R",
+      "E",
+      "A",
+      "L"
+    ],
+    [
+      "O",
+      "V",
+      "E",
+      "N",
+      "U",
+      "G",
+      "N",
+      "Y",
+      "H",
+      "S",
+      "Q",
+      "P"
+    ],
+    [
+      "B",
+      "R",
+      "C",
+      "R",
+      "T",
+      "L",
+      "E",
+      "E",
+      "H",
+      "Y",
+      "S",
+      "A"
+    ],
+    [
+      "W",
+      "V",
+      "Y",
+      "R",
+      "P",
+      "N",
+      "G",
+      "S",
+      "H",
+      "O",
+      "C",
+      "S"
+    ],
+    [
+      "V",
+      "S",
+      "L",
+      "R",
+      "O",
+      "N",
+      "A",
+      "Q",
+      "Z",
+      "G",
+      "F",
+      "T"
+    ],
+    [
+      "P",
+      "T",
+      "Z",
+      "H",
+      "A",
+      "I",
+      "K",
+      "X",
+      "F",
+      "U",
+      "F",
+      "R"
+    ],
+    [
+      "A",
+      "E",
+      "O",
+      "R",
+      "C",
+      "Y",
+      "S",
+      "D",
+      "W",
+      "R",
+      "D",
+      "Y"
+    ],
+    [
+      "N",
+      "A",
+      "O",
+      "R",
+      "Y",
+      "M",
+      "V",
+      "S",
+      "E",
+      "T",
+      "J",
+      "B"
+    ],
+    [
+      "C",
+      "W",
+      "M",
+      "A",
+      "R",
+      "M",
+      "A",
+      "L",
+      "A",
+      "D",
+      "E",
+      "S"
+    ],
+    [
+      "A",
+      "K",
+      "E",
+      "T",
+      "T",
+      "L",
+      "E",
+      "Q",
+      "K",
+      "N",
+      "B",
+      "D"
+    ],
+    [
+      "K",
+      "D",
+      "A",
+      "W",
+      "N",
+      "D",
+      "G",
+      "Z",
+      "O",
+      "R",
+      "T",
+      "H"
+    ],
+    [
+      "E",
+      "F",
+      "Y",
+      "Y",
+      "P",
+      "P",
+      "E",
+      "P",
+      "P",
+      "E",
+      "R",
+      "G"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CROISSANT",
+      "row": 2,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "MARMALADE",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PANCAKE",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CEREAL",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "PASTRY",
+      "row": 1,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "ORANGE",
+      "row": 7,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "YOGURT",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "KETTLE",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PEPPER",
+      "row": 11,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "HONEY",
+      "row": 5,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "SYRUP",
+      "row": 4,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "DAWN",
+      "row": 10,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "OVEN",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "TEA",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 3645539052
+}

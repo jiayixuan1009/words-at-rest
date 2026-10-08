@@ -1,0 +1,284 @@
+{
+  "id": "farm-animals-medium-06",
+  "slug": "farm-animals-medium-06",
+  "themeId": "farm-animals",
+  "title": "Farm Animals Word Search (Medium) #06",
+  "primaryKeyword": "farm animals word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ALPACA",
+    "BARN",
+    "CHICK",
+    "EGG",
+    "FEED",
+    "FLOCK",
+    "GRAIN",
+    "HEN",
+    "MILK",
+    "MULE",
+    "RABBIT",
+    "SOW",
+    "TURKEY",
+    "WOOL"
+  ],
+  "grid": [
+    [
+      "B",
+      "B",
+      "G",
+      "V",
+      "H",
+      "K",
+      "Y",
+      "U",
+      "Q",
+      "Z",
+      "B",
+      "S"
+    ],
+    [
+      "A",
+      "J",
+      "J",
+      "K",
+      "I",
+      "E",
+      "N",
+      "B",
+      "F",
+      "Z",
+      "I",
+      "C"
+    ],
+    [
+      "S",
+      "W",
+      "G",
+      "W",
+      "K",
+      "V",
+      "V",
+      "X",
+      "W",
+      "E",
+      "R",
+      "A"
+    ],
+    [
+      "O",
+      "H",
+      "U",
+      "R",
+      "F",
+      "X",
+      "W",
+      "M",
+      "O",
+      "J",
+      "F",
+      "K"
+    ],
+    [
+      "W",
+      "P",
+      "U",
+      "L",
+      "E",
+      "Q",
+      "V",
+      "U",
+      "O",
+      "Z",
+      "M",
+      "J"
+    ],
+    [
+      "I",
+      "T",
+      "O",
+      "X",
+      "E",
+      "P",
+      "C",
+      "L",
+      "L",
+      "T",
+      "I",
+      "W"
+    ],
+    [
+      "M",
+      "A",
+      "M",
+      "U",
+      "D",
+      "G",
+      "F",
+      "E",
+      "I",
+      "J",
+      "H",
+      "E"
+    ],
+    [
+      "G",
+      "L",
+      "B",
+      "I",
+      "C",
+      "Q",
+      "L",
+      "P",
+      "P",
+      "K",
+      "E",
+      "G"
+    ],
+    [
+      "R",
+      "P",
+      "O",
+      "S",
+      "L",
+      "N",
+      "O",
+      "K",
+      "L",
+      "Y",
+      "N",
+      "G"
+    ],
+    [
+      "A",
+      "A",
+      "O",
+      "Q",
+      "R",
+      "K",
+      "C",
+      "H",
+      "M",
+      "F",
+      "Q",
+      "Q"
+    ],
+    [
+      "I",
+      "C",
+      "B",
+      "A",
+      "P",
+      "J",
+      "K",
+      "C",
+      "H",
+      "I",
+      "C",
+      "K"
+    ],
+    [
+      "N",
+      "A",
+      "B",
+      "R",
+      "A",
+      "B",
+      "B",
+      "I",
+      "T",
+      "I",
+      "D",
+      "G"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TURKEY",
+      "row": 5,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "ALPACA",
+      "row": 6,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "RABBIT",
+      "row": 11,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "FLOCK",
+      "row": 6,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "CHICK",
+      "row": 10,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "GRAIN",
+      "row": 7,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BARN",
+      "row": 11,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "WOOL",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "MULE",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "FEED",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "MILK",
+      "row": 6,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "EGG",
+      "row": 6,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "SOW",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "HEN",
+      "row": 6,
+      "col": 10,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 3124844825
+}

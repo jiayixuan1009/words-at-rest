@@ -1,0 +1,284 @@
+{
+  "id": "fathers-day-medium-05",
+  "slug": "fathers-day-medium-05",
+  "themeId": "fathers-day",
+  "title": "Father's Day Word Search (Medium) #05",
+  "primaryKeyword": "fathers day word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CHAIR",
+    "COMFORT",
+    "GARAGE",
+    "HUG",
+    "JUNE",
+    "MEMORY",
+    "MOWER",
+    "PAPA",
+    "PATIO",
+    "ROD",
+    "SHARE",
+    "STEAK",
+    "TENT",
+    "WORKSHOP"
+  ],
+  "grid": [
+    [
+      "P",
+      "S",
+      "H",
+      "U",
+      "G",
+      "J",
+      "U",
+      "N",
+      "E",
+      "U",
+      "R",
+      "Q"
+    ],
+    [
+      "J",
+      "C",
+      "O",
+      "M",
+      "F",
+      "O",
+      "R",
+      "T",
+      "D",
+      "I",
+      "Z",
+      "T"
+    ],
+    [
+      "S",
+      "M",
+      "E",
+      "M",
+      "O",
+      "R",
+      "Y",
+      "D",
+      "A",
+      "Z",
+      "K",
+      "M"
+    ],
+    [
+      "P",
+      "T",
+      "E",
+      "V",
+      "W",
+      "N",
+      "W",
+      "H",
+      "S",
+      "N",
+      "Z",
+      "E"
+    ],
+    [
+      "S",
+      "P",
+      "P",
+      "A",
+      "P",
+      "A",
+      "C",
+      "P",
+      "X",
+      "E",
+      "G",
+      "N"
+    ],
+    [
+      "T",
+      "A",
+      "X",
+      "U",
+      "R",
+      "F",
+      "O",
+      "D",
+      "U",
+      "A",
+      "J",
+      "R"
+    ],
+    [
+      "E",
+      "T",
+      "S",
+      "E",
+      "Q",
+      "H",
+      "J",
+      "G",
+      "R",
+      "P",
+      "A",
+      "T"
+    ],
+    [
+      "Z",
+      "I",
+      "W",
+      "H",
+      "S",
+      "N",
+      "D",
+      "A",
+      "N",
+      "V",
+      "K",
+      "T"
+    ],
+    [
+      "F",
+      "O",
+      "S",
+      "K",
+      "A",
+      "V",
+      "G",
+      "T",
+      "Z",
+      "A",
+      "L",
+      "I"
+    ],
+    [
+      "M",
+      "M",
+      "R",
+      "L",
+      "Y",
+      "R",
+      "N",
+      "N",
+      "E",
+      "W",
+      "L",
+      "R"
+    ],
+    [
+      "C",
+      "O",
+      "Z",
+      "E",
+      "E",
+      "E",
+      "E",
+      "T",
+      "N",
+      "O",
+      "N",
+      "O"
+    ],
+    [
+      "W",
+      "O",
+      "B",
+      "M",
+      "T",
+      "D",
+      "S",
+      "R",
+      "G",
+      "K",
+      "D",
+      "D"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "WORKSHOP",
+      "row": 11,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "COMFORT",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "GARAGE",
+      "row": 8,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "MEMORY",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SHARE",
+      "row": 6,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "CHAIR",
+      "row": 4,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "STEAK",
+      "row": 11,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "PATIO",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "MOWER",
+      "row": 9,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "JUNE",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "PAPA",
+      "row": 4,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "TENT",
+      "row": 11,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "ROD",
+      "row": 9,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "HUG",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1386779495
+}

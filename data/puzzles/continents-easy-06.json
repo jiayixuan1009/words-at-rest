@@ -1,0 +1,208 @@
+{
+  "id": "continents-easy-06",
+  "slug": "continents-easy-06",
+  "themeId": "continents",
+  "title": "Continents Word Search (Easy) #06",
+  "primaryKeyword": "continents word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "AFRICA",
+    "ANTARCTIC",
+    "BORDER",
+    "CLIMATE",
+    "GLOBE",
+    "MOUNTAIN",
+    "SAVANNA",
+    "TUNDRA",
+    "WEST",
+    "ZONE"
+  ],
+  "grid": [
+    [
+      "N",
+      "A",
+      "N",
+      "T",
+      "A",
+      "R",
+      "C",
+      "T",
+      "I",
+      "C"
+    ],
+    [
+      "W",
+      "Z",
+      "O",
+      "N",
+      "E",
+      "O",
+      "C",
+      "S",
+      "C",
+      "H"
+    ],
+    [
+      "G",
+      "T",
+      "C",
+      "U",
+      "O",
+      "M",
+      "C",
+      "A",
+      "B",
+      "G"
+    ],
+    [
+      "L",
+      "R",
+      "L",
+      "M",
+      "A",
+      "O",
+      "H",
+      "V",
+      "O",
+      "A"
+    ],
+    [
+      "T",
+      "R",
+      "I",
+      "J",
+      "W",
+      "U",
+      "H",
+      "A",
+      "R",
+      "F"
+    ],
+    [
+      "U",
+      "J",
+      "M",
+      "S",
+      "E",
+      "N",
+      "G",
+      "N",
+      "D",
+      "R"
+    ],
+    [
+      "N",
+      "P",
+      "A",
+      "L",
+      "S",
+      "T",
+      "L",
+      "N",
+      "E",
+      "I"
+    ],
+    [
+      "D",
+      "V",
+      "T",
+      "E",
+      "T",
+      "A",
+      "O",
+      "A",
+      "R",
+      "C"
+    ],
+    [
+      "R",
+      "P",
+      "E",
+      "G",
+      "U",
+      "I",
+      "B",
+      "F",
+      "K",
+      "A"
+    ],
+    [
+      "A",
+      "M",
+      "M",
+      "Z",
+      "N",
+      "N",
+      "E",
+      "R",
+      "Z",
+      "J"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ANTARCTIC",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "MOUNTAIN",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "SAVANNA",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "CLIMATE",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "TUNDRA",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "AFRICA",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "BORDER",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "GLOBE",
+      "row": 5,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "WEST",
+      "row": 4,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "ZONE",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 391469011
+}

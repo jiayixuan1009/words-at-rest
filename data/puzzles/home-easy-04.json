@@ -1,0 +1,208 @@
+{
+  "id": "home-easy-04",
+  "slug": "home-easy-04",
+  "themeId": "home",
+  "title": "Home Word Search (Easy) #04",
+  "primaryKeyword": "home word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ABODE",
+    "CHIMNEY",
+    "CLOCK",
+    "FENCE",
+    "HOUSE",
+    "KITCHEN",
+    "LOCK",
+    "PANTRY",
+    "REST",
+    "WARM"
+  ],
+  "grid": [
+    [
+      "Z",
+      "C",
+      "I",
+      "T",
+      "F",
+      "E",
+      "N",
+      "C",
+      "E",
+      "T"
+    ],
+    [
+      "P",
+      "W",
+      "K",
+      "T",
+      "D",
+      "O",
+      "E",
+      "P",
+      "X",
+      "R"
+    ],
+    [
+      "A",
+      "A",
+      "I",
+      "S",
+      "T",
+      "S",
+      "C",
+      "F",
+      "C",
+      "D"
+    ],
+    [
+      "P",
+      "B",
+      "T",
+      "W",
+      "R",
+      "E",
+      "H",
+      "X",
+      "L",
+      "S"
+    ],
+    [
+      "A",
+      "O",
+      "C",
+      "A",
+      "N",
+      "R",
+      "I",
+      "H",
+      "O",
+      "E"
+    ],
+    [
+      "N",
+      "D",
+      "H",
+      "R",
+      "Y",
+      "E",
+      "M",
+      "O",
+      "C",
+      "I"
+    ],
+    [
+      "T",
+      "E",
+      "E",
+      "M",
+      "K",
+      "S",
+      "N",
+      "U",
+      "K",
+      "L"
+    ],
+    [
+      "R",
+      "U",
+      "N",
+      "V",
+      "U",
+      "T",
+      "E",
+      "S",
+      "H",
+      "O"
+    ],
+    [
+      "Y",
+      "K",
+      "R",
+      "Y",
+      "J",
+      "F",
+      "Y",
+      "E",
+      "Q",
+      "C"
+    ],
+    [
+      "J",
+      "Q",
+      "K",
+      "Y",
+      "A",
+      "O",
+      "T",
+      "K",
+      "C",
+      "K"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "KITCHEN",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "CHIMNEY",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "PANTRY",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CLOCK",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "HOUSE",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "FENCE",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "ABODE",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "REST",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "WARM",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "LOCK",
+      "row": 6,
+      "col": 9,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 572784998
+}

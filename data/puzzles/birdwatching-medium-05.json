@@ -1,0 +1,284 @@
+{
+  "id": "birdwatching-medium-05",
+  "slug": "birdwatching-medium-05",
+  "themeId": "birdwatching",
+  "title": "Birdwatching Word Search (Medium) #05",
+  "primaryKeyword": "birdwatching word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BIRD",
+    "BLIND",
+    "CANOPY",
+    "COUNT",
+    "FEEDER",
+    "FLEDGE",
+    "LENS",
+    "MEADOW",
+    "MIGRATE",
+    "NEST",
+    "PERCH",
+    "SONG",
+    "TRAIL",
+    "WATCH"
+  ],
+  "grid": [
+    [
+      "F",
+      "L",
+      "E",
+      "D",
+      "G",
+      "E",
+      "V",
+      "V",
+      "T",
+      "C",
+      "E",
+      "J"
+    ],
+    [
+      "Q",
+      "P",
+      "C",
+      "Z",
+      "S",
+      "E",
+      "M",
+      "H",
+      "S",
+      "A",
+      "M",
+      "O"
+    ],
+    [
+      "Y",
+      "M",
+      "R",
+      "J",
+      "O",
+      "T",
+      "I",
+      "I",
+      "W",
+      "N",
+      "H",
+      "Z"
+    ],
+    [
+      "W",
+      "R",
+      "I",
+      "W",
+      "N",
+      "C",
+      "G",
+      "N",
+      "Y",
+      "O",
+      "Y",
+      "X"
+    ],
+    [
+      "B",
+      "S",
+      "I",
+      "U",
+      "G",
+      "O",
+      "R",
+      "E",
+      "P",
+      "P",
+      "L",
+      "N"
+    ],
+    [
+      "F",
+      "I",
+      "O",
+      "Y",
+      "O",
+      "M",
+      "A",
+      "S",
+      "H",
+      "Y",
+      "V",
+      "F"
+    ],
+    [
+      "E",
+      "C",
+      "R",
+      "V",
+      "O",
+      "D",
+      "T",
+      "T",
+      "B",
+      "Y",
+      "M",
+      "V"
+    ],
+    [
+      "E",
+      "P",
+      "O",
+      "D",
+      "N",
+      "J",
+      "E",
+      "L",
+      "P",
+      "X",
+      "P",
+      "L"
+    ],
+    [
+      "D",
+      "P",
+      "S",
+      "I",
+      "T",
+      "R",
+      "A",
+      "I",
+      "L",
+      "T",
+      "X",
+      "E"
+    ],
+    [
+      "E",
+      "N",
+      "L",
+      "Z",
+      "E",
+      "M",
+      "E",
+      "A",
+      "D",
+      "O",
+      "W",
+      "N"
+    ],
+    [
+      "R",
+      "B",
+      "C",
+      "W",
+      "W",
+      "A",
+      "T",
+      "C",
+      "H",
+      "Q",
+      "R",
+      "S"
+    ],
+    [
+      "W",
+      "R",
+      "R",
+      "E",
+      "X",
+      "P",
+      "E",
+      "R",
+      "C",
+      "H",
+      "F",
+      "B"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "MIGRATE",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "MEADOW",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "FLEDGE",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "FEEDER",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CANOPY",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "COUNT",
+      "row": 6,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "BLIND",
+      "row": 10,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "WATCH",
+      "row": 10,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "PERCH",
+      "row": 11,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "TRAIL",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "LENS",
+      "row": 7,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "BIRD",
+      "row": 4,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "NEST",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SONG",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 3595206195
+}

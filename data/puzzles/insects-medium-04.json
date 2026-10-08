@@ -1,0 +1,284 @@
+{
+  "id": "insects-medium-04",
+  "slug": "insects-medium-04",
+  "themeId": "insects",
+  "title": "Insects Word Search (Medium) #04",
+  "primaryKeyword": "insects word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "APHID",
+    "BARK",
+    "BEETLE",
+    "BUG",
+    "CATERPILLAR",
+    "CHIRP",
+    "DAMSELFLY",
+    "DRAGONFLY",
+    "HIVE",
+    "LEG",
+    "MOTH",
+    "NECTAR",
+    "POLLEN",
+    "PUPA"
+  ],
+  "grid": [
+    [
+      "L",
+      "E",
+      "G",
+      "E",
+      "C",
+      "T",
+      "B",
+      "V",
+      "M",
+      "T",
+      "B",
+      "A"
+    ],
+    [
+      "V",
+      "Q",
+      "N",
+      "V",
+      "I",
+      "R",
+      "U",
+      "P",
+      "U",
+      "P",
+      "A",
+      "P"
+    ],
+    [
+      "I",
+      "I",
+      "O",
+      "W",
+      "K",
+      "K",
+      "G",
+      "T",
+      "E",
+      "G",
+      "J",
+      "H"
+    ],
+    [
+      "D",
+      "L",
+      "D",
+      "A",
+      "M",
+      "S",
+      "E",
+      "L",
+      "F",
+      "L",
+      "Y",
+      "I"
+    ],
+    [
+      "R",
+      "Z",
+      "M",
+      "G",
+      "U",
+      "W",
+      "T",
+      "B",
+      "L",
+      "L",
+      "R",
+      "D"
+    ],
+    [
+      "A",
+      "L",
+      "O",
+      "D",
+      "O",
+      "E",
+      "P",
+      "O",
+      "L",
+      "L",
+      "E",
+      "N"
+    ],
+    [
+      "G",
+      "N",
+      "T",
+      "G",
+      "E",
+      "J",
+      "N",
+      "Q",
+      "C",
+      "H",
+      "S",
+      "U"
+    ],
+    [
+      "O",
+      "H",
+      "H",
+      "B",
+      "H",
+      "I",
+      "V",
+      "E",
+      "C",
+      "M",
+      "F",
+      "H"
+    ],
+    [
+      "N",
+      "C",
+      "A",
+      "T",
+      "E",
+      "R",
+      "P",
+      "I",
+      "L",
+      "L",
+      "A",
+      "R"
+    ],
+    [
+      "F",
+      "L",
+      "P",
+      "L",
+      "N",
+      "E",
+      "C",
+      "T",
+      "A",
+      "R",
+      "I",
+      "P"
+    ],
+    [
+      "L",
+      "P",
+      "C",
+      "P",
+      "U",
+      "B",
+      "A",
+      "R",
+      "K",
+      "V",
+      "U",
+      "A"
+    ],
+    [
+      "Y",
+      "C",
+      "C",
+      "H",
+      "I",
+      "R",
+      "P",
+      "W",
+      "G",
+      "R",
+      "V",
+      "D"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CATERPILLAR",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "DAMSELFLY",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "DRAGONFLY",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "POLLEN",
+      "row": 5,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "NECTAR",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BEETLE",
+      "row": 7,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "APHID",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "CHIRP",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PUPA",
+      "row": 1,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "BARK",
+      "row": 10,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "HIVE",
+      "row": 7,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "MOTH",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "BUG",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "LEG",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 774116426
+}

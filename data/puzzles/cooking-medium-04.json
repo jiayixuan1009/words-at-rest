@@ -1,0 +1,284 @@
+{
+  "id": "cooking-medium-04",
+  "slug": "cooking-medium-04",
+  "themeId": "cooking",
+  "title": "Cooking Word Search (Medium) #04",
+  "primaryKeyword": "cooking word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BAKE",
+    "BOIL",
+    "CHOP",
+    "COOK",
+    "FOLD",
+    "HEAT",
+    "HERB",
+    "KNEAD",
+    "LADLE",
+    "POACH",
+    "SAUCE",
+    "SAUTE",
+    "STIR",
+    "WHISK"
+  ],
+  "grid": [
+    [
+      "M",
+      "U",
+      "R",
+      "B",
+      "W",
+      "N",
+      "F",
+      "G",
+      "A",
+      "R",
+      "K",
+      "E"
+    ],
+    [
+      "W",
+      "I",
+      "L",
+      "A",
+      "W",
+      "W",
+      "P",
+      "W",
+      "W",
+      "O",
+      "T",
+      "S"
+    ],
+    [
+      "U",
+      "B",
+      "A",
+      "K",
+      "B",
+      "O",
+      "W",
+      "E",
+      "O",
+      "T",
+      "H",
+      "T"
+    ],
+    [
+      "A",
+      "C",
+      "D",
+      "E",
+      "H",
+      "M",
+      "T",
+      "C",
+      "T",
+      "R",
+      "H",
+      "I"
+    ],
+    [
+      "J",
+      "F",
+      "L",
+      "C",
+      "R",
+      "U",
+      "A",
+      "U",
+      "J",
+      "G",
+      "D",
+      "R"
+    ],
+    [
+      "X",
+      "K",
+      "E",
+      "W",
+      "A",
+      "P",
+      "O",
+      "A",
+      "C",
+      "H",
+      "G",
+      "M"
+    ],
+    [
+      "G",
+      "H",
+      "U",
+      "S",
+      "H",
+      "F",
+      "K",
+      "J",
+      "W",
+      "S",
+      "S",
+      "L"
+    ],
+    [
+      "Z",
+      "N",
+      "Z",
+      "D",
+      "M",
+      "I",
+      "J",
+      "K",
+      "N",
+      "E",
+      "A",
+      "D"
+    ],
+    [
+      "U",
+      "N",
+      "L",
+      "H",
+      "B",
+      "E",
+      "S",
+      "T",
+      "W",
+      "B",
+      "U",
+      "X"
+    ],
+    [
+      "U",
+      "O",
+      "T",
+      "E",
+      "J",
+      "O",
+      "L",
+      "K",
+      "R",
+      "E",
+      "C",
+      "D"
+    ],
+    [
+      "F",
+      "M",
+      "J",
+      "A",
+      "G",
+      "Q",
+      "I",
+      "E",
+      "V",
+      "Y",
+      "E",
+      "K"
+    ],
+    [
+      "B",
+      "I",
+      "B",
+      "T",
+      "E",
+      "Y",
+      "H",
+      "L",
+      "A",
+      "X",
+      "A",
+      "I"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SAUTE",
+      "row": 6,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "LADLE",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "KNEAD",
+      "row": 7,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "WHISK",
+      "row": 5,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "POACH",
+      "row": 5,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SAUCE",
+      "row": 6,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "BOIL",
+      "row": 8,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "FOLD",
+      "row": 10,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "HERB",
+      "row": 11,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "COOK",
+      "row": 3,
+      "col": 7,
+      "direction": "NE"
+    },
+    {
+      "word": "HEAT",
+      "row": 8,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "CHOP",
+      "row": 4,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "BAKE",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "STIR",
+      "row": 1,
+      "col": 11,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 858194615
+}

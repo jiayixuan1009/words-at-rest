@@ -1,0 +1,208 @@
+{
+  "id": "board-games-easy-06",
+  "slug": "board-games-easy-06",
+  "themeId": "board-games",
+  "title": "Board Games Word Search (Easy) #06",
+  "primaryKeyword": "board games word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BOARD",
+    "DEAL",
+    "DECK",
+    "FAMILY",
+    "FINISH",
+    "GAME",
+    "GOAL",
+    "LOSS",
+    "RULE",
+    "TIMER"
+  ],
+  "grid": [
+    [
+      "I",
+      "V",
+      "T",
+      "T",
+      "C",
+      "D",
+      "G",
+      "A",
+      "M",
+      "E"
+    ],
+    [
+      "W",
+      "M",
+      "A",
+      "I",
+      "J",
+      "B",
+      "N",
+      "I",
+      "U",
+      "R"
+    ],
+    [
+      "P",
+      "O",
+      "G",
+      "M",
+      "Q",
+      "D",
+      "E",
+      "A",
+      "L",
+      "F"
+    ],
+    [
+      "G",
+      "N",
+      "K",
+      "E",
+      "P",
+      "U",
+      "W",
+      "Y",
+      "Y",
+      "I"
+    ],
+    [
+      "E",
+      "Y",
+      "H",
+      "R",
+      "M",
+      "D",
+      "E",
+      "C",
+      "K",
+      "N"
+    ],
+    [
+      "K",
+      "L",
+      "R",
+      "D",
+      "E",
+      "N",
+      "D",
+      "Q",
+      "P",
+      "I"
+    ],
+    [
+      "M",
+      "O",
+      "U",
+      "E",
+      "B",
+      "O",
+      "A",
+      "R",
+      "D",
+      "S"
+    ],
+    [
+      "I",
+      "S",
+      "L",
+      "T",
+      "I",
+      "I",
+      "B",
+      "V",
+      "C",
+      "H"
+    ],
+    [
+      "J",
+      "S",
+      "E",
+      "I",
+      "F",
+      "G",
+      "O",
+      "A",
+      "L",
+      "H"
+    ],
+    [
+      "V",
+      "F",
+      "A",
+      "M",
+      "I",
+      "L",
+      "Y",
+      "A",
+      "V",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FINISH",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "FAMILY",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TIMER",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "BOARD",
+      "row": 6,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "RULE",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "GOAL",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "GAME",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "DECK",
+      "row": 4,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "LOSS",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "DEAL",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 3695871909
+}

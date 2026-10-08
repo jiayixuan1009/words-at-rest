@@ -1,0 +1,284 @@
+{
+  "id": "farm-animals-medium-07",
+  "slug": "farm-animals-medium-07",
+  "themeId": "farm-animals",
+  "title": "Farm Animals Word Search (Medium) #07",
+  "primaryKeyword": "farm animals word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BARN",
+    "BULL",
+    "CALF",
+    "COW",
+    "FENCE",
+    "FIELD",
+    "GOAT",
+    "GOOSE",
+    "HOOF",
+    "MANE",
+    "MARE",
+    "PONY",
+    "RABBIT",
+    "TAIL"
+  ],
+  "grid": [
+    [
+      "C",
+      "X",
+      "E",
+      "B",
+      "B",
+      "U",
+      "L",
+      "L",
+      "J",
+      "B",
+      "E",
+      "G"
+    ],
+    [
+      "K",
+      "N",
+      "T",
+      "M",
+      "A",
+      "R",
+      "E",
+      "P",
+      "L",
+      "S",
+      "H",
+      "W"
+    ],
+    [
+      "N",
+      "N",
+      "F",
+      "V",
+      "I",
+      "E",
+      "B",
+      "G",
+      "O",
+      "Q",
+      "F",
+      "S"
+    ],
+    [
+      "C",
+      "O",
+      "W",
+      "R",
+      "C",
+      "I",
+      "G",
+      "O",
+      "Y",
+      "F",
+      "Z",
+      "K"
+    ],
+    [
+      "O",
+      "S",
+      "E",
+      "N",
+      "C",
+      "F",
+      "G",
+      "T",
+      "L",
+      "A",
+      "O",
+      "W"
+    ],
+    [
+      "D",
+      "J",
+      "E",
+      "I",
+      "U",
+      "I",
+      "V",
+      "A",
+      "H",
+      "O",
+      "O",
+      "F"
+    ],
+    [
+      "G",
+      "F",
+      "L",
+      "B",
+      "H",
+      "E",
+      "C",
+      "C",
+      "I",
+      "T",
+      "S",
+      "Y"
+    ],
+    [
+      "G",
+      "P",
+      "O",
+      "N",
+      "Y",
+      "L",
+      "R",
+      "A",
+      "B",
+      "B",
+      "I",
+      "T"
+    ],
+    [
+      "O",
+      "E",
+      "J",
+      "Y",
+      "I",
+      "D",
+      "M",
+      "Y",
+      "P",
+      "T",
+      "C",
+      "A"
+    ],
+    [
+      "A",
+      "X",
+      "E",
+      "Q",
+      "I",
+      "B",
+      "A",
+      "R",
+      "N",
+      "A",
+      "J",
+      "I"
+    ],
+    [
+      "T",
+      "X",
+      "M",
+      "A",
+      "N",
+      "E",
+      "K",
+      "W",
+      "O",
+      "I",
+      "D",
+      "J"
+    ],
+    [
+      "T",
+      "N",
+      "B",
+      "F",
+      "D",
+      "Q",
+      "I",
+      "K",
+      "G",
+      "L",
+      "Q",
+      "X"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "RABBIT",
+      "row": 7,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "GOOSE",
+      "row": 4,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "FIELD",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "FENCE",
+      "row": 6,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "MARE",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "TAIL",
+      "row": 8,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "CALF",
+      "row": 6,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "BULL",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "PONY",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "GOAT",
+      "row": 7,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "MANE",
+      "row": 10,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BARN",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "HOOF",
+      "row": 5,
+      "col": 8,
+      "direction": "E"
+    },
+    {
+      "word": "COW",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1124223477
+}

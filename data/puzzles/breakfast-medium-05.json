@@ -1,0 +1,284 @@
+{
+  "id": "breakfast-medium-05",
+  "slug": "breakfast-medium-05",
+  "themeId": "breakfast",
+  "title": "Breakfast Word Search (Medium) #05",
+  "primaryKeyword": "breakfast word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BACON",
+    "BISCUIT",
+    "FRITTATA",
+    "HONEY",
+    "JUICE",
+    "MILK",
+    "PANCAKE",
+    "PLATE",
+    "SALT",
+    "SAUSAGE",
+    "SCONE",
+    "SUGAR",
+    "TEA",
+    "YOGURT"
+  ],
+  "grid": [
+    [
+      "J",
+      "J",
+      "B",
+      "P",
+      "A",
+      "N",
+      "C",
+      "A",
+      "K",
+      "E",
+      "W",
+      "J"
+    ],
+    [
+      "A",
+      "E",
+      "I",
+      "I",
+      "I",
+      "A",
+      "G",
+      "C",
+      "Y",
+      "T",
+      "E",
+      "K"
+    ],
+    [
+      "X",
+      "K",
+      "N",
+      "J",
+      "S",
+      "C",
+      "D",
+      "J",
+      "O",
+      "R",
+      "Y",
+      "O"
+    ],
+    [
+      "H",
+      "F",
+      "F",
+      "S",
+      "N",
+      "C",
+      "Q",
+      "W",
+      "G",
+      "S",
+      "M",
+      "M"
+    ],
+    [
+      "H",
+      "C",
+      "R",
+      "A",
+      "C",
+      "Q",
+      "U",
+      "O",
+      "U",
+      "U",
+      "T",
+      "U"
+    ],
+    [
+      "O",
+      "V",
+      "I",
+      "U",
+      "W",
+      "E",
+      "E",
+      "I",
+      "R",
+      "G",
+      "B",
+      "M"
+    ],
+    [
+      "N",
+      "A",
+      "T",
+      "S",
+      "S",
+      "S",
+      "S",
+      "P",
+      "T",
+      "A",
+      "T",
+      "I"
+    ],
+    [
+      "E",
+      "F",
+      "T",
+      "A",
+      "U",
+      "C",
+      "B",
+      "J",
+      "L",
+      "R",
+      "E",
+      "L"
+    ],
+    [
+      "Y",
+      "F",
+      "A",
+      "G",
+      "N",
+      "O",
+      "H",
+      "A",
+      "U",
+      "A",
+      "A",
+      "K"
+    ],
+    [
+      "F",
+      "C",
+      "T",
+      "E",
+      "N",
+      "N",
+      "E",
+      "T",
+      "C",
+      "I",
+      "T",
+      "M"
+    ],
+    [
+      "U",
+      "S",
+      "A",
+      "L",
+      "T",
+      "E",
+      "E",
+      "J",
+      "M",
+      "O",
+      "C",
+      "E"
+    ],
+    [
+      "D",
+      "L",
+      "R",
+      "K",
+      "F",
+      "N",
+      "D",
+      "D",
+      "I",
+      "S",
+      "N",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FRITTATA",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "BISCUIT",
+      "row": 0,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "PANCAKE",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SAUSAGE",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "YOGURT",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "SUGAR",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "BACON",
+      "row": 7,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "JUICE",
+      "row": 7,
+      "col": 7,
+      "direction": "SE"
+    },
+    {
+      "word": "HONEY",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "PLATE",
+      "row": 6,
+      "col": 7,
+      "direction": "SE"
+    },
+    {
+      "word": "SCONE",
+      "row": 6,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "SALT",
+      "row": 10,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "MILK",
+      "row": 5,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "TEA",
+      "row": 6,
+      "col": 10,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 728418557
+}

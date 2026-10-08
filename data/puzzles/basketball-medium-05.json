@@ -1,0 +1,284 @@
+{
+  "id": "basketball-medium-05",
+  "slug": "basketball-medium-05",
+  "themeId": "basketball",
+  "title": "Basketball Word Search (Medium) #05",
+  "primaryKeyword": "basketball word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BASKET",
+    "BENCH",
+    "CENTER",
+    "FREE",
+    "JUMP",
+    "MAN",
+    "PICK",
+    "PRESS",
+    "REF",
+    "SCORE",
+    "SCREEN",
+    "STEAL",
+    "SWEAT",
+    "TIPOFF"
+  ],
+  "grid": [
+    [
+      "A",
+      "Y",
+      "V",
+      "H",
+      "Q",
+      "B",
+      "S",
+      "U",
+      "Y",
+      "X",
+      "G",
+      "R"
+    ],
+    [
+      "L",
+      "X",
+      "X",
+      "P",
+      "R",
+      "E",
+      "S",
+      "S",
+      "X",
+      "D",
+      "S",
+      "E"
+    ],
+    [
+      "T",
+      "I",
+      "J",
+      "D",
+      "B",
+      "E",
+      "N",
+      "C",
+      "H",
+      "Q",
+      "W",
+      "E"
+    ],
+    [
+      "R",
+      "I",
+      "T",
+      "Y",
+      "S",
+      "T",
+      "E",
+      "A",
+      "L",
+      "Q",
+      "E",
+      "G"
+    ],
+    [
+      "M",
+      "D",
+      "P",
+      "P",
+      "I",
+      "C",
+      "K",
+      "C",
+      "X",
+      "S",
+      "A",
+      "D"
+    ],
+    [
+      "C",
+      "J",
+      "F",
+      "O",
+      "U",
+      "C",
+      "G",
+      "E",
+      "D",
+      "C",
+      "T",
+      "J"
+    ],
+    [
+      "J",
+      "E",
+      "H",
+      "J",
+      "F",
+      "G",
+      "I",
+      "Z",
+      "U",
+      "R",
+      "T",
+      "U"
+    ],
+    [
+      "R",
+      "S",
+      "N",
+      "Y",
+      "B",
+      "F",
+      "H",
+      "T",
+      "K",
+      "E",
+      "Q",
+      "M"
+    ],
+    [
+      "D",
+      "A",
+      "E",
+      "V",
+      "F",
+      "R",
+      "E",
+      "E",
+      "K",
+      "E",
+      "N",
+      "P"
+    ],
+    [
+      "M",
+      "D",
+      "X",
+      "O",
+      "B",
+      "D",
+      "Q",
+      "S",
+      "Y",
+      "N",
+      "M",
+      "W"
+    ],
+    [
+      "S",
+      "C",
+      "O",
+      "R",
+      "E",
+      "T",
+      "A",
+      "F",
+      "S",
+      "V",
+      "L",
+      "U"
+    ],
+    [
+      "W",
+      "T",
+      "A",
+      "N",
+      "D",
+      "B",
+      "C",
+      "E",
+      "N",
+      "T",
+      "E",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CENTER",
+      "row": 11,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "BASKET",
+      "row": 11,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "TIPOFF",
+      "row": 2,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "SCREEN",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SWEAT",
+      "row": 1,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "STEAL",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "PRESS",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SCORE",
+      "row": 10,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BENCH",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "JUMP",
+      "row": 5,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "PICK",
+      "row": 4,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "FREE",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "REF",
+      "row": 7,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "MAN",
+      "row": 9,
+      "col": 0,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 4156461028
+}

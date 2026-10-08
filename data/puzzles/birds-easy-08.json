@@ -1,0 +1,208 @@
+{
+  "id": "birds-easy-08",
+  "slug": "birds-easy-08",
+  "themeId": "birds",
+  "title": "Birds Word Search (Easy) #08",
+  "primaryKeyword": "birds word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BLACKBIRD",
+    "CARDINAL",
+    "CHICK",
+    "CLOUD",
+    "EGG",
+    "GOOSE",
+    "NUTHATCH",
+    "OWL",
+    "PIGEON",
+    "THRUSH"
+  ],
+  "grid": [
+    [
+      "B",
+      "S",
+      "T",
+      "Z",
+      "C",
+      "L",
+      "B",
+      "G",
+      "K",
+      "M"
+    ],
+    [
+      "N",
+      "B",
+      "L",
+      "A",
+      "C",
+      "K",
+      "B",
+      "I",
+      "R",
+      "D"
+    ],
+    [
+      "U",
+      "C",
+      "C",
+      "C",
+      "P",
+      "I",
+      "G",
+      "E",
+      "O",
+      "N"
+    ],
+    [
+      "T",
+      "T",
+      "A",
+      "H",
+      "C",
+      "L",
+      "O",
+      "U",
+      "D",
+      "D"
+    ],
+    [
+      "H",
+      "A",
+      "R",
+      "I",
+      "T",
+      "H",
+      "R",
+      "U",
+      "S",
+      "H"
+    ],
+    [
+      "A",
+      "U",
+      "D",
+      "C",
+      "K",
+      "M",
+      "F",
+      "V",
+      "T",
+      "K"
+    ],
+    [
+      "T",
+      "Z",
+      "I",
+      "K",
+      "T",
+      "R",
+      "S",
+      "R",
+      "G",
+      "D"
+    ],
+    [
+      "C",
+      "V",
+      "N",
+      "O",
+      "G",
+      "O",
+      "O",
+      "S",
+      "E",
+      "C"
+    ],
+    [
+      "H",
+      "H",
+      "A",
+      "W",
+      "Q",
+      "M",
+      "A",
+      "P",
+      "P",
+      "Z"
+    ],
+    [
+      "U",
+      "G",
+      "L",
+      "L",
+      "Y",
+      "T",
+      "R",
+      "E",
+      "G",
+      "G"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BLACKBIRD",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CARDINAL",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "NUTHATCH",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "PIGEON",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "THRUSH",
+      "row": 4,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CHICK",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "GOOSE",
+      "row": 7,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CLOUD",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "EGG",
+      "row": 9,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "OWL",
+      "row": 7,
+      "col": 3,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 786107290
+}

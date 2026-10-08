@@ -1,0 +1,284 @@
+{
+  "id": "cars-medium-04",
+  "slug": "cars-medium-04",
+  "themeId": "cars",
+  "title": "Cars Word Search (Medium) #04",
+  "primaryKeyword": "cars word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BEAM",
+    "BELT",
+    "DASH",
+    "DOOR",
+    "DRIVE",
+    "GARAGE",
+    "KEY",
+    "ODOMETER",
+    "PARK",
+    "RAMP",
+    "SEAT",
+    "SIGNAL",
+    "WHEEL",
+    "WINDOW"
+  ],
+  "grid": [
+    [
+      "D",
+      "H",
+      "J",
+      "R",
+      "T",
+      "Q",
+      "E",
+      "Y",
+      "Y",
+      "B",
+      "Q",
+      "N"
+    ],
+    [
+      "S",
+      "D",
+      "S",
+      "N",
+      "P",
+      "P",
+      "W",
+      "W",
+      "B",
+      "P",
+      "R",
+      "Q"
+    ],
+    [
+      "J",
+      "G",
+      "A",
+      "R",
+      "A",
+      "G",
+      "E",
+      "I",
+      "L",
+      "L",
+      "R",
+      "H"
+    ],
+    [
+      "X",
+      "B",
+      "O",
+      "O",
+      "R",
+      "C",
+      "X",
+      "A",
+      "N",
+      "K",
+      "T",
+      "M"
+    ],
+    [
+      "D",
+      "F",
+      "D",
+      "E",
+      "K",
+      "Z",
+      "N",
+      "L",
+      "T",
+      "D",
+      "A",
+      "B"
+    ],
+    [
+      "A",
+      "L",
+      "O",
+      "T",
+      "O",
+      "G",
+      "W",
+      "A",
+      "B",
+      "E",
+      "O",
+      "S"
+    ],
+    [
+      "S",
+      "G",
+      "M",
+      "M",
+      "I",
+      "D",
+      "E",
+      "H",
+      "B",
+      "W",
+      "I",
+      "W"
+    ],
+    [
+      "H",
+      "R",
+      "E",
+      "S",
+      "X",
+      "S",
+      "R",
+      "B",
+      "E",
+      "Z",
+      "V",
+      "T"
+    ],
+    [
+      "Q",
+      "K",
+      "T",
+      "U",
+      "P",
+      "Q",
+      "S",
+      "I",
+      "E",
+      "E",
+      "F",
+      "F"
+    ],
+    [
+      "O",
+      "E",
+      "E",
+      "L",
+      "H",
+      "O",
+      "M",
+      "E",
+      "V",
+      "L",
+      "L",
+      "T"
+    ],
+    [
+      "T",
+      "Y",
+      "R",
+      "Q",
+      "B",
+      "D",
+      "O",
+      "O",
+      "R",
+      "E",
+      "T",
+      "I"
+    ],
+    [
+      "B",
+      "S",
+      "N",
+      "K",
+      "R",
+      "A",
+      "M",
+      "P",
+      "H",
+      "Y",
+      "D",
+      "K"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ODOMETER",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "GARAGE",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SIGNAL",
+      "row": 7,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "WINDOW",
+      "row": 1,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "WHEEL",
+      "row": 5,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "DRIVE",
+      "row": 6,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "BEAM",
+      "row": 6,
+      "col": 8,
+      "direction": "NE"
+    },
+    {
+      "word": "RAMP",
+      "row": 11,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "DASH",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BELT",
+      "row": 7,
+      "col": 7,
+      "direction": "SE"
+    },
+    {
+      "word": "DOOR",
+      "row": 10,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SEAT",
+      "row": 7,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "PARK",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "KEY",
+      "row": 8,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 433737663
+}

@@ -1,0 +1,208 @@
+{
+  "id": "bible-easy-09",
+  "slug": "bible-easy-09",
+  "themeId": "bible",
+  "title": "Bible Word Search (Easy) #09",
+  "primaryKeyword": "bible word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ACTS",
+    "ANGEL",
+    "CANAAN",
+    "EPHESUS",
+    "GENESIS",
+    "GLORY",
+    "HAGGAI",
+    "PSALM",
+    "REST",
+    "SIMON"
+  ],
+  "grid": [
+    [
+      "F",
+      "R",
+      "G",
+      "P",
+      "S",
+      "A",
+      "L",
+      "M",
+      "U",
+      "X"
+    ],
+    [
+      "R",
+      "E",
+      "L",
+      "D",
+      "J",
+      "S",
+      "I",
+      "M",
+      "O",
+      "N"
+    ],
+    [
+      "I",
+      "S",
+      "O",
+      "V",
+      "H",
+      "A",
+      "G",
+      "G",
+      "A",
+      "I"
+    ],
+    [
+      "P",
+      "T",
+      "R",
+      "A",
+      "N",
+      "G",
+      "E",
+      "L",
+      "G",
+      "L"
+    ],
+    [
+      "B",
+      "N",
+      "Y",
+      "S",
+      "H",
+      "V",
+      "T",
+      "M",
+      "B",
+      "W"
+    ],
+    [
+      "I",
+      "V",
+      "Q",
+      "K",
+      "Q",
+      "T",
+      "B",
+      "U",
+      "R",
+      "J"
+    ],
+    [
+      "N",
+      "G",
+      "S",
+      "I",
+      "C",
+      "A",
+      "N",
+      "A",
+      "A",
+      "N"
+    ],
+    [
+      "N",
+      "I",
+      "W",
+      "A",
+      "C",
+      "T",
+      "S",
+      "P",
+      "Q",
+      "G"
+    ],
+    [
+      "P",
+      "G",
+      "E",
+      "N",
+      "E",
+      "S",
+      "I",
+      "S",
+      "D",
+      "C"
+    ],
+    [
+      "H",
+      "U",
+      "E",
+      "P",
+      "H",
+      "E",
+      "S",
+      "U",
+      "S",
+      "B"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "EPHESUS",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "GENESIS",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CANAAN",
+      "row": 6,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "HAGGAI",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "GLORY",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "ANGEL",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SIMON",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "PSALM",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "ACTS",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "REST",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 4142594531
+}

@@ -1,0 +1,284 @@
+{
+  "id": "breakfast-medium-08",
+  "slug": "breakfast-medium-08",
+  "themeId": "breakfast",
+  "title": "Breakfast Word Search (Medium) #08",
+  "primaryKeyword": "breakfast word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BACON",
+    "BAGEL",
+    "CEREAL",
+    "COFFEE",
+    "CREAM",
+    "CROISSANT",
+    "JUICE",
+    "NAPKIN",
+    "ORANGE",
+    "PASTRY",
+    "SAUSAGE",
+    "SKILLET",
+    "SUGAR",
+    "TOAST"
+  ],
+  "grid": [
+    [
+      "U",
+      "G",
+      "E",
+      "N",
+      "K",
+      "K",
+      "L",
+      "A",
+      "X",
+      "F",
+      "N",
+      "I"
+    ],
+    [
+      "R",
+      "C",
+      "M",
+      "S",
+      "U",
+      "G",
+      "A",
+      "R",
+      "O",
+      "E",
+      "N",
+      "Y"
+    ],
+    [
+      "N",
+      "B",
+      "O",
+      "B",
+      "A",
+      "G",
+      "E",
+      "L",
+      "J",
+      "B",
+      "V",
+      "E"
+    ],
+    [
+      "C",
+      "W",
+      "C",
+      "E",
+      "R",
+      "E",
+      "A",
+      "L",
+      "J",
+      "C",
+      "U",
+      "Q"
+    ],
+    [
+      "C",
+      "R",
+      "O",
+      "I",
+      "S",
+      "S",
+      "A",
+      "N",
+      "T",
+      "C",
+      "U",
+      "A"
+    ],
+    [
+      "Z",
+      "T",
+      "O",
+      "A",
+      "S",
+      "T",
+      "F",
+      "Q",
+      "O",
+      "N",
+      "S",
+      "C"
+    ],
+    [
+      "M",
+      "S",
+      "A",
+      "U",
+      "S",
+      "A",
+      "G",
+      "E",
+      "S",
+      "A",
+      "K",
+      "O"
+    ],
+    [
+      "D",
+      "N",
+      "J",
+      "A",
+      "C",
+      "R",
+      "E",
+      "A",
+      "M",
+      "P",
+      "I",
+      "F"
+    ],
+    [
+      "R",
+      "R",
+      "Q",
+      "O",
+      "R",
+      "A",
+      "N",
+      "G",
+      "E",
+      "K",
+      "L",
+      "F"
+    ],
+    [
+      "J",
+      "U",
+      "I",
+      "C",
+      "E",
+      "W",
+      "N",
+      "A",
+      "Q",
+      "I",
+      "L",
+      "E"
+    ],
+    [
+      "E",
+      "V",
+      "H",
+      "P",
+      "A",
+      "S",
+      "T",
+      "R",
+      "Y",
+      "N",
+      "E",
+      "E"
+    ],
+    [
+      "F",
+      "M",
+      "A",
+      "A",
+      "D",
+      "B",
+      "A",
+      "C",
+      "O",
+      "N",
+      "T",
+      "V"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CROISSANT",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SAUSAGE",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SKILLET",
+      "row": 5,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "NAPKIN",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "PASTRY",
+      "row": 10,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "ORANGE",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "COFFEE",
+      "row": 5,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "CEREAL",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BACON",
+      "row": 11,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "TOAST",
+      "row": 5,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SUGAR",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BAGEL",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "CREAM",
+      "row": 7,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "JUICE",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 718996814
+}

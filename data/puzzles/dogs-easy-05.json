@@ -1,0 +1,208 @@
+{
+  "id": "dogs-easy-05",
+  "slug": "dogs-easy-05",
+  "themeId": "dogs",
+  "title": "Dogs Word Search (Easy) #05",
+  "primaryKeyword": "dogs word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BED",
+    "BOWL",
+    "DOG",
+    "JOG",
+    "LEASH",
+    "NOSE",
+    "PUPPY",
+    "SHEPHERD",
+    "SPANIEL",
+    "WAG"
+  ],
+  "grid": [
+    [
+      "C",
+      "L",
+      "O",
+      "P",
+      "B",
+      "G",
+      "X",
+      "A",
+      "F",
+      "X"
+    ],
+    [
+      "M",
+      "F",
+      "X",
+      "N",
+      "T",
+      "Z",
+      "U",
+      "E",
+      "T",
+      "L"
+    ],
+    [
+      "W",
+      "Y",
+      "S",
+      "H",
+      "E",
+      "P",
+      "H",
+      "E",
+      "R",
+      "D"
+    ],
+    [
+      "B",
+      "O",
+      "W",
+      "L",
+      "E",
+      "E",
+      "W",
+      "W",
+      "W",
+      "S"
+    ],
+    [
+      "M",
+      "P",
+      "U",
+      "P",
+      "P",
+      "Y",
+      "A",
+      "A",
+      "G",
+      "P"
+    ],
+    [
+      "V",
+      "D",
+      "J",
+      "M",
+      "J",
+      "N",
+      "G",
+      "J",
+      "L",
+      "A"
+    ],
+    [
+      "W",
+      "O",
+      "N",
+      "O",
+      "I",
+      "O",
+      "N",
+      "D",
+      "E",
+      "N"
+    ],
+    [
+      "K",
+      "G",
+      "A",
+      "P",
+      "S",
+      "S",
+      "K",
+      "V",
+      "A",
+      "I"
+    ],
+    [
+      "X",
+      "H",
+      "U",
+      "J",
+      "P",
+      "E",
+      "B",
+      "L",
+      "S",
+      "E"
+    ],
+    [
+      "D",
+      "B",
+      "E",
+      "D",
+      "C",
+      "J",
+      "O",
+      "G",
+      "H",
+      "L"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SHEPHERD",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SPANIEL",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "LEASH",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "PUPPY",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "NOSE",
+      "row": 5,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "BOWL",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "WAG",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "BED",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "JOG",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "DOG",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1077045341
+}

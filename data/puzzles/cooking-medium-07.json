@@ -1,0 +1,284 @@
+{
+  "id": "cooking-medium-07",
+  "slug": "cooking-medium-07",
+  "themeId": "cooking",
+  "title": "Cooking Word Search (Medium) #07",
+  "primaryKeyword": "cooking word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BOIL",
+    "BROTH",
+    "GRATE",
+    "GRAVY",
+    "LADLE",
+    "MINCE",
+    "OVEN",
+    "POT",
+    "SALT",
+    "SAUCE",
+    "SEASON",
+    "SIMMER",
+    "SPICE",
+    "TOAST"
+  ],
+  "grid": [
+    [
+      "R",
+      "S",
+      "G",
+      "R",
+      "A",
+      "T",
+      "E",
+      "M",
+      "I",
+      "N",
+      "C",
+      "E"
+    ],
+    [
+      "J",
+      "B",
+      "T",
+      "E",
+      "Z",
+      "M",
+      "J",
+      "A",
+      "S",
+      "M",
+      "A",
+      "S"
+    ],
+    [
+      "Q",
+      "U",
+      "S",
+      "E",
+      "D",
+      "P",
+      "Y",
+      "H",
+      "S",
+      "A",
+      "B",
+      "K"
+    ],
+    [
+      "J",
+      "U",
+      "N",
+      "E",
+      "C",
+      "V",
+      "T",
+      "F",
+      "E",
+      "B",
+      "L",
+      "S"
+    ],
+    [
+      "Q",
+      "F",
+      "N",
+      "T",
+      "A",
+      "O",
+      "H",
+      "L",
+      "L",
+      "O",
+      "T",
+      "T"
+    ],
+    [
+      "B",
+      "I",
+      "T",
+      "R",
+      "R",
+      "S",
+      "D",
+      "W",
+      "B",
+      "I",
+      "O",
+      "M"
+    ],
+    [
+      "T",
+      "N",
+      "G",
+      "B",
+      "O",
+      "A",
+      "O",
+      "Z",
+      "N",
+      "L",
+      "A",
+      "M"
+    ],
+    [
+      "G",
+      "O",
+      "W",
+      "S",
+      "L",
+      "V",
+      "S",
+      "N",
+      "O",
+      "A",
+      "S",
+      "S"
+    ],
+    [
+      "K",
+      "H",
+      "N",
+      "R",
+      "P",
+      "L",
+      "E",
+      "X",
+      "H",
+      "J",
+      "T",
+      "A"
+    ],
+    [
+      "O",
+      "P",
+      "O",
+      "T",
+      "H",
+      "I",
+      "X",
+      "N",
+      "X",
+      "H",
+      "A",
+      "U"
+    ],
+    [
+      "S",
+      "I",
+      "M",
+      "M",
+      "E",
+      "R",
+      "C",
+      "R",
+      "V",
+      "G",
+      "K",
+      "C"
+    ],
+    [
+      "Z",
+      "E",
+      "D",
+      "G",
+      "E",
+      "M",
+      "T",
+      "E",
+      "H",
+      "E",
+      "K",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SIMMER",
+      "row": 10,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SEASON",
+      "row": 2,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "SAUCE",
+      "row": 7,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "GRAVY",
+      "row": 6,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "LADLE",
+      "row": 7,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "MINCE",
+      "row": 0,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "TOAST",
+      "row": 4,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "BROTH",
+      "row": 6,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "GRATE",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SPICE",
+      "row": 7,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "BOIL",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "OVEN",
+      "row": 6,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "SALT",
+      "row": 1,
+      "col": 8,
+      "direction": "SE"
+    },
+    {
+      "word": "POT",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 4293593102
+}

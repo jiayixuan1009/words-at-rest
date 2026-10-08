@@ -1,0 +1,284 @@
+{
+  "id": "astronomy-medium-06",
+  "slug": "astronomy-medium-06",
+  "themeId": "astronomy",
+  "title": "Astronomy Word Search (Medium) #06",
+  "primaryKeyword": "astronomy word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ATLAS",
+    "AURORA",
+    "COSMOS",
+    "DUST",
+    "GAS",
+    "ORBIT",
+    "PARALLAX",
+    "POLE",
+    "RING",
+    "SOLAR",
+    "SUPERNOVA",
+    "TELESCOPE",
+    "VOID",
+    "WAY"
+  ],
+  "grid": [
+    [
+      "L",
+      "U",
+      "W",
+      "D",
+      "U",
+      "S",
+      "T",
+      "O",
+      "E",
+      "W",
+      "V",
+      "D"
+    ],
+    [
+      "F",
+      "V",
+      "S",
+      "A",
+      "D",
+      "Y",
+      "A",
+      "T",
+      "L",
+      "A",
+      "S",
+      "W"
+    ],
+    [
+      "A",
+      "V",
+      "T",
+      "O",
+      "Y",
+      "F",
+      "B",
+      "V",
+      "G",
+      "G",
+      "P",
+      "C"
+    ],
+    [
+      "U",
+      "K",
+      "E",
+      "N",
+      "P",
+      "V",
+      "P",
+      "S",
+      "S",
+      "C",
+      "V",
+      "R"
+    ],
+    [
+      "R",
+      "F",
+      "L",
+      "D",
+      "A",
+      "E",
+      "O",
+      "U",
+      "O",
+      "G",
+      "E",
+      "R"
+    ],
+    [
+      "O",
+      "O",
+      "E",
+      "H",
+      "R",
+      "C",
+      "L",
+      "P",
+      "L",
+      "Y",
+      "Z",
+      "I"
+    ],
+    [
+      "R",
+      "R",
+      "S",
+      "Q",
+      "A",
+      "O",
+      "E",
+      "E",
+      "A",
+      "W",
+      "L",
+      "N"
+    ],
+    [
+      "A",
+      "B",
+      "C",
+      "U",
+      "L",
+      "S",
+      "K",
+      "R",
+      "R",
+      "H",
+      "M",
+      "G"
+    ],
+    [
+      "P",
+      "I",
+      "O",
+      "C",
+      "L",
+      "M",
+      "F",
+      "N",
+      "T",
+      "U",
+      "I",
+      "D"
+    ],
+    [
+      "M",
+      "T",
+      "P",
+      "V",
+      "A",
+      "O",
+      "G",
+      "O",
+      "A",
+      "L",
+      "I",
+      "P"
+    ],
+    [
+      "F",
+      "K",
+      "E",
+      "C",
+      "X",
+      "S",
+      "A",
+      "V",
+      "D",
+      "O",
+      "C",
+      "F"
+    ],
+    [
+      "T",
+      "I",
+      "L",
+      "R",
+      "S",
+      "W",
+      "S",
+      "A",
+      "V",
+      "H",
+      "V",
+      "X"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TELESCOPE",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "SUPERNOVA",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "PARALLAX",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "COSMOS",
+      "row": 5,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "AURORA",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "ATLAS",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "ORBIT",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SOLAR",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "POLE",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "VOID",
+      "row": 11,
+      "col": 8,
+      "direction": "NE"
+    },
+    {
+      "word": "DUST",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "RING",
+      "row": 4,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "GAS",
+      "row": 9,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "WAY",
+      "row": 0,
+      "col": 2,
+      "direction": "SE"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 2708331686
+}

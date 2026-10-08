@@ -281,8 +281,8 @@ export default function HomePage() {
               sign-up and no download. Ads never cover the puzzle.
             </li>
             <li>
-              <strong className="text-[var(--ink)]">A new puzzle daily.</strong> The same{" "}
-              <Link href="/daily">daily word search</Link> for everyone, with a permanent archive.
+              <strong className="text-[var(--ink)]">A new featured puzzle daily.</strong> The same{" "}
+              <Link href="/daily">daily word search</Link> for everyone (plus more themes that day), with a permanent archive.
             </li>
           </ul>
           <p>

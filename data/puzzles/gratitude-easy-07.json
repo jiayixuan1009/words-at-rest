@@ -1,0 +1,208 @@
+{
+  "id": "gratitude-easy-07",
+  "slug": "gratitude-easy-07",
+  "themeId": "gratitude",
+  "title": "Gratitude Word Search (Easy) #07",
+  "primaryKeyword": "gratitude word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BREAD",
+    "CARE",
+    "FAMILY",
+    "GRATEFUL",
+    "HOME",
+    "HOPE",
+    "MORNING",
+    "REST",
+    "SMILE",
+    "STILL"
+  ],
+  "grid": [
+    [
+      "I",
+      "F",
+      "D",
+      "Q",
+      "C",
+      "Q",
+      "M",
+      "M",
+      "H",
+      "P"
+    ],
+    [
+      "T",
+      "Z",
+      "Z",
+      "S",
+      "A",
+      "S",
+      "M",
+      "I",
+      "L",
+      "E"
+    ],
+    [
+      "X",
+      "O",
+      "I",
+      "O",
+      "R",
+      "F",
+      "G",
+      "D",
+      "B",
+      "U"
+    ],
+    [
+      "G",
+      "R",
+      "A",
+      "T",
+      "E",
+      "F",
+      "U",
+      "L",
+      "R",
+      "M"
+    ],
+    [
+      "A",
+      "F",
+      "H",
+      "F",
+      "I",
+      "H",
+      "O",
+      "P",
+      "E",
+      "O"
+    ],
+    [
+      "L",
+      "A",
+      "X",
+      "O",
+      "B",
+      "I",
+      "V",
+      "A",
+      "A",
+      "R"
+    ],
+    [
+      "H",
+      "M",
+      "Z",
+      "S",
+      "T",
+      "I",
+      "L",
+      "L",
+      "D",
+      "N"
+    ],
+    [
+      "O",
+      "I",
+      "P",
+      "E",
+      "F",
+      "O",
+      "M",
+      "Z",
+      "M",
+      "I"
+    ],
+    [
+      "M",
+      "L",
+      "W",
+      "G",
+      "I",
+      "G",
+      "V",
+      "X",
+      "Z",
+      "N"
+    ],
+    [
+      "E",
+      "Y",
+      "J",
+      "J",
+      "R",
+      "E",
+      "S",
+      "T",
+      "O",
+      "G"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "GRATEFUL",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "MORNING",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "FAMILY",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SMILE",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "STILL",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BREAD",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "CARE",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "HOME",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "HOPE",
+      "row": 4,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "REST",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 834370258
+}

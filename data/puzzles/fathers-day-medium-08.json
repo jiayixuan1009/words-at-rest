@@ -1,0 +1,284 @@
+{
+  "id": "fathers-day-medium-08",
+  "slug": "fathers-day-medium-08",
+  "themeId": "fathers-day",
+  "title": "Father's Day Word Search (Medium) #08",
+  "primaryKeyword": "fathers day word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ADVICE",
+    "CAMP",
+    "CHAIR",
+    "COFFEE",
+    "HUG",
+    "JOY",
+    "JUNE",
+    "LISTEN",
+    "NEWSPAPER",
+    "PEACE",
+    "SMOKE",
+    "STRENGTH",
+    "TEACH",
+    "WISDOM"
+  ],
+  "grid": [
+    [
+      "S",
+      "D",
+      "C",
+      "Q",
+      "A",
+      "N",
+      "R",
+      "T",
+      "T",
+      "H",
+      "P",
+      "P"
+    ],
+    [
+      "I",
+      "T",
+      "X",
+      "A",
+      "E",
+      "W",
+      "J",
+      "C",
+      "B",
+      "D",
+      "E",
+      "J"
+    ],
+    [
+      "F",
+      "D",
+      "R",
+      "T",
+      "M",
+      "B",
+      "U",
+      "O",
+      "T",
+      "W",
+      "A",
+      "J"
+    ],
+    [
+      "D",
+      "N",
+      "S",
+      "E",
+      "I",
+      "P",
+      "N",
+      "F",
+      "J",
+      "I",
+      "C",
+      "N"
+    ],
+    [
+      "G",
+      "I",
+      "E",
+      "Y",
+      "N",
+      "Y",
+      "E",
+      "F",
+      "T",
+      "S",
+      "E",
+      "Q"
+    ],
+    [
+      "L",
+      "I",
+      "J",
+      "W",
+      "K",
+      "G",
+      "L",
+      "E",
+      "E",
+      "D",
+      "Z",
+      "V"
+    ],
+    [
+      "E",
+      "S",
+      "A",
+      "Y",
+      "S",
+      "F",
+      "T",
+      "E",
+      "A",
+      "O",
+      "W",
+      "S"
+    ],
+    [
+      "W",
+      "M",
+      "X",
+      "D",
+      "W",
+      "P",
+      "R",
+      "H",
+      "C",
+      "M",
+      "R",
+      "H"
+    ],
+    [
+      "C",
+      "O",
+      "O",
+      "K",
+      "V",
+      "I",
+      "A",
+      "J",
+      "H",
+      "I",
+      "O",
+      "U"
+    ],
+    [
+      "D",
+      "K",
+      "E",
+      "X",
+      "A",
+      "I",
+      "J",
+      "P",
+      "J",
+      "O",
+      "Y",
+      "G"
+    ],
+    [
+      "G",
+      "E",
+      "F",
+      "H",
+      "O",
+      "Z",
+      "C",
+      "F",
+      "E",
+      "N",
+      "M",
+      "T"
+    ],
+    [
+      "S",
+      "K",
+      "C",
+      "K",
+      "L",
+      "Y",
+      "G",
+      "E",
+      "I",
+      "R",
+      "K",
+      "Y"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "NEWSPAPER",
+      "row": 3,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "STRENGTH",
+      "row": 0,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "WISDOM",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "LISTEN",
+      "row": 5,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "ADVICE",
+      "row": 6,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "COFFEE",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "CHAIR",
+      "row": 11,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "SMOKE",
+      "row": 6,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "TEACH",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "PEACE",
+      "row": 0,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "JUNE",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "CAMP",
+      "row": 0,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "HUG",
+      "row": 7,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "JOY",
+      "row": 9,
+      "col": 8,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 357799018
+}

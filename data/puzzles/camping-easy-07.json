@@ -1,0 +1,208 @@
+{
+  "id": "camping-easy-07",
+  "slug": "camping-easy-07",
+  "themeId": "camping",
+  "title": "Camping Word Search (Easy) #07",
+  "primaryKeyword": "camping word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CAMP",
+    "CANTEEN",
+    "DEW",
+    "FLY",
+    "KNIFE",
+    "NIGHT",
+    "POT",
+    "RIDGE",
+    "STREAM",
+    "TRAILMIX"
+  ],
+  "grid": [
+    [
+      "Q",
+      "P",
+      "Y",
+      "B",
+      "T",
+      "K",
+      "O",
+      "S",
+      "U",
+      "U"
+    ],
+    [
+      "D",
+      "F",
+      "L",
+      "Y",
+      "R",
+      "N",
+      "X",
+      "Y",
+      "G",
+      "F"
+    ],
+    [
+      "E",
+      "Q",
+      "S",
+      "A",
+      "A",
+      "K",
+      "N",
+      "I",
+      "F",
+      "E"
+    ],
+    [
+      "W",
+      "C",
+      "C",
+      "R",
+      "I",
+      "U",
+      "E",
+      "J",
+      "A",
+      "I"
+    ],
+    [
+      "S",
+      "A",
+      "B",
+      "S",
+      "L",
+      "W",
+      "I",
+      "E",
+      "Y",
+      "C"
+    ],
+    [
+      "T",
+      "N",
+      "E",
+      "B",
+      "M",
+      "R",
+      "D",
+      "J",
+      "H",
+      "A"
+    ],
+    [
+      "R",
+      "T",
+      "G",
+      "D",
+      "I",
+      "I",
+      "P",
+      "O",
+      "T",
+      "M"
+    ],
+    [
+      "E",
+      "E",
+      "H",
+      "W",
+      "X",
+      "M",
+      "T",
+      "X",
+      "T",
+      "P"
+    ],
+    [
+      "A",
+      "E",
+      "D",
+      "R",
+      "I",
+      "D",
+      "G",
+      "E",
+      "K",
+      "W"
+    ],
+    [
+      "M",
+      "N",
+      "P",
+      "K",
+      "M",
+      "N",
+      "I",
+      "G",
+      "H",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TRAILMIX",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "CANTEEN",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "STREAM",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "NIGHT",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "RIDGE",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "KNIFE",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "CAMP",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "DEW",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "FLY",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "POT",
+      "row": 6,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 601858832
+}

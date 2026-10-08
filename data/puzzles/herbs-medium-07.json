@@ -1,0 +1,284 @@
+{
+  "id": "herbs-medium-07",
+  "slug": "herbs-medium-07",
+  "themeId": "herbs",
+  "title": "Herbs & Spices Word Search (Medium) #07",
+  "primaryKeyword": "herbs and spices word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ALLSPICE",
+    "CLOVE",
+    "CORIANDER",
+    "DILL",
+    "HERB",
+    "MUSTARD",
+    "OREGANO",
+    "PAPRIKA",
+    "PEPPER",
+    "SAGE",
+    "STARANISE",
+    "TARRAGON",
+    "VANILLA",
+    "ZATAR"
+  ],
+  "grid": [
+    [
+      "V",
+      "E",
+      "S",
+      "T",
+      "Z",
+      "T",
+      "Q",
+      "G",
+      "S",
+      "Q",
+      "Z",
+      "T"
+    ],
+    [
+      "A",
+      "Y",
+      "H",
+      "V",
+      "J",
+      "C",
+      "A",
+      "P",
+      "N",
+      "V",
+      "A",
+      "R"
+    ],
+    [
+      "N",
+      "S",
+      "W",
+      "M",
+      "C",
+      "L",
+      "L",
+      "K",
+      "C",
+      "X",
+      "T",
+      "K"
+    ],
+    [
+      "I",
+      "T",
+      "F",
+      "U",
+      "O",
+      "O",
+      "L",
+      "P",
+      "O",
+      "A",
+      "A",
+      "N"
+    ],
+    [
+      "L",
+      "A",
+      "S",
+      "S",
+      "R",
+      "V",
+      "S",
+      "A",
+      "R",
+      "B",
+      "R",
+      "G"
+    ],
+    [
+      "L",
+      "R",
+      "H",
+      "T",
+      "E",
+      "E",
+      "P",
+      "P",
+      "I",
+      "L",
+      "M",
+      "L"
+    ],
+    [
+      "A",
+      "A",
+      "O",
+      "A",
+      "G",
+      "F",
+      "I",
+      "R",
+      "A",
+      "Y",
+      "L",
+      "J"
+    ],
+    [
+      "H",
+      "N",
+      "E",
+      "R",
+      "A",
+      "H",
+      "C",
+      "I",
+      "N",
+      "I",
+      "I",
+      "S"
+    ],
+    [
+      "E",
+      "I",
+      "Y",
+      "D",
+      "N",
+      "T",
+      "E",
+      "K",
+      "D",
+      "N",
+      "M",
+      "A"
+    ],
+    [
+      "R",
+      "S",
+      "N",
+      "M",
+      "O",
+      "X",
+      "E",
+      "A",
+      "E",
+      "E",
+      "F",
+      "G"
+    ],
+    [
+      "B",
+      "E",
+      "B",
+      "P",
+      "E",
+      "P",
+      "P",
+      "E",
+      "R",
+      "Y",
+      "C",
+      "E"
+    ],
+    [
+      "V",
+      "N",
+      "T",
+      "T",
+      "A",
+      "R",
+      "R",
+      "A",
+      "G",
+      "O",
+      "N",
+      "Q"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CORIANDER",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "STARANISE",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "TARRAGON",
+      "row": 11,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "ALLSPICE",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "PAPRIKA",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "MUSTARD",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "VANILLA",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "OREGANO",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "PEPPER",
+      "row": 10,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "CLOVE",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "ZATAR",
+      "row": 0,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "SAGE",
+      "row": 7,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "HERB",
+      "row": 7,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "DILL",
+      "row": 8,
+      "col": 8,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 817592639
+}

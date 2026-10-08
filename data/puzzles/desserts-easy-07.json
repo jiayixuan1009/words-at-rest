@@ -1,0 +1,208 @@
+{
+  "id": "desserts-easy-07",
+  "slug": "desserts-easy-07",
+  "themeId": "desserts",
+  "title": "Desserts Word Search (Easy) #07",
+  "primaryKeyword": "desserts word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BAKE",
+    "BERRY",
+    "CAKE",
+    "CHOCOLATE",
+    "COOKIE",
+    "ECLAIR",
+    "PARFAIT",
+    "PLATE",
+    "TOFFEE",
+    "WHIP"
+  ],
+  "grid": [
+    [
+      "C",
+      "L",
+      "G",
+      "B",
+      "F",
+      "W",
+      "W",
+      "C",
+      "P",
+      "E"
+    ],
+    [
+      "H",
+      "E",
+      "I",
+      "A",
+      "N",
+      "H",
+      "Q",
+      "O",
+      "A",
+      "E"
+    ],
+    [
+      "O",
+      "C",
+      "W",
+      "C",
+      "O",
+      "I",
+      "B",
+      "O",
+      "R",
+      "V"
+    ],
+    [
+      "C",
+      "L",
+      "G",
+      "K",
+      "T",
+      "P",
+      "E",
+      "K",
+      "F",
+      "B"
+    ],
+    [
+      "O",
+      "A",
+      "J",
+      "T",
+      "O",
+      "L",
+      "R",
+      "I",
+      "A",
+      "A"
+    ],
+    [
+      "L",
+      "I",
+      "M",
+      "U",
+      "F",
+      "B",
+      "R",
+      "E",
+      "I",
+      "K"
+    ],
+    [
+      "A",
+      "R",
+      "I",
+      "M",
+      "F",
+      "G",
+      "Y",
+      "C",
+      "T",
+      "E"
+    ],
+    [
+      "T",
+      "Y",
+      "B",
+      "F",
+      "E",
+      "P",
+      "L",
+      "A",
+      "T",
+      "E"
+    ],
+    [
+      "E",
+      "E",
+      "A",
+      "Q",
+      "E",
+      "K",
+      "S",
+      "I",
+      "R",
+      "A"
+    ],
+    [
+      "I",
+      "W",
+      "K",
+      "S",
+      "D",
+      "C",
+      "A",
+      "K",
+      "E",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CHOCOLATE",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "PARFAIT",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "COOKIE",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "ECLAIR",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "TOFFEE",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "BERRY",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "PLATE",
+      "row": 7,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "BAKE",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "WHIP",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "CAKE",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1191333953
+}

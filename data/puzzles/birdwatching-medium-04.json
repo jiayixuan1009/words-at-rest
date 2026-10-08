@@ -1,0 +1,284 @@
+{
+  "id": "birdwatching-medium-04",
+  "slug": "birdwatching-medium-04",
+  "themeId": "birdwatching",
+  "title": "Birdwatching Word Search (Medium) #04",
+  "primaryKeyword": "birdwatching word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BIRD",
+    "BLIND",
+    "BRANCH",
+    "DIVE",
+    "FIELD",
+    "GARDEN",
+    "NOTE",
+    "PATH",
+    "QUIET",
+    "SEED",
+    "SPOT",
+    "SUET",
+    "WATCH",
+    "WATER"
+  ],
+  "grid": [
+    [
+      "F",
+      "B",
+      "Y",
+      "S",
+      "M",
+      "T",
+      "U",
+      "S",
+      "W",
+      "L",
+      "I",
+      "E"
+    ],
+    [
+      "I",
+      "P",
+      "L",
+      "K",
+      "H",
+      "R",
+      "P",
+      "R",
+      "A",
+      "U",
+      "E",
+      "Q"
+    ],
+    [
+      "E",
+      "Z",
+      "Q",
+      "I",
+      "V",
+      "G",
+      "A",
+      "L",
+      "T",
+      "E",
+      "P",
+      "C"
+    ],
+    [
+      "L",
+      "B",
+      "O",
+      "U",
+      "N",
+      "H",
+      "T",
+      "O",
+      "C",
+      "Q",
+      "Z",
+      "Z"
+    ],
+    [
+      "D",
+      "A",
+      "A",
+      "Z",
+      "I",
+      "D",
+      "H",
+      "B",
+      "H",
+      "X",
+      "D",
+      "T"
+    ],
+    [
+      "K",
+      "S",
+      "T",
+      "H",
+      "V",
+      "E",
+      "X",
+      "R",
+      "H",
+      "Q",
+      "G",
+      "W"
+    ],
+    [
+      "K",
+      "E",
+      "U",
+      "W",
+      "S",
+      "K",
+      "T",
+      "A",
+      "R",
+      "Q",
+      "A",
+      "T"
+    ],
+    [
+      "Y",
+      "E",
+      "L",
+      "E",
+      "A",
+      "C",
+      "T",
+      "N",
+      "A",
+      "A",
+      "R",
+      "F"
+    ],
+    [
+      "G",
+      "D",
+      "V",
+      "N",
+      "T",
+      "T",
+      "Z",
+      "C",
+      "C",
+      "B",
+      "D",
+      "S"
+    ],
+    [
+      "P",
+      "I",
+      "B",
+      "V",
+      "O",
+      "Y",
+      "E",
+      "H",
+      "W",
+      "I",
+      "E",
+      "P"
+    ],
+    [
+      "D",
+      "C",
+      "Z",
+      "H",
+      "B",
+      "T",
+      "H",
+      "R",
+      "K",
+      "R",
+      "N",
+      "O"
+    ],
+    [
+      "B",
+      "E",
+      "Z",
+      "H",
+      "S",
+      "W",
+      "E",
+      "L",
+      "D",
+      "D",
+      "R",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "GARDEN",
+      "row": 5,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "BRANCH",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "BLIND",
+      "row": 0,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "WATCH",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "WATER",
+      "row": 6,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "QUIET",
+      "row": 2,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "FIELD",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "PATH",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "SUET",
+      "row": 5,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "DIVE",
+      "row": 10,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "NOTE",
+      "row": 8,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "SEED",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SPOT",
+      "row": 8,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "BIRD",
+      "row": 8,
+      "col": 9,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 644530462
+}

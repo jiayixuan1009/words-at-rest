@@ -1,0 +1,208 @@
+{
+  "id": "independence-day-easy-06",
+  "slug": "independence-day-easy-06",
+  "themeId": "independence-day",
+  "title": "Independence Day Word Search (Easy) #06",
+  "primaryKeyword": "fourth of july word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BANNER",
+    "BOOM",
+    "BRIDGE",
+    "COOLER",
+    "COURTHOUSE",
+    "FIREWORK",
+    "FLAG",
+    "HISTORY",
+    "PARK",
+    "WATERMELON"
+  ],
+  "grid": [
+    [
+      "G",
+      "J",
+      "B",
+      "B",
+      "C",
+      "P",
+      "K",
+      "E",
+      "M",
+      "W"
+    ],
+    [
+      "Q",
+      "U",
+      "R",
+      "P",
+      "O",
+      "T",
+      "I",
+      "V",
+      "F",
+      "A"
+    ],
+    [
+      "H",
+      "O",
+      "I",
+      "A",
+      "U",
+      "M",
+      "W",
+      "B",
+      "I",
+      "T"
+    ],
+    [
+      "B",
+      "A",
+      "D",
+      "R",
+      "R",
+      "R",
+      "H",
+      "U",
+      "R",
+      "E"
+    ],
+    [
+      "A",
+      "O",
+      "G",
+      "K",
+      "T",
+      "C",
+      "I",
+      "V",
+      "E",
+      "R"
+    ],
+    [
+      "N",
+      "G",
+      "E",
+      "F",
+      "H",
+      "O",
+      "S",
+      "L",
+      "W",
+      "M"
+    ],
+    [
+      "N",
+      "F",
+      "B",
+      "I",
+      "O",
+      "O",
+      "T",
+      "S",
+      "O",
+      "E"
+    ],
+    [
+      "E",
+      "L",
+      "O",
+      "X",
+      "U",
+      "L",
+      "O",
+      "K",
+      "R",
+      "L"
+    ],
+    [
+      "R",
+      "A",
+      "O",
+      "R",
+      "S",
+      "E",
+      "R",
+      "S",
+      "K",
+      "O"
+    ],
+    [
+      "S",
+      "G",
+      "M",
+      "O",
+      "E",
+      "R",
+      "Y",
+      "U",
+      "O",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "COURTHOUSE",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "WATERMELON",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "FIREWORK",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "HISTORY",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "COOLER",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "BANNER",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BRIDGE",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "FLAG",
+      "row": 6,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "PARK",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "BOOM",
+      "row": 6,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1763586901
+}

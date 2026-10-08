@@ -1,0 +1,284 @@
+{
+  "id": "cities-medium-04",
+  "slug": "cities-medium-04",
+  "themeId": "cities",
+  "title": "Cities Word Search (Medium) #04",
+  "primaryKeyword": "cities word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ATLANTA",
+    "AUSTIN",
+    "DELHI",
+    "HOUSTON",
+    "KYIV",
+    "LIMA",
+    "LISBON",
+    "PARIS",
+    "PORTLAND",
+    "QUITO",
+    "ROME",
+    "SEOUL",
+    "TOKYO",
+    "TORONTO"
+  ],
+  "grid": [
+    [
+      "R",
+      "W",
+      "J",
+      "K",
+      "F",
+      "Q",
+      "U",
+      "I",
+      "T",
+      "O",
+      "D",
+      "Z"
+    ],
+    [
+      "L",
+      "Z",
+      "A",
+      "T",
+      "L",
+      "A",
+      "N",
+      "T",
+      "A",
+      "K",
+      "A",
+      "E"
+    ],
+    [
+      "I",
+      "H",
+      "R",
+      "T",
+      "N",
+      "P",
+      "U",
+      "P",
+      "F",
+      "M",
+      "T",
+      "F"
+    ],
+    [
+      "S",
+      "S",
+      "Z",
+      "B",
+      "N",
+      "E",
+      "V",
+      "H",
+      "I",
+      "Z",
+      "G",
+      "H"
+    ],
+    [
+      "B",
+      "A",
+      "O",
+      "F",
+      "G",
+      "X",
+      "S",
+      "L",
+      "T",
+      "I",
+      "V",
+      "P"
+    ],
+    [
+      "O",
+      "I",
+      "T",
+      "Y",
+      "H",
+      "O",
+      "U",
+      "S",
+      "T",
+      "O",
+      "N",
+      "A"
+    ],
+    [
+      "N",
+      "Q",
+      "Y",
+      "P",
+      "O",
+      "R",
+      "T",
+      "L",
+      "A",
+      "N",
+      "D",
+      "R"
+    ],
+    [
+      "S",
+      "R",
+      "S",
+      "E",
+      "O",
+      "U",
+      "L",
+      "K",
+      "S",
+      "L",
+      "S",
+      "I"
+    ],
+    [
+      "T",
+      "O",
+      "Z",
+      "Y",
+      "F",
+      "C",
+      "P",
+      "D",
+      "Y",
+      "B",
+      "I",
+      "S"
+    ],
+    [
+      "L",
+      "S",
+      "K",
+      "Y",
+      "V",
+      "D",
+      "E",
+      "L",
+      "H",
+      "I",
+      "D",
+      "N"
+    ],
+    [
+      "C",
+      "O",
+      "P",
+      "T",
+      "O",
+      "R",
+      "O",
+      "N",
+      "T",
+      "O",
+      "V",
+      "Z"
+    ],
+    [
+      "T",
+      "X",
+      "A",
+      "U",
+      "S",
+      "T",
+      "I",
+      "N",
+      "R",
+      "O",
+      "M",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PORTLAND",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "TORONTO",
+      "row": 10,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "HOUSTON",
+      "row": 5,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "ATLANTA",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "LISBON",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "AUSTIN",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SEOUL",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PARIS",
+      "row": 4,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "TOKYO",
+      "row": 11,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "DELHI",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "QUITO",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "ROME",
+      "row": 11,
+      "col": 8,
+      "direction": "E"
+    },
+    {
+      "word": "LIMA",
+      "row": 4,
+      "col": 7,
+      "direction": "NE"
+    },
+    {
+      "word": "KYIV",
+      "row": 7,
+      "col": 7,
+      "direction": "SE"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 285380895
+}

@@ -1,0 +1,208 @@
+{
+  "id": "insects-easy-05",
+  "slug": "insects-easy-05",
+  "themeId": "insects",
+  "title": "Insects Word Search (Easy) #05",
+  "primaryKeyword": "insects word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BEETLE",
+    "BUG",
+    "BUZZ",
+    "COCOON",
+    "CRICKET",
+    "FIREFLY",
+    "FLY",
+    "MEADOW",
+    "NECTAR",
+    "TERMITE"
+  ],
+  "grid": [
+    [
+      "V",
+      "I",
+      "X",
+      "B",
+      "U",
+      "G",
+      "T",
+      "G",
+      "T",
+      "V"
+    ],
+    [
+      "M",
+      "V",
+      "C",
+      "Y",
+      "J",
+      "T",
+      "C",
+      "K",
+      "E",
+      "T"
+    ],
+    [
+      "E",
+      "P",
+      "F",
+      "H",
+      "Q",
+      "T",
+      "R",
+      "O",
+      "R",
+      "B"
+    ],
+    [
+      "M",
+      "E",
+      "A",
+      "D",
+      "O",
+      "W",
+      "I",
+      "F",
+      "M",
+      "L"
+    ],
+    [
+      "C",
+      "O",
+      "C",
+      "O",
+      "O",
+      "N",
+      "C",
+      "I",
+      "I",
+      "F"
+    ],
+    [
+      "Q",
+      "U",
+      "W",
+      "L",
+      "D",
+      "O",
+      "K",
+      "R",
+      "T",
+      "H"
+    ],
+    [
+      "N",
+      "E",
+      "C",
+      "T",
+      "A",
+      "R",
+      "E",
+      "E",
+      "E",
+      "J"
+    ],
+    [
+      "N",
+      "H",
+      "H",
+      "G",
+      "X",
+      "M",
+      "T",
+      "F",
+      "E",
+      "F"
+    ],
+    [
+      "B",
+      "E",
+      "E",
+      "T",
+      "L",
+      "E",
+      "F",
+      "L",
+      "H",
+      "D"
+    ],
+    [
+      "U",
+      "B",
+      "U",
+      "Z",
+      "Z",
+      "F",
+      "L",
+      "Y",
+      "Y",
+      "B"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FIREFLY",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "CRICKET",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "TERMITE",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "COCOON",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "MEADOW",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BEETLE",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "NECTAR",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BUZZ",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BUG",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "FLY",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1760771957
+}

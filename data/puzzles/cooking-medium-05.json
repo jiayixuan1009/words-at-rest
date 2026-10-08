@@ -1,0 +1,284 @@
+{
+  "id": "cooking-medium-05",
+  "slug": "cooking-medium-05",
+  "themeId": "cooking",
+  "title": "Cooking Word Search (Medium) #05",
+  "primaryKeyword": "cooking word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BAKE",
+    "BATTER",
+    "BLEND",
+    "BRAISE",
+    "DICE",
+    "FRY",
+    "MINCE",
+    "POT",
+    "SALT",
+    "SEAR",
+    "SIMMER",
+    "SKILLET",
+    "STOVE",
+    "TASTE"
+  ],
+  "grid": [
+    [
+      "I",
+      "B",
+      "L",
+      "M",
+      "Y",
+      "I",
+      "E",
+      "W",
+      "P",
+      "O",
+      "T",
+      "R"
+    ],
+    [
+      "S",
+      "G",
+      "L",
+      "R",
+      "Z",
+      "V",
+      "T",
+      "K",
+      "E",
+      "M",
+      "U",
+      "O"
+    ],
+    [
+      "A",
+      "K",
+      "F",
+      "E",
+      "O",
+      "H",
+      "A",
+      "R",
+      "R",
+      "R",
+      "S",
+      "S"
+    ],
+    [
+      "L",
+      "A",
+      "I",
+      "T",
+      "N",
+      "E",
+      "S",
+      "P",
+      "S",
+      "X",
+      "U",
+      "N"
+    ],
+    [
+      "T",
+      "A",
+      "S",
+      "L",
+      "K",
+      "D",
+      "T",
+      "M",
+      "I",
+      "N",
+      "C",
+      "E"
+    ],
+    [
+      "T",
+      "V",
+      "S",
+      "O",
+      "L",
+      "O",
+      "E",
+      "D",
+      "X",
+      "L",
+      "S",
+      "B"
+    ],
+    [
+      "P",
+      "V",
+      "R",
+      "B",
+      "C",
+      "E",
+      "C",
+      "V",
+      "V",
+      "P",
+      "K",
+      "R"
+    ],
+    [
+      "E",
+      "H",
+      "W",
+      "A",
+      "D",
+      "A",
+      "T",
+      "A",
+      "U",
+      "L",
+      "F",
+      "A"
+    ],
+    [
+      "N",
+      "M",
+      "H",
+      "T",
+      "S",
+      "I",
+      "M",
+      "M",
+      "E",
+      "R",
+      "Z",
+      "I"
+    ],
+    [
+      "Y",
+      "G",
+      "Y",
+      "T",
+      "A",
+      "D",
+      "C",
+      "S",
+      "E",
+      "A",
+      "R",
+      "S"
+    ],
+    [
+      "U",
+      "J",
+      "U",
+      "E",
+      "P",
+      "E",
+      "X",
+      "E",
+      "B",
+      "A",
+      "K",
+      "E"
+    ],
+    [
+      "E",
+      "W",
+      "L",
+      "R",
+      "M",
+      "Y",
+      "A",
+      "B",
+      "E",
+      "S",
+      "A",
+      "W"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SKILLET",
+      "row": 1,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "BRAISE",
+      "row": 5,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "SIMMER",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BATTER",
+      "row": 6,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "STOVE",
+      "row": 4,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "TASTE",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "BLEND",
+      "row": 0,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "MINCE",
+      "row": 4,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "SEAR",
+      "row": 9,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "BAKE",
+      "row": 10,
+      "col": 8,
+      "direction": "E"
+    },
+    {
+      "word": "SALT",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "DICE",
+      "row": 7,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "FRY",
+      "row": 2,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "POT",
+      "row": 0,
+      "col": 8,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 2169661166
+}

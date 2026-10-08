@@ -1,0 +1,284 @@
+{
+  "id": "desserts-medium-04",
+  "slug": "desserts-medium-04",
+  "themeId": "desserts",
+  "title": "Desserts Word Search (Medium) #04",
+  "primaryKeyword": "desserts word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BAKE",
+    "BERRY",
+    "CHEESECAKE",
+    "CHOCOLATE",
+    "CREAM",
+    "FUDGE",
+    "ICING",
+    "MERINGUE",
+    "PLATE",
+    "SLICE",
+    "SORBET",
+    "SPOON",
+    "TRIFLE",
+    "TRUFFLE"
+  ],
+  "grid": [
+    [
+      "X",
+      "T",
+      "S",
+      "L",
+      "I",
+      "C",
+      "E",
+      "Q",
+      "R",
+      "G",
+      "D",
+      "D"
+    ],
+    [
+      "T",
+      "Z",
+      "C",
+      "H",
+      "O",
+      "C",
+      "O",
+      "L",
+      "A",
+      "T",
+      "E",
+      "E"
+    ],
+    [
+      "R",
+      "W",
+      "K",
+      "O",
+      "R",
+      "W",
+      "L",
+      "L",
+      "P",
+      "Q",
+      "K",
+      "T"
+    ],
+    [
+      "I",
+      "M",
+      "E",
+      "R",
+      "I",
+      "N",
+      "G",
+      "U",
+      "E",
+      "A",
+      "P",
+      "F"
+    ],
+    [
+      "F",
+      "C",
+      "W",
+      "S",
+      "N",
+      "C",
+      "Y",
+      "O",
+      "C",
+      "T",
+      "B",
+      "B"
+    ],
+    [
+      "L",
+      "N",
+      "L",
+      "V",
+      "O",
+      "P",
+      "M",
+      "E",
+      "V",
+      "R",
+      "D",
+      "W"
+    ],
+    [
+      "E",
+      "A",
+      "B",
+      "B",
+      "F",
+      "R",
+      "S",
+      "K",
+      "N",
+      "U",
+      "P",
+      "E"
+    ],
+    [
+      "I",
+      "F",
+      "A",
+      "L",
+      "E",
+      "E",
+      "B",
+      "O",
+      "I",
+      "F",
+      "L",
+      "C"
+    ],
+    [
+      "C",
+      "U",
+      "K",
+      "E",
+      "E",
+      "R",
+      "O",
+      "E",
+      "X",
+      "F",
+      "A",
+      "R"
+    ],
+    [
+      "I",
+      "D",
+      "E",
+      "H",
+      "C",
+      "P",
+      "R",
+      "K",
+      "T",
+      "L",
+      "T",
+      "E"
+    ],
+    [
+      "N",
+      "G",
+      "C",
+      "K",
+      "S",
+      "J",
+      "X",
+      "Y",
+      "A",
+      "E",
+      "E",
+      "A"
+    ],
+    [
+      "G",
+      "E",
+      "D",
+      "R",
+      "K",
+      "B",
+      "C",
+      "I",
+      "E",
+      "Z",
+      "Y",
+      "M"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CHEESECAKE",
+      "row": 10,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "CHOCOLATE",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "MERINGUE",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TRUFFLE",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SORBET",
+      "row": 4,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "TRIFLE",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "FUDGE",
+      "row": 7,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SLICE",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BERRY",
+      "row": 6,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "PLATE",
+      "row": 6,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "ICING",
+      "row": 7,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CREAM",
+      "row": 7,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "SPOON",
+      "row": 10,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "BAKE",
+      "row": 6,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1080511682
+}

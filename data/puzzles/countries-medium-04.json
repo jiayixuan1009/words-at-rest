@@ -1,0 +1,284 @@
+{
+  "id": "countries-medium-04",
+  "slug": "countries-medium-04",
+  "themeId": "countries",
+  "title": "Countries Word Search (Medium) #04",
+  "primaryKeyword": "countries word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "AUSTRIA",
+    "BELGIUM",
+    "DUTCH",
+    "EGYPT",
+    "ISRAEL",
+    "JAPAN",
+    "JORDAN",
+    "KENYA",
+    "NORWAY",
+    "POLAND",
+    "SPAIN",
+    "THAILAND",
+    "TURKEY",
+    "UKRAINE"
+  ],
+  "grid": [
+    [
+      "E",
+      "G",
+      "P",
+      "L",
+      "Z",
+      "S",
+      "T",
+      "U",
+      "R",
+      "K",
+      "E",
+      "Y"
+    ],
+    [
+      "G",
+      "U",
+      "N",
+      "O",
+      "R",
+      "W",
+      "A",
+      "Y",
+      "K",
+      "B",
+      "A",
+      "N"
+    ],
+    [
+      "Y",
+      "S",
+      "Z",
+      "Q",
+      "A",
+      "U",
+      "S",
+      "T",
+      "R",
+      "I",
+      "A",
+      "M"
+    ],
+    [
+      "P",
+      "J",
+      "P",
+      "A",
+      "T",
+      "V",
+      "K",
+      "E",
+      "N",
+      "Y",
+      "A",
+      "F"
+    ],
+    [
+      "T",
+      "C",
+      "A",
+      "A",
+      "L",
+      "H",
+      "I",
+      "I",
+      "T",
+      "Z",
+      "S",
+      "D"
+    ],
+    [
+      "W",
+      "F",
+      "J",
+      "P",
+      "I",
+      "B",
+      "A",
+      "S",
+      "F",
+      "N",
+      "N",
+      "U"
+    ],
+    [
+      "D",
+      "K",
+      "O",
+      "O",
+      "A",
+      "N",
+      "E",
+      "I",
+      "R",
+      "A",
+      "Z",
+      "N"
+    ],
+    [
+      "U",
+      "K",
+      "R",
+      "A",
+      "I",
+      "N",
+      "E",
+      "L",
+      "L",
+      "A",
+      "X",
+      "D"
+    ],
+    [
+      "K",
+      "R",
+      "D",
+      "L",
+      "B",
+      "Z",
+      "M",
+      "O",
+      "G",
+      "A",
+      "E",
+      "P"
+    ],
+    [
+      "Z",
+      "J",
+      "A",
+      "B",
+      "G",
+      "V",
+      "P",
+      "I",
+      "C",
+      "I",
+      "N",
+      "L"
+    ],
+    [
+      "G",
+      "F",
+      "N",
+      "L",
+      "V",
+      "X",
+      "X",
+      "W",
+      "B",
+      "O",
+      "U",
+      "D"
+    ],
+    [
+      "D",
+      "U",
+      "T",
+      "C",
+      "H",
+      "A",
+      "U",
+      "V",
+      "F",
+      "J",
+      "K",
+      "M"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "THAILAND",
+      "row": 3,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "BELGIUM",
+      "row": 5,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "UKRAINE",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "AUSTRIA",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "POLAND",
+      "row": 9,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "JORDAN",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "ISRAEL",
+      "row": 4,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "TURKEY",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "NORWAY",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "EGYPT",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SPAIN",
+      "row": 2,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "JAPAN",
+      "row": 3,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "KENYA",
+      "row": 3,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "DUTCH",
+      "row": 11,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 453157085
+}

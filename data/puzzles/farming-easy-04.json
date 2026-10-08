@@ -1,0 +1,208 @@
+{
+  "id": "farming-easy-04",
+  "slug": "farming-easy-04",
+  "themeId": "farming",
+  "title": "Farming Word Search (Easy) #04",
+  "primaryKeyword": "farming word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ACRE",
+    "BARLEY",
+    "CHEESE",
+    "FENCE",
+    "GATE",
+    "MILK",
+    "ORCHARD",
+    "SOIL",
+    "SUN",
+    "TRACTOR"
+  ],
+  "grid": [
+    [
+      "A",
+      "A",
+      "A",
+      "B",
+      "A",
+      "R",
+      "L",
+      "E",
+      "Y",
+      "B"
+    ],
+    [
+      "C",
+      "N",
+      "T",
+      "T",
+      "W",
+      "I",
+      "X",
+      "H",
+      "N",
+      "U"
+    ],
+    [
+      "R",
+      "P",
+      "S",
+      "O",
+      "I",
+      "L",
+      "T",
+      "T",
+      "O",
+      "N"
+    ],
+    [
+      "E",
+      "T",
+      "R",
+      "A",
+      "C",
+      "T",
+      "O",
+      "R",
+      "R",
+      "R"
+    ],
+    [
+      "M",
+      "I",
+      "L",
+      "K",
+      "J",
+      "I",
+      "H",
+      "E",
+      "C",
+      "O"
+    ],
+    [
+      "Y",
+      "L",
+      "T",
+      "G",
+      "R",
+      "M",
+      "A",
+      "O",
+      "H",
+      "N"
+    ],
+    [
+      "G",
+      "C",
+      "H",
+      "E",
+      "E",
+      "S",
+      "E",
+      "N",
+      "A",
+      "G"
+    ],
+    [
+      "F",
+      "E",
+      "N",
+      "C",
+      "E",
+      "S",
+      "U",
+      "N",
+      "R",
+      "A"
+    ],
+    [
+      "T",
+      "S",
+      "F",
+      "E",
+      "K",
+      "X",
+      "E",
+      "C",
+      "D",
+      "O"
+    ],
+    [
+      "T",
+      "I",
+      "G",
+      "A",
+      "T",
+      "E",
+      "R",
+      "D",
+      "H",
+      "M"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ORCHARD",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "TRACTOR",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CHEESE",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BARLEY",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "FENCE",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SOIL",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ACRE",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "GATE",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "MILK",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SUN",
+      "row": 7,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1197955015
+}

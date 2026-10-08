@@ -1,0 +1,284 @@
+{
+  "id": "geology-medium-07",
+  "slug": "geology-medium-07",
+  "themeId": "geology",
+  "title": "Geology Word Search (Medium) #07",
+  "primaryKeyword": "geology word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BASALT",
+    "BEDROCK",
+    "BOULDER",
+    "CRYSTAL",
+    "FELDSPAR",
+    "FIELD",
+    "LAB",
+    "LAYER",
+    "MAGMA",
+    "MANTLE",
+    "MICA",
+    "PEBBLE",
+    "SANDSTONE",
+    "SILT"
+  ],
+  "grid": [
+    [
+      "H",
+      "U",
+      "A",
+      "N",
+      "B",
+      "E",
+      "D",
+      "R",
+      "O",
+      "C",
+      "K",
+      "I"
+    ],
+    [
+      "L",
+      "A",
+      "Y",
+      "E",
+      "R",
+      "O",
+      "B",
+      "A",
+      "S",
+      "A",
+      "L",
+      "T"
+    ],
+    [
+      "Y",
+      "M",
+      "A",
+      "G",
+      "M",
+      "A",
+      "N",
+      "T",
+      "L",
+      "E",
+      "P",
+      "F"
+    ],
+    [
+      "I",
+      "L",
+      "Z",
+      "T",
+      "L",
+      "W",
+      "Z",
+      "K",
+      "E",
+      "J",
+      "E",
+      "I"
+    ],
+    [
+      "C",
+      "R",
+      "Y",
+      "S",
+      "T",
+      "A",
+      "L",
+      "N",
+      "D",
+      "F",
+      "B",
+      "E"
+    ],
+    [
+      "F",
+      "F",
+      "C",
+      "B",
+      "T",
+      "Z",
+      "O",
+      "J",
+      "G",
+      "E",
+      "B",
+      "L"
+    ],
+    [
+      "E",
+      "E",
+      "A",
+      "L",
+      "O",
+      "T",
+      "R",
+      "P",
+      "F",
+      "L",
+      "L",
+      "D"
+    ],
+    [
+      "V",
+      "Z",
+      "I",
+      "X",
+      "S",
+      "U",
+      "V",
+      "X",
+      "X",
+      "D",
+      "E",
+      "H"
+    ],
+    [
+      "K",
+      "S",
+      "C",
+      "D",
+      "F",
+      "S",
+      "L",
+      "Q",
+      "O",
+      "S",
+      "P",
+      "F"
+    ],
+    [
+      "V",
+      "W",
+      "N",
+      "X",
+      "W",
+      "Q",
+      "K",
+      "D",
+      "E",
+      "P",
+      "K",
+      "G"
+    ],
+    [
+      "F",
+      "A",
+      "E",
+      "C",
+      "M",
+      "I",
+      "C",
+      "A",
+      "E",
+      "A",
+      "E",
+      "B"
+    ],
+    [
+      "S",
+      "R",
+      "U",
+      "Y",
+      "B",
+      "G",
+      "W",
+      "J",
+      "Y",
+      "R",
+      "I",
+      "O"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SANDSTONE",
+      "row": 11,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "FELDSPAR",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "BEDROCK",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BOULDER",
+      "row": 5,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "CRYSTAL",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BASALT",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "MANTLE",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "PEBBLE",
+      "row": 2,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "LAYER",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "MAGMA",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "FIELD",
+      "row": 2,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "SILT",
+      "row": 8,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "MICA",
+      "row": 10,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "LAB",
+      "row": 3,
+      "col": 4,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 733704544
+}

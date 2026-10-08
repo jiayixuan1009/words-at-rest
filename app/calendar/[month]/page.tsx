@@ -8,6 +8,7 @@ import {
   currentDailyDate,
   formatLongDate,
   getDailyPuzzle,
+  getDailyPuzzles,
   isValidDailyDate,
   getTheme,
 } from "@/lib/data";
@@ -186,6 +187,7 @@ export default async function CalendarMonthPage({ params }: Props) {
                   }
                   const puzzle = getDailyPuzzle(date);
                   const theme = getTheme(puzzle.themeId);
+                  const extra = Math.max(0, getDailyPuzzles(date).length - 1);
                   return (
                     <td key={date} className={`h-20 border border-[#d4cbb8] p-1 align-top ${isToday ? "bg-[#efe7d9]" : "bg-white"}`}>
                       <Link
@@ -199,7 +201,10 @@ export default async function CalendarMonthPage({ params }: Props) {
                         <span className="mt-0.5 text-[0.9375rem] leading-snug text-stone-700">
                           {theme?.name ?? puzzle.themeId}
                         </span>
-                        <span className="text-sm capitalize text-[var(--ink-soft)]">{puzzle.difficulty}</span>
+                        <span className="text-sm capitalize text-[var(--ink-soft)]">
+                          {puzzle.difficulty}
+                          {extra > 0 ? ` · +${extra}` : ""}
+                        </span>
                       </Link>
                     </td>
                   );
@@ -225,6 +230,7 @@ export default async function CalendarMonthPage({ params }: Props) {
           }
           const puzzle = getDailyPuzzle(date);
           const theme = getTheme(puzzle.themeId);
+          const extra = Math.max(0, getDailyPuzzles(date).length - 1);
           const isToday = date === today;
           return (
             <li key={date}>
@@ -238,6 +244,7 @@ export default async function CalendarMonthPage({ params }: Props) {
                 </span>
                 <span className="mt-1 text-[1rem] text-stone-700">
                   {theme?.name ?? puzzle.themeId} · <span className="capitalize">{puzzle.difficulty}</span>
+                  {extra > 0 ? ` · +${extra} more` : ""}
                 </span>
               </Link>
             </li>

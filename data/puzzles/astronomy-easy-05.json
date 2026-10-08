@@ -1,0 +1,208 @@
+{
+  "id": "astronomy-easy-05",
+  "slug": "astronomy-easy-05",
+  "themeId": "astronomy",
+  "title": "Astronomy Word Search (Easy) #05",
+  "primaryKeyword": "astronomy word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ATLAS",
+    "AURORA",
+    "CRATER",
+    "LIGHTYEAR",
+    "NOVA",
+    "PHASE",
+    "SUN",
+    "SUPERNOVA",
+    "TWILIGHT",
+    "ZENITH"
+  ],
+  "grid": [
+    [
+      "H",
+      "S",
+      "K",
+      "E",
+      "K",
+      "C",
+      "Z",
+      "O",
+      "M",
+      "X"
+    ],
+    [
+      "S",
+      "U",
+      "O",
+      "P",
+      "H",
+      "A",
+      "S",
+      "E",
+      "T",
+      "L"
+    ],
+    [
+      "A",
+      "P",
+      "A",
+      "M",
+      "T",
+      "B",
+      "N",
+      "G",
+      "W",
+      "I"
+    ],
+    [
+      "T",
+      "E",
+      "Z",
+      "E",
+      "N",
+      "I",
+      "T",
+      "H",
+      "I",
+      "G"
+    ],
+    [
+      "L",
+      "R",
+      "A",
+      "U",
+      "A",
+      "A",
+      "S",
+      "C",
+      "L",
+      "H"
+    ],
+    [
+      "A",
+      "N",
+      "T",
+      "Y",
+      "U",
+      "G",
+      "U",
+      "R",
+      "I",
+      "T"
+    ],
+    [
+      "S",
+      "O",
+      "Y",
+      "U",
+      "R",
+      "M",
+      "N",
+      "A",
+      "G",
+      "Y"
+    ],
+    [
+      "F",
+      "V",
+      "S",
+      "N",
+      "O",
+      "V",
+      "A",
+      "T",
+      "H",
+      "E"
+    ],
+    [
+      "F",
+      "A",
+      "I",
+      "R",
+      "R",
+      "Q",
+      "S",
+      "E",
+      "T",
+      "A"
+    ],
+    [
+      "G",
+      "C",
+      "U",
+      "H",
+      "A",
+      "T",
+      "J",
+      "R",
+      "W",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SUPERNOVA",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "LIGHTYEAR",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "TWILIGHT",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "CRATER",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "AURORA",
+      "row": 4,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "ZENITH",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ATLAS",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "PHASE",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "NOVA",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SUN",
+      "row": 4,
+      "col": 6,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1861437671
+}

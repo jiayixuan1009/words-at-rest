@@ -1,0 +1,208 @@
+{
+  "id": "friendship-easy-07",
+  "slug": "friendship-easy-07",
+  "themeId": "friendship",
+  "title": "Friendship Word Search (Easy) #07",
+  "primaryKeyword": "friendship word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BUDDY",
+    "CHAT",
+    "CIRCLE",
+    "HONEST",
+    "HOPE",
+    "HUG",
+    "JOY",
+    "NEIGHBOR",
+    "TEA",
+    "TIE"
+  ],
+  "grid": [
+    [
+      "U",
+      "E",
+      "Y",
+      "R",
+      "N",
+      "S",
+      "W",
+      "U",
+      "L",
+      "T"
+    ],
+    [
+      "N",
+      "E",
+      "I",
+      "G",
+      "H",
+      "B",
+      "O",
+      "R",
+      "U",
+      "C"
+    ],
+    [
+      "H",
+      "Z",
+      "Q",
+      "B",
+      "G",
+      "U",
+      "F",
+      "E",
+      "C",
+      "H"
+    ],
+    [
+      "J",
+      "E",
+      "S",
+      "O",
+      "Z",
+      "T",
+      "U",
+      "X",
+      "A",
+      "A"
+    ],
+    [
+      "O",
+      "T",
+      "L",
+      "A",
+      "B",
+      "U",
+      "D",
+      "D",
+      "Y",
+      "T"
+    ],
+    [
+      "Y",
+      "E",
+      "S",
+      "X",
+      "H",
+      "O",
+      "N",
+      "E",
+      "S",
+      "T"
+    ],
+    [
+      "E",
+      "A",
+      "W",
+      "H",
+      "A",
+      "D",
+      "B",
+      "H",
+      "Q",
+      "C"
+    ],
+    [
+      "V",
+      "H",
+      "V",
+      "O",
+      "C",
+      "I",
+      "R",
+      "C",
+      "L",
+      "E"
+    ],
+    [
+      "G",
+      "U",
+      "V",
+      "P",
+      "X",
+      "N",
+      "B",
+      "X",
+      "C",
+      "X"
+    ],
+    [
+      "C",
+      "G",
+      "U",
+      "E",
+      "U",
+      "H",
+      "T",
+      "I",
+      "E",
+      "L"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "NEIGHBOR",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CIRCLE",
+      "row": 7,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "HONEST",
+      "row": 5,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BUDDY",
+      "row": 4,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CHAT",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "HOPE",
+      "row": 6,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "TIE",
+      "row": 9,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "TEA",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "JOY",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "HUG",
+      "row": 7,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 841990508
+}

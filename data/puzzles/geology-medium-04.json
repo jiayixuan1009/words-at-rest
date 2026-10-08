@@ -1,0 +1,284 @@
+{
+  "id": "geology-medium-04",
+  "slug": "geology-medium-04",
+  "themeId": "geology",
+  "title": "Geology Word Search (Medium) #04",
+  "primaryKeyword": "geology word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BEDROCK",
+    "CLAY",
+    "CLIFF",
+    "FOLD",
+    "FOSSIL",
+    "GLACIER",
+    "LAVA",
+    "LIMESTONE",
+    "MICA",
+    "ROCK",
+    "SAMPLE",
+    "SANDSTONE",
+    "SHALE",
+    "SURVEY"
+  ],
+  "grid": [
+    [
+      "F",
+      "G",
+      "F",
+      "S",
+      "B",
+      "E",
+      "D",
+      "R",
+      "O",
+      "C",
+      "K",
+      "P"
+    ],
+    [
+      "O",
+      "U",
+      "F",
+      "R",
+      "E",
+      "C",
+      "R",
+      "R",
+      "Y",
+      "E",
+      "A",
+      "S"
+    ],
+    [
+      "L",
+      "B",
+      "C",
+      "B",
+      "E",
+      "E",
+      "Q",
+      "A",
+      "N",
+      "R",
+      "B",
+      "H"
+    ],
+    [
+      "D",
+      "X",
+      "P",
+      "C",
+      "I",
+      "I",
+      "L",
+      "O",
+      "N",
+      "L",
+      "L",
+      "A"
+    ],
+    [
+      "V",
+      "S",
+      "Z",
+      "C",
+      "L",
+      "C",
+      "T",
+      "F",
+      "I",
+      "E",
+      "I",
+      "L"
+    ],
+    [
+      "Y",
+      "S",
+      "A",
+      "A",
+      "U",
+      "S",
+      "P",
+      "S",
+      "N",
+      "S",
+      "M",
+      "E"
+    ],
+    [
+      "Y",
+      "L",
+      "C",
+      "M",
+      "D",
+      "W",
+      "S",
+      "A",
+      "F",
+      "U",
+      "E",
+      "G"
+    ],
+    [
+      "G",
+      "I",
+      "C",
+      "N",
+      "P",
+      "O",
+      "W",
+      "F",
+      "Z",
+      "R",
+      "S",
+      "L"
+    ],
+    [
+      "M",
+      "L",
+      "A",
+      "K",
+      "F",
+      "L",
+      "I",
+      "T",
+      "I",
+      "V",
+      "T",
+      "F"
+    ],
+    [
+      "J",
+      "S",
+      "C",
+      "X",
+      "S",
+      "L",
+      "E",
+      "T",
+      "G",
+      "E",
+      "O",
+      "Z"
+    ],
+    [
+      "S",
+      "O",
+      "D",
+      "W",
+      "C",
+      "X",
+      "Y",
+      "N",
+      "A",
+      "Y",
+      "N",
+      "B"
+    ],
+    [
+      "R",
+      "Z",
+      "D",
+      "L",
+      "A",
+      "V",
+      "A",
+      "W",
+      "Q",
+      "I",
+      "E",
+      "P"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "LIMESTONE",
+      "row": 3,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "SANDSTONE",
+      "row": 9,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "GLACIER",
+      "row": 7,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "BEDROCK",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SURVEY",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "FOSSIL",
+      "row": 8,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "SAMPLE",
+      "row": 4,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "CLIFF",
+      "row": 10,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "SHALE",
+      "row": 1,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "FOLD",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "ROCK",
+      "row": 11,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "CLAY",
+      "row": 4,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "MICA",
+      "row": 8,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "LAVA",
+      "row": 11,
+      "col": 3,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 861116523
+}

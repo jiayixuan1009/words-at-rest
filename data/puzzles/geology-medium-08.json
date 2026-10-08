@@ -1,0 +1,284 @@
+{
+  "id": "geology-medium-08",
+  "slug": "geology-medium-08",
+  "themeId": "geology",
+  "title": "Geology Word Search (Medium) #08",
+  "primaryKeyword": "geology word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BOULDER",
+    "CANYON",
+    "EROSION",
+    "FELDSPAR",
+    "GRANITE",
+    "MICA",
+    "MORAIN",
+    "OUTCROP",
+    "RIFT",
+    "SAMPLE",
+    "SILT",
+    "SLATE",
+    "SOIL",
+    "SURVEY"
+  ],
+  "grid": [
+    [
+      "D",
+      "O",
+      "M",
+      "X",
+      "I",
+      "E",
+      "C",
+      "S",
+      "R",
+      "V",
+      "X",
+      "R"
+    ],
+    [
+      "S",
+      "U",
+      "R",
+      "P",
+      "G",
+      "R",
+      "A",
+      "N",
+      "I",
+      "T",
+      "E",
+      "J"
+    ],
+    [
+      "A",
+      "T",
+      "W",
+      "F",
+      "M",
+      "E",
+      "P",
+      "O",
+      "L",
+      "I",
+      "N",
+      "G"
+    ],
+    [
+      "M",
+      "C",
+      "S",
+      "E",
+      "O",
+      "W",
+      "W",
+      "I",
+      "O",
+      "G",
+      "E",
+      "R"
+    ],
+    [
+      "P",
+      "R",
+      "L",
+      "L",
+      "R",
+      "J",
+      "O",
+      "M",
+      "O",
+      "U",
+      "R",
+      "I"
+    ],
+    [
+      "L",
+      "O",
+      "A",
+      "D",
+      "A",
+      "S",
+      "R",
+      "Y",
+      "D",
+      "R",
+      "O",
+      "H"
+    ],
+    [
+      "E",
+      "P",
+      "T",
+      "S",
+      "I",
+      "N",
+      "V",
+      "A",
+      "E",
+      "P",
+      "S",
+      "Z"
+    ],
+    [
+      "R",
+      "S",
+      "E",
+      "P",
+      "N",
+      "H",
+      "X",
+      "D",
+      "Y",
+      "I",
+      "I",
+      "A"
+    ],
+    [
+      "I",
+      "I",
+      "K",
+      "A",
+      "M",
+      "Q",
+      "L",
+      "B",
+      "Z",
+      "K",
+      "O",
+      "M"
+    ],
+    [
+      "F",
+      "L",
+      "M",
+      "R",
+      "S",
+      "U",
+      "R",
+      "V",
+      "E",
+      "Y",
+      "N",
+      "C"
+    ],
+    [
+      "T",
+      "T",
+      "Z",
+      "Q",
+      "O",
+      "Q",
+      "C",
+      "A",
+      "N",
+      "Y",
+      "O",
+      "N"
+    ],
+    [
+      "A",
+      "G",
+      "O",
+      "B",
+      "F",
+      "H",
+      "K",
+      "M",
+      "I",
+      "C",
+      "A",
+      "U"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FELDSPAR",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "EROSION",
+      "row": 3,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "BOULDER",
+      "row": 11,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "GRANITE",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "OUTCROP",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "MORAIN",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "CANYON",
+      "row": 10,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "SAMPLE",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SURVEY",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SLATE",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "MICA",
+      "row": 11,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "SOIL",
+      "row": 5,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "SILT",
+      "row": 7,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "RIFT",
+      "row": 7,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 809849857
+}

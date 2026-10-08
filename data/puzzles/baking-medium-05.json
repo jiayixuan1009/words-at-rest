@@ -1,0 +1,284 @@
+{
+  "id": "baking-medium-05",
+  "slug": "baking-medium-05",
+  "themeId": "baking",
+  "title": "Baking Word Search (Medium) #05",
+  "primaryKeyword": "baking word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BAKE",
+    "BATTER",
+    "CRUMB",
+    "CRUST",
+    "FLOUR",
+    "FOLD",
+    "FROST",
+    "LOAF",
+    "MIX",
+    "MUFFIN",
+    "PREHEAT",
+    "PROOF",
+    "SCONE",
+    "STEAM"
+  ],
+  "grid": [
+    [
+      "G",
+      "D",
+      "F",
+      "Q",
+      "B",
+      "A",
+      "B",
+      "A",
+      "T",
+      "T",
+      "E",
+      "R"
+    ],
+    [
+      "S",
+      "B",
+      "Z",
+      "X",
+      "R",
+      "B",
+      "P",
+      "C",
+      "R",
+      "U",
+      "M",
+      "B"
+    ],
+    [
+      "Q",
+      "B",
+      "Q",
+      "U",
+      "M",
+      "U",
+      "F",
+      "F",
+      "I",
+      "N",
+      "A",
+      "X"
+    ],
+    [
+      "H",
+      "W",
+      "O",
+      "L",
+      "Z",
+      "C",
+      "F",
+      "A",
+      "G",
+      "K",
+      "Q",
+      "C"
+    ],
+    [
+      "O",
+      "L",
+      "H",
+      "V",
+      "P",
+      "R",
+      "O",
+      "O",
+      "F",
+      "G",
+      "D",
+      "P"
+    ],
+    [
+      "F",
+      "S",
+      "F",
+      "O",
+      "L",
+      "D",
+      "S",
+      "C",
+      "O",
+      "N",
+      "E",
+      "X"
+    ],
+    [
+      "F",
+      "R",
+      "O",
+      "S",
+      "T",
+      "R",
+      "C",
+      "C",
+      "I",
+      "I",
+      "I",
+      "A"
+    ],
+    [
+      "K",
+      "K",
+      "J",
+      "K",
+      "C",
+      "L",
+      "O",
+      "A",
+      "F",
+      "M",
+      "U",
+      "R"
+    ],
+    [
+      "J",
+      "Z",
+      "F",
+      "M",
+      "L",
+      "K",
+      "I",
+      "M",
+      "O",
+      "O",
+      "X",
+      "K"
+    ],
+    [
+      "P",
+      "R",
+      "E",
+      "H",
+      "E",
+      "A",
+      "T",
+      "C",
+      "R",
+      "U",
+      "S",
+      "T"
+    ],
+    [
+      "F",
+      "B",
+      "B",
+      "A",
+      "K",
+      "E",
+      "B",
+      "N",
+      "J",
+      "V",
+      "G",
+      "Q"
+    ],
+    [
+      "L",
+      "A",
+      "O",
+      "V",
+      "R",
+      "S",
+      "T",
+      "E",
+      "A",
+      "M",
+      "S",
+      "L"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PREHEAT",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "MUFFIN",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BATTER",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "FROST",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "STEAM",
+      "row": 11,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SCONE",
+      "row": 5,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "PROOF",
+      "row": 4,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CRUMB",
+      "row": 1,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "FLOUR",
+      "row": 5,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "CRUST",
+      "row": 9,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "BAKE",
+      "row": 10,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "LOAF",
+      "row": 7,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "FOLD",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "MIX",
+      "row": 7,
+      "col": 9,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1844660052
+}

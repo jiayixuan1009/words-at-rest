@@ -1,0 +1,208 @@
+{
+  "id": "cats-easy-05",
+  "slug": "cats-easy-05",
+  "themeId": "cats",
+  "title": "Cats Word Search (Easy) #05",
+  "primaryKeyword": "cats word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BOWL",
+    "CLIMB",
+    "CURTAIN",
+    "EAR",
+    "EYE",
+    "MEOW",
+    "MOUSE",
+    "PERSIAN",
+    "POST",
+    "STRETCH"
+  ],
+  "grid": [
+    [
+      "S",
+      "B",
+      "B",
+      "S",
+      "T",
+      "R",
+      "E",
+      "T",
+      "C",
+      "H"
+    ],
+    [
+      "O",
+      "M",
+      "V",
+      "A",
+      "F",
+      "L",
+      "J",
+      "P",
+      "U",
+      "Q"
+    ],
+    [
+      "E",
+      "B",
+      "M",
+      "O",
+      "U",
+      "S",
+      "E",
+      "I",
+      "R",
+      "P"
+    ],
+    [
+      "H",
+      "K",
+      "M",
+      "N",
+      "E",
+      "C",
+      "Z",
+      "T",
+      "T",
+      "E"
+    ],
+    [
+      "J",
+      "O",
+      "B",
+      "Q",
+      "Y",
+      "L",
+      "H",
+      "E",
+      "A",
+      "R"
+    ],
+    [
+      "P",
+      "N",
+      "O",
+      "M",
+      "E",
+      "I",
+      "X",
+      "A",
+      "I",
+      "S"
+    ],
+    [
+      "O",
+      "H",
+      "W",
+      "E",
+      "Z",
+      "M",
+      "L",
+      "R",
+      "N",
+      "I"
+    ],
+    [
+      "S",
+      "G",
+      "L",
+      "O",
+      "E",
+      "B",
+      "C",
+      "R",
+      "P",
+      "A"
+    ],
+    [
+      "T",
+      "H",
+      "W",
+      "W",
+      "J",
+      "S",
+      "T",
+      "Z",
+      "Y",
+      "N"
+    ],
+    [
+      "Z",
+      "O",
+      "R",
+      "Q",
+      "J",
+      "C",
+      "H",
+      "N",
+      "L",
+      "J"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "STRETCH",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "CURTAIN",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "PERSIAN",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "MOUSE",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CLIMB",
+      "row": 3,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "BOWL",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "MEOW",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "POST",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "EAR",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "EYE",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1514828154
+}

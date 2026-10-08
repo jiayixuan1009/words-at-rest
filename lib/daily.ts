@@ -1,13 +1,20 @@
 /**
  * Daily puzzle schedule helpers (pure — no JSON import).
  *
- * - data/daily.json holds one entry per date from 2026-10-07 onward.
+ * - data/daily.json holds schedule entries from 2026-10-07 onward.
+ * - From 2026-10-08 (top-up) onward each UTC date targets **10** puzzles: slot 1 is
+ *   the featured daily (/daily, homepage, calendar highlight); slots 2–10 are
+ *   "Also today" siblings. Each new entry is also a real theme-catalog puzzle
+ *   (id/slug `{theme}-{difficulty}-{nn}` under data/puzzles/).
+ * - Legacy dates may still have a single `daily-YYYY-MM-DD` entry (slot 1); those
+ *   grids are never rewritten once public.
  * - Launch day is frozen in data/daily-launch.json; missing dates are unpublished.
- * - Difficulty by UTC weekday: Sun/Mon/Wed easy, Tue/Thu/Fri medium, Sat hard.
- * - Theme rotation prefers seasonal themes in season; never repeats within 5 days;
+ * - Featured difficulty by UTC weekday: Sun/Mon/Wed easy, Tue/Thu/Fri medium, Sat hard.
+ *   Sibling slots cycle easy/medium/hard (see siblingDifficultyForSlot).
+ * - Theme rotation prefers seasonal themes in season; featured themes do not repeat within the previous 5 days; themes within one date are unique;
  *   excludes hard-pack and large-print-pack.
  * - /daily/[date] for dates > today UTC 404; entries are pre-queued so midnight
- *   UTC unlocks today's puzzle without a deploy.
+ *   UTC unlocks today's puzzles without a deploy.
  */
 import type { Difficulty, Placement, Puzzle } from "./types";
 
@@ -16,7 +23,9 @@ export const DAILY_SCHEDULE_START = "2026-10-07";
 export const DAILY_BUFFER_DAYS = 7;
 /** Generation target; the required minimum remains seven days. */
 export const DAILY_TARGET_BUFFER_DAYS = 30;
-/** Same theme must not reappear within this many preceding days. */
+/** How many puzzles each UTC date should carry (featured + Also today). */
+export const DAILY_PER_DATE = 10;
+/** Same theme must not reappear within this many preceding days (any slot). */
 export const DAILY_THEME_GAP_DAYS = 5;
 /** Max Jaccard overlap of word sets vs any existing puzzle of the same theme. */
 export const DAILY_MAX_WORD_OVERLAP = 0.7;
@@ -29,6 +38,13 @@ export const DAILY_EXCLUDED_THEMES = new Set(["hard-pack", "large-print-pack"]);
 
 export interface DailyEntry {
   date: string;
+  /**
+   * 1 = featured (what /daily and homepage play). 2–10 = Also today siblings.
+   * Omitted on legacy single-entry dates → treated as 1.
+   */
+  slot?: number;
+  /** Explicit featured flag; defaults to slot === 1 when omitted. */
+  featured?: boolean;
   id: string;
   slug: string;
   themeId: string;
@@ -72,12 +88,40 @@ export function dailyEntryToPuzzle(e: DailyEntry): Puzzle {
   };
 }
 
-/** UTC weekday 0=Sun … 6=Sat → difficulty. */
+/** UTC weekday 0=Sun … 6=Sat → featured (slot 1) difficulty. */
 export function difficultyForUtcDate(date: string): Difficulty {
   const wd = new Date(`${date}T00:00:00Z`).getUTCDay();
   if (wd === 0 || wd === 1 || wd === 3) return "easy";
   if (wd === 6) return "hard";
   return "medium";
+}
+
+/** Slot 1 uses the weekday pattern; siblings 2–10 cycle easy → medium → hard. */
+export function difficultyForDailySlot(date: string, slot: number): Difficulty {
+  if (slot <= 1) return difficultyForUtcDate(date);
+  const cycle: Difficulty[] = ["easy", "medium", "hard"];
+  return cycle[(slot - 2) % 3];
+}
+
+export function dailySlotOf(e: DailyEntry): number {
+  return e.slot ?? 1;
+}
+
+export function isFeaturedDaily(e: DailyEntry): boolean {
+  if (typeof e.featured === "boolean") return e.featured;
+  return dailySlotOf(e) === 1;
+}
+
+/** Stable sort: date, then slot ascending. */
+export function compareDailyEntries(a: DailyEntry, b: DailyEntry): number {
+  const d = a.date.localeCompare(b.date);
+  if (d) return d;
+  return dailySlotOf(a) - dailySlotOf(b);
+}
+
+/** Legacy id daily-YYYY-MM-DD (pre multi-slot) or catalog {theme}-{diff}-{nn}. */
+export function isLegacyDailyId(id: string, date: string): boolean {
+  return id === `daily-${date}`;
 }
 
 /**
@@ -118,9 +162,10 @@ export function gridFingerprint(grid: string[][]): string {
   return grid.map((row) => row.join("")).join("|");
 }
 
-export function dailyTitle(themeName: string, difficulty: Difficulty): string {
+export function dailyTitle(themeName: string, difficulty: Difficulty, slot = 1): string {
   const label = difficulty.charAt(0).toUpperCase() + difficulty.slice(1);
-  return `Daily Word Search: ${themeName} (${label})`;
+  if (slot <= 1) return `Daily Word Search: ${themeName} (${label})`;
+  return `${themeName} Word Search (${label})`;
 }
 
 /** Add N calendar days to YYYY-MM-DD (UTC). */

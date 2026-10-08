@@ -1,0 +1,208 @@
+{
+  "id": "astronomy-easy-04",
+  "slug": "astronomy-easy-04",
+  "themeId": "astronomy",
+  "title": "Astronomy Word Search (Easy) #04",
+  "primaryKeyword": "astronomy word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ATLAS",
+    "AXIS",
+    "COMET",
+    "DAWN",
+    "ECLIPSE",
+    "GAS",
+    "NIGHT",
+    "NOVA",
+    "ORBIT",
+    "ZENITH"
+  ],
+  "grid": [
+    [
+      "W",
+      "K",
+      "O",
+      "D",
+      "V",
+      "E",
+      "A",
+      "J",
+      "C",
+      "F"
+    ],
+    [
+      "U",
+      "T",
+      "R",
+      "H",
+      "Z",
+      "C",
+      "T",
+      "P",
+      "O",
+      "D"
+    ],
+    [
+      "J",
+      "J",
+      "B",
+      "G",
+      "U",
+      "L",
+      "L",
+      "W",
+      "M",
+      "A"
+    ],
+    [
+      "I",
+      "Q",
+      "I",
+      "M",
+      "S",
+      "I",
+      "A",
+      "C",
+      "E",
+      "W"
+    ],
+    [
+      "Q",
+      "L",
+      "T",
+      "Y",
+      "Z",
+      "P",
+      "S",
+      "E",
+      "T",
+      "N"
+    ],
+    [
+      "A",
+      "X",
+      "I",
+      "S",
+      "E",
+      "S",
+      "I",
+      "O",
+      "X",
+      "Y"
+    ],
+    [
+      "G",
+      "N",
+      "N",
+      "H",
+      "N",
+      "E",
+      "O",
+      "O",
+      "X",
+      "Q"
+    ],
+    [
+      "A",
+      "O",
+      "Q",
+      "D",
+      "I",
+      "N",
+      "I",
+      "G",
+      "H",
+      "T"
+    ],
+    [
+      "S",
+      "V",
+      "D",
+      "A",
+      "T",
+      "Q",
+      "F",
+      "O",
+      "Z",
+      "S"
+    ],
+    [
+      "H",
+      "A",
+      "F",
+      "E",
+      "H",
+      "M",
+      "M",
+      "E",
+      "D",
+      "M"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ECLIPSE",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "ZENITH",
+      "row": 4,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "NIGHT",
+      "row": 7,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "ATLAS",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "COMET",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "ORBIT",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "DAWN",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "AXIS",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "NOVA",
+      "row": 6,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "GAS",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1280309977
+}

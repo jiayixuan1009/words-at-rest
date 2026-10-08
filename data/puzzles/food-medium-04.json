@@ -1,0 +1,284 @@
+{
+  "id": "food-medium-04",
+  "slug": "food-medium-04",
+  "themeId": "food",
+  "title": "Food Word Search (Medium) #04",
+  "primaryKeyword": "food word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BAKERY",
+    "BUTTER",
+    "CITRUS",
+    "COCOA",
+    "FRUIT",
+    "GARLIC",
+    "GRAVY",
+    "HERB",
+    "MARKET",
+    "MILK",
+    "PASTA",
+    "PRODUCE",
+    "STEW",
+    "TIMER"
+  ],
+  "grid": [
+    [
+      "C",
+      "G",
+      "M",
+      "H",
+      "I",
+      "C",
+      "O",
+      "C",
+      "O",
+      "A",
+      "Y",
+      "Y"
+    ],
+    [
+      "N",
+      "J",
+      "A",
+      "C",
+      "I",
+      "T",
+      "R",
+      "U",
+      "S",
+      "B",
+      "V",
+      "P"
+    ],
+    [
+      "E",
+      "L",
+      "R",
+      "X",
+      "W",
+      "S",
+      "C",
+      "F",
+      "R",
+      "A",
+      "G",
+      "Q"
+    ],
+    [
+      "I",
+      "V",
+      "K",
+      "S",
+      "B",
+      "K",
+      "G",
+      "E",
+      "R",
+      "E",
+      "P",
+      "V"
+    ],
+    [
+      "B",
+      "F",
+      "E",
+      "I",
+      "U",
+      "F",
+      "H",
+      "G",
+      "K",
+      "K",
+      "E",
+      "I"
+    ],
+    [
+      "A",
+      "F",
+      "T",
+      "D",
+      "T",
+      "P",
+      "C",
+      "Y",
+      "X",
+      "O",
+      "T",
+      "F"
+    ],
+    [
+      "K",
+      "M",
+      "G",
+      "N",
+      "T",
+      "R",
+      "R",
+      "V",
+      "O",
+      "D",
+      "I",
+      "R"
+    ],
+    [
+      "E",
+      "I",
+      "A",
+      "R",
+      "E",
+      "P",
+      "S",
+      "O",
+      "X",
+      "N",
+      "M",
+      "U"
+    ],
+    [
+      "R",
+      "L",
+      "R",
+      "X",
+      "R",
+      "A",
+      "L",
+      "T",
+      "D",
+      "F",
+      "E",
+      "I"
+    ],
+    [
+      "Y",
+      "K",
+      "L",
+      "H",
+      "R",
+      "S",
+      "P",
+      "S",
+      "E",
+      "U",
+      "R",
+      "T"
+    ],
+    [
+      "H",
+      "E",
+      "I",
+      "U",
+      "C",
+      "T",
+      "Z",
+      "F",
+      "I",
+      "W",
+      "C",
+      "I"
+    ],
+    [
+      "G",
+      "E",
+      "C",
+      "Q",
+      "Z",
+      "A",
+      "O",
+      "T",
+      "X",
+      "M",
+      "C",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PRODUCE",
+      "row": 5,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "GARLIC",
+      "row": 6,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "MARKET",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "BUTTER",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "BAKERY",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CITRUS",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "GRAVY",
+      "row": 4,
+      "col": 7,
+      "direction": "NE"
+    },
+    {
+      "word": "COCOA",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "TIMER",
+      "row": 5,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "PASTA",
+      "row": 7,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "FRUIT",
+      "row": 5,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "HERB",
+      "row": 4,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "STEW",
+      "row": 7,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "MILK",
+      "row": 6,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 760450809
+}

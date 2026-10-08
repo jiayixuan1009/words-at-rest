@@ -1,0 +1,284 @@
+{
+  "id": "dinosaurs-medium-07",
+  "slug": "dinosaurs-medium-07",
+  "themeId": "dinosaurs",
+  "title": "Dinosaurs Word Search (Medium) #07",
+  "primaryKeyword": "dinosaurs word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "AMBER",
+    "ANKYLOSAUR",
+    "CAST",
+    "CLAW",
+    "ERA",
+    "EXTINCT",
+    "FOSSIL",
+    "PALEONTOLOGY",
+    "PLESIOSAUR",
+    "ROCK",
+    "SITE",
+    "TEETH",
+    "THEROPOD",
+    "TYRANNOSAUR"
+  ],
+  "grid": [
+    [
+      "P",
+      "W",
+      "R",
+      "O",
+      "C",
+      "K",
+      "G",
+      "S",
+      "R",
+      "D",
+      "Z",
+      "Y"
+    ],
+    [
+      "L",
+      "E",
+      "I",
+      "A",
+      "K",
+      "J",
+      "R",
+      "R",
+      "O",
+      "W",
+      "G",
+      "R"
+    ],
+    [
+      "E",
+      "X",
+      "B",
+      "Z",
+      "E",
+      "H",
+      "H",
+      "P",
+      "A",
+      "O",
+      "U",
+      "A"
+    ],
+    [
+      "S",
+      "T",
+      "T",
+      "H",
+      "M",
+      "T",
+      "O",
+      "L",
+      "L",
+      "A",
+      "G",
+      "N"
+    ],
+    [
+      "I",
+      "I",
+      "R",
+      "Q",
+      "E",
+      "R",
+      "C",
+      "O",
+      "S",
+      "D",
+      "P",
+      "K"
+    ],
+    [
+      "O",
+      "N",
+      "W",
+      "E",
+      "E",
+      "W",
+      "T",
+      "O",
+      "H",
+      "E",
+      "M",
+      "Y"
+    ],
+    [
+      "S",
+      "C",
+      "T",
+      "H",
+      "G",
+      "N",
+      "N",
+      "J",
+      "L",
+      "M",
+      "T",
+      "L"
+    ],
+    [
+      "A",
+      "T",
+      "T",
+      "V",
+      "O",
+      "N",
+      "O",
+      "I",
+      "T",
+      "S",
+      "A",
+      "O"
+    ],
+    [
+      "U",
+      "I",
+      "A",
+      "E",
+      "A",
+      "I",
+      "S",
+      "M",
+      "A",
+      "S",
+      "M",
+      "S"
+    ],
+    [
+      "R",
+      "R",
+      "L",
+      "R",
+      "V",
+      "S",
+      "F",
+      "C",
+      "P",
+      "I",
+      "B",
+      "A"
+    ],
+    [
+      "E",
+      "A",
+      "Y",
+      "P",
+      "O",
+      "V",
+      "H",
+      "L",
+      "K",
+      "T",
+      "E",
+      "U"
+    ],
+    [
+      "P",
+      "T",
+      "N",
+      "F",
+      "X",
+      "Z",
+      "K",
+      "C",
+      "W",
+      "E",
+      "R",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PALEONTOLOGY",
+      "row": 11,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "TYRANNOSAUR",
+      "row": 11,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "ANKYLOSAUR",
+      "row": 2,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "PLESIOSAUR",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "THEROPOD",
+      "row": 7,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "EXTINCT",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "FOSSIL",
+      "row": 11,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "AMBER",
+      "row": 7,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "TEETH",
+      "row": 6,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "CLAW",
+      "row": 4,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "SITE",
+      "row": 8,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "CAST",
+      "row": 9,
+      "col": 7,
+      "direction": "NE"
+    },
+    {
+      "word": "ROCK",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ERA",
+      "row": 10,
+      "col": 0,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1141001096
+}

@@ -1,0 +1,208 @@
+{
+  "id": "cats-easy-04",
+  "slug": "cats-easy-04",
+  "themeId": "cats",
+  "title": "Cats Word Search (Easy) #04",
+  "primaryKeyword": "cats word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BRUSH",
+    "CREEP",
+    "CURTAIN",
+    "HUNT",
+    "KIT",
+    "LAZY",
+    "MEOW",
+    "NEST",
+    "TREE",
+    "YARN"
+  ],
+  "grid": [
+    [
+      "Z",
+      "K",
+      "N",
+      "K",
+      "H",
+      "V",
+      "U",
+      "D",
+      "V",
+      "G"
+    ],
+    [
+      "T",
+      "L",
+      "E",
+      "I",
+      "S",
+      "Z",
+      "Y",
+      "A",
+      "V",
+      "S"
+    ],
+    [
+      "C",
+      "A",
+      "S",
+      "T",
+      "P",
+      "H",
+      "N",
+      "N",
+      "M",
+      "O"
+    ],
+    [
+      "R",
+      "Z",
+      "T",
+      "C",
+      "U",
+      "R",
+      "T",
+      "A",
+      "I",
+      "N"
+    ],
+    [
+      "E",
+      "Y",
+      "S",
+      "P",
+      "R",
+      "M",
+      "L",
+      "Z",
+      "G",
+      "Y"
+    ],
+    [
+      "E",
+      "N",
+      "C",
+      "H",
+      "R",
+      "E",
+      "B",
+      "H",
+      "R",
+      "Z"
+    ],
+    [
+      "P",
+      "M",
+      "Y",
+      "U",
+      "X",
+      "O",
+      "D",
+      "F",
+      "M",
+      "A"
+    ],
+    [
+      "X",
+      "S",
+      "A",
+      "N",
+      "D",
+      "W",
+      "M",
+      "Z",
+      "R",
+      "A"
+    ],
+    [
+      "R",
+      "D",
+      "R",
+      "T",
+      "R",
+      "E",
+      "E",
+      "P",
+      "V",
+      "R"
+    ],
+    [
+      "K",
+      "F",
+      "N",
+      "B",
+      "R",
+      "U",
+      "S",
+      "H",
+      "P",
+      "I"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CURTAIN",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "CREEP",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BRUSH",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "YARN",
+      "row": 6,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "MEOW",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "TREE",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "NEST",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "LAZY",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "HUNT",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "KIT",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 584999611
+}

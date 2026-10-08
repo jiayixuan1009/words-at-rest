@@ -1,0 +1,284 @@
+{
+  "id": "cooking-medium-06",
+  "slug": "cooking-medium-06",
+  "themeId": "cooking",
+  "title": "Cooking Word Search (Medium) #06",
+  "primaryKeyword": "cooking word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BROTH",
+    "CHOP",
+    "DOUGH",
+    "FRY",
+    "GRAVY",
+    "LADLE",
+    "PEPPER",
+    "SAUTE",
+    "SEASON",
+    "SKILLET",
+    "SLICE",
+    "STOCK",
+    "STOVE",
+    "TASTE"
+  ],
+  "grid": [
+    [
+      "D",
+      "N",
+      "B",
+      "B",
+      "F",
+      "B",
+      "D",
+      "P",
+      "O",
+      "D",
+      "I",
+      "Y"
+    ],
+    [
+      "U",
+      "L",
+      "H",
+      "R",
+      "C",
+      "R",
+      "H",
+      "T",
+      "O",
+      "P",
+      "J",
+      "E"
+    ],
+    [
+      "P",
+      "A",
+      "L",
+      "F",
+      "O",
+      "N",
+      "Y",
+      "T",
+      "G",
+      "E",
+      "S",
+      "A"
+    ],
+    [
+      "V",
+      "D",
+      "I",
+      "I",
+      "T",
+      "T",
+      "E",
+      "O",
+      "H",
+      "P",
+      "M",
+      "C"
+    ],
+    [
+      "G",
+      "L",
+      "K",
+      "V",
+      "E",
+      "L",
+      "H",
+      "A",
+      "D",
+      "P",
+      "M",
+      "S"
+    ],
+    [
+      "S",
+      "E",
+      "Z",
+      "T",
+      "L",
+      "S",
+      "A",
+      "U",
+      "T",
+      "E",
+      "N",
+      "T"
+    ],
+    [
+      "W",
+      "Y",
+      "S",
+      "I",
+      "S",
+      "S",
+      "Z",
+      "P",
+      "X",
+      "R",
+      "F",
+      "O"
+    ],
+    [
+      "W",
+      "A",
+      "K",
+      "W",
+      "E",
+      "T",
+      "S",
+      "L",
+      "I",
+      "C",
+      "E",
+      "C"
+    ],
+    [
+      "T",
+      "S",
+      "K",
+      "B",
+      "A",
+      "O",
+      "G",
+      "R",
+      "A",
+      "V",
+      "Y",
+      "K"
+    ],
+    [
+      "Z",
+      "W",
+      "J",
+      "U",
+      "S",
+      "V",
+      "D",
+      "O",
+      "U",
+      "G",
+      "H",
+      "N"
+    ],
+    [
+      "F",
+      "K",
+      "P",
+      "S",
+      "O",
+      "E",
+      "U",
+      "F",
+      "C",
+      "H",
+      "O",
+      "P"
+    ],
+    [
+      "T",
+      "C",
+      "I",
+      "Y",
+      "N",
+      "Z",
+      "K",
+      "G",
+      "V",
+      "C",
+      "M",
+      "Y"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SKILLET",
+      "row": 8,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "SEASON",
+      "row": 6,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "PEPPER",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "STOVE",
+      "row": 6,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "SLICE",
+      "row": 7,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "BROTH",
+      "row": 0,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "DOUGH",
+      "row": 9,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "GRAVY",
+      "row": 8,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "TASTE",
+      "row": 8,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "STOCK",
+      "row": 4,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "SAUTE",
+      "row": 5,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "LADLE",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "CHOP",
+      "row": 10,
+      "col": 8,
+      "direction": "E"
+    },
+    {
+      "word": "FRY",
+      "row": 0,
+      "col": 4,
+      "direction": "SE"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 374691392
+}

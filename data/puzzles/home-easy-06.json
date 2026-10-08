@@ -1,0 +1,208 @@
+{
+  "id": "home-easy-06",
+  "slug": "home-easy-06",
+  "themeId": "home",
+  "title": "Home Word Search (Easy) #06",
+  "primaryKeyword": "home word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ABODE",
+    "ATTIC",
+    "CELLAR",
+    "CHIMNEY",
+    "COZY",
+    "FENCE",
+    "GARDEN",
+    "GATE",
+    "SHELF",
+    "WARM"
+  ],
+  "grid": [
+    [
+      "L",
+      "M",
+      "T",
+      "W",
+      "A",
+      "R",
+      "M",
+      "P",
+      "J",
+      "E"
+    ],
+    [
+      "N",
+      "C",
+      "H",
+      "I",
+      "M",
+      "N",
+      "E",
+      "Y",
+      "W",
+      "Q"
+    ],
+    [
+      "R",
+      "H",
+      "K",
+      "F",
+      "G",
+      "A",
+      "R",
+      "D",
+      "E",
+      "N"
+    ],
+    [
+      "R",
+      "C",
+      "E",
+      "L",
+      "L",
+      "A",
+      "R",
+      "W",
+      "A",
+      "Y"
+    ],
+    [
+      "C",
+      "Z",
+      "D",
+      "A",
+      "T",
+      "T",
+      "I",
+      "C",
+      "B",
+      "W"
+    ],
+    [
+      "K",
+      "R",
+      "R",
+      "F",
+      "F",
+      "H",
+      "I",
+      "F",
+      "O",
+      "S"
+    ],
+    [
+      "C",
+      "C",
+      "D",
+      "F",
+      "E",
+      "N",
+      "C",
+      "E",
+      "D",
+      "H"
+    ],
+    [
+      "M",
+      "N",
+      "Z",
+      "C",
+      "O",
+      "Z",
+      "Y",
+      "A",
+      "E",
+      "E"
+    ],
+    [
+      "Y",
+      "B",
+      "I",
+      "P",
+      "R",
+      "A",
+      "C",
+      "O",
+      "K",
+      "L"
+    ],
+    [
+      "G",
+      "B",
+      "G",
+      "A",
+      "T",
+      "E",
+      "Z",
+      "F",
+      "W",
+      "F"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CHIMNEY",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CELLAR",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "GARDEN",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "ABODE",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "FENCE",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SHELF",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "ATTIC",
+      "row": 4,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "GATE",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "COZY",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "WARM",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1555506626
+}

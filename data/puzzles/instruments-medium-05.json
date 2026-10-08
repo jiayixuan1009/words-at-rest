@@ -1,0 +1,284 @@
+{
+  "id": "instruments-medium-05",
+  "slug": "instruments-medium-05",
+  "themeId": "instruments",
+  "title": "Instruments Word Search (Medium) #05",
+  "primaryKeyword": "musical instruments word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BASS",
+    "BASSOON",
+    "DRUM",
+    "GONG",
+    "GUITAR",
+    "HARMONICA",
+    "HARP",
+    "HORN",
+    "ORGAN",
+    "SAXOPHONE",
+    "TRUMPET",
+    "TUBA",
+    "UKULELE",
+    "VIOLA"
+  ],
+  "grid": [
+    [
+      "D",
+      "A",
+      "D",
+      "R",
+      "C",
+      "B",
+      "A",
+      "S",
+      "S",
+      "O",
+      "O",
+      "N"
+    ],
+    [
+      "X",
+      "J",
+      "J",
+      "V",
+      "G",
+      "J",
+      "O",
+      "A",
+      "T",
+      "U",
+      "B",
+      "A"
+    ],
+    [
+      "K",
+      "X",
+      "E",
+      "I",
+      "U",
+      "L",
+      "R",
+      "X",
+      "S",
+      "F",
+      "C",
+      "O"
+    ],
+    [
+      "U",
+      "H",
+      "C",
+      "O",
+      "I",
+      "H",
+      "G",
+      "O",
+      "B",
+      "T",
+      "W",
+      "L"
+    ],
+    [
+      "H",
+      "E",
+      "D",
+      "L",
+      "T",
+      "A",
+      "A",
+      "P",
+      "U",
+      "R",
+      "Q",
+      "F"
+    ],
+    [
+      "D",
+      "A",
+      "F",
+      "A",
+      "A",
+      "R",
+      "N",
+      "H",
+      "K",
+      "U",
+      "F",
+      "N"
+    ],
+    [
+      "V",
+      "L",
+      "R",
+      "Q",
+      "R",
+      "M",
+      "U",
+      "O",
+      "U",
+      "M",
+      "L",
+      "Q"
+    ],
+    [
+      "F",
+      "S",
+      "I",
+      "P",
+      "O",
+      "O",
+      "U",
+      "N",
+      "L",
+      "P",
+      "D",
+      "U"
+    ],
+    [
+      "X",
+      "N",
+      "A",
+      "B",
+      "X",
+      "N",
+      "V",
+      "E",
+      "E",
+      "E",
+      "R",
+      "V"
+    ],
+    [
+      "H",
+      "O",
+      "R",
+      "N",
+      "S",
+      "I",
+      "G",
+      "D",
+      "L",
+      "T",
+      "U",
+      "Z"
+    ],
+    [
+      "R",
+      "Y",
+      "X",
+      "O",
+      "J",
+      "C",
+      "K",
+      "W",
+      "E",
+      "D",
+      "M",
+      "E"
+    ],
+    [
+      "N",
+      "O",
+      "G",
+      "M",
+      "J",
+      "A",
+      "U",
+      "I",
+      "G",
+      "O",
+      "N",
+      "G"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SAXOPHONE",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "HARMONICA",
+      "row": 3,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "TRUMPET",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "UKULELE",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "BASSOON",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "GUITAR",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "ORGAN",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "VIOLA",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "GONG",
+      "row": 11,
+      "col": 8,
+      "direction": "E"
+    },
+    {
+      "word": "HORN",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "HARP",
+      "row": 4,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "DRUM",
+      "row": 7,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "TUBA",
+      "row": 1,
+      "col": 8,
+      "direction": "E"
+    },
+    {
+      "word": "BASS",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1743994338
+}

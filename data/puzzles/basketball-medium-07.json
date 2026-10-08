@@ -1,0 +1,284 @@
+{
+  "id": "basketball-medium-07",
+  "slug": "basketball-medium-07",
+  "themeId": "basketball",
+  "title": "Basketball Word Search (Medium) #07",
+  "primaryKeyword": "basketball word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ASSIST",
+    "BACKBOARD",
+    "COACH",
+    "DRIBBLE",
+    "FOUL",
+    "JERSEY",
+    "PICK",
+    "PRESS",
+    "REBOUND",
+    "REF",
+    "SCORE",
+    "SWEAT",
+    "TIMEOUT",
+    "WARMUP"
+  ],
+  "grid": [
+    [
+      "E",
+      "P",
+      "I",
+      "C",
+      "K",
+      "E",
+      "X",
+      "T",
+      "J",
+      "U",
+      "H",
+      "C"
+    ],
+    [
+      "X",
+      "T",
+      "J",
+      "S",
+      "W",
+      "E",
+      "A",
+      "T",
+      "T",
+      "U",
+      "Q",
+      "T"
+    ],
+    [
+      "E",
+      "L",
+      "E",
+      "H",
+      "R",
+      "E",
+      "B",
+      "O",
+      "U",
+      "N",
+      "D",
+      "J"
+    ],
+    [
+      "S",
+      "B",
+      "R",
+      "A",
+      "D",
+      "J",
+      "X",
+      "X",
+      "A",
+      "H",
+      "Y",
+      "R"
+    ],
+    [
+      "F",
+      "A",
+      "S",
+      "L",
+      "R",
+      "C",
+      "W",
+      "S",
+      "R",
+      "E",
+      "F",
+      "S"
+    ],
+    [
+      "P",
+      "C",
+      "E",
+      "A",
+      "I",
+      "O",
+      "E",
+      "A",
+      "D",
+      "T",
+      "T",
+      "C"
+    ],
+    [
+      "R",
+      "K",
+      "Y",
+      "S",
+      "B",
+      "A",
+      "V",
+      "A",
+      "R",
+      "U",
+      "T",
+      "O"
+    ],
+    [
+      "E",
+      "B",
+      "Q",
+      "S",
+      "B",
+      "C",
+      "Y",
+      "U",
+      "O",
+      "M",
+      "P",
+      "R"
+    ],
+    [
+      "S",
+      "O",
+      "P",
+      "I",
+      "L",
+      "H",
+      "L",
+      "E",
+      "A",
+      "X",
+      "U",
+      "E"
+    ],
+    [
+      "S",
+      "A",
+      "R",
+      "S",
+      "E",
+      "U",
+      "M",
+      "X",
+      "X",
+      "V",
+      "B",
+      "P"
+    ],
+    [
+      "N",
+      "R",
+      "E",
+      "T",
+      "O",
+      "I",
+      "Q",
+      "V",
+      "Q",
+      "S",
+      "O",
+      "Z"
+    ],
+    [
+      "L",
+      "D",
+      "D",
+      "F",
+      "T",
+      "C",
+      "D",
+      "K",
+      "E",
+      "T",
+      "A",
+      "H"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BACKBOARD",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "REBOUND",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "DRIBBLE",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "TIMEOUT",
+      "row": 11,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "WARMUP",
+      "row": 4,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "ASSIST",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "JERSEY",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "SWEAT",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SCORE",
+      "row": 4,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "PRESS",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "COACH",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "PICK",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "FOUL",
+      "row": 11,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "REF",
+      "row": 4,
+      "col": 8,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1797142139
+}

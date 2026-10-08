@@ -1,0 +1,284 @@
+{
+  "id": "beach-medium-05",
+  "slug": "beach-medium-05",
+  "themeId": "beach",
+  "title": "Beach Word Search (Medium) #05",
+  "primaryKeyword": "beach word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BEACH",
+    "BOARDWALK",
+    "COOLER",
+    "DOCK",
+    "FLOAT",
+    "GRASS",
+    "HAT",
+    "PICNIC",
+    "QUIET",
+    "SPLASH",
+    "TIDE",
+    "TOWEL",
+    "TWILIGHT",
+    "WAVE"
+  ],
+  "grid": [
+    [
+      "C",
+      "Z",
+      "P",
+      "H",
+      "G",
+      "C",
+      "D",
+      "T",
+      "C",
+      "B",
+      "X",
+      "P"
+    ],
+    [
+      "X",
+      "H",
+      "A",
+      "T",
+      "Z",
+      "F",
+      "R",
+      "W",
+      "I",
+      "E",
+      "O",
+      "Q"
+    ],
+    [
+      "W",
+      "B",
+      "E",
+      "B",
+      "J",
+      "Q",
+      "T",
+      "I",
+      "K",
+      "A",
+      "M",
+      "H"
+    ],
+    [
+      "P",
+      "T",
+      "G",
+      "O",
+      "S",
+      "W",
+      "O",
+      "L",
+      "Q",
+      "C",
+      "C",
+      "Q"
+    ],
+    [
+      "K",
+      "G",
+      "J",
+      "A",
+      "P",
+      "A",
+      "W",
+      "I",
+      "U",
+      "H",
+      "V",
+      "D"
+    ],
+    [
+      "G",
+      "H",
+      "F",
+      "R",
+      "L",
+      "V",
+      "E",
+      "G",
+      "I",
+      "D",
+      "I",
+      "O"
+    ],
+    [
+      "R",
+      "P",
+      "C",
+      "D",
+      "A",
+      "E",
+      "L",
+      "H",
+      "E",
+      "O",
+      "T",
+      "C"
+    ],
+    [
+      "A",
+      "I",
+      "T",
+      "W",
+      "S",
+      "V",
+      "V",
+      "T",
+      "T",
+      "X",
+      "I",
+      "K"
+    ],
+    [
+      "S",
+      "C",
+      "H",
+      "A",
+      "H",
+      "T",
+      "Q",
+      "B",
+      "M",
+      "R",
+      "D",
+      "R"
+    ],
+    [
+      "S",
+      "N",
+      "L",
+      "L",
+      "O",
+      "P",
+      "C",
+      "O",
+      "O",
+      "L",
+      "E",
+      "R"
+    ],
+    [
+      "F",
+      "I",
+      "O",
+      "K",
+      "U",
+      "J",
+      "F",
+      "I",
+      "R",
+      "E",
+      "G",
+      "V"
+    ],
+    [
+      "O",
+      "C",
+      "F",
+      "L",
+      "O",
+      "A",
+      "T",
+      "W",
+      "M",
+      "X",
+      "Z",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BOARDWALK",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "TWILIGHT",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "PICNIC",
+      "row": 6,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SPLASH",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "COOLER",
+      "row": 9,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "GRASS",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "QUIET",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "FLOAT",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "TOWEL",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "BEACH",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "DOCK",
+      "row": 4,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "WAVE",
+      "row": 3,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "TIDE",
+      "row": 6,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "HAT",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1794327195
+}

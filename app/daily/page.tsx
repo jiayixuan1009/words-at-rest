@@ -4,7 +4,7 @@ import Breadcrumbs from "@/components/Breadcrumbs";
 import PuzzleView from "@/components/PuzzleView";
 import PlayOptions from "@/components/PlayOptions";
 import Faq, { type FaqItem } from "@/components/Faq";
-import { currentDailyDate, formatLongDate, getDailyArchive, getDailyPuzzle, isValidDailyDate } from "@/lib/data";
+import { currentDailyDate, formatLongDate, getDailyArchive, getDailyPuzzle, getDailySiblingPuzzles, getTheme, isValidDailyDate, puzzlePath } from "@/lib/data";
 import { seo } from "@/lib/seo";
 import { SITE } from "@/lib/site";
 import { ART } from "@/lib/images";
@@ -19,7 +19,7 @@ export const dynamic = "force-dynamic";
 export const metadata: Metadata = seo({
   title: "Daily Word Search — Today’s Free Puzzle",
   description:
-    "A new free word search every day, the same for everyone. Relaxed, no timer, playable online with no download or sign-up. Past days stay in the archive.",
+    "A featured free word search every day (plus more theme puzzles the same day), the same for everyone. Relaxed, no timer, no download or sign-up. Past days stay in the archive.",
   path: "/daily",
   image: "/og/daily.jpg",
   imageAlt: "Today’s daily word search — Words at Rest",
@@ -28,7 +28,7 @@ export const metadata: Metadata = seo({
 const FAQ: FaqItem[] = [
   {
     q: "What is the daily word search?",
-    a: "The daily word search is one free puzzle for each calendar day. Everyone who visits on the same day gets the same grid, so you can solve it alongside a friend or family member and compare notes. From October 7, 2026 each day has its own unique grid (never large print, never timed). Launch day, October 6, keeps its original puzzle.",
+    a: "Each calendar day has a featured free puzzle everyone shares, plus up to nine more “Also today” grids from other themes. The featured grid is the same for every visitor that day, so you can solve it alongside a friend. From October 7, 2026 each day’s featured puzzle is unique (never large print, never timed). Launch day, October 6, keeps its original single puzzle.",
   },
   {
     q: "When does the daily puzzle change?",
@@ -59,6 +59,7 @@ export default function DailyPage() {
     </section>
   );
   const puzzle = getDailyPuzzle(date);
+  const siblings = getDailySiblingPuzzles(date);
   const archive = getDailyArchive(30).slice(1);
 
   return (
@@ -76,6 +77,35 @@ export default function DailyPage() {
         canonicalPath="/daily"
         pageDates={{ published: SITE.dailyStart, modified: date }}
       />
+      {siblings.length > 0 && (
+        <section className="mt-10" aria-labelledby="also-today-heading">
+          <h2 id="also-today-heading" className="text-xl font-semibold text-stone-900">
+            Also today
+          </h2>
+          <p className="mt-2 max-w-3xl text-lg leading-relaxed text-stone-700">
+            Nine more free word searches for {formatLongDate(date)}. Each one also lives on its theme
+            page, so you can find it again later under Themes.
+          </p>
+          <ul className="mt-4 grid gap-2 sm:grid-cols-2">
+            {siblings.map((p) => {
+              const theme = getTheme(p.themeId);
+              return (
+                <li key={p.id}>
+                  <Link
+                    href={puzzlePath(p)}
+                    className="flex min-h-11 flex-col rounded border border-[#d4cbb8] px-4 py-3 no-underline hover:bg-[#efe7d9]"
+                  >
+                    <span className="font-semibold text-[var(--ink)]">{p.title}</span>
+                    <span className="mt-0.5 text-sm capitalize text-[var(--ink-soft)]">
+                      {theme?.name ?? p.themeId} · {p.difficulty} · {p.gridSize}×{p.gridSize}
+                    </span>
+                  </Link>
+                </li>
+              );
+            })}
+          </ul>
+        </section>
+      )}
       <section className="mt-10 max-w-3xl space-y-3 text-lg leading-relaxed text-stone-700">
         <h2 className="text-xl font-semibold text-stone-900">A calm daily habit</h2>
         <p>

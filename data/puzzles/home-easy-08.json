@@ -1,0 +1,208 @@
+{
+  "id": "home-easy-08",
+  "slug": "home-easy-08",
+  "themeId": "home",
+  "title": "Home Word Search (Easy) #08",
+  "primaryKeyword": "home word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CELLAR",
+    "FIREPLACE",
+    "GARDEN",
+    "HALL",
+    "KITCHEN",
+    "LANDING",
+    "LOFT",
+    "REST",
+    "STAIR",
+    "TABLE"
+  ],
+  "grid": [
+    [
+      "C",
+      "F",
+      "S",
+      "R",
+      "G",
+      "K",
+      "N",
+      "T",
+      "O",
+      "M"
+    ],
+    [
+      "E",
+      "D",
+      "T",
+      "E",
+      "U",
+      "I",
+      "D",
+      "L",
+      "J",
+      "F"
+    ],
+    [
+      "L",
+      "G",
+      "A",
+      "S",
+      "W",
+      "T",
+      "E",
+      "C",
+      "T",
+      "I"
+    ],
+    [
+      "L",
+      "S",
+      "I",
+      "T",
+      "G",
+      "C",
+      "L",
+      "L",
+      "Q",
+      "R"
+    ],
+    [
+      "A",
+      "G",
+      "R",
+      "J",
+      "C",
+      "H",
+      "A",
+      "O",
+      "I",
+      "E"
+    ],
+    [
+      "R",
+      "A",
+      "C",
+      "A",
+      "E",
+      "E",
+      "N",
+      "F",
+      "T",
+      "P"
+    ],
+    [
+      "Z",
+      "R",
+      "Q",
+      "G",
+      "Q",
+      "N",
+      "D",
+      "T",
+      "A",
+      "L"
+    ],
+    [
+      "P",
+      "D",
+      "V",
+      "G",
+      "K",
+      "D",
+      "I",
+      "C",
+      "B",
+      "A"
+    ],
+    [
+      "G",
+      "E",
+      "H",
+      "A",
+      "L",
+      "L",
+      "N",
+      "T",
+      "L",
+      "C"
+    ],
+    [
+      "F",
+      "N",
+      "F",
+      "A",
+      "H",
+      "D",
+      "G",
+      "A",
+      "E",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FIREPLACE",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "LANDING",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "KITCHEN",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "CELLAR",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "GARDEN",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "STAIR",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "TABLE",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "LOFT",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "HALL",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "REST",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 625296048
+}

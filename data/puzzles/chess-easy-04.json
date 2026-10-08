@@ -1,0 +1,208 @@
+{
+  "id": "chess-easy-04",
+  "slug": "chess-easy-04",
+  "themeId": "chess",
+  "title": "Chess Word Search (Easy) #04",
+  "primaryKeyword": "chess word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ATTACK",
+    "BRILLIANCY",
+    "CASTLING",
+    "CENTER",
+    "DEVELOP",
+    "FORK",
+    "RANK",
+    "SCORE",
+    "SQUARE",
+    "TIMER"
+  ],
+  "grid": [
+    [
+      "P",
+      "L",
+      "F",
+      "W",
+      "C",
+      "E",
+      "N",
+      "T",
+      "E",
+      "R"
+    ],
+    [
+      "O",
+      "N",
+      "I",
+      "S",
+      "Q",
+      "U",
+      "A",
+      "R",
+      "E",
+      "Z"
+    ],
+    [
+      "N",
+      "V",
+      "B",
+      "H",
+      "C",
+      "Q",
+      "K",
+      "O",
+      "I",
+      "F"
+    ],
+    [
+      "D",
+      "E",
+      "V",
+      "E",
+      "L",
+      "O",
+      "P",
+      "J",
+      "N",
+      "O"
+    ],
+    [
+      "Y",
+      "F",
+      "S",
+      "C",
+      "O",
+      "R",
+      "E",
+      "R",
+      "M",
+      "R"
+    ],
+    [
+      "C",
+      "A",
+      "S",
+      "T",
+      "L",
+      "I",
+      "N",
+      "G",
+      "A",
+      "K"
+    ],
+    [
+      "B",
+      "R",
+      "I",
+      "L",
+      "L",
+      "I",
+      "A",
+      "N",
+      "C",
+      "Y"
+    ],
+    [
+      "Q",
+      "R",
+      "A",
+      "N",
+      "K",
+      "C",
+      "P",
+      "Z",
+      "J",
+      "L"
+    ],
+    [
+      "C",
+      "F",
+      "T",
+      "I",
+      "M",
+      "E",
+      "R",
+      "A",
+      "V",
+      "U"
+    ],
+    [
+      "A",
+      "T",
+      "T",
+      "A",
+      "C",
+      "K",
+      "E",
+      "U",
+      "G",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BRILLIANCY",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CASTLING",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "DEVELOP",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SQUARE",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "CENTER",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "ATTACK",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "TIMER",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SCORE",
+      "row": 4,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "FORK",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "RANK",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 268603276
+}

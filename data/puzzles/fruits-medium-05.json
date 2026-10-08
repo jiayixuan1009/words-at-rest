@@ -1,0 +1,284 @@
+{
+  "id": "fruits-medium-05",
+  "slug": "fruits-medium-05",
+  "themeId": "fruits",
+  "title": "Fruits Word Search (Medium) #05",
+  "primaryKeyword": "fruits word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "AVOCADO",
+    "BANANA",
+    "CHERRY",
+    "CLEMENTINE",
+    "DATE",
+    "GRAPE",
+    "KIWI",
+    "MELON",
+    "OLIVE",
+    "ORANGE",
+    "PAPAYA",
+    "PEACH",
+    "RASPBERRY",
+    "TANGERINE"
+  ],
+  "grid": [
+    [
+      "W",
+      "G",
+      "F",
+      "B",
+      "H",
+      "W",
+      "I",
+      "B",
+      "Q",
+      "A",
+      "E",
+      "T"
+    ],
+    [
+      "B",
+      "F",
+      "N",
+      "K",
+      "I",
+      "W",
+      "I",
+      "D",
+      "Y",
+      "N",
+      "V",
+      "C"
+    ],
+    [
+      "J",
+      "C",
+      "G",
+      "I",
+      "E",
+      "E",
+      "O",
+      "A",
+      "I",
+      "A",
+      "A",
+      "L"
+    ],
+    [
+      "Z",
+      "M",
+      "I",
+      "T",
+      "V",
+      "D",
+      "P",
+      "R",
+      "N",
+      "R",
+      "S",
+      "E"
+    ],
+    [
+      "I",
+      "D",
+      "A",
+      "I",
+      "A",
+      "A",
+      "E",
+      "A",
+      "N",
+      "A",
+      "T",
+      "M"
+    ],
+    [
+      "R",
+      "D",
+      "L",
+      "C",
+      "P",
+      "G",
+      "N",
+      "M",
+      "P",
+      "S",
+      "U",
+      "E"
+    ],
+    [
+      "G",
+      "O",
+      "O",
+      "Z",
+      "N",
+      "A",
+      "A",
+      "E",
+      "E",
+      "P",
+      "J",
+      "N"
+    ],
+    [
+      "R",
+      "V",
+      "H",
+      "A",
+      "B",
+      "K",
+      "L",
+      "L",
+      "A",
+      "B",
+      "C",
+      "T"
+    ],
+    [
+      "A",
+      "O",
+      "T",
+      "J",
+      "R",
+      "H",
+      "T",
+      "O",
+      "C",
+      "E",
+      "K",
+      "I"
+    ],
+    [
+      "P",
+      "W",
+      "U",
+      "Q",
+      "E",
+      "K",
+      "Z",
+      "N",
+      "H",
+      "R",
+      "D",
+      "N"
+    ],
+    [
+      "E",
+      "V",
+      "C",
+      "H",
+      "E",
+      "R",
+      "R",
+      "Y",
+      "R",
+      "R",
+      "C",
+      "E"
+    ],
+    [
+      "A",
+      "T",
+      "O",
+      "R",
+      "A",
+      "N",
+      "G",
+      "E",
+      "B",
+      "Y",
+      "Y",
+      "C"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CLEMENTINE",
+      "row": 1,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "RASPBERRY",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "TANGERINE",
+      "row": 8,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "AVOCADO",
+      "row": 8,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "PAPAYA",
+      "row": 5,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "BANANA",
+      "row": 7,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "CHERRY",
+      "row": 10,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ORANGE",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "MELON",
+      "row": 5,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "OLIVE",
+      "row": 6,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "PEACH",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "GRAPE",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "KIWI",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "DATE",
+      "row": 5,
+      "col": 1,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1286113781
+}

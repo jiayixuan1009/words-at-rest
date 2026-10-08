@@ -1,0 +1,208 @@
+{
+  "id": "flowers-easy-08",
+  "slug": "flowers-easy-08",
+  "themeId": "flowers",
+  "title": "Flowers Word Search (Easy) #08",
+  "primaryKeyword": "flowers word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BEGONIA",
+    "BUTTERFLY",
+    "COLOR",
+    "CUT",
+    "DAISY",
+    "IRIS",
+    "JASMINE",
+    "LIGHT",
+    "ORCHID",
+    "PETAL"
+  ],
+  "grid": [
+    [
+      "K",
+      "C",
+      "U",
+      "T",
+      "V",
+      "D",
+      "A",
+      "C",
+      "E",
+      "O"
+    ],
+    [
+      "R",
+      "I",
+      "D",
+      "R",
+      "N",
+      "P",
+      "E",
+      "T",
+      "A",
+      "L"
+    ],
+    [
+      "C",
+      "O",
+      "L",
+      "O",
+      "R",
+      "E",
+      "I",
+      "A",
+      "I",
+      "U"
+    ],
+    [
+      "B",
+      "U",
+      "T",
+      "T",
+      "E",
+      "R",
+      "F",
+      "L",
+      "Y",
+      "U"
+    ],
+    [
+      "E",
+      "N",
+      "B",
+      "J",
+      "A",
+      "S",
+      "M",
+      "I",
+      "N",
+      "E"
+    ],
+    [
+      "O",
+      "Y",
+      "V",
+      "J",
+      "P",
+      "Z",
+      "M",
+      "G",
+      "I",
+      "L"
+    ],
+    [
+      "O",
+      "R",
+      "C",
+      "H",
+      "I",
+      "D",
+      "Y",
+      "H",
+      "R",
+      "Q"
+    ],
+    [
+      "B",
+      "E",
+      "G",
+      "O",
+      "N",
+      "I",
+      "A",
+      "T",
+      "I",
+      "P"
+    ],
+    [
+      "C",
+      "K",
+      "M",
+      "W",
+      "D",
+      "G",
+      "D",
+      "G",
+      "S",
+      "H"
+    ],
+    [
+      "T",
+      "Z",
+      "Q",
+      "S",
+      "Z",
+      "D",
+      "A",
+      "I",
+      "S",
+      "Y"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BUTTERFLY",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "JASMINE",
+      "row": 4,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BEGONIA",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "ORCHID",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "LIGHT",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "COLOR",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "DAISY",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "PETAL",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "IRIS",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "CUT",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 257133304
+}

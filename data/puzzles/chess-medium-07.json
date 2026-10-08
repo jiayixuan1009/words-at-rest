@@ -1,0 +1,284 @@
+{
+  "id": "chess-medium-07",
+  "slug": "chess-medium-07",
+  "themeId": "chess",
+  "title": "Chess Word Search (Medium) #07",
+  "primaryKeyword": "chess word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ATTACK",
+    "BOOK",
+    "BRILLIANCY",
+    "CENTER",
+    "CHESS",
+    "CLOCK",
+    "DEVELOP",
+    "GAMBIT",
+    "KNIGHT",
+    "PROMOTE",
+    "ROOK",
+    "SCORE",
+    "SQUARE",
+    "TACTIC"
+  ],
+  "grid": [
+    [
+      "E",
+      "K",
+      "P",
+      "L",
+      "F",
+      "S",
+      "Q",
+      "U",
+      "A",
+      "R",
+      "E",
+      "B"
+    ],
+    [
+      "Z",
+      "N",
+      "W",
+      "A",
+      "I",
+      "E",
+      "G",
+      "A",
+      "M",
+      "B",
+      "I",
+      "T"
+    ],
+    [
+      "Z",
+      "I",
+      "E",
+      "U",
+      "S",
+      "C",
+      "T",
+      "E",
+      "K",
+      "F",
+      "D",
+      "O"
+    ],
+    [
+      "Y",
+      "G",
+      "D",
+      "T",
+      "L",
+      "E",
+      "Q",
+      "C",
+      "D",
+      "Y",
+      "T",
+      "C"
+    ],
+    [
+      "S",
+      "H",
+      "C",
+      "E",
+      "V",
+      "N",
+      "A",
+      "S",
+      "L",
+      "S",
+      "L",
+      "L"
+    ],
+    [
+      "R",
+      "T",
+      "H",
+      "T",
+      "V",
+      "T",
+      "E",
+      "R",
+      "W",
+      "C",
+      "T",
+      "O"
+    ],
+    [
+      "O",
+      "R",
+      "E",
+      "L",
+      "T",
+      "E",
+      "F",
+      "B",
+      "O",
+      "O",
+      "A",
+      "C"
+    ],
+    [
+      "O",
+      "D",
+      "S",
+      "A",
+      "M",
+      "R",
+      "L",
+      "O",
+      "T",
+      "R",
+      "C",
+      "K"
+    ],
+    [
+      "K",
+      "Y",
+      "S",
+      "P",
+      "R",
+      "O",
+      "M",
+      "O",
+      "T",
+      "E",
+      "T",
+      "T"
+    ],
+    [
+      "R",
+      "K",
+      "C",
+      "F",
+      "P",
+      "U",
+      "I",
+      "K",
+      "P",
+      "B",
+      "I",
+      "D"
+    ],
+    [
+      "Y",
+      "S",
+      "R",
+      "V",
+      "Y",
+      "N",
+      "M",
+      "E",
+      "O",
+      "W",
+      "C",
+      "G"
+    ],
+    [
+      "R",
+      "B",
+      "R",
+      "I",
+      "L",
+      "L",
+      "I",
+      "A",
+      "N",
+      "C",
+      "Y",
+      "S"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BRILLIANCY",
+      "row": 11,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "DEVELOP",
+      "row": 3,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "PROMOTE",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "ATTACK",
+      "row": 7,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "KNIGHT",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SQUARE",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "CENTER",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "GAMBIT",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "TACTIC",
+      "row": 5,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "SCORE",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "CHESS",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "CLOCK",
+      "row": 3,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "BOOK",
+      "row": 6,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "ROOK",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 4125816912
+}

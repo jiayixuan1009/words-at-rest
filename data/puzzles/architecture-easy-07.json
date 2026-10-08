@@ -1,0 +1,208 @@
+{
+  "id": "architecture-easy-07",
+  "slug": "architecture-easy-07",
+  "themeId": "architecture",
+  "title": "Architecture Word Search (Easy) #07",
+  "primaryKeyword": "architecture word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BALCONY",
+    "BEAM",
+    "COLUMN",
+    "CONCRETE",
+    "DESIGN",
+    "FOUNDATION",
+    "HALL",
+    "STAIR",
+    "STEEL",
+    "TOWER"
+  ],
+  "grid": [
+    [
+      "C",
+      "O",
+      "N",
+      "C",
+      "R",
+      "E",
+      "T",
+      "E",
+      "N",
+      "R"
+    ],
+    [
+      "F",
+      "O",
+      "U",
+      "N",
+      "D",
+      "A",
+      "T",
+      "I",
+      "O",
+      "N"
+    ],
+    [
+      "H",
+      "S",
+      "T",
+      "A",
+      "I",
+      "R",
+      "E",
+      "W",
+      "E",
+      "E"
+    ],
+    [
+      "C",
+      "H",
+      "J",
+      "O",
+      "S",
+      "T",
+      "E",
+      "E",
+      "L",
+      "H"
+    ],
+    [
+      "T",
+      "O",
+      "W",
+      "E",
+      "R",
+      "R",
+      "I",
+      "C",
+      "R",
+      "A"
+    ],
+    [
+      "T",
+      "V",
+      "O",
+      "W",
+      "U",
+      "K",
+      "H",
+      "P",
+      "H",
+      "L"
+    ],
+    [
+      "B",
+      "D",
+      "E",
+      "S",
+      "I",
+      "G",
+      "N",
+      "G",
+      "S",
+      "L"
+    ],
+    [
+      "E",
+      "F",
+      "T",
+      "C",
+      "O",
+      "L",
+      "U",
+      "M",
+      "N",
+      "A"
+    ],
+    [
+      "A",
+      "B",
+      "B",
+      "A",
+      "L",
+      "C",
+      "O",
+      "N",
+      "Y",
+      "L"
+    ],
+    [
+      "M",
+      "U",
+      "C",
+      "A",
+      "N",
+      "J",
+      "Z",
+      "V",
+      "Z",
+      "O"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FOUNDATION",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CONCRETE",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BALCONY",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "COLUMN",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "DESIGN",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "STAIR",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "STEEL",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "TOWER",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "HALL",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "BEAM",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1864252615
+}

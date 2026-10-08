@@ -1,0 +1,208 @@
+{
+  "id": "coffee-tea-easy-04",
+  "slug": "coffee-tea-easy-04",
+  "themeId": "coffee-tea",
+  "title": "Coffee & Tea Word Search (Easy) #04",
+  "primaryKeyword": "coffee and tea word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "AROMA",
+    "BREW",
+    "CHAMOMILE",
+    "EARL",
+    "POUR",
+    "SCONE",
+    "TEA",
+    "TRAY",
+    "VANILLA",
+    "WARM"
+  ],
+  "grid": [
+    [
+      "V",
+      "T",
+      "V",
+      "A",
+      "N",
+      "I",
+      "L",
+      "L",
+      "A",
+      "K"
+    ],
+    [
+      "T",
+      "Z",
+      "R",
+      "Y",
+      "M",
+      "T",
+      "P",
+      "E",
+      "S",
+      "E"
+    ],
+    [
+      "L",
+      "S",
+      "B",
+      "T",
+      "W",
+      "R",
+      "O",
+      "A",
+      "C",
+      "O"
+    ],
+    [
+      "R",
+      "K",
+      "R",
+      "U",
+      "A",
+      "A",
+      "U",
+      "R",
+      "O",
+      "W"
+    ],
+    [
+      "S",
+      "M",
+      "E",
+      "C",
+      "R",
+      "Y",
+      "R",
+      "L",
+      "N",
+      "J"
+    ],
+    [
+      "I",
+      "Z",
+      "W",
+      "H",
+      "M",
+      "A",
+      "U",
+      "D",
+      "E",
+      "M"
+    ],
+    [
+      "U",
+      "Z",
+      "Y",
+      "S",
+      "M",
+      "A",
+      "X",
+      "H",
+      "N",
+      "R"
+    ],
+    [
+      "C",
+      "H",
+      "A",
+      "M",
+      "O",
+      "M",
+      "I",
+      "L",
+      "E",
+      "O"
+    ],
+    [
+      "C",
+      "T",
+      "Z",
+      "C",
+      "E",
+      "A",
+      "R",
+      "O",
+      "M",
+      "A"
+    ],
+    [
+      "X",
+      "Q",
+      "V",
+      "E",
+      "N",
+      "T",
+      "E",
+      "A",
+      "P",
+      "G"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CHAMOMILE",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "VANILLA",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "AROMA",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SCONE",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "POUR",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "WARM",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "TRAY",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "EARL",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "BREW",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "TEA",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 251825657
+}

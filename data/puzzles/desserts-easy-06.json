@@ -1,0 +1,208 @@
+{
+  "id": "desserts-easy-06",
+  "slug": "desserts-easy-06",
+  "themeId": "desserts",
+  "title": "Desserts Word Search (Easy) #06",
+  "primaryKeyword": "desserts word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BROWNIE",
+    "CAKE",
+    "CHEESECAKE",
+    "CRUMBLE",
+    "GELATO",
+    "LAYER",
+    "PARFAIT",
+    "PLATE",
+    "SUNDAE",
+    "TOFFEE"
+  ],
+  "grid": [
+    [
+      "T",
+      "V",
+      "T",
+      "V",
+      "Q",
+      "C",
+      "E",
+      "W",
+      "A",
+      "M"
+    ],
+    [
+      "L",
+      "G",
+      "O",
+      "P",
+      "L",
+      "H",
+      "B",
+      "V",
+      "N",
+      "H"
+    ],
+    [
+      "A",
+      "C",
+      "F",
+      "L",
+      "L",
+      "E",
+      "B",
+      "T",
+      "N",
+      "X"
+    ],
+    [
+      "Y",
+      "R",
+      "F",
+      "A",
+      "P",
+      "E",
+      "R",
+      "D",
+      "X",
+      "H"
+    ],
+    [
+      "E",
+      "U",
+      "E",
+      "T",
+      "A",
+      "S",
+      "O",
+      "G",
+      "S",
+      "G"
+    ],
+    [
+      "R",
+      "M",
+      "E",
+      "E",
+      "R",
+      "E",
+      "W",
+      "E",
+      "U",
+      "Y"
+    ],
+    [
+      "B",
+      "B",
+      "C",
+      "H",
+      "F",
+      "C",
+      "N",
+      "L",
+      "N",
+      "V"
+    ],
+    [
+      "H",
+      "L",
+      "A",
+      "K",
+      "A",
+      "A",
+      "I",
+      "A",
+      "D",
+      "J"
+    ],
+    [
+      "T",
+      "E",
+      "K",
+      "G",
+      "I",
+      "K",
+      "E",
+      "T",
+      "A",
+      "F"
+    ],
+    [
+      "I",
+      "E",
+      "E",
+      "F",
+      "T",
+      "E",
+      "N",
+      "O",
+      "E",
+      "X"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CHEESECAKE",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "BROWNIE",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "CRUMBLE",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "PARFAIT",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "TOFFEE",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "GELATO",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SUNDAE",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "PLATE",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "LAYER",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CAKE",
+      "row": 6,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 3326176253
+}

@@ -1,0 +1,284 @@
+{
+  "id": "herbs-medium-04",
+  "slug": "herbs-medium-04",
+  "themeId": "herbs",
+  "title": "Herbs & Spices Word Search (Medium) #04",
+  "primaryKeyword": "herbs and spices word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ALLSPICE",
+    "ANISE",
+    "BAY",
+    "BLEND",
+    "CHILI",
+    "CILANTRO",
+    "CLOVE",
+    "GARLIC",
+    "MINT",
+    "OREGANO",
+    "PAPRIKA",
+    "SALT",
+    "TARRAGON",
+    "VANILLA"
+  ],
+  "grid": [
+    [
+      "Q",
+      "G",
+      "G",
+      "B",
+      "A",
+      "Y",
+      "U",
+      "O",
+      "L",
+      "B",
+      "W",
+      "J"
+    ],
+    [
+      "C",
+      "A",
+      "L",
+      "L",
+      "S",
+      "P",
+      "I",
+      "C",
+      "E",
+      "L",
+      "C",
+      "N"
+    ],
+    [
+      "W",
+      "F",
+      "X",
+      "M",
+      "R",
+      "X",
+      "W",
+      "M",
+      "A",
+      "E",
+      "O",
+      "S"
+    ],
+    [
+      "P",
+      "D",
+      "G",
+      "T",
+      "I",
+      "P",
+      "O",
+      "K",
+      "X",
+      "N",
+      "A",
+      "C"
+    ],
+    [
+      "H",
+      "T",
+      "T",
+      "A",
+      "H",
+      "N",
+      "I",
+      "V",
+      "A",
+      "D",
+      "C",
+      "L"
+    ],
+    [
+      "V",
+      "A",
+      "B",
+      "B",
+      "R",
+      "R",
+      "T",
+      "G",
+      "H",
+      "Z",
+      "I",
+      "O"
+    ],
+    [
+      "A",
+      "R",
+      "O",
+      "X",
+      "P",
+      "L",
+      "E",
+      "S",
+      "R",
+      "B",
+      "L",
+      "V"
+    ],
+    [
+      "N",
+      "R",
+      "J",
+      "A",
+      "S",
+      "R",
+      "I",
+      "K",
+      "F",
+      "A",
+      "A",
+      "E"
+    ],
+    [
+      "I",
+      "A",
+      "P",
+      "M",
+      "O",
+      "A",
+      "M",
+      "C",
+      "I",
+      "N",
+      "N",
+      "L"
+    ],
+    [
+      "L",
+      "G",
+      "G",
+      "U",
+      "J",
+      "J",
+      "L",
+      "Y",
+      "D",
+      "I",
+      "T",
+      "O"
+    ],
+    [
+      "L",
+      "O",
+      "D",
+      "V",
+      "V",
+      "A",
+      "R",
+      "T",
+      "A",
+      "S",
+      "R",
+      "I"
+    ],
+    [
+      "A",
+      "N",
+      "Y",
+      "C",
+      "H",
+      "I",
+      "L",
+      "I",
+      "F",
+      "E",
+      "O",
+      "X"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ALLSPICE",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CILANTRO",
+      "row": 4,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "TARRAGON",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "VANILLA",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "OREGANO",
+      "row": 8,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "PAPRIKA",
+      "row": 8,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "GARLIC",
+      "row": 3,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "CLOVE",
+      "row": 3,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "BLEND",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "CHILI",
+      "row": 11,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "ANISE",
+      "row": 7,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SALT",
+      "row": 7,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "MINT",
+      "row": 2,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "BAY",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 606340236
+}

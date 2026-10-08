@@ -1,0 +1,208 @@
+{
+  "id": "dogs-easy-04",
+  "slug": "dogs-easy-04",
+  "themeId": "dogs",
+  "title": "Dogs Word Search (Easy) #04",
+  "primaryKeyword": "dogs word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BALL",
+    "BARK",
+    "BEAGLE",
+    "CHEW",
+    "COLLAR",
+    "FETCH",
+    "MUTT",
+    "PARK",
+    "PUP",
+    "WHISKER"
+  ],
+  "grid": [
+    [
+      "X",
+      "W",
+      "P",
+      "U",
+      "P",
+      "W",
+      "L",
+      "E",
+      "M",
+      "F"
+    ],
+    [
+      "W",
+      "Y",
+      "Y",
+      "C",
+      "H",
+      "E",
+      "W",
+      "W",
+      "U",
+      "E"
+    ],
+    [
+      "H",
+      "B",
+      "N",
+      "J",
+      "E",
+      "J",
+      "T",
+      "Q",
+      "T",
+      "T"
+    ],
+    [
+      "I",
+      "P",
+      "C",
+      "O",
+      "L",
+      "L",
+      "A",
+      "R",
+      "T",
+      "C"
+    ],
+    [
+      "S",
+      "A",
+      "B",
+      "H",
+      "D",
+      "V",
+      "M",
+      "U",
+      "B",
+      "H"
+    ],
+    [
+      "K",
+      "R",
+      "A",
+      "G",
+      "I",
+      "U",
+      "S",
+      "M",
+      "E",
+      "F"
+    ],
+    [
+      "E",
+      "K",
+      "L",
+      "B",
+      "A",
+      "R",
+      "K",
+      "F",
+      "A",
+      "U"
+    ],
+    [
+      "R",
+      "A",
+      "L",
+      "E",
+      "L",
+      "K",
+      "D",
+      "S",
+      "G",
+      "R"
+    ],
+    [
+      "E",
+      "C",
+      "W",
+      "P",
+      "Q",
+      "Z",
+      "W",
+      "K",
+      "L",
+      "E"
+    ],
+    [
+      "U",
+      "P",
+      "W",
+      "H",
+      "V",
+      "J",
+      "J",
+      "P",
+      "E",
+      "C"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "WHISKER",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "COLLAR",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BEAGLE",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "FETCH",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "BALL",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "MUTT",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "CHEW",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BARK",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "PARK",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "PUP",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1370001876
+}

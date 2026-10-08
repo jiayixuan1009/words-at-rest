@@ -1,0 +1,284 @@
+{
+  "id": "jazz-medium-04",
+  "slug": "jazz-medium-04",
+  "themeId": "jazz",
+  "title": "Jazz Word Search (Medium) #04",
+  "primaryKeyword": "jazz word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BALLAD",
+    "BASS",
+    "BEBOP",
+    "CHANGES",
+    "DRUMS",
+    "HEAD",
+    "JAZZ",
+    "POLYRHYTHM",
+    "QUARTET",
+    "QUINTET",
+    "RIFF",
+    "STRIDE",
+    "SWING",
+    "VOCAL"
+  ],
+  "grid": [
+    [
+      "A",
+      "E",
+      "B",
+      "X",
+      "C",
+      "S",
+      "E",
+      "B",
+      "E",
+      "B",
+      "O",
+      "P"
+    ],
+    [
+      "E",
+      "B",
+      "N",
+      "G",
+      "V",
+      "T",
+      "J",
+      "A",
+      "Z",
+      "Z",
+      "Q",
+      "D"
+    ],
+    [
+      "S",
+      "A",
+      "C",
+      "I",
+      "O",
+      "R",
+      "Z",
+      "X",
+      "B",
+      "M",
+      "U",
+      "V"
+    ],
+    [
+      "Y",
+      "L",
+      "H",
+      "Z",
+      "C",
+      "I",
+      "Q",
+      "Z",
+      "H",
+      "S",
+      "A",
+      "I"
+    ],
+    [
+      "S",
+      "L",
+      "A",
+      "H",
+      "A",
+      "D",
+      "E",
+      "T",
+      "M",
+      "F",
+      "R",
+      "Z"
+    ],
+    [
+      "H",
+      "A",
+      "N",
+      "D",
+      "L",
+      "E",
+      "Y",
+      "U",
+      "H",
+      "T",
+      "T",
+      "F"
+    ],
+    [
+      "B",
+      "D",
+      "G",
+      "T",
+      "M",
+      "H",
+      "R",
+      "E",
+      "E",
+      "H",
+      "E",
+      "R"
+    ],
+    [
+      "A",
+      "H",
+      "E",
+      "Q",
+      "R",
+      "D",
+      "G",
+      "T",
+      "S",
+      "E",
+      "T",
+      "I"
+    ],
+    [
+      "S",
+      "I",
+      "S",
+      "Y",
+      "H",
+      "L",
+      "N",
+      "L",
+      "W",
+      "A",
+      "K",
+      "F"
+    ],
+    [
+      "S",
+      "B",
+      "L",
+      "C",
+      "U",
+      "I",
+      "A",
+      "Y",
+      "I",
+      "D",
+      "K",
+      "F"
+    ],
+    [
+      "K",
+      "O",
+      "P",
+      "V",
+      "U",
+      "Q",
+      "V",
+      "G",
+      "N",
+      "Q",
+      "Y",
+      "V"
+    ],
+    [
+      "P",
+      "S",
+      "X",
+      "Q",
+      "Y",
+      "S",
+      "C",
+      "W",
+      "G",
+      "O",
+      "F",
+      "K"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "POLYRHYTHM",
+      "row": 11,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "QUARTET",
+      "row": 1,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "QUINTET",
+      "row": 11,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "CHANGES",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "BALLAD",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "STRIDE",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "SWING",
+      "row": 7,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "DRUMS",
+      "row": 7,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "VOCAL",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "BEBOP",
+      "row": 0,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "HEAD",
+      "row": 6,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "RIFF",
+      "row": 6,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "BASS",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "JAZZ",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 4005462457
+}

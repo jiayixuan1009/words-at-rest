@@ -1,0 +1,208 @@
+{
+  "id": "dogs-easy-07",
+  "slug": "dogs-easy-07",
+  "themeId": "dogs",
+  "title": "Dogs Word Search (Easy) #07",
+  "primaryKeyword": "dogs word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BASKET",
+    "BEAGLE",
+    "CANINE",
+    "COMPANION",
+    "CUDDLE",
+    "HARNESS",
+    "HOME",
+    "LOYAL",
+    "MUTT",
+    "SCRATCH"
+  ],
+  "grid": [
+    [
+      "B",
+      "A",
+      "S",
+      "K",
+      "E",
+      "T",
+      "N",
+      "P",
+      "J",
+      "M"
+    ],
+    [
+      "Z",
+      "H",
+      "A",
+      "R",
+      "N",
+      "E",
+      "S",
+      "S",
+      "H",
+      "C"
+    ],
+    [
+      "Y",
+      "R",
+      "A",
+      "T",
+      "T",
+      "U",
+      "Y",
+      "C",
+      "V",
+      "A"
+    ],
+    [
+      "Y",
+      "B",
+      "E",
+      "A",
+      "G",
+      "L",
+      "E",
+      "K",
+      "E",
+      "N"
+    ],
+    [
+      "M",
+      "V",
+      "U",
+      "C",
+      "Y",
+      "G",
+      "B",
+      "A",
+      "E",
+      "I"
+    ],
+    [
+      "U",
+      "C",
+      "O",
+      "M",
+      "P",
+      "A",
+      "N",
+      "I",
+      "O",
+      "N"
+    ],
+    [
+      "M",
+      "U",
+      "T",
+      "T",
+      "O",
+      "O",
+      "O",
+      "Q",
+      "V",
+      "E"
+    ],
+    [
+      "A",
+      "V",
+      "S",
+      "C",
+      "R",
+      "A",
+      "T",
+      "C",
+      "H",
+      "F"
+    ],
+    [
+      "C",
+      "H",
+      "O",
+      "M",
+      "E",
+      "L",
+      "O",
+      "Y",
+      "A",
+      "L"
+    ],
+    [
+      "P",
+      "K",
+      "C",
+      "U",
+      "D",
+      "D",
+      "L",
+      "E",
+      "P",
+      "C"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "COMPANION",
+      "row": 5,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SCRATCH",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "HARNESS",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BEAGLE",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BASKET",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CUDDLE",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CANINE",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "LOYAL",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "HOME",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "MUTT",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 374576637
+}

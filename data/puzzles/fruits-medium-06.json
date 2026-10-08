@@ -1,0 +1,284 @@
+{
+  "id": "fruits-medium-06",
+  "slug": "fruits-medium-06",
+  "themeId": "fruits",
+  "title": "Fruits Word Search (Medium) #06",
+  "primaryKeyword": "fruits word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "APPLE",
+    "BANANA",
+    "BERRY",
+    "BLUEBERRY",
+    "CHERRY",
+    "COCONUT",
+    "GRAPE",
+    "KIWI",
+    "MELON",
+    "MULBERRY",
+    "ORANGE",
+    "PINEAPPLE",
+    "PLUM",
+    "RAISIN"
+  ],
+  "grid": [
+    [
+      "D",
+      "B",
+      "L",
+      "U",
+      "E",
+      "B",
+      "E",
+      "R",
+      "R",
+      "Y",
+      "C",
+      "E"
+    ],
+    [
+      "A",
+      "P",
+      "P",
+      "L",
+      "E",
+      "O",
+      "P",
+      "L",
+      "U",
+      "M",
+      "H",
+      "M"
+    ],
+    [
+      "D",
+      "N",
+      "X",
+      "O",
+      "C",
+      "P",
+      "G",
+      "R",
+      "A",
+      "P",
+      "E",
+      "U"
+    ],
+    [
+      "Z",
+      "H",
+      "J",
+      "R",
+      "O",
+      "I",
+      "Y",
+      "K",
+      "R",
+      "A",
+      "R",
+      "L"
+    ],
+    [
+      "M",
+      "B",
+      "B",
+      "A",
+      "C",
+      "N",
+      "E",
+      "N",
+      "A",
+      "F",
+      "R",
+      "B"
+    ],
+    [
+      "G",
+      "E",
+      "X",
+      "N",
+      "O",
+      "E",
+      "V",
+      "Z",
+      "I",
+      "C",
+      "Y",
+      "E"
+    ],
+    [
+      "E",
+      "R",
+      "B",
+      "G",
+      "N",
+      "A",
+      "D",
+      "U",
+      "S",
+      "F",
+      "A",
+      "R"
+    ],
+    [
+      "U",
+      "R",
+      "A",
+      "E",
+      "U",
+      "P",
+      "M",
+      "K",
+      "I",
+      "W",
+      "I",
+      "R"
+    ],
+    [
+      "Z",
+      "Y",
+      "N",
+      "Q",
+      "T",
+      "P",
+      "H",
+      "E",
+      "N",
+      "J",
+      "X",
+      "Y"
+    ],
+    [
+      "H",
+      "R",
+      "A",
+      "M",
+      "C",
+      "L",
+      "D",
+      "C",
+      "L",
+      "Z",
+      "N",
+      "P"
+    ],
+    [
+      "F",
+      "Z",
+      "N",
+      "Y",
+      "U",
+      "E",
+      "G",
+      "W",
+      "A",
+      "O",
+      "E",
+      "S"
+    ],
+    [
+      "B",
+      "X",
+      "A",
+      "X",
+      "Y",
+      "P",
+      "Y",
+      "N",
+      "B",
+      "B",
+      "N",
+      "M"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BLUEBERRY",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PINEAPPLE",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "MULBERRY",
+      "row": 1,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "COCONUT",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "CHERRY",
+      "row": 0,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "RAISIN",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "BANANA",
+      "row": 6,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "ORANGE",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "MELON",
+      "row": 7,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "GRAPE",
+      "row": 2,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "APPLE",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BERRY",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "KIWI",
+      "row": 7,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "PLUM",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 892491532
+}

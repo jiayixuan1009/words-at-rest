@@ -1,0 +1,208 @@
+{
+  "id": "islands-easy-04",
+  "slug": "islands-easy-04",
+  "themeId": "islands",
+  "title": "Islands Word Search (Easy) #04",
+  "primaryKeyword": "islands word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ATOLL",
+    "BEACH",
+    "CLIFF",
+    "DOCK",
+    "FISH",
+    "ISLAND",
+    "JETTY",
+    "MAP",
+    "PIER",
+    "VISTA"
+  ],
+  "grid": [
+    [
+      "C",
+      "L",
+      "I",
+      "F",
+      "F",
+      "V",
+      "F",
+      "F",
+      "U",
+      "C"
+    ],
+    [
+      "Y",
+      "S",
+      "A",
+      "I",
+      "F",
+      "G",
+      "I",
+      "P",
+      "J",
+      "E"
+    ],
+    [
+      "Z",
+      "M",
+      "T",
+      "S",
+      "W",
+      "J",
+      "S",
+      "I",
+      "H",
+      "M"
+    ],
+    [
+      "J",
+      "M",
+      "O",
+      "L",
+      "I",
+      "S",
+      "H",
+      "C",
+      "Z",
+      "A"
+    ],
+    [
+      "V",
+      "A",
+      "L",
+      "A",
+      "I",
+      "L",
+      "O",
+      "V",
+      "Q",
+      "P"
+    ],
+    [
+      "W",
+      "B",
+      "L",
+      "N",
+      "D",
+      "G",
+      "S",
+      "I",
+      "R",
+      "I"
+    ],
+    [
+      "P",
+      "E",
+      "X",
+      "D",
+      "O",
+      "L",
+      "K",
+      "S",
+      "V",
+      "E"
+    ],
+    [
+      "A",
+      "A",
+      "O",
+      "W",
+      "C",
+      "Q",
+      "E",
+      "T",
+      "W",
+      "R"
+    ],
+    [
+      "O",
+      "C",
+      "O",
+      "N",
+      "K",
+      "B",
+      "P",
+      "A",
+      "U",
+      "I"
+    ],
+    [
+      "V",
+      "H",
+      "J",
+      "E",
+      "T",
+      "T",
+      "Y",
+      "F",
+      "V",
+      "P"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ISLAND",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "BEACH",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "VISTA",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "ATOLL",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "CLIFF",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "JETTY",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PIER",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "DOCK",
+      "row": 5,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "FISH",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "MAP",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 3988684838
+}

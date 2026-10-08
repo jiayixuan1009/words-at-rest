@@ -1,0 +1,284 @@
+{
+  "id": "horses-medium-08",
+  "slug": "horses-medium-08",
+  "themeId": "horses",
+  "title": "Horses Word Search (Medium) #08",
+  "primaryKeyword": "horses word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BARN",
+    "BIT",
+    "BRIDLE",
+    "CROP",
+    "GATE",
+    "HERD",
+    "HOOF",
+    "LEAD",
+    "MARE",
+    "PADDOCK",
+    "PASTURE",
+    "PONY",
+    "STABLE",
+    "TAIL"
+  ],
+  "grid": [
+    [
+      "B",
+      "B",
+      "R",
+      "I",
+      "D",
+      "L",
+      "E",
+      "H",
+      "S",
+      "R",
+      "Q",
+      "B"
+    ],
+    [
+      "W",
+      "R",
+      "H",
+      "L",
+      "P",
+      "G",
+      "A",
+      "T",
+      "E",
+      "A",
+      "I",
+      "Z"
+    ],
+    [
+      "G",
+      "G",
+      "C",
+      "Q",
+      "N",
+      "P",
+      "Q",
+      "C",
+      "R",
+      "O",
+      "P",
+      "S"
+    ],
+    [
+      "S",
+      "B",
+      "P",
+      "A",
+      "D",
+      "D",
+      "O",
+      "C",
+      "K",
+      "V",
+      "L",
+      "F"
+    ],
+    [
+      "H",
+      "E",
+      "R",
+      "D",
+      "T",
+      "A",
+      "I",
+      "L",
+      "O",
+      "P",
+      "E",
+      "D"
+    ],
+    [
+      "P",
+      "T",
+      "J",
+      "M",
+      "B",
+      "E",
+      "M",
+      "N",
+      "M",
+      "R",
+      "D",
+      "R"
+    ],
+    [
+      "H",
+      "Q",
+      "E",
+      "A",
+      "I",
+      "P",
+      "F",
+      "E",
+      "U",
+      "A",
+      "G",
+      "P"
+    ],
+    [
+      "I",
+      "O",
+      "V",
+      "R",
+      "T",
+      "D",
+      "N",
+      "T",
+      "E",
+      "L",
+      "S",
+      "O"
+    ],
+    [
+      "Z",
+      "Q",
+      "O",
+      "E",
+      "P",
+      "R",
+      "S",
+      "L",
+      "V",
+      "I",
+      "X",
+      "N"
+    ],
+    [
+      "C",
+      "L",
+      "J",
+      "F",
+      "A",
+      "A",
+      "D",
+      "V",
+      "Z",
+      "I",
+      "B",
+      "Y"
+    ],
+    [
+      "R",
+      "V",
+      "V",
+      "B",
+      "P",
+      "S",
+      "T",
+      "A",
+      "B",
+      "L",
+      "E",
+      "U"
+    ],
+    [
+      "A",
+      "R",
+      "D",
+      "T",
+      "K",
+      "S",
+      "H",
+      "K",
+      "R",
+      "I",
+      "A",
+      "B"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PASTURE",
+      "row": 10,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "PADDOCK",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "STABLE",
+      "row": 10,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "BRIDLE",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "LEAD",
+      "row": 8,
+      "col": 7,
+      "direction": "NE"
+    },
+    {
+      "word": "BARN",
+      "row": 10,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "GATE",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "HERD",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "TAIL",
+      "row": 4,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CROP",
+      "row": 2,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "HOOF",
+      "row": 6,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "PONY",
+      "row": 6,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "MARE",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "BIT",
+      "row": 5,
+      "col": 4,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 642073667
+}

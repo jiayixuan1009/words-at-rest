@@ -1,0 +1,284 @@
+{
+  "id": "cars-medium-07",
+  "slug": "cars-medium-07",
+  "themeId": "cars",
+  "title": "Cars Word Search (Medium) #07",
+  "primaryKeyword": "cars word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "AXLE",
+    "BEAM",
+    "BELT",
+    "BRAKE",
+    "ENGINE",
+    "EXIT",
+    "GARAGE",
+    "HIGHWAY",
+    "HORN",
+    "ODOMETER",
+    "PARK",
+    "RADIO",
+    "RAMP",
+    "SPEED"
+  ],
+  "grid": [
+    [
+      "W",
+      "H",
+      "I",
+      "G",
+      "H",
+      "W",
+      "A",
+      "Y",
+      "L",
+      "O",
+      "G",
+      "L"
+    ],
+    [
+      "F",
+      "L",
+      "N",
+      "B",
+      "O",
+      "R",
+      "A",
+      "X",
+      "L",
+      "E",
+      "I",
+      "M"
+    ],
+    [
+      "W",
+      "A",
+      "S",
+      "I",
+      "Q",
+      "A",
+      "G",
+      "M",
+      "B",
+      "Z",
+      "E",
+      "P"
+    ],
+    [
+      "F",
+      "I",
+      "D",
+      "P",
+      "X",
+      "M",
+      "P",
+      "A",
+      "C",
+      "R",
+      "O",
+      "T"
+    ],
+    [
+      "S",
+      "A",
+      "W",
+      "P",
+      "E",
+      "P",
+      "F",
+      "J",
+      "R",
+      "U",
+      "L",
+      "X"
+    ],
+    [
+      "R",
+      "O",
+      "D",
+      "O",
+      "M",
+      "E",
+      "T",
+      "E",
+      "R",
+      "A",
+      "J",
+      "I"
+    ],
+    [
+      "H",
+      "E",
+      "X",
+      "I",
+      "T",
+      "Q",
+      "D",
+      "T",
+      "U",
+      "F",
+      "G",
+      "Q"
+    ],
+    [
+      "M",
+      "I",
+      "E",
+      "N",
+      "G",
+      "I",
+      "N",
+      "E",
+      "S",
+      "G",
+      "D",
+      "E"
+    ],
+    [
+      "P",
+      "F",
+      "W",
+      "U",
+      "S",
+      "J",
+      "B",
+      "J",
+      "H",
+      "F",
+      "P",
+      "P"
+    ],
+    [
+      "J",
+      "L",
+      "F",
+      "V",
+      "H",
+      "B",
+      "E",
+      "A",
+      "M",
+      "O",
+      "A",
+      "S"
+    ],
+    [
+      "B",
+      "R",
+      "A",
+      "K",
+      "E",
+      "L",
+      "L",
+      "N",
+      "Q",
+      "Y",
+      "R",
+      "J"
+    ],
+    [
+      "S",
+      "T",
+      "W",
+      "Y",
+      "R",
+      "Y",
+      "T",
+      "T",
+      "S",
+      "I",
+      "K",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ODOMETER",
+      "row": 5,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "HIGHWAY",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "GARAGE",
+      "row": 2,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "ENGINE",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BRAKE",
+      "row": 10,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SPEED",
+      "row": 2,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "RADIO",
+      "row": 5,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "HORN",
+      "row": 8,
+      "col": 8,
+      "direction": "SE"
+    },
+    {
+      "word": "PARK",
+      "row": 8,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "AXLE",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "RAMP",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "BEAM",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "BELT",
+      "row": 8,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "EXIT",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 618636451
+}

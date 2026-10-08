@@ -1,0 +1,284 @@
+{
+  "id": "farm-animals-medium-05",
+  "slug": "farm-animals-medium-05",
+  "themeId": "farm-animals",
+  "title": "Farm Animals Word Search (Medium) #05",
+  "primaryKeyword": "farm animals word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BARN",
+    "BULL",
+    "CALF",
+    "DOG",
+    "DONKEY",
+    "FEED",
+    "FLOCK",
+    "GOAT",
+    "HORSE",
+    "LLAMA",
+    "PONY",
+    "ROOSTER",
+    "SHEEP",
+    "TAIL"
+  ],
+  "grid": [
+    [
+      "I",
+      "B",
+      "K",
+      "J",
+      "S",
+      "Z",
+      "R",
+      "Q",
+      "F",
+      "E",
+      "X",
+      "X"
+    ],
+    [
+      "B",
+      "U",
+      "A",
+      "G",
+      "H",
+      "J",
+      "A",
+      "V",
+      "C",
+      "B",
+      "N",
+      "R"
+    ],
+    [
+      "G",
+      "L",
+      "Z",
+      "O",
+      "E",
+      "R",
+      "C",
+      "R",
+      "M",
+      "X",
+      "R",
+      "V"
+    ],
+    [
+      "X",
+      "L",
+      "T",
+      "L",
+      "E",
+      "V",
+      "E",
+      "G",
+      "G",
+      "R",
+      "T",
+      "F"
+    ],
+    [
+      "E",
+      "R",
+      "A",
+      "J",
+      "P",
+      "T",
+      "P",
+      "O",
+      "N",
+      "Y",
+      "L",
+      "R"
+    ],
+    [
+      "F",
+      "Y",
+      "I",
+      "U",
+      "S",
+      "N",
+      "W",
+      "A",
+      "F",
+      "A",
+      "C",
+      "N"
+    ],
+    [
+      "B",
+      "L",
+      "L",
+      "O",
+      "M",
+      "T",
+      "H",
+      "T",
+      "C",
+      "C",
+      "R",
+      "A"
+    ],
+    [
+      "F",
+      "F",
+      "O",
+      "D",
+      "O",
+      "N",
+      "K",
+      "E",
+      "Y",
+      "A",
+      "M",
+      "D"
+    ],
+    [
+      "P",
+      "R",
+      "E",
+      "C",
+      "T",
+      "D",
+      "A",
+      "V",
+      "B",
+      "A",
+      "B",
+      "P"
+    ],
+    [
+      "R",
+      "A",
+      "F",
+      "E",
+      "K",
+      "Q",
+      "D",
+      "D",
+      "L",
+      "M",
+      "I",
+      "A"
+    ],
+    [
+      "J",
+      "I",
+      "H",
+      "U",
+      "D",
+      "T",
+      "G",
+      "L",
+      "D",
+      "O",
+      "G",
+      "U"
+    ],
+    [
+      "W",
+      "Q",
+      "J",
+      "M",
+      "Z",
+      "H",
+      "O",
+      "R",
+      "S",
+      "E",
+      "N",
+      "K"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ROOSTER",
+      "row": 8,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "DONKEY",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "HORSE",
+      "row": 11,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SHEEP",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "LLAMA",
+      "row": 10,
+      "col": 7,
+      "direction": "NE"
+    },
+    {
+      "word": "FLOCK",
+      "row": 5,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "BULL",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "CALF",
+      "row": 6,
+      "col": 8,
+      "direction": "NE"
+    },
+    {
+      "word": "BARN",
+      "row": 8,
+      "col": 8,
+      "direction": "NE"
+    },
+    {
+      "word": "GOAT",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "FEED",
+      "row": 7,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "TAIL",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "PONY",
+      "row": 4,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "DOG",
+      "row": 10,
+      "col": 8,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1363829583
+}

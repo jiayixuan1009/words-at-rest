@@ -1,0 +1,208 @@
+{
+  "id": "gardening-tools-easy-04",
+  "slug": "gardening-tools-easy-04",
+  "themeId": "gardening-tools",
+  "title": "Gardening Tools Word Search (Easy) #04",
+  "primaryKeyword": "gardening tools word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "APRON",
+    "BASKET",
+    "BENCH",
+    "CRAFT",
+    "LOPPER",
+    "POT",
+    "SHED",
+    "SPADE",
+    "TOOL",
+    "WAND"
+  ],
+  "grid": [
+    [
+      "B",
+      "A",
+      "S",
+      "K",
+      "E",
+      "T",
+      "F",
+      "G",
+      "P",
+      "O"
+    ],
+    [
+      "D",
+      "N",
+      "W",
+      "A",
+      "N",
+      "D",
+      "A",
+      "S",
+      "B",
+      "L"
+    ],
+    [
+      "C",
+      "F",
+      "S",
+      "O",
+      "X",
+      "O",
+      "J",
+      "P",
+      "B",
+      "O"
+    ],
+    [
+      "R",
+      "E",
+      "J",
+      "V",
+      "X",
+      "Y",
+      "X",
+      "A",
+      "E",
+      "P"
+    ],
+    [
+      "A",
+      "F",
+      "A",
+      "P",
+      "R",
+      "O",
+      "N",
+      "D",
+      "N",
+      "P"
+    ],
+    [
+      "F",
+      "X",
+      "E",
+      "S",
+      "D",
+      "Z",
+      "E",
+      "E",
+      "C",
+      "E"
+    ],
+    [
+      "T",
+      "P",
+      "B",
+      "H",
+      "M",
+      "X",
+      "O",
+      "Z",
+      "H",
+      "R"
+    ],
+    [
+      "R",
+      "Q",
+      "W",
+      "E",
+      "Y",
+      "P",
+      "O",
+      "T",
+      "W",
+      "I"
+    ],
+    [
+      "M",
+      "U",
+      "O",
+      "D",
+      "T",
+      "O",
+      "O",
+      "L",
+      "F",
+      "U"
+    ],
+    [
+      "D",
+      "V",
+      "H",
+      "U",
+      "N",
+      "Z",
+      "B",
+      "A",
+      "F",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "LOPPER",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "BASKET",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "APRON",
+      "row": 4,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SPADE",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "CRAFT",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BENCH",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "SHED",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "TOOL",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "WAND",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "POT",
+      "row": 7,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 844338904
+}

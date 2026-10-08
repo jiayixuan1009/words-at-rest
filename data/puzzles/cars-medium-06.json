@@ -1,0 +1,284 @@
+{
+  "id": "cars-medium-06",
+  "slug": "cars-medium-06",
+  "themeId": "cars",
+  "title": "Cars Word Search (Medium) #06",
+  "primaryKeyword": "cars word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "AUTO",
+    "AXLE",
+    "CAR",
+    "DRIVE",
+    "GEAR",
+    "HOOD",
+    "HORN",
+    "JACK",
+    "LOCK",
+    "PEDAL",
+    "ROAD",
+    "SEAT",
+    "SIGNAL",
+    "SPARE"
+  ],
+  "grid": [
+    [
+      "N",
+      "G",
+      "S",
+      "E",
+      "A",
+      "T",
+      "U",
+      "P",
+      "E",
+      "D",
+      "A",
+      "L"
+    ],
+    [
+      "R",
+      "N",
+      "U",
+      "X",
+      "C",
+      "Y",
+      "O",
+      "E",
+      "R",
+      "H",
+      "P",
+      "B"
+    ],
+    [
+      "O",
+      "R",
+      "H",
+      "X",
+      "Y",
+      "T",
+      "L",
+      "I",
+      "D",
+      "U",
+      "A",
+      "Q"
+    ],
+    [
+      "A",
+      "V",
+      "C",
+      "U",
+      "U",
+      "X",
+      "W",
+      "P",
+      "N",
+      "K",
+      "V",
+      "P"
+    ],
+    [
+      "D",
+      "S",
+      "S",
+      "A",
+      "A",
+      "X",
+      "U",
+      "P",
+      "E",
+      "I",
+      "Y",
+      "P"
+    ],
+    [
+      "O",
+      "V",
+      "P",
+      "K",
+      "W",
+      "R",
+      "D",
+      "R",
+      "I",
+      "V",
+      "E",
+      "L"
+    ],
+    [
+      "B",
+      "U",
+      "D",
+      "A",
+      "J",
+      "A",
+      "C",
+      "K",
+      "C",
+      "N",
+      "Y",
+      "A"
+    ],
+    [
+      "K",
+      "K",
+      "L",
+      "L",
+      "R",
+      "U",
+      "E",
+      "G",
+      "E",
+      "A",
+      "R",
+      "J"
+    ],
+    [
+      "H",
+      "R",
+      "M",
+      "O",
+      "Q",
+      "E",
+      "S",
+      "I",
+      "G",
+      "N",
+      "A",
+      "L"
+    ],
+    [
+      "W",
+      "O",
+      "K",
+      "P",
+      "C",
+      "H",
+      "A",
+      "M",
+      "Y",
+      "C",
+      "O",
+      "Z"
+    ],
+    [
+      "G",
+      "W",
+      "R",
+      "S",
+      "U",
+      "K",
+      "D",
+      "K",
+      "H",
+      "R",
+      "K",
+      "M"
+    ],
+    [
+      "G",
+      "V",
+      "H",
+      "N",
+      "W",
+      "H",
+      "O",
+      "O",
+      "D",
+      "C",
+      "A",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SIGNAL",
+      "row": 8,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "SPARE",
+      "row": 4,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "DRIVE",
+      "row": 5,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "PEDAL",
+      "row": 0,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "AUTO",
+      "row": 4,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "AXLE",
+      "row": 4,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "HORN",
+      "row": 8,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "LOCK",
+      "row": 7,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "HOOD",
+      "row": 11,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "JACK",
+      "row": 6,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SEAT",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "GEAR",
+      "row": 7,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "ROAD",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CAR",
+      "row": 11,
+      "col": 9,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 3762982385
+}

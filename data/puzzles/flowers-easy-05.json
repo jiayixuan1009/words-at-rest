@@ -1,0 +1,208 @@
+{
+  "id": "flowers-easy-05",
+  "slug": "flowers-easy-05",
+  "themeId": "flowers",
+  "title": "Flowers Word Search (Easy) #05",
+  "primaryKeyword": "flowers word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ASTER",
+    "BORDER",
+    "BUD",
+    "BUTTERFLY",
+    "CUT",
+    "DAHLIA",
+    "HIBISCUS",
+    "LILAC",
+    "PETUNIA",
+    "SPRING"
+  ],
+  "grid": [
+    [
+      "H",
+      "A",
+      "M",
+      "S",
+      "A",
+      "S",
+      "T",
+      "E",
+      "R",
+      "R"
+    ],
+    [
+      "I",
+      "N",
+      "C",
+      "U",
+      "T",
+      "B",
+      "A",
+      "O",
+      "X",
+      "R"
+    ],
+    [
+      "B",
+      "B",
+      "U",
+      "T",
+      "T",
+      "E",
+      "R",
+      "F",
+      "L",
+      "Y"
+    ],
+    [
+      "I",
+      "I",
+      "P",
+      "G",
+      "B",
+      "A",
+      "I",
+      "P",
+      "E",
+      "H"
+    ],
+    [
+      "S",
+      "R",
+      "E",
+      "C",
+      "O",
+      "Z",
+      "Z",
+      "D",
+      "S",
+      "H"
+    ],
+    [
+      "C",
+      "S",
+      "T",
+      "L",
+      "R",
+      "B",
+      "P",
+      "A",
+      "P",
+      "E"
+    ],
+    [
+      "U",
+      "S",
+      "U",
+      "I",
+      "D",
+      "U",
+      "R",
+      "H",
+      "R",
+      "E"
+    ],
+    [
+      "S",
+      "W",
+      "N",
+      "L",
+      "E",
+      "D",
+      "D",
+      "L",
+      "I",
+      "O"
+    ],
+    [
+      "U",
+      "L",
+      "I",
+      "A",
+      "R",
+      "M",
+      "F",
+      "I",
+      "N",
+      "I"
+    ],
+    [
+      "P",
+      "U",
+      "A",
+      "C",
+      "U",
+      "Y",
+      "S",
+      "A",
+      "G",
+      "F"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BUTTERFLY",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "HIBISCUS",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "PETUNIA",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "DAHLIA",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SPRING",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "BORDER",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "ASTER",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "LILAC",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "CUT",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BUD",
+      "row": 5,
+      "col": 5,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1353224257
+}

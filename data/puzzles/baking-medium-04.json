@@ -1,0 +1,284 @@
+{
+  "id": "baking-medium-04",
+  "slug": "baking-medium-04",
+  "themeId": "baking",
+  "title": "Baking Word Search (Medium) #04",
+  "primaryKeyword": "baking word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BAKE",
+    "BISCUIT",
+    "CINNAMON",
+    "CREAM",
+    "CRUST",
+    "DOUGH",
+    "EGG",
+    "FROST",
+    "GLAZE",
+    "KNEAD",
+    "PIE",
+    "RACK",
+    "SCORE",
+    "TART"
+  ],
+  "grid": [
+    [
+      "S",
+      "R",
+      "T",
+      "G",
+      "L",
+      "A",
+      "Z",
+      "E",
+      "B",
+      "G",
+      "E",
+      "O"
+    ],
+    [
+      "C",
+      "A",
+      "H",
+      "X",
+      "W",
+      "E",
+      "C",
+      "F",
+      "E",
+      "R",
+      "J",
+      "Q"
+    ],
+    [
+      "R",
+      "C",
+      "P",
+      "J",
+      "H",
+      "J",
+      "A",
+      "K",
+      "H",
+      "R",
+      "F",
+      "S"
+    ],
+    [
+      "E",
+      "K",
+      "T",
+      "G",
+      "D",
+      "W",
+      "A",
+      "C",
+      "C",
+      "L",
+      "G",
+      "C"
+    ],
+    [
+      "A",
+      "E",
+      "U",
+      "A",
+      "Y",
+      "B",
+      "T",
+      "F",
+      "E",
+      "G",
+      "J",
+      "I"
+    ],
+    [
+      "M",
+      "O",
+      "E",
+      "F",
+      "R",
+      "H",
+      "L",
+      "L",
+      "E",
+      "S",
+      "L",
+      "T"
+    ],
+    [
+      "D",
+      "N",
+      "N",
+      "Y",
+      "R",
+      "T",
+      "H",
+      "K",
+      "I",
+      "E",
+      "C",
+      "Z"
+    ],
+    [
+      "K",
+      "W",
+      "I",
+      "U",
+      "B",
+      "O",
+      "C",
+      "R",
+      "U",
+      "S",
+      "T",
+      "K"
+    ],
+    [
+      "J",
+      "K",
+      "Y",
+      "K",
+      "A",
+      "S",
+      "S",
+      "C",
+      "O",
+      "R",
+      "E",
+      "B"
+    ],
+    [
+      "O",
+      "B",
+      "I",
+      "S",
+      "C",
+      "U",
+      "I",
+      "T",
+      "J",
+      "X",
+      "F",
+      "O"
+    ],
+    [
+      "S",
+      "C",
+      "U",
+      "D",
+      "E",
+      "P",
+      "I",
+      "E",
+      "J",
+      "W",
+      "R",
+      "W"
+    ],
+    [
+      "C",
+      "I",
+      "N",
+      "N",
+      "A",
+      "M",
+      "O",
+      "N",
+      "S",
+      "A",
+      "N",
+      "J"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CINNAMON",
+      "row": 11,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BISCUIT",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "GLAZE",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "FROST",
+      "row": 5,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "SCORE",
+      "row": 8,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "KNEAD",
+      "row": 7,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "DOUGH",
+      "row": 6,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "CRUST",
+      "row": 7,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "CREAM",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BAKE",
+      "row": 4,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "TART",
+      "row": 3,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "RACK",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "PIE",
+      "row": 10,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "EGG",
+      "row": 5,
+      "col": 8,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1263532358
+}

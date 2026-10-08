@@ -6,7 +6,9 @@ import { SITE } from "./site";
 import type { Difficulty, Puzzle, Theme } from "./types";
 import { DIFFICULTIES } from "./types";
 import {
+  compareDailyEntries,
   dailyEntryToPuzzle,
+  isFeaturedDaily,
   type DailyEntry,
   type DailyScheduleFile,
 } from "./daily";
@@ -53,23 +55,44 @@ export function puzzlePath(p: Puzzle): string {
 }
 
 // ---- Daily ---------------------------------------------------------------
-// From 2026-10-07: unique puzzles in data/daily.json (pre-queued; unlock at
-// midnight UTC with no deploy). Launch day is a frozen snapshot, independent
-// of catalog size/order. Unscheduled dates are not published.
+// From 2026-10-07: puzzles in data/daily.json (pre-queued; unlock at midnight
+// UTC with no deploy). Each date targets up to 10 entries (slot 1 = featured);
+// new entries are also theme-catalog puzzles. Launch day is a frozen snapshot,
+// independent of catalog size/order. Unscheduled dates are not published.
 // Archive /sitemap /calendar only include dates from SITE.dailyStart through
 // today UTC. Future dates 404 via isValidDailyDate. "calendar" is not a date.
 
 export const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
 
 const schedule = dailySchedule as DailyScheduleFile;
-const scheduledByDate = new Map(schedule.entries.map((e) => [e.date, e]));
 
-export function getDailyScheduleEntries(): DailyEntry[] {
-  return schedule.entries;
+function buildScheduleIndex(entries: DailyEntry[]) {
+  const byDate = new Map<string, DailyEntry[]>();
+  for (const e of entries) {
+    const list = byDate.get(e.date) ?? [];
+    list.push(e);
+    byDate.set(e.date, list);
+  }
+  for (const list of byDate.values()) list.sort(compareDailyEntries);
+  return byDate;
 }
 
+const scheduledByDate = buildScheduleIndex(schedule.entries);
+
+export function getDailyScheduleEntries(): DailyEntry[] {
+  return [...schedule.entries].sort(compareDailyEntries);
+}
+
+/** All schedule rows for a date (sorted by slot). Empty if unpublished. */
+export function getScheduledDailyEntries(date: string): DailyEntry[] {
+  return scheduledByDate.get(date) ?? [];
+}
+
+/** Featured (slot 1) schedule row for a date. */
 export function getScheduledDailyEntry(date: string): DailyEntry | undefined {
-  return scheduledByDate.get(date);
+  const list = scheduledByDate.get(date);
+  if (!list?.length) return undefined;
+  return list.find(isFeaturedDaily) ?? list[0];
 }
 
 /**
@@ -108,11 +131,26 @@ export function hasDailyPuzzle(date: string): boolean {
   return date === "2026-10-06" || scheduledByDate.has(date);
 }
 
+/** Featured daily for a date (slot 1). Same UX as the historic single daily. */
 export function getDailyPuzzle(date: string): Puzzle {
-  const scheduled = scheduledByDate.get(date);
+  const scheduled = getScheduledDailyEntry(date);
   if (scheduled) return dailyEntryToPuzzle(scheduled);
   if (date === "2026-10-06") return launchPuzzle as Puzzle;
   throw new Error(`Daily puzzle not published: ${date}`);
+}
+
+/** All dailies for a date, featured first then slots 2–10. Launch day → [launch]. */
+export function getDailyPuzzles(date: string): Puzzle[] {
+  const list = getScheduledDailyEntries(date);
+  if (list.length) return list.map(dailyEntryToPuzzle);
+  if (date === "2026-10-06") return [launchPuzzle as Puzzle];
+  throw new Error(`Daily puzzle not published: ${date}`);
+}
+
+export function getDailySiblingPuzzles(date: string): Puzzle[] {
+  return getScheduledDailyEntries(date)
+    .filter((e) => !isFeaturedDaily(e))
+    .map(dailyEntryToPuzzle);
 }
 
 /** Archive dates, newest first (past + today only). */

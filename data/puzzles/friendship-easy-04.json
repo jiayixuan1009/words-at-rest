@@ -1,0 +1,208 @@
+{
+  "id": "friendship-easy-04",
+  "slug": "friendship-easy-04",
+  "themeId": "friendship",
+  "title": "Friendship Word Search (Easy) #04",
+  "primaryKeyword": "friendship word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BOND",
+    "HEART",
+    "HOST",
+    "HUG",
+    "LISTEN",
+    "NEIGHBOR",
+    "STORY",
+    "TEA",
+    "VISIT",
+    "WALK"
+  ],
+  "grid": [
+    [
+      "L",
+      "K",
+      "X",
+      "U",
+      "W",
+      "D",
+      "Q",
+      "H",
+      "D",
+      "C"
+    ],
+    [
+      "I",
+      "V",
+      "E",
+      "W",
+      "A",
+      "Z",
+      "T",
+      "U",
+      "N",
+      "H"
+    ],
+    [
+      "S",
+      "I",
+      "S",
+      "X",
+      "L",
+      "K",
+      "E",
+      "G",
+      "E",
+      "E"
+    ],
+    [
+      "T",
+      "S",
+      "S",
+      "H",
+      "K",
+      "U",
+      "A",
+      "H",
+      "I",
+      "A"
+    ],
+    [
+      "E",
+      "I",
+      "D",
+      "S",
+      "F",
+      "G",
+      "T",
+      "O",
+      "G",
+      "R"
+    ],
+    [
+      "N",
+      "T",
+      "J",
+      "T",
+      "S",
+      "G",
+      "R",
+      "S",
+      "H",
+      "T"
+    ],
+    [
+      "B",
+      "L",
+      "F",
+      "O",
+      "J",
+      "J",
+      "I",
+      "T",
+      "B",
+      "T"
+    ],
+    [
+      "O",
+      "P",
+      "H",
+      "R",
+      "G",
+      "U",
+      "E",
+      "R",
+      "O",
+      "W"
+    ],
+    [
+      "N",
+      "I",
+      "O",
+      "Y",
+      "B",
+      "E",
+      "E",
+      "B",
+      "R",
+      "Z"
+    ],
+    [
+      "D",
+      "Q",
+      "J",
+      "N",
+      "A",
+      "G",
+      "J",
+      "C",
+      "N",
+      "M"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "NEIGHBOR",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "LISTEN",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "HEART",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "STORY",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "VISIT",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "BOND",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "HOST",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "WALK",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "TEA",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "HUG",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 794006047
+}

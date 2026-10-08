@@ -1,0 +1,284 @@
+{
+  "id": "herbs-medium-06",
+  "slug": "herbs-medium-06",
+  "themeId": "herbs",
+  "title": "Herbs & Spices Word Search (Medium) #06",
+  "primaryKeyword": "herbs and spices word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ALLSPICE",
+    "BLEND",
+    "CLOVE",
+    "DILL",
+    "GINGER",
+    "HERB",
+    "MINT",
+    "MUSTARD",
+    "PARSLEY",
+    "PEPPER",
+    "SAFFRON",
+    "SUMAC",
+    "TARRAGON",
+    "VANILLA"
+  ],
+  "grid": [
+    [
+      "H",
+      "E",
+      "R",
+      "B",
+      "E",
+      "N",
+      "Y",
+      "X",
+      "M",
+      "W",
+      "Z",
+      "W"
+    ],
+    [
+      "P",
+      "S",
+      "L",
+      "R",
+      "H",
+      "L",
+      "X",
+      "L",
+      "A",
+      "I",
+      "U",
+      "R"
+    ],
+    [
+      "E",
+      "L",
+      "P",
+      "V",
+      "A",
+      "N",
+      "I",
+      "L",
+      "L",
+      "A",
+      "N",
+      "H"
+    ],
+    [
+      "P",
+      "J",
+      "A",
+      "Q",
+      "T",
+      "S",
+      "Z",
+      "Z",
+      "E",
+      "Z",
+      "I",
+      "T"
+    ],
+    [
+      "P",
+      "A",
+      "R",
+      "B",
+      "M",
+      "A",
+      "H",
+      "O",
+      "L",
+      "N",
+      "C",
+      "Q"
+    ],
+    [
+      "E",
+      "L",
+      "S",
+      "L",
+      "U",
+      "F",
+      "R",
+      "E",
+      "E",
+      "A",
+      "V",
+      "V"
+    ],
+    [
+      "R",
+      "L",
+      "L",
+      "E",
+      "S",
+      "F",
+      "K",
+      "R",
+      "M",
+      "O",
+      "E",
+      "D"
+    ],
+    [
+      "E",
+      "S",
+      "E",
+      "N",
+      "T",
+      "R",
+      "V",
+      "U",
+      "A",
+      "S",
+      "E",
+      "I"
+    ],
+    [
+      "Y",
+      "P",
+      "Y",
+      "D",
+      "A",
+      "O",
+      "S",
+      "M",
+      "X",
+      "G",
+      "K",
+      "L"
+    ],
+    [
+      "W",
+      "I",
+      "P",
+      "W",
+      "R",
+      "N",
+      "V",
+      "Z",
+      "G",
+      "E",
+      "O",
+      "L"
+    ],
+    [
+      "L",
+      "C",
+      "H",
+      "T",
+      "D",
+      "H",
+      "C",
+      "L",
+      "O",
+      "V",
+      "E",
+      "N"
+    ],
+    [
+      "J",
+      "E",
+      "G",
+      "I",
+      "N",
+      "G",
+      "E",
+      "R",
+      "T",
+      "E",
+      "S",
+      "Q"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ALLSPICE",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "TARRAGON",
+      "row": 3,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "MUSTARD",
+      "row": 4,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "SAFFRON",
+      "row": 3,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "VANILLA",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "PARSLEY",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "GINGER",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PEPPER",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CLOVE",
+      "row": 10,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "BLEND",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "SUMAC",
+      "row": 8,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "DILL",
+      "row": 6,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "MINT",
+      "row": 0,
+      "col": 8,
+      "direction": "SE"
+    },
+    {
+      "word": "HERB",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1589061864
+}

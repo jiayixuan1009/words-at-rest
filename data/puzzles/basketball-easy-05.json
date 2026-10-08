@@ -1,0 +1,208 @@
+{
+  "id": "basketball-easy-05",
+  "slug": "basketball-easy-05",
+  "themeId": "basketball",
+  "title": "Basketball Word Search (Easy) #05",
+  "primaryKeyword": "basketball word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ASSIST",
+    "CENTER",
+    "COACH",
+    "DRIBBLE",
+    "DRILL",
+    "GUARD",
+    "HOOP",
+    "PRESS",
+    "STARTER",
+    "ZONE"
+  ],
+  "grid": [
+    [
+      "A",
+      "C",
+      "D",
+      "R",
+      "I",
+      "B",
+      "B",
+      "L",
+      "E",
+      "E"
+    ],
+    [
+      "Y",
+      "Z",
+      "A",
+      "S",
+      "S",
+      "I",
+      "S",
+      "T",
+      "I",
+      "C"
+    ],
+    [
+      "A",
+      "O",
+      "C",
+      "O",
+      "A",
+      "C",
+      "H",
+      "L",
+      "H",
+      "C"
+    ],
+    [
+      "O",
+      "N",
+      "T",
+      "S",
+      "T",
+      "A",
+      "R",
+      "T",
+      "E",
+      "R"
+    ],
+    [
+      "I",
+      "E",
+      "B",
+      "S",
+      "M",
+      "X",
+      "Z",
+      "S",
+      "D",
+      "P"
+    ],
+    [
+      "G",
+      "H",
+      "O",
+      "O",
+      "P",
+      "J",
+      "D",
+      "B",
+      "E",
+      "R"
+    ],
+    [
+      "D",
+      "N",
+      "H",
+      "X",
+      "O",
+      "J",
+      "R",
+      "X",
+      "B",
+      "E"
+    ],
+    [
+      "R",
+      "E",
+      "D",
+      "N",
+      "D",
+      "U",
+      "I",
+      "Z",
+      "D",
+      "S"
+    ],
+    [
+      "C",
+      "E",
+      "N",
+      "T",
+      "E",
+      "R",
+      "L",
+      "H",
+      "C",
+      "S"
+    ],
+    [
+      "G",
+      "U",
+      "A",
+      "R",
+      "D",
+      "W",
+      "L",
+      "X",
+      "R",
+      "D"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "DRIBBLE",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "STARTER",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "CENTER",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "ASSIST",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PRESS",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "COACH",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "GUARD",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "DRILL",
+      "row": 5,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "ZONE",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "HOOP",
+      "row": 5,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1811104814
+}

@@ -1,0 +1,208 @@
+{
+  "id": "bible-easy-08",
+  "slug": "bible-easy-08",
+  "themeId": "bible",
+  "title": "Bible Word Search (Easy) #08",
+  "primaryKeyword": "bible word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ANDREW",
+    "CALVARY",
+    "CAPERNAUM",
+    "GENESIS",
+    "GRACE",
+    "GUEST",
+    "HOPE",
+    "JAMES",
+    "JEREMIAH",
+    "SOLOMON"
+  ],
+  "grid": [
+    [
+      "D",
+      "Z",
+      "J",
+      "A",
+      "M",
+      "E",
+      "S",
+      "C",
+      "C",
+      "V"
+    ],
+    [
+      "L",
+      "A",
+      "Y",
+      "F",
+      "J",
+      "R",
+      "J",
+      "A",
+      "A",
+      "D"
+    ],
+    [
+      "O",
+      "H",
+      "O",
+      "P",
+      "E",
+      "D",
+      "J",
+      "L",
+      "P",
+      "O"
+    ],
+    [
+      "S",
+      "G",
+      "A",
+      "I",
+      "I",
+      "G",
+      "E",
+      "V",
+      "E",
+      "S"
+    ],
+    [
+      "L",
+      "R",
+      "N",
+      "F",
+      "C",
+      "E",
+      "R",
+      "A",
+      "R",
+      "O"
+    ],
+    [
+      "D",
+      "A",
+      "D",
+      "C",
+      "G",
+      "N",
+      "E",
+      "R",
+      "N",
+      "L"
+    ],
+    [
+      "A",
+      "C",
+      "R",
+      "W",
+      "U",
+      "E",
+      "M",
+      "Y",
+      "A",
+      "O"
+    ],
+    [
+      "M",
+      "E",
+      "E",
+      "J",
+      "E",
+      "S",
+      "I",
+      "E",
+      "U",
+      "M"
+    ],
+    [
+      "C",
+      "E",
+      "W",
+      "H",
+      "S",
+      "I",
+      "A",
+      "H",
+      "M",
+      "O"
+    ],
+    [
+      "K",
+      "J",
+      "G",
+      "C",
+      "T",
+      "S",
+      "H",
+      "J",
+      "A",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CAPERNAUM",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "JEREMIAH",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "SOLOMON",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "CALVARY",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "GENESIS",
+      "row": 3,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "ANDREW",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "JAMES",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "GUEST",
+      "row": 5,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "GRACE",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "HOPE",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 559245201
+}

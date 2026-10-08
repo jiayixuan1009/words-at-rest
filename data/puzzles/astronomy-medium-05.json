@@ -1,0 +1,284 @@
+{
+  "id": "astronomy-medium-05",
+  "slug": "astronomy-medium-05",
+  "themeId": "astronomy",
+  "title": "Astronomy Word Search (Medium) #05",
+  "primaryKeyword": "astronomy word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CHART",
+    "CLUSTER",
+    "DAWN",
+    "DUST",
+    "EQUATOR",
+    "EYEPIECE",
+    "GAS",
+    "GRAVITY",
+    "LENS",
+    "MILKY",
+    "NIGHT",
+    "STAR",
+    "UNIVERSE",
+    "VOID"
+  ],
+  "grid": [
+    [
+      "L",
+      "P",
+      "V",
+      "P",
+      "H",
+      "C",
+      "L",
+      "U",
+      "S",
+      "T",
+      "E",
+      "R"
+    ],
+    [
+      "E",
+      "R",
+      "E",
+      "G",
+      "C",
+      "F",
+      "Y",
+      "S",
+      "D",
+      "F",
+      "G",
+      "P"
+    ],
+    [
+      "N",
+      "M",
+      "Y",
+      "Y",
+      "H",
+      "V",
+      "Y",
+      "T",
+      "G",
+      "Q",
+      "R",
+      "Z"
+    ],
+    [
+      "S",
+      "Q",
+      "E",
+      "U",
+      "A",
+      "J",
+      "N",
+      "A",
+      "W",
+      "O",
+      "A",
+      "E"
+    ],
+    [
+      "W",
+      "J",
+      "P",
+      "D",
+      "R",
+      "U",
+      "I",
+      "R",
+      "L",
+      "M",
+      "V",
+      "Q"
+    ],
+    [
+      "R",
+      "O",
+      "I",
+      "S",
+      "T",
+      "N",
+      "G",
+      "E",
+      "K",
+      "V",
+      "I",
+      "U"
+    ],
+    [
+      "M",
+      "D",
+      "E",
+      "K",
+      "W",
+      "I",
+      "H",
+      "N",
+      "E",
+      "O",
+      "T",
+      "A"
+    ],
+    [
+      "I",
+      "Z",
+      "C",
+      "N",
+      "U",
+      "V",
+      "T",
+      "N",
+      "D",
+      "I",
+      "Y",
+      "T"
+    ],
+    [
+      "L",
+      "H",
+      "E",
+      "F",
+      "D",
+      "E",
+      "X",
+      "C",
+      "U",
+      "D",
+      "R",
+      "O"
+    ],
+    [
+      "K",
+      "Z",
+      "G",
+      "H",
+      "A",
+      "R",
+      "S",
+      "A",
+      "S",
+      "G",
+      "T",
+      "R"
+    ],
+    [
+      "Y",
+      "N",
+      "U",
+      "T",
+      "W",
+      "S",
+      "U",
+      "X",
+      "T",
+      "P",
+      "A",
+      "U"
+    ],
+    [
+      "D",
+      "W",
+      "D",
+      "P",
+      "N",
+      "E",
+      "C",
+      "B",
+      "A",
+      "E",
+      "J",
+      "S"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "UNIVERSE",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "EYEPIECE",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "EQUATOR",
+      "row": 3,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "CLUSTER",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "GRAVITY",
+      "row": 1,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "MILKY",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "NIGHT",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "CHART",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "VOID",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "DAWN",
+      "row": 8,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "LENS",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "STAR",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "DUST",
+      "row": 7,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "GAS",
+      "row": 9,
+      "col": 9,
+      "direction": "SE"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 4106128171
+}

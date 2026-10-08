@@ -1,0 +1,208 @@
+{
+  "id": "continents-easy-07",
+  "slug": "continents-easy-07",
+  "themeId": "continents",
+  "title": "Continents Word Search (Easy) #07",
+  "primaryKeyword": "continents word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ARCTIC",
+    "EARTH",
+    "EAST",
+    "EQUATOR",
+    "PENINSULA",
+    "POLE",
+    "RIVER",
+    "TROPIC",
+    "WEST",
+    "ZONE"
+  ],
+  "grid": [
+    [
+      "X",
+      "G",
+      "C",
+      "J",
+      "V",
+      "E",
+      "P",
+      "E",
+      "B",
+      "R"
+    ],
+    [
+      "T",
+      "C",
+      "T",
+      "W",
+      "E",
+      "Q",
+      "E",
+      "E",
+      "Z",
+      "T"
+    ],
+    [
+      "U",
+      "O",
+      "R",
+      "J",
+      "T",
+      "U",
+      "N",
+      "A",
+      "O",
+      "A"
+    ],
+    [
+      "R",
+      "E",
+      "O",
+      "W",
+      "H",
+      "A",
+      "I",
+      "R",
+      "N",
+      "R"
+    ],
+    [
+      "R",
+      "A",
+      "P",
+      "E",
+      "T",
+      "T",
+      "N",
+      "T",
+      "E",
+      "C"
+    ],
+    [
+      "I",
+      "S",
+      "I",
+      "S",
+      "F",
+      "O",
+      "S",
+      "H",
+      "F",
+      "T"
+    ],
+    [
+      "V",
+      "T",
+      "C",
+      "T",
+      "Y",
+      "R",
+      "U",
+      "F",
+      "V",
+      "I"
+    ],
+    [
+      "E",
+      "M",
+      "Z",
+      "Z",
+      "U",
+      "F",
+      "L",
+      "W",
+      "G",
+      "C"
+    ],
+    [
+      "R",
+      "L",
+      "P",
+      "R",
+      "C",
+      "V",
+      "A",
+      "S",
+      "A",
+      "W"
+    ],
+    [
+      "N",
+      "H",
+      "D",
+      "H",
+      "R",
+      "N",
+      "P",
+      "O",
+      "L",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PENINSULA",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "EQUATOR",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "ARCTIC",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "TROPIC",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "RIVER",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "EARTH",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "EAST",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "POLE",
+      "row": 9,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "ZONE",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "WEST",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 15403425
+}

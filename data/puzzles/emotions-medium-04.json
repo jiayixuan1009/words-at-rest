@@ -1,0 +1,284 @@
+{
+  "id": "emotions-medium-04",
+  "slug": "emotions-medium-04",
+  "themeId": "emotions",
+  "title": "Emotions Word Search (Medium) #04",
+  "primaryKeyword": "emotions word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ANGER",
+    "COMFORT",
+    "CONTENT",
+    "COURAGE",
+    "DOUBT",
+    "FAITH",
+    "FEAR",
+    "GENTLE",
+    "GRIEF",
+    "GUILT",
+    "HOPE",
+    "MERRY",
+    "SERENE",
+    "TEAR"
+  ],
+  "grid": [
+    [
+      "F",
+      "L",
+      "A",
+      "F",
+      "V",
+      "D",
+      "M",
+      "E",
+      "R",
+      "R",
+      "Y",
+      "S"
+    ],
+    [
+      "A",
+      "T",
+      "R",
+      "D",
+      "O",
+      "U",
+      "B",
+      "T",
+      "K",
+      "L",
+      "S",
+      "U"
+    ],
+    [
+      "I",
+      "G",
+      "R",
+      "I",
+      "E",
+      "F",
+      "N",
+      "C",
+      "J",
+      "N",
+      "T",
+      "R"
+    ],
+    [
+      "T",
+      "V",
+      "H",
+      "O",
+      "P",
+      "E",
+      "P",
+      "J",
+      "Y",
+      "R",
+      "E",
+      "D"
+    ],
+    [
+      "H",
+      "K",
+      "Y",
+      "J",
+      "T",
+      "S",
+      "T",
+      "U",
+      "O",
+      "G",
+      "N",
+      "T"
+    ],
+    [
+      "H",
+      "Y",
+      "C",
+      "N",
+      "P",
+      "L",
+      "E",
+      "F",
+      "A",
+      "R",
+      "S",
+      "E"
+    ],
+    [
+      "Z",
+      "C",
+      "O",
+      "R",
+      "I",
+      "D",
+      "M",
+      "R",
+      "G",
+      "I",
+      "R",
+      "A"
+    ],
+    [
+      "A",
+      "C",
+      "A",
+      "U",
+      "C",
+      "O",
+      "U",
+      "O",
+      "E",
+      "E",
+      "W",
+      "R"
+    ],
+    [
+      "R",
+      "E",
+      "G",
+      "B",
+      "C",
+      "O",
+      "H",
+      "T",
+      "G",
+      "N",
+      "X",
+      "O"
+    ],
+    [
+      "F",
+      "Q",
+      "O",
+      "G",
+      "C",
+      "U",
+      "O",
+      "N",
+      "F",
+      "S",
+      "E",
+      "F"
+    ],
+    [
+      "T",
+      "E",
+      "B",
+      "P",
+      "D",
+      "K",
+      "A",
+      "W",
+      "M",
+      "Y",
+      "L",
+      "C"
+    ],
+    [
+      "C",
+      "G",
+      "G",
+      "E",
+      "N",
+      "T",
+      "L",
+      "E",
+      "U",
+      "I",
+      "V",
+      "S"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CONTENT",
+      "row": 7,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "COMFORT",
+      "row": 8,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "COURAGE",
+      "row": 9,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "GENTLE",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SERENE",
+      "row": 4,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "DOUBT",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "GUILT",
+      "row": 8,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "ANGER",
+      "row": 10,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "GRIEF",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "FAITH",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "MERRY",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "TEAR",
+      "row": 4,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "HOPE",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "FEAR",
+      "row": 9,
+      "col": 0,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1030178825
+}

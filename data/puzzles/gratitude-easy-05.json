@@ -1,0 +1,208 @@
+{
+  "id": "gratitude-easy-05",
+  "slug": "gratitude-easy-05",
+  "themeId": "gratitude",
+  "title": "Gratitude Word Search (Easy) #05",
+  "primaryKeyword": "gratitude word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "APPRECIATE",
+    "BLESSING",
+    "COMFORT",
+    "FAITH",
+    "FRIEND",
+    "GIFT",
+    "GRATEFUL",
+    "MERCY",
+    "REST",
+    "VISIT"
+  ],
+  "grid": [
+    [
+      "X",
+      "T",
+      "C",
+      "O",
+      "M",
+      "F",
+      "O",
+      "R",
+      "T",
+      "F"
+    ],
+    [
+      "F",
+      "P",
+      "Q",
+      "W",
+      "V",
+      "I",
+      "S",
+      "I",
+      "T",
+      "R"
+    ],
+    [
+      "P",
+      "G",
+      "R",
+      "A",
+      "T",
+      "E",
+      "F",
+      "U",
+      "L",
+      "I"
+    ],
+    [
+      "N",
+      "S",
+      "U",
+      "S",
+      "M",
+      "V",
+      "F",
+      "P",
+      "I",
+      "E"
+    ],
+    [
+      "B",
+      "L",
+      "E",
+      "S",
+      "S",
+      "I",
+      "N",
+      "G",
+      "O",
+      "N"
+    ],
+    [
+      "E",
+      "R",
+      "V",
+      "M",
+      "T",
+      "M",
+      "R",
+      "V",
+      "M",
+      "D"
+    ],
+    [
+      "P",
+      "E",
+      "K",
+      "I",
+      "J",
+      "G",
+      "I",
+      "F",
+      "T",
+      "O"
+    ],
+    [
+      "M",
+      "S",
+      "G",
+      "N",
+      "G",
+      "F",
+      "A",
+      "I",
+      "T",
+      "H"
+    ],
+    [
+      "L",
+      "T",
+      "Z",
+      "C",
+      "F",
+      "M",
+      "E",
+      "R",
+      "C",
+      "Y"
+    ],
+    [
+      "A",
+      "P",
+      "P",
+      "R",
+      "E",
+      "C",
+      "I",
+      "A",
+      "T",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "APPRECIATE",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BLESSING",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "GRATEFUL",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "COMFORT",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "FRIEND",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "FAITH",
+      "row": 7,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "MERCY",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "VISIT",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "GIFT",
+      "row": 6,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "REST",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 419023608
+}

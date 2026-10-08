@@ -1,0 +1,284 @@
+{
+  "id": "insects-medium-05",
+  "slug": "insects-medium-05",
+  "themeId": "insects",
+  "title": "Insects Word Search (Medium) #05",
+  "primaryKeyword": "insects word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ABDOMEN",
+    "ANT",
+    "BUTTERFLY",
+    "CHIRP",
+    "CRICKET",
+    "GRASSHOPPER",
+    "HIVE",
+    "INSECT",
+    "LEAF",
+    "NECTAR",
+    "POLLEN",
+    "POND",
+    "SOIL",
+    "WASP"
+  ],
+  "grid": [
+    [
+      "X",
+      "O",
+      "L",
+      "C",
+      "H",
+      "I",
+      "R",
+      "P",
+      "X",
+      "G",
+      "W",
+      "H"
+    ],
+    [
+      "I",
+      "I",
+      "E",
+      "Y",
+      "A",
+      "Q",
+      "S",
+      "V",
+      "V",
+      "R",
+      "J",
+      "B"
+    ],
+    [
+      "N",
+      "R",
+      "C",
+      "N",
+      "E",
+      "C",
+      "T",
+      "A",
+      "R",
+      "A",
+      "P",
+      "B"
+    ],
+    [
+      "S",
+      "D",
+      "B",
+      "V",
+      "S",
+      "O",
+      "N",
+      "T",
+      "L",
+      "S",
+      "R",
+      "U"
+    ],
+    [
+      "E",
+      "V",
+      "I",
+      "R",
+      "N",
+      "E",
+      "E",
+      "Y",
+      "B",
+      "S",
+      "M",
+      "T"
+    ],
+    [
+      "C",
+      "H",
+      "Z",
+      "E",
+      "L",
+      "K",
+      "J",
+      "T",
+      "A",
+      "H",
+      "A",
+      "T"
+    ],
+    [
+      "T",
+      "J",
+      "D",
+      "L",
+      "C",
+      "V",
+      "O",
+      "C",
+      "B",
+      "O",
+      "K",
+      "E"
+    ],
+    [
+      "H",
+      "A",
+      "O",
+      "I",
+      "K",
+      "Y",
+      "J",
+      "T",
+      "D",
+      "P",
+      "U",
+      "R"
+    ],
+    [
+      "X",
+      "P",
+      "R",
+      "P",
+      "T",
+      "D",
+      "B",
+      "L",
+      "O",
+      "P",
+      "E",
+      "F"
+    ],
+    [
+      "P",
+      "C",
+      "S",
+      "N",
+      "N",
+      "C",
+      "R",
+      "E",
+      "M",
+      "E",
+      "A",
+      "L"
+    ],
+    [
+      "R",
+      "A",
+      "A",
+      "O",
+      "S",
+      "F",
+      "L",
+      "A",
+      "E",
+      "R",
+      "I",
+      "Y"
+    ],
+    [
+      "W",
+      "S",
+      "P",
+      "S",
+      "O",
+      "I",
+      "L",
+      "F",
+      "N",
+      "W",
+      "X",
+      "F"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "GRASSHOPPER",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "BUTTERFLY",
+      "row": 2,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "ABDOMEN",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "CRICKET",
+      "row": 9,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "NECTAR",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "INSECT",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "POLLEN",
+      "row": 8,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "CHIRP",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "HIVE",
+      "row": 5,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "SOIL",
+      "row": 11,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "LEAF",
+      "row": 8,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "POND",
+      "row": 11,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "WASP",
+      "row": 11,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "ANT",
+      "row": 10,
+      "col": 2,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 2808997400
+}

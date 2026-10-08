@@ -1,0 +1,208 @@
+{
+  "id": "dogs-easy-06",
+  "slug": "dogs-easy-06",
+  "themeId": "dogs",
+  "title": "Dogs Word Search (Easy) #06",
+  "primaryKeyword": "dogs word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BASKET",
+    "BEAGLE",
+    "CHEW",
+    "COLLAR",
+    "CUDDLE",
+    "KENNEL",
+    "RAINY",
+    "REST",
+    "SNOUT",
+    "TRAINING"
+  ],
+  "grid": [
+    [
+      "T",
+      "R",
+      "E",
+      "S",
+      "T",
+      "E",
+      "E",
+      "F",
+      "C",
+      "Y"
+    ],
+    [
+      "N",
+      "C",
+      "T",
+      "B",
+      "B",
+      "Q",
+      "S",
+      "K",
+      "H",
+      "O"
+    ],
+    [
+      "A",
+      "U",
+      "R",
+      "E",
+      "A",
+      "I",
+      "N",
+      "E",
+      "E",
+      "L"
+    ],
+    [
+      "W",
+      "D",
+      "A",
+      "A",
+      "S",
+      "U",
+      "O",
+      "N",
+      "W",
+      "N"
+    ],
+    [
+      "S",
+      "D",
+      "I",
+      "G",
+      "K",
+      "W",
+      "U",
+      "N",
+      "V",
+      "C"
+    ],
+    [
+      "R",
+      "L",
+      "N",
+      "L",
+      "E",
+      "P",
+      "T",
+      "E",
+      "O",
+      "O"
+    ],
+    [
+      "A",
+      "E",
+      "I",
+      "E",
+      "T",
+      "D",
+      "I",
+      "L",
+      "W",
+      "L"
+    ],
+    [
+      "I",
+      "M",
+      "N",
+      "N",
+      "X",
+      "A",
+      "F",
+      "M",
+      "M",
+      "L"
+    ],
+    [
+      "N",
+      "F",
+      "G",
+      "Q",
+      "A",
+      "X",
+      "R",
+      "X",
+      "S",
+      "A"
+    ],
+    [
+      "Y",
+      "V",
+      "A",
+      "P",
+      "A",
+      "K",
+      "H",
+      "Q",
+      "J",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TRAINING",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "BEAGLE",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "COLLAR",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "CUDDLE",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "BASKET",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "KENNEL",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "RAINY",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SNOUT",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "CHEW",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "REST",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1009766698
+}

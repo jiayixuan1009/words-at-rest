@@ -1,0 +1,284 @@
+{
+  "id": "basketball-medium-06",
+  "slug": "basketball-medium-06",
+  "themeId": "basketball",
+  "title": "Basketball Word Search (Medium) #06",
+  "primaryKeyword": "basketball word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ASSIST",
+    "BACKBOARD",
+    "BLOCK",
+    "CENTER",
+    "COACH",
+    "COURT",
+    "FORWARD",
+    "JUMP",
+    "STARTER",
+    "STEAL",
+    "SWEAT",
+    "TIMEOUT",
+    "TIPOFF",
+    "WHISTLE"
+  ],
+  "grid": [
+    [
+      "D",
+      "W",
+      "T",
+      "M",
+      "X",
+      "S",
+      "T",
+      "E",
+      "A",
+      "L",
+      "T",
+      "G"
+    ],
+    [
+      "C",
+      "O",
+      "A",
+      "C",
+      "H",
+      "F",
+      "O",
+      "R",
+      "W",
+      "A",
+      "R",
+      "D"
+    ],
+    [
+      "S",
+      "G",
+      "W",
+      "C",
+      "E",
+      "N",
+      "T",
+      "E",
+      "R",
+      "B",
+      "Z",
+      "X"
+    ],
+    [
+      "V",
+      "B",
+      "A",
+      "C",
+      "K",
+      "B",
+      "O",
+      "A",
+      "R",
+      "D",
+      "W",
+      "W"
+    ],
+    [
+      "W",
+      "E",
+      "Y",
+      "B",
+      "L",
+      "O",
+      "C",
+      "K",
+      "B",
+      "T",
+      "W",
+      "T"
+    ],
+    [
+      "O",
+      "C",
+      "M",
+      "S",
+      "M",
+      "G",
+      "S",
+      "D",
+      "S",
+      "I",
+      "H",
+      "I"
+    ],
+    [
+      "N",
+      "O",
+      "V",
+      "R",
+      "T",
+      "T",
+      "H",
+      "P",
+      "W",
+      "M",
+      "I",
+      "P"
+    ],
+    [
+      "U",
+      "U",
+      "H",
+      "J",
+      "S",
+      "A",
+      "D",
+      "O",
+      "E",
+      "E",
+      "S",
+      "O"
+    ],
+    [
+      "A",
+      "R",
+      "B",
+      "I",
+      "U",
+      "S",
+      "R",
+      "A",
+      "A",
+      "O",
+      "T",
+      "F"
+    ],
+    [
+      "K",
+      "T",
+      "S",
+      "F",
+      "H",
+      "M",
+      "P",
+      "T",
+      "T",
+      "U",
+      "L",
+      "F"
+    ],
+    [
+      "A",
+      "S",
+      "Q",
+      "E",
+      "Z",
+      "K",
+      "P",
+      "G",
+      "E",
+      "T",
+      "E",
+      "L"
+    ],
+    [
+      "A",
+      "L",
+      "H",
+      "R",
+      "E",
+      "E",
+      "S",
+      "B",
+      "T",
+      "R",
+      "Y",
+      "L"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BACKBOARD",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "STARTER",
+      "row": 5,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "WHISTLE",
+      "row": 4,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "TIMEOUT",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "FORWARD",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "ASSIST",
+      "row": 11,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "TIPOFF",
+      "row": 4,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "CENTER",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "STEAL",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "BLOCK",
+      "row": 4,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "COACH",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "COURT",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SWEAT",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "JUMP",
+      "row": 7,
+      "col": 3,
+      "direction": "SE"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 2792219781
+}

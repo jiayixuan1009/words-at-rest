@@ -1,0 +1,208 @@
+{
+  "id": "gardening-tools-easy-07",
+  "slug": "gardening-tools-easy-07",
+  "themeId": "gardening-tools",
+  "title": "Gardening Tools Word Search (Easy) #07",
+  "primaryKeyword": "gardening tools word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CAN",
+    "DIBBER",
+    "FORK",
+    "HOE",
+    "HOOK",
+    "LOPPER",
+    "OIL",
+    "PRUNER",
+    "SHELF",
+    "SPADE"
+  ],
+  "grid": [
+    [
+      "E",
+      "G",
+      "K",
+      "N",
+      "Y",
+      "O",
+      "P",
+      "R",
+      "L",
+      "X"
+    ],
+    [
+      "O",
+      "I",
+      "L",
+      "U",
+      "C",
+      "A",
+      "R",
+      "V",
+      "C",
+      "J"
+    ],
+    [
+      "M",
+      "S",
+      "H",
+      "E",
+      "L",
+      "F",
+      "U",
+      "I",
+      "W",
+      "W"
+    ],
+    [
+      "L",
+      "O",
+      "P",
+      "P",
+      "E",
+      "R",
+      "N",
+      "G",
+      "S",
+      "I"
+    ],
+    [
+      "S",
+      "H",
+      "O",
+      "O",
+      "K",
+      "P",
+      "E",
+      "C",
+      "A",
+      "N"
+    ],
+    [
+      "P",
+      "Z",
+      "U",
+      "J",
+      "W",
+      "U",
+      "R",
+      "O",
+      "Q",
+      "H"
+    ],
+    [
+      "A",
+      "M",
+      "Y",
+      "F",
+      "O",
+      "O",
+      "K",
+      "J",
+      "N",
+      "R"
+    ],
+    [
+      "D",
+      "O",
+      "N",
+      "O",
+      "D",
+      "I",
+      "B",
+      "B",
+      "E",
+      "R"
+    ],
+    [
+      "E",
+      "N",
+      "A",
+      "R",
+      "K",
+      "B",
+      "D",
+      "H",
+      "O",
+      "E"
+    ],
+    [
+      "L",
+      "N",
+      "X",
+      "K",
+      "S",
+      "D",
+      "N",
+      "E",
+      "K",
+      "G"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "LOPPER",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "PRUNER",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "DIBBER",
+      "row": 7,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SPADE",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SHELF",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "HOOK",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "FORK",
+      "row": 6,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "CAN",
+      "row": 4,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "OIL",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "HOE",
+      "row": 8,
+      "col": 7,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 750482163
+}

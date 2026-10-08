@@ -1,0 +1,284 @@
+{
+  "id": "birdwatching-medium-03",
+  "slug": "birdwatching-medium-03",
+  "themeId": "birdwatching",
+  "title": "Birdwatching Word Search (Medium) #03",
+  "primaryKeyword": "birdwatching word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BEAK",
+    "BIRD",
+    "CANOPY",
+    "CHIRP",
+    "EGG",
+    "FEEDER",
+    "FIELD",
+    "GARDEN",
+    "GLIDE",
+    "NEST",
+    "NOTE",
+    "PLUMAGE",
+    "SCOPE",
+    "WATER"
+  ],
+  "grid": [
+    [
+      "Q",
+      "F",
+      "G",
+      "J",
+      "F",
+      "K",
+      "W",
+      "R",
+      "J",
+      "N",
+      "A",
+      "M"
+    ],
+    [
+      "F",
+      "E",
+      "L",
+      "J",
+      "B",
+      "R",
+      "C",
+      "A",
+      "B",
+      "E",
+      "S",
+      "Q"
+    ],
+    [
+      "I",
+      "E",
+      "I",
+      "Q",
+      "P",
+      "E",
+      "R",
+      "A",
+      "T",
+      "I",
+      "G",
+      "B"
+    ],
+    [
+      "E",
+      "D",
+      "D",
+      "K",
+      "S",
+      "L",
+      "A",
+      "E",
+      "N",
+      "E",
+      "R",
+      "G"
+    ],
+    [
+      "L",
+      "E",
+      "E",
+      "C",
+      "C",
+      "K",
+      "U",
+      "K",
+      "V",
+      "O",
+      "R",
+      "D"
+    ],
+    [
+      "D",
+      "R",
+      "C",
+      "H",
+      "O",
+      "T",
+      "V",
+      "M",
+      "Z",
+      "A",
+      "P",
+      "L"
+    ],
+    [
+      "I",
+      "G",
+      "G",
+      "C",
+      "P",
+      "U",
+      "W",
+      "P",
+      "A",
+      "Z",
+      "M",
+      "Y"
+    ],
+    [
+      "G",
+      "A",
+      "R",
+      "D",
+      "E",
+      "N",
+      "R",
+      "O",
+      "A",
+      "G",
+      "E",
+      "J"
+    ],
+    [
+      "N",
+      "O",
+      "T",
+      "E",
+      "E",
+      "I",
+      "F",
+      "I",
+      "B",
+      "J",
+      "E",
+      "M"
+    ],
+    [
+      "H",
+      "E",
+      "K",
+      "M",
+      "H",
+      "O",
+      "X",
+      "X",
+      "Z",
+      "Z",
+      "W",
+      "G"
+    ],
+    [
+      "J",
+      "I",
+      "L",
+      "C",
+      "Q",
+      "T",
+      "K",
+      "Y",
+      "N",
+      "E",
+      "S",
+      "T"
+    ],
+    [
+      "L",
+      "G",
+      "Q",
+      "D",
+      "Z",
+      "V",
+      "D",
+      "K",
+      "V",
+      "V",
+      "P",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PLUMAGE",
+      "row": 2,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "GARDEN",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CANOPY",
+      "row": 1,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "FEEDER",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "CHIRP",
+      "row": 10,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "FIELD",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SCOPE",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "GLIDE",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "WATER",
+      "row": 0,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "BIRD",
+      "row": 1,
+      "col": 8,
+      "direction": "SE"
+    },
+    {
+      "word": "NOTE",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "NEST",
+      "row": 10,
+      "col": 8,
+      "direction": "E"
+    },
+    {
+      "word": "BEAK",
+      "row": 1,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "EGG",
+      "row": 1,
+      "col": 9,
+      "direction": "SE"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 601513853
+}

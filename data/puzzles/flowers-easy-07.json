@@ -1,0 +1,208 @@
+{
+  "id": "flowers-easy-07",
+  "slug": "flowers-easy-07",
+  "themeId": "flowers",
+  "title": "Flowers Word Search (Easy) #07",
+  "primaryKeyword": "flowers word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BOUQUET",
+    "CUT",
+    "GARDEN",
+    "LIGHT",
+    "LILAC",
+    "NECTAR",
+    "PETAL",
+    "POPPY",
+    "SOFT",
+    "VIOLET"
+  ],
+  "grid": [
+    [
+      "S",
+      "O",
+      "F",
+      "T",
+      "E",
+      "L",
+      "B",
+      "C",
+      "U",
+      "T"
+    ],
+    [
+      "J",
+      "W",
+      "H",
+      "R",
+      "P",
+      "I",
+      "X",
+      "N",
+      "X",
+      "M"
+    ],
+    [
+      "Y",
+      "A",
+      "V",
+      "V",
+      "O",
+      "G",
+      "G",
+      "E",
+      "R",
+      "X"
+    ],
+    [
+      "U",
+      "E",
+      "Z",
+      "I",
+      "P",
+      "H",
+      "A",
+      "C",
+      "Z",
+      "X"
+    ],
+    [
+      "D",
+      "L",
+      "P",
+      "O",
+      "P",
+      "T",
+      "R",
+      "T",
+      "P",
+      "T"
+    ],
+    [
+      "D",
+      "I",
+      "E",
+      "L",
+      "Y",
+      "F",
+      "D",
+      "A",
+      "Z",
+      "G"
+    ],
+    [
+      "O",
+      "L",
+      "T",
+      "E",
+      "Y",
+      "S",
+      "E",
+      "R",
+      "Q",
+      "M"
+    ],
+    [
+      "L",
+      "A",
+      "A",
+      "T",
+      "G",
+      "K",
+      "N",
+      "V",
+      "L",
+      "O"
+    ],
+    [
+      "C",
+      "C",
+      "L",
+      "B",
+      "O",
+      "U",
+      "Q",
+      "U",
+      "E",
+      "T"
+    ],
+    [
+      "N",
+      "A",
+      "O",
+      "M",
+      "A",
+      "R",
+      "X",
+      "I",
+      "V",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BOUQUET",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "GARDEN",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "NECTAR",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "VIOLET",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "LIGHT",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "LILAC",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "PETAL",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "POPPY",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "SOFT",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CUT",
+      "row": 0,
+      "col": 7,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 925878603
+}

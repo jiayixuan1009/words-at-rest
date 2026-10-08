@@ -1,0 +1,284 @@
+{
+  "id": "food-medium-08",
+  "slug": "food-medium-08",
+  "themeId": "food",
+  "title": "Food Word Search (Medium) #08",
+  "primaryKeyword": "food word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BOWL",
+    "BROTH",
+    "BUTTER",
+    "HOME",
+    "JAM",
+    "MARKET",
+    "OLIVE",
+    "ONION",
+    "OVEN",
+    "PEACH",
+    "POTATO",
+    "RISOTTO",
+    "ROAST",
+    "SLICE"
+  ],
+  "grid": [
+    [
+      "F",
+      "V",
+      "R",
+      "I",
+      "S",
+      "O",
+      "T",
+      "T",
+      "O",
+      "B",
+      "M",
+      "Z"
+    ],
+    [
+      "R",
+      "Z",
+      "B",
+      "T",
+      "Y",
+      "S",
+      "Q",
+      "S",
+      "K",
+      "R",
+      "P",
+      "R"
+    ],
+    [
+      "W",
+      "H",
+      "R",
+      "O",
+      "O",
+      "V",
+      "E",
+      "N",
+      "W",
+      "O",
+      "O",
+      "K"
+    ],
+    [
+      "L",
+      "J",
+      "O",
+      "R",
+      "O",
+      "L",
+      "O",
+      "P",
+      "S",
+      "A",
+      "T",
+      "D"
+    ],
+    [
+      "B",
+      "U",
+      "T",
+      "T",
+      "E",
+      "R",
+      "I",
+      "N",
+      "O",
+      "S",
+      "A",
+      "K"
+    ],
+    [
+      "S",
+      "Y",
+      "H",
+      "N",
+      "D",
+      "J",
+      "U",
+      "V",
+      "I",
+      "T",
+      "T",
+      "R"
+    ],
+    [
+      "D",
+      "P",
+      "E",
+      "A",
+      "C",
+      "H",
+      "M",
+      "X",
+      "E",
+      "O",
+      "O",
+      "E"
+    ],
+    [
+      "L",
+      "P",
+      "D",
+      "V",
+      "R",
+      "S",
+      "A",
+      "M",
+      "S",
+      "D",
+      "N",
+      "E"
+    ],
+    [
+      "H",
+      "K",
+      "X",
+      "D",
+      "A",
+      "L",
+      "R",
+      "T",
+      "U",
+      "G",
+      "M",
+      "H"
+    ],
+    [
+      "R",
+      "G",
+      "M",
+      "K",
+      "W",
+      "I",
+      "K",
+      "J",
+      "J",
+      "O",
+      "V",
+      "Y"
+    ],
+    [
+      "Q",
+      "B",
+      "O",
+      "W",
+      "L",
+      "C",
+      "E",
+      "X",
+      "H",
+      "H",
+      "Y",
+      "U"
+    ],
+    [
+      "R",
+      "O",
+      "P",
+      "P",
+      "N",
+      "E",
+      "T",
+      "J",
+      "A",
+      "M",
+      "Q",
+      "G"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "RISOTTO",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "POTATO",
+      "row": 1,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "BUTTER",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "MARKET",
+      "row": 6,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "PEACH",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SLICE",
+      "row": 7,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "ONION",
+      "row": 3,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "OLIVE",
+      "row": 2,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "ROAST",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "BROTH",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "OVEN",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "HOME",
+      "row": 10,
+      "col": 8,
+      "direction": "NE"
+    },
+    {
+      "word": "BOWL",
+      "row": 10,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "JAM",
+      "row": 11,
+      "col": 7,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 307466161
+}

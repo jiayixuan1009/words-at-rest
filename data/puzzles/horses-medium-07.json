@@ -1,0 +1,284 @@
+{
+  "id": "horses-medium-07",
+  "slug": "horses-medium-07",
+  "themeId": "horses",
+  "title": "Horses Word Search (Medium) #07",
+  "primaryKeyword": "horses word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ARENA",
+    "BARN",
+    "CROP",
+    "FOAL",
+    "HORSE",
+    "LANE",
+    "LEAD",
+    "MANE",
+    "MARE",
+    "PADDOCK",
+    "REIN",
+    "SADDLE",
+    "SUN",
+    "WATER"
+  ],
+  "grid": [
+    [
+      "R",
+      "B",
+      "Q",
+      "B",
+      "R",
+      "I",
+      "V",
+      "C",
+      "R",
+      "O",
+      "P",
+      "N"
+    ],
+    [
+      "T",
+      "Y",
+      "A",
+      "I",
+      "E",
+      "H",
+      "O",
+      "R",
+      "S",
+      "E",
+      "D",
+      "S"
+    ],
+    [
+      "W",
+      "X",
+      "M",
+      "R",
+      "I",
+      "F",
+      "U",
+      "U",
+      "Q",
+      "A",
+      "W",
+      "X"
+    ],
+    [
+      "R",
+      "K",
+      "E",
+      "W",
+      "N",
+      "O",
+      "C",
+      "Z",
+      "E",
+      "H",
+      "A",
+      "R"
+    ],
+    [
+      "H",
+      "B",
+      "F",
+      "B",
+      "B",
+      "A",
+      "E",
+      "L",
+      "E",
+      "I",
+      "T",
+      "R"
+    ],
+    [
+      "W",
+      "S",
+      "M",
+      "M",
+      "G",
+      "L",
+      "B",
+      "H",
+      "B",
+      "A",
+      "E",
+      "O"
+    ],
+    [
+      "H",
+      "A",
+      "J",
+      "A",
+      "F",
+      "S",
+      "I",
+      "T",
+      "M",
+      "R",
+      "R",
+      "L"
+    ],
+    [
+      "F",
+      "D",
+      "Z",
+      "K",
+      "R",
+      "B",
+      "U",
+      "L",
+      "I",
+      "E",
+      "M",
+      "A"
+    ],
+    [
+      "D",
+      "D",
+      "Y",
+      "X",
+      "G",
+      "E",
+      "G",
+      "N",
+      "W",
+      "N",
+      "J",
+      "N"
+    ],
+    [
+      "U",
+      "L",
+      "G",
+      "V",
+      "E",
+      "I",
+      "Q",
+      "T",
+      "F",
+      "A",
+      "A",
+      "E"
+    ],
+    [
+      "G",
+      "E",
+      "T",
+      "P",
+      "A",
+      "D",
+      "D",
+      "O",
+      "C",
+      "K",
+      "U",
+      "M"
+    ],
+    [
+      "J",
+      "X",
+      "L",
+      "T",
+      "S",
+      "K",
+      "H",
+      "M",
+      "A",
+      "N",
+      "E",
+      "P"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PADDOCK",
+      "row": 10,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SADDLE",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "ARENA",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "WATER",
+      "row": 2,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "HORSE",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "FOAL",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "MARE",
+      "row": 5,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "MANE",
+      "row": 11,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "LEAD",
+      "row": 4,
+      "col": 7,
+      "direction": "NE"
+    },
+    {
+      "word": "REIN",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "BARN",
+      "row": 0,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "LANE",
+      "row": 6,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "CROP",
+      "row": 0,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "SUN",
+      "row": 6,
+      "col": 5,
+      "direction": "SE"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 901480734
+}

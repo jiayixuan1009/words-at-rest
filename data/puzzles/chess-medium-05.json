@@ -1,0 +1,284 @@
+{
+  "id": "chess-medium-05",
+  "slug": "chess-medium-05",
+  "themeId": "chess",
+  "title": "Chess Word Search (Medium) #05",
+  "primaryKeyword": "chess word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BISHOP",
+    "BOARD",
+    "BRILLIANCY",
+    "DEFENSE",
+    "FILE",
+    "FORK",
+    "KING",
+    "OPENING",
+    "PIN",
+    "RANK",
+    "RESIGN",
+    "TACTIC",
+    "TIMER",
+    "TURN"
+  ],
+  "grid": [
+    [
+      "J",
+      "J",
+      "T",
+      "K",
+      "R",
+      "H",
+      "E",
+      "O",
+      "V",
+      "A",
+      "C",
+      "U"
+    ],
+    [
+      "V",
+      "P",
+      "O",
+      "K",
+      "U",
+      "S",
+      "B",
+      "J",
+      "T",
+      "U",
+      "R",
+      "N"
+    ],
+    [
+      "Q",
+      "I",
+      "Z",
+      "J",
+      "N",
+      "L",
+      "H",
+      "K",
+      "I",
+      "N",
+      "G",
+      "L"
+    ],
+    [
+      "T",
+      "O",
+      "P",
+      "E",
+      "N",
+      "I",
+      "N",
+      "G",
+      "R",
+      "A",
+      "N",
+      "K"
+    ],
+    [
+      "V",
+      "F",
+      "F",
+      "Y",
+      "K",
+      "T",
+      "A",
+      "C",
+      "T",
+      "I",
+      "C",
+      "H"
+    ],
+    [
+      "Z",
+      "E",
+      "B",
+      "R",
+      "I",
+      "L",
+      "L",
+      "I",
+      "A",
+      "N",
+      "C",
+      "Y"
+    ],
+    [
+      "D",
+      "B",
+      "R",
+      "D",
+      "B",
+      "O",
+      "A",
+      "R",
+      "D",
+      "R",
+      "Y",
+      "B"
+    ],
+    [
+      "J",
+      "P",
+      "K",
+      "T",
+      "B",
+      "I",
+      "S",
+      "H",
+      "O",
+      "P",
+      "V",
+      "E"
+    ],
+    [
+      "J",
+      "R",
+      "E",
+      "S",
+      "I",
+      "G",
+      "N",
+      "I",
+      "A",
+      "L",
+      "N",
+      "K"
+    ],
+    [
+      "U",
+      "D",
+      "X",
+      "Y",
+      "D",
+      "M",
+      "R",
+      "E",
+      "F",
+      "I",
+      "L",
+      "E"
+    ],
+    [
+      "W",
+      "X",
+      "W",
+      "N",
+      "Z",
+      "E",
+      "E",
+      "S",
+      "P",
+      "B",
+      "Z",
+      "K"
+    ],
+    [
+      "O",
+      "E",
+      "N",
+      "F",
+      "O",
+      "R",
+      "K",
+      "R",
+      "K",
+      "K",
+      "J",
+      "Z"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BRILLIANCY",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "DEFENSE",
+      "row": 6,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "OPENING",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "RESIGN",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TACTIC",
+      "row": 4,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "BISHOP",
+      "row": 7,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BOARD",
+      "row": 6,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "TIMER",
+      "row": 7,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "TURN",
+      "row": 1,
+      "col": 8,
+      "direction": "E"
+    },
+    {
+      "word": "KING",
+      "row": 2,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "FILE",
+      "row": 9,
+      "col": 8,
+      "direction": "E"
+    },
+    {
+      "word": "RANK",
+      "row": 3,
+      "col": 8,
+      "direction": "E"
+    },
+    {
+      "word": "FORK",
+      "row": 11,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "PIN",
+      "row": 10,
+      "col": 8,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 2001884976
+}

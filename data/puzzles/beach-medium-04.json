@@ -1,0 +1,284 @@
+{
+  "id": "beach-medium-04",
+  "slug": "beach-medium-04",
+  "themeId": "beach",
+  "title": "Beach Word Search (Medium) #04",
+  "primaryKeyword": "beach word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BEACH",
+    "BLANKET",
+    "BUCKET",
+    "FLOAT",
+    "FOAM",
+    "GULL",
+    "LIGHTHOUSE",
+    "LOTION",
+    "PIER",
+    "ROCK",
+    "SEAWEED",
+    "SHELL",
+    "SURF",
+    "TWILIGHT"
+  ],
+  "grid": [
+    [
+      "L",
+      "O",
+      "J",
+      "C",
+      "N",
+      "B",
+      "K",
+      "T",
+      "R",
+      "O",
+      "C",
+      "K"
+    ],
+    [
+      "P",
+      "I",
+      "E",
+      "R",
+      "R",
+      "O",
+      "H",
+      "M",
+      "L",
+      "Q",
+      "S",
+      "I"
+    ],
+    [
+      "G",
+      "Q",
+      "G",
+      "K",
+      "R",
+      "G",
+      "S",
+      "M",
+      "O",
+      "E",
+      "H",
+      "X"
+    ],
+    [
+      "C",
+      "U",
+      "W",
+      "H",
+      "I",
+      "J",
+      "F",
+      "I",
+      "T",
+      "O",
+      "E",
+      "B"
+    ],
+    [
+      "V",
+      "I",
+      "L",
+      "L",
+      "T",
+      "V",
+      "Z",
+      "L",
+      "I",
+      "G",
+      "L",
+      "U"
+    ],
+    [
+      "P",
+      "B",
+      "I",
+      "L",
+      "B",
+      "H",
+      "B",
+      "A",
+      "O",
+      "U",
+      "L",
+      "C"
+    ],
+    [
+      "S",
+      "W",
+      "Q",
+      "R",
+      "L",
+      "P",
+      "O",
+      "E",
+      "N",
+      "A",
+      "L",
+      "K"
+    ],
+    [
+      "T",
+      "U",
+      "U",
+      "O",
+      "A",
+      "X",
+      "A",
+      "U",
+      "A",
+      "B",
+      "T",
+      "E"
+    ],
+    [
+      "P",
+      "A",
+      "R",
+      "F",
+      "N",
+      "U",
+      "J",
+      "V",
+      "S",
+      "C",
+      "C",
+      "T"
+    ],
+    [
+      "J",
+      "U",
+      "K",
+      "F",
+      "K",
+      "B",
+      "H",
+      "R",
+      "X",
+      "E",
+      "H",
+      "Q"
+    ],
+    [
+      "W",
+      "R",
+      "M",
+      "G",
+      "E",
+      "S",
+      "E",
+      "A",
+      "W",
+      "E",
+      "E",
+      "D"
+    ],
+    [
+      "U",
+      "C",
+      "P",
+      "W",
+      "T",
+      "T",
+      "F",
+      "O",
+      "A",
+      "M",
+      "Z",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "LIGHTHOUSE",
+      "row": 0,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "TWILIGHT",
+      "row": 7,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "BLANKET",
+      "row": 5,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "SEAWEED",
+      "row": 10,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "LOTION",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "BUCKET",
+      "row": 3,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "BEACH",
+      "row": 5,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "SHELL",
+      "row": 1,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "FLOAT",
+      "row": 3,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "PIER",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SURF",
+      "row": 6,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "ROCK",
+      "row": 0,
+      "col": 8,
+      "direction": "E"
+    },
+    {
+      "word": "GULL",
+      "row": 2,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "FOAM",
+      "row": 11,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1347420453
+}

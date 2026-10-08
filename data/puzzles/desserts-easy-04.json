@@ -1,0 +1,208 @@
+{
+  "id": "desserts-easy-04",
+  "slug": "desserts-easy-04",
+  "themeId": "desserts",
+  "title": "Desserts Word Search (Easy) #04",
+  "primaryKeyword": "desserts word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CAKE",
+    "COOKIE",
+    "CRUMBLE",
+    "FROSTING",
+    "MOUSSE",
+    "PUDDING",
+    "SORBET",
+    "SUNDAE",
+    "TART",
+    "TOFFEE"
+  ],
+  "grid": [
+    [
+      "L",
+      "G",
+      "L",
+      "V",
+      "M",
+      "O",
+      "U",
+      "S",
+      "S",
+      "E"
+    ],
+    [
+      "A",
+      "R",
+      "N",
+      "M",
+      "A",
+      "T",
+      "V",
+      "R",
+      "R",
+      "P"
+    ],
+    [
+      "Q",
+      "H",
+      "X",
+      "T",
+      "O",
+      "F",
+      "F",
+      "E",
+      "E",
+      "P"
+    ],
+    [
+      "C",
+      "Y",
+      "S",
+      "U",
+      "N",
+      "D",
+      "A",
+      "E",
+      "J",
+      "T"
+    ],
+    [
+      "R",
+      "N",
+      "M",
+      "T",
+      "A",
+      "R",
+      "T",
+      "P",
+      "R",
+      "D"
+    ],
+    [
+      "U",
+      "V",
+      "F",
+      "R",
+      "O",
+      "S",
+      "T",
+      "I",
+      "N",
+      "G"
+    ],
+    [
+      "M",
+      "A",
+      "M",
+      "H",
+      "S",
+      "O",
+      "R",
+      "B",
+      "E",
+      "T"
+    ],
+    [
+      "B",
+      "P",
+      "U",
+      "D",
+      "D",
+      "I",
+      "N",
+      "G",
+      "E",
+      "O"
+    ],
+    [
+      "L",
+      "E",
+      "N",
+      "C",
+      "O",
+      "O",
+      "K",
+      "I",
+      "E",
+      "T"
+    ],
+    [
+      "E",
+      "T",
+      "J",
+      "C",
+      "A",
+      "K",
+      "E",
+      "R",
+      "R",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FROSTING",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PUDDING",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CRUMBLE",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "MOUSSE",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "TOFFEE",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SUNDAE",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "COOKIE",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SORBET",
+      "row": 6,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CAKE",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "TART",
+      "row": 4,
+      "col": 3,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 668887706
+}

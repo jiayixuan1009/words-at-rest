@@ -1,0 +1,208 @@
+{
+  "id": "architecture-easy-05",
+  "slug": "architecture-easy-05",
+  "themeId": "architecture",
+  "title": "Architecture Word Search (Easy) #05",
+  "primaryKeyword": "architecture word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BEAM",
+    "CLOISTER",
+    "DOOR",
+    "EAVES",
+    "FOUNDATION",
+    "HALL",
+    "MODEL",
+    "RAMP",
+    "ROOF",
+    "SPIRE"
+  ],
+  "grid": [
+    [
+      "U",
+      "J",
+      "F",
+      "W",
+      "U",
+      "S",
+      "W",
+      "P",
+      "X",
+      "M"
+    ],
+    [
+      "S",
+      "P",
+      "I",
+      "R",
+      "E",
+      "O",
+      "D",
+      "O",
+      "O",
+      "R"
+    ],
+    [
+      "H",
+      "Y",
+      "M",
+      "O",
+      "D",
+      "E",
+      "L",
+      "P",
+      "C",
+      "O"
+    ],
+    [
+      "G",
+      "V",
+      "Z",
+      "E",
+      "A",
+      "V",
+      "E",
+      "S",
+      "L",
+      "E"
+    ],
+    [
+      "F",
+      "O",
+      "U",
+      "N",
+      "D",
+      "A",
+      "T",
+      "I",
+      "O",
+      "N"
+    ],
+    [
+      "H",
+      "A",
+      "J",
+      "Q",
+      "R",
+      "O",
+      "O",
+      "F",
+      "I",
+      "Y"
+    ],
+    [
+      "S",
+      "G",
+      "V",
+      "U",
+      "V",
+      "X",
+      "R",
+      "S",
+      "S",
+      "J"
+    ],
+    [
+      "O",
+      "X",
+      "W",
+      "L",
+      "M",
+      "A",
+      "A",
+      "J",
+      "T",
+      "T"
+    ],
+    [
+      "V",
+      "Y",
+      "H",
+      "A",
+      "L",
+      "L",
+      "M",
+      "K",
+      "E",
+      "G"
+    ],
+    [
+      "B",
+      "E",
+      "A",
+      "M",
+      "W",
+      "N",
+      "P",
+      "A",
+      "R",
+      "G"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FOUNDATION",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CLOISTER",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "SPIRE",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "MODEL",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "EAVES",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "RAMP",
+      "row": 6,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "ROOF",
+      "row": 5,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "HALL",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BEAM",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "DOOR",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 4089350552
+}

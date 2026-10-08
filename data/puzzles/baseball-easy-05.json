@@ -1,0 +1,208 @@
+{
+  "id": "baseball-easy-05",
+  "slug": "baseball-easy-05",
+  "themeId": "baseball",
+  "title": "Baseball Word Search (Easy) #05",
+  "primaryKeyword": "baseball word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BASE",
+    "BAT",
+    "CATCH",
+    "CATCHER",
+    "CLEATS",
+    "CURVE",
+    "HIT",
+    "PITCH",
+    "RUN",
+    "WARMUP"
+  ],
+  "grid": [
+    [
+      "J",
+      "K",
+      "L",
+      "H",
+      "D",
+      "U",
+      "E",
+      "P",
+      "E",
+      "X"
+    ],
+    [
+      "B",
+      "A",
+      "T",
+      "H",
+      "F",
+      "C",
+      "A",
+      "T",
+      "C",
+      "H"
+    ],
+    [
+      "B",
+      "O",
+      "N",
+      "I",
+      "L",
+      "R",
+      "O",
+      "L",
+      "I",
+      "C"
+    ],
+    [
+      "A",
+      "C",
+      "A",
+      "T",
+      "C",
+      "H",
+      "E",
+      "R",
+      "B",
+      "Q"
+    ],
+    [
+      "S",
+      "W",
+      "C",
+      "U",
+      "R",
+      "V",
+      "E",
+      "E",
+      "U",
+      "Q"
+    ],
+    [
+      "E",
+      "R",
+      "W",
+      "V",
+      "X",
+      "K",
+      "C",
+      "R",
+      "U",
+      "N"
+    ],
+    [
+      "D",
+      "V",
+      "W",
+      "A",
+      "R",
+      "M",
+      "U",
+      "P",
+      "J",
+      "O"
+    ],
+    [
+      "Q",
+      "A",
+      "H",
+      "P",
+      "I",
+      "T",
+      "C",
+      "H",
+      "X",
+      "R"
+    ],
+    [
+      "I",
+      "Q",
+      "V",
+      "C",
+      "L",
+      "E",
+      "A",
+      "T",
+      "S",
+      "R"
+    ],
+    [
+      "E",
+      "T",
+      "Q",
+      "X",
+      "D",
+      "E",
+      "C",
+      "G",
+      "Y",
+      "U"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CATCHER",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CLEATS",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "WARMUP",
+      "row": 6,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PITCH",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "CATCH",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "CURVE",
+      "row": 4,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BASE",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BAT",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "HIT",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "RUN",
+      "row": 5,
+      "col": 7,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 4206793885
+}

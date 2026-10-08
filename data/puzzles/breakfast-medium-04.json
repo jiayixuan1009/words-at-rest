@@ -1,0 +1,284 @@
+{
+  "id": "breakfast-medium-04",
+  "slug": "breakfast-medium-04",
+  "themeId": "breakfast",
+  "title": "Breakfast Word Search (Medium) #04",
+  "primaryKeyword": "breakfast word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BAGEL",
+    "BANANA",
+    "BERRY",
+    "BUTTER",
+    "CREAM",
+    "GRAPEFRUIT",
+    "JUICE",
+    "KETTLE",
+    "MORNING",
+    "NAPKIN",
+    "POTATO",
+    "SPREAD",
+    "TEA",
+    "TOAST"
+  ],
+  "grid": [
+    [
+      "R",
+      "B",
+      "S",
+      "S",
+      "P",
+      "R",
+      "E",
+      "A",
+      "D",
+      "G",
+      "R",
+      "U"
+    ],
+    [
+      "B",
+      "A",
+      "G",
+      "E",
+      "L",
+      "X",
+      "K",
+      "B",
+      "X",
+      "R",
+      "G",
+      "G"
+    ],
+    [
+      "B",
+      "A",
+      "J",
+      "U",
+      "I",
+      "C",
+      "E",
+      "U",
+      "J",
+      "A",
+      "B",
+      "J"
+    ],
+    [
+      "N",
+      "N",
+      "N",
+      "B",
+      "X",
+      "M",
+      "F",
+      "T",
+      "T",
+      "P",
+      "F",
+      "U"
+    ],
+    [
+      "C",
+      "A",
+      "K",
+      "A",
+      "M",
+      "D",
+      "T",
+      "T",
+      "M",
+      "E",
+      "R",
+      "W"
+    ],
+    [
+      "X",
+      "P",
+      "M",
+      "E",
+      "N",
+      "I",
+      "G",
+      "E",
+      "E",
+      "F",
+      "U",
+      "D"
+    ],
+    [
+      "T",
+      "K",
+      "B",
+      "O",
+      "T",
+      "A",
+      "V",
+      "R",
+      "T",
+      "R",
+      "Y",
+      "D"
+    ],
+    [
+      "O",
+      "I",
+      "C",
+      "E",
+      "R",
+      "T",
+      "T",
+      "E",
+      "A",
+      "U",
+      "F",
+      "M"
+    ],
+    [
+      "A",
+      "N",
+      "G",
+      "R",
+      "R",
+      "N",
+      "L",
+      "D",
+      "O",
+      "I",
+      "A",
+      "E"
+    ],
+    [
+      "S",
+      "N",
+      "Y",
+      "H",
+      "E",
+      "R",
+      "I",
+      "E",
+      "I",
+      "T",
+      "W",
+      "N"
+    ],
+    [
+      "T",
+      "F",
+      "C",
+      "Z",
+      "H",
+      "A",
+      "Y",
+      "N",
+      "Y",
+      "M",
+      "X",
+      "Z"
+    ],
+    [
+      "P",
+      "O",
+      "T",
+      "A",
+      "T",
+      "O",
+      "M",
+      "U",
+      "G",
+      "A",
+      "U",
+      "M"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "GRAPEFRUIT",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "MORNING",
+      "row": 5,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "BANANA",
+      "row": 1,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "NAPKIN",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "KETTLE",
+      "row": 4,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "BUTTER",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "POTATO",
+      "row": 11,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SPREAD",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BERRY",
+      "row": 6,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "TOAST",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "JUICE",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CREAM",
+      "row": 7,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "BAGEL",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "TEA",
+      "row": 7,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 517625758
+}

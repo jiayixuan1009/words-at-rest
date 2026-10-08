@@ -1,0 +1,208 @@
+{
+  "id": "desserts-easy-05",
+  "slug": "desserts-easy-05",
+  "themeId": "desserts",
+  "title": "Desserts Word Search (Easy) #05",
+  "primaryKeyword": "desserts word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BAKE",
+    "CHOCOLATE",
+    "COBBLER",
+    "FUDGE",
+    "GANACHE",
+    "MERINGUE",
+    "PLATE",
+    "SPOON",
+    "SUNDAE",
+    "VANILLA"
+  ],
+  "grid": [
+    [
+      "V",
+      "A",
+      "P",
+      "L",
+      "A",
+      "T",
+      "E",
+      "O",
+      "F",
+      "S"
+    ],
+    [
+      "S",
+      "P",
+      "O",
+      "O",
+      "N",
+      "T",
+      "I",
+      "G",
+      "Y",
+      "G"
+    ],
+    [
+      "D",
+      "O",
+      "M",
+      "V",
+      "A",
+      "N",
+      "I",
+      "L",
+      "L",
+      "A"
+    ],
+    [
+      "W",
+      "C",
+      "H",
+      "O",
+      "C",
+      "O",
+      "L",
+      "A",
+      "T",
+      "E"
+    ],
+    [
+      "D",
+      "T",
+      "R",
+      "S",
+      "U",
+      "N",
+      "D",
+      "A",
+      "E",
+      "J"
+    ],
+    [
+      "K",
+      "V",
+      "O",
+      "C",
+      "O",
+      "B",
+      "B",
+      "L",
+      "E",
+      "R"
+    ],
+    [
+      "K",
+      "Y",
+      "F",
+      "G",
+      "A",
+      "N",
+      "A",
+      "C",
+      "H",
+      "E"
+    ],
+    [
+      "E",
+      "M",
+      "X",
+      "T",
+      "C",
+      "F",
+      "U",
+      "D",
+      "G",
+      "E"
+    ],
+    [
+      "K",
+      "M",
+      "E",
+      "R",
+      "I",
+      "N",
+      "G",
+      "U",
+      "E",
+      "I"
+    ],
+    [
+      "A",
+      "M",
+      "B",
+      "O",
+      "B",
+      "A",
+      "K",
+      "E",
+      "I",
+      "G"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CHOCOLATE",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "MERINGUE",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "COBBLER",
+      "row": 5,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "GANACHE",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "VANILLA",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SUNDAE",
+      "row": 4,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "FUDGE",
+      "row": 7,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SPOON",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "PLATE",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BAKE",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1430940059
+}

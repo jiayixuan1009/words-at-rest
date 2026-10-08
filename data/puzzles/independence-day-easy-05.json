@@ -1,0 +1,208 @@
+{
+  "id": "independence-day-easy-05",
+  "slug": "independence-day-easy-05",
+  "themeId": "independence-day",
+  "title": "Independence Day Word Search (Easy) #05",
+  "primaryKeyword": "fourth of july word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BASKET",
+    "BOOM",
+    "COURTHOUSE",
+    "FLOAT",
+    "FOUNDING",
+    "HARBOR",
+    "PARADE",
+    "SKY",
+    "STAR",
+    "WATERMELON"
+  ],
+  "grid": [
+    [
+      "H",
+      "H",
+      "A",
+      "R",
+      "B",
+      "O",
+      "R",
+      "Z",
+      "A",
+      "R"
+    ],
+    [
+      "W",
+      "A",
+      "T",
+      "E",
+      "R",
+      "M",
+      "E",
+      "L",
+      "O",
+      "N"
+    ],
+    [
+      "C",
+      "O",
+      "U",
+      "R",
+      "T",
+      "H",
+      "O",
+      "U",
+      "S",
+      "E"
+    ],
+    [
+      "K",
+      "G",
+      "F",
+      "P",
+      "U",
+      "M",
+      "Y",
+      "Z",
+      "Z",
+      "Y"
+    ],
+    [
+      "B",
+      "F",
+      "P",
+      "A",
+      "R",
+      "A",
+      "D",
+      "E",
+      "E",
+      "D"
+    ],
+    [
+      "O",
+      "F",
+      "O",
+      "U",
+      "N",
+      "D",
+      "I",
+      "N",
+      "G",
+      "V"
+    ],
+    [
+      "O",
+      "J",
+      "B",
+      "A",
+      "S",
+      "K",
+      "E",
+      "T",
+      "S",
+      "A"
+    ],
+    [
+      "M",
+      "P",
+      "K",
+      "N",
+      "F",
+      "L",
+      "O",
+      "A",
+      "T",
+      "L"
+    ],
+    [
+      "K",
+      "T",
+      "V",
+      "I",
+      "I",
+      "S",
+      "T",
+      "A",
+      "R",
+      "W"
+    ],
+    [
+      "P",
+      "S",
+      "K",
+      "Y",
+      "G",
+      "O",
+      "K",
+      "R",
+      "D",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "WATERMELON",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "COURTHOUSE",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "FOUNDING",
+      "row": 5,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PARADE",
+      "row": 4,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BASKET",
+      "row": 6,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "HARBOR",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "FLOAT",
+      "row": 7,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BOOM",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "STAR",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SKY",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 2825775019
+}

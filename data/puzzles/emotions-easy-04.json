@@ -1,0 +1,208 @@
+{
+  "id": "emotions-easy-04",
+  "slug": "emotions-easy-04",
+  "themeId": "emotions",
+  "title": "Emotions Word Search (Easy) #04",
+  "primaryKeyword": "emotions word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CALM",
+    "COMPASSION",
+    "CONTENT",
+    "COURAGE",
+    "HAPPY",
+    "LAUGH",
+    "PATIENCE",
+    "SERENE",
+    "SHAME",
+    "TEAR"
+  ],
+  "grid": [
+    [
+      "E",
+      "C",
+      "H",
+      "C",
+      "B",
+      "C",
+      "T",
+      "F",
+      "E",
+      "M"
+    ],
+    [
+      "P",
+      "Q",
+      "S",
+      "A",
+      "O",
+      "O",
+      "O",
+      "E",
+      "H",
+      "Q"
+    ],
+    [
+      "G",
+      "I",
+      "E",
+      "L",
+      "T",
+      "M",
+      "C",
+      "A",
+      "A",
+      "P"
+    ],
+    [
+      "C",
+      "H",
+      "R",
+      "M",
+      "E",
+      "P",
+      "O",
+      "V",
+      "L",
+      "A"
+    ],
+    [
+      "O",
+      "A",
+      "E",
+      "Y",
+      "A",
+      "A",
+      "U",
+      "E",
+      "A",
+      "T"
+    ],
+    [
+      "N",
+      "P",
+      "N",
+      "S",
+      "R",
+      "S",
+      "R",
+      "T",
+      "U",
+      "I"
+    ],
+    [
+      "T",
+      "P",
+      "E",
+      "H",
+      "G",
+      "S",
+      "A",
+      "I",
+      "G",
+      "E"
+    ],
+    [
+      "E",
+      "Y",
+      "U",
+      "A",
+      "Y",
+      "I",
+      "G",
+      "Z",
+      "H",
+      "N"
+    ],
+    [
+      "N",
+      "D",
+      "I",
+      "M",
+      "O",
+      "O",
+      "E",
+      "A",
+      "L",
+      "C"
+    ],
+    [
+      "T",
+      "Y",
+      "Y",
+      "E",
+      "D",
+      "N",
+      "J",
+      "R",
+      "R",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "COMPASSION",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "PATIENCE",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "COURAGE",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "CONTENT",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SERENE",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "SHAME",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "LAUGH",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "HAPPY",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "CALM",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "TEAR",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 484333897
+}

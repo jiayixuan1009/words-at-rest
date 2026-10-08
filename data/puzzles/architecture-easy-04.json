@@ -1,0 +1,208 @@
+{
+  "id": "architecture-easy-04",
+  "slug": "architecture-easy-04",
+  "themeId": "architecture",
+  "title": "Architecture Word Search (Easy) #04",
+  "primaryKeyword": "architecture word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BEAM",
+    "CEILING",
+    "COLUMN",
+    "CONCRETE",
+    "GLASS",
+    "RAMP",
+    "SPIRE",
+    "STEEL",
+    "STONE",
+    "TOWER"
+  ],
+  "grid": [
+    [
+      "K",
+      "K",
+      "I",
+      "Y",
+      "I",
+      "G",
+      "L",
+      "A",
+      "S",
+      "S"
+    ],
+    [
+      "K",
+      "I",
+      "G",
+      "P",
+      "H",
+      "D",
+      "W",
+      "E",
+      "B",
+      "R"
+    ],
+    [
+      "C",
+      "O",
+      "N",
+      "C",
+      "R",
+      "E",
+      "T",
+      "E",
+      "V",
+      "H"
+    ],
+    [
+      "R",
+      "T",
+      "F",
+      "C",
+      "E",
+      "I",
+      "L",
+      "I",
+      "N",
+      "G"
+    ],
+    [
+      "E",
+      "O",
+      "J",
+      "O",
+      "P",
+      "Q",
+      "S",
+      "P",
+      "I",
+      "B"
+    ],
+    [
+      "S",
+      "W",
+      "M",
+      "U",
+      "U",
+      "S",
+      "T",
+      "O",
+      "N",
+      "E"
+    ],
+    [
+      "P",
+      "E",
+      "C",
+      "O",
+      "L",
+      "U",
+      "M",
+      "N",
+      "P",
+      "L"
+    ],
+    [
+      "I",
+      "R",
+      "S",
+      "T",
+      "E",
+      "E",
+      "L",
+      "E",
+      "O",
+      "G"
+    ],
+    [
+      "R",
+      "K",
+      "W",
+      "D",
+      "B",
+      "E",
+      "A",
+      "M",
+      "G",
+      "V"
+    ],
+    [
+      "E",
+      "E",
+      "M",
+      "R",
+      "G",
+      "R",
+      "A",
+      "M",
+      "P",
+      "K"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CONCRETE",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CEILING",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "COLUMN",
+      "row": 6,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "GLASS",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "STONE",
+      "row": 5,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SPIRE",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "STEEL",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "TOWER",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "RAMP",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "BEAM",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 773367698
+}

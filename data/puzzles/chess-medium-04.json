@@ -1,0 +1,284 @@
+{
+  "id": "chess-medium-04",
+  "slug": "chess-medium-04",
+  "themeId": "chess",
+  "title": "Chess Word Search (Medium) #04",
+  "primaryKeyword": "chess word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BOARD",
+    "CAPTURE",
+    "CASTLE",
+    "DEFENSE",
+    "FORK",
+    "PROMOTE",
+    "PUZZLE",
+    "RATING",
+    "SQUARE",
+    "STALEMATE",
+    "STUDY",
+    "TACTIC",
+    "TOURNAMENT",
+    "TURN"
+  ],
+  "grid": [
+    [
+      "P",
+      "C",
+      "T",
+      "O",
+      "U",
+      "R",
+      "N",
+      "A",
+      "M",
+      "E",
+      "N",
+      "T"
+    ],
+    [
+      "U",
+      "C",
+      "A",
+      "U",
+      "S",
+      "Q",
+      "U",
+      "A",
+      "R",
+      "E",
+      "Q",
+      "U"
+    ],
+    [
+      "Z",
+      "Y",
+      "C",
+      "S",
+      "Z",
+      "O",
+      "C",
+      "H",
+      "X",
+      "H",
+      "L",
+      "G"
+    ],
+    [
+      "Z",
+      "Y",
+      "T",
+      "V",
+      "T",
+      "B",
+      "O",
+      "A",
+      "R",
+      "D",
+      "N",
+      "R"
+    ],
+    [
+      "L",
+      "A",
+      "I",
+      "G",
+      "K",
+      "L",
+      "B",
+      "Q",
+      "Q",
+      "I",
+      "Z",
+      "L"
+    ],
+    [
+      "E",
+      "K",
+      "C",
+      "V",
+      "D",
+      "Y",
+      "E",
+      "C",
+      "T",
+      "Z",
+      "Y",
+      "P"
+    ],
+    [
+      "B",
+      "X",
+      "X",
+      "V",
+      "E",
+      "C",
+      "J",
+      "A",
+      "C",
+      "D",
+      "L",
+      "R"
+    ],
+    [
+      "T",
+      "U",
+      "R",
+      "N",
+      "F",
+      "O",
+      "R",
+      "P",
+      "U",
+      "B",
+      "F",
+      "O"
+    ],
+    [
+      "S",
+      "T",
+      "A",
+      "L",
+      "E",
+      "M",
+      "A",
+      "T",
+      "E",
+      "P",
+      "O",
+      "M"
+    ],
+    [
+      "Z",
+      "U",
+      "V",
+      "N",
+      "N",
+      "A",
+      "S",
+      "U",
+      "S",
+      "N",
+      "R",
+      "O"
+    ],
+    [
+      "T",
+      "K",
+      "M",
+      "E",
+      "S",
+      "P",
+      "V",
+      "R",
+      "L",
+      "J",
+      "K",
+      "T"
+    ],
+    [
+      "R",
+      "J",
+      "B",
+      "L",
+      "E",
+      "B",
+      "E",
+      "E",
+      "D",
+      "D",
+      "Y",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TOURNAMENT",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "STALEMATE",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "DEFENSE",
+      "row": 5,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "PROMOTE",
+      "row": 5,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "CAPTURE",
+      "row": 5,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "PUZZLE",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CASTLE",
+      "row": 0,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "TACTIC",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "SQUARE",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "RATING",
+      "row": 7,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "STUDY",
+      "row": 9,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "BOARD",
+      "row": 3,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "TURN",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "FORK",
+      "row": 7,
+      "col": 10,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 757528901
+}

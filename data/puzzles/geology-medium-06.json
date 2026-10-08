@@ -1,0 +1,284 @@
+{
+  "id": "geology-medium-06",
+  "slug": "geology-medium-06",
+  "themeId": "geology",
+  "title": "Geology Word Search (Medium) #06",
+  "primaryKeyword": "geology word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BASALT",
+    "CANYON",
+    "CLAY",
+    "CLIFF",
+    "CRUST",
+    "FELDSPAR",
+    "FOSSIL",
+    "LAB",
+    "MINERAL",
+    "MORAIN",
+    "RIFT",
+    "SANDSTONE",
+    "SOIL",
+    "STONE"
+  ],
+  "grid": [
+    [
+      "J",
+      "W",
+      "G",
+      "F",
+      "B",
+      "X",
+      "Z",
+      "S",
+      "R",
+      "U",
+      "S",
+      "H"
+    ],
+    [
+      "C",
+      "W",
+      "S",
+      "S",
+      "E",
+      "Z",
+      "G",
+      "G",
+      "I",
+      "C",
+      "C",
+      "F"
+    ],
+    [
+      "L",
+      "O",
+      "C",
+      "M",
+      "A",
+      "L",
+      "B",
+      "G",
+      "H",
+      "L",
+      "R",
+      "H"
+    ],
+    [
+      "I",
+      "P",
+      "T",
+      "I",
+      "V",
+      "N",
+      "D",
+      "A",
+      "B",
+      "A",
+      "B",
+      "C"
+    ],
+    [
+      "F",
+      "R",
+      "S",
+      "N",
+      "V",
+      "Y",
+      "D",
+      "S",
+      "S",
+      "Y",
+      "W",
+      "P"
+    ],
+    [
+      "F",
+      "I",
+      "O",
+      "E",
+      "M",
+      "S",
+      "T",
+      "S",
+      "P",
+      "A",
+      "Y",
+      "S"
+    ],
+    [
+      "Y",
+      "F",
+      "I",
+      "R",
+      "L",
+      "O",
+      "T",
+      "L",
+      "T",
+      "A",
+      "L",
+      "N"
+    ],
+    [
+      "P",
+      "T",
+      "L",
+      "A",
+      "V",
+      "S",
+      "R",
+      "O",
+      "A",
+      "O",
+      "R",
+      "T"
+    ],
+    [
+      "C",
+      "A",
+      "K",
+      "L",
+      "U",
+      "X",
+      "C",
+      "A",
+      "N",
+      "B",
+      "N",
+      "E"
+    ],
+    [
+      "Y",
+      "Y",
+      "P",
+      "R",
+      "B",
+      "D",
+      "Z",
+      "G",
+      "I",
+      "E",
+      "U",
+      "E"
+    ],
+    [
+      "F",
+      "H",
+      "C",
+      "U",
+      "C",
+      "A",
+      "N",
+      "Y",
+      "O",
+      "N",
+      "E",
+      "W"
+    ],
+    [
+      "K",
+      "V",
+      "U",
+      "F",
+      "O",
+      "S",
+      "S",
+      "I",
+      "L",
+      "N",
+      "B",
+      "X"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SANDSTONE",
+      "row": 1,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "FELDSPAR",
+      "row": 0,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "MINERAL",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "FOSSIL",
+      "row": 11,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "CANYON",
+      "row": 10,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "MORAIN",
+      "row": 5,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "BASALT",
+      "row": 2,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "STONE",
+      "row": 5,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "CRUST",
+      "row": 10,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "CLIFF",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SOIL",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "CLAY",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "RIFT",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "LAB",
+      "row": 6,
+      "col": 7,
+      "direction": "SE"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1672949959
+}

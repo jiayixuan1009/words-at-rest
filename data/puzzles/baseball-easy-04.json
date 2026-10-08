@@ -1,0 +1,208 @@
+{
+  "id": "baseball-easy-04",
+  "slug": "baseball-easy-04",
+  "themeId": "baseball",
+  "title": "Baseball Word Search (Easy) #04",
+  "primaryKeyword": "baseball word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BASE",
+    "BAT",
+    "BUNT",
+    "CLEATS",
+    "FOUL",
+    "GLOVE",
+    "INNING",
+    "MITT",
+    "TAG",
+    "WARMUP"
+  ],
+  "grid": [
+    [
+      "C",
+      "L",
+      "E",
+      "A",
+      "T",
+      "S",
+      "X",
+      "A",
+      "B",
+      "I"
+    ],
+    [
+      "I",
+      "V",
+      "T",
+      "T",
+      "W",
+      "A",
+      "R",
+      "M",
+      "U",
+      "P"
+    ],
+    [
+      "M",
+      "B",
+      "A",
+      "A",
+      "O",
+      "V",
+      "P",
+      "Q",
+      "T",
+      "F"
+    ],
+    [
+      "O",
+      "A",
+      "M",
+      "G",
+      "G",
+      "L",
+      "O",
+      "V",
+      "E",
+      "O"
+    ],
+    [
+      "J",
+      "S",
+      "I",
+      "R",
+      "I",
+      "A",
+      "E",
+      "Y",
+      "E",
+      "U"
+    ],
+    [
+      "S",
+      "E",
+      "T",
+      "E",
+      "N",
+      "S",
+      "W",
+      "X",
+      "X",
+      "L"
+    ],
+    [
+      "Y",
+      "E",
+      "T",
+      "W",
+      "N",
+      "L",
+      "G",
+      "X",
+      "B",
+      "C"
+    ],
+    [
+      "N",
+      "H",
+      "S",
+      "N",
+      "I",
+      "B",
+      "Z",
+      "M",
+      "U",
+      "S"
+    ],
+    [
+      "Y",
+      "K",
+      "G",
+      "P",
+      "N",
+      "A",
+      "B",
+      "Q",
+      "N",
+      "N"
+    ],
+    [
+      "I",
+      "K",
+      "Z",
+      "D",
+      "G",
+      "T",
+      "R",
+      "M",
+      "T",
+      "Z"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CLEATS",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "WARMUP",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "INNING",
+      "row": 4,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "GLOVE",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BUNT",
+      "row": 6,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "FOUL",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "BASE",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "MITT",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "TAG",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "BAT",
+      "row": 7,
+      "col": 5,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 857255793
+}

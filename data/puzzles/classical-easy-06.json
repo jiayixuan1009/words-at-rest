@@ -1,0 +1,208 @@
+{
+  "id": "classical-easy-06",
+  "slug": "classical-easy-06",
+  "themeId": "classical",
+  "title": "Classical Word Search (Easy) #06",
+  "primaryKeyword": "classical music word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CADENZA",
+    "CHOIR",
+    "DUET",
+    "FORTE",
+    "FUGUE",
+    "PRESTO",
+    "REPRISE",
+    "SONATA",
+    "TRIO",
+    "VARIATION"
+  ],
+  "grid": [
+    [
+      "P",
+      "R",
+      "E",
+      "S",
+      "T",
+      "O",
+      "S",
+      "H",
+      "A",
+      "Y"
+    ],
+    [
+      "J",
+      "Y",
+      "H",
+      "O",
+      "M",
+      "T",
+      "D",
+      "C",
+      "U",
+      "I"
+    ],
+    [
+      "Z",
+      "C",
+      "H",
+      "O",
+      "I",
+      "R",
+      "H",
+      "K",
+      "I",
+      "R"
+    ],
+    [
+      "V",
+      "A",
+      "R",
+      "I",
+      "A",
+      "T",
+      "I",
+      "O",
+      "N",
+      "E"
+    ],
+    [
+      "T",
+      "Z",
+      "S",
+      "W",
+      "E",
+      "X",
+      "E",
+      "O",
+      "F",
+      "P"
+    ],
+    [
+      "R",
+      "X",
+      "F",
+      "U",
+      "G",
+      "U",
+      "E",
+      "Z",
+      "O",
+      "R"
+    ],
+    [
+      "I",
+      "C",
+      "A",
+      "D",
+      "E",
+      "N",
+      "Z",
+      "A",
+      "R",
+      "I"
+    ],
+    [
+      "O",
+      "W",
+      "L",
+      "E",
+      "V",
+      "W",
+      "G",
+      "Y",
+      "T",
+      "S"
+    ],
+    [
+      "D",
+      "U",
+      "E",
+      "T",
+      "B",
+      "B",
+      "J",
+      "H",
+      "E",
+      "E"
+    ],
+    [
+      "H",
+      "A",
+      "Q",
+      "S",
+      "O",
+      "N",
+      "A",
+      "T",
+      "A",
+      "K"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "VARIATION",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CADENZA",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "REPRISE",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "PRESTO",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SONATA",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "CHOIR",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "FUGUE",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "FORTE",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "TRIO",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "DUET",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 576022820
+}

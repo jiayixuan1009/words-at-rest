@@ -1,0 +1,284 @@
+{
+  "id": "herbs-medium-08",
+  "slug": "herbs-medium-08",
+  "themeId": "herbs",
+  "title": "Herbs & Spices Word Search (Medium) #08",
+  "primaryKeyword": "herbs and spices word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BASIL",
+    "BAY",
+    "CAYENNE",
+    "CLOVE",
+    "DILL",
+    "ONION",
+    "PEPPER",
+    "ROSEMARY",
+    "SAGE",
+    "SALT",
+    "SPICE",
+    "STARANISE",
+    "SUMAC",
+    "TARRAGON"
+  ],
+  "grid": [
+    [
+      "N",
+      "T",
+      "R",
+      "L",
+      "B",
+      "A",
+      "S",
+      "I",
+      "L",
+      "N",
+      "I",
+      "H"
+    ],
+    [
+      "D",
+      "D",
+      "I",
+      "L",
+      "L",
+      "H",
+      "S",
+      "P",
+      "I",
+      "C",
+      "E",
+      "G"
+    ],
+    [
+      "P",
+      "E",
+      "P",
+      "P",
+      "E",
+      "R",
+      "Y",
+      "P",
+      "Q",
+      "T",
+      "N",
+      "Y"
+    ],
+    [
+      "C",
+      "T",
+      "L",
+      "A",
+      "A",
+      "S",
+      "A",
+      "G",
+      "E",
+      "Z",
+      "Q",
+      "X"
+    ],
+    [
+      "A",
+      "S",
+      "T",
+      "A",
+      "R",
+      "A",
+      "N",
+      "I",
+      "S",
+      "E",
+      "O",
+      "K"
+    ],
+    [
+      "Y",
+      "H",
+      "C",
+      "C",
+      "M",
+      "O",
+      "N",
+      "I",
+      "O",
+      "N",
+      "Y",
+      "O"
+    ],
+    [
+      "E",
+      "N",
+      "L",
+      "J",
+      "T",
+      "A",
+      "R",
+      "R",
+      "A",
+      "G",
+      "O",
+      "N"
+    ],
+    [
+      "N",
+      "X",
+      "O",
+      "R",
+      "S",
+      "A",
+      "L",
+      "T",
+      "E",
+      "S",
+      "Y",
+      "J"
+    ],
+    [
+      "N",
+      "F",
+      "V",
+      "R",
+      "O",
+      "S",
+      "E",
+      "M",
+      "A",
+      "R",
+      "Y",
+      "R"
+    ],
+    [
+      "E",
+      "T",
+      "E",
+      "T",
+      "Z",
+      "D",
+      "O",
+      "V",
+      "G",
+      "G",
+      "H",
+      "U"
+    ],
+    [
+      "K",
+      "Q",
+      "F",
+      "V",
+      "Q",
+      "O",
+      "K",
+      "B",
+      "A",
+      "Y",
+      "F",
+      "N"
+    ],
+    [
+      "J",
+      "H",
+      "N",
+      "M",
+      "U",
+      "A",
+      "U",
+      "S",
+      "U",
+      "M",
+      "A",
+      "C"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "STARANISE",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "ROSEMARY",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "TARRAGON",
+      "row": 6,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CAYENNE",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "PEPPER",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SUMAC",
+      "row": 11,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "BASIL",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "ONION",
+      "row": 5,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SPICE",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "CLOVE",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "DILL",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SAGE",
+      "row": 3,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SALT",
+      "row": 7,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BAY",
+      "row": 10,
+      "col": 7,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 860182714
+}

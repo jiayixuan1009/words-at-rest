@@ -1,0 +1,284 @@
+{
+  "id": "farm-animals-medium-04",
+  "slug": "farm-animals-medium-04",
+  "themeId": "farm-animals",
+  "title": "Farm Animals Word Search (Medium) #04",
+  "primaryKeyword": "farm animals word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "COW",
+    "DOG",
+    "DONKEY",
+    "FENCE",
+    "FLOCK",
+    "FOAL",
+    "GATE",
+    "HERD",
+    "LLAMA",
+    "MARE",
+    "PONY",
+    "TAIL",
+    "TROUGH",
+    "TURKEY"
+  ],
+  "grid": [
+    [
+      "F",
+      "C",
+      "L",
+      "B",
+      "S",
+      "U",
+      "G",
+      "D",
+      "O",
+      "C",
+      "O",
+      "U"
+    ],
+    [
+      "B",
+      "L",
+      "A",
+      "L",
+      "A",
+      "T",
+      "Y",
+      "I",
+      "I",
+      "M",
+      "H",
+      "U"
+    ],
+    [
+      "L",
+      "O",
+      "O",
+      "E",
+      "A",
+      "I",
+      "U",
+      "L",
+      "Y",
+      "O",
+      "X",
+      "T"
+    ],
+    [
+      "Q",
+      "N",
+      "Z",
+      "C",
+      "N",
+      "M",
+      "A",
+      "R",
+      "E",
+      "W",
+      "T",
+      "A"
+    ],
+    [
+      "P",
+      "E",
+      "V",
+      "X",
+      "K",
+      "O",
+      "A",
+      "T",
+      "K",
+      "E",
+      "N",
+      "I"
+    ],
+    [
+      "O",
+      "V",
+      "D",
+      "D",
+      "F",
+      "V",
+      "A",
+      "B",
+      "C",
+      "E",
+      "U",
+      "L"
+    ],
+    [
+      "N",
+      "T",
+      "V",
+      "O",
+      "O",
+      "G",
+      "S",
+      "N",
+      "R",
+      "Z",
+      "Y",
+      "S"
+    ],
+    [
+      "Y",
+      "F",
+      "R",
+      "Y",
+      "G",
+      "N",
+      "E",
+      "H",
+      "O",
+      "C",
+      "H",
+      "P"
+    ],
+    [
+      "K",
+      "D",
+      "N",
+      "O",
+      "C",
+      "F",
+      "K",
+      "W",
+      "N",
+      "O",
+      "E",
+      "E"
+    ],
+    [
+      "Q",
+      "H",
+      "T",
+      "B",
+      "U",
+      "J",
+      "Y",
+      "E",
+      "D",
+      "W",
+      "R",
+      "X"
+    ],
+    [
+      "T",
+      "Q",
+      "H",
+      "C",
+      "P",
+      "G",
+      "L",
+      "L",
+      "Y",
+      "A",
+      "D",
+      "C"
+    ],
+    [
+      "I",
+      "B",
+      "B",
+      "C",
+      "W",
+      "S",
+      "H",
+      "I",
+      "M",
+      "P",
+      "E",
+      "W"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TROUGH",
+      "row": 6,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "TURKEY",
+      "row": 1,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "DONKEY",
+      "row": 5,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "FENCE",
+      "row": 8,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "LLAMA",
+      "row": 0,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "FLOCK",
+      "row": 0,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "MARE",
+      "row": 11,
+      "col": 8,
+      "direction": "NE"
+    },
+    {
+      "word": "HERD",
+      "row": 7,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "PONY",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "FOAL",
+      "row": 5,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "TAIL",
+      "row": 2,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "GATE",
+      "row": 6,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "DOG",
+      "row": 5,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "COW",
+      "row": 7,
+      "col": 9,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 467556278
+}

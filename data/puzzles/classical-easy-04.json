@@ -1,0 +1,208 @@
+{
+  "id": "classical-easy-04",
+  "slug": "classical-easy-04",
+  "themeId": "classical",
+  "title": "Classical Word Search (Easy) #04",
+  "primaryKeyword": "classical music word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ADAGIO",
+    "ARIA",
+    "CRESCENDO",
+    "DUET",
+    "FORTE",
+    "PRESTO",
+    "SCORE",
+    "SONATA",
+    "SUITE",
+    "SYMPHONY"
+  ],
+  "grid": [
+    [
+      "I",
+      "V",
+      "R",
+      "D",
+      "W",
+      "H",
+      "H",
+      "Q",
+      "V",
+      "T"
+    ],
+    [
+      "J",
+      "C",
+      "Y",
+      "U",
+      "S",
+      "O",
+      "N",
+      "A",
+      "T",
+      "A"
+    ],
+    [
+      "U",
+      "R",
+      "U",
+      "E",
+      "S",
+      "C",
+      "O",
+      "R",
+      "E",
+      "I"
+    ],
+    [
+      "R",
+      "E",
+      "W",
+      "T",
+      "D",
+      "M",
+      "K",
+      "U",
+      "W",
+      "J"
+    ],
+    [
+      "C",
+      "S",
+      "S",
+      "Y",
+      "M",
+      "P",
+      "H",
+      "O",
+      "N",
+      "Y"
+    ],
+    [
+      "I",
+      "C",
+      "P",
+      "D",
+      "S",
+      "U",
+      "I",
+      "T",
+      "E",
+      "T"
+    ],
+    [
+      "A",
+      "E",
+      "N",
+      "B",
+      "A",
+      "D",
+      "A",
+      "G",
+      "I",
+      "O"
+    ],
+    [
+      "Q",
+      "N",
+      "L",
+      "B",
+      "P",
+      "R",
+      "E",
+      "S",
+      "T",
+      "O"
+    ],
+    [
+      "O",
+      "D",
+      "N",
+      "G",
+      "A",
+      "R",
+      "I",
+      "A",
+      "B",
+      "G"
+    ],
+    [
+      "F",
+      "O",
+      "D",
+      "X",
+      "F",
+      "O",
+      "R",
+      "T",
+      "E",
+      "C"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CRESCENDO",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SYMPHONY",
+      "row": 4,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ADAGIO",
+      "row": 6,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SONATA",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "PRESTO",
+      "row": 7,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SCORE",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SUITE",
+      "row": 5,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "FORTE",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "ARIA",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "DUET",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 656863187
+}

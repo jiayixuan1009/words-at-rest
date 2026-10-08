@@ -1,0 +1,284 @@
+{
+  "id": "food-medium-06",
+  "slug": "food-medium-06",
+  "themeId": "food",
+  "title": "Food Word Search (Medium) #06",
+  "primaryKeyword": "food word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BASKET",
+    "BROTH",
+    "CARROT",
+    "CHEESE",
+    "CRUST",
+    "FLOUR",
+    "GRAVY",
+    "MUSHROOM",
+    "PEACH",
+    "SAFFRON",
+    "SLICE",
+    "TOAST",
+    "WARM",
+    "YEAST"
+  ],
+  "grid": [
+    [
+      "L",
+      "I",
+      "M",
+      "U",
+      "S",
+      "H",
+      "R",
+      "O",
+      "O",
+      "M",
+      "X",
+      "M"
+    ],
+    [
+      "W",
+      "L",
+      "S",
+      "M",
+      "S",
+      "L",
+      "I",
+      "C",
+      "E",
+      "Y",
+      "S",
+      "S"
+    ],
+    [
+      "B",
+      "C",
+      "B",
+      "A",
+      "H",
+      "C",
+      "Z",
+      "F",
+      "L",
+      "O",
+      "U",
+      "R"
+    ],
+    [
+      "S",
+      "V",
+      "H",
+      "Z",
+      "F",
+      "O",
+      "A",
+      "B",
+      "Q",
+      "B",
+      "I",
+      "O"
+    ],
+    [
+      "F",
+      "P",
+      "T",
+      "E",
+      "L",
+      "F",
+      "X",
+      "R",
+      "R",
+      "L",
+      "A",
+      "S"
+    ],
+    [
+      "Z",
+      "E",
+      "U",
+      "O",
+      "E",
+      "Y",
+      "R",
+      "D",
+      "R",
+      "O",
+      "F",
+      "J"
+    ],
+    [
+      "G",
+      "A",
+      "B",
+      "M",
+      "A",
+      "S",
+      "L",
+      "O",
+      "N",
+      "O",
+      "T",
+      "S"
+    ],
+    [
+      "R",
+      "C",
+      "G",
+      "A",
+      "T",
+      "S",
+      "E",
+      "N",
+      "N",
+      "B",
+      "T",
+      "H"
+    ],
+    [
+      "A",
+      "H",
+      "D",
+      "S",
+      "S",
+      "D",
+      "T",
+      "B",
+      "D",
+      "M",
+      "K",
+      "U"
+    ],
+    [
+      "V",
+      "H",
+      "A",
+      "Q",
+      "V",
+      "K",
+      "C",
+      "R",
+      "U",
+      "S",
+      "T",
+      "H"
+    ],
+    [
+      "Y",
+      "E",
+      "X",
+      "T",
+      "L",
+      "N",
+      "E",
+      "Z",
+      "W",
+      "A",
+      "R",
+      "M"
+    ],
+    [
+      "Y",
+      "P",
+      "C",
+      "R",
+      "B",
+      "Z",
+      "L",
+      "T",
+      "B",
+      "W",
+      "J",
+      "M"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "MUSHROOM",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SAFFRON",
+      "row": 1,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "CARROT",
+      "row": 2,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "BASKET",
+      "row": 6,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "CHEESE",
+      "row": 2,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "PEACH",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "BROTH",
+      "row": 3,
+      "col": 7,
+      "direction": "SE"
+    },
+    {
+      "word": "SLICE",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CRUST",
+      "row": 9,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "TOAST",
+      "row": 4,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "YEAST",
+      "row": 11,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "FLOUR",
+      "row": 2,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "GRAVY",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "WARM",
+      "row": 10,
+      "col": 8,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1009934865
+}

@@ -1,0 +1,284 @@
+{
+  "id": "dinosaurs-medium-04",
+  "slug": "dinosaurs-medium-04",
+  "themeId": "dinosaurs",
+  "title": "Dinosaurs Word Search (Medium) #04",
+  "primaryKeyword": "dinosaurs word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "AGE",
+    "ANKYLOSAUR",
+    "BONE",
+    "CAST",
+    "DIPLODOCUS",
+    "EGG",
+    "EXTINCT",
+    "IGUANODON",
+    "MOSASAUR",
+    "PLESIOSAUR",
+    "PRINT",
+    "REPTILE",
+    "SITE",
+    "VELOCIRAPTOR"
+  ],
+  "grid": [
+    [
+      "S",
+      "F",
+      "C",
+      "A",
+      "V",
+      "T",
+      "D",
+      "B",
+      "M",
+      "X",
+      "S",
+      "K"
+    ],
+    [
+      "P",
+      "O",
+      "S",
+      "N",
+      "E",
+      "D",
+      "I",
+      "V",
+      "M",
+      "S",
+      "E",
+      "E"
+    ],
+    [
+      "C",
+      "P",
+      "I",
+      "K",
+      "L",
+      "Y",
+      "P",
+      "P",
+      "O",
+      "J",
+      "X",
+      "D"
+    ],
+    [
+      "W",
+      "L",
+      "T",
+      "Y",
+      "O",
+      "R",
+      "L",
+      "R",
+      "S",
+      "I",
+      "T",
+      "V"
+    ],
+    [
+      "C",
+      "E",
+      "E",
+      "L",
+      "C",
+      "E",
+      "O",
+      "I",
+      "A",
+      "G",
+      "I",
+      "B"
+    ],
+    [
+      "A",
+      "S",
+      "J",
+      "O",
+      "I",
+      "P",
+      "D",
+      "N",
+      "S",
+      "U",
+      "N",
+      "B"
+    ],
+    [
+      "S",
+      "I",
+      "B",
+      "S",
+      "R",
+      "T",
+      "O",
+      "T",
+      "A",
+      "A",
+      "C",
+      "A"
+    ],
+    [
+      "T",
+      "O",
+      "O",
+      "A",
+      "A",
+      "I",
+      "C",
+      "N",
+      "U",
+      "N",
+      "T",
+      "G"
+    ],
+    [
+      "X",
+      "S",
+      "N",
+      "U",
+      "P",
+      "L",
+      "U",
+      "J",
+      "R",
+      "O",
+      "H",
+      "E"
+    ],
+    [
+      "W",
+      "A",
+      "E",
+      "R",
+      "T",
+      "E",
+      "S",
+      "V",
+      "X",
+      "D",
+      "V",
+      "F"
+    ],
+    [
+      "K",
+      "U",
+      "G",
+      "T",
+      "O",
+      "I",
+      "X",
+      "I",
+      "H",
+      "O",
+      "J",
+      "E"
+    ],
+    [
+      "H",
+      "R",
+      "G",
+      "Q",
+      "R",
+      "K",
+      "V",
+      "X",
+      "A",
+      "N",
+      "X",
+      "P"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "VELOCIRAPTOR",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "PLESIOSAUR",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "DIPLODOCUS",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "ANKYLOSAUR",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "IGUANODON",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "MOSASAUR",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "EXTINCT",
+      "row": 1,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "REPTILE",
+      "row": 3,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "PRINT",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "CAST",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BONE",
+      "row": 6,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "SITE",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "EGG",
+      "row": 9,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "AGE",
+      "row": 6,
+      "col": 11,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 652110087
+}

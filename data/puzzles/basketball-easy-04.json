@@ -1,0 +1,208 @@
+{
+  "id": "basketball-easy-04",
+  "slug": "basketball-easy-04",
+  "themeId": "basketball",
+  "title": "Basketball Word Search (Easy) #04",
+  "primaryKeyword": "basketball word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ASSIST",
+    "BACKBOARD",
+    "CENTER",
+    "HOOP",
+    "NET",
+    "POINT",
+    "RIM",
+    "SCREEN",
+    "SWEAT",
+    "WHISTLE"
+  ],
+  "grid": [
+    [
+      "R",
+      "I",
+      "M",
+      "C",
+      "E",
+      "N",
+      "T",
+      "E",
+      "R",
+      "F"
+    ],
+    [
+      "A",
+      "S",
+      "S",
+      "I",
+      "S",
+      "T",
+      "Q",
+      "B",
+      "G",
+      "B"
+    ],
+    [
+      "A",
+      "N",
+      "D",
+      "N",
+      "K",
+      "E",
+      "E",
+      "A",
+      "S",
+      "N"
+    ],
+    [
+      "P",
+      "F",
+      "J",
+      "M",
+      "W",
+      "U",
+      "K",
+      "C",
+      "W",
+      "G"
+    ],
+    [
+      "O",
+      "N",
+      "E",
+      "T",
+      "H",
+      "S",
+      "E",
+      "K",
+      "E",
+      "C"
+    ],
+    [
+      "I",
+      "E",
+      "J",
+      "Q",
+      "I",
+      "C",
+      "O",
+      "B",
+      "A",
+      "V"
+    ],
+    [
+      "N",
+      "E",
+      "H",
+      "J",
+      "S",
+      "R",
+      "R",
+      "O",
+      "T",
+      "M"
+    ],
+    [
+      "T",
+      "Y",
+      "O",
+      "P",
+      "T",
+      "E",
+      "V",
+      "A",
+      "S",
+      "C"
+    ],
+    [
+      "N",
+      "K",
+      "O",
+      "X",
+      "L",
+      "E",
+      "C",
+      "R",
+      "K",
+      "N"
+    ],
+    [
+      "T",
+      "A",
+      "P",
+      "E",
+      "E",
+      "N",
+      "V",
+      "D",
+      "X",
+      "P"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BACKBOARD",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "WHISTLE",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "ASSIST",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SCREEN",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "CENTER",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "POINT",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SWEAT",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "HOOP",
+      "row": 6,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "NET",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "RIM",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1297087596
+}

@@ -1,0 +1,208 @@
+{
+  "id": "cats-easy-06",
+  "slug": "cats-easy-06",
+  "themeId": "cats",
+  "title": "Cats Word Search (Easy) #06",
+  "primaryKeyword": "cats word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BIRD",
+    "CALICO",
+    "CLIMB",
+    "FEATHER",
+    "LASER",
+    "PATROL",
+    "POST",
+    "STRETCH",
+    "STRIPE",
+    "TUNNEL"
+  ],
+  "grid": [
+    [
+      "B",
+      "M",
+      "A",
+      "C",
+      "A",
+      "L",
+      "I",
+      "C",
+      "O",
+      "P"
+    ],
+    [
+      "I",
+      "E",
+      "T",
+      "U",
+      "N",
+      "N",
+      "E",
+      "L",
+      "W",
+      "Q"
+    ],
+    [
+      "R",
+      "C",
+      "P",
+      "A",
+      "T",
+      "R",
+      "O",
+      "L",
+      "X",
+      "U"
+    ],
+    [
+      "D",
+      "L",
+      "U",
+      "P",
+      "A",
+      "P",
+      "O",
+      "S",
+      "T",
+      "J"
+    ],
+    [
+      "S",
+      "I",
+      "L",
+      "A",
+      "S",
+      "E",
+      "R",
+      "C",
+      "N",
+      "I"
+    ],
+    [
+      "T",
+      "M",
+      "Q",
+      "F",
+      "T",
+      "C",
+      "K",
+      "R",
+      "B",
+      "Y"
+    ],
+    [
+      "R",
+      "B",
+      "F",
+      "E",
+      "A",
+      "T",
+      "H",
+      "E",
+      "R",
+      "O"
+    ],
+    [
+      "I",
+      "W",
+      "U",
+      "U",
+      "K",
+      "A",
+      "P",
+      "N",
+      "Q",
+      "V"
+    ],
+    [
+      "P",
+      "T",
+      "T",
+      "C",
+      "M",
+      "F",
+      "M",
+      "Z",
+      "F",
+      "R"
+    ],
+    [
+      "E",
+      "X",
+      "Z",
+      "S",
+      "T",
+      "R",
+      "E",
+      "T",
+      "C",
+      "H"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "STRETCH",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "FEATHER",
+      "row": 6,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "TUNNEL",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "STRIPE",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CALICO",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "PATROL",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "LASER",
+      "row": 4,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CLIMB",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "BIRD",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "POST",
+      "row": 3,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 3208732920
+}

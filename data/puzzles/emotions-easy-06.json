@@ -1,0 +1,208 @@
+{
+  "id": "emotions-easy-06",
+  "slug": "emotions-easy-06",
+  "themeId": "emotions",
+  "title": "Emotions Word Search (Easy) #06",
+  "primaryKeyword": "emotions word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CALM",
+    "EASE",
+    "GLAD",
+    "GRATITUDE",
+    "JOY",
+    "KIND",
+    "MERCY",
+    "PRIDE",
+    "SOFT",
+    "TRUST"
+  ],
+  "grid": [
+    [
+      "Q",
+      "P",
+      "O",
+      "G",
+      "L",
+      "A",
+      "D",
+      "L",
+      "W",
+      "A"
+    ],
+    [
+      "G",
+      "R",
+      "A",
+      "T",
+      "I",
+      "T",
+      "U",
+      "D",
+      "E",
+      "K"
+    ],
+    [
+      "C",
+      "A",
+      "I",
+      "J",
+      "C",
+      "E",
+      "Q",
+      "C",
+      "X",
+      "D"
+    ],
+    [
+      "C",
+      "P",
+      "Y",
+      "J",
+      "M",
+      "A",
+      "K",
+      "A",
+      "O",
+      "O"
+    ],
+    [
+      "Q",
+      "S",
+      "R",
+      "I",
+      "E",
+      "S",
+      "I",
+      "L",
+      "K",
+      "Y"
+    ],
+    [
+      "N",
+      "O",
+      "Q",
+      "I",
+      "R",
+      "E",
+      "N",
+      "M",
+      "G",
+      "L"
+    ],
+    [
+      "L",
+      "F",
+      "C",
+      "S",
+      "C",
+      "F",
+      "D",
+      "E",
+      "H",
+      "N"
+    ],
+    [
+      "Q",
+      "T",
+      "W",
+      "B",
+      "Y",
+      "I",
+      "J",
+      "O",
+      "Y",
+      "Z"
+    ],
+    [
+      "Q",
+      "P",
+      "R",
+      "I",
+      "D",
+      "E",
+      "X",
+      "R",
+      "J",
+      "S"
+    ],
+    [
+      "V",
+      "K",
+      "T",
+      "R",
+      "U",
+      "S",
+      "T",
+      "V",
+      "F",
+      "J"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "GRATITUDE",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "PRIDE",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TRUST",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "MERCY",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "EASE",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "CALM",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "KIND",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "SOFT",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "GLAD",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "JOY",
+      "row": 7,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 3108067206
+}

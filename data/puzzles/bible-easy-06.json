@@ -1,0 +1,208 @@
+{
+  "id": "bible-easy-06",
+  "slug": "bible-easy-06",
+  "themeId": "bible",
+  "title": "Bible Word Search (Easy) #06",
+  "primaryKeyword": "bible word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ALTAR",
+    "GIDEON",
+    "GROVE",
+    "JONAH",
+    "JOSEPH",
+    "JOSHUA",
+    "PRAYER",
+    "PSALMS",
+    "SAMARIA",
+    "WORD"
+  ],
+  "grid": [
+    [
+      "E",
+      "Z",
+      "U",
+      "I",
+      "G",
+      "R",
+      "O",
+      "V",
+      "E",
+      "J"
+    ],
+    [
+      "Z",
+      "J",
+      "O",
+      "S",
+      "H",
+      "U",
+      "A",
+      "V",
+      "M",
+      "O"
+    ],
+    [
+      "X",
+      "M",
+      "G",
+      "I",
+      "D",
+      "E",
+      "O",
+      "N",
+      "W",
+      "N"
+    ],
+    [
+      "S",
+      "S",
+      "Q",
+      "P",
+      "R",
+      "A",
+      "Y",
+      "E",
+      "R",
+      "A"
+    ],
+    [
+      "A",
+      "D",
+      "W",
+      "O",
+      "R",
+      "D",
+      "H",
+      "H",
+      "J",
+      "H"
+    ],
+    [
+      "M",
+      "V",
+      "W",
+      "J",
+      "E",
+      "E",
+      "V",
+      "T",
+      "O",
+      "A"
+    ],
+    [
+      "A",
+      "U",
+      "Q",
+      "P",
+      "S",
+      "A",
+      "L",
+      "M",
+      "S",
+      "S"
+    ],
+    [
+      "R",
+      "A",
+      "L",
+      "T",
+      "A",
+      "R",
+      "M",
+      "M",
+      "E",
+      "I"
+    ],
+    [
+      "I",
+      "R",
+      "A",
+      "F",
+      "A",
+      "Z",
+      "D",
+      "W",
+      "P",
+      "N"
+    ],
+    [
+      "A",
+      "N",
+      "T",
+      "I",
+      "R",
+      "E",
+      "L",
+      "S",
+      "H",
+      "I"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SAMARIA",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "JOSEPH",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "GIDEON",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PRAYER",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "PSALMS",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "JOSHUA",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "GROVE",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "JONAH",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "ALTAR",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "WORD",
+      "row": 4,
+      "col": 2,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 740751282
+}

@@ -1,0 +1,284 @@
+{
+  "id": "fathers-day-medium-07",
+  "slug": "fathers-day-medium-07",
+  "themeId": "fathers-day",
+  "title": "Father's Day Word Search (Medium) #07",
+  "primaryKeyword": "fathers day word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CATCH",
+    "GARAGE",
+    "GRILL",
+    "HONOR",
+    "LISTEN",
+    "MOWER",
+    "NEWSPAPER",
+    "SHED",
+    "SMOKE",
+    "STEAK",
+    "STORY",
+    "SUPPORT",
+    "TRAIL",
+    "WORKSHOP"
+  ],
+  "grid": [
+    [
+      "V",
+      "M",
+      "K",
+      "P",
+      "S",
+      "P",
+      "M",
+      "E",
+      "R",
+      "L",
+      "B",
+      "B"
+    ],
+    [
+      "H",
+      "W",
+      "E",
+      "G",
+      "R",
+      "X",
+      "G",
+      "N",
+      "X",
+      "I",
+      "W",
+      "N"
+    ],
+    [
+      "O",
+      "T",
+      "O",
+      "B",
+      "R",
+      "A",
+      "E",
+      "H",
+      "M",
+      "S",
+      "B",
+      "F"
+    ],
+    [
+      "N",
+      "K",
+      "V",
+      "R",
+      "R",
+      "P",
+      "C",
+      "D",
+      "T",
+      "T",
+      "R",
+      "S"
+    ],
+    [
+      "O",
+      "T",
+      "X",
+      "A",
+      "K",
+      "T",
+      "M",
+      "O",
+      "W",
+      "E",
+      "R",
+      "T"
+    ],
+    [
+      "R",
+      "R",
+      "G",
+      "G",
+      "A",
+      "S",
+      "X",
+      "F",
+      "P",
+      "N",
+      "T",
+      "O"
+    ],
+    [
+      "G",
+      "A",
+      "C",
+      "C",
+      "Z",
+      "S",
+      "H",
+      "A",
+      "L",
+      "R",
+      "X",
+      "R"
+    ],
+    [
+      "R",
+      "I",
+      "U",
+      "T",
+      "H",
+      "K",
+      "P",
+      "O",
+      "O",
+      "Y",
+      "G",
+      "Y"
+    ],
+    [
+      "I",
+      "L",
+      "U",
+      "N",
+      "A",
+      "S",
+      "D",
+      "P",
+      "P",
+      "N",
+      "H",
+      "B"
+    ],
+    [
+      "L",
+      "U",
+      "W",
+      "E",
+      "W",
+      "A",
+      "P",
+      "I",
+      "B",
+      "E",
+      "F",
+      "Q"
+    ],
+    [
+      "L",
+      "W",
+      "T",
+      "E",
+      "I",
+      "U",
+      "H",
+      "S",
+      "M",
+      "O",
+      "K",
+      "E"
+    ],
+    [
+      "M",
+      "S",
+      "N",
+      "T",
+      "S",
+      "Z",
+      "J",
+      "S",
+      "H",
+      "E",
+      "D",
+      "J"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "NEWSPAPER",
+      "row": 11,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "WORKSHOP",
+      "row": 1,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "SUPPORT",
+      "row": 11,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "GARAGE",
+      "row": 5,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "LISTEN",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "STORY",
+      "row": 3,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "MOWER",
+      "row": 4,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "STEAK",
+      "row": 11,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "GRILL",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SMOKE",
+      "row": 10,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "CATCH",
+      "row": 6,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "TRAIL",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "HONOR",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SHED",
+      "row": 11,
+      "col": 7,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1026544317
+}

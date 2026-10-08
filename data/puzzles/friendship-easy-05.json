@@ -1,0 +1,208 @@
+{
+  "id": "friendship-easy-05",
+  "slug": "friendship-easy-05",
+  "themeId": "friendship",
+  "title": "Friendship Word Search (Easy) #05",
+  "primaryKeyword": "friendship word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ALLY",
+    "BOND",
+    "BUDDY",
+    "FRIEND",
+    "GENTLE",
+    "LAUGH",
+    "PARTNER",
+    "SHARE",
+    "TABLE",
+    "TEA"
+  ],
+  "grid": [
+    [
+      "J",
+      "E",
+      "A",
+      "F",
+      "V",
+      "F",
+      "S",
+      "N",
+      "S",
+      "Q"
+    ],
+    [
+      "C",
+      "T",
+      "W",
+      "Q",
+      "B",
+      "R",
+      "P",
+      "B",
+      "Q",
+      "O"
+    ],
+    [
+      "I",
+      "A",
+      "Y",
+      "S",
+      "O",
+      "I",
+      "P",
+      "U",
+      "O",
+      "Z"
+    ],
+    [
+      "E",
+      "J",
+      "A",
+      "H",
+      "N",
+      "E",
+      "A",
+      "D",
+      "D",
+      "J"
+    ],
+    [
+      "G",
+      "I",
+      "L",
+      "A",
+      "D",
+      "N",
+      "R",
+      "D",
+      "H",
+      "T"
+    ],
+    [
+      "E",
+      "L",
+      "L",
+      "R",
+      "G",
+      "D",
+      "T",
+      "Y",
+      "P",
+      "A"
+    ],
+    [
+      "N",
+      "A",
+      "Y",
+      "E",
+      "W",
+      "O",
+      "N",
+      "R",
+      "P",
+      "B"
+    ],
+    [
+      "T",
+      "U",
+      "E",
+      "C",
+      "E",
+      "X",
+      "E",
+      "J",
+      "L",
+      "L"
+    ],
+    [
+      "L",
+      "G",
+      "P",
+      "P",
+      "S",
+      "X",
+      "R",
+      "L",
+      "I",
+      "E"
+    ],
+    [
+      "E",
+      "H",
+      "W",
+      "C",
+      "X",
+      "T",
+      "E",
+      "A",
+      "J",
+      "Y"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PARTNER",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "GENTLE",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "FRIEND",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "SHARE",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "TABLE",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "LAUGH",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "BUDDY",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "ALLY",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "BOND",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "TEA",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1269336162
+}

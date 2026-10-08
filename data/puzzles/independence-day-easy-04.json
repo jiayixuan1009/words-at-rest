@@ -1,0 +1,208 @@
+{
+  "id": "independence-day-easy-04",
+  "slug": "independence-day-easy-04",
+  "themeId": "independence-day",
+  "title": "Independence Day Word Search (Easy) #04",
+  "primaryKeyword": "fourth of july word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ANTHEM",
+    "BAND",
+    "FIREWORK",
+    "FLOAT",
+    "FRUIT",
+    "GRILL",
+    "PATRIOT",
+    "SALAD",
+    "TOWN",
+    "WATERMELON"
+  ],
+  "grid": [
+    [
+      "Y",
+      "U",
+      "F",
+      "F",
+      "B",
+      "A",
+      "N",
+      "D",
+      "P",
+      "K"
+    ],
+    [
+      "D",
+      "V",
+      "F",
+      "F",
+      "L",
+      "O",
+      "A",
+      "T",
+      "Y",
+      "F"
+    ],
+    [
+      "W",
+      "K",
+      "F",
+      "R",
+      "U",
+      "I",
+      "T",
+      "P",
+      "N",
+      "R"
+    ],
+    [
+      "W",
+      "A",
+      "T",
+      "E",
+      "R",
+      "M",
+      "E",
+      "L",
+      "O",
+      "N"
+    ],
+    [
+      "G",
+      "W",
+      "R",
+      "O",
+      "E",
+      "D",
+      "T",
+      "O",
+      "W",
+      "N"
+    ],
+    [
+      "U",
+      "G",
+      "G",
+      "R",
+      "I",
+      "L",
+      "L",
+      "V",
+      "S",
+      "F"
+    ],
+    [
+      "Q",
+      "W",
+      "T",
+      "P",
+      "A",
+      "T",
+      "R",
+      "I",
+      "O",
+      "T"
+    ],
+    [
+      "F",
+      "I",
+      "R",
+      "E",
+      "W",
+      "O",
+      "R",
+      "K",
+      "E",
+      "C"
+    ],
+    [
+      "Q",
+      "I",
+      "X",
+      "S",
+      "A",
+      "L",
+      "A",
+      "D",
+      "I",
+      "S"
+    ],
+    [
+      "P",
+      "X",
+      "A",
+      "N",
+      "T",
+      "H",
+      "E",
+      "M",
+      "N",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "WATERMELON",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "FIREWORK",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "PATRIOT",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "ANTHEM",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SALAD",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "FLOAT",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "FRUIT",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "GRILL",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "TOWN",
+      "row": 4,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "BAND",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 790894045
+}

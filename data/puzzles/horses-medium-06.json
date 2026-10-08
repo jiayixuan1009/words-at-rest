@@ -1,0 +1,284 @@
+{
+  "id": "horses-medium-06",
+  "slug": "horses-medium-06",
+  "themeId": "horses",
+  "title": "Horses Word Search (Medium) #06",
+  "primaryKeyword": "horses word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ARENA",
+    "BARN",
+    "BIT",
+    "COAT",
+    "CROP",
+    "HAY",
+    "LEAD",
+    "MANE",
+    "PADDOCK",
+    "RIDE",
+    "RING",
+    "STALL",
+    "TRAIL",
+    "WATER"
+  ],
+  "grid": [
+    [
+      "D",
+      "G",
+      "P",
+      "L",
+      "A",
+      "R",
+      "E",
+      "N",
+      "A",
+      "D",
+      "L",
+      "D"
+    ],
+    [
+      "P",
+      "T",
+      "A",
+      "E",
+      "Y",
+      "C",
+      "C",
+      "G",
+      "F",
+      "Y",
+      "N",
+      "G"
+    ],
+    [
+      "I",
+      "V",
+      "D",
+      "A",
+      "W",
+      "L",
+      "B",
+      "O",
+      "A",
+      "H",
+      "S",
+      "M"
+    ],
+    [
+      "Z",
+      "C",
+      "D",
+      "D",
+      "J",
+      "T",
+      "C",
+      "H",
+      "A",
+      "U",
+      "T",
+      "E"
+    ],
+    [
+      "A",
+      "R",
+      "O",
+      "K",
+      "P",
+      "W",
+      "I",
+      "T",
+      "A",
+      "T",
+      "A",
+      "Y"
+    ],
+    [
+      "J",
+      "I",
+      "C",
+      "T",
+      "R",
+      "A",
+      "I",
+      "L",
+      "Y",
+      "A",
+      "L",
+      "T"
+    ],
+    [
+      "I",
+      "N",
+      "K",
+      "R",
+      "H",
+      "C",
+      "X",
+      "Z",
+      "A",
+      "V",
+      "L",
+      "R"
+    ],
+    [
+      "B",
+      "G",
+      "Q",
+      "Y",
+      "O",
+      "S",
+      "S",
+      "N",
+      "H",
+      "X",
+      "N",
+      "L"
+    ],
+    [
+      "F",
+      "A",
+      "K",
+      "L",
+      "P",
+      "P",
+      "J",
+      "W",
+      "A",
+      "T",
+      "E",
+      "R"
+    ],
+    [
+      "A",
+      "I",
+      "R",
+      "D",
+      "X",
+      "S",
+      "N",
+      "P",
+      "M",
+      "A",
+      "N",
+      "E"
+    ],
+    [
+      "G",
+      "X",
+      "P",
+      "N",
+      "F",
+      "N",
+      "W",
+      "W",
+      "L",
+      "B",
+      "I",
+      "T"
+    ],
+    [
+      "P",
+      "A",
+      "J",
+      "I",
+      "O",
+      "E",
+      "R",
+      "I",
+      "D",
+      "E",
+      "S",
+      "D"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PADDOCK",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "ARENA",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "STALL",
+      "row": 2,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "WATER",
+      "row": 8,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "TRAIL",
+      "row": 5,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BARN",
+      "row": 7,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "LEAD",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "RING",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "COAT",
+      "row": 1,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "CROP",
+      "row": 5,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "RIDE",
+      "row": 11,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "MANE",
+      "row": 9,
+      "col": 8,
+      "direction": "E"
+    },
+    {
+      "word": "HAY",
+      "row": 3,
+      "col": 7,
+      "direction": "NE"
+    },
+    {
+      "word": "BIT",
+      "row": 10,
+      "col": 9,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1572284245
+}

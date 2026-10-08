@@ -9,6 +9,12 @@
 
 ## [未发布 Unreleased]
 
+### 改进 — Daily 每天 10 道（含主题目录）（2026-10-08）
+- 每个 UTC 日目标 **10** 道：slot 1 为 featured（`/daily`、首页 embed、日历高亮）；slots 2–10 为 “Also today”，链到 `/themes/{theme}/{slug}`。
+- 新题写入 `data/puzzles/`（`{theme}-{difficulty}-{nn}`），与 Daily 共用同一 id/进度键；legacy `daily-YYYY-MM-DD` featured 网格不改写。
+- `getDailyPuzzles` / `getDailySiblingPuzzles`；`daily:add` / `daily:check` / 测试按 10/日；featured 难度仍按 UTC 星期，sibling 循环 easy/medium/hard。
+- 过去日（如 2026-10-07）保持 1 道；今天起至缓冲窗补满 10 道。文档见 `docs/DAILY-PUZZLES.md`。
+
 ### 改进 — Wave #2 P1 主题 hub 加厚（2026-10-08）
 - 加厚 7 个仍偏薄主题 hub（调研 P1）：Farming、Birds、Friendship、Flowers、Trees、Beach、Cycling。
 - 各主题 `description` 扩至约 124–130 词；`THEME_EXTRA`（vocabulary / goodFor / tip）与 description 合计约 320–340 有用英文词，并点名相关主题与 large print / how to play。

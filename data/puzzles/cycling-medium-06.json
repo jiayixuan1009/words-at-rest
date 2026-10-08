@@ -1,0 +1,284 @@
+{
+  "id": "cycling-medium-06",
+  "slug": "cycling-medium-06",
+  "themeId": "cycling",
+  "title": "Cycling Word Search (Medium) #06",
+  "primaryKeyword": "cycling word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CHAIN",
+    "CLIMB",
+    "FORK",
+    "FRAME",
+    "HANDLE",
+    "PARK",
+    "PATH",
+    "PELOTON",
+    "PUMP",
+    "REPAIR",
+    "RIDE",
+    "ROUTE",
+    "TUBE",
+    "WIND"
+  ],
+  "grid": [
+    [
+      "B",
+      "Q",
+      "W",
+      "O",
+      "G",
+      "X",
+      "J",
+      "T",
+      "O",
+      "V",
+      "N",
+      "M"
+    ],
+    [
+      "D",
+      "S",
+      "G",
+      "H",
+      "U",
+      "Z",
+      "P",
+      "C",
+      "G",
+      "R",
+      "W",
+      "V"
+    ],
+    [
+      "O",
+      "G",
+      "N",
+      "R",
+      "I",
+      "S",
+      "E",
+      "J",
+      "S",
+      "O",
+      "T",
+      "U"
+    ],
+    [
+      "O",
+      "Q",
+      "C",
+      "Z",
+      "P",
+      "W",
+      "L",
+      "R",
+      "D",
+      "U",
+      "U",
+      "T"
+    ],
+    [
+      "E",
+      "W",
+      "L",
+      "A",
+      "U",
+      "I",
+      "O",
+      "I",
+      "H",
+      "T",
+      "D",
+      "U"
+    ],
+    [
+      "C",
+      "O",
+      "I",
+      "P",
+      "M",
+      "N",
+      "T",
+      "D",
+      "A",
+      "E",
+      "U",
+      "B"
+    ],
+    [
+      "H",
+      "N",
+      "M",
+      "A",
+      "P",
+      "D",
+      "O",
+      "E",
+      "N",
+      "N",
+      "V",
+      "E"
+    ],
+    [
+      "A",
+      "Z",
+      "B",
+      "T",
+      "G",
+      "E",
+      "N",
+      "E",
+      "D",
+      "M",
+      "M",
+      "O"
+    ],
+    [
+      "I",
+      "J",
+      "L",
+      "H",
+      "B",
+      "D",
+      "P",
+      "S",
+      "L",
+      "F",
+      "G",
+      "G"
+    ],
+    [
+      "N",
+      "G",
+      "F",
+      "R",
+      "A",
+      "M",
+      "E",
+      "A",
+      "E",
+      "O",
+      "G",
+      "R"
+    ],
+    [
+      "D",
+      "P",
+      "G",
+      "R",
+      "E",
+      "P",
+      "A",
+      "I",
+      "R",
+      "R",
+      "G",
+      "C"
+    ],
+    [
+      "V",
+      "P",
+      "V",
+      "D",
+      "Z",
+      "D",
+      "V",
+      "F",
+      "Q",
+      "K",
+      "U",
+      "L"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PELOTON",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "REPAIR",
+      "row": 10,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "HANDLE",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "ROUTE",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "CLIMB",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "FRAME",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CHAIN",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "RIDE",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "WIND",
+      "row": 3,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "PATH",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "PUMP",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "TUBE",
+      "row": 3,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "PARK",
+      "row": 8,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "FORK",
+      "row": 8,
+      "col": 9,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 3225510539
+}

@@ -1,0 +1,208 @@
+{
+  "id": "camping-easy-06",
+  "slug": "camping-easy-06",
+  "themeId": "camping",
+  "title": "Camping Word Search (Easy) #06",
+  "primaryKeyword": "camping word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ASH",
+    "CAMP",
+    "FLAME",
+    "LAKE",
+    "LIGHT",
+    "MAT",
+    "RIDGE",
+    "SLEEPING",
+    "SPAR",
+    "SPARK"
+  ],
+  "grid": [
+    [
+      "V",
+      "S",
+      "T",
+      "L",
+      "I",
+      "G",
+      "H",
+      "T",
+      "X",
+      "R"
+    ],
+    [
+      "A",
+      "L",
+      "S",
+      "B",
+      "Q",
+      "C",
+      "V",
+      "C",
+      "M",
+      "I"
+    ],
+    [
+      "R",
+      "E",
+      "P",
+      "M",
+      "I",
+      "A",
+      "B",
+      "W",
+      "U",
+      "D"
+    ],
+    [
+      "D",
+      "E",
+      "A",
+      "W",
+      "M",
+      "M",
+      "T",
+      "F",
+      "Z",
+      "G"
+    ],
+    [
+      "G",
+      "P",
+      "R",
+      "D",
+      "A",
+      "P",
+      "H",
+      "L",
+      "Y",
+      "E"
+    ],
+    [
+      "D",
+      "I",
+      "K",
+      "Z",
+      "T",
+      "B",
+      "N",
+      "A",
+      "A",
+      "P"
+    ],
+    [
+      "Z",
+      "N",
+      "L",
+      "I",
+      "I",
+      "V",
+      "F",
+      "M",
+      "S",
+      "D"
+    ],
+    [
+      "S",
+      "G",
+      "A",
+      "U",
+      "D",
+      "P",
+      "A",
+      "E",
+      "H",
+      "V"
+    ],
+    [
+      "Q",
+      "I",
+      "K",
+      "S",
+      "P",
+      "A",
+      "R",
+      "I",
+      "M",
+      "A"
+    ],
+    [
+      "Z",
+      "T",
+      "E",
+      "G",
+      "Y",
+      "B",
+      "J",
+      "M",
+      "A",
+      "V"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SLEEPING",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "RIDGE",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "FLAME",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "LIGHT",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SPARK",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "CAMP",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "LAKE",
+      "row": 6,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "SPAR",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "MAT",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "ASH",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 3746204766
+}

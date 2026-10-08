@@ -1,0 +1,284 @@
+{
+  "id": "chess-medium-06",
+  "slug": "chess-medium-06",
+  "themeId": "chess",
+  "title": "Chess Word Search (Medium) #06",
+  "primaryKeyword": "chess word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ATTACK",
+    "BISHOP",
+    "BOARD",
+    "CLOCK",
+    "GAMBIT",
+    "KING",
+    "MATE",
+    "OPENING",
+    "PAWN",
+    "POSITION",
+    "QUEEN",
+    "SACRIFICE",
+    "STALEMATE",
+    "STUDY"
+  ],
+  "grid": [
+    [
+      "Y",
+      "C",
+      "C",
+      "E",
+      "Z",
+      "K",
+      "C",
+      "L",
+      "O",
+      "C",
+      "K",
+      "W"
+    ],
+    [
+      "W",
+      "R",
+      "K",
+      "S",
+      "K",
+      "Y",
+      "P",
+      "A",
+      "W",
+      "N",
+      "Q",
+      "U"
+    ],
+    [
+      "L",
+      "X",
+      "F",
+      "A",
+      "V",
+      "S",
+      "P",
+      "N",
+      "L",
+      "M",
+      "U",
+      "G"
+    ],
+    [
+      "O",
+      "S",
+      "L",
+      "C",
+      "A",
+      "T",
+      "O",
+      "Z",
+      "I",
+      "A",
+      "E",
+      "Z"
+    ],
+    [
+      "P",
+      "W",
+      "X",
+      "R",
+      "T",
+      "A",
+      "S",
+      "B",
+      "U",
+      "T",
+      "E",
+      "K"
+    ],
+    [
+      "E",
+      "K",
+      "Q",
+      "I",
+      "T",
+      "L",
+      "I",
+      "O",
+      "N",
+      "E",
+      "N",
+      "Q"
+    ],
+    [
+      "N",
+      "I",
+      "O",
+      "F",
+      "A",
+      "E",
+      "T",
+      "A",
+      "S",
+      "D",
+      "B",
+      "T"
+    ],
+    [
+      "I",
+      "N",
+      "W",
+      "I",
+      "C",
+      "M",
+      "I",
+      "R",
+      "D",
+      "Z",
+      "I",
+      "D"
+    ],
+    [
+      "N",
+      "G",
+      "Q",
+      "C",
+      "K",
+      "A",
+      "O",
+      "D",
+      "C",
+      "B",
+      "S",
+      "C"
+    ],
+    [
+      "G",
+      "U",
+      "Y",
+      "E",
+      "T",
+      "T",
+      "N",
+      "J",
+      "M",
+      "Y",
+      "H",
+      "M"
+    ],
+    [
+      "P",
+      "B",
+      "L",
+      "S",
+      "A",
+      "E",
+      "C",
+      "A",
+      "Q",
+      "L",
+      "O",
+      "D"
+    ],
+    [
+      "Y",
+      "S",
+      "T",
+      "U",
+      "D",
+      "Y",
+      "G",
+      "Y",
+      "Z",
+      "V",
+      "P",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SACRIFICE",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "STALEMATE",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "POSITION",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "OPENING",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "ATTACK",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "GAMBIT",
+      "row": 11,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "BISHOP",
+      "row": 6,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "CLOCK",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "STUDY",
+      "row": 11,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BOARD",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "QUEEN",
+      "row": 1,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "KING",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "MATE",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "PAWN",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 542467582
+}

@@ -1,0 +1,208 @@
+{
+  "id": "camping-easy-08",
+  "slug": "camping-easy-08",
+  "themeId": "camping",
+  "title": "Camping Word Search (Easy) #08",
+  "primaryKeyword": "camping word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "COMPASS",
+    "COT",
+    "DEW",
+    "KNIFE",
+    "MARSH",
+    "ROPE",
+    "SLEEPING",
+    "SPAR",
+    "STOW",
+    "TENT"
+  ],
+  "grid": [
+    [
+      "M",
+      "P",
+      "U",
+      "S",
+      "J",
+      "N",
+      "X",
+      "R",
+      "W",
+      "C"
+    ],
+    [
+      "A",
+      "C",
+      "O",
+      "T",
+      "M",
+      "U",
+      "S",
+      "O",
+      "H",
+      "O"
+    ],
+    [
+      "R",
+      "W",
+      "S",
+      "O",
+      "O",
+      "B",
+      "P",
+      "P",
+      "V",
+      "M"
+    ],
+    [
+      "S",
+      "Y",
+      "L",
+      "W",
+      "A",
+      "Q",
+      "A",
+      "E",
+      "E",
+      "P"
+    ],
+    [
+      "H",
+      "L",
+      "E",
+      "N",
+      "T",
+      "X",
+      "R",
+      "J",
+      "R",
+      "A"
+    ],
+    [
+      "X",
+      "D",
+      "E",
+      "W",
+      "W",
+      "B",
+      "V",
+      "G",
+      "D",
+      "S"
+    ],
+    [
+      "T",
+      "K",
+      "P",
+      "K",
+      "N",
+      "I",
+      "F",
+      "E",
+      "V",
+      "S"
+    ],
+    [
+      "E",
+      "D",
+      "I",
+      "C",
+      "R",
+      "O",
+      "P",
+      "R",
+      "U",
+      "E"
+    ],
+    [
+      "N",
+      "D",
+      "N",
+      "V",
+      "D",
+      "P",
+      "P",
+      "I",
+      "V",
+      "Z"
+    ],
+    [
+      "T",
+      "Q",
+      "G",
+      "K",
+      "M",
+      "H",
+      "M",
+      "F",
+      "D",
+      "I"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SLEEPING",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "COMPASS",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "MARSH",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "KNIFE",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "ROPE",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "STOW",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "SPAR",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "TENT",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "COT",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "DEW",
+      "row": 5,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 618331100
+}

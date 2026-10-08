@@ -1,0 +1,284 @@
+{
+  "id": "basketball-medium-04",
+  "slug": "basketball-medium-04",
+  "themeId": "basketball",
+  "title": "Basketball Word Search (Medium) #04",
+  "primaryKeyword": "basketball word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ASSIST",
+    "BASKET",
+    "DRIBBLE",
+    "FASTBREAK",
+    "GUARD",
+    "JUMP",
+    "MAN",
+    "REBOUND",
+    "ROLL",
+    "SCREEN",
+    "SHOT",
+    "STARTER",
+    "SWEAT",
+    "WHISTLE"
+  ],
+  "grid": [
+    [
+      "N",
+      "V",
+      "R",
+      "E",
+      "B",
+      "O",
+      "U",
+      "N",
+      "D",
+      "L",
+      "X",
+      "B"
+    ],
+    [
+      "T",
+      "H",
+      "N",
+      "I",
+      "A",
+      "I",
+      "R",
+      "O",
+      "L",
+      "L",
+      "P",
+      "A"
+    ],
+    [
+      "I",
+      "O",
+      "S",
+      "W",
+      "E",
+      "A",
+      "T",
+      "P",
+      "J",
+      "V",
+      "Y",
+      "S"
+    ],
+    [
+      "J",
+      "F",
+      "A",
+      "S",
+      "T",
+      "B",
+      "R",
+      "E",
+      "A",
+      "K",
+      "Y",
+      "K"
+    ],
+    [
+      "U",
+      "W",
+      "H",
+      "I",
+      "S",
+      "T",
+      "L",
+      "E",
+      "V",
+      "V",
+      "D",
+      "E"
+    ],
+    [
+      "M",
+      "D",
+      "G",
+      "L",
+      "S",
+      "T",
+      "A",
+      "R",
+      "T",
+      "E",
+      "R",
+      "T"
+    ],
+    [
+      "P",
+      "B",
+      "A",
+      "G",
+      "U",
+      "A",
+      "R",
+      "D",
+      "X",
+      "F",
+      "I",
+      "U"
+    ],
+    [
+      "W",
+      "O",
+      "A",
+      "S",
+      "Z",
+      "S",
+      "H",
+      "O",
+      "T",
+      "H",
+      "B",
+      "K"
+    ],
+    [
+      "E",
+      "D",
+      "F",
+      "Z",
+      "S",
+      "C",
+      "R",
+      "E",
+      "E",
+      "N",
+      "B",
+      "Z"
+    ],
+    [
+      "Z",
+      "R",
+      "X",
+      "N",
+      "A",
+      "S",
+      "S",
+      "I",
+      "S",
+      "T",
+      "L",
+      "C"
+    ],
+    [
+      "R",
+      "W",
+      "A",
+      "A",
+      "B",
+      "B",
+      "M",
+      "Z",
+      "O",
+      "W",
+      "E",
+      "P"
+    ],
+    [
+      "K",
+      "M",
+      "P",
+      "T",
+      "S",
+      "V",
+      "F",
+      "I",
+      "K",
+      "N",
+      "W",
+      "A"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FASTBREAK",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "STARTER",
+      "row": 5,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "DRIBBLE",
+      "row": 4,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "REBOUND",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "WHISTLE",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SCREEN",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BASKET",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "ASSIST",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "GUARD",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SWEAT",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "JUMP",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SHOT",
+      "row": 7,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "ROLL",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "MAN",
+      "row": 11,
+      "col": 1,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 840478174
+}

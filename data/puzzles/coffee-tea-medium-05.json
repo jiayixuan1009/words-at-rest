@@ -1,0 +1,284 @@
+{
+  "id": "coffee-tea-medium-05",
+  "slug": "coffee-tea-medium-05",
+  "themeId": "coffee-tea",
+  "title": "Coffee & Tea Word Search (Medium) #05",
+  "primaryKeyword": "coffee and tea word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "AFTERNOON",
+    "CHAMOMILE",
+    "CREAM",
+    "CUP",
+    "EARL",
+    "FOAM",
+    "LEAF",
+    "LEMON",
+    "MILK",
+    "MORNING",
+    "ROAST",
+    "SCONE",
+    "STEAM",
+    "TEA"
+  ],
+  "grid": [
+    [
+      "U",
+      "Q",
+      "R",
+      "F",
+      "C",
+      "R",
+      "G",
+      "E",
+      "A",
+      "R",
+      "L",
+      "M"
+    ],
+    [
+      "B",
+      "D",
+      "N",
+      "Z",
+      "O",
+      "O",
+      "Y",
+      "E",
+      "D",
+      "N",
+      "G",
+      "C"
+    ],
+    [
+      "L",
+      "E",
+      "M",
+      "O",
+      "N",
+      "A",
+      "G",
+      "Q",
+      "O",
+      "G",
+      "G",
+      "V"
+    ],
+    [
+      "C",
+      "E",
+      "S",
+      "C",
+      "T",
+      "S",
+      "M",
+      "O",
+      "N",
+      "U",
+      "A",
+      "E"
+    ],
+    [
+      "R",
+      "B",
+      "T",
+      "R",
+      "K",
+      "T",
+      "N",
+      "I",
+      "E",
+      "I",
+      "L",
+      "G"
+    ],
+    [
+      "E",
+      "S",
+      "E",
+      "A",
+      "B",
+      "R",
+      "N",
+      "N",
+      "L",
+      "I",
+      "P",
+      "J"
+    ],
+    [
+      "A",
+      "R",
+      "A",
+      "E",
+      "E",
+      "R",
+      "O",
+      "R",
+      "M",
+      "E",
+      "R",
+      "T"
+    ],
+    [
+      "M",
+      "K",
+      "M",
+      "T",
+      "O",
+      "C",
+      "I",
+      "O",
+      "F",
+      "L",
+      "A",
+      "U"
+    ],
+    [
+      "F",
+      "F",
+      "F",
+      "M",
+      "S",
+      "D",
+      "M",
+      "R",
+      "M",
+      "K",
+      "W",
+      "F"
+    ],
+    [
+      "C",
+      "A",
+      "K",
+      "A",
+      "O",
+      "A",
+      "M",
+      "I",
+      "L",
+      "K",
+      "J",
+      "L"
+    ],
+    [
+      "D",
+      "U",
+      "L",
+      "I",
+      "H",
+      "P",
+      "O",
+      "E",
+      "V",
+      "T",
+      "O",
+      "R"
+    ],
+    [
+      "K",
+      "H",
+      "P",
+      "C",
+      "A",
+      "J",
+      "X",
+      "W",
+      "T",
+      "E",
+      "A",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "AFTERNOON",
+      "row": 9,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "CHAMOMILE",
+      "row": 11,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "MORNING",
+      "row": 8,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "STEAM",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "CREAM",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "ROAST",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "LEMON",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SCONE",
+      "row": 8,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "LEAF",
+      "row": 5,
+      "col": 8,
+      "direction": "SE"
+    },
+    {
+      "word": "MILK",
+      "row": 9,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "EARL",
+      "row": 0,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "FOAM",
+      "row": 0,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "TEA",
+      "row": 11,
+      "col": 8,
+      "direction": "E"
+    },
+    {
+      "word": "CUP",
+      "row": 9,
+      "col": 0,
+      "direction": "SE"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 2085773071
+}

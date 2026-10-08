@@ -1,0 +1,284 @@
+{
+  "id": "breakfast-medium-07",
+  "slug": "breakfast-medium-07",
+  "themeId": "breakfast",
+  "title": "Breakfast Word Search (Medium) #07",
+  "primaryKeyword": "breakfast word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "COFFEE",
+    "CREAM",
+    "DAWN",
+    "JUICE",
+    "KETTLE",
+    "MILK",
+    "NAPKIN",
+    "OMELET",
+    "PLATE",
+    "PORRIDGE",
+    "POTATO",
+    "TOAST",
+    "TRAY",
+    "YOGURT"
+  ],
+  "grid": [
+    [
+      "N",
+      "A",
+      "P",
+      "K",
+      "I",
+      "N",
+      "V",
+      "P",
+      "U",
+      "A",
+      "T",
+      "K"
+    ],
+    [
+      "P",
+      "T",
+      "R",
+      "A",
+      "Y",
+      "S",
+      "J",
+      "G",
+      "N",
+      "E",
+      "X",
+      "E"
+    ],
+    [
+      "O",
+      "B",
+      "O",
+      "Z",
+      "O",
+      "B",
+      "T",
+      "U",
+      "L",
+      "N",
+      "D",
+      "T"
+    ],
+    [
+      "P",
+      "P",
+      "L",
+      "P",
+      "G",
+      "M",
+      "Y",
+      "E",
+      "I",
+      "W",
+      "S",
+      "T"
+    ],
+    [
+      "O",
+      "B",
+      "L",
+      "N",
+      "U",
+      "D",
+      "M",
+      "A",
+      "U",
+      "C",
+      "M",
+      "L"
+    ],
+    [
+      "R",
+      "W",
+      "S",
+      "A",
+      "R",
+      "O",
+      "A",
+      "M",
+      "H",
+      "A",
+      "E",
+      "E"
+    ],
+    [
+      "R",
+      "Q",
+      "R",
+      "P",
+      "T",
+      "W",
+      "R",
+      "W",
+      "E",
+      "U",
+      "E",
+      "G"
+    ],
+    [
+      "I",
+      "A",
+      "L",
+      "O",
+      "O",
+      "E",
+      "R",
+      "R",
+      "N",
+      "E",
+      "V",
+      "U"
+    ],
+    [
+      "D",
+      "E",
+      "Q",
+      "T",
+      "A",
+      "A",
+      "C",
+      "F",
+      "F",
+      "G",
+      "X",
+      "G"
+    ],
+    [
+      "G",
+      "T",
+      "L",
+      "A",
+      "S",
+      "U",
+      "L",
+      "F",
+      "U",
+      "F",
+      "P",
+      "S"
+    ],
+    [
+      "E",
+      "X",
+      "O",
+      "T",
+      "T",
+      "C",
+      "O",
+      "T",
+      "Z",
+      "J",
+      "Z",
+      "T"
+    ],
+    [
+      "O",
+      "F",
+      "N",
+      "O",
+      "W",
+      "C",
+      "A",
+      "V",
+      "M",
+      "I",
+      "L",
+      "K"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PORRIDGE",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "OMELET",
+      "row": 5,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "COFFEE",
+      "row": 11,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "YOGURT",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "NAPKIN",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "KETTLE",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "POTATO",
+      "row": 6,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "CREAM",
+      "row": 8,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "TOAST",
+      "row": 6,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "JUICE",
+      "row": 1,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "PLATE",
+      "row": 3,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "DAWN",
+      "row": 4,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "MILK",
+      "row": 11,
+      "col": 8,
+      "direction": "E"
+    },
+    {
+      "word": "TRAY",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 836745498
+}

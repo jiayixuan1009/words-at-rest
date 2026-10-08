@@ -1,0 +1,208 @@
+{
+  "id": "deserts-easy-04",
+  "slug": "deserts-easy-04",
+  "themeId": "deserts",
+  "title": "Deserts Word Search (Easy) #04",
+  "primaryKeyword": "deserts word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CACTUS",
+    "CANYON",
+    "DESERT",
+    "FLASK",
+    "HAWK",
+    "MESA",
+    "ROCK",
+    "SNAKE",
+    "SPINE",
+    "STAR"
+  ],
+  "grid": [
+    [
+      "W",
+      "H",
+      "I",
+      "D",
+      "T",
+      "O",
+      "S",
+      "T",
+      "A",
+      "R"
+    ],
+    [
+      "S",
+      "V",
+      "Y",
+      "V",
+      "N",
+      "C",
+      "T",
+      "C",
+      "A",
+      "U"
+    ],
+    [
+      "C",
+      "A",
+      "N",
+      "Y",
+      "O",
+      "N",
+      "R",
+      "A",
+      "E",
+      "W"
+    ],
+    [
+      "S",
+      "D",
+      "V",
+      "D",
+      "N",
+      "N",
+      "O",
+      "C",
+      "R",
+      "U"
+    ],
+    [
+      "T",
+      "J",
+      "H",
+      "E",
+      "L",
+      "Q",
+      "C",
+      "T",
+      "F",
+      "T"
+    ],
+    [
+      "X",
+      "P",
+      "A",
+      "S",
+      "A",
+      "R",
+      "K",
+      "U",
+      "W",
+      "F"
+    ],
+    [
+      "M",
+      "B",
+      "W",
+      "E",
+      "C",
+      "R",
+      "L",
+      "S",
+      "U",
+      "L"
+    ],
+    [
+      "E",
+      "A",
+      "K",
+      "R",
+      "S",
+      "N",
+      "A",
+      "K",
+      "E",
+      "A"
+    ],
+    [
+      "S",
+      "D",
+      "H",
+      "T",
+      "X",
+      "D",
+      "J",
+      "E",
+      "D",
+      "S"
+    ],
+    [
+      "A",
+      "S",
+      "P",
+      "I",
+      "N",
+      "E",
+      "P",
+      "I",
+      "Y",
+      "K"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CACTUS",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "DESERT",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "CANYON",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SNAKE",
+      "row": 7,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "FLASK",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SPINE",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "MESA",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "STAR",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "HAWK",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "ROCK",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1097289301
+}

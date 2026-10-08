@@ -7,12 +7,14 @@ import {
   currentDailyDate,
   formatLongDate,
   getDailyPuzzle,
+  getDailyPuzzles,
   isValidDailyDate,
   getDailyScheduleEntries,
   getTheme,
   latestVisibleDailyDate,
 } from "@/lib/data";
 import {
+  isFeaturedDaily,
   CALENDAR_FIRST_MONTH,
   daysInMonth,
   formatMonthLong,
@@ -121,6 +123,7 @@ function MonthGrid({ ym, today }: { ym: string; today: string }) {
                   }
                   const puzzle = getDailyPuzzle(date);
                   const theme = getTheme(puzzle.themeId);
+                  const extra = Math.max(0, getDailyPuzzles(date).length - 1);
                   return (
                     <td key={date} className={`h-20 border border-[#d4cbb8] p-1 align-top ${isToday ? "bg-[#efe7d9]" : "bg-white"}`}>
                       <Link
@@ -134,7 +137,10 @@ function MonthGrid({ ym, today }: { ym: string; today: string }) {
                         <span className="mt-0.5 text-[0.9375rem] leading-snug text-stone-700">
                           {theme?.name ?? puzzle.themeId}
                         </span>
-                        <span className="text-sm capitalize text-[var(--ink-soft)]">{puzzle.difficulty}</span>
+                        <span className="text-sm capitalize text-[var(--ink-soft)]">
+                          {puzzle.difficulty}
+                          {extra > 0 ? ` · +${extra}` : ""}
+                        </span>
                       </Link>
                     </td>
                   );
@@ -164,6 +170,7 @@ function MonthGrid({ ym, today }: { ym: string; today: string }) {
           }
           const puzzle = getDailyPuzzle(date);
           const theme = getTheme(puzzle.themeId);
+          const extra = Math.max(0, getDailyPuzzles(date).length - 1);
           const isToday = date === today;
           return (
             <li key={date}>
@@ -177,6 +184,7 @@ function MonthGrid({ ym, today }: { ym: string; today: string }) {
                 </span>
                 <span className="mt-1 text-[1rem] text-stone-700">
                   {theme?.name ?? puzzle.themeId} · <span className="capitalize">{puzzle.difficulty}</span>
+                  {extra > 0 ? ` · +${extra} more` : ""}
                 </span>
               </Link>
             </li>
@@ -188,12 +196,13 @@ function MonthGrid({ ym, today }: { ym: string; today: string }) {
 }
 
 function WhatsNew({ today }: { today: string }) {
+  // Featured only — multi-slot days would flood the log with 10 rows each.
   const scheduled = getDailyScheduleEntries()
-    .filter((e) => e.date <= today)
+    .filter((e) => e.date <= today && isFeaturedDaily(e))
     .sort((a, b) => b.date.localeCompare(a.date));
 
   // Include the frozen launch snapshot if visible and not in schedule.
-  const items: Array<{ date: string; title: string; themeId: string; difficulty: string }> = [];
+  const items: Array<{ date: string; title: string; themeId: string; difficulty: string; extra: number }> = [];
   if (isValidDailyDate(SITE.dailyStart) && !scheduled.some((e) => e.date === SITE.dailyStart)) {
     const p = getDailyPuzzle(SITE.dailyStart);
     items.push({
@@ -201,14 +210,17 @@ function WhatsNew({ today }: { today: string }) {
       title: p.title,
       themeId: p.themeId,
       difficulty: p.difficulty,
+      extra: 0,
     });
   }
   for (const e of scheduled) {
+    const count = getDailyPuzzles(e.date).length;
     items.push({
       date: e.date,
       title: e.title,
       themeId: e.themeId,
       difficulty: e.difficulty,
+      extra: Math.max(0, count - 1),
     });
   }
   items.sort((a, b) => b.date.localeCompare(a.date));
@@ -241,6 +253,7 @@ function WhatsNew({ today }: { today: string }) {
                     {item.title}
                     <span className="mt-0.5 block text-sm capitalize text-[var(--ink-soft)] sm:mt-0 sm:inline sm:before:content-['·_']">
                       {theme?.name ?? item.themeId} · {item.difficulty}
+                      {item.extra > 0 ? ` · +${item.extra} more` : ""}
                     </span>
                   </span>
                 </Link>
@@ -302,7 +315,7 @@ export default function CalendarPage() {
       <h1 className="font-serif text-4xl tracking-tight sm:text-5xl">Daily word search calendar</h1>
       <Byline dates={dates} />
       <p className="mt-4 max-w-2xl text-lg leading-relaxed text-stone-700">
-        One free puzzle each day since {formatLongDate(SITE.dailyStart)}. Open any past or today&apos;s
+        A featured free puzzle each day since {formatLongDate(SITE.dailyStart)}. Open any past or today&apos;s
         date to play. New puzzles unlock at midnight UTC — future days stay greyed out here and return
         404 if you guess the URL. Prefer today&apos;s grid?{" "}
         <Link href="/daily">Play today&apos;s daily word search</Link>.
@@ -311,8 +324,8 @@ export default function CalendarPage() {
       <p className="mt-4 text-lg"><Link href={`/calendar/${ym}`}>Open {formatMonthLong(ym)} daily puzzle archive</Link></p>
       <WhatsNew today={today} />
       <p className="mt-10 text-base text-[var(--ink-soft)]">
-        Difficulty by weekday (UTC): Sunday, Monday and Wednesday easy; Tuesday, Thursday and Friday
-        medium; Saturday hard.
+        Featured difficulty by weekday (UTC): Sunday, Monday and Wednesday easy; Tuesday, Thursday and Friday
+        medium; Saturday hard. Days with a full set also list nine more theme puzzles.
       </p>
     </>
   );

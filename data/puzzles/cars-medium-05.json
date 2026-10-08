@@ -1,0 +1,284 @@
+{
+  "id": "cars-medium-05",
+  "slug": "cars-medium-05",
+  "themeId": "cars",
+  "title": "Cars Word Search (Medium) #05",
+  "primaryKeyword": "cars word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "AXLE",
+    "BELT",
+    "CAR",
+    "CLUTCH",
+    "DOOR",
+    "FUEL",
+    "LIGHT",
+    "MIRROR",
+    "OIL",
+    "PARK",
+    "PEDAL",
+    "SIGNAL",
+    "SPARE",
+    "WHEELHOUSE"
+  ],
+  "grid": [
+    [
+      "T",
+      "F",
+      "R",
+      "M",
+      "H",
+      "G",
+      "F",
+      "T",
+      "L",
+      "T",
+      "S",
+      "S"
+    ],
+    [
+      "D",
+      "P",
+      "F",
+      "K",
+      "H",
+      "Q",
+      "H",
+      "F",
+      "W",
+      "R",
+      "E",
+      "P"
+    ],
+    [
+      "O",
+      "E",
+      "W",
+      "A",
+      "L",
+      "G",
+      "M",
+      "B",
+      "H",
+      "P",
+      "P",
+      "A"
+    ],
+    [
+      "O",
+      "D",
+      "U",
+      "M",
+      "I",
+      "L",
+      "X",
+      "E",
+      "E",
+      "B",
+      "H",
+      "R"
+    ],
+    [
+      "R",
+      "A",
+      "B",
+      "L",
+      "A",
+      "F",
+      "Y",
+      "L",
+      "E",
+      "N",
+      "T",
+      "E"
+    ],
+    [
+      "A",
+      "L",
+      "Q",
+      "N",
+      "L",
+      "L",
+      "L",
+      "T",
+      "L",
+      "H",
+      "Z",
+      "P"
+    ],
+    [
+      "J",
+      "E",
+      "G",
+      "G",
+      "A",
+      "I",
+      "D",
+      "R",
+      "H",
+      "G",
+      "S",
+      "F"
+    ],
+    [
+      "I",
+      "I",
+      "E",
+      "B",
+      "O",
+      "H",
+      "O",
+      "O",
+      "O",
+      "R",
+      "L",
+      "U"
+    ],
+    [
+      "S",
+      "P",
+      "A",
+      "R",
+      "K",
+      "R",
+      "T",
+      "B",
+      "U",
+      "T",
+      "Y",
+      "E"
+    ],
+    [
+      "D",
+      "C",
+      "H",
+      "G",
+      "R",
+      "K",
+      "B",
+      "L",
+      "S",
+      "T",
+      "M",
+      "L"
+    ],
+    [
+      "A",
+      "N",
+      "A",
+      "I",
+      "A",
+      "X",
+      "L",
+      "E",
+      "E",
+      "G",
+      "Q",
+      "F"
+    ],
+    [
+      "X",
+      "V",
+      "M",
+      "R",
+      "Z",
+      "X",
+      "C",
+      "L",
+      "U",
+      "T",
+      "C",
+      "H"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "WHEELHOUSE",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "MIRROR",
+      "row": 11,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "CLUTCH",
+      "row": 11,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "SIGNAL",
+      "row": 8,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "PEDAL",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SPARE",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "LIGHT",
+      "row": 4,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "AXLE",
+      "row": 10,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BELT",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "FUEL",
+      "row": 6,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "DOOR",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "PARK",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "OIL",
+      "row": 7,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "CAR",
+      "row": 9,
+      "col": 1,
+      "direction": "SE"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 476754272
+}

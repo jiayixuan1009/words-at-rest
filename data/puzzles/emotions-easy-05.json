@@ -1,0 +1,208 @@
+{
+  "id": "emotions-easy-05",
+  "slug": "emotions-easy-05",
+  "themeId": "emotions",
+  "title": "Emotions Word Search (Easy) #05",
+  "primaryKeyword": "emotions word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ANGER",
+    "CARE",
+    "GLAD",
+    "GUILT",
+    "LAUGH",
+    "LONGING",
+    "MERCY",
+    "PEACE",
+    "SERENE",
+    "SORROW"
+  ],
+  "grid": [
+    [
+      "J",
+      "E",
+      "R",
+      "A",
+      "O",
+      "C",
+      "Z",
+      "N",
+      "S",
+      "U"
+    ],
+    [
+      "T",
+      "V",
+      "G",
+      "J",
+      "O",
+      "P",
+      "E",
+      "A",
+      "C",
+      "E"
+    ],
+    [
+      "I",
+      "C",
+      "L",
+      "O",
+      "N",
+      "G",
+      "I",
+      "N",
+      "G",
+      "I"
+    ],
+    [
+      "A",
+      "C",
+      "N",
+      "L",
+      "K",
+      "X",
+      "L",
+      "M",
+      "Y",
+      "N"
+    ],
+    [
+      "N",
+      "Q",
+      "S",
+      "A",
+      "G",
+      "U",
+      "I",
+      "L",
+      "T",
+      "S"
+    ],
+    [
+      "G",
+      "Y",
+      "O",
+      "U",
+      "L",
+      "R",
+      "O",
+      "H",
+      "I",
+      "E"
+    ],
+    [
+      "E",
+      "N",
+      "R",
+      "G",
+      "A",
+      "C",
+      "K",
+      "G",
+      "R",
+      "R"
+    ],
+    [
+      "R",
+      "X",
+      "R",
+      "H",
+      "D",
+      "F",
+      "B",
+      "G",
+      "E",
+      "E"
+    ],
+    [
+      "X",
+      "F",
+      "O",
+      "M",
+      "E",
+      "R",
+      "C",
+      "Y",
+      "D",
+      "N"
+    ],
+    [
+      "P",
+      "H",
+      "W",
+      "E",
+      "A",
+      "C",
+      "A",
+      "R",
+      "E",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "LONGING",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SERENE",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SORROW",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "MERCY",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "PEACE",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "GUILT",
+      "row": 4,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "LAUGH",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "ANGER",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CARE",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "GLAD",
+      "row": 4,
+      "col": 4,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1347051964
+}

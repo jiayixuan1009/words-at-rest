@@ -1,0 +1,208 @@
+{
+  "id": "architecture-easy-06",
+  "slug": "architecture-easy-06",
+  "themeId": "architecture",
+  "title": "Architecture Word Search (Easy) #06",
+  "primaryKeyword": "architecture word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "APSE",
+    "BALCONY",
+    "COLUMN",
+    "GLASS",
+    "HALL",
+    "JOIST",
+    "NAVE",
+    "SITE",
+    "STEEL",
+    "VAULT"
+  ],
+  "grid": [
+    [
+      "H",
+      "A",
+      "L",
+      "L",
+      "G",
+      "G",
+      "U",
+      "X",
+      "O",
+      "Z"
+    ],
+    [
+      "N",
+      "R",
+      "H",
+      "F",
+      "L",
+      "K",
+      "S",
+      "R",
+      "U",
+      "A"
+    ],
+    [
+      "V",
+      "Q",
+      "B",
+      "Y",
+      "A",
+      "I",
+      "I",
+      "O",
+      "A",
+      "L"
+    ],
+    [
+      "A",
+      "M",
+      "D",
+      "R",
+      "S",
+      "S",
+      "T",
+      "E",
+      "E",
+      "L"
+    ],
+    [
+      "U",
+      "R",
+      "I",
+      "P",
+      "S",
+      "K",
+      "E",
+      "V",
+      "S",
+      "F"
+    ],
+    [
+      "L",
+      "C",
+      "O",
+      "L",
+      "U",
+      "M",
+      "N",
+      "U",
+      "G",
+      "P"
+    ],
+    [
+      "T",
+      "Y",
+      "B",
+      "A",
+      "L",
+      "C",
+      "O",
+      "N",
+      "Y",
+      "O"
+    ],
+    [
+      "R",
+      "C",
+      "K",
+      "A",
+      "J",
+      "N",
+      "A",
+      "V",
+      "E",
+      "S"
+    ],
+    [
+      "J",
+      "O",
+      "I",
+      "S",
+      "T",
+      "B",
+      "B",
+      "Q",
+      "F",
+      "O"
+    ],
+    [
+      "I",
+      "I",
+      "C",
+      "I",
+      "E",
+      "A",
+      "P",
+      "S",
+      "E",
+      "W"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BALCONY",
+      "row": 6,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "COLUMN",
+      "row": 5,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "VAULT",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "STEEL",
+      "row": 3,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "JOIST",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "GLASS",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "APSE",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SITE",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "NAVE",
+      "row": 7,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "HALL",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 2725109305
+}

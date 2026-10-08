@@ -1,0 +1,284 @@
+{
+  "id": "dinosaurs-medium-06",
+  "slug": "dinosaurs-medium-06",
+  "themeId": "dinosaurs",
+  "title": "Dinosaurs Word Search (Medium) #06",
+  "primaryKeyword": "dinosaurs word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "AGE",
+    "ALLOSAUR",
+    "AMBER",
+    "DINOSAUR",
+    "DIPLODOCUS",
+    "HERBIVORE",
+    "IGUANODON",
+    "LAYER",
+    "MUSEUM",
+    "PALEONTOLOGY",
+    "PLESIOSAUR",
+    "PREDATOR",
+    "TRICERATOPS",
+    "TYRANNOSAUR"
+  ],
+  "grid": [
+    [
+      "L",
+      "A",
+      "Y",
+      "E",
+      "R",
+      "H",
+      "P",
+      "U",
+      "I",
+      "P",
+      "P",
+      "I"
+    ],
+    [
+      "T",
+      "B",
+      "Z",
+      "K",
+      "D",
+      "E",
+      "A",
+      "T",
+      "G",
+      "L",
+      "R",
+      "H"
+    ],
+    [
+      "Y",
+      "D",
+      "I",
+      "I",
+      "I",
+      "R",
+      "L",
+      "R",
+      "U",
+      "E",
+      "E",
+      "A"
+    ],
+    [
+      "R",
+      "I",
+      "A",
+      "M",
+      "N",
+      "B",
+      "E",
+      "I",
+      "A",
+      "S",
+      "D",
+      "L"
+    ],
+    [
+      "A",
+      "P",
+      "M",
+      "U",
+      "O",
+      "I",
+      "O",
+      "C",
+      "N",
+      "I",
+      "A",
+      "L"
+    ],
+    [
+      "N",
+      "L",
+      "B",
+      "S",
+      "S",
+      "V",
+      "N",
+      "E",
+      "O",
+      "O",
+      "T",
+      "O"
+    ],
+    [
+      "N",
+      "O",
+      "E",
+      "E",
+      "A",
+      "O",
+      "T",
+      "R",
+      "D",
+      "S",
+      "O",
+      "S"
+    ],
+    [
+      "O",
+      "D",
+      "R",
+      "U",
+      "U",
+      "R",
+      "O",
+      "A",
+      "O",
+      "A",
+      "R",
+      "A"
+    ],
+    [
+      "S",
+      "O",
+      "F",
+      "M",
+      "R",
+      "E",
+      "L",
+      "T",
+      "N",
+      "U",
+      "S",
+      "U"
+    ],
+    [
+      "A",
+      "C",
+      "B",
+      "H",
+      "L",
+      "A",
+      "O",
+      "O",
+      "U",
+      "R",
+      "B",
+      "R"
+    ],
+    [
+      "U",
+      "U",
+      "Q",
+      "G",
+      "T",
+      "G",
+      "G",
+      "P",
+      "Z",
+      "V",
+      "Z",
+      "C"
+    ],
+    [
+      "R",
+      "S",
+      "T",
+      "R",
+      "E",
+      "E",
+      "Y",
+      "S",
+      "C",
+      "P",
+      "A",
+      "Y"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PALEONTOLOGY",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "TYRANNOSAUR",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "TRICERATOPS",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "PLESIOSAUR",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "DIPLODOCUS",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "HERBIVORE",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "IGUANODON",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "DINOSAUR",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "ALLOSAUR",
+      "row": 2,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "PREDATOR",
+      "row": 0,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "MUSEUM",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "LAYER",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "AMBER",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "AGE",
+      "row": 9,
+      "col": 5,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 3275843396
+}

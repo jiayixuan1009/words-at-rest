@@ -1,0 +1,284 @@
+{
+  "id": "horses-medium-04",
+  "slug": "horses-medium-04",
+  "themeId": "horses",
+  "title": "Horses Word Search (Medium) #04",
+  "primaryKeyword": "horses word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BLANKET",
+    "BRIDLE",
+    "BRUSH",
+    "COAT",
+    "FIELD",
+    "FOAL",
+    "GATE",
+    "HAY",
+    "HERD",
+    "LANE",
+    "PADDOCK",
+    "PONY",
+    "SUN",
+    "TAIL"
+  ],
+  "grid": [
+    [
+      "R",
+      "A",
+      "M",
+      "W",
+      "J",
+      "H",
+      "H",
+      "Y",
+      "B",
+      "Q",
+      "A",
+      "O"
+    ],
+    [
+      "F",
+      "O",
+      "A",
+      "L",
+      "S",
+      "W",
+      "T",
+      "C",
+      "R",
+      "M",
+      "E",
+      "X"
+    ],
+    [
+      "I",
+      "U",
+      "N",
+      "U",
+      "U",
+      "K",
+      "A",
+      "I",
+      "I",
+      "D",
+      "C",
+      "S"
+    ],
+    [
+      "E",
+      "L",
+      "R",
+      "L",
+      "N",
+      "O",
+      "I",
+      "S",
+      "D",
+      "V",
+      "V",
+      "F"
+    ],
+    [
+      "L",
+      "B",
+      "H",
+      "A",
+      "O",
+      "Q",
+      "L",
+      "V",
+      "L",
+      "Q",
+      "G",
+      "A"
+    ],
+    [
+      "D",
+      "X",
+      "A",
+      "N",
+      "T",
+      "B",
+      "S",
+      "T",
+      "E",
+      "G",
+      "A",
+      "B"
+    ],
+    [
+      "W",
+      "G",
+      "Y",
+      "E",
+      "E",
+      "Z",
+      "L",
+      "M",
+      "H",
+      "E",
+      "T",
+      "W"
+    ],
+    [
+      "D",
+      "J",
+      "N",
+      "K",
+      "G",
+      "K",
+      "O",
+      "A",
+      "C",
+      "E",
+      "E",
+      "U"
+    ],
+    [
+      "L",
+      "B",
+      "Q",
+      "J",
+      "C",
+      "O",
+      "A",
+      "T",
+      "N",
+      "T",
+      "R",
+      "C"
+    ],
+    [
+      "P",
+      "A",
+      "D",
+      "D",
+      "O",
+      "C",
+      "K",
+      "S",
+      "E",
+      "K",
+      "C",
+      "D"
+    ],
+    [
+      "G",
+      "F",
+      "B",
+      "V",
+      "C",
+      "V",
+      "M",
+      "J",
+      "Z",
+      "D",
+      "E",
+      "H"
+    ],
+    [
+      "R",
+      "L",
+      "J",
+      "H",
+      "I",
+      "N",
+      "K",
+      "P",
+      "O",
+      "N",
+      "Y",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BLANKET",
+      "row": 5,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "PADDOCK",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BRIDLE",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "FIELD",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BRUSH",
+      "row": 4,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "FOAL",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "COAT",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "HERD",
+      "row": 6,
+      "col": 8,
+      "direction": "SE"
+    },
+    {
+      "word": "PONY",
+      "row": 11,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "TAIL",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "LANE",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "GATE",
+      "row": 4,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "SUN",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "HAY",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 556007379
+}

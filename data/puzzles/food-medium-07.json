@@ -1,0 +1,284 @@
+{
+  "id": "food-medium-07",
+  "slug": "food-medium-07",
+  "themeId": "food",
+  "title": "Food Word Search (Medium) #07",
+  "primaryKeyword": "food word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "APRICOT",
+    "AVOCADO",
+    "BERRY",
+    "BOWL",
+    "BREAD",
+    "BUTCHER",
+    "COCOA",
+    "GARLIC",
+    "MANGO",
+    "OAT",
+    "SALT",
+    "SOURDOUGH",
+    "SPICE",
+    "STUFFING"
+  ],
+  "grid": [
+    [
+      "C",
+      "C",
+      "O",
+      "C",
+      "O",
+      "A",
+      "A",
+      "C",
+      "E",
+      "D",
+      "L",
+      "U"
+    ],
+    [
+      "Y",
+      "Q",
+      "A",
+      "Z",
+      "B",
+      "T",
+      "I",
+      "V",
+      "A",
+      "T",
+      "K",
+      "M"
+    ],
+    [
+      "O",
+      "F",
+      "V",
+      "X",
+      "E",
+      "Q",
+      "Q",
+      "E",
+      "O",
+      "T",
+      "M",
+      "M"
+    ],
+    [
+      "A",
+      "U",
+      "O",
+      "E",
+      "R",
+      "E",
+      "R",
+      "C",
+      "H",
+      "S",
+      "A",
+      "G"
+    ],
+    [
+      "T",
+      "Y",
+      "C",
+      "S",
+      "R",
+      "B",
+      "I",
+      "G",
+      "W",
+      "T",
+      "B",
+      "L"
+    ],
+    [
+      "E",
+      "S",
+      "A",
+      "U",
+      "Y",
+      "R",
+      "U",
+      "G",
+      "P",
+      "U",
+      "U",
+      "D"
+    ],
+    [
+      "X",
+      "P",
+      "D",
+      "B",
+      "P",
+      "O",
+      "N",
+      "A",
+      "F",
+      "F",
+      "T",
+      "U"
+    ],
+    [
+      "G",
+      "I",
+      "O",
+      "A",
+      "D",
+      "O",
+      "U",
+      "R",
+      "Z",
+      "F",
+      "C",
+      "F"
+    ],
+    [
+      "F",
+      "C",
+      "O",
+      "R",
+      "G",
+      "Q",
+      "S",
+      "L",
+      "F",
+      "I",
+      "H",
+      "S"
+    ],
+    [
+      "F",
+      "E",
+      "U",
+      "N",
+      "H",
+      "K",
+      "U",
+      "I",
+      "G",
+      "N",
+      "E",
+      "A"
+    ],
+    [
+      "C",
+      "O",
+      "A",
+      "S",
+      "E",
+      "S",
+      "M",
+      "C",
+      "B",
+      "G",
+      "R",
+      "L"
+    ],
+    [
+      "S",
+      "M",
+      "F",
+      "Q",
+      "V",
+      "V",
+      "B",
+      "O",
+      "W",
+      "L",
+      "H",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SOURDOUGH",
+      "row": 11,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "STUFFING",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "APRICOT",
+      "row": 7,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "AVOCADO",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "BUTCHER",
+      "row": 4,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "GARLIC",
+      "row": 5,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "BERRY",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "BREAD",
+      "row": 4,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "COCOA",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SPICE",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "MANGO",
+      "row": 11,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "SALT",
+      "row": 8,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "BOWL",
+      "row": 11,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "OAT",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 942656222
+}

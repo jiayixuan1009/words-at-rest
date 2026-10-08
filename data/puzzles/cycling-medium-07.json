@@ -1,0 +1,284 @@
+{
+  "id": "cycling-medium-07",
+  "slug": "cycling-medium-07",
+  "themeId": "cycling",
+  "title": "Cycling Word Search (Medium) #07",
+  "primaryKeyword": "cycling word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CHAIN",
+    "FRAME",
+    "GEARING",
+    "GLOVE",
+    "HELMET",
+    "KIT",
+    "LOCK",
+    "MARKER",
+    "PATCH",
+    "RAIN",
+    "RIDE",
+    "RIM",
+    "ROUTE",
+    "TIRE"
+  ],
+  "grid": [
+    [
+      "T",
+      "I",
+      "R",
+      "E",
+      "H",
+      "M",
+      "B",
+      "R",
+      "G",
+      "P",
+      "T",
+      "G"
+    ],
+    [
+      "F",
+      "R",
+      "A",
+      "M",
+      "E",
+      "E",
+      "H",
+      "R",
+      "O",
+      "Y",
+      "O",
+      "Y"
+    ],
+    [
+      "Y",
+      "N",
+      "C",
+      "V",
+      "F",
+      "C",
+      "L",
+      "N",
+      "V",
+      "U",
+      "I",
+      "N"
+    ],
+    [
+      "A",
+      "M",
+      "X",
+      "Q",
+      "T",
+      "K",
+      "H",
+      "M",
+      "F",
+      "U",
+      "T",
+      "D"
+    ],
+    [
+      "A",
+      "Q",
+      "Y",
+      "A",
+      "M",
+      "V",
+      "R",
+      "B",
+      "E",
+      "G",
+      "J",
+      "E"
+    ],
+    [
+      "R",
+      "P",
+      "P",
+      "I",
+      "N",
+      "E",
+      "G",
+      "N",
+      "V",
+      "T",
+      "T",
+      "E"
+    ],
+    [
+      "Z",
+      "J",
+      "R",
+      "I",
+      "K",
+      "N",
+      "H",
+      "E",
+      "T",
+      "P",
+      "V",
+      "V"
+    ],
+    [
+      "G",
+      "J",
+      "A",
+      "R",
+      "I",
+      "N",
+      "F",
+      "I",
+      "S",
+      "O",
+      "M",
+      "V"
+    ],
+    [
+      "G",
+      "H",
+      "A",
+      "R",
+      "I",
+      "O",
+      "K",
+      "U",
+      "L",
+      "B",
+      "L",
+      "R"
+    ],
+    [
+      "C",
+      "M",
+      "A",
+      "A",
+      "Q",
+      "T",
+      "X",
+      "G",
+      "L",
+      "C",
+      "G",
+      "I"
+    ],
+    [
+      "B",
+      "E",
+      "R",
+      "R",
+      "W",
+      "T",
+      "Z",
+      "E",
+      "Y",
+      "Q",
+      "Z",
+      "D"
+    ],
+    [
+      "G",
+      "V",
+      "L",
+      "O",
+      "C",
+      "K",
+      "F",
+      "T",
+      "G",
+      "P",
+      "P",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "GEARING",
+      "row": 11,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "MARKER",
+      "row": 9,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "HELMET",
+      "row": 0,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "GLOVE",
+      "row": 9,
+      "col": 7,
+      "direction": "NE"
+    },
+    {
+      "word": "ROUTE",
+      "row": 0,
+      "col": 7,
+      "direction": "SE"
+    },
+    {
+      "word": "PATCH",
+      "row": 5,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "FRAME",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CHAIN",
+      "row": 9,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "RAIN",
+      "row": 10,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "TIRE",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "LOCK",
+      "row": 11,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "RIDE",
+      "row": 8,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "RIM",
+      "row": 6,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "KIT",
+      "row": 8,
+      "col": 6,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1224889191
+}

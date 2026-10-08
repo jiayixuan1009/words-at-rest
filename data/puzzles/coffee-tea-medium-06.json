@@ -1,0 +1,284 @@
+{
+  "id": "coffee-tea-medium-06",
+  "slug": "coffee-tea-medium-06",
+  "themeId": "coffee-tea",
+  "title": "Coffee & Tea Word Search (Medium) #06",
+  "primaryKeyword": "coffee and tea word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "AROMA",
+    "BISCUIT",
+    "BLACK",
+    "BREW",
+    "CHAMOMILE",
+    "COCOA",
+    "CUP",
+    "DRIP",
+    "ESPRESSO",
+    "FOAM",
+    "GREEN",
+    "LATTE",
+    "LEMON",
+    "OOLONG"
+  ],
+  "grid": [
+    [
+      "X",
+      "B",
+      "U",
+      "B",
+      "E",
+      "S",
+      "P",
+      "R",
+      "E",
+      "S",
+      "S",
+      "O"
+    ],
+    [
+      "S",
+      "L",
+      "K",
+      "R",
+      "A",
+      "S",
+      "E",
+      "G",
+      "R",
+      "E",
+      "E",
+      "N"
+    ],
+    [
+      "C",
+      "A",
+      "Q",
+      "E",
+      "D",
+      "R",
+      "I",
+      "P",
+      "A",
+      "R",
+      "K",
+      "S"
+    ],
+    [
+      "X",
+      "C",
+      "L",
+      "W",
+      "P",
+      "A",
+      "F",
+      "O",
+      "O",
+      "A",
+      "E",
+      "E"
+    ],
+    [
+      "B",
+      "K",
+      "E",
+      "D",
+      "Y",
+      "S",
+      "C",
+      "O",
+      "B",
+      "T",
+      "L",
+      "F"
+    ],
+    [
+      "I",
+      "H",
+      "M",
+      "J",
+      "G",
+      "O",
+      "D",
+      "A",
+      "T",
+      "I",
+      "G",
+      "S"
+    ],
+    [
+      "S",
+      "R",
+      "O",
+      "W",
+      "C",
+      "R",
+      "M",
+      "A",
+      "M",
+      "N",
+      "U",
+      "Y"
+    ],
+    [
+      "C",
+      "B",
+      "N",
+      "D",
+      "H",
+      "O",
+      "L",
+      "O",
+      "O",
+      "Z",
+      "E",
+      "Z"
+    ],
+    [
+      "U",
+      "C",
+      "U",
+      "P",
+      "R",
+      "C",
+      "M",
+      "L",
+      "L",
+      "M",
+      "Z",
+      "D"
+    ],
+    [
+      "I",
+      "S",
+      "O",
+      "A",
+      "S",
+      "A",
+      "O",
+      "T",
+      "A",
+      "U",
+      "S",
+      "V"
+    ],
+    [
+      "T",
+      "V",
+      "Q",
+      "A",
+      "H",
+      "O",
+      "F",
+      "O",
+      "T",
+      "U",
+      "Z",
+      "D"
+    ],
+    [
+      "B",
+      "I",
+      "W",
+      "C",
+      "Z",
+      "Q",
+      "F",
+      "K",
+      "S",
+      "V",
+      "Y",
+      "L"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CHAMOMILE",
+      "row": 11,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "ESPRESSO",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BISCUIT",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "OOLONG",
+      "row": 10,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "BLACK",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "COCOA",
+      "row": 6,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "AROMA",
+      "row": 9,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "GREEN",
+      "row": 1,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "LATTE",
+      "row": 7,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "LEMON",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "FOAM",
+      "row": 11,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "BREW",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "DRIP",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CUP",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 626355677
+}

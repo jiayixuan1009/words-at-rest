@@ -1,0 +1,284 @@
+{
+  "id": "instruments-medium-04",
+  "slug": "instruments-medium-04",
+  "themeId": "instruments",
+  "title": "Instruments Word Search (Medium) #04",
+  "primaryKeyword": "musical instruments word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BELLS",
+    "CELLO",
+    "CLARINET",
+    "CORNET",
+    "DRUM",
+    "GONG",
+    "GUITAR",
+    "MARIMBA",
+    "OBOE",
+    "PICCOLO",
+    "RECORDER",
+    "SAXOPHONE",
+    "SITAR",
+    "XYLOPHONE"
+  ],
+  "grid": [
+    [
+      "G",
+      "G",
+      "O",
+      "N",
+      "G",
+      "H",
+      "N",
+      "R",
+      "Q",
+      "E",
+      "E",
+      "D"
+    ],
+    [
+      "B",
+      "G",
+      "S",
+      "V",
+      "H",
+      "O",
+      "G",
+      "M",
+      "J",
+      "K",
+      "C",
+      "R"
+    ],
+    [
+      "R",
+      "E",
+      "E",
+      "A",
+      "L",
+      "S",
+      "I",
+      "T",
+      "A",
+      "R",
+      "E",
+      "U"
+    ],
+    [
+      "M",
+      "W",
+      "L",
+      "L",
+      "X",
+      "O",
+      "C",
+      "V",
+      "M",
+      "D",
+      "J",
+      "M"
+    ],
+    [
+      "D",
+      "A",
+      "E",
+      "L",
+      "K",
+      "O",
+      "B",
+      "O",
+      "R",
+      "Q",
+      "U",
+      "J"
+    ],
+    [
+      "P",
+      "C",
+      "R",
+      "P",
+      "S",
+      "T",
+      "P",
+      "O",
+      "R",
+      "R",
+      "N",
+      "Y"
+    ],
+    [
+      "I",
+      "F",
+      "J",
+      "I",
+      "H",
+      "S",
+      "C",
+      "H",
+      "E",
+      "N",
+      "P",
+      "P"
+    ],
+    [
+      "C",
+      "Y",
+      "E",
+      "E",
+      "M",
+      "E",
+      "R",
+      "H",
+      "O",
+      "Q",
+      "E",
+      "F"
+    ],
+    [
+      "C",
+      "F",
+      "R",
+      "I",
+      "R",
+      "B",
+      "B",
+      "C",
+      "Y",
+      "N",
+      "H",
+      "T"
+    ],
+    [
+      "O",
+      "E",
+      "Q",
+      "E",
+      "C",
+      "L",
+      "A",
+      "R",
+      "I",
+      "N",
+      "E",
+      "T"
+    ],
+    [
+      "L",
+      "P",
+      "T",
+      "X",
+      "Y",
+      "L",
+      "O",
+      "P",
+      "H",
+      "O",
+      "N",
+      "E"
+    ],
+    [
+      "O",
+      "K",
+      "G",
+      "C",
+      "I",
+      "G",
+      "U",
+      "I",
+      "T",
+      "A",
+      "R",
+      "Y"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "XYLOPHONE",
+      "row": 10,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SAXOPHONE",
+      "row": 1,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "RECORDER",
+      "row": 8,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "CLARINET",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "MARIMBA",
+      "row": 3,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "PICCOLO",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CORNET",
+      "row": 3,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "GUITAR",
+      "row": 11,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SITAR",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "BELLS",
+      "row": 1,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "CELLO",
+      "row": 5,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "DRUM",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "GONG",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "OBOE",
+      "row": 3,
+      "col": 5,
+      "direction": "SE"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1364198072
+}

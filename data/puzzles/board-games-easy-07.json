@@ -1,0 +1,208 @@
+{
+  "id": "board-games-easy-07",
+  "slug": "board-games-easy-07",
+  "themeId": "board-games",
+  "title": "Board Games Word Search (Easy) #07",
+  "primaryKeyword": "board games word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CHANCE",
+    "CLOCK",
+    "COZY",
+    "GOAL",
+    "MOVE",
+    "PIECE",
+    "PLAY",
+    "ROLL",
+    "SET",
+    "TIE"
+  ],
+  "grid": [
+    [
+      "O",
+      "C",
+      "H",
+      "A",
+      "N",
+      "C",
+      "E",
+      "E",
+      "M",
+      "H"
+    ],
+    [
+      "P",
+      "G",
+      "C",
+      "R",
+      "P",
+      "Q",
+      "M",
+      "S",
+      "P",
+      "K"
+    ],
+    [
+      "L",
+      "G",
+      "O",
+      "O",
+      "W",
+      "A",
+      "N",
+      "E",
+      "G",
+      "G"
+    ],
+    [
+      "A",
+      "E",
+      "Z",
+      "L",
+      "H",
+      "N",
+      "B",
+      "T",
+      "G",
+      "O"
+    ],
+    [
+      "Y",
+      "G",
+      "Y",
+      "L",
+      "R",
+      "Q",
+      "N",
+      "G",
+      "J",
+      "A"
+    ],
+    [
+      "T",
+      "O",
+      "X",
+      "E",
+      "W",
+      "X",
+      "M",
+      "U",
+      "C",
+      "B"
+    ],
+    [
+      "A",
+      "A",
+      "C",
+      "D",
+      "D",
+      "K",
+      "O",
+      "K",
+      "L",
+      "M"
+    ],
+    [
+      "G",
+      "L",
+      "A",
+      "B",
+      "V",
+      "G",
+      "V",
+      "C",
+      "O",
+      "Q"
+    ],
+    [
+      "Y",
+      "Q",
+      "T",
+      "I",
+      "E",
+      "X",
+      "E",
+      "W",
+      "C",
+      "Z"
+    ],
+    [
+      "Z",
+      "P",
+      "I",
+      "E",
+      "C",
+      "E",
+      "T",
+      "S",
+      "K",
+      "A"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CHANCE",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CLOCK",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "PIECE",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "MOVE",
+      "row": 5,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "COZY",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "PLAY",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "GOAL",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "ROLL",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "SET",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "TIE",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 819967879
+}

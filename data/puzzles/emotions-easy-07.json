@@ -1,0 +1,208 @@
+{
+  "id": "emotions-easy-07",
+  "slug": "emotions-easy-07",
+  "themeId": "emotions",
+  "title": "Emotions Word Search (Easy) #07",
+  "primaryKeyword": "emotions word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BALANCE",
+    "CALM",
+    "COURAGE",
+    "ENVY",
+    "FAITH",
+    "JOY",
+    "MERRY",
+    "PEACE",
+    "RELIEF",
+    "SORROW"
+  ],
+  "grid": [
+    [
+      "K",
+      "G",
+      "I",
+      "O",
+      "E",
+      "N",
+      "V",
+      "Y",
+      "R",
+      "L"
+    ],
+    [
+      "S",
+      "E",
+      "F",
+      "R",
+      "E",
+      "L",
+      "I",
+      "E",
+      "F",
+      "L"
+    ],
+    [
+      "D",
+      "W",
+      "K",
+      "L",
+      "V",
+      "M",
+      "E",
+      "R",
+      "R",
+      "Y"
+    ],
+    [
+      "R",
+      "J",
+      "O",
+      "Y",
+      "S",
+      "O",
+      "R",
+      "R",
+      "O",
+      "W"
+    ],
+    [
+      "M",
+      "M",
+      "G",
+      "D",
+      "M",
+      "K",
+      "W",
+      "P",
+      "G",
+      "W"
+    ],
+    [
+      "D",
+      "K",
+      "C",
+      "A",
+      "L",
+      "M",
+      "P",
+      "E",
+      "C",
+      "S"
+    ],
+    [
+      "C",
+      "O",
+      "U",
+      "R",
+      "A",
+      "G",
+      "E",
+      "A",
+      "M",
+      "F"
+    ],
+    [
+      "I",
+      "U",
+      "B",
+      "L",
+      "S",
+      "C",
+      "E",
+      "C",
+      "Z",
+      "H"
+    ],
+    [
+      "F",
+      "A",
+      "I",
+      "T",
+      "H",
+      "A",
+      "I",
+      "E",
+      "S",
+      "Y"
+    ],
+    [
+      "B",
+      "A",
+      "L",
+      "A",
+      "N",
+      "C",
+      "E",
+      "D",
+      "E",
+      "Z"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "COURAGE",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BALANCE",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "RELIEF",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SORROW",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "MERRY",
+      "row": 2,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "PEACE",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "FAITH",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "ENVY",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CALM",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "JOY",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1107445858
+}

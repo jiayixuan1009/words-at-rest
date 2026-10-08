@@ -1,0 +1,284 @@
+{
+  "id": "geology-medium-05",
+  "slug": "geology-medium-05",
+  "themeId": "geology",
+  "title": "Geology Word Search (Medium) #05",
+  "primaryKeyword": "geology word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BEDROCK",
+    "BOULDER",
+    "CLAY",
+    "CLIFF",
+    "FOLD",
+    "GRANITE",
+    "LAB",
+    "MICA",
+    "OUTCROP",
+    "ROCK",
+    "SANDSTONE",
+    "SEDIMENT",
+    "SLATE",
+    "WEATHER"
+  ],
+  "grid": [
+    [
+      "W",
+      "X",
+      "P",
+      "A",
+      "G",
+      "M",
+      "I",
+      "C",
+      "A",
+      "F",
+      "U",
+      "C"
+    ],
+    [
+      "S",
+      "K",
+      "J",
+      "I",
+      "O",
+      "R",
+      "Q",
+      "Q",
+      "F",
+      "D",
+      "L",
+      "S"
+    ],
+    [
+      "B",
+      "L",
+      "W",
+      "A",
+      "N",
+      "G",
+      "A",
+      "I",
+      "S",
+      "K",
+      "K",
+      "S"
+    ],
+    [
+      "U",
+      "O",
+      "A",
+      "E",
+      "E",
+      "W",
+      "L",
+      "N",
+      "C",
+      "N",
+      "D",
+      "E"
+    ],
+    [
+      "B",
+      "E",
+      "U",
+      "T",
+      "A",
+      "C",
+      "Z",
+      "O",
+      "I",
+      "E",
+      "J",
+      "D"
+    ],
+    [
+      "Z",
+      "C",
+      "K",
+      "L",
+      "E",
+      "T",
+      "R",
+      "S",
+      "E",
+      "T",
+      "L",
+      "I"
+    ],
+    [
+      "F",
+      "A",
+      "X",
+      "L",
+      "D",
+      "D",
+      "H",
+      "B",
+      "N",
+      "J",
+      "E",
+      "M"
+    ],
+    [
+      "O",
+      "C",
+      "N",
+      "A",
+      "E",
+      "E",
+      "D",
+      "E",
+      "S",
+      "R",
+      "Y",
+      "E"
+    ],
+    [
+      "L",
+      "K",
+      "A",
+      "B",
+      "Y",
+      "N",
+      "R",
+      "Z",
+      "R",
+      "J",
+      "B",
+      "N"
+    ],
+    [
+      "D",
+      "N",
+      "C",
+      "L",
+      "A",
+      "Y",
+      "X",
+      "U",
+      "H",
+      "T",
+      "B",
+      "T"
+    ],
+    [
+      "Y",
+      "P",
+      "R",
+      "O",
+      "U",
+      "T",
+      "C",
+      "R",
+      "O",
+      "P",
+      "M",
+      "U"
+    ],
+    [
+      "S",
+      "A",
+      "N",
+      "D",
+      "S",
+      "T",
+      "O",
+      "N",
+      "E",
+      "E",
+      "W",
+      "O"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SANDSTONE",
+      "row": 11,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SEDIMENT",
+      "row": 2,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "GRANITE",
+      "row": 0,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "BOULDER",
+      "row": 2,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "BEDROCK",
+      "row": 8,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "WEATHER",
+      "row": 2,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "OUTCROP",
+      "row": 10,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SLATE",
+      "row": 1,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "CLIFF",
+      "row": 4,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "CLAY",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ROCK",
+      "row": 5,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "FOLD",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "MICA",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "LAB",
+      "row": 6,
+      "col": 3,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 519689322
+}

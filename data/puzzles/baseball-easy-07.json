@@ -1,0 +1,208 @@
+{
+  "id": "baseball-easy-07",
+  "slug": "baseball-easy-07",
+  "themeId": "baseball",
+  "title": "Baseball Word Search (Easy) #07",
+  "primaryKeyword": "baseball word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BASE",
+    "CAP",
+    "DIAMOND",
+    "HIT",
+    "LINEUP",
+    "MITT",
+    "RUN",
+    "SINGLE",
+    "SLIDER",
+    "UMPIRE"
+  ],
+  "grid": [
+    [
+      "R",
+      "D",
+      "W",
+      "S",
+      "X",
+      "N",
+      "A",
+      "T",
+      "X",
+      "O"
+    ],
+    [
+      "V",
+      "O",
+      "M",
+      "L",
+      "C",
+      "A",
+      "P",
+      "B",
+      "Z",
+      "G"
+    ],
+    [
+      "N",
+      "U",
+      "X",
+      "I",
+      "S",
+      "Q",
+      "G",
+      "R",
+      "U",
+      "N"
+    ],
+    [
+      "E",
+      "N",
+      "I",
+      "D",
+      "A",
+      "Y",
+      "D",
+      "I",
+      "Q",
+      "C"
+    ],
+    [
+      "R",
+      "S",
+      "L",
+      "E",
+      "U",
+      "U",
+      "I",
+      "M",
+      "L",
+      "O"
+    ],
+    [
+      "Q",
+      "I",
+      "X",
+      "R",
+      "B",
+      "M",
+      "A",
+      "I",
+      "I",
+      "L"
+    ],
+    [
+      "H",
+      "N",
+      "I",
+      "A",
+      "Z",
+      "P",
+      "M",
+      "T",
+      "N",
+      "B"
+    ],
+    [
+      "I",
+      "G",
+      "V",
+      "S",
+      "T",
+      "I",
+      "O",
+      "T",
+      "E",
+      "A"
+    ],
+    [
+      "T",
+      "L",
+      "P",
+      "B",
+      "P",
+      "R",
+      "N",
+      "N",
+      "U",
+      "S"
+    ],
+    [
+      "U",
+      "E",
+      "N",
+      "A",
+      "G",
+      "E",
+      "D",
+      "Y",
+      "P",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "DIAMOND",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "SINGLE",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "LINEUP",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "SLIDER",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "UMPIRE",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "MITT",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "BASE",
+      "row": 6,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "HIT",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CAP",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "RUN",
+      "row": 2,
+      "col": 7,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1813919758
+}

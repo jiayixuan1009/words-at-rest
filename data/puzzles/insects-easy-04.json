@@ -1,0 +1,208 @@
+{
+  "id": "insects-easy-04",
+  "slug": "insects-easy-04",
+  "themeId": "insects",
+  "title": "Insects Word Search (Easy) #04",
+  "primaryKeyword": "insects word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BUZZ",
+    "COCOON",
+    "DRAGONFLY",
+    "GNAT",
+    "HIVE",
+    "HORNET",
+    "LEG",
+    "POLLEN",
+    "TERMITE",
+    "WEEVIL"
+  ],
+  "grid": [
+    [
+      "I",
+      "B",
+      "K",
+      "U",
+      "L",
+      "J",
+      "T",
+      "D",
+      "C",
+      "K"
+    ],
+    [
+      "B",
+      "W",
+      "E",
+      "T",
+      "D",
+      "U",
+      "Q",
+      "E",
+      "N",
+      "G"
+    ],
+    [
+      "U",
+      "E",
+      "H",
+      "E",
+      "R",
+      "W",
+      "Z",
+      "H",
+      "Z",
+      "F"
+    ],
+    [
+      "Z",
+      "E",
+      "O",
+      "R",
+      "A",
+      "G",
+      "N",
+      "I",
+      "F",
+      "C"
+    ],
+    [
+      "Z",
+      "V",
+      "R",
+      "M",
+      "G",
+      "N",
+      "V",
+      "V",
+      "T",
+      "O"
+    ],
+    [
+      "F",
+      "I",
+      "N",
+      "I",
+      "O",
+      "A",
+      "C",
+      "E",
+      "M",
+      "C"
+    ],
+    [
+      "N",
+      "L",
+      "E",
+      "T",
+      "N",
+      "T",
+      "C",
+      "K",
+      "M",
+      "O"
+    ],
+    [
+      "L",
+      "A",
+      "T",
+      "E",
+      "F",
+      "V",
+      "G",
+      "G",
+      "W",
+      "O"
+    ],
+    [
+      "E",
+      "Q",
+      "P",
+      "O",
+      "L",
+      "L",
+      "E",
+      "N",
+      "X",
+      "N"
+    ],
+    [
+      "G",
+      "P",
+      "A",
+      "Y",
+      "Y",
+      "B",
+      "H",
+      "P",
+      "F",
+      "M"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "DRAGONFLY",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "TERMITE",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "HORNET",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "POLLEN",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "WEEVIL",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "COCOON",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "HIVE",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "GNAT",
+      "row": 3,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "BUZZ",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "LEG",
+      "row": 7,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1380975691
+}

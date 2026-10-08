@@ -1,0 +1,208 @@
+{
+  "id": "gratitude-easy-08",
+  "slug": "gratitude-easy-08",
+  "themeId": "gratitude",
+  "title": "Gratitude Word Search (Easy) #08",
+  "primaryKeyword": "gratitude word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BLESSING",
+    "BREAD",
+    "HAND",
+    "KIND",
+    "LETTER",
+    "LIGHT",
+    "MERCY",
+    "PEACE",
+    "SMILE",
+    "WATER"
+  ],
+  "grid": [
+    [
+      "K",
+      "S",
+      "L",
+      "B",
+      "F",
+      "S",
+      "M",
+      "I",
+      "L",
+      "E"
+    ],
+    [
+      "I",
+      "H",
+      "M",
+      "W",
+      "L",
+      "C",
+      "A",
+      "T",
+      "S",
+      "Q"
+    ],
+    [
+      "L",
+      "A",
+      "K",
+      "G",
+      "E",
+      "F",
+      "M",
+      "F",
+      "W",
+      "R"
+    ],
+    [
+      "I",
+      "N",
+      "I",
+      "B",
+      "T",
+      "S",
+      "E",
+      "W",
+      "A",
+      "T"
+    ],
+    [
+      "G",
+      "D",
+      "N",
+      "R",
+      "T",
+      "S",
+      "R",
+      "T",
+      "T",
+      "Q"
+    ],
+    [
+      "H",
+      "K",
+      "D",
+      "C",
+      "E",
+      "J",
+      "C",
+      "B",
+      "E",
+      "O"
+    ],
+    [
+      "T",
+      "C",
+      "M",
+      "Z",
+      "R",
+      "C",
+      "Y",
+      "Z",
+      "R",
+      "U"
+    ],
+    [
+      "A",
+      "R",
+      "Y",
+      "W",
+      "B",
+      "R",
+      "E",
+      "A",
+      "D",
+      "V"
+    ],
+    [
+      "J",
+      "B",
+      "L",
+      "E",
+      "S",
+      "S",
+      "I",
+      "N",
+      "G",
+      "S"
+    ],
+    [
+      "P",
+      "E",
+      "A",
+      "C",
+      "E",
+      "X",
+      "Y",
+      "T",
+      "H",
+      "O"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BLESSING",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "LETTER",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "WATER",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "LIGHT",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SMILE",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "PEACE",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BREAD",
+      "row": 7,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "MERCY",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "HAND",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "KIND",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 843405095
+}

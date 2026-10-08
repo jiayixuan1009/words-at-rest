@@ -1,0 +1,208 @@
+{
+  "id": "birds-easy-07",
+  "slug": "birds-easy-07",
+  "themeId": "birds",
+  "title": "Birds Word Search (Easy) #07",
+  "primaryKeyword": "birds word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BRANCH",
+    "CHICKADEE",
+    "CHORUS",
+    "CLOUD",
+    "DUCK",
+    "GLIDE",
+    "HOVER",
+    "SPARROW",
+    "STARLING",
+    "SWAN"
+  ],
+  "grid": [
+    [
+      "S",
+      "U",
+      "S",
+      "W",
+      "A",
+      "N",
+      "E",
+      "B",
+      "S",
+      "W"
+    ],
+    [
+      "T",
+      "Q",
+      "A",
+      "E",
+      "E",
+      "C",
+      "O",
+      "R",
+      "M",
+      "T"
+    ],
+    [
+      "A",
+      "G",
+      "X",
+      "F",
+      "W",
+      "H",
+      "C",
+      "A",
+      "W",
+      "V"
+    ],
+    [
+      "R",
+      "L",
+      "X",
+      "D",
+      "Y",
+      "O",
+      "L",
+      "N",
+      "Z",
+      "Y"
+    ],
+    [
+      "L",
+      "I",
+      "K",
+      "F",
+      "B",
+      "R",
+      "O",
+      "C",
+      "J",
+      "C"
+    ],
+    [
+      "I",
+      "D",
+      "I",
+      "Z",
+      "C",
+      "U",
+      "U",
+      "H",
+      "K",
+      "C"
+    ],
+    [
+      "N",
+      "E",
+      "G",
+      "B",
+      "C",
+      "S",
+      "D",
+      "U",
+      "C",
+      "K"
+    ],
+    [
+      "G",
+      "C",
+      "H",
+      "I",
+      "C",
+      "K",
+      "A",
+      "D",
+      "E",
+      "E"
+    ],
+    [
+      "Y",
+      "S",
+      "P",
+      "A",
+      "R",
+      "R",
+      "O",
+      "W",
+      "U",
+      "W"
+    ],
+    [
+      "C",
+      "E",
+      "G",
+      "T",
+      "H",
+      "O",
+      "V",
+      "E",
+      "R",
+      "D"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CHICKADEE",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "STARLING",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SPARROW",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CHORUS",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "BRANCH",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "GLIDE",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "HOVER",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CLOUD",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "SWAN",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "DUCK",
+      "row": 6,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 769635022
+}

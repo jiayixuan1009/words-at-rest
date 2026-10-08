@@ -1,0 +1,208 @@
+{
+  "id": "bible-easy-07",
+  "slug": "bible-easy-07",
+  "themeId": "bible",
+  "title": "Bible Word Search (Easy) #07",
+  "primaryKeyword": "bible word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "LUKE",
+    "MEEKNESS",
+    "MYRRH",
+    "NINEVEH",
+    "OLIVE",
+    "PATIENCE",
+    "PSALM",
+    "SAMSON",
+    "STEPHEN",
+    "TIMOTHY"
+  ],
+  "grid": [
+    [
+      "W",
+      "D",
+      "S",
+      "A",
+      "M",
+      "S",
+      "O",
+      "N",
+      "P",
+      "F"
+    ],
+    [
+      "R",
+      "X",
+      "B",
+      "N",
+      "A",
+      "Y",
+      "P",
+      "Y",
+      "A",
+      "X"
+    ],
+    [
+      "U",
+      "O",
+      "F",
+      "P",
+      "S",
+      "A",
+      "L",
+      "M",
+      "T",
+      "F"
+    ],
+    [
+      "M",
+      "E",
+      "E",
+      "K",
+      "N",
+      "E",
+      "S",
+      "S",
+      "I",
+      "M"
+    ],
+    [
+      "C",
+      "V",
+      "T",
+      "K",
+      "Z",
+      "Y",
+      "W",
+      "V",
+      "E",
+      "Y"
+    ],
+    [
+      "L",
+      "U",
+      "K",
+      "E",
+      "B",
+      "L",
+      "F",
+      "D",
+      "N",
+      "R"
+    ],
+    [
+      "U",
+      "O",
+      "L",
+      "I",
+      "V",
+      "E",
+      "A",
+      "X",
+      "C",
+      "R"
+    ],
+    [
+      "M",
+      "T",
+      "I",
+      "M",
+      "O",
+      "T",
+      "H",
+      "Y",
+      "E",
+      "H"
+    ],
+    [
+      "S",
+      "T",
+      "E",
+      "P",
+      "H",
+      "E",
+      "N",
+      "B",
+      "Q",
+      "U"
+    ],
+    [
+      "I",
+      "X",
+      "A",
+      "N",
+      "I",
+      "N",
+      "E",
+      "V",
+      "E",
+      "H"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PATIENCE",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "MEEKNESS",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "STEPHEN",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "NINEVEH",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "TIMOTHY",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SAMSON",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "MYRRH",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "OLIVE",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PSALM",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "LUKE",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 2018662595
+}

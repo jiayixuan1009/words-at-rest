@@ -1,0 +1,284 @@
+{
+  "id": "insects-medium-06",
+  "slug": "insects-medium-06",
+  "themeId": "insects",
+  "title": "Insects Word Search (Medium) #06",
+  "primaryKeyword": "insects word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ABDOMEN",
+    "ANT",
+    "BEETLE",
+    "COCOON",
+    "DRAGONFLY",
+    "GLOW",
+    "GRASSHOPPER",
+    "HORNET",
+    "LARVA",
+    "LOCUST",
+    "POND",
+    "PUPA",
+    "TERMITE",
+    "WASP"
+  ],
+  "grid": [
+    [
+      "F",
+      "H",
+      "J",
+      "F",
+      "W",
+      "C",
+      "O",
+      "C",
+      "O",
+      "O",
+      "N",
+      "N"
+    ],
+    [
+      "G",
+      "R",
+      "A",
+      "S",
+      "S",
+      "H",
+      "O",
+      "P",
+      "P",
+      "E",
+      "R",
+      "P"
+    ],
+    [
+      "G",
+      "A",
+      "P",
+      "L",
+      "O",
+      "C",
+      "U",
+      "S",
+      "T",
+      "I",
+      "M",
+      "B"
+    ],
+    [
+      "Q",
+      "Y",
+      "N",
+      "G",
+      "V",
+      "X",
+      "D",
+      "S",
+      "T",
+      "W",
+      "V",
+      "A"
+    ],
+    [
+      "A",
+      "G",
+      "S",
+      "T",
+      "M",
+      "K",
+      "R",
+      "V",
+      "E",
+      "L",
+      "A",
+      "J"
+    ],
+    [
+      "T",
+      "L",
+      "A",
+      "B",
+      "I",
+      "P",
+      "A",
+      "L",
+      "R",
+      "B",
+      "P",
+      "H"
+    ],
+    [
+      "H",
+      "O",
+      "B",
+      "E",
+      "B",
+      "O",
+      "G",
+      "A",
+      "M",
+      "B",
+      "U",
+      "O"
+    ],
+    [
+      "N",
+      "W",
+      "D",
+      "E",
+      "P",
+      "N",
+      "O",
+      "R",
+      "I",
+      "W",
+      "P",
+      "R"
+    ],
+    [
+      "P",
+      "V",
+      "O",
+      "T",
+      "T",
+      "D",
+      "N",
+      "V",
+      "T",
+      "A",
+      "A",
+      "N"
+    ],
+    [
+      "Y",
+      "L",
+      "M",
+      "L",
+      "D",
+      "H",
+      "F",
+      "A",
+      "E",
+      "S",
+      "F",
+      "E"
+    ],
+    [
+      "J",
+      "P",
+      "E",
+      "E",
+      "E",
+      "V",
+      "L",
+      "S",
+      "Q",
+      "P",
+      "H",
+      "T"
+    ],
+    [
+      "N",
+      "J",
+      "N",
+      "O",
+      "M",
+      "Y",
+      "Y",
+      "F",
+      "N",
+      "S",
+      "N",
+      "L"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "GRASSHOPPER",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "DRAGONFLY",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "ABDOMEN",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "TERMITE",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "LOCUST",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "HORNET",
+      "row": 5,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "BEETLE",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "COCOON",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "LARVA",
+      "row": 5,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "POND",
+      "row": 5,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "GLOW",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "WASP",
+      "row": 7,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "PUPA",
+      "row": 5,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "ANT",
+      "row": 2,
+      "col": 1,
+      "direction": "SE"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1746809282
+}

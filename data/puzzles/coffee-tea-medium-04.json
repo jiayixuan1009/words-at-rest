@@ -1,0 +1,284 @@
+{
+  "id": "coffee-tea-medium-04",
+  "slug": "coffee-tea-medium-04",
+  "themeId": "coffee-tea",
+  "title": "Coffee & Tea Word Search (Medium) #04",
+  "primaryKeyword": "coffee and tea word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BEAN",
+    "BISCUIT",
+    "CINNAMON",
+    "COFFEE",
+    "EARL",
+    "GREEN",
+    "LATTE",
+    "LEAF",
+    "LEMON",
+    "MILK",
+    "SPICE",
+    "SPOON",
+    "STEAM",
+    "SUGAR"
+  ],
+  "grid": [
+    [
+      "B",
+      "R",
+      "E",
+      "A",
+      "R",
+      "L",
+      "O",
+      "X",
+      "C",
+      "N",
+      "L",
+      "E"
+    ],
+    [
+      "V",
+      "P",
+      "G",
+      "I",
+      "U",
+      "P",
+      "Y",
+      "K",
+      "O",
+      "M",
+      "N",
+      "N"
+    ],
+    [
+      "S",
+      "P",
+      "O",
+      "O",
+      "N",
+      "O",
+      "I",
+      "S",
+      "G",
+      "E",
+      "O",
+      "Y"
+    ],
+    [
+      "G",
+      "L",
+      "A",
+      "T",
+      "T",
+      "E",
+      "W",
+      "H",
+      "E",
+      "M",
+      "L",
+      "M"
+    ],
+    [
+      "O",
+      "E",
+      "K",
+      "P",
+      "E",
+      "N",
+      "E",
+      "F",
+      "A",
+      "L",
+      "E",
+      "B"
+    ],
+    [
+      "Q",
+      "A",
+      "B",
+      "C",
+      "A",
+      "N",
+      "F",
+      "N",
+      "N",
+      "E",
+      "M",
+      "M"
+    ],
+    [
+      "D",
+      "I",
+      "I",
+      "E",
+      "E",
+      "O",
+      "N",
+      "L",
+      "G",
+      "A",
+      "O",
+      "S"
+    ],
+    [
+      "M",
+      "P",
+      "B",
+      "E",
+      "C",
+      "I",
+      "G",
+      "P",
+      "Y",
+      "F",
+      "N",
+      "H"
+    ],
+    [
+      "S",
+      "I",
+      "R",
+      "N",
+      "C",
+      "E",
+      "G",
+      "H",
+      "Z",
+      "C",
+      "E",
+      "R"
+    ],
+    [
+      "X",
+      "G",
+      "L",
+      "B",
+      "I",
+      "S",
+      "C",
+      "U",
+      "I",
+      "T",
+      "Z",
+      "N"
+    ],
+    [
+      "R",
+      "B",
+      "N",
+      "K",
+      "S",
+      "U",
+      "G",
+      "A",
+      "R",
+      "E",
+      "V",
+      "R"
+    ],
+    [
+      "C",
+      "S",
+      "T",
+      "E",
+      "A",
+      "M",
+      "F",
+      "G",
+      "W",
+      "E",
+      "K",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CINNAMON",
+      "row": 8,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "BISCUIT",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "COFFEE",
+      "row": 7,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "SPOON",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "STEAM",
+      "row": 11,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "LEMON",
+      "row": 3,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "LATTE",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "GREEN",
+      "row": 9,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "SUGAR",
+      "row": 10,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SPICE",
+      "row": 8,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "BEAN",
+      "row": 7,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "MILK",
+      "row": 7,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "EARL",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "LEAF",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 673640806
+}

@@ -1,0 +1,208 @@
+{
+  "id": "easter-easy-04",
+  "slug": "easter-easy-04",
+  "themeId": "easter",
+  "title": "Easter Word Search (Easy) #04",
+  "primaryKeyword": "easter word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ALLELUIA",
+    "BLOSSOM",
+    "CHAPEL",
+    "DAWN",
+    "HATCH",
+    "HATCHLING",
+    "JOY",
+    "PEACE",
+    "PRIMROSE",
+    "TULIP"
+  ],
+  "grid": [
+    [
+      "K",
+      "B",
+      "B",
+      "P",
+      "S",
+      "T",
+      "U",
+      "L",
+      "I",
+      "P"
+    ],
+    [
+      "A",
+      "R",
+      "L",
+      "R",
+      "C",
+      "H",
+      "A",
+      "P",
+      "E",
+      "L"
+    ],
+    [
+      "A",
+      "B",
+      "O",
+      "I",
+      "P",
+      "B",
+      "H",
+      "Y",
+      "W",
+      "H"
+    ],
+    [
+      "L",
+      "C",
+      "S",
+      "M",
+      "E",
+      "J",
+      "Z",
+      "N",
+      "R",
+      "A"
+    ],
+    [
+      "L",
+      "V",
+      "S",
+      "R",
+      "A",
+      "O",
+      "U",
+      "D",
+      "U",
+      "T"
+    ],
+    [
+      "E",
+      "D",
+      "O",
+      "O",
+      "C",
+      "Y",
+      "A",
+      "U",
+      "U",
+      "C"
+    ],
+    [
+      "L",
+      "Y",
+      "M",
+      "S",
+      "E",
+      "A",
+      "J",
+      "T",
+      "M",
+      "H"
+    ],
+    [
+      "U",
+      "R",
+      "I",
+      "E",
+      "I",
+      "H",
+      "G",
+      "P",
+      "S",
+      "K"
+    ],
+    [
+      "I",
+      "H",
+      "A",
+      "T",
+      "C",
+      "H",
+      "L",
+      "I",
+      "N",
+      "G"
+    ],
+    [
+      "A",
+      "U",
+      "M",
+      "N",
+      "S",
+      "Y",
+      "D",
+      "A",
+      "W",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "HATCHLING",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "ALLELUIA",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "PRIMROSE",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "BLOSSOM",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "CHAPEL",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "HATCH",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "TULIP",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "PEACE",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "DAWN",
+      "row": 9,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "JOY",
+      "row": 3,
+      "col": 5,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 979845968
+}

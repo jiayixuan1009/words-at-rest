@@ -1,0 +1,208 @@
+{
+  "id": "friendship-easy-06",
+  "slug": "friendship-easy-06",
+  "themeId": "friendship",
+  "title": "Friendship Word Search (Easy) #06",
+  "primaryKeyword": "friendship word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ALLY",
+    "BOND",
+    "CARE",
+    "CHEER",
+    "COMFORT",
+    "GUEST",
+    "HEART",
+    "LAUGH",
+    "PARTNER",
+    "TRUST"
+  ],
+  "grid": [
+    [
+      "J",
+      "C",
+      "N",
+      "O",
+      "T",
+      "P",
+      "X",
+      "H",
+      "W",
+      "G"
+    ],
+    [
+      "I",
+      "O",
+      "N",
+      "E",
+      "C",
+      "A",
+      "G",
+      "V",
+      "C",
+      "U"
+    ],
+    [
+      "C",
+      "M",
+      "L",
+      "K",
+      "A",
+      "R",
+      "L",
+      "B",
+      "X",
+      "E"
+    ],
+    [
+      "O",
+      "F",
+      "V",
+      "D",
+      "R",
+      "T",
+      "N",
+      "L",
+      "U",
+      "S"
+    ],
+    [
+      "J",
+      "O",
+      "C",
+      "S",
+      "E",
+      "N",
+      "X",
+      "A",
+      "L",
+      "T"
+    ],
+    [
+      "H",
+      "R",
+      "K",
+      "P",
+      "X",
+      "E",
+      "C",
+      "U",
+      "R",
+      "R"
+    ],
+    [
+      "E",
+      "T",
+      "H",
+      "E",
+      "B",
+      "R",
+      "H",
+      "G",
+      "I",
+      "U"
+    ],
+    [
+      "A",
+      "A",
+      "L",
+      "L",
+      "Y",
+      "Z",
+      "E",
+      "H",
+      "Q",
+      "S"
+    ],
+    [
+      "R",
+      "E",
+      "M",
+      "U",
+      "J",
+      "W",
+      "E",
+      "L",
+      "B",
+      "T"
+    ],
+    [
+      "T",
+      "B",
+      "O",
+      "N",
+      "D",
+      "E",
+      "R",
+      "Z",
+      "I",
+      "N"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PARTNER",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "COMFORT",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "GUEST",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "CHEER",
+      "row": 5,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "LAUGH",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "HEART",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "TRUST",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "CARE",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "ALLY",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BOND",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 909269151
+}

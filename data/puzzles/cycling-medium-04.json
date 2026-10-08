@@ -1,0 +1,284 @@
+{
+  "id": "cycling-medium-04",
+  "slug": "cycling-medium-04",
+  "themeId": "cycling",
+  "title": "Cycling Word Search (Medium) #04",
+  "primaryKeyword": "cycling word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BRAKE",
+    "CASSETTE",
+    "CLIMB",
+    "FORK",
+    "FRAME",
+    "GLOVE",
+    "HELMET",
+    "KIT",
+    "MAP",
+    "MILE",
+    "PARK",
+    "PELOTON",
+    "RIM",
+    "SPOKE"
+  ],
+  "grid": [
+    [
+      "C",
+      "P",
+      "E",
+      "L",
+      "O",
+      "T",
+      "O",
+      "N",
+      "R",
+      "G",
+      "F",
+      "T"
+    ],
+    [
+      "U",
+      "L",
+      "V",
+      "I",
+      "F",
+      "D",
+      "P",
+      "H",
+      "F",
+      "N",
+      "I",
+      "P"
+    ],
+    [
+      "L",
+      "W",
+      "I",
+      "N",
+      "A",
+      "X",
+      "I",
+      "E",
+      "E",
+      "K",
+      "E",
+      "A"
+    ],
+    [
+      "H",
+      "E",
+      "L",
+      "M",
+      "E",
+      "T",
+      "O",
+      "N",
+      "V",
+      "M",
+      "E",
+      "R"
+    ],
+    [
+      "N",
+      "C",
+      "G",
+      "F",
+      "B",
+      "K",
+      "P",
+      "I",
+      "A",
+      "V",
+      "T",
+      "K"
+    ],
+    [
+      "I",
+      "S",
+      "A",
+      "M",
+      "T",
+      "H",
+      "X",
+      "R",
+      "O",
+      "X",
+      "V",
+      "M"
+    ],
+    [
+      "R",
+      "P",
+      "J",
+      "S",
+      "A",
+      "P",
+      "F",
+      "L",
+      "W",
+      "W",
+      "E",
+      "I"
+    ],
+    [
+      "I",
+      "O",
+      "D",
+      "J",
+      "S",
+      "P",
+      "G",
+      "C",
+      "B",
+      "B",
+      "C",
+      "L"
+    ],
+    [
+      "M",
+      "K",
+      "A",
+      "J",
+      "P",
+      "E",
+      "Q",
+      "C",
+      "R",
+      "F",
+      "M",
+      "E"
+    ],
+    [
+      "L",
+      "E",
+      "F",
+      "Y",
+      "T",
+      "P",
+      "T",
+      "G",
+      "A",
+      "O",
+      "B",
+      "W"
+    ],
+    [
+      "B",
+      "D",
+      "M",
+      "D",
+      "E",
+      "M",
+      "D",
+      "T",
+      "K",
+      "R",
+      "G",
+      "S"
+    ],
+    [
+      "H",
+      "X",
+      "X",
+      "Y",
+      "Q",
+      "W",
+      "O",
+      "Z",
+      "E",
+      "K",
+      "M",
+      "Q"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CASSETTE",
+      "row": 4,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "PELOTON",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "HELMET",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BRAKE",
+      "row": 7,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "GLOVE",
+      "row": 7,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "CLIMB",
+      "row": 0,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "SPOKE",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "FRAME",
+      "row": 6,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "FORK",
+      "row": 8,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "PARK",
+      "row": 1,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "MILE",
+      "row": 5,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "KIT",
+      "row": 2,
+      "col": 9,
+      "direction": "NE"
+    },
+    {
+      "word": "MAP",
+      "row": 5,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "RIM",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 568221992
+}

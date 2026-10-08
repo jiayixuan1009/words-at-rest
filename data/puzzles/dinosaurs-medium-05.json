@@ -1,0 +1,284 @@
+{
+  "id": "dinosaurs-medium-05",
+  "slug": "dinosaurs-medium-05",
+  "themeId": "dinosaurs",
+  "title": "Dinosaurs Word Search (Medium) #05",
+  "primaryKeyword": "dinosaurs word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CARNIVORE",
+    "CLAW",
+    "DIPLODOCUS",
+    "ERA",
+    "FOSSIL",
+    "IGUANODON",
+    "JURASSIC",
+    "PERIOD",
+    "PRINT",
+    "ROCK",
+    "SEDIMENT",
+    "TEETH",
+    "TRACK",
+    "VELOCIRAPTOR"
+  ],
+  "grid": [
+    [
+      "C",
+      "P",
+      "D",
+      "N",
+      "B",
+      "R",
+      "C",
+      "L",
+      "A",
+      "W",
+      "W",
+      "F"
+    ],
+    [
+      "J",
+      "U",
+      "R",
+      "A",
+      "S",
+      "S",
+      "I",
+      "C",
+      "P",
+      "N",
+      "S",
+      "M"
+    ],
+    [
+      "E",
+      "P",
+      "E",
+      "R",
+      "I",
+      "O",
+      "D",
+      "R",
+      "O",
+      "C",
+      "K",
+      "V"
+    ],
+    [
+      "W",
+      "V",
+      "I",
+      "G",
+      "U",
+      "A",
+      "N",
+      "O",
+      "D",
+      "O",
+      "N",
+      "V"
+    ],
+    [
+      "V",
+      "E",
+      "L",
+      "O",
+      "C",
+      "I",
+      "R",
+      "A",
+      "P",
+      "T",
+      "O",
+      "R"
+    ],
+    [
+      "O",
+      "X",
+      "R",
+      "R",
+      "Y",
+      "T",
+      "E",
+      "E",
+      "T",
+      "H",
+      "T",
+      "A"
+    ],
+    [
+      "W",
+      "W",
+      "T",
+      "E",
+      "W",
+      "K",
+      "T",
+      "R",
+      "A",
+      "C",
+      "K",
+      "V"
+    ],
+    [
+      "H",
+      "S",
+      "E",
+      "D",
+      "I",
+      "M",
+      "E",
+      "N",
+      "T",
+      "T",
+      "Q",
+      "I"
+    ],
+    [
+      "Q",
+      "L",
+      "D",
+      "I",
+      "P",
+      "L",
+      "O",
+      "D",
+      "O",
+      "C",
+      "U",
+      "S"
+    ],
+    [
+      "H",
+      "P",
+      "R",
+      "I",
+      "N",
+      "T",
+      "Q",
+      "U",
+      "P",
+      "E",
+      "R",
+      "A"
+    ],
+    [
+      "R",
+      "G",
+      "G",
+      "V",
+      "F",
+      "O",
+      "S",
+      "S",
+      "I",
+      "L",
+      "D",
+      "E"
+    ],
+    [
+      "C",
+      "A",
+      "R",
+      "N",
+      "I",
+      "V",
+      "O",
+      "R",
+      "E",
+      "I",
+      "C",
+      "M"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "VELOCIRAPTOR",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "DIPLODOCUS",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "IGUANODON",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CARNIVORE",
+      "row": 11,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SEDIMENT",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "JURASSIC",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "PERIOD",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "FOSSIL",
+      "row": 10,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "TRACK",
+      "row": 6,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "PRINT",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TEETH",
+      "row": 5,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "ROCK",
+      "row": 2,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "CLAW",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "ERA",
+      "row": 9,
+      "col": 9,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1447717678
+}

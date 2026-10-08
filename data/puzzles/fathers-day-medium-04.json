@@ -1,0 +1,284 @@
+{
+  "id": "fathers-day-medium-04",
+  "slug": "fathers-day-medium-04",
+  "themeId": "fathers-day",
+  "title": "Father's Day Word Search (Medium) #04",
+  "primaryKeyword": "fathers day word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CATCH",
+    "CHAIR",
+    "GUIDE",
+    "JUNE",
+    "PEACE",
+    "RESPECT",
+    "REST",
+    "SAW",
+    "STEAK",
+    "STRENGTH",
+    "SUNDAY",
+    "SUPPORT",
+    "WORKSHOP",
+    "WRENCH"
+  ],
+  "grid": [
+    [
+      "G",
+      "Z",
+      "V",
+      "S",
+      "T",
+      "E",
+      "A",
+      "K",
+      "U",
+      "O",
+      "A",
+      "T"
+    ],
+    [
+      "U",
+      "E",
+      "H",
+      "R",
+      "E",
+      "S",
+      "P",
+      "E",
+      "C",
+      "T",
+      "X",
+      "O"
+    ],
+    [
+      "I",
+      "R",
+      "C",
+      "T",
+      "P",
+      "E",
+      "A",
+      "C",
+      "E",
+      "O",
+      "F",
+      "K"
+    ],
+    [
+      "D",
+      "I",
+      "E",
+      "Y",
+      "D",
+      "J",
+      "C",
+      "H",
+      "A",
+      "I",
+      "R",
+      "M"
+    ],
+    [
+      "E",
+      "S",
+      "T",
+      "R",
+      "E",
+      "N",
+      "G",
+      "T",
+      "H",
+      "T",
+      "V",
+      "X"
+    ],
+    [
+      "I",
+      "Z",
+      "N",
+      "R",
+      "K",
+      "W",
+      "R",
+      "E",
+      "N",
+      "C",
+      "H",
+      "L"
+    ],
+    [
+      "W",
+      "S",
+      "J",
+      "L",
+      "N",
+      "O",
+      "C",
+      "F",
+      "S",
+      "S",
+      "A",
+      "W"
+    ],
+    [
+      "V",
+      "W",
+      "I",
+      "S",
+      "U",
+      "N",
+      "D",
+      "A",
+      "Y",
+      "C",
+      "D",
+      "D"
+    ],
+    [
+      "W",
+      "O",
+      "R",
+      "K",
+      "S",
+      "H",
+      "O",
+      "P",
+      "B",
+      "A",
+      "M",
+      "M"
+    ],
+    [
+      "E",
+      "L",
+      "P",
+      "Q",
+      "K",
+      "J",
+      "U",
+      "N",
+      "E",
+      "T",
+      "M",
+      "O"
+    ],
+    [
+      "S",
+      "S",
+      "U",
+      "P",
+      "P",
+      "O",
+      "R",
+      "T",
+      "Q",
+      "C",
+      "Q",
+      "K"
+    ],
+    [
+      "D",
+      "R",
+      "E",
+      "S",
+      "T",
+      "F",
+      "F",
+      "P",
+      "H",
+      "H",
+      "N",
+      "O"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "STRENGTH",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "WORKSHOP",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SUPPORT",
+      "row": 10,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "RESPECT",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "WRENCH",
+      "row": 5,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "SUNDAY",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "GUIDE",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CHAIR",
+      "row": 3,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "CATCH",
+      "row": 7,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "PEACE",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "STEAK",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "JUNE",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "REST",
+      "row": 11,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SAW",
+      "row": 6,
+      "col": 9,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1181177396
+}

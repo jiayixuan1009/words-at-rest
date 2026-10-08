@@ -1,0 +1,208 @@
+{
+  "id": "board-games-easy-04",
+  "slug": "board-games-easy-04",
+  "themeId": "board-games",
+  "title": "Board Games Word Search (Easy) #04",
+  "primaryKeyword": "board games word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "DEAL",
+    "LUCK",
+    "PAWN",
+    "PIECE",
+    "PLAY",
+    "QUIET",
+    "ROLL",
+    "ROUND",
+    "SPACE",
+    "WIN"
+  ],
+  "grid": [
+    [
+      "P",
+      "A",
+      "W",
+      "N",
+      "J",
+      "P",
+      "Q",
+      "B",
+      "P",
+      "A"
+    ],
+    [
+      "E",
+      "K",
+      "R",
+      "A",
+      "F",
+      "Q",
+      "K",
+      "S",
+      "I",
+      "V"
+    ],
+    [
+      "H",
+      "K",
+      "J",
+      "D",
+      "S",
+      "U",
+      "L",
+      "M",
+      "E",
+      "Q"
+    ],
+    [
+      "I",
+      "K",
+      "X",
+      "Y",
+      "P",
+      "I",
+      "F",
+      "H",
+      "C",
+      "I"
+    ],
+    [
+      "R",
+      "V",
+      "S",
+      "G",
+      "A",
+      "E",
+      "F",
+      "B",
+      "E",
+      "G"
+    ],
+    [
+      "O",
+      "L",
+      "O",
+      "X",
+      "C",
+      "T",
+      "O",
+      "X",
+      "W",
+      "E"
+    ],
+    [
+      "U",
+      "U",
+      "P",
+      "Q",
+      "E",
+      "T",
+      "J",
+      "L",
+      "I",
+      "D"
+    ],
+    [
+      "N",
+      "C",
+      "L",
+      "Y",
+      "L",
+      "K",
+      "G",
+      "N",
+      "N",
+      "E"
+    ],
+    [
+      "D",
+      "K",
+      "A",
+      "U",
+      "W",
+      "Q",
+      "L",
+      "F",
+      "O",
+      "A"
+    ],
+    [
+      "R",
+      "W",
+      "Y",
+      "H",
+      "R",
+      "O",
+      "L",
+      "L",
+      "R",
+      "L"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PIECE",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "QUIET",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "SPACE",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "ROUND",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "PLAY",
+      "row": 6,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "PAWN",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "DEAL",
+      "row": 6,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "LUCK",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "ROLL",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "WIN",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 500848139
+}

@@ -1,0 +1,284 @@
+{
+  "id": "horses-medium-05",
+  "slug": "horses-medium-05",
+  "themeId": "horses",
+  "title": "Horses Word Search (Medium) #05",
+  "primaryKeyword": "horses word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ARENA",
+    "BARN",
+    "BLANKET",
+    "CANTER",
+    "HALTER",
+    "HAY",
+    "HERD",
+    "JUMP",
+    "PADDOCK",
+    "PASTURE",
+    "RING",
+    "STABLE",
+    "TRAIL",
+    "TROUGH"
+  ],
+  "grid": [
+    [
+      "A",
+      "P",
+      "A",
+      "S",
+      "T",
+      "U",
+      "R",
+      "E",
+      "B",
+      "R",
+      "G",
+      "A"
+    ],
+    [
+      "Z",
+      "Q",
+      "P",
+      "C",
+      "D",
+      "F",
+      "H",
+      "H",
+      "L",
+      "I",
+      "B",
+      "R"
+    ],
+    [
+      "C",
+      "V",
+      "A",
+      "A",
+      "F",
+      "H",
+      "K",
+      "E",
+      "A",
+      "N",
+      "Q",
+      "E"
+    ],
+    [
+      "B",
+      "I",
+      "D",
+      "N",
+      "L",
+      "B",
+      "S",
+      "R",
+      "N",
+      "G",
+      "C",
+      "N"
+    ],
+    [
+      "U",
+      "S",
+      "D",
+      "T",
+      "D",
+      "A",
+      "I",
+      "D",
+      "K",
+      "Z",
+      "R",
+      "A"
+    ],
+    [
+      "Z",
+      "S",
+      "O",
+      "E",
+      "G",
+      "R",
+      "Q",
+      "L",
+      "E",
+      "C",
+      "A",
+      "R"
+    ],
+    [
+      "J",
+      "D",
+      "C",
+      "R",
+      "C",
+      "N",
+      "B",
+      "T",
+      "T",
+      "L",
+      "T",
+      "E"
+    ],
+    [
+      "X",
+      "Y",
+      "K",
+      "Q",
+      "R",
+      "H",
+      "L",
+      "R",
+      "G",
+      "T",
+      "R",
+      "V"
+    ],
+    [
+      "S",
+      "T",
+      "A",
+      "B",
+      "L",
+      "E",
+      "Y",
+      "O",
+      "Z",
+      "F",
+      "A",
+      "J"
+    ],
+    [
+      "M",
+      "Z",
+      "S",
+      "L",
+      "W",
+      "A",
+      "D",
+      "U",
+      "B",
+      "R",
+      "I",
+      "A"
+    ],
+    [
+      "J",
+      "U",
+      "M",
+      "P",
+      "H",
+      "U",
+      "R",
+      "G",
+      "Q",
+      "N",
+      "L",
+      "R"
+    ],
+    [
+      "E",
+      "H",
+      "A",
+      "L",
+      "T",
+      "E",
+      "R",
+      "H",
+      "V",
+      "K",
+      "J",
+      "U"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PADDOCK",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "PASTURE",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "BLANKET",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "HALTER",
+      "row": 11,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TROUGH",
+      "row": 6,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "CANTER",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "STABLE",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "ARENA",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "TRAIL",
+      "row": 6,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "RING",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "JUMP",
+      "row": 10,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BARN",
+      "row": 3,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "HERD",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "HAY",
+      "row": 10,
+      "col": 4,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 351913132
+}

@@ -1,0 +1,208 @@
+{
+  "id": "cats-easy-07",
+  "slug": "cats-easy-07",
+  "themeId": "cats",
+  "title": "Cats Word Search (Easy) #07",
+  "primaryKeyword": "cats word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BIRD",
+    "BLANKET",
+    "CURIOUS",
+    "POUNCE",
+    "SIAMESE",
+    "SILL",
+    "STRIPE",
+    "TOY",
+    "TREAT",
+    "TUNNEL"
+  ],
+  "grid": [
+    [
+      "T",
+      "S",
+      "B",
+      "I",
+      "R",
+      "D",
+      "T",
+      "W",
+      "T",
+      "Q"
+    ],
+    [
+      "U",
+      "W",
+      "P",
+      "O",
+      "U",
+      "N",
+      "C",
+      "E",
+      "R",
+      "E"
+    ],
+    [
+      "N",
+      "S",
+      "V",
+      "B",
+      "L",
+      "A",
+      "N",
+      "K",
+      "E",
+      "T"
+    ],
+    [
+      "N",
+      "I",
+      "J",
+      "S",
+      "U",
+      "C",
+      "F",
+      "I",
+      "A",
+      "K"
+    ],
+    [
+      "E",
+      "A",
+      "K",
+      "T",
+      "W",
+      "U",
+      "B",
+      "V",
+      "T",
+      "U"
+    ],
+    [
+      "L",
+      "M",
+      "R",
+      "R",
+      "O",
+      "R",
+      "N",
+      "W",
+      "T",
+      "S"
+    ],
+    [
+      "T",
+      "E",
+      "K",
+      "I",
+      "Z",
+      "I",
+      "P",
+      "Q",
+      "O",
+      "I"
+    ],
+    [
+      "N",
+      "S",
+      "C",
+      "P",
+      "F",
+      "O",
+      "L",
+      "A",
+      "Y",
+      "L"
+    ],
+    [
+      "Q",
+      "E",
+      "Q",
+      "E",
+      "W",
+      "U",
+      "I",
+      "H",
+      "G",
+      "L"
+    ],
+    [
+      "M",
+      "D",
+      "Y",
+      "L",
+      "T",
+      "S",
+      "N",
+      "G",
+      "A",
+      "L"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CURIOUS",
+      "row": 3,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "SIAMESE",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "BLANKET",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "STRIPE",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "TUNNEL",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "POUNCE",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "TREAT",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "BIRD",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SILL",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "TOY",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1208111572
+}

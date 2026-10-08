@@ -1,0 +1,284 @@
+{
+  "id": "birdwatching-medium-07",
+  "slug": "birdwatching-medium-07",
+  "themeId": "birdwatching",
+  "title": "Birdwatching Word Search (Medium) #07",
+  "primaryKeyword": "birdwatching word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BIRD",
+    "BLIND",
+    "BRANCH",
+    "CALL",
+    "CANOPY",
+    "DIVE",
+    "DUSK",
+    "FIELD",
+    "FOREST",
+    "GLIDE",
+    "GUIDE",
+    "HOVER",
+    "QUIET",
+    "WATER"
+  ],
+  "grid": [
+    [
+      "M",
+      "B",
+      "L",
+      "I",
+      "N",
+      "D",
+      "K",
+      "D",
+      "U",
+      "S",
+      "K",
+      "D"
+    ],
+    [
+      "P",
+      "V",
+      "M",
+      "D",
+      "F",
+      "I",
+      "E",
+      "L",
+      "D",
+      "Q",
+      "E",
+      "Q"
+    ],
+    [
+      "Q",
+      "C",
+      "C",
+      "A",
+      "N",
+      "O",
+      "P",
+      "Y",
+      "B",
+      "D",
+      "Q",
+      "B"
+    ],
+    [
+      "F",
+      "A",
+      "Y",
+      "J",
+      "H",
+      "B",
+      "K",
+      "S",
+      "I",
+      "D",
+      "U",
+      "H"
+    ],
+    [
+      "O",
+      "L",
+      "E",
+      "E",
+      "P",
+      "F",
+      "I",
+      "U",
+      "G",
+      "S",
+      "I",
+      "H"
+    ],
+    [
+      "R",
+      "L",
+      "W",
+      "E",
+      "R",
+      "H",
+      "G",
+      "Z",
+      "L",
+      "N",
+      "E",
+      "N"
+    ],
+    [
+      "E",
+      "E",
+      "K",
+      "E",
+      "B",
+      "B",
+      "C",
+      "G",
+      "I",
+      "Y",
+      "T",
+      "U"
+    ],
+    [
+      "S",
+      "W",
+      "V",
+      "W",
+      "S",
+      "I",
+      "R",
+      "R",
+      "D",
+      "I",
+      "N",
+      "K"
+    ],
+    [
+      "T",
+      "O",
+      "A",
+      "E",
+      "H",
+      "X",
+      "R",
+      "A",
+      "E",
+      "X",
+      "S",
+      "N"
+    ],
+    [
+      "H",
+      "N",
+      "V",
+      "T",
+      "I",
+      "A",
+      "P",
+      "D",
+      "N",
+      "F",
+      "N",
+      "K"
+    ],
+    [
+      "L",
+      "I",
+      "D",
+      "M",
+      "E",
+      "D",
+      "M",
+      "G",
+      "W",
+      "C",
+      "P",
+      "J"
+    ],
+    [
+      "D",
+      "O",
+      "X",
+      "T",
+      "K",
+      "R",
+      "N",
+      "T",
+      "Z",
+      "T",
+      "H",
+      "A"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CANOPY",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BRANCH",
+      "row": 6,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "FOREST",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "HOVER",
+      "row": 9,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "FIELD",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "GLIDE",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "BLIND",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "WATER",
+      "row": 7,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "QUIET",
+      "row": 2,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "GUIDE",
+      "row": 5,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "DUSK",
+      "row": 0,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "CALL",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "BIRD",
+      "row": 6,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "DIVE",
+      "row": 11,
+      "col": 0,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 802884909
+}

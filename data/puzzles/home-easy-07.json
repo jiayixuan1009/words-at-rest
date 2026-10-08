@@ -1,0 +1,208 @@
+{
+  "id": "home-easy-07",
+  "slug": "home-easy-07",
+  "themeId": "home",
+  "title": "Home Word Search (Easy) #07",
+  "primaryKeyword": "home word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CLOCK",
+    "CURTAIN",
+    "GATE",
+    "LOCK",
+    "MAIL",
+    "NEST",
+    "PATH",
+    "ROOF",
+    "RUG",
+    "STAIR"
+  ],
+  "grid": [
+    [
+      "Y",
+      "K",
+      "N",
+      "N",
+      "M",
+      "A",
+      "I",
+      "L",
+      "B",
+      "J"
+    ],
+    [
+      "H",
+      "O",
+      "O",
+      "N",
+      "B",
+      "Y",
+      "Z",
+      "G",
+      "W",
+      "O"
+    ],
+    [
+      "R",
+      "U",
+      "G",
+      "C",
+      "U",
+      "R",
+      "T",
+      "A",
+      "I",
+      "N"
+    ],
+    [
+      "S",
+      "S",
+      "T",
+      "E",
+      "P",
+      "N",
+      "V",
+      "T",
+      "D",
+      "O"
+    ],
+    [
+      "H",
+      "T",
+      "E",
+      "O",
+      "A",
+      "E",
+      "X",
+      "E",
+      "M",
+      "X"
+    ],
+    [
+      "S",
+      "A",
+      "V",
+      "W",
+      "T",
+      "S",
+      "R",
+      "O",
+      "F",
+      "C"
+    ],
+    [
+      "C",
+      "I",
+      "R",
+      "H",
+      "H",
+      "T",
+      "O",
+      "L",
+      "F",
+      "L"
+    ],
+    [
+      "F",
+      "R",
+      "M",
+      "X",
+      "M",
+      "M",
+      "O",
+      "O",
+      "J",
+      "O"
+    ],
+    [
+      "E",
+      "Z",
+      "D",
+      "R",
+      "L",
+      "U",
+      "F",
+      "C",
+      "H",
+      "C"
+    ],
+    [
+      "X",
+      "K",
+      "L",
+      "C",
+      "V",
+      "E",
+      "Z",
+      "K",
+      "F",
+      "K"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CURTAIN",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "CLOCK",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "STAIR",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "GATE",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "PATH",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "NEST",
+      "row": 3,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "ROOF",
+      "row": 5,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "LOCK",
+      "row": 6,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "MAIL",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "RUG",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 918258353
+}

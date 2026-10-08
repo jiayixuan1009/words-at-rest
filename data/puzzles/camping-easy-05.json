@@ -1,0 +1,208 @@
+{
+  "id": "camping-easy-05",
+  "slug": "camping-easy-05",
+  "themeId": "camping",
+  "title": "Camping Word Search (Easy) #05",
+  "primaryKeyword": "camping word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "COOK",
+    "FLY",
+    "LAKE",
+    "LANTERN",
+    "MAP",
+    "MAT",
+    "PATH",
+    "RIVER",
+    "SMOKE",
+    "STAKE"
+  ],
+  "grid": [
+    [
+      "L",
+      "L",
+      "Z",
+      "E",
+      "X",
+      "N",
+      "E",
+      "U",
+      "Q",
+      "Q"
+    ],
+    [
+      "F",
+      "M",
+      "A",
+      "P",
+      "L",
+      "A",
+      "K",
+      "E",
+      "B",
+      "A"
+    ],
+    [
+      "M",
+      "N",
+      "B",
+      "V",
+      "H",
+      "E",
+      "S",
+      "E",
+      "B",
+      "W"
+    ],
+    [
+      "D",
+      "P",
+      "H",
+      "L",
+      "R",
+      "E",
+      "M",
+      "S",
+      "Y",
+      "T"
+    ],
+    [
+      "V",
+      "A",
+      "M",
+      "A",
+      "I",
+      "T",
+      "O",
+      "T",
+      "W",
+      "F"
+    ],
+    [
+      "D",
+      "T",
+      "M",
+      "N",
+      "V",
+      "D",
+      "K",
+      "A",
+      "K",
+      "C"
+    ],
+    [
+      "G",
+      "H",
+      "A",
+      "T",
+      "E",
+      "V",
+      "E",
+      "K",
+      "Z",
+      "F"
+    ],
+    [
+      "I",
+      "J",
+      "T",
+      "E",
+      "R",
+      "T",
+      "J",
+      "E",
+      "F",
+      "C"
+    ],
+    [
+      "P",
+      "R",
+      "S",
+      "R",
+      "C",
+      "O",
+      "O",
+      "K",
+      "I",
+      "V"
+    ],
+    [
+      "F",
+      "L",
+      "Y",
+      "N",
+      "O",
+      "C",
+      "N",
+      "M",
+      "C",
+      "L"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "LANTERN",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "STAKE",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "RIVER",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "SMOKE",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "LAKE",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "COOK",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "PATH",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "MAT",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "MAP",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "FLY",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 493531891
+}

@@ -1,0 +1,208 @@
+{
+  "id": "friendship-easy-08",
+  "slug": "friendship-easy-08",
+  "themeId": "friendship",
+  "title": "Friendship Word Search (Easy) #08",
+  "primaryKeyword": "friendship word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CHAT",
+    "FRIEND",
+    "HAND",
+    "LAUGH",
+    "MEMORY",
+    "PAL",
+    "PARTNER",
+    "PEACE",
+    "SUPPORT",
+    "TRUST"
+  ],
+  "grid": [
+    [
+      "L",
+      "A",
+      "U",
+      "G",
+      "H",
+      "L",
+      "A",
+      "P",
+      "A",
+      "H"
+    ],
+    [
+      "E",
+      "T",
+      "S",
+      "U",
+      "P",
+      "P",
+      "O",
+      "R",
+      "T",
+      "U"
+    ],
+    [
+      "S",
+      "R",
+      "V",
+      "F",
+      "H",
+      "A",
+      "B",
+      "P",
+      "A",
+      "L"
+    ],
+    [
+      "C",
+      "U",
+      "C",
+      "S",
+      "N",
+      "R",
+      "O",
+      "C",
+      "J",
+      "T"
+    ],
+    [
+      "H",
+      "S",
+      "H",
+      "M",
+      "H",
+      "T",
+      "Y",
+      "F",
+      "A",
+      "P"
+    ],
+    [
+      "A",
+      "T",
+      "A",
+      "E",
+      "Y",
+      "N",
+      "N",
+      "R",
+      "N",
+      "E"
+    ],
+    [
+      "T",
+      "V",
+      "N",
+      "M",
+      "A",
+      "E",
+      "V",
+      "I",
+      "S",
+      "A"
+    ],
+    [
+      "I",
+      "F",
+      "D",
+      "O",
+      "W",
+      "R",
+      "H",
+      "E",
+      "K",
+      "C"
+    ],
+    [
+      "M",
+      "J",
+      "C",
+      "R",
+      "N",
+      "U",
+      "B",
+      "N",
+      "H",
+      "E"
+    ],
+    [
+      "B",
+      "D",
+      "B",
+      "Y",
+      "R",
+      "M",
+      "A",
+      "D",
+      "R",
+      "J"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PARTNER",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "SUPPORT",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "MEMORY",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "FRIEND",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "LAUGH",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "PEACE",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "TRUST",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "HAND",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "CHAT",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "PAL",
+      "row": 2,
+      "col": 7,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 206800447
+}

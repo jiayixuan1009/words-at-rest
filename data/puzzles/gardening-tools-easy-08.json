@@ -1,0 +1,208 @@
+{
+  "id": "gardening-tools-easy-08",
+  "slug": "gardening-tools-easy-08",
+  "themeId": "gardening-tools",
+  "title": "Gardening Tools Word Search (Easy) #08",
+  "primaryKeyword": "gardening tools word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BENCH",
+    "CLEAN",
+    "FRAME",
+    "GREENHOUSE",
+    "KNIFE",
+    "POT",
+    "SPRINKLER",
+    "TRAY",
+    "TROWEL",
+    "WATERING"
+  ],
+  "grid": [
+    [
+      "J",
+      "J",
+      "A",
+      "A",
+      "B",
+      "E",
+      "F",
+      "J",
+      "K",
+      "T"
+    ],
+    [
+      "B",
+      "E",
+      "N",
+      "C",
+      "H",
+      "X",
+      "V",
+      "R",
+      "A",
+      "F"
+    ],
+    [
+      "P",
+      "O",
+      "T",
+      "V",
+      "F",
+      "R",
+      "A",
+      "M",
+      "E",
+      "Z"
+    ],
+    [
+      "G",
+      "R",
+      "E",
+      "E",
+      "N",
+      "H",
+      "O",
+      "U",
+      "S",
+      "E"
+    ],
+    [
+      "W",
+      "A",
+      "T",
+      "E",
+      "R",
+      "I",
+      "N",
+      "G",
+      "C",
+      "T"
+    ],
+    [
+      "A",
+      "C",
+      "K",
+      "Y",
+      "Y",
+      "I",
+      "M",
+      "G",
+      "W",
+      "R"
+    ],
+    [
+      "S",
+      "P",
+      "R",
+      "I",
+      "N",
+      "K",
+      "L",
+      "E",
+      "R",
+      "A"
+    ],
+    [
+      "C",
+      "L",
+      "E",
+      "A",
+      "N",
+      "H",
+      "Z",
+      "K",
+      "X",
+      "Y"
+    ],
+    [
+      "J",
+      "G",
+      "C",
+      "K",
+      "N",
+      "I",
+      "F",
+      "E",
+      "T",
+      "C"
+    ],
+    [
+      "B",
+      "T",
+      "R",
+      "O",
+      "W",
+      "E",
+      "L",
+      "F",
+      "V",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "GREENHOUSE",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SPRINKLER",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "WATERING",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "TROWEL",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "CLEAN",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "KNIFE",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "FRAME",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BENCH",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "TRAY",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "POT",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 793072238
+}

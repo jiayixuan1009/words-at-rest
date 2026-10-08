@@ -1,0 +1,208 @@
+{
+  "id": "gratitude-easy-06",
+  "slug": "gratitude-easy-06",
+  "themeId": "gratitude",
+  "title": "Gratitude Word Search (Easy) #06",
+  "primaryKeyword": "gratitude word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "APPRECIATE",
+    "BLESSING",
+    "BREAD",
+    "DAWN",
+    "FRIEND",
+    "GRACE",
+    "KIND",
+    "LETTER",
+    "MERCY",
+    "QUIET"
+  ],
+  "grid": [
+    [
+      "A",
+      "G",
+      "E",
+      "W",
+      "E",
+      "W",
+      "M",
+      "K",
+      "D",
+      "A"
+    ],
+    [
+      "R",
+      "C",
+      "P",
+      "F",
+      "B",
+      "S",
+      "F",
+      "I",
+      "L",
+      "P"
+    ],
+    [
+      "E",
+      "D",
+      "M",
+      "H",
+      "L",
+      "N",
+      "R",
+      "N",
+      "N",
+      "P"
+    ],
+    [
+      "M",
+      "I",
+      "E",
+      "B",
+      "E",
+      "G",
+      "I",
+      "D",
+      "X",
+      "R"
+    ],
+    [
+      "J",
+      "G",
+      "R",
+      "I",
+      "S",
+      "R",
+      "E",
+      "R",
+      "L",
+      "E"
+    ],
+    [
+      "K",
+      "T",
+      "C",
+      "G",
+      "S",
+      "A",
+      "N",
+      "B",
+      "E",
+      "C"
+    ],
+    [
+      "E",
+      "N",
+      "Y",
+      "W",
+      "I",
+      "C",
+      "D",
+      "O",
+      "T",
+      "I"
+    ],
+    [
+      "L",
+      "I",
+      "L",
+      "D",
+      "N",
+      "E",
+      "B",
+      "L",
+      "T",
+      "A"
+    ],
+    [
+      "C",
+      "J",
+      "D",
+      "Q",
+      "G",
+      "Q",
+      "U",
+      "I",
+      "E",
+      "T"
+    ],
+    [
+      "B",
+      "R",
+      "E",
+      "A",
+      "D",
+      "A",
+      "W",
+      "N",
+      "R",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "APPRECIATE",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "BLESSING",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "FRIEND",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "LETTER",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "QUIET",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "GRACE",
+      "row": 3,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "BREAD",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "MERCY",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "KIND",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "DAWN",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1639394721
+}

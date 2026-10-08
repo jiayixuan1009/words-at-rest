@@ -1,0 +1,284 @@
+{
+  "id": "cars-medium-08",
+  "slug": "cars-medium-08",
+  "themeId": "cars",
+  "title": "Cars Word Search (Medium) #08",
+  "primaryKeyword": "cars word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "AUTO",
+    "AXLE",
+    "BEAM",
+    "BELT",
+    "EXIT",
+    "FILTER",
+    "GEAR",
+    "JACK",
+    "LIGHT",
+    "MIRROR",
+    "RADIO",
+    "RIM",
+    "ROAD",
+    "TIRE"
+  ],
+  "grid": [
+    [
+      "F",
+      "Z",
+      "R",
+      "A",
+      "D",
+      "I",
+      "O",
+      "K",
+      "A",
+      "R",
+      "P",
+      "L"
+    ],
+    [
+      "Z",
+      "H",
+      "V",
+      "A",
+      "E",
+      "X",
+      "I",
+      "T",
+      "E",
+      "A",
+      "N",
+      "X"
+    ],
+    [
+      "O",
+      "P",
+      "J",
+      "X",
+      "Q",
+      "K",
+      "B",
+      "T",
+      "R",
+      "R",
+      "A",
+      "M"
+    ],
+    [
+      "P",
+      "B",
+      "C",
+      "L",
+      "I",
+      "L",
+      "L",
+      "J",
+      "M",
+      "U",
+      "N",
+      "I"
+    ],
+    [
+      "I",
+      "L",
+      "U",
+      "E",
+      "S",
+      "I",
+      "J",
+      "I",
+      "Y",
+      "C",
+      "K",
+      "R"
+    ],
+    [
+      "Q",
+      "I",
+      "M",
+      "C",
+      "F",
+      "T",
+      "R",
+      "A",
+      "M",
+      "D",
+      "U",
+      "R"
+    ],
+    [
+      "E",
+      "G",
+      "H",
+      "G",
+      "A",
+      "L",
+      "L",
+      "A",
+      "C",
+      "O",
+      "Y",
+      "O"
+    ],
+    [
+      "Z",
+      "H",
+      "K",
+      "E",
+      "D",
+      "H",
+      "E",
+      "K",
+      "E",
+      "K",
+      "E",
+      "R"
+    ],
+    [
+      "R",
+      "T",
+      "L",
+      "A",
+      "V",
+      "B",
+      "E",
+      "Z",
+      "O",
+      "O",
+      "C",
+      "E"
+    ],
+    [
+      "M",
+      "O",
+      "V",
+      "R",
+      "W",
+      "I",
+      "W",
+      "Z",
+      "T",
+      "L",
+      "X",
+      "V"
+    ],
+    [
+      "F",
+      "I",
+      "A",
+      "G",
+      "K",
+      "M",
+      "C",
+      "U",
+      "T",
+      "I",
+      "R",
+      "E"
+    ],
+    [
+      "H",
+      "G",
+      "D",
+      "D",
+      "X",
+      "H",
+      "A",
+      "B",
+      "E",
+      "L",
+      "T",
+      "M"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FILTER",
+      "row": 5,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "MIRROR",
+      "row": 2,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "RADIO",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "LIGHT",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "AUTO",
+      "row": 11,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "AXLE",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "BEAM",
+      "row": 8,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "TIRE",
+      "row": 10,
+      "col": 8,
+      "direction": "E"
+    },
+    {
+      "word": "BELT",
+      "row": 11,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "GEAR",
+      "row": 6,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "EXIT",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "ROAD",
+      "row": 8,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "JACK",
+      "row": 4,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "RIM",
+      "row": 5,
+      "col": 6,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 635108719
+}

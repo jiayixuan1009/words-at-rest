@@ -1,0 +1,208 @@
+{
+  "id": "classical-easy-05",
+  "slug": "classical-easy-05",
+  "themeId": "classical",
+  "title": "Classical Word Search (Easy) #05",
+  "primaryKeyword": "classical music word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ANDANTE",
+    "BATON",
+    "CADENZA",
+    "DUET",
+    "FORTE",
+    "NOCTURNE",
+    "PRELUDE",
+    "SONATA",
+    "TEMPO",
+    "VIVACE"
+  ],
+  "grid": [
+    [
+      "P",
+      "A",
+      "C",
+      "G",
+      "V",
+      "I",
+      "V",
+      "A",
+      "C",
+      "E"
+    ],
+    [
+      "R",
+      "N",
+      "T",
+      "N",
+      "O",
+      "Z",
+      "W",
+      "B",
+      "C",
+      "S"
+    ],
+    [
+      "E",
+      "D",
+      "E",
+      "O",
+      "C",
+      "C",
+      "B",
+      "X",
+      "V",
+      "O"
+    ],
+    [
+      "L",
+      "A",
+      "M",
+      "C",
+      "L",
+      "H",
+      "O",
+      "J",
+      "F",
+      "N"
+    ],
+    [
+      "U",
+      "N",
+      "P",
+      "T",
+      "E",
+      "D",
+      "Z",
+      "B",
+      "O",
+      "A"
+    ],
+    [
+      "D",
+      "T",
+      "O",
+      "U",
+      "K",
+      "U",
+      "H",
+      "A",
+      "R",
+      "T"
+    ],
+    [
+      "E",
+      "E",
+      "M",
+      "R",
+      "L",
+      "E",
+      "X",
+      "T",
+      "T",
+      "A"
+    ],
+    [
+      "X",
+      "I",
+      "M",
+      "N",
+      "L",
+      "T",
+      "E",
+      "O",
+      "E",
+      "W"
+    ],
+    [
+      "M",
+      "V",
+      "B",
+      "E",
+      "B",
+      "F",
+      "J",
+      "N",
+      "I",
+      "G"
+    ],
+    [
+      "C",
+      "A",
+      "D",
+      "E",
+      "N",
+      "Z",
+      "A",
+      "H",
+      "O",
+      "I"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "NOCTURNE",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "ANDANTE",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "CADENZA",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "PRELUDE",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SONATA",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "VIVACE",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "BATON",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "FORTE",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "TEMPO",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "DUET",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 2102550690
+}

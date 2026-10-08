@@ -1,0 +1,208 @@
+{
+  "id": "baseball-easy-06",
+  "slug": "baseball-easy-06",
+  "themeId": "baseball",
+  "title": "Baseball Word Search (Easy) #06",
+  "primaryKeyword": "baseball word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BALL",
+    "BALLFOUR",
+    "BASE",
+    "BAT",
+    "BUNT",
+    "DOUBLE",
+    "FORCE",
+    "LINEUP",
+    "SHORTSTOP",
+    "THROW"
+  ],
+  "grid": [
+    [
+      "N",
+      "B",
+      "A",
+      "L",
+      "L",
+      "F",
+      "O",
+      "U",
+      "R",
+      "D"
+    ],
+    [
+      "F",
+      "O",
+      "R",
+      "C",
+      "E",
+      "Q",
+      "N",
+      "G",
+      "E",
+      "S"
+    ],
+    [
+      "L",
+      "N",
+      "B",
+      "B",
+      "A",
+      "S",
+      "E",
+      "W",
+      "Y",
+      "C"
+    ],
+    [
+      "S",
+      "H",
+      "O",
+      "R",
+      "T",
+      "S",
+      "T",
+      "O",
+      "P",
+      "T"
+    ],
+    [
+      "M",
+      "Y",
+      "J",
+      "B",
+      "F",
+      "W",
+      "B",
+      "A",
+      "T",
+      "H"
+    ],
+    [
+      "Z",
+      "C",
+      "D",
+      "O",
+      "U",
+      "B",
+      "L",
+      "E",
+      "H",
+      "R"
+    ],
+    [
+      "K",
+      "F",
+      "V",
+      "S",
+      "T",
+      "N",
+      "O",
+      "B",
+      "X",
+      "O"
+    ],
+    [
+      "B",
+      "U",
+      "N",
+      "T",
+      "L",
+      "T",
+      "V",
+      "R",
+      "K",
+      "W"
+    ],
+    [
+      "W",
+      "W",
+      "B",
+      "A",
+      "L",
+      "L",
+      "Y",
+      "R",
+      "V",
+      "X"
+    ],
+    [
+      "A",
+      "W",
+      "J",
+      "R",
+      "L",
+      "I",
+      "N",
+      "E",
+      "U",
+      "P"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SHORTSTOP",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BALLFOUR",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "LINEUP",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "DOUBLE",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "FORCE",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "THROW",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "BASE",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BUNT",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BALL",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BAT",
+      "row": 4,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 2741886924
+}

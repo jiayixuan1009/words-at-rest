@@ -1,0 +1,284 @@
+{
+  "id": "american-history-medium-04",
+  "slug": "american-history-medium-04",
+  "themeId": "american-history",
+  "title": "American History Word Search (Medium) #04",
+  "primaryKeyword": "american history word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ABOLITION",
+    "ALLIES",
+    "BALLOT",
+    "CENSUS",
+    "CIVIL",
+    "COLONY",
+    "CONSTITUTION",
+    "FACTORY",
+    "LIBERTY",
+    "MEMORIAL",
+    "MISSION",
+    "RIGHTS",
+    "SHIP",
+    "STATE"
+  ],
+  "grid": [
+    [
+      "T",
+      "W",
+      "C",
+      "H",
+      "O",
+      "W",
+      "A",
+      "E",
+      "Q",
+      "I",
+      "J",
+      "B"
+    ],
+    [
+      "W",
+      "W",
+      "O",
+      "H",
+      "P",
+      "M",
+      "A",
+      "L",
+      "Z",
+      "W",
+      "D",
+      "O"
+    ],
+    [
+      "T",
+      "C",
+      "N",
+      "C",
+      "S",
+      "E",
+      "L",
+      "X",
+      "A",
+      "S",
+      "R",
+      "M"
+    ],
+    [
+      "J",
+      "E",
+      "S",
+      "A",
+      "H",
+      "M",
+      "L",
+      "G",
+      "M",
+      "T",
+      "L",
+      "I"
+    ],
+    [
+      "X",
+      "N",
+      "T",
+      "B",
+      "I",
+      "O",
+      "I",
+      "C",
+      "T",
+      "A",
+      "I",
+      "S"
+    ],
+    [
+      "B",
+      "S",
+      "I",
+      "O",
+      "P",
+      "R",
+      "E",
+      "I",
+      "O",
+      "T",
+      "B",
+      "S"
+    ],
+    [
+      "A",
+      "U",
+      "T",
+      "L",
+      "C",
+      "I",
+      "S",
+      "V",
+      "G",
+      "E",
+      "E",
+      "I"
+    ],
+    [
+      "L",
+      "S",
+      "U",
+      "I",
+      "Y",
+      "A",
+      "A",
+      "I",
+      "Q",
+      "G",
+      "R",
+      "O"
+    ],
+    [
+      "L",
+      "Q",
+      "T",
+      "T",
+      "O",
+      "L",
+      "X",
+      "L",
+      "Z",
+      "Z",
+      "T",
+      "N"
+    ],
+    [
+      "O",
+      "G",
+      "I",
+      "I",
+      "F",
+      "A",
+      "C",
+      "T",
+      "O",
+      "R",
+      "Y",
+      "I"
+    ],
+    [
+      "T",
+      "A",
+      "O",
+      "O",
+      "K",
+      "O",
+      "C",
+      "O",
+      "L",
+      "O",
+      "N",
+      "Y"
+    ],
+    [
+      "P",
+      "M",
+      "N",
+      "N",
+      "R",
+      "I",
+      "G",
+      "H",
+      "T",
+      "S",
+      "F",
+      "V"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CONSTITUTION",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "ABOLITION",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "MEMORIAL",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "LIBERTY",
+      "row": 3,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "MISSION",
+      "row": 2,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "FACTORY",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CENSUS",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "BALLOT",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "COLONY",
+      "row": 10,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "ALLIES",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "RIGHTS",
+      "row": 11,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CIVIL",
+      "row": 4,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "STATE",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SHIP",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 672701984
+}

@@ -1,0 +1,284 @@
+{
+  "id": "astronomy-medium-07",
+  "slug": "astronomy-medium-07",
+  "themeId": "astronomy",
+  "title": "Astronomy Word Search (Medium) #07",
+  "primaryKeyword": "astronomy word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ATLAS",
+    "COMET",
+    "ECLIPSE",
+    "GAS",
+    "GRAVITY",
+    "HORIZON",
+    "MILKY",
+    "PLANET",
+    "PULSAR",
+    "STAR",
+    "TELESCOPE",
+    "UNIVERSE",
+    "VOID",
+    "ZENITH"
+  ],
+  "grid": [
+    [
+      "S",
+      "T",
+      "E",
+      "L",
+      "E",
+      "S",
+      "C",
+      "O",
+      "P",
+      "E",
+      "V",
+      "F"
+    ],
+    [
+      "H",
+      "T",
+      "H",
+      "M",
+      "L",
+      "O",
+      "P",
+      "U",
+      "L",
+      "S",
+      "A",
+      "R"
+    ],
+    [
+      "E",
+      "O",
+      "A",
+      "Z",
+      "B",
+      "U",
+      "I",
+      "F",
+      "C",
+      "M",
+      "Y",
+      "E"
+    ],
+    [
+      "E",
+      "I",
+      "R",
+      "R",
+      "E",
+      "P",
+      "K",
+      "A",
+      "T",
+      "L",
+      "A",
+      "S"
+    ],
+    [
+      "N",
+      "A",
+      "E",
+      "I",
+      "U",
+      "N",
+      "I",
+      "V",
+      "E",
+      "R",
+      "S",
+      "E"
+    ],
+    [
+      "P",
+      "I",
+      "C",
+      "Z",
+      "Z",
+      "V",
+      "I",
+      "E",
+      "K",
+      "H",
+      "N",
+      "Q"
+    ],
+    [
+      "L",
+      "Z",
+      "L",
+      "Y",
+      "K",
+      "O",
+      "C",
+      "T",
+      "M",
+      "L",
+      "U",
+      "C"
+    ],
+    [
+      "A",
+      "V",
+      "I",
+      "V",
+      "C",
+      "R",
+      "N",
+      "M",
+      "H",
+      "G",
+      "S",
+      "O"
+    ],
+    [
+      "N",
+      "A",
+      "P",
+      "O",
+      "D",
+      "Y",
+      "T",
+      "D",
+      "I",
+      "A",
+      "Y",
+      "M"
+    ],
+    [
+      "E",
+      "R",
+      "S",
+      "I",
+      "Q",
+      "X",
+      "J",
+      "B",
+      "G",
+      "L",
+      "L",
+      "E"
+    ],
+    [
+      "T",
+      "S",
+      "E",
+      "D",
+      "Q",
+      "Y",
+      "U",
+      "F",
+      "Y",
+      "L",
+      "K",
+      "T"
+    ],
+    [
+      "J",
+      "W",
+      "X",
+      "G",
+      "R",
+      "A",
+      "V",
+      "I",
+      "T",
+      "Y",
+      "S",
+      "Y"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TELESCOPE",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "UNIVERSE",
+      "row": 4,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "HORIZON",
+      "row": 1,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "ECLIPSE",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "GRAVITY",
+      "row": 11,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "PLANET",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "PULSAR",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "ZENITH",
+      "row": 2,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "MILKY",
+      "row": 7,
+      "col": 7,
+      "direction": "SE"
+    },
+    {
+      "word": "COMET",
+      "row": 6,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "ATLAS",
+      "row": 3,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "VOID",
+      "row": 7,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "STAR",
+      "row": 0,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "GAS",
+      "row": 9,
+      "col": 8,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1847474996
+}

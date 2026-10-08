@@ -1,0 +1,208 @@
+{
+  "id": "flowers-easy-06",
+  "slug": "flowers-easy-06",
+  "themeId": "flowers",
+  "title": "Flowers Word Search (Easy) #06",
+  "primaryKeyword": "flowers word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BED",
+    "BEE",
+    "BEGONIA",
+    "BLOOM",
+    "BORDER",
+    "FRAGRANCE",
+    "JASMINE",
+    "PETAL",
+    "SPRING",
+    "TULIP"
+  ],
+  "grid": [
+    [
+      "R",
+      "R",
+      "N",
+      "U",
+      "B",
+      "P",
+      "A",
+      "W",
+      "B",
+      "O"
+    ],
+    [
+      "G",
+      "B",
+      "N",
+      "I",
+      "B",
+      "E",
+      "T",
+      "V",
+      "L",
+      "X"
+    ],
+    [
+      "F",
+      "G",
+      "Y",
+      "F",
+      "E",
+      "T",
+      "U",
+      "S",
+      "O",
+      "I"
+    ],
+    [
+      "C",
+      "N",
+      "X",
+      "L",
+      "G",
+      "A",
+      "L",
+      "P",
+      "O",
+      "O"
+    ],
+    [
+      "F",
+      "M",
+      "R",
+      "S",
+      "O",
+      "L",
+      "I",
+      "R",
+      "M",
+      "C"
+    ],
+    [
+      "H",
+      "B",
+      "E",
+      "D",
+      "N",
+      "C",
+      "P",
+      "I",
+      "I",
+      "A"
+    ],
+    [
+      "J",
+      "A",
+      "S",
+      "M",
+      "I",
+      "N",
+      "E",
+      "N",
+      "X",
+      "W"
+    ],
+    [
+      "B",
+      "E",
+      "E",
+      "V",
+      "A",
+      "H",
+      "R",
+      "G",
+      "D",
+      "Q"
+    ],
+    [
+      "B",
+      "B",
+      "O",
+      "R",
+      "D",
+      "E",
+      "R",
+      "L",
+      "Y",
+      "P"
+    ],
+    [
+      "M",
+      "F",
+      "R",
+      "A",
+      "G",
+      "R",
+      "A",
+      "N",
+      "C",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FRAGRANCE",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "JASMINE",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BEGONIA",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "BORDER",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SPRING",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "BLOOM",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "TULIP",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "PETAL",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "BEE",
+      "row": 7,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BED",
+      "row": 5,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 959602008
+}

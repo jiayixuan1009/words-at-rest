@@ -1,0 +1,208 @@
+{
+  "id": "birds-easy-06",
+  "slug": "birds-easy-06",
+  "themeId": "birds",
+  "title": "Birds Word Search (Easy) #06",
+  "primaryKeyword": "birds word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CARDINAL",
+    "CHORUS",
+    "DUCK",
+    "EGG",
+    "EGGS",
+    "FALCON",
+    "FLOCK",
+    "GOOSE",
+    "SONG",
+    "WREN"
+  ],
+  "grid": [
+    [
+      "X",
+      "G",
+      "O",
+      "O",
+      "S",
+      "E",
+      "B",
+      "R",
+      "X",
+      "L"
+    ],
+    [
+      "F",
+      "A",
+      "L",
+      "C",
+      "O",
+      "N",
+      "S",
+      "O",
+      "N",
+      "G"
+    ],
+    [
+      "E",
+      "G",
+      "G",
+      "E",
+      "Q",
+      "T",
+      "S",
+      "W",
+      "S",
+      "B"
+    ],
+    [
+      "P",
+      "F",
+      "C",
+      "A",
+      "R",
+      "D",
+      "I",
+      "N",
+      "A",
+      "L"
+    ],
+    [
+      "C",
+      "L",
+      "Z",
+      "H",
+      "J",
+      "S",
+      "B",
+      "W",
+      "R",
+      "U"
+    ],
+    [
+      "V",
+      "O",
+      "N",
+      "A",
+      "W",
+      "R",
+      "E",
+      "N",
+      "D",
+      "I"
+    ],
+    [
+      "B",
+      "C",
+      "B",
+      "A",
+      "K",
+      "A",
+      "J",
+      "J",
+      "E",
+      "R"
+    ],
+    [
+      "W",
+      "K",
+      "E",
+      "G",
+      "G",
+      "S",
+      "F",
+      "Z",
+      "X",
+      "Y"
+    ],
+    [
+      "G",
+      "W",
+      "C",
+      "H",
+      "O",
+      "R",
+      "U",
+      "S",
+      "C",
+      "A"
+    ],
+    [
+      "G",
+      "H",
+      "D",
+      "U",
+      "C",
+      "K",
+      "A",
+      "W",
+      "M",
+      "F"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CARDINAL",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CHORUS",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "FALCON",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "FLOCK",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "GOOSE",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "DUCK",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "EGGS",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SONG",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "WREN",
+      "row": 5,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "EGG",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 3578428576
+}

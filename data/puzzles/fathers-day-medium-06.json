@@ -1,0 +1,284 @@
+{
+  "id": "fathers-day-medium-06",
+  "slug": "fathers-day-medium-06",
+  "themeId": "fathers-day",
+  "title": "Father's Day Word Search (Medium) #06",
+  "primaryKeyword": "fathers day word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BENCH",
+    "CAMP",
+    "CATCH",
+    "COFFEE",
+    "COMFORT",
+    "DAD",
+    "FAMILY",
+    "FISHING",
+    "GARAGE",
+    "GRILL",
+    "JUNE",
+    "PORCH",
+    "SHED",
+    "THANKS"
+  ],
+  "grid": [
+    [
+      "S",
+      "O",
+      "J",
+      "U",
+      "N",
+      "E",
+      "P",
+      "A",
+      "L",
+      "Z",
+      "R",
+      "K"
+    ],
+    [
+      "H",
+      "G",
+      "U",
+      "C",
+      "O",
+      "M",
+      "F",
+      "O",
+      "R",
+      "T",
+      "Q",
+      "H"
+    ],
+    [
+      "E",
+      "F",
+      "A",
+      "M",
+      "I",
+      "L",
+      "Y",
+      "J",
+      "R",
+      "I",
+      "P",
+      "M"
+    ],
+    [
+      "D",
+      "W",
+      "I",
+      "R",
+      "H",
+      "S",
+      "E",
+      "N",
+      "B",
+      "C",
+      "R",
+      "C"
+    ],
+    [
+      "C",
+      "F",
+      "U",
+      "T",
+      "A",
+      "B",
+      "E",
+      "N",
+      "C",
+      "H",
+      "H",
+      "O"
+    ],
+    [
+      "I",
+      "A",
+      "N",
+      "E",
+      "H",
+      "G",
+      "P",
+      "L",
+      "U",
+      "D",
+      "O",
+      "F"
+    ],
+    [
+      "N",
+      "S",
+      "X",
+      "M",
+      "K",
+      "A",
+      "E",
+      "N",
+      "X",
+      "A",
+      "V",
+      "F"
+    ],
+    [
+      "V",
+      "N",
+      "W",
+      "N",
+      "M",
+      "C",
+      "N",
+      "F",
+      "O",
+      "D",
+      "R",
+      "E"
+    ],
+    [
+      "F",
+      "I",
+      "S",
+      "H",
+      "I",
+      "N",
+      "G",
+      "K",
+      "C",
+      "U",
+      "P",
+      "E"
+    ],
+    [
+      "M",
+      "X",
+      "B",
+      "Z",
+      "U",
+      "W",
+      "V",
+      "D",
+      "S",
+      "A",
+      "U",
+      "D"
+    ],
+    [
+      "R",
+      "C",
+      "G",
+      "R",
+      "I",
+      "L",
+      "L",
+      "N",
+      "N",
+      "W",
+      "M",
+      "E"
+    ],
+    [
+      "U",
+      "M",
+      "E",
+      "I",
+      "M",
+      "C",
+      "A",
+      "T",
+      "C",
+      "H",
+      "J",
+      "P"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "COMFORT",
+      "row": 1,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "FISHING",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "FAMILY",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "THANKS",
+      "row": 4,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "COFFEE",
+      "row": 3,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "GARAGE",
+      "row": 1,
+      "col": 1,
+      "direction": "SE"
+    },
+    {
+      "word": "BENCH",
+      "row": 4,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "PORCH",
+      "row": 0,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "CATCH",
+      "row": 11,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "GRILL",
+      "row": 10,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CAMP",
+      "row": 8,
+      "col": 8,
+      "direction": "SE"
+    },
+    {
+      "word": "JUNE",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "SHED",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "DAD",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1060267722
+}

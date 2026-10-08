@@ -1,0 +1,284 @@
+{
+  "id": "astronomy-medium-04",
+  "slug": "astronomy-medium-04",
+  "themeId": "astronomy",
+  "title": "Astronomy Word Search (Medium) #04",
+  "primaryKeyword": "astronomy word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CHART",
+    "ECLIPSE",
+    "EYEPIECE",
+    "HORIZON",
+    "LENS",
+    "MAGNITUDE",
+    "MOON",
+    "NEBULA",
+    "NOVA",
+    "OBSERVATORY",
+    "PARALLAX",
+    "PLANET",
+    "SUPERNOVA",
+    "ZENITH"
+  ],
+  "grid": [
+    [
+      "Y",
+      "B",
+      "S",
+      "H",
+      "O",
+      "R",
+      "I",
+      "Z",
+      "O",
+      "N",
+      "E",
+      "J"
+    ],
+    [
+      "K",
+      "S",
+      "C",
+      "P",
+      "V",
+      "S",
+      "Z",
+      "T",
+      "V",
+      "C",
+      "J",
+      "D"
+    ],
+    [
+      "N",
+      "U",
+      "A",
+      "M",
+      "W",
+      "R",
+      "R",
+      "E",
+      "E",
+      "C",
+      "A",
+      "T"
+    ],
+    [
+      "O",
+      "P",
+      "E",
+      "T",
+      "A",
+      "A",
+      "P",
+      "I",
+      "N",
+      "Z",
+      "Z",
+      "A"
+    ],
+    [
+      "V",
+      "E",
+      "C",
+      "P",
+      "H",
+      "G",
+      "P",
+      "L",
+      "Y",
+      "I",
+      "T",
+      "L"
+    ],
+    [
+      "A",
+      "R",
+      "L",
+      "C",
+      "H",
+      "E",
+      "N",
+      "M",
+      "A",
+      "Z",
+      "T",
+      "J"
+    ],
+    [
+      "X",
+      "N",
+      "I",
+      "N",
+      "Y",
+      "Z",
+      "U",
+      "I",
+      "O",
+      "N",
+      "D",
+      "H"
+    ],
+    [
+      "F",
+      "O",
+      "P",
+      "E",
+      "Y",
+      "J",
+      "T",
+      "I",
+      "T",
+      "O",
+      "E",
+      "Y"
+    ],
+    [
+      "M",
+      "V",
+      "S",
+      "M",
+      "Q",
+      "S",
+      "I",
+      "F",
+      "P",
+      "U",
+      "N",
+      "T"
+    ],
+    [
+      "F",
+      "A",
+      "E",
+      "K",
+      "N",
+      "E",
+      "B",
+      "U",
+      "L",
+      "A",
+      "D",
+      "Q"
+    ],
+    [
+      "O",
+      "B",
+      "S",
+      "E",
+      "R",
+      "V",
+      "A",
+      "T",
+      "O",
+      "R",
+      "Y",
+      "E"
+    ],
+    [
+      "F",
+      "U",
+      "L",
+      "P",
+      "A",
+      "R",
+      "A",
+      "L",
+      "L",
+      "A",
+      "X",
+      "A"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "OBSERVATORY",
+      "row": 10,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SUPERNOVA",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "MAGNITUDE",
+      "row": 2,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "PARALLAX",
+      "row": 11,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "EYEPIECE",
+      "row": 7,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "HORIZON",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "ECLIPSE",
+      "row": 3,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "PLANET",
+      "row": 3,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "ZENITH",
+      "row": 1,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "NEBULA",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CHART",
+      "row": 5,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "NOVA",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "MOON",
+      "row": 5,
+      "col": 7,
+      "direction": "SE"
+    },
+    {
+      "word": "LENS",
+      "row": 11,
+      "col": 2,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 756590079
+}

@@ -1,0 +1,208 @@
+{
+  "id": "board-games-easy-05",
+  "slug": "board-games-easy-05",
+  "themeId": "board-games",
+  "title": "Board Games Word Search (Easy) #05",
+  "primaryKeyword": "board games word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BANK",
+    "COZY",
+    "FAMILY",
+    "HOME",
+    "LUCK",
+    "MARKET",
+    "PASS",
+    "PIECE",
+    "SET",
+    "START"
+  ],
+  "grid": [
+    [
+      "C",
+      "O",
+      "Z",
+      "Y",
+      "M",
+      "K",
+      "E",
+      "K",
+      "F",
+      "H"
+    ],
+    [
+      "S",
+      "D",
+      "X",
+      "D",
+      "A",
+      "B",
+      "U",
+      "E",
+      "P",
+      "O"
+    ],
+    [
+      "E",
+      "R",
+      "A",
+      "F",
+      "R",
+      "A",
+      "L",
+      "J",
+      "A",
+      "M"
+    ],
+    [
+      "J",
+      "D",
+      "Q",
+      "A",
+      "K",
+      "N",
+      "U",
+      "I",
+      "S",
+      "E"
+    ],
+    [
+      "S",
+      "I",
+      "D",
+      "M",
+      "E",
+      "K",
+      "C",
+      "F",
+      "S",
+      "D"
+    ],
+    [
+      "T",
+      "K",
+      "N",
+      "I",
+      "T",
+      "Y",
+      "K",
+      "V",
+      "P",
+      "N"
+    ],
+    [
+      "A",
+      "L",
+      "C",
+      "L",
+      "J",
+      "Y",
+      "P",
+      "L",
+      "I",
+      "X"
+    ],
+    [
+      "R",
+      "S",
+      "Q",
+      "Y",
+      "B",
+      "K",
+      "F",
+      "C",
+      "E",
+      "O"
+    ],
+    [
+      "T",
+      "E",
+      "C",
+      "D",
+      "V",
+      "H",
+      "V",
+      "P",
+      "C",
+      "O"
+    ],
+    [
+      "S",
+      "T",
+      "I",
+      "B",
+      "O",
+      "X",
+      "W",
+      "U",
+      "E",
+      "P"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "MARKET",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "FAMILY",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "START",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "PIECE",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "BANK",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "PASS",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "HOME",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "COZY",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "LUCK",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "SET",
+      "row": 7,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 678085700
+}

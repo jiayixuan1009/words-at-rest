@@ -1,0 +1,208 @@
+{
+  "id": "home-easy-05",
+  "slug": "home-easy-05",
+  "themeId": "home",
+  "title": "Home Word Search (Easy) #05",
+  "primaryKeyword": "home word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "FENCE",
+    "GARDEN",
+    "LAMP",
+    "LOCK",
+    "NEST",
+    "QUIET",
+    "REST",
+    "ROOF",
+    "SHELTER",
+    "WINDOW"
+  ],
+  "grid": [
+    [
+      "P",
+      "S",
+      "S",
+      "Q",
+      "U",
+      "I",
+      "E",
+      "T",
+      "R",
+      "R"
+    ],
+    [
+      "V",
+      "X",
+      "N",
+      "B",
+      "D",
+      "Z",
+      "M",
+      "Y",
+      "A",
+      "O"
+    ],
+    [
+      "G",
+      "N",
+      "E",
+      "A",
+      "J",
+      "X",
+      "H",
+      "X",
+      "S",
+      "O"
+    ],
+    [
+      "A",
+      "S",
+      "S",
+      "V",
+      "R",
+      "H",
+      "D",
+      "Y",
+      "F",
+      "F"
+    ],
+    [
+      "R",
+      "H",
+      "T",
+      "M",
+      "L",
+      "O",
+      "C",
+      "K",
+      "E",
+      "Q"
+    ],
+    [
+      "D",
+      "E",
+      "W",
+      "I",
+      "N",
+      "D",
+      "O",
+      "W",
+      "N",
+      "D"
+    ],
+    [
+      "E",
+      "L",
+      "H",
+      "R",
+      "E",
+      "S",
+      "T",
+      "F",
+      "C",
+      "Z"
+    ],
+    [
+      "N",
+      "T",
+      "S",
+      "J",
+      "R",
+      "X",
+      "T",
+      "O",
+      "E",
+      "P"
+    ],
+    [
+      "G",
+      "E",
+      "C",
+      "S",
+      "T",
+      "Z",
+      "Z",
+      "G",
+      "A",
+      "K"
+    ],
+    [
+      "X",
+      "R",
+      "L",
+      "A",
+      "M",
+      "P",
+      "W",
+      "Z",
+      "I",
+      "C"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "SHELTER",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "GARDEN",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "WINDOW",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "FENCE",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "QUIET",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "NEST",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "REST",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "LOCK",
+      "row": 4,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "ROOF",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "LAMP",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 368690751
+}

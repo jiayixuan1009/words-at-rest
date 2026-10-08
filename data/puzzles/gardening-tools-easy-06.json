@@ -1,0 +1,208 @@
+{
+  "id": "gardening-tools-easy-06",
+  "slug": "gardening-tools-easy-06",
+  "themeId": "gardening-tools",
+  "title": "Gardening Tools Word Search (Easy) #06",
+  "primaryKeyword": "gardening tools word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "APRON",
+    "CRAFT",
+    "CULTIVATOR",
+    "HAND",
+    "HAT",
+    "LOPPER",
+    "SAW",
+    "SHARPEN",
+    "SPADE",
+    "TROWEL"
+  ],
+  "grid": [
+    [
+      "C",
+      "A",
+      "K",
+      "S",
+      "P",
+      "A",
+      "D",
+      "E",
+      "M",
+      "D"
+    ],
+    [
+      "U",
+      "P",
+      "U",
+      "T",
+      "P",
+      "A",
+      "C",
+      "H",
+      "S",
+      "Q"
+    ],
+    [
+      "L",
+      "R",
+      "I",
+      "R",
+      "B",
+      "Z",
+      "R",
+      "A",
+      "H",
+      "V"
+    ],
+    [
+      "T",
+      "O",
+      "O",
+      "O",
+      "L",
+      "H",
+      "A",
+      "N",
+      "A",
+      "R"
+    ],
+    [
+      "I",
+      "N",
+      "F",
+      "W",
+      "M",
+      "A",
+      "F",
+      "D",
+      "R",
+      "X"
+    ],
+    [
+      "V",
+      "U",
+      "R",
+      "E",
+      "D",
+      "T",
+      "T",
+      "T",
+      "P",
+      "V"
+    ],
+    [
+      "A",
+      "E",
+      "Y",
+      "L",
+      "Q",
+      "P",
+      "O",
+      "C",
+      "E",
+      "R"
+    ],
+    [
+      "T",
+      "S",
+      "M",
+      "S",
+      "A",
+      "W",
+      "J",
+      "M",
+      "N",
+      "T"
+    ],
+    [
+      "O",
+      "L",
+      "O",
+      "P",
+      "P",
+      "E",
+      "R",
+      "Z",
+      "D",
+      "H"
+    ],
+    [
+      "R",
+      "R",
+      "O",
+      "S",
+      "Z",
+      "M",
+      "F",
+      "H",
+      "M",
+      "S"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CULTIVATOR",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "SHARPEN",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "LOPPER",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TROWEL",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "APRON",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SPADE",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "CRAFT",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "HAND",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "HAT",
+      "row": 3,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "SAW",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1656172340
+}

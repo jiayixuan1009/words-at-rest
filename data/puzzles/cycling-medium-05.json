@@ -1,0 +1,284 @@
+{
+  "id": "cycling-medium-05",
+  "slug": "cycling-medium-05",
+  "themeId": "cycling",
+  "title": "Cycling Word Search (Medium) #05",
+  "primaryKeyword": "cycling word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BIKE",
+    "BOTTLE",
+    "CADENCE",
+    "FORK",
+    "FRAME",
+    "GEAR",
+    "GEARING",
+    "GLOVE",
+    "HANDLE",
+    "LIGHT",
+    "LOCK",
+    "RIM",
+    "TRAIL",
+    "WHEEL"
+  ],
+  "grid": [
+    [
+      "L",
+      "O",
+      "C",
+      "K",
+      "Z",
+      "N",
+      "N",
+      "G",
+      "J",
+      "K",
+      "B",
+      "H"
+    ],
+    [
+      "S",
+      "K",
+      "H",
+      "J",
+      "G",
+      "E",
+      "A",
+      "R",
+      "I",
+      "N",
+      "G",
+      "A"
+    ],
+    [
+      "X",
+      "K",
+      "K",
+      "L",
+      "I",
+      "G",
+      "H",
+      "T",
+      "W",
+      "Y",
+      "L",
+      "N"
+    ],
+    [
+      "P",
+      "F",
+      "B",
+      "T",
+      "R",
+      "A",
+      "I",
+      "L",
+      "H",
+      "C",
+      "Q",
+      "D"
+    ],
+    [
+      "Z",
+      "R",
+      "F",
+      "W",
+      "M",
+      "Q",
+      "P",
+      "B",
+      "E",
+      "L",
+      "Z",
+      "L"
+    ],
+    [
+      "G",
+      "A",
+      "P",
+      "G",
+      "M",
+      "C",
+      "B",
+      "Q",
+      "E",
+      "M",
+      "L",
+      "E"
+    ],
+    [
+      "E",
+      "M",
+      "H",
+      "E",
+      "B",
+      "A",
+      "F",
+      "O",
+      "L",
+      "E",
+      "A",
+      "G"
+    ],
+    [
+      "V",
+      "E",
+      "M",
+      "A",
+      "I",
+      "D",
+      "O",
+      "H",
+      "T",
+      "P",
+      "S",
+      "L"
+    ],
+    [
+      "U",
+      "I",
+      "S",
+      "R",
+      "K",
+      "E",
+      "R",
+      "F",
+      "A",
+      "T",
+      "T",
+      "O"
+    ],
+    [
+      "R",
+      "A",
+      "H",
+      "B",
+      "E",
+      "N",
+      "K",
+      "B",
+      "S",
+      "M",
+      "L",
+      "V"
+    ],
+    [
+      "M",
+      "J",
+      "Z",
+      "A",
+      "K",
+      "C",
+      "N",
+      "V",
+      "N",
+      "I",
+      "R",
+      "E"
+    ],
+    [
+      "W",
+      "T",
+      "M",
+      "C",
+      "V",
+      "E",
+      "S",
+      "D",
+      "A",
+      "W",
+      "B",
+      "X"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "GEARING",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "CADENCE",
+      "row": 5,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "BOTTLE",
+      "row": 5,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "HANDLE",
+      "row": 0,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "GLOVE",
+      "row": 6,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "WHEEL",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "FRAME",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "LIGHT",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "TRAIL",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "LOCK",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BIKE",
+      "row": 6,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "FORK",
+      "row": 6,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "GEAR",
+      "row": 5,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "RIM",
+      "row": 9,
+      "col": 0,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1531605773
+}

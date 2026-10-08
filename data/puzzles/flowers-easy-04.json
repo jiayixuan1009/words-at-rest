@@ -1,0 +1,208 @@
+{
+  "id": "flowers-easy-04",
+  "slug": "flowers-easy-04",
+  "themeId": "flowers",
+  "title": "Flowers Word Search (Easy) #04",
+  "primaryKeyword": "flowers word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ASTER",
+    "BLOOM",
+    "BUTTERFLY",
+    "CAMELLIA",
+    "GARDEN",
+    "HYACINTH",
+    "LAVENDER",
+    "MUM",
+    "STEM",
+    "WISTERIA"
+  ],
+  "grid": [
+    [
+      "X",
+      "M",
+      "C",
+      "F",
+      "B",
+      "N",
+      "P",
+      "Z",
+      "H",
+      "N"
+    ],
+    [
+      "Y",
+      "A",
+      "A",
+      "R",
+      "U",
+      "C",
+      "O",
+      "J",
+      "Y",
+      "L"
+    ],
+    [
+      "W",
+      "S",
+      "M",
+      "S",
+      "T",
+      "R",
+      "R",
+      "T",
+      "A",
+      "A"
+    ],
+    [
+      "I",
+      "T",
+      "E",
+      "B",
+      "T",
+      "Q",
+      "G",
+      "V",
+      "C",
+      "V"
+    ],
+    [
+      "S",
+      "E",
+      "L",
+      "L",
+      "E",
+      "Z",
+      "A",
+      "Q",
+      "I",
+      "E"
+    ],
+    [
+      "T",
+      "M",
+      "L",
+      "O",
+      "R",
+      "I",
+      "R",
+      "F",
+      "N",
+      "N"
+    ],
+    [
+      "E",
+      "L",
+      "I",
+      "O",
+      "F",
+      "M",
+      "D",
+      "J",
+      "T",
+      "D"
+    ],
+    [
+      "R",
+      "S",
+      "A",
+      "M",
+      "L",
+      "U",
+      "E",
+      "C",
+      "H",
+      "E"
+    ],
+    [
+      "I",
+      "J",
+      "M",
+      "A",
+      "Y",
+      "M",
+      "N",
+      "H",
+      "U",
+      "R"
+    ],
+    [
+      "A",
+      "F",
+      "X",
+      "K",
+      "A",
+      "S",
+      "T",
+      "E",
+      "R",
+      "U"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BUTTERFLY",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "HYACINTH",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "LAVENDER",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "CAMELLIA",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "WISTERIA",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "GARDEN",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "BLOOM",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "ASTER",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "STEM",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "MUM",
+      "row": 6,
+      "col": 5,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 743673190
+}

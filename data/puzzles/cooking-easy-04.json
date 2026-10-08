@@ -1,0 +1,208 @@
+{
+  "id": "cooking-easy-04",
+  "slug": "cooking-easy-04",
+  "themeId": "cooking",
+  "title": "Cooking Word Search (Easy) #04",
+  "primaryKeyword": "cooking word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BOIL",
+    "BROTH",
+    "GRATE",
+    "GRAVY",
+    "PEPPER",
+    "SLICE",
+    "STEAM",
+    "STIR",
+    "STOCK",
+    "STOVE"
+  ],
+  "grid": [
+    [
+      "J",
+      "Q",
+      "F",
+      "E",
+      "H",
+      "S",
+      "T",
+      "O",
+      "V",
+      "E"
+    ],
+    [
+      "H",
+      "R",
+      "I",
+      "H",
+      "N",
+      "B",
+      "G",
+      "N",
+      "W",
+      "L"
+    ],
+    [
+      "M",
+      "X",
+      "R",
+      "R",
+      "O",
+      "F",
+      "R",
+      "Q",
+      "Q",
+      "V"
+    ],
+    [
+      "T",
+      "B",
+      "Q",
+      "L",
+      "R",
+      "S",
+      "A",
+      "S",
+      "S",
+      "W"
+    ],
+    [
+      "F",
+      "X",
+      "N",
+      "C",
+      "I",
+      "T",
+      "T",
+      "T",
+      "L",
+      "P"
+    ],
+    [
+      "G",
+      "R",
+      "A",
+      "V",
+      "Y",
+      "E",
+      "E",
+      "I",
+      "I",
+      "E"
+    ],
+    [
+      "S",
+      "B",
+      "O",
+      "I",
+      "L",
+      "A",
+      "E",
+      "R",
+      "C",
+      "P"
+    ],
+    [
+      "Y",
+      "Q",
+      "Y",
+      "C",
+      "H",
+      "M",
+      "Z",
+      "C",
+      "E",
+      "P"
+    ],
+    [
+      "Z",
+      "S",
+      "T",
+      "O",
+      "C",
+      "K",
+      "Q",
+      "K",
+      "C",
+      "E"
+    ],
+    [
+      "B",
+      "R",
+      "O",
+      "T",
+      "H",
+      "B",
+      "J",
+      "I",
+      "E",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PEPPER",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "GRAVY",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "GRATE",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "SLICE",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "STEAM",
+      "row": 3,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "BROTH",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "STOCK",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "STOVE",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "BOIL",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "STIR",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 436379466
+}

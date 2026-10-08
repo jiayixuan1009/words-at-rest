@@ -1,0 +1,284 @@
+{
+  "id": "colors-medium-04",
+  "slug": "colors-medium-04",
+  "themeId": "colors",
+  "title": "Colors Word Search (Medium) #04",
+  "primaryKeyword": "colors word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "AMBER",
+    "AQUA",
+    "BRONZE",
+    "BROWN",
+    "LAVENDER",
+    "LIME",
+    "MINT",
+    "ORANGE",
+    "PINK",
+    "PLUM",
+    "ROSE",
+    "RUST",
+    "SKY",
+    "WHITE"
+  ],
+  "grid": [
+    [
+      "O",
+      "E",
+      "M",
+      "I",
+      "N",
+      "T",
+      "R",
+      "O",
+      "S",
+      "E",
+      "V",
+      "A"
+    ],
+    [
+      "U",
+      "J",
+      "P",
+      "G",
+      "E",
+      "H",
+      "J",
+      "B",
+      "T",
+      "W",
+      "Z",
+      "W"
+    ],
+    [
+      "U",
+      "A",
+      "S",
+      "I",
+      "E",
+      "P",
+      "H",
+      "U",
+      "R",
+      "M",
+      "Q",
+      "G"
+    ],
+    [
+      "B",
+      "J",
+      "B",
+      "T",
+      "N",
+      "N",
+      "Z",
+      "A",
+      "X",
+      "O",
+      "C",
+      "B"
+    ],
+    [
+      "L",
+      "D",
+      "C",
+      "R",
+      "H",
+      "K",
+      "Y",
+      "M",
+      "H",
+      "O",
+      "W",
+      "E"
+    ],
+    [
+      "O",
+      "A",
+      "U",
+      "P",
+      "O",
+      "J",
+      "V",
+      "B",
+      "A",
+      "O",
+      "M",
+      "N"
+    ],
+    [
+      "F",
+      "R",
+      "V",
+      "H",
+      "L",
+      "N",
+      "I",
+      "E",
+      "S",
+      "I",
+      "Z",
+      "R"
+    ],
+    [
+      "J",
+      "A",
+      "A",
+      "E",
+      "W",
+      "U",
+      "Z",
+      "R",
+      "L",
+      "K",
+      "K",
+      "D"
+    ],
+    [
+      "A",
+      "R",
+      "Z",
+      "N",
+      "N",
+      "H",
+      "M",
+      "E",
+      "G",
+      "C",
+      "Y",
+      "Z"
+    ],
+    [
+      "U",
+      "Q",
+      "K",
+      "P",
+      "G",
+      "D",
+      "I",
+      "R",
+      "U",
+      "S",
+      "T",
+      "B"
+    ],
+    [
+      "M",
+      "H",
+      "U",
+      "A",
+      "H",
+      "E",
+      "E",
+      "T",
+      "R",
+      "B",
+      "P",
+      "G"
+    ],
+    [
+      "I",
+      "H",
+      "B",
+      "A",
+      "Q",
+      "T",
+      "E",
+      "R",
+      "E",
+      "Y",
+      "I",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "LAVENDER",
+      "row": 4,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "ORANGE",
+      "row": 5,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "BRONZE",
+      "row": 3,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "AMBER",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "WHITE",
+      "row": 7,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "BROWN",
+      "row": 1,
+      "col": 7,
+      "direction": "SE"
+    },
+    {
+      "word": "RUST",
+      "row": 9,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "PINK",
+      "row": 1,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "LIME",
+      "row": 7,
+      "col": 8,
+      "direction": "NE"
+    },
+    {
+      "word": "PLUM",
+      "row": 5,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "AQUA",
+      "row": 8,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "MINT",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ROSE",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "SKY",
+      "row": 6,
+      "col": 8,
+      "direction": "SE"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 201492800
+}

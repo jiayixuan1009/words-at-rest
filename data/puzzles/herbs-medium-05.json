@@ -1,0 +1,284 @@
+{
+  "id": "herbs-medium-05",
+  "slug": "herbs-medium-05",
+  "themeId": "herbs",
+  "title": "Herbs & Spices Word Search (Medium) #05",
+  "primaryKeyword": "herbs and spices word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "CLOVE",
+    "CORIANDER",
+    "FENNEL",
+    "GARLIC",
+    "GINGER",
+    "HERB",
+    "ONION",
+    "PAPRIKA",
+    "PARSLEY",
+    "ROSEMARY",
+    "SAGE",
+    "SPICE",
+    "TARRAGON",
+    "THYME"
+  ],
+  "grid": [
+    [
+      "Z",
+      "D",
+      "R",
+      "X",
+      "T",
+      "A",
+      "E",
+      "C",
+      "H",
+      "S",
+      "I",
+      "P"
+    ],
+    [
+      "G",
+      "J",
+      "I",
+      "R",
+      "I",
+      "M",
+      "I",
+      "N",
+      "H",
+      "Z",
+      "B",
+      "L"
+    ],
+    [
+      "G",
+      "B",
+      "S",
+      "L",
+      "Y",
+      "L",
+      "O",
+      "E",
+      "E",
+      "R",
+      "Y",
+      "L"
+    ],
+    [
+      "I",
+      "G",
+      "S",
+      "H",
+      "R",
+      "G",
+      "G",
+      "V",
+      "E",
+      "E",
+      "O",
+      "A"
+    ],
+    [
+      "N",
+      "S",
+      "T",
+      "A",
+      "A",
+      "A",
+      "O",
+      "D",
+      "L",
+      "X",
+      "P",
+      "B"
+    ],
+    [
+      "G",
+      "G",
+      "G",
+      "R",
+      "S",
+      "L",
+      "N",
+      "S",
+      "S",
+      "S",
+      "A",
+      "N"
+    ],
+    [
+      "E",
+      "D",
+      "R",
+      "B",
+      "C",
+      "A",
+      "R",
+      "O",
+      "Z",
+      "P",
+      "P",
+      "I"
+    ],
+    [
+      "R",
+      "A",
+      "R",
+      "B",
+      "I",
+      "A",
+      "V",
+      "N",
+      "Y",
+      "I",
+      "R",
+      "O"
+    ],
+    [
+      "T",
+      "E",
+      "G",
+      "R",
+      "P",
+      "N",
+      "H",
+      "I",
+      "I",
+      "C",
+      "I",
+      "Y"
+    ],
+    [
+      "H",
+      "C",
+      "O",
+      "F",
+      "O",
+      "F",
+      "P",
+      "O",
+      "D",
+      "E",
+      "K",
+      "D"
+    ],
+    [
+      "O",
+      "C",
+      "A",
+      "M",
+      "F",
+      "E",
+      "N",
+      "N",
+      "E",
+      "L",
+      "A",
+      "C"
+    ],
+    [
+      "W",
+      "K",
+      "C",
+      "R",
+      "O",
+      "S",
+      "E",
+      "M",
+      "A",
+      "R",
+      "Y",
+      "X"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CORIANDER",
+      "row": 10,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "ROSEMARY",
+      "row": 11,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "TARRAGON",
+      "row": 8,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "PARSLEY",
+      "row": 8,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "PAPRIKA",
+      "row": 4,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "FENNEL",
+      "row": 10,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "GINGER",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "GARLIC",
+      "row": 5,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "THYME",
+      "row": 4,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "SPICE",
+      "row": 5,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "CLOVE",
+      "row": 6,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "ONION",
+      "row": 6,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SAGE",
+      "row": 5,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "HERB",
+      "row": 9,
+      "col": 0,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 469356465
+}

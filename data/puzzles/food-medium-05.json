@@ -1,0 +1,284 @@
+{
+  "id": "food-medium-05",
+  "slug": "food-medium-05",
+  "themeId": "food",
+  "title": "Food Word Search (Medium) #05",
+  "primaryKeyword": "food word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BROTH",
+    "EGG",
+    "FLOUR",
+    "GARLIC",
+    "MANGO",
+    "MILK",
+    "MUSHROOM",
+    "OAT",
+    "PEACH",
+    "RISOTTO",
+    "STEW",
+    "TEA",
+    "THYME",
+    "TOAST"
+  ],
+  "grid": [
+    [
+      "K",
+      "T",
+      "O",
+      "A",
+      "S",
+      "T",
+      "R",
+      "I",
+      "I",
+      "D",
+      "C",
+      "S"
+    ],
+    [
+      "J",
+      "J",
+      "P",
+      "X",
+      "S",
+      "V",
+      "M",
+      "A",
+      "N",
+      "G",
+      "O",
+      "M"
+    ],
+    [
+      "J",
+      "Z",
+      "L",
+      "P",
+      "I",
+      "N",
+      "K",
+      "I",
+      "T",
+      "Y",
+      "I",
+      "H"
+    ],
+    [
+      "Y",
+      "Y",
+      "P",
+      "F",
+      "L",
+      "O",
+      "U",
+      "R",
+      "L",
+      "P",
+      "L",
+      "N"
+    ],
+    [
+      "G",
+      "U",
+      "R",
+      "I",
+      "S",
+      "O",
+      "T",
+      "T",
+      "O",
+      "K",
+      "M",
+      "T"
+    ],
+    [
+      "F",
+      "H",
+      "P",
+      "B",
+      "T",
+      "C",
+      "O",
+      "G",
+      "H",
+      "O",
+      "M",
+      "H"
+    ],
+    [
+      "A",
+      "Y",
+      "Y",
+      "A",
+      "Z",
+      "E",
+      "G",
+      "T",
+      "O",
+      "H",
+      "G",
+      "Y"
+    ],
+    [
+      "J",
+      "B",
+      "E",
+      "E",
+      "G",
+      "G",
+      "O",
+      "R",
+      "C",
+      "T",
+      "A",
+      "M"
+    ],
+    [
+      "W",
+      "T",
+      "M",
+      "B",
+      "K",
+      "R",
+      "H",
+      "A",
+      "G",
+      "A",
+      "R",
+      "E"
+    ],
+    [
+      "F",
+      "O",
+      "A",
+      "T",
+      "B",
+      "S",
+      "E",
+      "V",
+      "W",
+      "O",
+      "L",
+      "W"
+    ],
+    [
+      "P",
+      "J",
+      "E",
+      "B",
+      "U",
+      "P",
+      "S",
+      "T",
+      "E",
+      "W",
+      "I",
+      "K"
+    ],
+    [
+      "E",
+      "V",
+      "T",
+      "M",
+      "L",
+      "D",
+      "N",
+      "M",
+      "H",
+      "A",
+      "C",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "MUSHROOM",
+      "row": 11,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "RISOTTO",
+      "row": 4,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "GARLIC",
+      "row": 6,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "THYME",
+      "row": 4,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "PEACH",
+      "row": 10,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "BROTH",
+      "row": 9,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "TOAST",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "FLOUR",
+      "row": 3,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "MANGO",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "STEW",
+      "row": 10,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "MILK",
+      "row": 1,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "EGG",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "TEA",
+      "row": 8,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "OAT",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 1302891400
+}

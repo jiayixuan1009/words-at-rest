@@ -1,0 +1,208 @@
+{
+  "id": "camping-easy-04",
+  "slug": "camping-easy-04",
+  "themeId": "camping",
+  "title": "Camping Word Search (Easy) #04",
+  "primaryKeyword": "camping word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ASH",
+    "COOK",
+    "KNIFE",
+    "NIGHT",
+    "PATH",
+    "PEG",
+    "RIVER",
+    "SNACK",
+    "STOW",
+    "WHISTLE"
+  ],
+  "grid": [
+    [
+      "B",
+      "S",
+      "I",
+      "E",
+      "X",
+      "N",
+      "N",
+      "C",
+      "C",
+      "C"
+    ],
+    [
+      "W",
+      "N",
+      "Z",
+      "Q",
+      "Y",
+      "I",
+      "I",
+      "V",
+      "O",
+      "M"
+    ],
+    [
+      "H",
+      "A",
+      "Q",
+      "G",
+      "K",
+      "G",
+      "W",
+      "F",
+      "O",
+      "T"
+    ],
+    [
+      "Z",
+      "C",
+      "K",
+      "K",
+      "N",
+      "H",
+      "H",
+      "H",
+      "K",
+      "U"
+    ],
+    [
+      "W",
+      "K",
+      "K",
+      "P",
+      "I",
+      "T",
+      "I",
+      "F",
+      "J",
+      "Y"
+    ],
+    [
+      "A",
+      "S",
+      "H",
+      "A",
+      "F",
+      "T",
+      "S",
+      "S",
+      "L",
+      "B"
+    ],
+    [
+      "R",
+      "D",
+      "L",
+      "T",
+      "E",
+      "P",
+      "T",
+      "T",
+      "D",
+      "D"
+    ],
+    [
+      "T",
+      "P",
+      "X",
+      "H",
+      "C",
+      "I",
+      "L",
+      "O",
+      "I",
+      "X"
+    ],
+    [
+      "X",
+      "E",
+      "H",
+      "J",
+      "X",
+      "F",
+      "E",
+      "W",
+      "C",
+      "R"
+    ],
+    [
+      "Z",
+      "G",
+      "R",
+      "I",
+      "V",
+      "E",
+      "R",
+      "K",
+      "G",
+      "Q"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "WHISTLE",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "NIGHT",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "SNACK",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "KNIFE",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "RIVER",
+      "row": 9,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "STOW",
+      "row": 5,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "PATH",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "COOK",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "ASH",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "PEG",
+      "row": 7,
+      "col": 1,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 416960044
+}

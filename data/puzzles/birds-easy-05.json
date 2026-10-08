@@ -1,0 +1,208 @@
+{
+  "id": "birds-easy-05",
+  "slug": "birds-easy-05",
+  "themeId": "birds",
+  "title": "Birds Word Search (Easy) #05",
+  "primaryKeyword": "birds word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CHICK",
+    "CLOUD",
+    "DUCK",
+    "FEATHER",
+    "GOOSE",
+    "HAWK",
+    "MIGRATION",
+    "NEST",
+    "NUTHATCH",
+    "WING"
+  ],
+  "grid": [
+    [
+      "S",
+      "M",
+      "N",
+      "S",
+      "H",
+      "R",
+      "K",
+      "J",
+      "F",
+      "S"
+    ],
+    [
+      "D",
+      "I",
+      "U",
+      "N",
+      "U",
+      "F",
+      "W",
+      "X",
+      "E",
+      "E"
+    ],
+    [
+      "H",
+      "G",
+      "T",
+      "E",
+      "J",
+      "X",
+      "I",
+      "V",
+      "A",
+      "C"
+    ],
+    [
+      "A",
+      "R",
+      "H",
+      "S",
+      "Y",
+      "F",
+      "N",
+      "X",
+      "T",
+      "H"
+    ],
+    [
+      "W",
+      "A",
+      "A",
+      "T",
+      "P",
+      "H",
+      "G",
+      "S",
+      "H",
+      "I"
+    ],
+    [
+      "K",
+      "T",
+      "T",
+      "V",
+      "Q",
+      "I",
+      "K",
+      "F",
+      "E",
+      "C"
+    ],
+    [
+      "E",
+      "I",
+      "C",
+      "C",
+      "L",
+      "O",
+      "U",
+      "D",
+      "R",
+      "K"
+    ],
+    [
+      "X",
+      "O",
+      "H",
+      "F",
+      "G",
+      "G",
+      "O",
+      "O",
+      "S",
+      "E"
+    ],
+    [
+      "D",
+      "N",
+      "V",
+      "J",
+      "D",
+      "R",
+      "Z",
+      "B",
+      "E",
+      "L"
+    ],
+    [
+      "D",
+      "U",
+      "C",
+      "K",
+      "K",
+      "G",
+      "E",
+      "I",
+      "R",
+      "K"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "MIGRATION",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "NUTHATCH",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "FEATHER",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "CLOUD",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "GOOSE",
+      "row": 7,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "CHICK",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "HAWK",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "DUCK",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "NEST",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "WING",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 661308081
+}

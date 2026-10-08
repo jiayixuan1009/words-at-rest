@@ -1,0 +1,208 @@
+{
+  "id": "board-games-easy-08",
+  "slug": "board-games-easy-08",
+  "themeId": "board-games",
+  "title": "Board Games Word Search (Easy) #08",
+  "primaryKeyword": "board games word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "COZY",
+    "DEAL",
+    "FRIEND",
+    "HAND",
+    "MARKET",
+    "PATH",
+    "ROLL",
+    "TIE",
+    "TRADE",
+    "WIN"
+  ],
+  "grid": [
+    [
+      "W",
+      "I",
+      "N",
+      "D",
+      "S",
+      "K",
+      "M",
+      "Q",
+      "Z",
+      "R"
+    ],
+    [
+      "O",
+      "W",
+      "Q",
+      "T",
+      "X",
+      "Q",
+      "S",
+      "L",
+      "C",
+      "P"
+    ],
+    [
+      "D",
+      "M",
+      "A",
+      "R",
+      "K",
+      "E",
+      "T",
+      "T",
+      "Z",
+      "A"
+    ],
+    [
+      "B",
+      "W",
+      "M",
+      "A",
+      "N",
+      "S",
+      "N",
+      "I",
+      "H",
+      "T"
+    ],
+    [
+      "F",
+      "W",
+      "L",
+      "D",
+      "V",
+      "Z",
+      "Q",
+      "E",
+      "A",
+      "H"
+    ],
+    [
+      "R",
+      "R",
+      "C",
+      "E",
+      "P",
+      "T",
+      "B",
+      "F",
+      "N",
+      "T"
+    ],
+    [
+      "I",
+      "O",
+      "O",
+      "I",
+      "B",
+      "F",
+      "I",
+      "E",
+      "D",
+      "Q"
+    ],
+    [
+      "E",
+      "L",
+      "Z",
+      "X",
+      "O",
+      "U",
+      "N",
+      "J",
+      "R",
+      "T"
+    ],
+    [
+      "N",
+      "L",
+      "Y",
+      "C",
+      "N",
+      "C",
+      "H",
+      "A",
+      "O",
+      "O"
+    ],
+    [
+      "D",
+      "D",
+      "E",
+      "A",
+      "L",
+      "J",
+      "Q",
+      "D",
+      "Z",
+      "I"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FRIEND",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "MARKET",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TRADE",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "PATH",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "DEAL",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "COZY",
+      "row": 5,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "ROLL",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "HAND",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "TIE",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "WIN",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 702219195
+}

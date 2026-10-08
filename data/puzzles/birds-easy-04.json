@@ -1,0 +1,208 @@
+{
+  "id": "birds-easy-04",
+  "slug": "birds-easy-04",
+  "themeId": "birds",
+  "title": "Birds Word Search (Easy) #04",
+  "primaryKeyword": "birds word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BLUEJAY",
+    "CHICKADEE",
+    "EGRET",
+    "MIGRATION",
+    "SKY",
+    "SONG",
+    "STARLING",
+    "SWAN",
+    "THRUSH",
+    "WARBLER"
+  ],
+  "grid": [
+    [
+      "E",
+      "G",
+      "R",
+      "E",
+      "T",
+      "F",
+      "T",
+      "S",
+      "V",
+      "L"
+    ],
+    [
+      "C",
+      "H",
+      "I",
+      "C",
+      "K",
+      "A",
+      "D",
+      "E",
+      "E",
+      "X"
+    ],
+    [
+      "U",
+      "S",
+      "T",
+      "A",
+      "R",
+      "L",
+      "I",
+      "N",
+      "G",
+      "S"
+    ],
+    [
+      "M",
+      "T",
+      "H",
+      "R",
+      "U",
+      "S",
+      "H",
+      "A",
+      "K",
+      "S"
+    ],
+    [
+      "F",
+      "S",
+      "O",
+      "N",
+      "G",
+      "X",
+      "G",
+      "V",
+      "K",
+      "G"
+    ],
+    [
+      "M",
+      "I",
+      "G",
+      "R",
+      "A",
+      "T",
+      "I",
+      "O",
+      "N",
+      "N"
+    ],
+    [
+      "D",
+      "V",
+      "T",
+      "E",
+      "S",
+      "W",
+      "A",
+      "N",
+      "S",
+      "N"
+    ],
+    [
+      "T",
+      "I",
+      "B",
+      "L",
+      "U",
+      "E",
+      "J",
+      "A",
+      "Y",
+      "S"
+    ],
+    [
+      "X",
+      "M",
+      "W",
+      "A",
+      "R",
+      "B",
+      "L",
+      "E",
+      "R",
+      "K"
+    ],
+    [
+      "T",
+      "G",
+      "R",
+      "V",
+      "L",
+      "W",
+      "B",
+      "L",
+      "Z",
+      "Y"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "MIGRATION",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "CHICKADEE",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "STARLING",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "WARBLER",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BLUEJAY",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "THRUSH",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "EGRET",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SWAN",
+      "row": 6,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "SONG",
+      "row": 4,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SKY",
+      "row": 7,
+      "col": 9,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 584736234
+}

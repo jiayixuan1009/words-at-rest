@@ -1,0 +1,284 @@
+{
+  "id": "birdwatching-medium-06",
+  "slug": "birdwatching-medium-06",
+  "themeId": "birdwatching",
+  "title": "Birdwatching Word Search (Medium) #06",
+  "primaryKeyword": "birdwatching word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BLIND",
+    "CALL",
+    "CHIRP",
+    "GUIDE",
+    "LIST",
+    "MIGRATE",
+    "NOTE",
+    "PERCH",
+    "QUIET",
+    "SCOPE",
+    "SOAR",
+    "SWAN",
+    "WATER",
+    "WING"
+  ],
+  "grid": [
+    [
+      "K",
+      "Q",
+      "H",
+      "O",
+      "N",
+      "H",
+      "G",
+      "U",
+      "I",
+      "D",
+      "E",
+      "M"
+    ],
+    [
+      "U",
+      "Q",
+      "U",
+      "I",
+      "E",
+      "T",
+      "T",
+      "T",
+      "E",
+      "F",
+      "K",
+      "Z"
+    ],
+    [
+      "S",
+      "W",
+      "O",
+      "H",
+      "I",
+      "M",
+      "E",
+      "F",
+      "T",
+      "W",
+      "V",
+      "C"
+    ],
+    [
+      "C",
+      "A",
+      "B",
+      "C",
+      "F",
+      "T",
+      "I",
+      "X",
+      "O",
+      "I",
+      "U",
+      "H"
+    ],
+    [
+      "O",
+      "T",
+      "L",
+      "K",
+      "O",
+      "S",
+      "S",
+      "G",
+      "R",
+      "N",
+      "V",
+      "I"
+    ],
+    [
+      "P",
+      "E",
+      "U",
+      "N",
+      "Y",
+      "P",
+      "O",
+      "N",
+      "R",
+      "G",
+      "R",
+      "R"
+    ],
+    [
+      "E",
+      "R",
+      "T",
+      "L",
+      "B",
+      "E",
+      "U",
+      "A",
+      "D",
+      "A",
+      "V",
+      "P"
+    ],
+    [
+      "J",
+      "K",
+      "L",
+      "J",
+      "M",
+      "R",
+      "C",
+      "J",
+      "R",
+      "O",
+      "T",
+      "A"
+    ],
+    [
+      "L",
+      "A",
+      "L",
+      "G",
+      "Z",
+      "C",
+      "O",
+      "N",
+      "H",
+      "R",
+      "I",
+      "E"
+    ],
+    [
+      "C",
+      "I",
+      "U",
+      "W",
+      "A",
+      "H",
+      "A",
+      "B",
+      "L",
+      "I",
+      "N",
+      "D"
+    ],
+    [
+      "F",
+      "M",
+      "S",
+      "J",
+      "F",
+      "W",
+      "S",
+      "B",
+      "R",
+      "P",
+      "G",
+      "O"
+    ],
+    [
+      "W",
+      "W",
+      "F",
+      "T",
+      "S",
+      "O",
+      "J",
+      "Q",
+      "D",
+      "D",
+      "B",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "MIGRATE",
+      "row": 2,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "BLIND",
+      "row": 9,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "WATER",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "PERCH",
+      "row": 5,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "CHIRP",
+      "row": 2,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "QUIET",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SCOPE",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "GUIDE",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "LIST",
+      "row": 8,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "CALL",
+      "row": 9,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "SOAR",
+      "row": 4,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "NOTE",
+      "row": 5,
+      "col": 3,
+      "direction": "NE"
+    },
+    {
+      "word": "SWAN",
+      "row": 11,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "WING",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 786412641
+}

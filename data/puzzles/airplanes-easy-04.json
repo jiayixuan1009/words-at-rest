@@ -1,0 +1,208 @@
+{
+  "id": "airplanes-easy-04",
+  "slug": "airplanes-easy-04",
+  "themeId": "airplanes",
+  "title": "Airplanes Word Search (Easy) #04",
+  "primaryKeyword": "airplanes word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ATTENDANT",
+    "BAG",
+    "CLOUD",
+    "GATE",
+    "HORIZON",
+    "LANDING",
+    "LUGGAGE",
+    "MAP",
+    "TURBULENCE",
+    "WING"
+  ],
+  "grid": [
+    [
+      "Y",
+      "F",
+      "E",
+      "T",
+      "W",
+      "I",
+      "N",
+      "G",
+      "K",
+      "E"
+    ],
+    [
+      "M",
+      "W",
+      "K",
+      "U",
+      "H",
+      "H",
+      "L",
+      "U",
+      "X",
+      "A"
+    ],
+    [
+      "M",
+      "A",
+      "P",
+      "R",
+      "M",
+      "O",
+      "U",
+      "R",
+      "I",
+      "T"
+    ],
+    [
+      "B",
+      "A",
+      "G",
+      "B",
+      "G",
+      "R",
+      "G",
+      "L",
+      "D",
+      "T"
+    ],
+    [
+      "U",
+      "C",
+      "R",
+      "U",
+      "A",
+      "I",
+      "G",
+      "A",
+      "S",
+      "E"
+    ],
+    [
+      "L",
+      "L",
+      "Q",
+      "L",
+      "T",
+      "Z",
+      "A",
+      "N",
+      "B",
+      "N"
+    ],
+    [
+      "P",
+      "O",
+      "H",
+      "E",
+      "E",
+      "O",
+      "G",
+      "D",
+      "M",
+      "D"
+    ],
+    [
+      "V",
+      "U",
+      "T",
+      "N",
+      "O",
+      "N",
+      "E",
+      "I",
+      "F",
+      "A"
+    ],
+    [
+      "P",
+      "D",
+      "V",
+      "C",
+      "X",
+      "J",
+      "A",
+      "N",
+      "B",
+      "N"
+    ],
+    [
+      "P",
+      "J",
+      "H",
+      "E",
+      "O",
+      "O",
+      "F",
+      "G",
+      "U",
+      "T"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TURBULENCE",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "ATTENDANT",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "LUGGAGE",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "LANDING",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "HORIZON",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "CLOUD",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "GATE",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "WING",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "MAP",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BAG",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 689479603
+}

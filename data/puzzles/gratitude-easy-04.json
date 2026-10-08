@@ -1,0 +1,208 @@
+{
+  "id": "gratitude-easy-04",
+  "slug": "gratitude-easy-04",
+  "themeId": "gratitude",
+  "title": "Gratitude Word Search (Easy) #04",
+  "primaryKeyword": "gratitude word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BLESSING",
+    "CARE",
+    "DAWN",
+    "FAITH",
+    "FRIEND",
+    "HEALTH",
+    "LAUGH",
+    "MORNING",
+    "SUPPORT",
+    "THANKFUL"
+  ],
+  "grid": [
+    [
+      "M",
+      "T",
+      "H",
+      "A",
+      "N",
+      "K",
+      "F",
+      "U",
+      "L",
+      "I"
+    ],
+    [
+      "O",
+      "R",
+      "B",
+      "L",
+      "P",
+      "C",
+      "R",
+      "F",
+      "C",
+      "J"
+    ],
+    [
+      "R",
+      "N",
+      "L",
+      "A",
+      "V",
+      "W",
+      "H",
+      "A",
+      "A",
+      "X"
+    ],
+    [
+      "N",
+      "N",
+      "E",
+      "U",
+      "F",
+      "Q",
+      "E",
+      "I",
+      "R",
+      "F"
+    ],
+    [
+      "I",
+      "V",
+      "S",
+      "G",
+      "R",
+      "E",
+      "A",
+      "T",
+      "E",
+      "D"
+    ],
+    [
+      "N",
+      "N",
+      "S",
+      "H",
+      "I",
+      "P",
+      "L",
+      "H",
+      "P",
+      "A"
+    ],
+    [
+      "G",
+      "D",
+      "I",
+      "A",
+      "E",
+      "I",
+      "T",
+      "H",
+      "N",
+      "W"
+    ],
+    [
+      "P",
+      "K",
+      "N",
+      "L",
+      "N",
+      "Y",
+      "H",
+      "H",
+      "G",
+      "N"
+    ],
+    [
+      "I",
+      "W",
+      "G",
+      "S",
+      "D",
+      "Y",
+      "Q",
+      "D",
+      "N",
+      "X"
+    ],
+    [
+      "L",
+      "S",
+      "U",
+      "P",
+      "P",
+      "O",
+      "R",
+      "T",
+      "C",
+      "A"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BLESSING",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "THANKFUL",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SUPPORT",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "MORNING",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "FRIEND",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "HEALTH",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "FAITH",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "LAUGH",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "CARE",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "DAWN",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 623117855
+}

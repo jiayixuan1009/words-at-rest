@@ -1,0 +1,208 @@
+{
+  "id": "classical-easy-07",
+  "slug": "classical-easy-07",
+  "themeId": "classical",
+  "title": "Classical Word Search (Easy) #07",
+  "primaryKeyword": "classical music word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ADAGIO",
+    "ANDANTE",
+    "ARIA",
+    "FUGUE",
+    "OVERTURE",
+    "QUARTET",
+    "SYMPHONY",
+    "THEME",
+    "VARIATION",
+    "VIVACE"
+  ],
+  "grid": [
+    [
+      "K",
+      "O",
+      "V",
+      "E",
+      "R",
+      "T",
+      "U",
+      "R",
+      "E",
+      "Y"
+    ],
+    [
+      "Q",
+      "E",
+      "A",
+      "N",
+      "F",
+      "U",
+      "G",
+      "U",
+      "E",
+      "D"
+    ],
+    [
+      "V",
+      "V",
+      "H",
+      "B",
+      "A",
+      "R",
+      "I",
+      "A",
+      "D",
+      "W"
+    ],
+    [
+      "A",
+      "V",
+      "A",
+      "R",
+      "I",
+      "A",
+      "T",
+      "I",
+      "O",
+      "N"
+    ],
+    [
+      "D",
+      "I",
+      "O",
+      "W",
+      "V",
+      "W",
+      "A",
+      "N",
+      "H",
+      "K"
+    ],
+    [
+      "A",
+      "V",
+      "E",
+      "X",
+      "Z",
+      "K",
+      "A",
+      "L",
+      "R",
+      "F"
+    ],
+    [
+      "G",
+      "A",
+      "F",
+      "T",
+      "H",
+      "E",
+      "M",
+      "E",
+      "Q",
+      "R"
+    ],
+    [
+      "I",
+      "C",
+      "R",
+      "Q",
+      "U",
+      "A",
+      "R",
+      "T",
+      "E",
+      "T"
+    ],
+    [
+      "O",
+      "E",
+      "A",
+      "N",
+      "D",
+      "A",
+      "N",
+      "T",
+      "E",
+      "C"
+    ],
+    [
+      "W",
+      "S",
+      "Y",
+      "M",
+      "P",
+      "H",
+      "O",
+      "N",
+      "Y",
+      "H"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "VARIATION",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SYMPHONY",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "OVERTURE",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "ANDANTE",
+      "row": 8,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "QUARTET",
+      "row": 7,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "ADAGIO",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "VIVACE",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "FUGUE",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "THEME",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "ARIA",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 4226482626
+}

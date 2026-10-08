@@ -1,0 +1,208 @@
+{
+  "id": "gardening-tools-easy-05",
+  "slug": "gardening-tools-easy-05",
+  "themeId": "gardening-tools",
+  "title": "Gardening Tools Word Search (Easy) #05",
+  "primaryKeyword": "gardening tools word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CART",
+    "CLEAN",
+    "CLIPPERS",
+    "COLDFRAME",
+    "DIBBER",
+    "HOE",
+    "PRUNER",
+    "SHED",
+    "STAKE",
+    "TRAY"
+  ],
+  "grid": [
+    [
+      "C",
+      "C",
+      "I",
+      "B",
+      "Q",
+      "R",
+      "H",
+      "H",
+      "O",
+      "E"
+    ],
+    [
+      "L",
+      "S",
+      "T",
+      "A",
+      "K",
+      "E",
+      "Q",
+      "C",
+      "K",
+      "U"
+    ],
+    [
+      "I",
+      "J",
+      "K",
+      "O",
+      "F",
+      "D",
+      "P",
+      "O",
+      "Z",
+      "O"
+    ],
+    [
+      "P",
+      "D",
+      "K",
+      "D",
+      "C",
+      "P",
+      "W",
+      "L",
+      "A",
+      "C"
+    ],
+    [
+      "P",
+      "I",
+      "T",
+      "C",
+      "A",
+      "R",
+      "P",
+      "D",
+      "N",
+      "L"
+    ],
+    [
+      "E",
+      "B",
+      "R",
+      "E",
+      "R",
+      "U",
+      "G",
+      "F",
+      "D",
+      "E"
+    ],
+    [
+      "R",
+      "B",
+      "A",
+      "C",
+      "T",
+      "N",
+      "U",
+      "R",
+      "A",
+      "A"
+    ],
+    [
+      "S",
+      "E",
+      "Y",
+      "N",
+      "K",
+      "E",
+      "P",
+      "A",
+      "Q",
+      "N"
+    ],
+    [
+      "G",
+      "R",
+      "M",
+      "V",
+      "X",
+      "R",
+      "V",
+      "M",
+      "X",
+      "L"
+    ],
+    [
+      "A",
+      "N",
+      "W",
+      "A",
+      "K",
+      "S",
+      "H",
+      "E",
+      "D",
+      "A"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "COLDFRAME",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "CLIPPERS",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "PRUNER",
+      "row": 3,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "DIBBER",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "CLEAN",
+      "row": 3,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "STAKE",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TRAY",
+      "row": 4,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "SHED",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "CART",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "HOE",
+      "row": 0,
+      "col": 7,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 536466941
+}

@@ -1,0 +1,208 @@
+{
+  "id": "continents-easy-05",
+  "slug": "continents-easy-05",
+  "themeId": "continents",
+  "title": "Continents Word Search (Easy) #05",
+  "primaryKeyword": "continents word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "AMERICA",
+    "EAST",
+    "LAKE",
+    "LANDMASS",
+    "MOUNTAIN",
+    "OCEANIA",
+    "RIVER",
+    "SAVANNA",
+    "SOUTH",
+    "WORLD"
+  ],
+  "grid": [
+    [
+      "H",
+      "M",
+      "O",
+      "U",
+      "N",
+      "T",
+      "A",
+      "I",
+      "N",
+      "Z"
+    ],
+    [
+      "A",
+      "M",
+      "E",
+      "R",
+      "I",
+      "C",
+      "A",
+      "A",
+      "U",
+      "S"
+    ],
+    [
+      "R",
+      "I",
+      "V",
+      "E",
+      "R",
+      "J",
+      "Z",
+      "W",
+      "F",
+      "A"
+    ],
+    [
+      "L",
+      "O",
+      "C",
+      "E",
+      "A",
+      "N",
+      "I",
+      "A",
+      "E",
+      "V"
+    ],
+    [
+      "W",
+      "L",
+      "C",
+      "O",
+      "H",
+      "L",
+      "A",
+      "K",
+      "E",
+      "A"
+    ],
+    [
+      "K",
+      "Y",
+      "E",
+      "A",
+      "S",
+      "T",
+      "Z",
+      "J",
+      "S",
+      "N"
+    ],
+    [
+      "S",
+      "O",
+      "U",
+      "T",
+      "H",
+      "W",
+      "Z",
+      "O",
+      "M",
+      "N"
+    ],
+    [
+      "Z",
+      "A",
+      "V",
+      "A",
+      "U",
+      "B",
+      "W",
+      "U",
+      "L",
+      "A"
+    ],
+    [
+      "L",
+      "A",
+      "N",
+      "D",
+      "M",
+      "A",
+      "S",
+      "S",
+      "E",
+      "C"
+    ],
+    [
+      "Q",
+      "Z",
+      "E",
+      "D",
+      "W",
+      "O",
+      "R",
+      "L",
+      "D",
+      "Y"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "MOUNTAIN",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "LANDMASS",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "OCEANIA",
+      "row": 3,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SAVANNA",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "AMERICA",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "RIVER",
+      "row": 2,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "SOUTH",
+      "row": 6,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "WORLD",
+      "row": 9,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "LAKE",
+      "row": 4,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "EAST",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 2186438785
+}

@@ -1,0 +1,208 @@
+{
+  "id": "continents-easy-04",
+  "slug": "continents-easy-04",
+  "themeId": "continents",
+  "title": "Continents Word Search (Easy) #04",
+  "primaryKeyword": "continents word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "AFRICA",
+    "AMERICA",
+    "ANTARCTIC",
+    "BORDER",
+    "EARTH",
+    "HEMISPHERE",
+    "LAKE",
+    "MAP",
+    "PENINSULA",
+    "REEF"
+  ],
+  "grid": [
+    [
+      "A",
+      "N",
+      "T",
+      "A",
+      "R",
+      "C",
+      "T",
+      "I",
+      "C",
+      "R"
+    ],
+    [
+      "Q",
+      "P",
+      "E",
+      "N",
+      "I",
+      "N",
+      "S",
+      "U",
+      "L",
+      "A"
+    ],
+    [
+      "H",
+      "R",
+      "H",
+      "B",
+      "O",
+      "R",
+      "D",
+      "E",
+      "R",
+      "L"
+    ],
+    [
+      "M",
+      "A",
+      "P",
+      "R",
+      "H",
+      "K",
+      "N",
+      "N",
+      "T",
+      "A"
+    ],
+    [
+      "R",
+      "E",
+      "E",
+      "F",
+      "B",
+      "T",
+      "H",
+      "I",
+      "H",
+      "K"
+    ],
+    [
+      "A",
+      "F",
+      "R",
+      "I",
+      "C",
+      "A",
+      "T",
+      "Q",
+      "K",
+      "E"
+    ],
+    [
+      "J",
+      "N",
+      "I",
+      "A",
+      "M",
+      "E",
+      "R",
+      "I",
+      "C",
+      "A"
+    ],
+    [
+      "C",
+      "M",
+      "W",
+      "V",
+      "T",
+      "T",
+      "J",
+      "T",
+      "K",
+      "O"
+    ],
+    [
+      "M",
+      "R",
+      "X",
+      "E",
+      "A",
+      "R",
+      "T",
+      "H",
+      "V",
+      "R"
+    ],
+    [
+      "H",
+      "E",
+      "M",
+      "I",
+      "S",
+      "P",
+      "H",
+      "E",
+      "R",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "HEMISPHERE",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "PENINSULA",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "ANTARCTIC",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "AMERICA",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "AFRICA",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BORDER",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "EARTH",
+      "row": 8,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "LAKE",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "REEF",
+      "row": 4,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "MAP",
+      "row": 3,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-08",
+  "seed": 841416996
+}
