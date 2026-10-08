@@ -71,6 +71,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
     // suppressHydrationWarning: data-grid-size is added by the head script before React hydrates.
     <html lang={SITE.language} suppressHydrationWarning>
       <head>
+        <link rel="describedby" href="/llms.txt" type="text/plain" />
         <script dangerouslySetInnerHTML={{ __html: GRID_SIZE_SCRIPT }} />
         <Script
           id="war-adsense"

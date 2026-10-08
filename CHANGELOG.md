@@ -9,6 +9,11 @@
 
 ## [未发布 Unreleased]
 
+### 改进 — 完整 llms.txt 网站导览（2026-10-09）
+- 扩充现有英文 llms.txt：说明在线玩法、四种规格、设备内进度、UTC Daily、打印包与答案页，为主要内容/资源/政策入口提供逐项链接描述；避免易过期目录总数及未发布 Daily 链接。
+- 明确娱乐用途、以页面FAQ/规格及条款为依据，不将免费访问描述为可任意转载；不添加不存在的Markdown镜像链接。
+- 设置UTF-8纯文本及一小时缓存，在共享head添加rel=describedby导览链接。
+
 ### 改进 — 抓取响应头与图片替代文本（2026-10-08）
 - robots.txt 已核实为有效纯文本、通用允许抓取与 Sitemap，按最终需求保留原规则；本次修改针对 Meta Robots 与 X-Robots-Tag。
 - 页面 Meta Robots 默认 index/follow、大图预览，具体页面继续覆盖 noindex；动态响应头仅输出 max-image-preview:large，不与页面索引规则冲突。图片/PDF 静态资源通过 Cloudflare _headers 明确允许索引与大图预览。

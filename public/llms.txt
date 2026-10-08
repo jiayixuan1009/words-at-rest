@@ -1,13 +1,55 @@
 # Words at Rest
 
-> Words at Rest (https://wordsatrest.com) is a free, independent website of calm English (en-US) word search puzzles for adults and seniors. Edited by Reggie J. Contact: hello@wordsatrest.com.
+> Words at Rest is an independent website offering free English word search puzzles for adults and seniors. Play online at https://wordsatrest.com/ or download selected large-print PDF packs. No account, app download, timer or score is required. Edited and published by Reggie J.
 
-Key facts:
-- Launched 2026-10-06. 121 themes, 1330 hand-themed puzzles, plus up to ten daily puzzles per UTC day from 2026-10-08 (one featured + Also today on theme pages; UTC midnight; /daily/YYYY-MM-DD; /calendar). 2026-10-06–07 keep a single featured puzzle.
-- Easy 10×10/10 · Medium 12×12/14 · Hard 15×15/18 · Large print 9×9/8. Free large-print and printable packs; no licensed characters.
-- No medical or brain-training claims.
+The site language is American English (en-US). Puzzles cover everyday interests, nature, hobbies, faith and seasonal themes. The live directories are the source for current availability; catalog totals change as content is added.
 
-## Main pages
-- [Daily](https://wordsatrest.com/daily) · [Calendar](https://wordsatrest.com/calendar) · [Themes](https://wordsatrest.com/themes) · [Holidays](https://wordsatrest.com/holidays)
-- [Large print](https://wordsatrest.com/large-print) · [How to play](https://wordsatrest.com/how-to-play) · [Adults](https://wordsatrest.com/adults) · [Bible](https://wordsatrest.com/themes/bible)
-- [About](https://wordsatrest.com/about) · [Accessibility](https://wordsatrest.com/accessibility) · [Contact](https://wordsatrest.com/contact) · [Sitemap](https://wordsatrest.com/sitemap.xml)
+Online play: find the listed words in straight lines by dragging across their letters or tapping the first and last letters. Keyboard users can enter the grid with Tab, move with arrow keys, select endpoints with Enter or Space, and cancel with Escape. Found words remain highlighted. Progress and the Standard/Larger grid preference are saved in the current browser on the current device; they are not synced through an account. Optional analytics consent is not required to play or save progress.
+
+Puzzle formats:
+- Easy: 10 by 10 grid, 10 words, forward horizontal and vertical directions.
+- Medium: 12 by 12 grid, 14 words, horizontal, vertical and diagonal directions, with no backwards words.
+- Hard: 15 by 15 grid, 18 words, all eight directions, including backwards words.
+- Dedicated large print: 9 by 9 grid, 8 words, forward horizontal and vertical directions. The Larger display setting is also available on other online puzzles.
+
+Daily dates use UTC. A new featured puzzle is available at midnight UTC. From October 8, 2026, a published day can include up to ten puzzles: one featured puzzle and an "Also today" list linking to other theme puzzles. Earlier days retain their original featured puzzle. The homepage and /daily share the featured puzzle and saved progress. Published archive URLs use /daily/YYYY-MM-DD; future and unpublished dates are unavailable. Use the calendar to find valid archive links.
+
+Printable packs provide US Letter and A4 PDFs with puzzle pages and answer pages. Some packs contain six puzzles and others contain two; consult each pack page for its current contents. Downloading does not require an email address. Refer to the Terms of Use and the pack page for permitted use; free access does not imply permission to sell or redistribute the content.
+
+Word searches are offered as entertainment, not as treatment or a proven way to prevent dementia or improve cognition. Page FAQs, instructions and printable specifications are the authoritative details for the resource being described. This overview provides navigation and context; it does not replace robots.txt, page-level indexing rules or the site's terms.
+
+## Play and browse
+
+- [Home](https://wordsatrest.com/): Play the featured daily puzzle and browse starting points.
+- [Today's daily word search](https://wordsatrest.com/daily): The featured UTC daily puzzle and any other puzzles published for that day.
+- [Daily calendar](https://wordsatrest.com/calendar): Find published dated puzzles and monthly archive pages.
+- [Theme directory](https://wordsatrest.com/themes): Search and browse the current themes and their puzzle collections.
+- [Easy word searches](https://wordsatrest.com/difficulty/easy): Gentle forward-only 10 by 10 puzzles.
+- [Medium word searches](https://wordsatrest.com/difficulty/medium): 12 by 12 puzzles with diagonals.
+- [Hard word searches](https://wordsatrest.com/difficulty/hard): 15 by 15 puzzles using all eight directions.
+- [Large-print word searches](https://wordsatrest.com/large-print): Dedicated 9 by 9 online puzzles and large-print resources.
+- [Holiday word searches](https://wordsatrest.com/holidays): Seasonal collections and related printable packs.
+- [Bible word searches](https://wordsatrest.com/themes/bible): Bible-themed puzzle collections.
+
+## Instructions and accessibility
+
+- [How to play](https://wordsatrest.com/how-to-play): Word selection, difficulty levels, controls and frequently asked questions.
+- [Word searches for adults](https://wordsatrest.com/adults): Adult-oriented themes, reading comfort and the site's approach to word puzzles.
+- [Accessibility statement](https://wordsatrest.com/accessibility): Grid sizing, keyboard controls, contrast, known limitations and feedback options.
+
+## Printable resources
+
+- [Free printable PDFs](https://wordsatrest.com/printables): Index of available packs with specifications and downloads.
+- [Everyday Large Print pack](https://wordsatrest.com/printables/large-print): Everyday vocabulary, large-print grids, previews and Letter/A4 downloads with answers.
+- [Halloween Large Print pack](https://wordsatrest.com/printables/halloween): Gentle Halloween vocabulary, previews and printable puzzles with answers.
+- [Thanksgiving Large Print pack](https://wordsatrest.com/printables/thanksgiving): Harvest and sharing vocabulary, previews and printable puzzles with answers.
+- [Christmas Large Print pack](https://wordsatrest.com/printables/christmas): Christmas and winter vocabulary, previews and printable puzzles with answers.
+- [Activity Director Kit](https://wordsatrest.com/printables/activity-directors): Pack selection, paper sizes and guidance for libraries, senior centers and small-group activities.
+
+## Optional
+
+- [About Words at Rest](https://wordsatrest.com/about): The site's purpose and editor information.
+- [Privacy policy](https://wordsatrest.com/privacy): Browser storage, optional analytics and privacy choices.
+- [Terms of Use](https://wordsatrest.com/terms): Content ownership, acceptable use and printing permissions.
+- [Contact](https://wordsatrest.com/contact): Questions, accessibility feedback and corrections; contact email is hello@wordsatrest.com.
+- [Sitemap](https://wordsatrest.com/sitemap.xml): Machine-readable discovery of published canonical URLs.
