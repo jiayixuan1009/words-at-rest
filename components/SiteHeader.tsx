@@ -13,7 +13,7 @@ export default function SiteHeader() {
   return (
     <header className="site-header border-b border-[#d4cbb8]/70">
       <div className="mx-auto flex max-w-6xl flex-wrap items-center gap-x-3 px-4 pt-2.5 sm:flex-nowrap sm:gap-6 sm:px-8 sm:py-4">
-        <Link
+        <Link prefetch={false}
           href="/"
           className="inline-flex min-h-11 shrink-0 items-center text-[var(--ink)] no-underline"
           aria-label={`${SITE.name} — Word search, unhurried — home`}
@@ -34,7 +34,7 @@ export default function SiteHeader() {
           >
             {NAV.map((n) => (
               <li key={n.href} className="shrink-0">
-                <Link
+                <Link prefetch={false}
                   href={n.href}
                   className="nav-link inline-flex min-h-11 min-w-10 items-center justify-center whitespace-nowrap text-[var(--ink-soft)] sm:min-w-0 sm:justify-start no-underline hover:text-[var(--ink)]"
                 >

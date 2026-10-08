@@ -9,6 +9,12 @@
 
 ## [未发布 Unreleased]
 
+### 改进 — 手机首屏加载与导航流量（2026-10-08）
+- AdSense 使用框架 `lazyOnload` 策略，页面加载完成并空闲后再初始化；保留发布商编号、广告功能和跨源配置，避免与谜题首屏争用网络与主线程。
+- 首页、页眉/页脚和首页谜题入口关闭自动链接预取，避免访客尚未导航就下载主题筛选、隐私偏好等其他页面代码；链接仍使用客户端导航。
+- 首页下方装饰图使用对应 mobile 图源及真实固有尺寸，主题卡片 sizes 与实际两列布局一致；保留图片懒加载和全部可见内容。
+- Chrome DevTools MCP 已用于慢 4G / 4 倍 CPU / 390px 追踪，验证日志记录在工作区 research；PageSpeed 与本机追踪采用不同方法，分数不混用。
+
 ### 改进 — 页脚与信任条意图文案（2026-10-08）
 - `SiteFooter`：stock-photos 行改为 “Large-print online play plus free printable PDFs for home, libraries and senior centers — no account needed.”
 - `TrustFacts`：「Original word lists」→「Printable PDFs」（图标与注释同步）。

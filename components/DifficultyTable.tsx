@@ -26,7 +26,7 @@ export default function DifficultyTable({ caption = "Word search difficulty leve
           {DIFFICULTY_ROWS.map((r) => (
             <tr key={r.level} className="border-b border-[#d4cbb8] align-top text-[var(--ink-soft)]">
               <th scope="row" className="py-2 pr-4 font-semibold text-[var(--ink)]">
-                <Link href={r.href}>{r.level}</Link>
+                <Link prefetch={false} href={r.href}>{r.level}</Link>
               </th>
               <td className="py-2 pr-4">{r.grid}</td>
               <td className="py-2 pr-4">{r.words}</td>

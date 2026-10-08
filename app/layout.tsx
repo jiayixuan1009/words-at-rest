@@ -1,4 +1,5 @@
 import type { Metadata, Viewport } from "next";
+import Script from "next/script";
 import "./globals.css";
 import SiteHeader from "@/components/SiteHeader";
 import SiteFooter from "@/components/SiteFooter";
@@ -70,8 +71,9 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
     <html lang={SITE.language} suppressHydrationWarning>
       <head>
         <script dangerouslySetInnerHTML={{ __html: GRID_SIZE_SCRIPT }} />
-        <script
-          async
+        <Script
+          id="war-adsense"
+          strategy="lazyOnload"
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6775124504429409"
           crossOrigin="anonymous"
         />

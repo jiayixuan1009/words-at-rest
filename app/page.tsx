@@ -101,7 +101,7 @@ export default function HomePage() {
           ) : (
             <div className="space-y-3 rounded-[4px] border border-[#cbbfa6] bg-[#faf6ee]/80 p-6">
               <p>Today&apos;s puzzle is not ready yet.</p>
-              <Link href="/calendar" className="btn-primary">
+              <Link prefetch={false} href="/calendar" className="btn-primary">
                 Browse past daily puzzles
               </Link>
             </div>
@@ -118,11 +118,11 @@ export default function HomePage() {
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
               src={ART.heroMobile.variants?.[0][0] ?? ART.heroMobile.src}
-              srcSet={srcSetOf(ART.heroDesktop)}
-              sizes="(min-width: 1024px) 1088px, 100vw"
-              width={1600}
-              height={1200}
-              alt={ART.heroDesktop.alt}
+              srcSet={srcSetOf(ART.heroMobile)}
+              sizes="(min-width: 1152px) 1088px, (min-width: 640px) calc(100vw - 64px), calc(100vw - 32px)"
+              width={ART.heroMobile.width}
+              height={ART.heroMobile.height}
+              alt={ART.heroMobile.alt}
               loading="lazy"
               decoding="async"
               fetchPriority="low"
@@ -148,7 +148,7 @@ export default function HomePage() {
           <ul className="grid grid-cols-2 content-between gap-x-6 gap-y-8">
             {rest.slice(0, 4).map((t) => (
               <li key={t.id}>
-                <ThemeCard theme={t} compact sizes="(min-width: 1024px) 240px, 45vw" />
+                <ThemeCard theme={t} compact sizes="(min-width: 1152px) 240px, (min-width: 1024px) 21vw, (min-width: 640px) calc((100vw - 88px) / 2), calc((100vw - 56px) / 2)" />
               </li>
             ))}
           </ul>
@@ -156,13 +156,13 @@ export default function HomePage() {
         <ul className="mt-8 grid grid-cols-2 gap-x-6 gap-y-8 sm:grid-cols-2 lg:grid-cols-2">
           {rest.slice(4).map((t) => (
             <li key={t.id}>
-              <ThemeCard theme={t} compact sizes="(min-width: 1024px) 540px, 45vw" />
+              <ThemeCard theme={t} compact sizes="(min-width: 1152px) 532px, (min-width: 640px) calc((100vw - 88px) / 2), calc((100vw - 56px) / 2)" />
             </li>
           ))}
         </ul>
         <p className="mt-8 text-center">
-          <Link href="/themes" className="chip">See all {totalThemes} themes →</Link>
-          <Link href="/holidays" className="chip">Holiday themes →</Link>
+          <Link prefetch={false} href="/themes" className="chip">See all {totalThemes} themes →</Link>
+          <Link prefetch={false} href="/holidays" className="chip">Holiday themes →</Link>
         </p>
       </section>
 
@@ -184,7 +184,7 @@ export default function HomePage() {
         <ul className="mt-10 grid gap-8 sm:grid-cols-3">
           {(["easy", "medium", "hard"] as const).map((d) => (
             <li key={d} className="border-t-2 border-[var(--ink)] pt-4">
-              <Link href={`/difficulty/${d}`} className="group block no-underline">
+              <Link prefetch={false} href={`/difficulty/${d}`} className="group block no-underline">
                 <Picture art={DIFFICULTY_ART[d].image} sizes="(min-width: 640px) 33vw, 92vw" className="hidden aspect-[2/1] w-full rounded-[3px] border border-[#d4cbb8] object-cover sm:block" />
                 <div className="mt-4 flex items-center gap-3">
                   <Picture art={DIFFICULTY_ART[d].badge} sizes="44px" decorative className="h-11 w-11" />
@@ -219,8 +219,8 @@ export default function HomePage() {
             ))}
           </ul>
           <p className="mt-6">
-            <Link href="/large-print" className="chip">See all large print →</Link>
-            <Link href="/printables" className="chip ml-3">Printable PDFs →</Link>
+            <Link prefetch={false} href="/large-print" className="chip">See all large print →</Link>
+            <Link prefetch={false} href="/printables" className="chip ml-3">Printable PDFs →</Link>
           </p>
         </div>
       </section>
@@ -242,7 +242,7 @@ export default function HomePage() {
           ))}
         </ol>
         <p className="mt-8 text-center">
-          <Link href="/how-to-play" className="chip">Read the full guide →</Link>
+          <Link prefetch={false} href="/how-to-play" className="chip">Read the full guide →</Link>
         </p>
       </section>
 
@@ -261,7 +261,7 @@ export default function HomePage() {
           <p>
             On Words at Rest you play right in your browser. Drag across a word or tap its first and
             last letters; found words stay highlighted and your progress is saved on your device.{" "}
-            <Link href="/how-to-play">Read the full guide</Link>.
+            <Link prefetch={false} href="/how-to-play">Read the full guide</Link>.
           </p>
         </div>
         <div className="space-y-4 text-lg leading-relaxed text-[var(--ink-soft)]">
@@ -282,13 +282,13 @@ export default function HomePage() {
             </li>
             <li>
               <strong className="text-[var(--ink)]">A new featured puzzle daily.</strong> The same{" "}
-              <Link href="/daily">daily word search</Link> for everyone (plus more themes that day), with a permanent archive.
+              <Link prefetch={false} href="/daily">daily word search</Link> for everyone (plus more themes that day), with a permanent archive.
             </li>
           </ul>
           <p>
             Words at Rest is an independent site edited by{" "}
-            <Link href={SITE.editor.aboutPath}>{SITE.editor.name}</Link>.{" "}
-            <Link href="/about">More about us</Link>.
+            <Link prefetch={false} href={SITE.editor.aboutPath}>{SITE.editor.name}</Link>.{" "}
+            <Link prefetch={false} href="/about">More about us</Link>.
           </p>
         </div>
       </section>
@@ -327,8 +327,8 @@ export default function HomePage() {
                 </a>
               </cite>
               : <q cite={CITATIONS.wcagResizeText.url}>{CITATIONS.wcagResizeText.quote.replace(/\.$/, "")}</q>.
-              More detail is on our <Link href="/adults">word search for adults</Link> page and{" "}
-              <Link href="/accessibility">accessibility statement</Link>.
+              More detail is on our <Link prefetch={false} href="/adults">word search for adults</Link> page and{" "}
+              <Link prefetch={false} href="/accessibility">accessibility statement</Link>.
             </p>
           </div>
         </MobileMore>
@@ -356,7 +356,7 @@ export default function HomePage() {
             Mac) and come back tomorrow — nothing to sign up for.
           </p>
           <p className="mt-6">
-            <Link href="/daily" className="btn-primary">Open the full daily page →</Link>
+            <Link prefetch={false} href="/daily" className="btn-primary">Open the full daily page →</Link>
           </p>
         </div>
       </section>

@@ -24,18 +24,18 @@ export default function SiteFooter() {
         </div>
         <nav aria-label="Footer">
           <ul className="flex flex-wrap gap-x-5 [&_a]:inline-flex [&_a]:min-h-10 [&_a]:items-center">
-            <li><Link href="/daily">Daily</Link></li>
-            <li><Link href="/calendar">Calendar</Link></li>
-            <li><Link href="/printables">Printable PDFs</Link></li>
-            <li><Link href="/difficulty/hard">Hard puzzles</Link></li>
-            <li><Link href="/about">About</Link></li>
-            <li><Link href="/holidays">Holidays</Link></li>
-            <li><Link href="/adults">For adults</Link></li>
-            <li><Link href="/accessibility">Accessibility</Link></li>
-            <li><Link href="/privacy">Privacy</Link></li>
-            <li><Link href="/privacy#analytics">Analytics choices</Link></li>
-            <li><Link href="/terms">Terms</Link></li>
-            <li><Link href="/contact">Contact</Link></li>
+            <li><Link prefetch={false} href="/daily">Daily</Link></li>
+            <li><Link prefetch={false} href="/calendar">Calendar</Link></li>
+            <li><Link prefetch={false} href="/printables">Printable PDFs</Link></li>
+            <li><Link prefetch={false} href="/difficulty/hard">Hard puzzles</Link></li>
+            <li><Link prefetch={false} href="/about">About</Link></li>
+            <li><Link prefetch={false} href="/holidays">Holidays</Link></li>
+            <li><Link prefetch={false} href="/adults">For adults</Link></li>
+            <li><Link prefetch={false} href="/accessibility">Accessibility</Link></li>
+            <li><Link prefetch={false} href="/privacy">Privacy</Link></li>
+            <li><Link prefetch={false} href="/privacy#analytics">Analytics choices</Link></li>
+            <li><Link prefetch={false} href="/terms">Terms</Link></li>
+            <li><Link prefetch={false} href="/contact">Contact</Link></li>
           </ul>
         </nav>
       </div>

@@ -39,10 +39,10 @@ export default function HomeDailyPuzzle({ puzzle, date }: { puzzle: Puzzle; date
           <p className="mt-0.5 font-sans text-[0.9375rem] text-[var(--ink-soft)] sm:text-base">{meta(puzzle)}</p>
         </div>
         <p className="flex shrink-0 flex-wrap gap-2">
-          <Link href="/daily" className="chip min-h-11">
+          <Link prefetch={false} href="/daily" className="chip min-h-11">
             Full daily page →
           </Link>
-          <Link href="/calendar" className="chip min-h-11">
+          <Link prefetch={false} href="/calendar" className="chip min-h-11">
             Calendar →
           </Link>
         </p>

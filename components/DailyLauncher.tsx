@@ -21,7 +21,7 @@ export function LauncherChips() {
       >
         {(["easy", "medium", "hard"] as const).map((d) => (
           <li key={d} className="shrink-0">
-            <Link href={`/difficulty/${d}`} className="chip capitalize">
+            <Link prefetch={false} href={`/difficulty/${d}`} className="chip capitalize">
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img src={DIFFICULTY_ART[d].badge.src} width={24} height={24} alt="" loading="lazy" decoding="async" className="h-6 w-6" />
               {d}
@@ -29,7 +29,7 @@ export function LauncherChips() {
           </li>
         ))}
         <li className="shrink-0">
-          <Link href="/large-print" className="chip">
+          <Link prefetch={false} href="/large-print" className="chip">
             <span aria-hidden="true" className="font-serif text-lg font-bold leading-none">
               A
             </span>{" "}
@@ -38,13 +38,13 @@ export function LauncherChips() {
         </li>
         {CHIP_THEMES.map((t) => (
           <li key={t.slug} className="shrink-0">
-            <Link href={`/themes/${t.slug}`} className="chip">
+            <Link prefetch={false} href={`/themes/${t.slug}`} className="chip">
               {t.name}
             </Link>
           </li>
         ))}
         <li className="shrink-0">
-          <Link href="/themes" className="chip border-dashed">
+          <Link prefetch={false} href="/themes" className="chip border-dashed">
             All themes →
           </Link>
         </li>
