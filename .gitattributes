@@ -1,0 +1,2 @@
+# PDF cross-reference offsets require exact bytes on every checkout/platform.
+*.pdf binary

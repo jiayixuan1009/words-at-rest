@@ -26,6 +26,7 @@ export default function SiteFooter() {
           <ul className="flex flex-wrap gap-x-5 [&_a]:inline-flex [&_a]:min-h-10 [&_a]:items-center">
             <li><Link href="/daily">Daily</Link></li>
             <li><Link href="/calendar">Calendar</Link></li>
+            <li><Link href="/printables">Printable PDFs</Link></li>
             <li><Link href="/difficulty/hard">Hard puzzles</Link></li>
             <li><Link href="/about">About</Link></li>
             <li><Link href="/holidays">Holidays</Link></li>

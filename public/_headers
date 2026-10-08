@@ -14,3 +14,21 @@
   Cache-Control: public, max-age=86400, stale-while-revalidate=604800
 /logo.png
   Cache-Control: public, max-age=86400, stale-while-revalidate=604800
+/printables/*
+  Cache-Control: public, max-age=86400, stale-while-revalidate=604800
+/printables/large-print-letter.pdf
+  Link: <https://wordsatrest.com/printables/large-print>; rel="canonical"
+/printables/large-print-a4.pdf
+  Link: <https://wordsatrest.com/printables/large-print>; rel="canonical"
+/printables/halloween-letter.pdf
+  Link: <https://wordsatrest.com/printables/halloween>; rel="canonical"
+/printables/halloween-a4.pdf
+  Link: <https://wordsatrest.com/printables/halloween>; rel="canonical"
+/printables/thanksgiving-letter.pdf
+  Link: <https://wordsatrest.com/printables/thanksgiving>; rel="canonical"
+/printables/thanksgiving-a4.pdf
+  Link: <https://wordsatrest.com/printables/thanksgiving>; rel="canonical"
+/printables/christmas-letter.pdf
+  Link: <https://wordsatrest.com/printables/christmas>; rel="canonical"
+/printables/christmas-a4.pdf
+  Link: <https://wordsatrest.com/printables/christmas>; rel="canonical"

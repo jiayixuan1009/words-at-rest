@@ -36,7 +36,7 @@ export const LARGE_PRINT_FAQ: FaqItem[] = [
   },
   {
     q: "Can I print these puzzles?",
-    a: "The puzzles are designed to be played on screen, where words are marked for you and progress is saved. You can use your browser’s print command, but we do not yet offer dedicated printable PDF sheets.",
+    a: "Yes. Our printable packs offer free Letter and A4 PDFs with two large print puzzles and answer keys. Visit Printable PDFs in the footer to preview and download them without signing up. You can also play the same grids online.",
   },
   {
     q: "What if the letters are still too small?",
@@ -76,6 +76,7 @@ export default function LargePrintView({ page }: { page: number }) {
           <Picture
             art={ART.largePrintPromo}
             priority
+            desktopOnly
             sizes="(min-width: 1152px) 560px, (min-width: 640px) 50vw, 100vw"
             className="hidden aspect-[4/3] h-full w-full object-cover sm:block sm:aspect-auto"
           />
@@ -85,6 +86,7 @@ export default function LargePrintView({ page }: { page: number }) {
         You can also switch <strong className="text-[var(--ink)]">any</strong> puzzle on the site to the Larger grid
         size using the switch above the grid. Your choice is remembered on this device.
       </p>
+      {page === 1 && <p className="mt-4 text-lg"><Link href="/printables">Prefer paper? Download free large print PDFs with answer keys</Link>.</p>}
       <div className="mt-12 grid gap-10 lg:grid-cols-[1.2fr_0.8fr] lg:items-start">
         <div>
           <h2 className="font-serif text-3xl">

@@ -11,7 +11,7 @@
   - Tuesday, Thursday, Friday → **medium**
   - Saturday → **hard**
 - **Theme rotation:** Live topical themes only (excludes `hard-pack` and `large-print-pack`). Prefer Halloween in October, Fall in Sep–Nov, Christmas in December. Do not repeat the same theme within the previous **5** days. Word-set Jaccard overlap with any same-theme catalog or daily puzzle must stay **&lt; 70%**; grids must be unique.
-- **Buffer:** `npm run daily:add` keeps **7** future days beyond today UTC queued. Running it twice is a no-op when the buffer is full.
+- **Buffer:** `npm run daily:add` targets **30** future days (with a required minimum of **7**) beyond today UTC queued. Running it twice is a no-op when the buffer is full.
 - **Future leakage:** `/daily/YYYY-MM-DD` for dates **after** today UTC returns **404** and never appears in the sitemap, calendar, or `llms.txt`. `/daily/calendar` is not a date (fails `YYYY-MM-DD`) and 404s — the real calendar is **`/calendar`**.
 
 ## URLs
@@ -58,7 +58,7 @@ Then verify:
 ## If a day was missed
 
 1. Set `DAILY_TODAY` to the **real** current UTC date (or leave unset).
-2. Run `npm run daily:add` — it backfills every missing date from `2026-10-07` through today+7.
+2. Run `npm run daily:add` — it backfills every missing date from `2026-10-07` through today+30.
 3. Run `npm run daily:check`. If it fails (overlap / placement), inspect the error, delete the bad entry from `data/daily.json` if needed, and re-run `daily:add` (seeds retry automatically).
 4. Commit, push, deploy as above.
 

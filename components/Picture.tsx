@@ -18,6 +18,7 @@ export default function Picture({
   sizes = "100vw",
   className,
   priority = false,
+  desktopOnly = false,
   alt,
   decorative = false,
 }: {
@@ -25,6 +26,8 @@ export default function Picture({
   sizes?: string;
   className?: string;
   priority?: boolean;
+  /** CSS-hidden below sm: use a tiny source so eager desktop art does not download on phones. */
+  desktopOnly?: boolean;
   /** Override the default alt from lib/images. */
   alt?: string;
   decorative?: boolean;
@@ -46,7 +49,12 @@ export default function Picture({
       className={className}
     />
   );
-  return priority ? <picture style={{ display: "contents" }}>{img}</picture> : img;
+  return priority || desktopOnly ? (
+    <picture style={{ display: "contents" }}>
+      {desktopOnly && <source media="(max-width: 639px)" srcSet="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />}
+      {img}
+    </picture>
+  ) : img;
 }
 
 /** Decorative ornament (divider rule, flourish, section ornament). Always alt="". */

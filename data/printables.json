@@ -1,0 +1,6 @@
+[
+  {"slug":"large-print","name":"Everyday Large Print","description":"Two gentle everyday word searches with large letters, familiar words and no diagonals.","theme":"large-print-pack","ids":["large-print-pack-large-01","large-print-pack-large-02"]},
+  {"slug":"halloween","name":"Halloween Large Print","description":"Two gentle Halloween puzzles with candlelit porches, owls and seasonal words.","theme":"halloween","ids":["halloween-large-01","halloween-large-02"]},
+  {"slug":"thanksgiving","name":"Thanksgiving Large Print","description":"Two Thanksgiving puzzles with familiar words about home, sharing and a warm meal.","theme":"thanksgiving","ids":["thanksgiving-large-01","thanksgiving-large-02"]},
+  {"slug":"christmas","name":"Christmas Large Print","description":"Two Christmas puzzles with short, familiar words about gifts, winter and quiet celebrations.","theme":"christmas","ids":["christmas-large-01","christmas-large-02"]}
+]

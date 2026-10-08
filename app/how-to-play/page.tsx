@@ -132,7 +132,7 @@ export default function HowToPlayPage() {
         <MobileMore id="how-to">
         <h2>How do I make the letters bigger?</h2>
         <p>
-          Press <em>Large print</em> above any grid for bigger letters and a list that is easier to
+          Choose <em>Grid size → Larger</em> above any grid for bigger letters and a list that is easier to
           read. The setting is remembered on your device. You can also use your browser’s zoom
           (Ctrl and + on Windows, Cmd and + on a Mac, or pinch to zoom on a phone) at any time. For
           the most comfortable experience, our <Link href="/large-print">large print puzzles</Link>{" "}

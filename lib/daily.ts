@@ -14,6 +14,8 @@ import type { Difficulty, Placement, Puzzle } from "./types";
 export const DAILY_SCHEDULE_START = "2026-10-07";
 /** How many calendar days beyond today UTC must always be queued. */
 export const DAILY_BUFFER_DAYS = 7;
+/** Generation target; the required minimum remains seven days. */
+export const DAILY_TARGET_BUFFER_DAYS = 30;
 /** Same theme must not reappear within this many preceding days. */
 export const DAILY_THEME_GAP_DAYS = 5;
 /** Max Jaccard overlap of word sets vs any existing puzzle of the same theme. */

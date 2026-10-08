@@ -19,7 +19,7 @@ export default function ThemeCard({
   const count = getPuzzlesByTheme(theme.id).length;
   const a = themeArt(theme.slug, theme.name);
   return (
-    <Link href={`/themes/${theme.slug}`} className="group block no-underline">
+    <Link href={`/themes/${theme.slug}`} prefetch={false} className="group block no-underline">
       <div className={`overflow-hidden rounded-[3px] border border-[#d4cbb8] bg-[#efe7d9] ${compact ? "aspect-[5/3]" : "aspect-[4/3]"}`}>
         <Picture
           art={a}

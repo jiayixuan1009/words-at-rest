@@ -15,7 +15,7 @@ export function readContentDates(cwd = process.cwd()): ContentDates {
   try {
     log = execFileSync(
       "git",
-      ["log", "--no-renames", "--format=@@%aI", "--name-only", "--", "app", "data", "lib", "components"],
+      ["log", "--diff-merges=first-parent", "--no-renames", "--format=@@%aI", "--name-only", "--", "app", "data", "lib", "components"],
       { cwd, encoding: "utf8", maxBuffer: 64 * 1024 * 1024, stdio: ["ignore", "pipe", "ignore"] },
     );
   } catch {

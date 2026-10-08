@@ -34,7 +34,7 @@ export const DIFFICULTY_COPY: Record<
     tips: [
       "Read across each row from left to right, then down each column.",
       "Start with the longest word on the list — it is the easiest to spot.",
-      "Switch on Large print above the grid if the letters feel small.",
+      "Choose Grid size → Larger above the grid if the letters feel small.",
     ],
     next: { href: "/difficulty/medium", label: "Ready for more? Try medium puzzles" },
   },
@@ -160,7 +160,7 @@ export default function DifficultyLevelView({ level, page }: { level: Difficulty
           <section className="mt-10 max-w-3xl space-y-3 text-lg leading-relaxed text-stone-700">
             <h2 className="text-2xl font-semibold text-stone-900">Comfort and honesty</h2>
             <p>
-              Every grid has a Large print control. That follows the W3C’s{" "}
+              Every grid has a Grid size → Larger control. That follows the W3C’s{" "}
               <cite>
                 <a href={CITATIONS.wcagResizeText.url} rel="noopener" target="_blank">
                   resize-text guidance

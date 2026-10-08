@@ -9,10 +9,11 @@ import { getPuzzles, getThemes } from "@/lib/data";
 import { seo } from "@/lib/seo";
 import { ART } from "@/lib/images";
 import Picture from "@/components/Picture";
+import ThemeBrowser from "@/components/ThemeBrowser";
 import Sources, { Quote } from "@/components/Sources";
 import { CITATIONS } from "@/lib/citations";
 
-const DATES = datesFor("app/themes/page.tsx", "data/themes/index.ts");
+const DATES = datesFor("app/themes/page.tsx", "components/ThemeBrowser.tsx", "data/themes/index.ts");
 
 const THEMES_CITED = [CITATIONS.mwColour, CITATIONS.niaCognitiveHealth];
 
@@ -44,15 +45,9 @@ export default function ThemesPage() {
         and several puzzles across difficulty levels — written for adults, free of licensed
         characters.
       </p>
-      <nav aria-label="Theme groups" className="mt-4 flex flex-wrap gap-2">
-        {groups.map((g) => <Link key={g.id} href={`#${g.id}`} className="chip min-h-11">{g.name}</Link>)}
-      </nav>
-      {groups.map((g) => <section key={g.id} id={g.id} aria-labelledby={`${g.id}-heading`} className="mt-10 scroll-mt-4">
-        <h2 id={`${g.id}-heading`} className="font-serif text-3xl">{g.name}</h2>
-        <ul className="mt-5 grid gap-10 sm:grid-cols-2 lg:grid-cols-3">
-          {g.items.map((t) => <li key={t.id}><ThemeCard theme={t} /></li>)}
-        </ul>
-      </section>)}
+      <ThemeBrowser entries={groups.flatMap(g => g.items).map(t => ({
+        theme: { name: t.name, slug: t.slug, season: t.season }, card: <ThemeCard theme={t} />,
+      }))} />
       <section className="mt-14 max-w-3xl space-y-4 text-lg leading-relaxed text-[var(--ink-soft)]">
         <h2 className="font-serif text-2xl font-semibold text-[var(--ink)]">How are the themes organized?</h2>
         <p>

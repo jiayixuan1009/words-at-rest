@@ -37,6 +37,12 @@ export function puzzleDates(p: Puzzle): PageDates {
 export function themeDates(puzzles: Puzzle[], themeId: string): PageDates {
   return datesFor(
     `data/themes/${themeId}.json`,
+    "app/themes/[theme]/page.tsx", "lib/theme-content.ts", "lib/theme-faq.ts",
     ...puzzles.map((p) => `data/puzzles/${p.id}.json`),
   );
+}
+
+/** Latest genuine modification, including content dependencies. */
+export function latestModified(...values: string[]): string {
+  return values.reduce((a, b) => t(a) >= t(b) ? a : b);
 }

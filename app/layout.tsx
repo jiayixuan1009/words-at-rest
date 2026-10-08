@@ -62,6 +62,7 @@ export const viewport: Viewport = {
  * Server HTML is identical for everyone (no attribute = Standard; see globals.css "Grid size").
  */
 const GRID_SIZE_SCRIPT = `try{var s=localStorage.getItem("war:gridSize");if(!s){var l=localStorage.getItem("war:largePrint");s=l==="1"?"larger":l==="0"?"standard":""}if(s==="larger"||s==="standard")document.documentElement.setAttribute("data-grid-size",s)}catch(e){}`;
+const CONSENT_VISIBILITY_SCRIPT = `try{var c=localStorage.getItem("war:analytics-consent");if(c==="accepted"||c==="rejected")document.documentElement.setAttribute("data-analytics-choice-saved","")}catch(e){}`;
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
@@ -74,6 +75,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6775124504429409"
           crossOrigin="anonymous"
         />
+        <script dangerouslySetInnerHTML={{ __html: CONSENT_VISIBILITY_SCRIPT }} />
       </head>
       <body className="flex min-h-screen flex-col text-[var(--ink)]">
         <a href="#main" className="sr-only focus:not-sr-only focus:absolute focus:left-4 focus:top-4 focus:z-50 focus:rounded-md focus:bg-white focus:p-3">

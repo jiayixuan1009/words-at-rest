@@ -1,5 +1,5 @@
 /**
- * Top up the daily puzzle schedule so there are always DAILY_BUFFER_DAYS
+ * Top up the daily puzzle schedule to DAILY_TARGET_BUFFER_DAYS
  * future days beyond today UTC (first schedulable date: 2026-10-07).
  * Idempotent: a second run with a full buffer writes nothing.
  *
@@ -12,7 +12,7 @@ import { fileURLToPath } from "node:url";
 import { generateGrid, createRng } from "../lib/engine.ts";
 import type { Difficulty, Puzzle, Theme } from "../lib/types.ts";
 import {
-  DAILY_BUFFER_DAYS,
+  DAILY_TARGET_BUFFER_DAYS,
   DAILY_DIFFICULTY_PATTERN,
   DAILY_EXCLUDED_THEMES,
   DAILY_MAX_WORD_OVERLAP,
@@ -186,7 +186,7 @@ function generateOne(
 
 function main() {
   const today = todayUtc();
-  const horizon = addUtcDays(today, DAILY_BUFFER_DAYS);
+  const horizon = addUtcDays(today, DAILY_TARGET_BUFFER_DAYS);
   const needed = listDatesInclusive(DAILY_SCHEDULE_START, horizon);
 
   const schedule = loadSchedule();

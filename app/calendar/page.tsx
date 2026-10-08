@@ -308,6 +308,7 @@ export default function CalendarPage() {
         <Link href="/daily">Play today&apos;s daily word search</Link>.
       </p>
       <MonthGrid ym={ym} today={today} />
+      <p className="mt-4 text-lg"><Link href={`/calendar/${ym}`}>Open {formatMonthLong(ym)} daily puzzle archive</Link></p>
       <WhatsNew today={today} />
       <p className="mt-10 text-base text-[var(--ink-soft)]">
         Difficulty by weekday (UTC): Sunday, Monday and Wednesday easy; Tuesday, Thursday and Friday

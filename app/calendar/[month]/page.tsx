@@ -10,7 +10,6 @@ import {
   getDailyPuzzle,
   isValidDailyDate,
   getTheme,
-  latestVisibleDailyDate,
 } from "@/lib/data";
 import {
   CALENDAR_FIRST_MONTH,
@@ -23,6 +22,7 @@ import {
 } from "@/lib/daily";
 import { absoluteUrl, SITE } from "@/lib/site";
 import { clamp, seo } from "@/lib/seo";
+import { datesFor, latestModified } from "@/lib/content-dates";
 
 export const dynamic = "force-dynamic";
 
@@ -78,14 +78,16 @@ export default async function CalendarMonthPage({ params }: Props) {
   const canPrev = prev >= CALENDAR_FIRST_MONTH;
   const canNext = next <= monthKey(today);
   const label = formatMonthLong(ym);
-  const modified = latestVisibleDailyDate();
-  const dates = { published: SITE.dailyStart, modified };
 
   const visibleInMonth: string[] = [];
   for (let d = 1; d <= dim; d++) {
     const date = `${ym}-${String(d).padStart(2, "0")}`;
     if (isValidDailyDate(date)) visibleInMonth.push(date);
   }
+  const dates = {
+    published: ym === CALENDAR_FIRST_MONTH ? SITE.dailyStart : `${ym}-01`,
+    modified: latestModified(datesFor("app/calendar/[month]/page.tsx").modified, visibleInMonth.at(-1) ?? `${ym}-01`),
+  };
 
   const itemList = {
     "@type": "ItemList",

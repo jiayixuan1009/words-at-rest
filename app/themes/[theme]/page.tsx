@@ -17,6 +17,9 @@ import { SourceNote } from "@/components/Sources";
 import { clamp, seo, themeNoun } from "@/lib/seo";
 import { absoluteUrl } from "@/lib/site";
 import { themeDates } from "@/lib/content-dates";
+import { PRINTABLES } from "@/lib/printables";
+import Faq from "@/components/Faq";
+import { THEME_FAQ } from "@/lib/theme-faq";
 
 type Props = { params: Promise<{ theme: string }> };
 
@@ -32,6 +35,8 @@ export function generateStaticParams() {
 function themeTitle(name: string, slug?: string): string {
   // Primary keyword target: "bible word search" + large-print intent (≤43 so + site suffix ≤60).
   if (slug === "bible") return "Bible Word Search — Free & Large Print";
+  if (slug === "large-print-pack") return "Large Print Word Search Activity Pack";
+  if (slug === "hard-pack") return "Hard Word Search Challenge Pack";
   const long = `${name} Word Search — Free Online Puzzles`;
   return long.length <= 43 ? long : `${name} Word Search — Free Puzzles`;
 }
@@ -58,6 +63,7 @@ export default async function ThemePage({ params }: Props) {
   if (!theme) notFound();
   const puzzles = getPuzzlesByTheme(theme.id);
   const extra = THEME_EXTRA[theme.slug];
+  const printable = PRINTABLES.find(p => p.theme === theme.slug);
   const themeSource = THEME_SOURCES[theme.slug] ?? THEME_GENERIC_SOURCE;
   const parent = theme.parentSlug ? getTheme(theme.parentSlug) : undefined;
   const children = getChildThemes(theme.slug);
@@ -82,7 +88,7 @@ export default async function ThemePage({ params }: Props) {
       />
       <div className="mb-8 overflow-hidden rounded-sm border border-[#d4cbb8] sm:grid sm:grid-cols-[1.1fr_0.9fr]">
         <div className="flex flex-col justify-center p-6 sm:p-8">
-          <h1 className="font-serif text-4xl tracking-tight">{theme.name} Word Search</h1>
+          <h1 className="font-serif text-4xl tracking-tight">{theme.slug.endsWith("-pack") ? themeTitle(theme.name, theme.slug) : `${theme.name} Word Search`}</h1>
           <nav aria-label={`${theme.name} puzzles to play`} className="mt-3 flex flex-wrap gap-2 font-sans text-base">
             {(["easy", "medium", "hard"] as const).map((level) => {
               const p = puzzles.find((p) => p.difficulty === level && !p.largePrint);
@@ -98,12 +104,16 @@ export default async function ThemePage({ params }: Props) {
         <Picture
           art={themeArt(theme.slug, theme.name)}
           priority
+          desktopOnly
           sizes="(min-width: 1152px) 500px, (min-width: 640px) 45vw, 340px"
           className="hidden aspect-[4/3] w-full object-cover sm:block sm:aspect-auto sm:h-full"
         />
       </div>
 
       <h2 className="font-serif text-3xl">{theme.name} puzzles</h2>
+      {theme.slug === "large-print-pack" && <p className="mt-3 max-w-2xl text-lg">A small activity collection with 9×9 grids and eight words per puzzle. For the full catalog across all themes, browse <Link href="/large-print">large print word searches</Link>; for ready-to-print sheets and answers, choose <Link href="/printables/large-print">the printable activity pack</Link>.</p>}
+      {theme.slug === "hard-pack" && <p className="mt-3 max-w-2xl text-lg">A focused collection of challenging grids with all eight word directions. For every hard puzzle across the site's themes, browse <Link href="/difficulty/hard">the complete hard word search catalog</Link>. Preview each word list to choose your challenge.</p>}
+      {printable && <p className="mt-3 text-lg"><Link href={`/printables/${printable.slug}`}>Free printable {theme.name.toLowerCase()} large print PDFs with answer keys</Link></p>}
       {puzzles.length === 0 ? (
         <div className="mt-4 max-w-md text-center">
           <Picture art={ART.empty} sizes="320px" className="mx-auto h-auto w-80" />
@@ -171,7 +181,7 @@ export default async function ThemePage({ params }: Props) {
           Every puzzle is free and plays in your browser on a phone, tablet or computer. Drag across
           a word, or tap its first and last letter. Easy grids are 10×10 with words across and down;
           medium grids are 12×12 and add diagonals; hard grids are 15×15 with words in all eight
-          directions. Press <em>Large print</em> above any grid for bigger letters. Progress is saved
+          directions. Choose <em>Grid size → Larger</em> above any grid for bigger letters. Progress is saved
           on your device, and there is never a timer. New to word searches? Read{" "}
           <Link href="/how-to-play">how to play</Link>.
         </p>
@@ -179,6 +189,7 @@ export default async function ThemePage({ params }: Props) {
       </MobileMore>
 
       <SourceNote source={themeSource} heading="Sources & notes" />
+      {THEME_FAQ[theme.slug] && <Faq items={THEME_FAQ[theme.slug]} path={`/themes/${theme.slug}`} heading={`${theme.name} word search questions`} />}
 
       <AdSlot slot="theme-hub" />
 

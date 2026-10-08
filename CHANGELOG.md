@@ -9,6 +9,15 @@
 
 ## [未发布 Unreleased]
 
+### 修复 — 整合SEO发布与后续广告/Clarity功能（2026-10-08）
+- 将SEO分支完整整合到最新master：恢复打印资源、主题筛选、多主题精选、重复题名修复、真实Sitemap日期、分析提示CLS整改及卡片预取控制；保留首页介绍配图、Clarity统计同意与已上线AdSense全局脚本。
+- Daily保留最新master既有日期/网格，接续恢复至2026-11-07及30天生成目标；修复历史月份lastmod随其他月份每日题漂移。
+- 发布真实广告账户的ads.txt：pub-6775124504429409，使用Google官方DIRECT记录格式；不把脚本和ads.txt上线等同于审核通过或产生收益。
+- Bible题名明确Word Search，同步生成器而不改ID/种子/网格/进度；补充Halloween、Thanksgiving、Christmas、Winter、Valentines和Dogs实用FAQ及匹配schema。
+- 主题/大字页移动端隐藏封面使用1px源；修正Grid size → Larger指令；增加当前月份详情入口，明确大字/Hard Pack与完整目录的用途区分。
+- 修改仍待生产验收；GSC/GA4/AdSense后台、认证广告CMP、实际收信和推广不属于本次代码完成证据。
+- 日期生成器纳入合并提交相对第一父提交的真实文件变更，避免整合部署遗漏dateModified；新增临时Git仓库回归验证首次发布日期保持不变。
+
 ### 新增 — AdSense 全站脚本（2026-10-08）
 - 根布局 head 加入用户提供的 Google AdSense 脚本，publisher `ca-pub-6775124504429409`，保留 `async` 与 `crossorigin="anonymous"`，全站页面共享。
 - 更新广告占位组件注释以反映全局脚本已接入。
@@ -29,6 +38,43 @@
 
 ### Daily puzzles
 - 2026-10-15 — Daily Word Search: Airplanes (Medium) (airplanes / medium).
+### 改进 — SEO流量入口与打印资源（2026-10-08）
+- 首页精选按UTC月份选择季节题，覆盖六个不同主题、大字及三个难度。
+- Themes目录增加主题搜索、分组、结果数和清空；所有121个链接仍在SSR中。
+- 新增 /printables 及四个资源页，八份A4/Letter PDF、八张预览；每份两题与两张答案，24pt黑白网格；链接大字页、相关主题和原在线题。
+- 消除Beach/Camping三组同名题，保留ID、种子、网格与既有进度。
+- Sitemap使用实际内容修改日期，纳入打印资源，保留全部已发布Daily（不再仅一年）；主题日期包含共享内容依赖。
+- Daily生成目标30天，校验最低7天；补排到2026-11-06，既有日期不变。
+- 更新未投广告文案；PDF下载事件遵守既有analytics同意；未启用广告，也未创建虚假ads.txt。
+- 主题和谜题卡片关闭批量链接预取，减少目录加载时提前请求未选择的页面；正常点击仍可导航。
+- 修复Lighthouse发现的分析同意提示插入导致的布局偏移：SSR输出新访客提示，首屏脚本读取已保存选择，返回访客无需等待hydration隐藏。
+- 校验包含发现/筛选/资源数据与既有玩法、分页、Daily。广告账户、认证CMP、GSC/GA4后台验证仍需账户访问。
+
+### Daily puzzles — 新增排期
+- 2026-11-07 — Daily Word Search: Fall (Hard) (fall / hard).
+- 2026-10-15 — Daily Word Search: Airplanes (Medium) (airplanes / medium).
+- 2026-10-16 — Daily Word Search: American History (Medium) (american-history / medium).
+- 2026-10-17 — Daily Word Search: Animals (Hard) (animals / hard).
+- 2026-10-18 — Daily Word Search: Apothecary (Easy) (apothecary / easy).
+- 2026-10-19 — Daily Word Search: Halloween (Easy) (halloween / easy).
+- 2026-10-20 — Daily Word Search: Fall (Medium) (fall / medium).
+- 2026-10-21 — Daily Word Search: Airplanes (Easy) (airplanes / easy).
+- 2026-10-22 — Daily Word Search: American History (Medium) (american-history / medium).
+- 2026-10-23 — Daily Word Search: Animals (Medium) (animals / medium).
+- 2026-10-24 — Daily Word Search: Apothecary (Hard) (apothecary / hard).
+- 2026-10-25 — Daily Word Search: Halloween (Easy) (halloween / easy).
+- 2026-10-26 — Daily Word Search: Fall (Easy) (fall / easy).
+- 2026-10-27 — Daily Word Search: Airplanes (Medium) (airplanes / medium).
+- 2026-10-28 — Daily Word Search: American History (Easy) (american-history / easy).
+- 2026-10-29 — Daily Word Search: Animals (Medium) (animals / medium).
+- 2026-10-30 — Daily Word Search: Apothecary (Medium) (apothecary / medium).
+- 2026-10-31 — Daily Word Search: Halloween (Hard) (halloween / hard).
+- 2026-11-01 — Daily Word Search: Fall (Easy) (fall / easy).
+- 2026-11-02 — Daily Word Search: Airplanes (Easy) (airplanes / easy).
+- 2026-11-03 — Daily Word Search: American History (Medium) (american-history / medium).
+- 2026-11-04 — Daily Word Search: Animals (Easy) (animals / easy).
+- 2026-11-05 — Daily Word Search: Apothecary (Medium) (apothecary / medium).
+- 2026-11-06 — Daily Word Search: Architecture (Medium) (architecture / medium).
 
 ### 改进 — 补齐全部主题难度递进图 + 节日 OG 底图（2026-10-08）
 - Asrock `words-at-rest-current` 交付：此前缺失的 **101** 个主题 × Easy/Medium/Hard 插画（各 `1200×900` + `-640` + `-320`），共 **909** 个新 WebP；原有 **20** 组难度图字节未改。
