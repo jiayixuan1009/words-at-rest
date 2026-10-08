@@ -70,10 +70,10 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
   },
   dogs: {
     vocabulary:
-      "Dog puzzles use everyday companion vocabulary — leashes, walks, fetch, collars, kennels — plus training words and a few broad breed groups such as terrier, spaniel and retriever. No breed-club or pet-brand names.",
+      "Dog puzzles use everyday companion vocabulary — LEASH, COLLAR, HARNESS, KENNEL, FETCH, PAWPRINT, COMPANION, BLANKET, CUSHION, GROOM and PARK — plus quiet training words such as HEEL, COME and SIT and a few broad groups like BEAGLE, HOUND and MUTT. No breed-club registries, pet-store brands or cartoon characters. Short words like PAW, TOY, PUP and BED keep easy boards friendly; longer anchors like COMPANION, PAWPRINT and HARNESS steady harder ones.",
     goodFor:
-      "For dog owners, dog walkers and anyone who misses having a dog around. It is a cheerful, low-pressure theme with mostly short, familiar words.",
-    tip: "Short words like SIT, PAW and TOY are hardest to see. Leave them for last, and look for them along the edges of the grid, where short words are often tucked away.",
+      "For dog owners, dog walkers, seniors who miss having a dog around and activity rooms that want a cheerful pet theme. It pairs with Cats, Animals and Farm Animals for a wider companion hour. Large print suits shared tablets when walks are done. The tone stays grown-up and brand-free — a calm afternoon puzzle, not a veterinary guide and not a children's mascot sheet.",
+    tip: "Short words like SIT, PAW and TOY are hardest to see — leave them for last and check the edges. Find COMPANION, PAWPRINT, HARNESS, BLANKET and KENNEL first; the double P in PAWPRINT and the NN in KENNEL jump out. On hard grids, dog words often run backwards along a walk path — if LEASH will not appear forwards, try right-to-left on the same row.",
   },
   cats: {
     vocabulary:
@@ -183,10 +183,10 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
   },
   valentines: {
     vocabulary:
-      "The Valentine's list keeps a calm adult tone: hearts, roses, cards and notes, plus longer affection words such as devotion, cherish, keepsake and courtship. No glitter cartoon hearts and no trademarked characters — just ordinary English for a gentle February puzzle.",
+      "The Valentine's list keeps a calm adult tone: HEART, ROSE, CARD, BOUQUET, ENVELOPE, KEEPSAKE, MEMENTO, CHOCOLATE and TEA, plus longer affection words such as ADMIRATION, AFFECTION, DEVOTION, COURTSHIP, TENDERNESS and CHERISH. No glitter cartoon hearts, no trademarked characters and no greeting-card slogans — just ordinary English for a gentle February puzzle. Short words like HUG, GIFT and WISH keep easy boards warm; the longest affection nouns steady harder grids.",
     goodFor:
-      "A grown-up choice for Valentine's Day, anniversary afternoons or any quiet evening when you want a soft theme. Large print uses eight short words; the hard grid stretches into longer affection vocabulary.",
-    tip: "Words ending in “-NESS” or “-TION” (KINDNESS, AFFECTION, DEVOTION, ADMIRATION) reverse cleanly — look for SEN or NOIT clusters when you are stuck.",
+      "A grown-up choice for Valentine's Day, anniversary afternoons, care-home craft hours or any quiet evening when you want a soft theme. It pairs with Wedding, Friendship and Kindness for a wider kindness hour. Large print uses fewer words on a 9×9 grid when phones are passed around the table. Available all year, so February is optional — the same editorial promise as the rest of the site.",
+    tip: "Words ending in -NESS or -TION (KINDNESS, AFFECTION, DEVOTION, ADMIRATION) reverse cleanly — look for SEN or NOIT clusters when you are stuck. Find ADMIRATION, COURTSHIP, TENDERNESS and BOUQUET before HUG, GIFT and ROSE. On hard grids, affection words often sit on long horizontals like a written note — clear the middle rows early.",
   },
   easter: {
     vocabulary:
@@ -540,10 +540,10 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
   },
   reading: {
     vocabulary:
-      "Book and library English — page, chapter, shelf — no publisher brands.",
+      "The reading bank walks a quiet shelf: AUTHOR, BIOGRAPHY, CHAPTER, EPILOGUE, FICTION, GLOSSARY, HISTORY, LIBRARY, NOVEL, PARAGRAPH, PASSAGE, PREFACE, BOOKMARK and JOURNAL among others, plus short desk nouns such as PAGE, NOTE, LINE, INK, LAMP and BOOK. No publisher, bookstore or software brands — only the calm English of an evening chapter. Longer anchors like EPILOGUE, BIOGRAPHY and PARAGRAPH steady the hard grid; PAGE, NOTE and LINE keep easy boards kind.",
     goodFor:
-      "Lifelong readers and quiet lamp-side solvers.",
-    tip: "Long words such as LIBRARY and EPILOGUE anchor the hard grid.",
+      "A natural pick for lifelong readers, book-club evenings, seniors rebuilding a reading habit and quiet rooms that already smell like paper. It pairs with Libraries and Journaling for a wider study hour, and with Calligraphy when you want desk craft after the chapter ends. Large print suits soft lamp light. Activity directors often choose this theme because every word is easy to picture and say aloud.",
+    tip: "Find EPILOGUE, BIOGRAPHY, PARAGRAPH, GLOSSARY and LIBRARY before PAGE, NOTE and LINE. The GUE in EPILOGUE and the PH in PARAGRAPH jump out. On hard grids, bookish words often hide on long verticals like a spine — clear one column early. FICTION and HISTORY are a useful contrast pair; finding one rarely means the other overlaps.",
   },
   painting: {
     vocabulary:
@@ -624,10 +624,10 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
   },
   quilting: {
     vocabulary:
-      "Block, batting and binding English — no quilt-shop brands.",
+      "The quilting bank is a quiet sewing-room drawer: BACKING, BATTING, BINDING, BLOCK, BORDER, COTTON, FABRIC, PATTERN, PATCH, NEEDLE, LAYER, MEANDER, MITRE, PRESS, PRINT, DESIGN, CORNER and CHARM among others, plus short tools such as PIN, IRON, MAT, CLIP, EDGE and JOIN. Nothing is a quilt-shop brand, pattern-company title or licensed cartoon motif — only common patchwork English. Longer compounds like BINDING, BATTING and PATTERN anchor hard grids the way a finished border anchors a quilt top; short bits hide along edges on easy boards.",
     goodFor:
-      "A calm craft companion to knitting and sewing.",
-    tip: "Long words such as BINDING and BATTING anchor harder grids.",
+      "Ideal for evening piecers, guild tables, care-home craft hours and anyone who finds fabric more calming than a screen. It pairs with Knitting and Sewing for a wider handmade session, and with Reading when you want a lamp-side companion puzzle. Large print helps after a long pressing session. Seniors who learned to piece decades ago often recognize every word without needing a glossary. Activity directors can print a large-print sister pack, then send people back here for online play.",
+    tip: "Find BINDING, BATTING, PATTERN, BACKING and BORDER before short tools like PIN, IRON and MAT. The double T in BATTING and the ND in BINDING stand out once you train your eye. On hard grids, craft words often run backwards along a row like a wrong-side pass — if PATCH will not appear forwards, try reading right-to-left on the same line. FABRIC and COTTON are solid mid-length wins between the giants and the tiny tools.",
   },
   swimming: {
     vocabulary:
@@ -708,10 +708,10 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
   },
   home: {
     vocabulary:
-      "Room and household English — no product brands.",
+      "The home list names ordinary rooms and fixtures: ATTIC, BOOKCASE, CELLAR, FIREPLACE, HEARTH, KITCHEN, LANDING, PANTRY, PATIO, PORCH, CHIMNEY, CURTAIN, CLOSET and DWELLING among others, plus short living words such as DOOR, KEY, RUG, LAMP, HALL, ROOF and ROOM. No furniture-store or appliance brands — only shared household English. Longer anchors like FIREPLACE, BOOKCASE and DWELLING steady harder boards; DOOR, KEY and RUG tuck along edges on easy grids.",
     goodFor:
-      "Evergreen living-space words.",
-    tip: "Long words like FIREPLACE and BOOKCASE anchor the hard grid.",
+      "An evergreen fit for quiet evenings indoors, care-home activity hours and anyone who finds room nouns grounding. It pairs with Kitchen and Garden for a wider domestic hour, and with Reading when the lamp is already on. Large print helps on phones propped by the sofa. Seniors often prefer this list because every word names something they can picture without a glossary.",
+    tip: "Hunt FIREPLACE, BOOKCASE, DWELLING, CHIMNEY and LANDING first; leave DOOR, KEY and RUG for last. Double letters help: the OO in BOOKCASE and DOOR, the LL in HALL. On hard grids, household words often sit on long horizontals like a hallway — clear the middle rows early. PORCH and PATIO are solid mid-length outdoor wins after the indoor fixtures are marked.",
   },
   astronomy: {
     vocabulary:
@@ -743,10 +743,10 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
   },
   calligraphy: {
     vocabulary:
-      "Pen and ink English — no brand names. Companion to Painting.",
+      "The calligraphy bank is a quiet desk drawer: ASCENDER, BASELINE, FLOURISH, CURSIVE, DESCENDER, ITALIC, MINUSCULE, INKWELL, INKSTONE, OBLIQUE, SCRIPT, PRESSURE, PRACTICE and QUILL among others, plus short tools such as NIB, PEN, INK, LINE, PAGE and DESK. No pen-maker, ink-bottle or software brands — only ordinary lettering English. Longer anchors like FLOURISH, ASCENDER and MINUSCULE steady harder boards; NIB, PEN and INK keep easy grids moving.",
     goodFor:
-      "Desk craft for adults who like quiet focus.",
-    tip: "Long words like FLOURISH and BASELINE jump out quickly.",
+      "A gentle theme for adults who practice lettering, seniors rebuilding a handwriting habit and quiet clubs that want a desk-side puzzle. It sits under Painting and pairs well with Journaling, Reading and Libraries. Large print helps when the lamp is soft. Use it as vocabulary practice, not as art-school instruction — the words describe a page, nothing more.",
+    tip: "Find FLOURISH, ASCENDER, MINUSCULE, BASELINE and DESCENDER before NIB, PEN and INK. The SH in FLOURISH and the SC in ASCENDER stand out. On hard grids, lettering words often run on long diagonals like a slanted hand — check diagonals after you clear the horizontals. CURSIVE and ITALIC are useful mid-length style words once the longest anchors are found.",
   },
   libraries: {
     vocabulary:
@@ -757,10 +757,10 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
   },
   volunteering: {
     vocabulary:
-      "Service and community English — no organization brands. Companion to Kindness.",
+      "The volunteering list stays practical and brand-free: COMMUNITY, SHELTER, PANTRY, NEIGHBOR, DONATE, DELIVER, SERVICE, KINDNESS, COLLECT, EVENT, SHIFT, GUIDE and HOST among others, plus short verbs such as HELP, GIVE, PACK, SORT, SHARE and LIST. No charity logos, campaign slogans or organization names — only everyday service English from food drives and welcome desks. Longer anchors like COMMUNITY, SHELTER and VOLUNTEER (when present) steady harder boards; HELP, HAND and CARE tuck into corners on easy grids.",
     goodFor:
-      "Giving vocabulary without medical claims.",
-    tip: "Long words like COMMUNITY and SHELTER anchor the hard grid.",
+      "A thoughtful fit for adults who give a few hours a week, seniors' center helpers, library and pantry volunteers and activity rooms that want a community theme without politics. It sits under Kindness and pairs well with Gratitude, Libraries and Reading. Large print suits shared tablets after a shift. Use it as vocabulary, not as fundraising advice — the word list describes ordinary helping, nothing more.",
+    tip: "Hunt COMMUNITY, SHELTER, PANTRY, NEIGHBOR and DELIVER first; leave HELP, PACK and LIST for the edges. Rare clusters help: the MM in COMMUNITY, the SH in SHELTER. On hard grids, service words often sit on long horizontals like a signup row — clear the middle early. DONATE and COLLECT are useful mid-length finds once the longest anchors are marked.",
   },
   meditation: {
     vocabulary:

@@ -19,8 +19,12 @@ export const THEME_FAQ: Record<string, FaqItem[]> = {
   ],
   valentines: [
     { q: "Can I play a Valentine's word search outside February?", a: "Yes. These puzzles are available all year and use words about affection, cards, roses and keepsakes. You can play at your own pace without signing up. Choose a dedicated 9×9 large print puzzle for fewer words, or try a harder grid for a longer vocabulary challenge." },
+    { q: "Are these Valentine puzzles suitable for seniors and adults?", a: "Yes. The tone is calm and grown-up — no glitter cartoon hearts and no licensed characters. Easy grids keep words across and down; hard grids add diagonals and backwards spellings. Large print is available when bigger letters feel better." },
+    { q: "What themes pair well after Valentine's Day?", a: "Wedding, Friendship and Kindness keep a soft social mood. Winter stays seasonal if you still want cold-weather vocabulary after mid-February. Open How to Play if you want a refresher on directions and large print." },
   ],
   dogs: [
     { q: "Which dog word search should I start with?", a: "Start with an easy grid if you prefer words that read across and down. Open the word list first to check the vocabulary, then scan for each word's first letter. Medium adds diagonals and hard includes backwards words; choose Grid size → Larger whenever you want bigger squares and letters." },
+    { q: "Do these dog puzzles use breed-club or brand names?", a: "No. The list sticks to everyday companion English — walks, parks, coats, leashes and quiet training words — plus a few broad groups such as beagle, hound and mutt. There are no breed-registry titles, pet-store brands or cartoon characters." },
+    { q: "What should I play after the Dogs theme?", a: "Cats offers a soft companion set; Animals and Farm Animals widen the mood. Large Print on this site keeps fewer words on a 9×9 grid when you want a shorter session." },
   ],
 };
