@@ -414,17 +414,17 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
   },
   gratitude: {
     vocabulary:
-      "Thanks, blessing and everyday appreciation English.",
+      "The gratitude bank stays reflective and brand-free: APPRECIATE, BLESSING, CARE, COMFORT, DAWN, EVENING, FAITH, FAMILY, FRIEND, GIFT, GRACE, GRATEFUL, GUEST, HEART, HOME, HOPE, HOST, LETTER, MEAL, MEMORY, MERCY, MORNING, NOTE, PEACE, PRAISE, PRAYER, QUIET, SHARE, SMILE, SUPPORT, TABLE, THANKFUL, THANKS, VISIT and WARM among others. Short words such as HAND, JOY, KIND, LOVE, REST and SONG keep easy boards friendly. No card-company slogans, no self-help brand names and no clinical claims — only everyday appreciation English. Longer anchors like APPRECIATE, GRATEFUL, THANKFUL and BLESSING steady harder grids.",
     goodFor:
-      "Quiet reflection themes; pairs well with Thanksgiving without repeating that holiday list.",
-    tip: "Long words such as APPRECIATE and GRATEFUL anchor harder grids.",
+      "Suited to quiet evenings, seniors' reflection hours, care-home activity tables and anyone who wants a soft theme without lecture. It pairs with Kindness and Friendship for a wider gentle hour, with Meditation for calm practice vocabulary, and with Thanksgiving when you want appreciation words outside a single November list. Large print helps when several people share one screen. Use it as a calm puzzle, not as therapy advice — the word list names ordinary thanks, nothing more.",
+    tip: "Find APPRECIATE, GRATEFUL, THANKFUL, BLESSING and COMFORT before short words like JOY, KIND and LOVE. Double letters help: the PP in APPRECIATE, the FF in OFFER nearby in spirit — hunt GRATEFUL's TEF cluster and THANKFUL's NK. On hard grids, gratitude words often sit on long horizontals like a written note — clear the middle rows early. THANKS and THANKFUL share a stem; confirm each full spelling on the printed list so you do not stop too soon.",
   },
   mindfulness: {
     vocabulary:
-      "Present-moment English — breath, pause, notice — with no medical claims.",
+      "The mindfulness bank stays present-tense and brand-free: ANCHOR, ATTEND, AWARE, BALANCE, BODY, BREATH, CALM, CENTER, EXHALE, FOCUS, GENTLE, GROUND, INHALE, LISTEN, MOMENT, NOTICE, PAUSE, PEACE, PRESENT, QUIET, RELAX, RELEASE, SETTLE, SILENCE, SIT, SLOW, SOFT, SPACE, STILL, STRETCH, TOUCH and WALK among others. Short words such as AIR, HEAR, LEAF, MIND, SEE and REST keep easy boards friendly. No meditation-app trademarks, no clinical diagnoses and no studio slogans — only everyday quiet-room English. Longer anchors like PRESENT, SILENCE, BALANCE and RELEASE steady harder grids.",
     goodFor:
-      "Adults who want a gentle, non-clinical calm list.",
-    tip: "Compound and long words like PRESENT and SILENCE are easier than SIT or AIR.",
+      "Suited to adults and seniors who want a gentle calm theme without self-help jargon. Meditation is the natural child hub for a longer sit-word list; Yoga, Journaling and Gratitude widen the hour. Care homes and home solvers both do well with large print. Use it as a quiet evening puzzle, not as health advice — the word list describes noticing the moment, nothing more.",
+    tip: "Find PRESENT, SILENCE, BALANCE, RELEASE and NOTICE before short words like AIR, SIT and SEE. Double letters help: the SS in SILENCE and SETTLE, the LL in STILL. On hard grids, calm words often sit on long horizontals like a held breath — clear the middle rows early. INHALE and EXHALE are a useful pair; spotting one often means the other is elsewhere, not overlapping.",
   },
   colors: {
     vocabulary:
@@ -589,10 +589,10 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
   },
   forests: {
     vocabulary:
-      "Woodland English — canopy, moss, trail. Companion to Trees.",
+      "The forests bank stays woodland-plain and brand-free: BARK, CANOPY, CLEARING, CONIFER, CREEK, DAPPLE, DECIDUOUS, DEER, FERN, FLOOR, FOREST, FOX, GLADE, GROVE, HABITAT, LEAF, LOG, MIST, MOSS, NEEDLE, OWL, PATH, ROOT, SAPLING, SEEDLING, SHADE, SOIL, SQUIRREL, STREAM, STUMP, TIMBER, TRAIL, TRUNK, TWILIGHT, UNDERSTORY, WILDLIFE and WOODS among others. Short words such as DEW, FOX, LOG and OWL keep easy boards friendly. No timber-company names, no theme-park forests and no cartoon animals — only everyday woods English. Longer anchors like UNDERSTORY, DECIDUOUS, CLEARING and WILDLIFE steady harder grids.",
     goodFor:
-      "Walkers and nature readers.",
-    tip: "Long words like UNDERSTORY and DECIDUOUS anchor the hard grid.",
+      "Made for walkers, nature readers, seniors who love shaded paths and activity rooms that want a calm outdoor theme. It companions Trees and pairs with Hiking, Birds, Birdwatching and National Parks for a wider green hour. Large print helps when afternoon light is uneven. The tone stays observational and brand-free — a quiet woods puzzle, not a field guide lecture.",
+    tip: "Find UNDERSTORY, DECIDUOUS, CLEARING, WILDLIFE and CANOPY before short words like DEW, LOG and OWL. Distinctive clusters help: the OU in UNDERSTORY and GROUND nearby in spirit — hunt UNDERSTORY's ND and RY. On hard grids, forest words often hang vertically like trunks — scan columns after rows. SAPLING and SEEDLING are related ideas with different spellings; confirm each full word on the printed list.",
   },
   rivers: {
     vocabulary:
@@ -617,10 +617,10 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
   },
   sewing: {
     vocabulary:
-      "Needle, seam and fabric English — no sewing-machine brands.",
+      "The sewing bank stays hands-on and brand-free: APRON, BASTE, BIAS, BOBBIN, BUTTON, COTTON, DART, FABRIC, FACING, GATHER, GRAINLINE, HEM, INTERFACING, LINEN, LINING, MACHINE, MEND, NEEDLE, NOTCH, PATCH, PATTERN, PLEAT, PRESS, PRESSER, SCISSORS, SEAM, SHEARS, SILK, SPOOL, STITCH, THIMBLE, THREAD and ZIPPER among others. Short words such as PIN, CUT, SEW, EDGE, FOOT and BAG keep easy boards friendly. No machine trademarks, no pattern-company slogans and no cartoon craft mascots — only ordinary sewing-room English. Longer anchors like INTERFACING, GRAINLINE, SCISSORS and PATTERN steady harder grids.",
     goodFor:
-      "Quiet craft evenings for adults.",
-    tip: "Long words like SCISSORS and PATTERN stand out first.",
+      "Suited to home sewists, seniors who mend and make, craft clubs and anyone who wants a calm needle theme without shopping noise. It pairs with Knitting and Quilting for a wider handmade hour, and with Home when the project is a pillow or tote. Large print helps when thread spools already crowd the table. Use it as a quiet evening puzzle, not a how-to course — the word list names tools and cloth, nothing more.",
+    tip: "Find INTERFACING, GRAINLINE, SCISSORS, PATTERN and THIMBLE before short words like PIN, CUT and SEW. Double letters help: the SS in SCISSORS and PRESS, the TT in BUTTON and COTTON. On hard grids, seam words often run along long horizontals like a basting line — clear the middle rows early. SEAM, SEAMALLOW and SEAMRIP look related on the printed list; hunt each full spelling separately so you do not mark the wrong neighbor.",
   },
   quilting: {
     vocabulary:
@@ -631,17 +631,17 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
   },
   swimming: {
     vocabulary:
-      "Pool and stroke English — no club brands.",
+      "The swimming bank stays pool-side and brand-free: BACKSTROKE, BREATH, BUTTERFLY, COACH, CURRENT, DISTANCE, DIVE, DRILL, ENDURANCE, FINISH, FLOAT, FREESTYLE, GLIDE, GOGGLE, INTERVAL, KICK, KICKBOARD, LANE, LAP, LOCKER, MEDLEY, OCEAN, PACE, POOL, PULLBUOY, RECOVERY, RELAY, SHALLOW, SHOWER, SNORKEL, SPLASH, SPRINT, STROKE, SWIM, TIMER, TOWEL, TURN, WALL, WARMUP and WAVE among others. Short words such as CAP, DEEP, FINS, PUSH, REST, SUIT and TEAM keep easy boards friendly. No swimwear logos, no meet branding and no cartoon mascots — only everyday water-sport English. Longer anchors like FREESTYLE, BACKSTROKE, ENDURANCE and KICKBOARD steady harder grids.",
     goodFor:
-      "Sports child theme for lap swimmers.",
-    tip: "Long words like FREESTYLE and BACKSTROKE jump out quickly.",
+      "A friendly pick for lap swimmers, water-walkers, seniors who prefer pool exercise and sports fans who want paced vocabulary without stadium noise. It sits under Sports and pairs with Ocean, Lakes and Beach for a wider water hour. Large print suits shared tablets in the lobby after a swim. The tone stays grown-up and brand-free — a calm pool puzzle, not a training plan.",
+    tip: "Find FREESTYLE, BACKSTROKE, ENDURANCE, KICKBOARD and BUTTERFLY before short words like CAP, LAP and SUIT. Distinctive clusters help: the CK in BACKSTROKE and KICKBOARD, the EE in FREESTYLE. On hard grids, stroke words often run long horizontals like a lane line — clear the middle rows early. BREAST and BREATH look similar mid-scan; check the fourth letter before you mark.",
   },
   hiking: {
     vocabulary:
-      "Trail and ridge English — no gear brands.",
+      "The hiking bank stays trail-side and brand-free: ASCENT, BOOT, BOTTLE, CAIRN, CAMP, COMPASS, CONTOUR, CREEK, DESCENT, ELEVATION, FOREST, GAITER, LOOKOUT, MAP, MARKER, MEADOW, MILEAGE, PACK, PATH, POLE, RIDGE, SCENERY, SHELTER, SLOPE, STREAM, SUMMIT, SUNHAT, SWITCHBACK, TRAIL, TWILIGHT, VIEW and VISTA among others. Short words such as HAT, HIKE, MUD, REST, ROCK, SOCK and STEP keep easy boards friendly. No boot logos, no GPS app names and no resort brands — only everyday path English. Longer anchors like SWITCHBACK, ELEVATION, MILEAGE and LOOKOUT steady harder grids.",
     goodFor:
-      "Outdoor companion to camping and mountains.",
-    tip: "Long words such as SWITCHBACK and DESCENT stand out.",
+      "A natural fit for walkers, day-hikers, seniors who enjoy scenic paths and activity rooms that want an outdoor theme without stadium noise. It sits under Camping and pairs with Mountains, Forests, Birdwatching and National Parks for a wider nature hour. Large print suits shared tablets after a walk. The tone stays grown-up and gear-free — a calm trail puzzle, not a guidebook and not a gear catalog.",
+    tip: "Find SWITCHBACK, ELEVATION, MILEAGE, LOOKOUT and DESCENT before short words like HAT, MUD and STEP. Distinctive clusters help: the CK in SWITCHBACK, the OU in LOOKOUT and CONTOUR. On hard grids, trail words often climb diagonally like a path on a map — follow one diagonal before you abandon a slope. ASCENT and DESCENT are a useful pair; spotting one often means the other is elsewhere, not overlapping.",
   },
   cycling: {
     vocabulary:
@@ -729,10 +729,10 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
   },
   pottery: {
     vocabulary:
-      "Clay and kiln English — no pottery-brand names.",
+      "The pottery bank stays studio-practical and brand-free: BISQUE, BOWL, CENTER, CLAY, COIL, ENGOBE, FINISH, FIRE, FOOT, FORM, GLAZE, GLOSS, HANDLE, JAR, KILN, MATTE, MUG, PINCH, PLATE, POT, RIB, RIM, SCULPT, SHAPE, SHELF, SLIP, SPONGE, SPOUT, STUDIO, THROW, TILE, TRIM, VASE, WARE, WEDGE, WHEEL and WIRE among others. Short words such as BAT, DRY, HAND, LIP and TOOL keep easy boards friendly. No clay-body trademarks, no kiln brands and no gallery slogans — only everyday wheel-room English. Longer anchors like STUDIO, BISQUE, ENGOBE and HANDLE steady harder grids.",
     goodFor:
-      "Quiet studio craft for adults.",
-    tip: "Long words like BISQUE and STUDIO stand out first.",
+      "Suited to hobby potters, seniors who remember a wheel class, craft clubs and anyone who wants a calm clay theme without shop talk overload. It pairs with Painting and Woodworking for a wider handmade hour, and with Home when the finished piece is a mug or bowl. Large print helps when clay dust already fills the table. Use it as a quiet evening puzzle, not a firing schedule — the word list names clay and tools, nothing more.",
+    tip: "Find STUDIO, BISQUE, ENGOBE, HANDLE and GLAZE before short words like BAT, POT and LIP. Double letters help: the SS in GLOSS and the LL in HANDLE when it appears nearby in spirit — hunt HANDLE's ND pair and KILN's uncommon K. On hard grids, studio words often sit on long horizontals like a shelf of ware — clear the middle rows early. GLAZE, GLOSS and MATTE are related ideas with different spellings; treat each as a separate hunt.",
   },
   woodworking: {
     vocabulary:
@@ -813,10 +813,10 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
   },
   photography: {
     vocabulary:
-      "Camera craft English — no camera brands.",
+      "The photography bank stays craft-first and brand-free: ALBUM, ANGLE, APERTURE, CAMERA, CAPTURE, COMPOSE, CROP, DARKROOM, DEPTH, EXPOSE, FILM, FILTER, FLASH, FOCUS, FRAME, GALLERY, LANDSCAPE, LENS, MACRO, NEGATIVE, PORTRAIT, PRINT, SHADOW, SHUTTER, SUBJECT, TRIPOD, VIEW and ZOOM among others. Short words such as SHOT, STILL, ROLL, EDIT and WIDE keep easy boards friendly. No camera trademarks, no editing-app names and no stock-agency brands — only everyday light-and-frame English. Longer anchors like APERTURE, DARKROOM, LANDSCAPE and PORTRAIT steady harder grids.",
     goodFor:
-      "Adults who like light-and-frame vocabulary.",
-    tip: "Long words such as APERTURE and DARKROOM stand out quickly.",
+      "A calm fit for hobby photographers, seniors who still love albums, camera-club evenings and anyone who wants looking vocabulary without gear noise. It pairs with Painting and Museums for art-minded hours, and with Travel when the next subject is a vista. Large print suits shared tablets after a walk with a camera. The tone stays grown-up and brand-free — a quiet craft puzzle, not a camera review.",
+    tip: "Find APERTURE, DARKROOM, LANDSCAPE, PORTRAIT and SHUTTER before short words like SHOT, ROLL and WIDE. Distinctive clusters help: the RT in APERTURE and PORTRAIT, the RK in DARKROOM. On hard grids, photo words often sit like frames on a contact sheet — clear one horizontal band, then the next. FOCUS and FRAME are easy to confuse mid-scan; check the third letter before you mark.",
   },
   bible: {
     vocabulary:

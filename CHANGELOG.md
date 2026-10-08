@@ -9,6 +9,11 @@
 
 ## [未发布 Unreleased]
 
+### 改进 — 继续主题 hub 加厚 Loop（2026-10-08）
+- 加厚下一批 8 个仍偏薄主题 hub：Sewing、Hiking、Pottery、Photography、Forests、Swimming、Gratitude、Mindfulness（排除 Wave #1 P0/P1 已做 15 个）。
+- 各主题 `description` 扩至约 124–136 词；`THEME_EXTRA`（vocabulary / goodFor / tip）与 description 合计约 333–375 有用英文词，并点名相关主题与 large print / how to play。
+- 语气面向成人与老年读者；Mindfulness / Gratitude 明确无医疗宣称、无品牌名；全批禁 IP。修改 `data/themes/*.json` 与 `lib/theme-content.ts`。
+
 ### 改进 — Wave #1 P1 第二批主题 hub 加厚（2026-10-08）
 - 加厚 7 个偏薄主题 hub：Quilting、Volunteering、Reading、Home、Calligraphy、Dogs、Valentine's Day。
 - 各主题 `description` 扩至约 104–124 词；`THEME_EXTRA`（vocabulary / goodFor / tip）合计约 288–351 有用英文词，并点名相关主题与 large print。
