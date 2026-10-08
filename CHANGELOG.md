@@ -9,6 +9,9 @@
 
 ## [未发布 Unreleased]
 
+### Daily puzzles
+- 2026-10-15 — Daily Word Search: Airplanes (Medium) (airplanes / medium).
+
 ### 改进 — 补齐全部主题难度递进图 + 节日 OG 底图（2026-10-08）
 - Asrock `words-at-rest-current` 交付：此前缺失的 **101** 个主题 × Easy/Medium/Hard 插画（各 `1200×900` + `-640` + `-320`），共 **909** 个新 WebP；原有 **20** 组难度图字节未改。
 - 全站难度递进图现为 **121 / 121** 主题齐全（`final-validation.json`：`availableTotalThemeSeries=121`、`missing=[]`、`uniqueDifficultyMasters=303`）。

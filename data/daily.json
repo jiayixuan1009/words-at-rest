@@ -2092,6 +2092,291 @@
       ],
       "seed": 948568466,
       "createdAt": "2026-10-07T01:30:28.317Z"
+    },
+    {
+      "date": "2026-10-15",
+      "id": "daily-2026-10-15",
+      "slug": "daily-2026-10-15",
+      "themeId": "airplanes",
+      "difficulty": "medium",
+      "title": "Daily Word Search: Airplanes (Medium)",
+      "primaryKeyword": "daily airplanes word search",
+      "gridSize": 12,
+      "largePrint": false,
+      "words": [
+        "ALTITUDE",
+        "BELT",
+        "DOOR",
+        "GATE",
+        "HANGAR",
+        "JET",
+        "MAP",
+        "NOSE",
+        "RADIO",
+        "RAMP",
+        "RUNWAY",
+        "TAXI",
+        "TERMINAL",
+        "TURBULENCE"
+      ],
+      "grid": [
+        [
+          "B",
+          "M",
+          "A",
+          "P",
+          "D",
+          "K",
+          "V",
+          "R",
+          "E",
+          "X",
+          "O",
+          "L"
+        ],
+        [
+          "B",
+          "N",
+          "O",
+          "S",
+          "E",
+          "R",
+          "U",
+          "N",
+          "W",
+          "A",
+          "Y",
+          "E"
+        ],
+        [
+          "E",
+          "D",
+          "O",
+          "O",
+          "R",
+          "C",
+          "O",
+          "R",
+          "A",
+          "M",
+          "P",
+          "C"
+        ],
+        [
+          "B",
+          "V",
+          "T",
+          "U",
+          "R",
+          "B",
+          "U",
+          "L",
+          "E",
+          "N",
+          "C",
+          "E"
+        ],
+        [
+          "E",
+          "T",
+          "A",
+          "U",
+          "M",
+          "B",
+          "C",
+          "U",
+          "Z",
+          "F",
+          "T",
+          "U"
+        ],
+        [
+          "L",
+          "S",
+          "L",
+          "O",
+          "N",
+          "D",
+          "J",
+          "E",
+          "T",
+          "I",
+          "E",
+          "K"
+        ],
+        [
+          "T",
+          "I",
+          "T",
+          "X",
+          "X",
+          "H",
+          "A",
+          "N",
+          "G",
+          "A",
+          "R",
+          "D"
+        ],
+        [
+          "E",
+          "B",
+          "I",
+          "O",
+          "Z",
+          "T",
+          "N",
+          "N",
+          "U",
+          "L",
+          "M",
+          "X"
+        ],
+        [
+          "L",
+          "S",
+          "T",
+          "O",
+          "Y",
+          "R",
+          "A",
+          "D",
+          "I",
+          "O",
+          "I",
+          "O"
+        ],
+        [
+          "T",
+          "X",
+          "U",
+          "G",
+          "A",
+          "T",
+          "E",
+          "R",
+          "E",
+          "X",
+          "N",
+          "E"
+        ],
+        [
+          "Q",
+          "G",
+          "D",
+          "R",
+          "V",
+          "Q",
+          "N",
+          "F",
+          "A",
+          "P",
+          "A",
+          "A"
+        ],
+        [
+          "Z",
+          "Q",
+          "E",
+          "U",
+          "W",
+          "W",
+          "M",
+          "T",
+          "H",
+          "P",
+          "L",
+          "P"
+        ]
+      ],
+      "placements": [
+        {
+          "word": "TURBULENCE",
+          "row": 3,
+          "col": 2,
+          "direction": "E"
+        },
+        {
+          "word": "ALTITUDE",
+          "row": 4,
+          "col": 2,
+          "direction": "S"
+        },
+        {
+          "word": "TERMINAL",
+          "row": 4,
+          "col": 10,
+          "direction": "S"
+        },
+        {
+          "word": "HANGAR",
+          "row": 6,
+          "col": 5,
+          "direction": "E"
+        },
+        {
+          "word": "RUNWAY",
+          "row": 1,
+          "col": 5,
+          "direction": "E"
+        },
+        {
+          "word": "RADIO",
+          "row": 8,
+          "col": 5,
+          "direction": "E"
+        },
+        {
+          "word": "BELT",
+          "row": 3,
+          "col": 0,
+          "direction": "S"
+        },
+        {
+          "word": "NOSE",
+          "row": 1,
+          "col": 1,
+          "direction": "E"
+        },
+        {
+          "word": "DOOR",
+          "row": 2,
+          "col": 1,
+          "direction": "E"
+        },
+        {
+          "word": "GATE",
+          "row": 9,
+          "col": 3,
+          "direction": "E"
+        },
+        {
+          "word": "RAMP",
+          "row": 2,
+          "col": 7,
+          "direction": "E"
+        },
+        {
+          "word": "TAXI",
+          "row": 11,
+          "col": 7,
+          "direction": "NE"
+        },
+        {
+          "word": "JET",
+          "row": 5,
+          "col": 6,
+          "direction": "E"
+        },
+        {
+          "word": "MAP",
+          "row": 0,
+          "col": 1,
+          "direction": "E"
+        }
+      ],
+      "seed": 965346085,
+      "createdAt": "2026-10-08T02:59:28.997Z"
     }
   ]
 }
