@@ -12,6 +12,7 @@
 ### 新增 — AdSense 全站脚本（2026-10-08）
 - 根布局 head 加入用户提供的 Google AdSense 脚本，publisher `ca-pub-6775124504429409`，保留 `async` 与 `crossorigin="anonymous"`，全站页面共享。
 - 更新广告占位组件注释以反映全局脚本已接入。
+- **Deploy（2026-10-08）：** commit `9e3e55d` → master；Worker `42303117-298c-4372-8a0b-531f7a8be3c4`，100% 流量。typecheck、predeploy（每日校验及全部测试）、生产构建通过；线上 `/` 和 `/daily` 各一份脚本，位于 head，publisher、async、crossorigin 均正确，格子和 canonical 正常。
 
 ### 新增 — Microsoft Clarity（2026-10-08）
 - 全站接入 Clarity 项目 `yubihvuzyv`，异步加载官方追踪脚本；沿用现有 Analytics choices，仅同意统计后加载，并传递 ConsentV2（analytics granted / ads denied）。
