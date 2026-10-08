@@ -25,7 +25,7 @@ export default function CookieConsent() {
   return (
     <aside aria-label="Analytics choices" className="analytics-notice no-print border-y border-[#d4cbb8] bg-[#efe7d9]">
       <div className="mx-auto flex max-w-6xl flex-wrap items-center gap-3 px-4 py-3 font-sans text-base sm:px-8">
-        <p className="flex-1 basis-64">Allow optional analytics to help improve our puzzles? Playing and saving progress work either way. <Link href="/privacy#analytics">Privacy details</Link></p>
+        <p className="flex-1 basis-64">Allow optional analytics to help improve our puzzles? Playing and saving progress work either way. <Link href="/privacy#analytics" className="underline underline-offset-4">Privacy details</Link></p>
         <button type="button" onClick={() => choose("rejected")} className="min-h-11 rounded-full border border-[#b8a990] px-4 py-2">Reject analytics</button>
         <button type="button" onClick={() => choose("accepted")} className="min-h-11 rounded-full border border-[#b8a990] px-4 py-2">Allow analytics</button>
       </div>

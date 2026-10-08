@@ -6,6 +6,8 @@
  * scripts/derive-images.mjs and exposed via srcset.
  */
 
+import renditions from "./image-renditions.json";
+
 export interface Art {
   src: string;
   width: number;
@@ -16,13 +18,18 @@ export interface Art {
 }
 
 const v = (base: string, w: number): [string, number] => [base.replace(/\.webp$/, `-${w}.webp`), w];
-const art = (src: string, width: number, height: number, alt: string, variantWidths: number[] = []): Art => ({
+const optimized = renditions as unknown as Record<string, { src: string; width: number; height: number; variants: [string, number][] } | undefined>;
+const art = (src: string, width: number, height: number, alt: string, variantWidths: number[] = []): Art => {
+  const rendition = optimized[src];
+  if (rendition) return { ...rendition, alt };
+  return {
   src,
   width,
   height,
   alt,
   variants: variantWidths.map((w) => v(src, w)),
-});
+  };
+};
 
 export const ART = {
   heroDesktop: art("/images/home/hero-desktop.webp", 1600, 1200, "A quiet morning table by a window, with a cup of coffee and a folded puzzle page", [1200]),

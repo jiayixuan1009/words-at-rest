@@ -1,0 +1,2402 @@
+{
+  "/images/themes/airplanes.webp": {
+    "src": "/art-assets/airplanes-1200-137950c1b9e569e7.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/airplanes-320-e305eb5aded91b11.webp",
+        320
+      ],
+      [
+        "/art-assets/airplanes-640-6e253126524e6ca9.webp",
+        640
+      ],
+      [
+        "/art-assets/airplanes-960-a359cae8e46a4573.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/american-history.webp": {
+    "src": "/art-assets/american-history-1200-c1fd44b933c3f95e.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/american-history-320-fe8690eba8b3f732.webp",
+        320
+      ],
+      [
+        "/art-assets/american-history-640-9cc4918543176ed5.webp",
+        640
+      ],
+      [
+        "/art-assets/american-history-960-81889d8244ae7cee.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/animals.webp": {
+    "src": "/art-assets/animals-1200-dda4823e191ec1be.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/animals-320-582ed76a13cece15.webp",
+        320
+      ],
+      [
+        "/art-assets/animals-640-70402946b23c945e.webp",
+        640
+      ],
+      [
+        "/art-assets/animals-960-4a9afda5f02ac352.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/apothecary.webp": {
+    "src": "/art-assets/apothecary-1200-0e02c9c39e13506f.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/apothecary-320-16fe950f674c8750.webp",
+        320
+      ],
+      [
+        "/art-assets/apothecary-640-b136a142d2394772.webp",
+        640
+      ],
+      [
+        "/art-assets/apothecary-960-8b6dfc5f0deb8849.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/architecture.webp": {
+    "src": "/art-assets/architecture-1200-77b021078c56b99b.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/architecture-320-8d818294af753aab.webp",
+        320
+      ],
+      [
+        "/art-assets/architecture-640-9cf916446d4499ba.webp",
+        640
+      ],
+      [
+        "/art-assets/architecture-960-babf8e1a829dbbf2.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/astronomy.webp": {
+    "src": "/art-assets/astronomy-1200-665a9f55a8998045.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/astronomy-320-5187e140e0c3b8b6.webp",
+        320
+      ],
+      [
+        "/art-assets/astronomy-640-79efd4e0b2b15f3f.webp",
+        640
+      ],
+      [
+        "/art-assets/astronomy-960-acf92f5d2215fcbd.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/baking.webp": {
+    "src": "/art-assets/baking-1200-7e6bd9ea702c170e.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/baking-320-32590da41f647031.webp",
+        320
+      ],
+      [
+        "/art-assets/baking-640-067cd18e3c03b53b.webp",
+        640
+      ],
+      [
+        "/art-assets/baking-960-f9b87874acca1ded.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/baseball.webp": {
+    "src": "/art-assets/baseball-1200-bd9eb9d3b5dcd943.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/baseball-320-f38c7203959a2a4c.webp",
+        320
+      ],
+      [
+        "/art-assets/baseball-640-ecc35206f967b534.webp",
+        640
+      ],
+      [
+        "/art-assets/baseball-960-127c724b442a09e9.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/basketball.webp": {
+    "src": "/art-assets/basketball-1200-2fefc6582e93aea6.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/basketball-320-4a213ea552e61f40.webp",
+        320
+      ],
+      [
+        "/art-assets/basketball-640-bad143326fd589cb.webp",
+        640
+      ],
+      [
+        "/art-assets/basketball-960-ef487107fe039dd5.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/beach.webp": {
+    "src": "/art-assets/beach-1200-e99d70ebb731a7df.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/beach-320-6b5a4570f7909249.webp",
+        320
+      ],
+      [
+        "/art-assets/beach-640-184fcece7acb08a2.webp",
+        640
+      ],
+      [
+        "/art-assets/beach-960-3dc872721147d56a.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/bible.webp": {
+    "src": "/art-assets/bible-1200-14617f83ecd3a8de.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/bible-320-23aeb6afa07426c2.webp",
+        320
+      ],
+      [
+        "/art-assets/bible-640-38474f02bf4ded63.webp",
+        640
+      ],
+      [
+        "/art-assets/bible-960-0312f8ba7590e055.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/birds.webp": {
+    "src": "/art-assets/birds-1200-6113ab146ce4f10c.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/birds-320-341671a590436099.webp",
+        320
+      ],
+      [
+        "/art-assets/birds-640-6d1caf960cbedda0.webp",
+        640
+      ],
+      [
+        "/art-assets/birds-960-3265ad1ecf63ec23.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/birdwatching.webp": {
+    "src": "/art-assets/birdwatching-1200-0254e7aa4add67a4.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/birdwatching-320-0f443b1b5bfe282e.webp",
+        320
+      ],
+      [
+        "/art-assets/birdwatching-640-d53a9e09b9ad11c0.webp",
+        640
+      ],
+      [
+        "/art-assets/birdwatching-960-610af78a3ffe9316.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/birthday.webp": {
+    "src": "/art-assets/birthday-1200-1665aa1c4f20ce7d.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/birthday-320-c70d777abea45517.webp",
+        320
+      ],
+      [
+        "/art-assets/birthday-640-27ca641b6a2058c6.webp",
+        640
+      ],
+      [
+        "/art-assets/birthday-960-2d24529a6ad16326.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/board-games.webp": {
+    "src": "/art-assets/board-games-1200-06b8efe21497bff8.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/board-games-320-5dea29b8bbb1371b.webp",
+        320
+      ],
+      [
+        "/art-assets/board-games-640-9064ae925b275d34.webp",
+        640
+      ],
+      [
+        "/art-assets/board-games-960-801597ec8a815327.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/breakfast.webp": {
+    "src": "/art-assets/breakfast-1200-2f3401320a057ab7.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/breakfast-320-888f44e739cb6cb1.webp",
+        320
+      ],
+      [
+        "/art-assets/breakfast-640-ff24ad2bf063a533.webp",
+        640
+      ],
+      [
+        "/art-assets/breakfast-960-e940428d409d6902.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/calligraphy.webp": {
+    "src": "/art-assets/calligraphy-1200-6d96e35166b36ed2.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/calligraphy-320-ef7006f33bb5d764.webp",
+        320
+      ],
+      [
+        "/art-assets/calligraphy-640-5055232be2beab66.webp",
+        640
+      ],
+      [
+        "/art-assets/calligraphy-960-1a793c561c19bc53.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/camping.webp": {
+    "src": "/art-assets/camping-1200-1dde0ff3d4aa180c.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/camping-320-d8ab4dbe4161b12f.webp",
+        320
+      ],
+      [
+        "/art-assets/camping-640-7bebb25edd7811ad.webp",
+        640
+      ],
+      [
+        "/art-assets/camping-960-a61524e5a0cb7d57.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/cars.webp": {
+    "src": "/art-assets/cars-1200-3d61f0d7b94b291d.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/cars-320-b834779abf2fef6f.webp",
+        320
+      ],
+      [
+        "/art-assets/cars-640-c9c4443597d4cc67.webp",
+        640
+      ],
+      [
+        "/art-assets/cars-960-529828996da997e2.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/cats.webp": {
+    "src": "/art-assets/cats-1200-ad054795276f7dc6.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/cats-320-a13487bc69b948eb.webp",
+        320
+      ],
+      [
+        "/art-assets/cats-640-44bfe0bd60d5b205.webp",
+        640
+      ],
+      [
+        "/art-assets/cats-960-012ff66dfe18398e.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/chemistry.webp": {
+    "src": "/art-assets/chemistry-1200-905ff4513925d7d6.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/chemistry-320-ac6b86d6129cb8c9.webp",
+        320
+      ],
+      [
+        "/art-assets/chemistry-640-b3b6dc7acb437ef4.webp",
+        640
+      ],
+      [
+        "/art-assets/chemistry-960-1f245db685415950.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/chess.webp": {
+    "src": "/art-assets/chess-1200-f9dffc56b2a299be.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/chess-320-984588dbba073f8b.webp",
+        320
+      ],
+      [
+        "/art-assets/chess-640-fd995e645c91306f.webp",
+        640
+      ],
+      [
+        "/art-assets/chess-960-d6fdbb23ed7cde4b.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/christmas.webp": {
+    "src": "/art-assets/christmas-1200-9be6b4e4ee511180.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/christmas-320-3d971dca1db5f639.webp",
+        320
+      ],
+      [
+        "/art-assets/christmas-640-56d8a9b302a0e7bf.webp",
+        640
+      ],
+      [
+        "/art-assets/christmas-960-20a9510629569c3d.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/cities.webp": {
+    "src": "/art-assets/cities-1200-e2ff1ef32a083bd7.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/cities-320-10e6da9fdea65891.webp",
+        320
+      ],
+      [
+        "/art-assets/cities-640-af4da6af927a7460.webp",
+        640
+      ],
+      [
+        "/art-assets/cities-960-68a37eeedf37da3b.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/classical.webp": {
+    "src": "/art-assets/classical-1200-413472661d9925b7.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/classical-320-cb5ce8460e774fe0.webp",
+        320
+      ],
+      [
+        "/art-assets/classical-640-d12416441c6e69a6.webp",
+        640
+      ],
+      [
+        "/art-assets/classical-960-dbc7905627f9bec7.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/coffee-tea.webp": {
+    "src": "/art-assets/coffee-tea-1200-cdea678d801becaf.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/coffee-tea-320-4b3d0d23f99cf9be.webp",
+        320
+      ],
+      [
+        "/art-assets/coffee-tea-640-222c727f7265a473.webp",
+        640
+      ],
+      [
+        "/art-assets/coffee-tea-960-e8a476930ec14f27.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/colors.webp": {
+    "src": "/art-assets/colors-1200-1943b609f83f3753.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/colors-320-53b316377ede582f.webp",
+        320
+      ],
+      [
+        "/art-assets/colors-640-b12c957e2651f81d.webp",
+        640
+      ],
+      [
+        "/art-assets/colors-960-18bf297af5cf4881.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/continents.webp": {
+    "src": "/art-assets/continents-1200-e45b8237cec712b1.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/continents-320-0155ca95e4e63d73.webp",
+        320
+      ],
+      [
+        "/art-assets/continents-640-3b8f1d0fcd5ce2e8.webp",
+        640
+      ],
+      [
+        "/art-assets/continents-960-6660002ec3091038.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/cooking.webp": {
+    "src": "/art-assets/cooking-1200-edae24bbd0a3dd7d.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/cooking-320-8487c3b1359f986d.webp",
+        320
+      ],
+      [
+        "/art-assets/cooking-640-ab2f88dbd214b5b2.webp",
+        640
+      ],
+      [
+        "/art-assets/cooking-960-7a656e0a9e18efac.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/countries.webp": {
+    "src": "/art-assets/countries-1200-81c7a1752c3b25bc.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/countries-320-8bea19d3d024c638.webp",
+        320
+      ],
+      [
+        "/art-assets/countries-640-bdbf43fcac978146.webp",
+        640
+      ],
+      [
+        "/art-assets/countries-960-aefee25fca2a0822.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/cycling.webp": {
+    "src": "/art-assets/cycling-1200-8aa4f3eb39e251ac.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/cycling-320-4a7906bbea6241b2.webp",
+        320
+      ],
+      [
+        "/art-assets/cycling-640-5d62577bf9345d80.webp",
+        640
+      ],
+      [
+        "/art-assets/cycling-960-c7834b0ecac7fcff.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/deserts.webp": {
+    "src": "/art-assets/deserts-1200-111b1a81baf79c9c.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/deserts-320-c8cde1de7120649c.webp",
+        320
+      ],
+      [
+        "/art-assets/deserts-640-6324eddfa1f32d56.webp",
+        640
+      ],
+      [
+        "/art-assets/deserts-960-379c93553f413303.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/desserts.webp": {
+    "src": "/art-assets/desserts-1200-e534ab394392ed66.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/desserts-320-0538bbeadad4f2b5.webp",
+        320
+      ],
+      [
+        "/art-assets/desserts-640-3b9c0eeacbd4caab.webp",
+        640
+      ],
+      [
+        "/art-assets/desserts-960-4ac3add959c42610.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/dinosaurs.webp": {
+    "src": "/art-assets/dinosaurs-1200-854daf7e8c6e6d92.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/dinosaurs-320-8d0dc4a793eac9ce.webp",
+        320
+      ],
+      [
+        "/art-assets/dinosaurs-640-012196f15093f78f.webp",
+        640
+      ],
+      [
+        "/art-assets/dinosaurs-960-f3d9f7e0bd650b0b.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/dogs.webp": {
+    "src": "/art-assets/dogs-1200-d7853531cc86fe3a.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/dogs-320-bc5e5406045d5e06.webp",
+        320
+      ],
+      [
+        "/art-assets/dogs-640-152689c02ef43418.webp",
+        640
+      ],
+      [
+        "/art-assets/dogs-960-f5ca610560c134bf.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/easter.webp": {
+    "src": "/art-assets/easter-1200-eb88ec80bccd1361.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/easter-320-861fa6ed6d701006.webp",
+        320
+      ],
+      [
+        "/art-assets/easter-640-a112728a4da63083.webp",
+        640
+      ],
+      [
+        "/art-assets/easter-960-01bdaa3b70bb8f7b.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/emotions.webp": {
+    "src": "/art-assets/emotions-1200-ff6387e238fda514.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/emotions-320-15128ce17cc35bb1.webp",
+        320
+      ],
+      [
+        "/art-assets/emotions-640-72ac16654c2d0fc1.webp",
+        640
+      ],
+      [
+        "/art-assets/emotions-960-6879f7b34d0a4f7a.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/fall.webp": {
+    "src": "/art-assets/fall-1200-fe099cc0cd486950.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/fall-320-f2b95a9b82f2e495.webp",
+        320
+      ],
+      [
+        "/art-assets/fall-640-83fd31b528d24c2b.webp",
+        640
+      ],
+      [
+        "/art-assets/fall-960-7a311a77af2f09ae.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/farm-animals.webp": {
+    "src": "/art-assets/farm-animals-1200-376b9cee1cdd8f8d.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/farm-animals-320-2debbb46beca08a7.webp",
+        320
+      ],
+      [
+        "/art-assets/farm-animals-640-ffe7088799c29f35.webp",
+        640
+      ],
+      [
+        "/art-assets/farm-animals-960-ad6a25ec48068acc.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/farming.webp": {
+    "src": "/art-assets/farming-1200-71a7b037fe3cd650.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/farming-320-b4a81a7c0c34d363.webp",
+        320
+      ],
+      [
+        "/art-assets/farming-640-b50a6696ac594df2.webp",
+        640
+      ],
+      [
+        "/art-assets/farming-960-df768e6c3a73af58.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/fathers-day.webp": {
+    "src": "/art-assets/fathers-day-1200-43d4549447c6df12.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/fathers-day-320-f167b0628c60a327.webp",
+        320
+      ],
+      [
+        "/art-assets/fathers-day-640-eebc681016ac1194.webp",
+        640
+      ],
+      [
+        "/art-assets/fathers-day-960-1f50447b39c8ca12.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/fishing.webp": {
+    "src": "/art-assets/fishing-1200-0f92fe76c5d561c1.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/fishing-320-ed521fab4f7a735b.webp",
+        320
+      ],
+      [
+        "/art-assets/fishing-640-84bcf2678b2e8021.webp",
+        640
+      ],
+      [
+        "/art-assets/fishing-960-fa5a0cb738173e13.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/flowers.webp": {
+    "src": "/art-assets/flowers-1200-879b4cf8d4730b77.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/flowers-320-7ebb0cfad64066fe.webp",
+        320
+      ],
+      [
+        "/art-assets/flowers-640-8a6c4cf34e484ee1.webp",
+        640
+      ],
+      [
+        "/art-assets/flowers-960-fde19d857508e1a2.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/food.webp": {
+    "src": "/art-assets/food-1200-f02b8e696f3365e7.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/food-320-72085f0d3a2517f9.webp",
+        320
+      ],
+      [
+        "/art-assets/food-640-1d80c8a2d5ddc67a.webp",
+        640
+      ],
+      [
+        "/art-assets/food-960-199fcf0a77d44ab1.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/forests.webp": {
+    "src": "/art-assets/forests-1200-9bd26830dc9623f5.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/forests-320-bc27f4e981dbb725.webp",
+        320
+      ],
+      [
+        "/art-assets/forests-640-b78229c4469005bc.webp",
+        640
+      ],
+      [
+        "/art-assets/forests-960-d03f1e0d528c4c10.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/friendship.webp": {
+    "src": "/art-assets/friendship-1200-c3af00b60a13f046.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/friendship-320-9bfdab01bc1cd958.webp",
+        320
+      ],
+      [
+        "/art-assets/friendship-640-1e59ba7e7888c036.webp",
+        640
+      ],
+      [
+        "/art-assets/friendship-960-39c890e1b07aef28.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/fruits.webp": {
+    "src": "/art-assets/fruits-1200-9e0e67d55ad172af.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/fruits-320-60537a172e55ee33.webp",
+        320
+      ],
+      [
+        "/art-assets/fruits-640-8958b5988b9bcd1b.webp",
+        640
+      ],
+      [
+        "/art-assets/fruits-960-10a2b4d41f948072.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/garden.webp": {
+    "src": "/art-assets/garden-1200-55d5bb7cd1b3baef.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/garden-320-6b641284e7ef00e4.webp",
+        320
+      ],
+      [
+        "/art-assets/garden-640-7796899217323d51.webp",
+        640
+      ],
+      [
+        "/art-assets/garden-960-0d2d956090ae3c60.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/gardening-tools.webp": {
+    "src": "/art-assets/gardening-tools-1200-6a61d2489e0dc61c.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/gardening-tools-320-21c46a813688d864.webp",
+        320
+      ],
+      [
+        "/art-assets/gardening-tools-640-e6d2cb7759313f5b.webp",
+        640
+      ],
+      [
+        "/art-assets/gardening-tools-960-91ead453555b9c5c.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/geology.webp": {
+    "src": "/art-assets/geology-1200-0bf1f055b3814794.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/geology-320-4c600eed7f04c9ca.webp",
+        320
+      ],
+      [
+        "/art-assets/geology-640-368ac5f214bf8a86.webp",
+        640
+      ],
+      [
+        "/art-assets/geology-960-4cf37e0328e48ec2.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/golf.webp": {
+    "src": "/art-assets/golf-1200-02e96b64258374a9.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/golf-320-0e75ea2841f58ff5.webp",
+        320
+      ],
+      [
+        "/art-assets/golf-640-61d4550d1f7c1990.webp",
+        640
+      ],
+      [
+        "/art-assets/golf-960-90f64be496d8e8c2.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/gratitude.webp": {
+    "src": "/art-assets/gratitude-1200-703c9470918e019b.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/gratitude-320-d504074dd72065c1.webp",
+        320
+      ],
+      [
+        "/art-assets/gratitude-640-b102adfac521081e.webp",
+        640
+      ],
+      [
+        "/art-assets/gratitude-960-2310c2824cf48b9a.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/halloween.webp": {
+    "src": "/art-assets/halloween-1200-66a7c96b320c2068.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/halloween-320-38f4ce169e6d6d3c.webp",
+        320
+      ],
+      [
+        "/art-assets/halloween-640-90885da40ef52e3f.webp",
+        640
+      ],
+      [
+        "/art-assets/halloween-960-17da4b7ea30f7224.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/hard-pack.webp": {
+    "src": "/art-assets/hard-pack-1200-269d4a96b12fc908.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/hard-pack-320-00b5873b5c2c4b94.webp",
+        320
+      ],
+      [
+        "/art-assets/hard-pack-640-ca60fad0e5554312.webp",
+        640
+      ],
+      [
+        "/art-assets/hard-pack-960-6239ff940819d4b2.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/herbs.webp": {
+    "src": "/art-assets/herbs-1200-866d079b772a1978.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/herbs-320-f7f9d172391fd451.webp",
+        320
+      ],
+      [
+        "/art-assets/herbs-640-d827c9e8359f19d1.webp",
+        640
+      ],
+      [
+        "/art-assets/herbs-960-786ccbdf7b8ac85b.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/hiking.webp": {
+    "src": "/art-assets/hiking-1200-84132f4b5d80a1ca.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/hiking-320-a0c490835ea5e9d2.webp",
+        320
+      ],
+      [
+        "/art-assets/hiking-640-e70f878a337d8875.webp",
+        640
+      ],
+      [
+        "/art-assets/hiking-960-1b89fb3613fb3a84.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/home.webp": {
+    "src": "/art-assets/home-1200-50d8bcecd07ccc1f.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/home-320-74aee269bc2ecfae.webp",
+        320
+      ],
+      [
+        "/art-assets/home-640-5fb8c11fdce500c8.webp",
+        640
+      ],
+      [
+        "/art-assets/home-960-1105a9a40770aed7.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/horses.webp": {
+    "src": "/art-assets/horses-1200-492a0b8b20c02577.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/horses-320-8d07c51c2d16d354.webp",
+        320
+      ],
+      [
+        "/art-assets/horses-640-81d016c96e05dafa.webp",
+        640
+      ],
+      [
+        "/art-assets/horses-960-5f2fc15542ac6d1b.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/human-body.webp": {
+    "src": "/art-assets/human-body-1200-3a9cf97594cd4255.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/human-body-320-261cf02d1cd3a3c2.webp",
+        320
+      ],
+      [
+        "/art-assets/human-body-640-c9457d85dcdd8109.webp",
+        640
+      ],
+      [
+        "/art-assets/human-body-960-72cef55df4f0d65d.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/independence-day.webp": {
+    "src": "/art-assets/independence-day-1200-35d90f83105c9965.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/independence-day-320-4a2ae3b3adeec3ff.webp",
+        320
+      ],
+      [
+        "/art-assets/independence-day-640-0438238382ec455b.webp",
+        640
+      ],
+      [
+        "/art-assets/independence-day-960-36cb2c77c8b30784.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/insects.webp": {
+    "src": "/art-assets/insects-1200-37629a00bdeafdc2.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/insects-320-4a89e557e58e238e.webp",
+        320
+      ],
+      [
+        "/art-assets/insects-640-a2cf002de9b22efb.webp",
+        640
+      ],
+      [
+        "/art-assets/insects-960-ff1ceb3f3c9b35f8.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/instruments.webp": {
+    "src": "/art-assets/instruments-1200-aff3073497636867.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/instruments-320-b4ce73b368860d5e.webp",
+        320
+      ],
+      [
+        "/art-assets/instruments-640-f9f5475a4bdad4d1.webp",
+        640
+      ],
+      [
+        "/art-assets/instruments-960-9569dd9a32193238.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/islands.webp": {
+    "src": "/art-assets/islands-1200-0e11c1e875744f08.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/islands-320-a82cf5371c7aa530.webp",
+        320
+      ],
+      [
+        "/art-assets/islands-640-1f19b264bfade990.webp",
+        640
+      ],
+      [
+        "/art-assets/islands-960-d4f573089f03123d.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/jazz.webp": {
+    "src": "/art-assets/jazz-1200-91b3b4faadc0b303.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/jazz-320-d77fd8d4a53d5cca.webp",
+        320
+      ],
+      [
+        "/art-assets/jazz-640-e00883d1512b6f3d.webp",
+        640
+      ],
+      [
+        "/art-assets/jazz-960-15eedf2fe3e9b06c.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/jobs.webp": {
+    "src": "/art-assets/jobs-1200-4c33b75dbe8abd42.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/jobs-320-af39087e4c030cb5.webp",
+        320
+      ],
+      [
+        "/art-assets/jobs-640-6a3b5cdf6b96855f.webp",
+        640
+      ],
+      [
+        "/art-assets/jobs-960-2b8c83b36e664a12.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/journaling.webp": {
+    "src": "/art-assets/journaling-1200-63a4636c17f182a6.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/journaling-320-241c743db351d0c3.webp",
+        320
+      ],
+      [
+        "/art-assets/journaling-640-72f043f7f0c2bfde.webp",
+        640
+      ],
+      [
+        "/art-assets/journaling-960-7eb83e100356d31b.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/kindness.webp": {
+    "src": "/art-assets/kindness-1200-837b4a0aba476dc3.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/kindness-320-9498de412b797be2.webp",
+        320
+      ],
+      [
+        "/art-assets/kindness-640-5a128bbfbd167e34.webp",
+        640
+      ],
+      [
+        "/art-assets/kindness-960-b1fdf7d17f0b41c4.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/kitchen.webp": {
+    "src": "/art-assets/kitchen-1200-b1ae37b258344f76.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/kitchen-320-174c412c75a6d18e.webp",
+        320
+      ],
+      [
+        "/art-assets/kitchen-640-0d47e272accb234e.webp",
+        640
+      ],
+      [
+        "/art-assets/kitchen-960-59139c9d74ca8831.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/knitting.webp": {
+    "src": "/art-assets/knitting-1200-fa841256709d00bf.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/knitting-320-7799a74b54610d2a.webp",
+        320
+      ],
+      [
+        "/art-assets/knitting-640-d70fd6a78d236181.webp",
+        640
+      ],
+      [
+        "/art-assets/knitting-960-e1f9cdec8aa8fc28.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/lakes.webp": {
+    "src": "/art-assets/lakes-1200-ff950d1578f15d6f.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/lakes-320-992bcae2e54dd5af.webp",
+        320
+      ],
+      [
+        "/art-assets/lakes-640-4269108ec32c20d5.webp",
+        640
+      ],
+      [
+        "/art-assets/lakes-960-65dcae20c9be127f.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/landmarks.webp": {
+    "src": "/art-assets/landmarks-1200-98b23a54d1ec56fb.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/landmarks-320-eaf11f471f836f77.webp",
+        320
+      ],
+      [
+        "/art-assets/landmarks-640-987d989f9f77a8e0.webp",
+        640
+      ],
+      [
+        "/art-assets/landmarks-960-d00ace4a5d4ac9d9.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/large-print-pack.webp": {
+    "src": "/art-assets/large-print-pack-1200-94ce10d6e024e7f9.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/large-print-pack-320-1cab495630b72071.webp",
+        320
+      ],
+      [
+        "/art-assets/large-print-pack-640-80da68d31a165d7b.webp",
+        640
+      ],
+      [
+        "/art-assets/large-print-pack-960-8046ee86ab334e06.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/libraries.webp": {
+    "src": "/art-assets/libraries-1200-9eb48b6b9520e0dd.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/libraries-320-84aa22403067b3ee.webp",
+        320
+      ],
+      [
+        "/art-assets/libraries-640-5bbb503163795e44.webp",
+        640
+      ],
+      [
+        "/art-assets/libraries-960-c68fe2b45f75010e.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/lighthouses.webp": {
+    "src": "/art-assets/lighthouses-1200-dc77cb3d570a99e2.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/lighthouses-320-5fdbbe01581e0433.webp",
+        320
+      ],
+      [
+        "/art-assets/lighthouses-640-db8abe06296317f8.webp",
+        640
+      ],
+      [
+        "/art-assets/lighthouses-960-5f3bd9e27589cd6b.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/meditation.webp": {
+    "src": "/art-assets/meditation-1200-24c355c59616f0fd.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/meditation-320-3651303371cce284.webp",
+        320
+      ],
+      [
+        "/art-assets/meditation-640-24239e60bbcdc097.webp",
+        640
+      ],
+      [
+        "/art-assets/meditation-960-6bf34b05fd6435d8.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/mindfulness.webp": {
+    "src": "/art-assets/mindfulness-1200-81ef4584e4f01d15.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/mindfulness-320-104db3a6fa8f4051.webp",
+        320
+      ],
+      [
+        "/art-assets/mindfulness-640-6fd3764d2b00c63e.webp",
+        640
+      ],
+      [
+        "/art-assets/mindfulness-960-190ec22dc490cc70.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/money.webp": {
+    "src": "/art-assets/money-1200-273b3669b895949b.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/money-320-c1846168b8e0b9bc.webp",
+        320
+      ],
+      [
+        "/art-assets/money-640-b254652256aaa6cd.webp",
+        640
+      ],
+      [
+        "/art-assets/money-960-b02cdbb9cabe2c1c.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/mothers-day.webp": {
+    "src": "/art-assets/mothers-day-1200-64b36fa973457074.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/mothers-day-320-f89e0529d5289066.webp",
+        320
+      ],
+      [
+        "/art-assets/mothers-day-640-c8d0378b0f612b3a.webp",
+        640
+      ],
+      [
+        "/art-assets/mothers-day-960-7d657e28bcc7bc2d.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/mountains.webp": {
+    "src": "/art-assets/mountains-1200-bf10ccd2a3f33216.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/mountains-320-feb50603a1391bab.webp",
+        320
+      ],
+      [
+        "/art-assets/mountains-640-3e4008424f6cbd5d.webp",
+        640
+      ],
+      [
+        "/art-assets/mountains-960-b7059546de9037fe.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/museums.webp": {
+    "src": "/art-assets/museums-1200-d1f744005fead3e8.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/museums-320-7f8fc838939a2b29.webp",
+        320
+      ],
+      [
+        "/art-assets/museums-640-c12dfd5f43f80da2.webp",
+        640
+      ],
+      [
+        "/art-assets/museums-960-29eb7bca319b5fe9.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/music-terms.webp": {
+    "src": "/art-assets/music-terms-1200-1584666d800d45e7.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/music-terms-320-daed7438754052e0.webp",
+        320
+      ],
+      [
+        "/art-assets/music-terms-640-ab06ebe3cf79ef3b.webp",
+        640
+      ],
+      [
+        "/art-assets/music-terms-960-a2084f0bc5496852.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/music.webp": {
+    "src": "/art-assets/music-1200-bba91ecdeddb08f3.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/music-320-9f83e75d75674d0c.webp",
+        320
+      ],
+      [
+        "/art-assets/music-640-b1861b9736162e3a.webp",
+        640
+      ],
+      [
+        "/art-assets/music-960-1733ec51d7704600.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/mythology.webp": {
+    "src": "/art-assets/mythology-1200-c41c59532d1524d6.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/mythology-320-7fbbcfd2164ac35f.webp",
+        320
+      ],
+      [
+        "/art-assets/mythology-640-c23a79a31b671f9f.webp",
+        640
+      ],
+      [
+        "/art-assets/mythology-960-e2e9107d86362707.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/national-parks.webp": {
+    "src": "/art-assets/national-parks-1200-887889124e16698b.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/national-parks-320-41f23d4a82cc6b1f.webp",
+        320
+      ],
+      [
+        "/art-assets/national-parks-640-b85b56f05d63b0fc.webp",
+        640
+      ],
+      [
+        "/art-assets/national-parks-960-16cd7dc202b7f2b6.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/new-year.webp": {
+    "src": "/art-assets/new-year-1200-3b449f558f314323.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/new-year-320-5ef6e64fa366d5ca.webp",
+        320
+      ],
+      [
+        "/art-assets/new-year-640-251510cf38766d27.webp",
+        640
+      ],
+      [
+        "/art-assets/new-year-960-828446709a3589a9.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/ocean.webp": {
+    "src": "/art-assets/ocean-1200-c457f91919c503e7.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/ocean-320-c6bd522b9ce3d65c.webp",
+        320
+      ],
+      [
+        "/art-assets/ocean-640-ebc07b29acf017ac.webp",
+        640
+      ],
+      [
+        "/art-assets/ocean-960-14d2ccf9df9b3f70.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/painting.webp": {
+    "src": "/art-assets/painting-1200-f8adeeccaaa27b52.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/painting-320-b2bc83de06518b05.webp",
+        320
+      ],
+      [
+        "/art-assets/painting-640-4f2105ca0442bbd4.webp",
+        640
+      ],
+      [
+        "/art-assets/painting-960-423543742a14c4f6.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/photography.webp": {
+    "src": "/art-assets/photography-1200-b3d4a319e9b3a140.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/photography-320-febc55fc71d1f0d4.webp",
+        320
+      ],
+      [
+        "/art-assets/photography-640-dc6b1f54459f19f3.webp",
+        640
+      ],
+      [
+        "/art-assets/photography-960-9efb135fa334b5e3.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/pottery.webp": {
+    "src": "/art-assets/pottery-1200-e4e0d45d3a71e83e.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/pottery-320-b897d069803984d2.webp",
+        320
+      ],
+      [
+        "/art-assets/pottery-640-c9fd54fe9724100b.webp",
+        640
+      ],
+      [
+        "/art-assets/pottery-960-0b0a29bcd0e0892f.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/presidents.webp": {
+    "src": "/art-assets/presidents-1200-922ddcf6f73f83c4.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/presidents-320-7b9f9bab87b77e2c.webp",
+        320
+      ],
+      [
+        "/art-assets/presidents-640-49871786306ce7b5.webp",
+        640
+      ],
+      [
+        "/art-assets/presidents-960-15b5bd2ba0a5e534.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/quilting.webp": {
+    "src": "/art-assets/quilting-1200-d252918cd6b91fce.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/quilting-320-ef58fbd4487f22d9.webp",
+        320
+      ],
+      [
+        "/art-assets/quilting-640-14315c8cba223e73.webp",
+        640
+      ],
+      [
+        "/art-assets/quilting-960-7fda9d4a41e1dd7e.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/reading.webp": {
+    "src": "/art-assets/reading-1200-804000f9083bd8aa.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/reading-320-3c5e65d660a16248.webp",
+        320
+      ],
+      [
+        "/art-assets/reading-640-5986d61805b057ba.webp",
+        640
+      ],
+      [
+        "/art-assets/reading-960-aa72881e9501b541.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/reptiles.webp": {
+    "src": "/art-assets/reptiles-1200-3e140cf5d655c2cc.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/reptiles-320-9a56c87f4a61a913.webp",
+        320
+      ],
+      [
+        "/art-assets/reptiles-640-754ec29ed19dd722.webp",
+        640
+      ],
+      [
+        "/art-assets/reptiles-960-6ae26c530f44846a.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/rivers.webp": {
+    "src": "/art-assets/rivers-1200-c4fe12fa51a86b0c.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/rivers-320-6e6f26e70ba766de.webp",
+        320
+      ],
+      [
+        "/art-assets/rivers-640-e530c9837cb1b218.webp",
+        640
+      ],
+      [
+        "/art-assets/rivers-960-a833ff703f8369b1.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/school.webp": {
+    "src": "/art-assets/school-1200-2bdf29825c956093.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/school-320-36944d4292ec1c68.webp",
+        320
+      ],
+      [
+        "/art-assets/school-640-bfc5eefe6d642151.webp",
+        640
+      ],
+      [
+        "/art-assets/school-960-f69d72310e8e1274.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/sewing.webp": {
+    "src": "/art-assets/sewing-1200-60f91e5eac2029c4.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/sewing-320-acf55c787927f8b6.webp",
+        320
+      ],
+      [
+        "/art-assets/sewing-640-051d98a0787376be.webp",
+        640
+      ],
+      [
+        "/art-assets/sewing-960-e5786ea1a09ee612.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/shopping.webp": {
+    "src": "/art-assets/shopping-1200-e0f3541be7ae1286.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/shopping-320-6edaeaee4a16fdaa.webp",
+        320
+      ],
+      [
+        "/art-assets/shopping-640-596e4b5ced20a106.webp",
+        640
+      ],
+      [
+        "/art-assets/shopping-960-37af1c3642dcd891.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/soccer.webp": {
+    "src": "/art-assets/soccer-1200-920b4584a5754b6e.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/soccer-320-bf9d087c46c38d36.webp",
+        320
+      ],
+      [
+        "/art-assets/soccer-640-e68406ed8b6f3dc5.webp",
+        640
+      ],
+      [
+        "/art-assets/soccer-960-443503bba109706e.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/space.webp": {
+    "src": "/art-assets/space-1200-5b88b97ddd6a2bb9.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/space-320-74612679a634fc8a.webp",
+        320
+      ],
+      [
+        "/art-assets/space-640-bccc56db2ad6be78.webp",
+        640
+      ],
+      [
+        "/art-assets/space-960-fb2a9753fe8ecd99.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/sports.webp": {
+    "src": "/art-assets/sports-1200-c0a2b1507778ed0f.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/sports-320-f9f0c87c76e49539.webp",
+        320
+      ],
+      [
+        "/art-assets/sports-640-89b101fda4d832a8.webp",
+        640
+      ],
+      [
+        "/art-assets/sports-960-d6ac0e601abff539.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/spring.webp": {
+    "src": "/art-assets/spring-1200-ff8aaed8e21e9c0c.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/spring-320-f1de4dcde8f99110.webp",
+        320
+      ],
+      [
+        "/art-assets/spring-640-504b2e58f7097877.webp",
+        640
+      ],
+      [
+        "/art-assets/spring-960-933424e24f20f868.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/st-patricks.webp": {
+    "src": "/art-assets/st-patricks-1200-615c87981b717f1e.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/st-patricks-320-bbeac9f250deda04.webp",
+        320
+      ],
+      [
+        "/art-assets/st-patricks-640-7b61df9fadeb3a60.webp",
+        640
+      ],
+      [
+        "/art-assets/st-patricks-960-9e42b598b24bcb6a.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/summer.webp": {
+    "src": "/art-assets/summer-1200-3f07c85a10e4051e.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/summer-320-f3b9b6917c4898e0.webp",
+        320
+      ],
+      [
+        "/art-assets/summer-640-84e615dfd8a1273d.webp",
+        640
+      ],
+      [
+        "/art-assets/summer-960-3253141b1433d0c8.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/swimming.webp": {
+    "src": "/art-assets/swimming-1200-e9fbd4a9e88a4ac5.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/swimming-320-ed152af61403dd54.webp",
+        320
+      ],
+      [
+        "/art-assets/swimming-640-008cce22c2a2a61e.webp",
+        640
+      ],
+      [
+        "/art-assets/swimming-960-84bd12d8eb84d31d.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/tennis.webp": {
+    "src": "/art-assets/tennis-1200-27a6ed7a13c689f7.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/tennis-320-f5ae39135af7ad4d.webp",
+        320
+      ],
+      [
+        "/art-assets/tennis-640-5b930e2629f34735.webp",
+        640
+      ],
+      [
+        "/art-assets/tennis-960-b16e02356478044f.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/thanksgiving.webp": {
+    "src": "/art-assets/thanksgiving-1200-5441464ac5088292.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/thanksgiving-320-81c6adcec22c14bf.webp",
+        320
+      ],
+      [
+        "/art-assets/thanksgiving-640-04383113be5cb421.webp",
+        640
+      ],
+      [
+        "/art-assets/thanksgiving-960-1b736a38fc179366.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/tools.webp": {
+    "src": "/art-assets/tools-1200-29b2cbd3959c4069.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/tools-320-30a7b6e87bb021f7.webp",
+        320
+      ],
+      [
+        "/art-assets/tools-640-f0cc68503f0fb50b.webp",
+        640
+      ],
+      [
+        "/art-assets/tools-960-e88fedf837fca19b.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/trains.webp": {
+    "src": "/art-assets/trains-1200-3a11be7c39a5ffc8.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/trains-320-c640be9a0fb84197.webp",
+        320
+      ],
+      [
+        "/art-assets/trains-640-3ae40a3fb63df433.webp",
+        640
+      ],
+      [
+        "/art-assets/trains-960-c46e1f2e8bd5020e.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/travel.webp": {
+    "src": "/art-assets/travel-1200-575e9396c6478d89.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/travel-320-fc662ce3eefedc48.webp",
+        320
+      ],
+      [
+        "/art-assets/travel-640-b2db00f093c2a422.webp",
+        640
+      ],
+      [
+        "/art-assets/travel-960-f1b94e2263193728.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/trees.webp": {
+    "src": "/art-assets/trees-1200-58d0e90df378140c.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/trees-320-75d66f58ff8fcbc0.webp",
+        320
+      ],
+      [
+        "/art-assets/trees-640-06d8bcdc9ef1fc97.webp",
+        640
+      ],
+      [
+        "/art-assets/trees-960-52406d1edc7d9bfa.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/us-states.webp": {
+    "src": "/art-assets/us-states-1200-c4074e29833ad743.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/us-states-320-7644f2954badc6a4.webp",
+        320
+      ],
+      [
+        "/art-assets/us-states-640-a86172a98ecf1b94.webp",
+        640
+      ],
+      [
+        "/art-assets/us-states-960-f08bbadf6c0e78de.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/valentines.webp": {
+    "src": "/art-assets/valentines-1200-9084dfa496f79886.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/valentines-320-d463500b824504b1.webp",
+        320
+      ],
+      [
+        "/art-assets/valentines-640-4fbbb0281e540e28.webp",
+        640
+      ],
+      [
+        "/art-assets/valentines-960-1c1fb0ed77417e1c.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/vegetables.webp": {
+    "src": "/art-assets/vegetables-1200-6632f599c1cd927e.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/vegetables-320-687bd1ba449a2d1f.webp",
+        320
+      ],
+      [
+        "/art-assets/vegetables-640-2e0d1aaeafb33d04.webp",
+        640
+      ],
+      [
+        "/art-assets/vegetables-960-484de7b0ec701495.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/volcanoes.webp": {
+    "src": "/art-assets/volcanoes-1200-5786f8b984655c56.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/volcanoes-320-966578e43bb313d8.webp",
+        320
+      ],
+      [
+        "/art-assets/volcanoes-640-25d03b58a7a8ff0d.webp",
+        640
+      ],
+      [
+        "/art-assets/volcanoes-960-f1d422870d758a5b.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/volunteering.webp": {
+    "src": "/art-assets/volunteering-1200-85da6b408ae8e2a7.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/volunteering-320-2a94a8f8b19300ed.webp",
+        320
+      ],
+      [
+        "/art-assets/volunteering-640-a4b5bd0e1d804a6a.webp",
+        640
+      ],
+      [
+        "/art-assets/volunteering-960-de1e2d477eda89da.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/weather.webp": {
+    "src": "/art-assets/weather-1200-fe4371aff55107fe.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/weather-320-73eb9c1388287c10.webp",
+        320
+      ],
+      [
+        "/art-assets/weather-640-7a0e6e30c3489b41.webp",
+        640
+      ],
+      [
+        "/art-assets/weather-960-a94b9d6768b04c02.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/wedding.webp": {
+    "src": "/art-assets/wedding-1200-05c05a97a40afcb3.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/wedding-320-e9b44da2eeda793d.webp",
+        320
+      ],
+      [
+        "/art-assets/wedding-640-9586eca6c28561cc.webp",
+        640
+      ],
+      [
+        "/art-assets/wedding-960-16b8f58dd467e8e5.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/winter.webp": {
+    "src": "/art-assets/winter-1200-095d3f8e82d6d053.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/winter-320-4bec28e1974150bd.webp",
+        320
+      ],
+      [
+        "/art-assets/winter-640-8e66bb478842d0c4.webp",
+        640
+      ],
+      [
+        "/art-assets/winter-960-dfeb31140a5b5ef4.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/woodworking.webp": {
+    "src": "/art-assets/woodworking-1200-f64e80ccfe4983a0.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/woodworking-320-50783c72bf3f3be9.webp",
+        320
+      ],
+      [
+        "/art-assets/woodworking-640-6cee634591158239.webp",
+        640
+      ],
+      [
+        "/art-assets/woodworking-960-5eb62e5d3e445b5f.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/world-capitals.webp": {
+    "src": "/art-assets/world-capitals-1200-012b442e31b09b14.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/world-capitals-320-7a220a4f4b5de8b9.webp",
+        320
+      ],
+      [
+        "/art-assets/world-capitals-640-c16b22adc6342452.webp",
+        640
+      ],
+      [
+        "/art-assets/world-capitals-960-d679a9f92c50669d.webp",
+        960
+      ]
+    ]
+  },
+  "/images/themes/yoga.webp": {
+    "src": "/art-assets/yoga-1200-6e57171e05230d92.webp",
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      [
+        "/art-assets/yoga-320-79e000a855089e7d.webp",
+        320
+      ],
+      [
+        "/art-assets/yoga-640-7d101db7005f77b9.webp",
+        640
+      ],
+      [
+        "/art-assets/yoga-960-161a8cae1a310897.webp",
+        960
+      ]
+    ]
+  },
+  "/images/difficulty/badge-easy.png": {
+    "src": "/art-assets/badge-easy-128-f584ef7ddb195f21.webp",
+    "width": 128,
+    "height": 128,
+    "variants": [
+      [
+        "/art-assets/badge-easy-44-c96f1a7158f1841f.webp",
+        44
+      ],
+      [
+        "/art-assets/badge-easy-88-6a7d7ba22af85629.webp",
+        88
+      ]
+    ]
+  },
+  "/images/difficulty/badge-medium.png": {
+    "src": "/art-assets/badge-medium-128-26afd5df166d13e1.webp",
+    "width": 128,
+    "height": 128,
+    "variants": [
+      [
+        "/art-assets/badge-medium-44-3f70460b514a5a95.webp",
+        44
+      ],
+      [
+        "/art-assets/badge-medium-88-adcd5cb7e2fe854f.webp",
+        88
+      ]
+    ]
+  },
+  "/images/difficulty/badge-hard.png": {
+    "src": "/art-assets/badge-hard-128-8ec648d963eec69b.webp",
+    "width": 128,
+    "height": 128,
+    "variants": [
+      [
+        "/art-assets/badge-hard-44-4743701640413dad.webp",
+        44
+      ],
+      [
+        "/art-assets/badge-hard-88-2676baf5852f32ba.webp",
+        88
+      ]
+    ]
+  },
+  "/images/home/hero-desktop.webp": {
+    "src": "/art-assets/hero-desktop-1600-01bf8f412b6325bf.webp",
+    "width": 1600,
+    "height": 1200,
+    "variants": [
+      [
+        "/art-assets/hero-desktop-640-f574c59a686e9cc2.webp",
+        640
+      ],
+      [
+        "/art-assets/hero-desktop-960-9ca989725c0e8853.webp",
+        960
+      ],
+      [
+        "/art-assets/hero-desktop-1200-f3f7820036be119e.webp",
+        1200
+      ]
+    ]
+  },
+  "/images/home/section-difficulty.webp": {
+    "src": "/art-assets/section-difficulty-800-af26de67bac3cb13.webp",
+    "width": 800,
+    "height": 400,
+    "variants": [
+      [
+        "/art-assets/section-difficulty-320-f78a8a8fd18e24f4.webp",
+        320
+      ],
+      [
+        "/art-assets/section-difficulty-480-39a9f9fa94280c99.webp",
+        480
+      ]
+    ]
+  },
+  "/images/home/section-themes-ornament.webp": {
+    "src": "/art-assets/section-themes-ornament-240-3d3a9b8a0cf90d55.webp",
+    "width": 240,
+    "height": 80,
+    "variants": [
+      [
+        "/art-assets/section-themes-ornament-120-4b7b8abc9f384fc9.webp",
+        120
+      ]
+    ]
+  },
+  "/images/ads/neutral-spacer.webp": {
+    "src": "/art-assets/neutral-spacer-728-a70dd3beb6561b66.webp",
+    "width": 728,
+    "height": 40,
+    "variants": [
+      [
+        "/art-assets/neutral-spacer-364-d31ec7e9d71c2bea.webp",
+        364
+      ]
+    ]
+  }
+}

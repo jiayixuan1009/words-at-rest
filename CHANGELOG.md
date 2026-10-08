@@ -9,6 +9,13 @@
 
 ## [未发布 Unreleased]
 
+### 改进 — PageSpeed移动与桌面报告整改（2026-10-08）
+- 修复统计同意提示Privacy details只靠颜色区分的问题；手机Read more复选框补可访问名称，桌面端移出焦点/可访问树。
+- 主题封面补320/640/960/1200px WebP，难度徽章补44/88/128px WebP；首页插图/装饰增加按实际尺寸选择的资源，保留原图并使用内容指纹路径和一年immutable缓存。
+- 首页桌面LCP插画使用high加载优先级；修正主题主卡sizes及徽章/装饰sizes。广告与Google同意管理保留，不将第三方未使用脚本直接删除。
+- 提供scripts/optimize-card-images.mjs及生成清单，原画替换后可重新派生指纹资源；部署及复测结果另附验收报告。
+- 指纹图使用独立/art-assets目录，避免Cloudflare将重叠缓存规则合并成冲突的max-age。
+
 ### 修复 — 整合SEO发布与后续广告/Clarity功能（2026-10-08）
 - 将SEO分支完整整合到最新master：恢复打印资源、主题筛选、多主题精选、重复题名修复、真实Sitemap日期、分析提示CLS整改及卡片预取控制；保留首页介绍配图、Clarity统计同意与已上线AdSense全局脚本。
 - Daily保留最新master既有日期/网格，接续恢复至2026-11-07及30天生成目标；修复历史月份lastmod随其他月份每日题漂移。

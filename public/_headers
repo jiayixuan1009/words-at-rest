@@ -6,6 +6,8 @@
 # so cache for a day and let browsers revalidate in the background for a week.
 /images/*
   Cache-Control: public, max-age=86400, stale-while-revalidate=604800
+/art-assets/*
+  Cache-Control: public, max-age=31536000, immutable
 /og/*
   Cache-Control: public, max-age=86400, stale-while-revalidate=604800
 /favicon.ico

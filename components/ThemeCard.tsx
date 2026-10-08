@@ -23,7 +23,7 @@ export default function ThemeCard({
       <div className={`overflow-hidden rounded-[3px] border border-[#d4cbb8] bg-[#efe7d9] ${compact ? "aspect-[5/3]" : "aspect-[4/3]"}`}>
         <Picture
           art={a}
-          sizes={feature ? "(min-width: 1024px) 720px, (min-width: 640px) 92vw, 340px" : sizes}
+          sizes={feature ? "(min-width: 1152px) 600px, (min-width: 1024px) 55vw, calc(100vw - 40px)" : sizes}
           className="h-full w-full object-cover transition duration-700 group-hover:scale-[1.02]"
         />
       </div>

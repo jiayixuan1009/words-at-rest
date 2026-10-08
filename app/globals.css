@@ -270,6 +270,9 @@ html[data-analytics-choice-saved] .analytics-notice { display: none; }
 
   /* MobileMore: clip long secondary copy on phones behind a CSS-only "Read more". */
   .mobile-more__label { display: none; }
+  @media (min-width: 640px) {
+    .mobile-more__toggle { display: none; }
+  }
   @media (max-width: 639px) {
     .mobile-more__body {
       max-height: 11rem;

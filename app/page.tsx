@@ -11,7 +11,7 @@ import MobileMore from "@/components/MobileMore";
 import Sources, { Quote } from "@/components/Sources";
 import { CITATIONS } from "@/lib/citations";
 import { currentDailyDate, getDailyPuzzle, getLargePrintPuzzles, getPuzzles, getTheme, getThemes, isValidDailyDate } from "@/lib/data";
-import { ART, DIFFICULTY_ART } from "@/lib/images";
+import { ART, DIFFICULTY_ART, srcSetOf } from "@/lib/images";
 import { SITE } from "@/lib/site";
 import { seo } from "@/lib/seo";
 import type { Theme } from "@/lib/types";
@@ -79,18 +79,18 @@ export default function HomePage() {
             <source media="(max-width: 1023px)" srcSet="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />
             <source
               media="(min-width: 1024px)"
-              srcSet={`${ART.heroDesktop.variants?.[0][0]} 1200w, ${ART.heroDesktop.src} 1600w`}
+              srcSet={srcSetOf(ART.heroDesktop)}
               sizes="(min-width: 1280px) 500px, 46vw"
             />
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
-              src={ART.heroDesktop.variants?.[0][0] ?? ART.heroDesktop.src}
-              width={1600}
-              height={1200}
+              src={ART.heroDesktop.src}
+              width={ART.heroDesktop.width}
+              height={ART.heroDesktop.height}
               alt=""
               loading="eager"
               decoding="async"
-              fetchPriority="low"
+              fetchPriority="high"
             />
           </picture>
         </div>
@@ -118,7 +118,7 @@ export default function HomePage() {
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
               src={ART.heroMobile.variants?.[0][0] ?? ART.heroMobile.src}
-              srcSet={`${ART.heroMobile.variants?.[0][0]} 800w, ${ART.heroDesktop.variants?.[0][0]} 1200w, ${ART.heroDesktop.src} 1600w`}
+              srcSet={srcSetOf(ART.heroDesktop)}
               sizes="(min-width: 1024px) 1088px, 100vw"
               width={1600}
               height={1200}
@@ -187,7 +187,7 @@ export default function HomePage() {
               <Link href={`/difficulty/${d}`} className="group block no-underline">
                 <Picture art={DIFFICULTY_ART[d].image} sizes="(min-width: 640px) 33vw, 92vw" className="hidden aspect-[2/1] w-full rounded-[3px] border border-[#d4cbb8] object-cover sm:block" />
                 <div className="mt-4 flex items-center gap-3">
-                  <Picture art={DIFFICULTY_ART[d].badge} decorative className="h-11 w-11" />
+                  <Picture art={DIFFICULTY_ART[d].badge} sizes="44px" decorative className="h-11 w-11" />
                   <h3 className="font-serif text-3xl text-[var(--ink)] group-hover:text-[var(--moss)]">{LEVEL_COPY[d].name}</h3>
                 </div>
                 <p className="mt-1 font-sans text-sm uppercase tracking-[0.08em] text-[var(--ink-soft)]">{LEVEL_COPY[d].line}</p>

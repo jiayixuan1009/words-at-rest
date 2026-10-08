@@ -18,7 +18,7 @@ export default function MobileMore({
 }) {
   return (
     <div className={`mobile-more ${className}`}>
-      <input type="checkbox" id={`more-${id}`} className="mobile-more__toggle sr-only" />
+      <input type="checkbox" id={`more-${id}`} aria-label={label} className="mobile-more__toggle sr-only" />
       <div className="mobile-more__body space-y-4">{children}</div>
       <label htmlFor={`more-${id}`} className="mobile-more__label">
         <span className="mobile-more__open">{label}</span>
