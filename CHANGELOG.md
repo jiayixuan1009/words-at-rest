@@ -20,6 +20,11 @@
 - `getDailyPuzzles` / `getDailySiblingPuzzles`；`daily:add` / `daily:check` / 测试按 10/日；featured 难度仍按 UTC 星期，sibling 循环 easy/medium/hard。
 - 过去日（如 2026-10-07）保持 1 道；今天起至缓冲窗补满 10 道。文档见 `docs/DAILY-PUZZLES.md`。
 
+### 改进 — 独立找词图形品牌标志（2026-10-08）
+- 将容易与站名连读的衬线 W 标志重新设计为苔绿色圆角网格与暖金色选词路径；页眉和页脚统一使用独立图形与真实文字组合，保留14–18px净间距及明确的移动/桌面尺寸。
+- 同步 favicon、Apple/PWA图标、结构化数据logo和旧路径兼容资源；新消费路径带v2避免旧缓存，保留生成母图、提示词和可重复导出脚本。
+- 首页品牌链接的可访问名称包含可见站名与副标题，图形为装饰，不重复朗读。整合最新Daily及页脚文案后，类型检查、15项回归、Daily校验/回归及生产构建通过；320/390/640/768/1440px预览无横向溢出，最终HTTP路由与27页JSON-LD通过。新页眉WebP为4070字节；生成资源及尺寸核对通过。
+
 ### 改进 — Wave #2 P1 主题 hub 加厚（2026-10-08）
 - 加厚 7 个仍偏薄主题 hub（调研 P1）：Farming、Birds、Friendship、Flowers、Trees、Beach、Cycling。
 - 各主题 `description` 扩至约 124–130 词；`THEME_EXTRA`（vocabulary / goodFor / tip）与 description 合计约 320–340 有用英文词，并点名相关主题与 large print / how to play。

@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { SITE } from "@/lib/site";
-import { ART } from "@/lib/images";
+import BrandLockup from "./BrandLockup";
 
 const NAV = [
   { href: "/daily", label: "Daily" },
@@ -15,26 +15,10 @@ export default function SiteHeader() {
       <div className="mx-auto flex max-w-6xl flex-wrap items-center gap-x-3 px-4 pt-2.5 sm:flex-nowrap sm:gap-6 sm:px-8 sm:py-4">
         <Link
           href="/"
-          className="flex shrink-0 items-center gap-2.5 text-[var(--ink)] no-underline sm:gap-3"
-          aria-label={`${SITE.name} — home`}
+          className="inline-flex min-h-11 shrink-0 items-center text-[var(--ink)] no-underline"
+          aria-label={`${SITE.name} — Word search, unhurried — home`}
         >
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img
-            src={ART.headerMark.src}
-            width={40}
-            height={40}
-            alt=""
-            className="h-8 w-8 sm:h-10 sm:w-10"
-            decoding="async"
-          />
-          <span className="leading-none">
-            <span className="block font-serif text-[1.25rem] font-semibold tracking-tight sm:text-[1.75rem]">
-              {SITE.name}
-            </span>
-            <span className="mt-1 hidden font-sans text-[0.875rem] uppercase tracking-[0.1em] text-[var(--ink-soft)] md:block">
-              Word search, unhurried
-            </span>
-          </span>
+          <BrandLockup tagline />
         </Link>
         {/*
           Mobile (< sm): the nav drops to its own full-width row under the logo and the

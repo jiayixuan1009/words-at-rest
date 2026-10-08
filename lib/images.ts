@@ -64,7 +64,7 @@ export const ART = {
   flourish: art("/images/ornaments/flourish.png", 200, 80, ""),
   corner: art("/images/ornaments/corner.png", 128, 128, ""),
   adSpacer: art("/images/ads/neutral-spacer.webp", 728, 40, ""),
-  headerMark: art("/images/brand/header-mark-32.png", 64, 64, ""),
+  headerMark: art("/images/brand/header-mark-v2.webp", 96, 96, ""),
   lockup: art("/images/brand/logo-lockup-480.webp", 480, 144, "Words at Rest"),
 } as const;
 

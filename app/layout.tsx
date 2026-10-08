@@ -40,11 +40,11 @@ export const metadata: Metadata = {
   twitter: { card: "summary_large_image", creator: "@0xReggieJ", images: [DEFAULT_IMAGE.url] },
   icons: {
     icon: [
-      { url: "/favicon.ico", sizes: "any" },
-      { url: "/images/brand/favicon-32.png", sizes: "32x32", type: "image/png" },
-      { url: "/images/brand/favicon-16.png", sizes: "16x16", type: "image/png" },
+      { url: "/images/brand/favicon-v2.ico", sizes: "any" },
+      { url: "/images/brand/favicon-v2-32.png", sizes: "32x32", type: "image/png" },
+      { url: "/images/brand/favicon-v2-16.png", sizes: "16x16", type: "image/png" },
     ],
-    apple: [{ url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" }],
+    apple: [{ url: "/images/brand/apple-touch-icon-v2.png", sizes: "180x180", type: "image/png" }],
   },
   manifest: "/site.webmanifest",
 };

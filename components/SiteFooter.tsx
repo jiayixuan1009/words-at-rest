@@ -3,6 +3,7 @@ import { SITE } from "@/lib/site";
 import { ART } from "@/lib/images";
 import { Ornament } from "./Picture";
 import TrustFacts from "./TrustFacts";
+import BrandLockup from "./BrandLockup";
 
 export default function SiteFooter() {
   return (
@@ -13,8 +14,7 @@ export default function SiteFooter() {
       </div>
       <div className="mx-auto flex max-w-6xl flex-col gap-6 px-5 pb-10 pt-4 text-[1rem] text-[var(--ink-soft)] sm:flex-row sm:items-start sm:justify-between sm:px-8">
         <div>
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src={ART.lockup.src} width={240} height={72} alt={SITE.name} loading="lazy" decoding="async" className="h-auto w-[200px] sm:w-[240px]" />
+          <BrandLockup />
           <p className="mt-3 max-w-sm leading-relaxed">
             Free word search puzzles for adults — large print, daily and seasonal. No timer, no fuss.
           </p>
