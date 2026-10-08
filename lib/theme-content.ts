@@ -126,9 +126,11 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
     tip: "Short words like ROD and NET hide along edges; leave them until the longer tackle words are found.",
   },
   baking: {
-    vocabulary: "Baking lists gather pantry and technique words — flour, yeast, knead, proof, crust — with no bakery brands.",
-    goodFor: "Home bakers and anyone who likes a warm kitchen-minded puzzle.",
-    tip: "Double letters in BUTTER, BATTER and MUFFIN jump out of a grid quickly.",
+    vocabulary:
+      "The baking bank stays pantry-plain: FLOUR, YEAST, KNEAD, PROOF, CRUST, BATTER, BUTTER, LOAF, PASTRY, MUFFIN, GLAZE, DOUGH, OVEN, CINNAMON and BISCUIT among others. Short kitchen bits such as EGG, MIX, BUN, PIE, BAKE and MILK keep easy grids friendly. No bakery brands and no dessert-chain slogans — only warm-kitchen English. Longer words like CINNAMON, PASTRY and BISCUIT anchor harder boards the way a cooled loaf anchors a counter.",
+    goodFor:
+      "Suited to home bakers, care-home kitchen clubs and anyone who likes a warm kitchen-minded puzzle without recipe-blog jargon. It pairs with Cooking and Kitchen for a longer pantry session, and with Desserts when you want a sweeter companion hub. Large print helps after a floury afternoon. Seniors who baked for decades often know every word without needing brand packaging.",
+    tip: "Find CINNAMON, PASTRY, BISCUIT, BUTTER and BATTER before short words like EGG, BUN and MIX. Double letters help: the TT in BUTTER and BATTER, and the FF in MUFFIN. On hard grids, technique words often run on long horizontals like a rolled sheet — clear the middle rows early. KNEAD and DOUGH are a useful pair; spotting one often means bakery vocabulary is nearby."
   },
   desserts: {
     vocabulary: "Dessert lists lean into cakes, custards and cold treats — mousse, cobbler, ganache — without restaurant chains.",
@@ -323,10 +325,10 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
   },
   camping: {
     vocabulary:
-      "Tent, trail, lantern and outdoor camp English without gear brands.",
+      "The camping bank stays outdoors and brand-free: TENT, TRAIL, LANTERN, COMPASS, CANTEEN, GROVE, HIKE, KETTLE, FLASH, DAWN, DEW, MAP, LAKE and FIRE among others. Short camp bits such as LOG, BAG, ASH, PEG, COT and FLY keep easy grids friendly. No gear-company names and no park-franchise characters — only common woods English. Longer words like LANTERN, COMPASS and CANTEEN anchor harder boards the way a trail marker anchors a path.",
     goodFor:
-      "Quiet evenings, outdoor clubs and seniors who like woods vocabulary.",
-    tip: "Compound and longer words such as LANTERN and COMPASS are easier than PEG or LOG.",
+      "Ideal for quiet evenings, outdoor clubs, care-home nature hours and seniors who like woods vocabulary without survival-show noise. It pairs with Hiking and Forests for a longer outdoor-minded session, and with National Parks when you want another trail-side hub. Large print helps after a bright day outside. Activity directors can run one sheet as a soft wind-down after a walk.",
+    tip: "Find LANTERN, COMPASS, CANTEEN, TRAIL and GROVE before short words like LOG, ASH and PEG. Double letters help: the EE in DEED when present, or the double T in TENT. On hard grids, trail words often sit on long horizontals like a marked path — clear the middle rows early. FIRE and FLAME are a useful pair; spotting one often means camp vocabulary is clustered nearby."
   },
   horses: {
     vocabulary:
@@ -407,10 +409,10 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
   },
   kindness: {
     vocabulary:
-      "Care, help, patience and everyday good manners — no brand slogans.",
+      "The kindness bank stays soft and brand-free: CARE, HELP, COURTESY, COMFORT, PATIENCE, FRIEND, GRACE, APOLOGY, HONEST, CHEER, INVITE, GENTLE, FORGIVE and THANKS among others when present. Short manners such as HUG, KIND, AID, JOY, HOPE and HAND keep easy grids friendly. No charity-brand slogans and no self-help catchphrases — only everyday courtesy English. Longer words like COURTESY, COMFORT and PATIENCE anchor harder boards.",
     goodFor:
-      "A soft evergreen for seniors' hours and calm evenings.",
-    tip: "Long words like COURTESY and COMFORT stand out; leave KIND and HUG for the edges.",
+      "A gentle evergreen for seniors' hours, care-home tables and calm evenings at home. It pairs with Friendship and Gratitude for a longer soft session, and with Volunteering when you want another community-minded hub. Large print helps shared tables. Use it as a quiet social puzzle, not as advice — the word list describes everyday manners, nothing more. No medical claims.",
+    tip: "Find COURTESY, COMFORT, PATIENCE, APOLOGY and FORGIVE before short words like HUG, KIND and AID. Double letters help: the FF in OFFER when present, or repeated vowels in PEOPLE elsewhere. On hard grids, manner words often sit on long horizontals like a written note — clear the middle rows early. CARE and HELP are a useful pair; spotting one often means kindness vocabulary is clustered nearby."
   },
   gratitude: {
     vocabulary:
@@ -547,10 +549,10 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
   },
   painting: {
     vocabulary:
-      "Studio English — brush, canvas, palette — no gallery brands.",
+      "The painting bank stays studio-plain: BRUSH, CANVAS, PALETTE, EASEL, GLAZE, HUE, LANDSCAPE, PORTRAIT, WATERCOLOR, ACRYLIC, IMPASTO, COMPOSITION, FRAME and GOUACHE among others. Short marks such as INK, LINE, DRY, ART, JAR and LIFE keep easy grids friendly. No gallery brands, no paint-brand slogans and no licensed cartoon motifs — only everyday studio English. Longer words like WATERCOLOR, COMPOSITION and LANDSCAPE anchor harder boards.",
     goodFor:
-      "Adults who like art vocabulary without jargon overload.",
-    tip: "Long words like WATERCOLOR and PORTRAIT jump out quickly.",
+      "Suited to adults and seniors who want art vocabulary without critique-speak. It pairs with Photography and Museums for a longer looking afternoon, and with Calligraphy when you want another quiet handmade hub. Large print helps after a long mixing session under bright light. Home studios and activity rooms both do well with the calm list — color and craft, not commerce.",
+    tip: "Find WATERCOLOR, LANDSCAPE, PORTRAIT, COMPOSITION and ACRYLIC before short words like INK, JAR and ART. Double letters help: the SS in BRUSH elsewhere? Prefer the double L in PALETTE and the repeated vowels in GOUACHE. On hard grids, medium names often sit on long diagonals — clear corners after the center. BRUSH and CANVAS are a useful pair; spotting one often means studio words are nearby."
   },
   birthday: {
     vocabulary:
@@ -610,10 +612,10 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
   },
   museums: {
     vocabulary:
-      "Gallery and exhibit English — curator, artifact, hall — no chain brands.",
+      "The museums bank stays visit-plain: GALLERY, CURATOR, ARTIFACT, EXHIBIT, COLLECTION, SCULPTURE, ARCHIVE, DOCENT, HALL, LABEL, FOSSIL, DISPLAY, BENCH and HISTORY among others. Short visit bits such as ART, LOOK, MAP, TOUR, ERA and CASE keep easy grids friendly. No museum-chain brands and no ticket-app slogans — only common gallery English. Longer words like COLLECTION, SCULPTURE and ARTIFACT anchor harder boards the way a long hall anchors a floor plan.",
     goodFor:
-      "Culture-minded adults and quiet visitors.",
-    tip: "Long words such as SCULPTURE and COLLECTION anchor harder grids.",
+      "Suited to culture-minded adults, seniors who love quiet weekday visits, and activity rooms that want a soft educational theme. It pairs with Libraries and Painting for a longer culture session, and with Landmarks when you want another place-minded hub. Large print helps shared tables. Prefer the screen after a real visit? Large print online keeps the same calm pace.",
+    tip: "Find COLLECTION, SCULPTURE, ARTIFACT, CURATOR and EXHIBIT before short words like ART, MAP and ERA. Double letters help: the LL in HALL and GALLERY, and the SS in FOSSIL. On hard grids, exhibit words often run on long horizontals like a labeled case — clear the middle rows early. GALLERY and HALL are a useful pair; spotting one often means visit vocabulary is clustered nearby."
   },
   sewing: {
     vocabulary:
@@ -680,10 +682,10 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
   },
   chess: {
     vocabulary:
-      "Board and piece English — no brand or titled-game names.",
+      "The chess bank stays board-plain: PAWN, KING, QUEEN, ROOK, BISHOP, KNIGHT, CASTLE, ENDGAME, GAMBIT, FORK, CLOCK, DRAW, DEVELOP, STRATEGY and OPENING among others. Short play bits such as MOVE, TURN, FILE, RANK, MATE and PIN keep easy grids friendly. No chess-brand names and no titled-event slogans — only common board English. Longer words like ENDGAME, STRATEGY and MIDDLEGAME anchor harder boards the way a long diagonal anchors an attack.",
     goodFor:
-      "Quiet strategy evenings for adults.",
-    tip: "Long words like ENDGAME and STRATEGY stand out first.",
+      "Ideal for quiet strategy evenings, club tables, care-home game hours and adults who like piece names without streaming jargon. It pairs with Board Games and Reading for a longer thinking afternoon. Large print helps after a long study session under a desk lamp. Home solvers and activity rooms both do well — the list describes a board, not a brand.",
+    tip: "Find ENDGAME, STRATEGY, MIDDLEGAME, CASTLING and GAMBIT before short words like PIN, FILE and RANK. Double letters help: the SS in CHESS and the LL in CASTLE. On hard grids, piece names often sit on long diagonals like a bishop line — clear corners after the center. KING and QUEEN are a useful pair; spotting one often means royal vocabulary is nearby."
   },
   "national-parks": {
     vocabulary:
@@ -715,10 +717,10 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
   },
   astronomy: {
     vocabulary:
-      "Star and sky English — companion to Space, not a duplicate hub focus.",
+      "The astronomy bank stays sky-plain: NEBULA, ORBIT, TELESCOPE, ECLIPSE, CONSTELLATION, GALAXY, COMET, AURORA, HORIZON, EYEPIECE, CLUSTER, CRATER, CHART and SUPERNOVA among others when present. Short sky bits such as STAR, MOON, SUN, DAWN, DUSK and AXIS keep easy grids friendly. No planetarium brands and no app slogans — only common night-sky English, companion to Space rather than a duplicate. Longer words like CONSTELLATION, TELESCOPE and SUPERNOVA anchor harder boards.",
     goodFor:
-      "Night-sky vocabulary for curious adults.",
-    tip: "Long words such as TELESCOPE and SUPERNOVA stand out first.",
+      "Ideal for curious adults, seniors who watch clear nights from a porch, and quiet clubs that want sky vocabulary without jargon overload. It pairs with Space and Weather for a longer looking session. Large print helps after a long chart-reading evening. Home solvers and activity rooms both do well — the list describes the sky, not a product.",
+    tip: "Find CONSTELLATION, TELESCOPE, SUPERNOVA, ECLIPSE and GALAXY before short words like STAR, SUN and AXIS. Double letters help: the SS in CLUSTER and the LL in GALAXY elsewhere? Prefer repeated vowels in AURORA and the long run in LIGHTYEAR when present. On hard grids, sky words often sit on long horizontals like a horizon line — clear the middle rows early. MOON and STAR are a useful pair; spotting one often means night vocabulary is nearby."
   },
   "board-games": {
     vocabulary:
@@ -736,10 +738,10 @@ export const THEME_EXTRA: Record<string, ThemeExtra> = {
   },
   woodworking: {
     vocabulary:
-      "Shop and joinery English — no tool brands. Companion to Tools.",
+      "The woodworking bank stays practical and brand-free: BENCH, CHISEL, CLAMP, DOVETAIL, GRAIN, JOINT, LATHE, MORTISE, PLANE, SAW, SQUARE, FINISH, KERF, MAPLE, CHERRY and LEVEL among others. Short shop bits such as BIT, CUT, EDGE, GLUE, PEG and END keep easy grids friendly. Nothing is a tool-company name or licensed workshop character — only common bench English. Longer words like DOVETAIL, MORTISE and FINISH anchor harder boards the way a squared edge anchors a carcass.",
     goodFor:
-      "Bench vocabulary for calm hobby hours.",
-    tip: "Long words such as DOVETAIL and MORTISE anchor harder grids.",
+      "Ideal for evening makers, woodshop hobbyists, care-home craft hours and anyone who finds grain more calming than a screen. It pairs with Tools and Pottery for a wider handmade session, and with Hiking when you want outdoor wood vocabulary nearby. Large print helps after a long sanding afternoon. Seniors who learned hand tools decades ago often recognize every word without needing brand logos.",
+    tip: "Find DOVETAIL, MORTISE, FINISH, CHISEL and CLAMP before short words like BIT, PEG and END. Double letters help: the LL in MILL when present, or repeated vowels in GRAIN. On hard grids, joinery words often run on long horizontals like a marked face — clear the middle rows early. PLANE and GRAIN are a useful pair; spotting one often means shop vocabulary is clustered nearby."
   },
   calligraphy: {
     vocabulary:

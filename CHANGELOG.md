@@ -9,6 +9,11 @@
 
 ## [未发布 Unreleased]
 
+### 改进 — Wave #2 P0 主题 hub 加厚（2026-10-08）
+- 加厚 8 个仍偏薄主题 hub（调研 P0）：Woodworking、Painting、Camping、Baking、Kindness、Chess、Museums、Astronomy。
+- 各主题 `description` 扩至约 123–131 词；`THEME_EXTRA`（vocabulary / goodFor / tip）与 description 合计约 313–329 有用英文词，并点名相关主题与 large print / how to play。
+- 语气面向成人与老年读者；Kindness 明确无医疗宣称、无品牌名；全批禁 IP / 禁品牌。修改 `data/themes/*.json` 与 `lib/theme-content.ts`。
+
 ### 改进 — 加深 Christmas Large Print 打印包（2026-10-08）
 - `/printables/christmas` 从 2 题扩至 **6** 题（christmas-large-01…06），Letter/A4 PDF 与预览图重生成；每文件 12 页（谜题奇页、答案偶页）。
 - 落地页补充规格表、活动室用法、FAQ（字号/语气/许可/纸张/互链）；链到 `/themes/christmas`、`/holidays`、`/printables`、`/large-print`；预览区仍无 AdSlot。
