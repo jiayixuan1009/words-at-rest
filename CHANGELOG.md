@@ -13,6 +13,7 @@
 - 全站接入 Clarity 项目 `yubihvuzyv`，异步加载官方追踪脚本；沿用现有 Analytics choices，仅同意统计后加载，并传递 ConsentV2（analytics granted / ads denied）。
 - 撤回同意立即停止 Clarity、清理 `_clck` / `_clsk`；再次允许时刷新页面恢复完整项目配置。隐私页补充热图、会话录制和 Microsoft 隐私政策；独立于 GA4 的启用状态。
 - 增加撤回时 ConsentV2、停止录制及 Cookie 清理回归检查；浏览器验证未选择／拒绝不加载、允许后仅一份异步 `https://www.clarity.ms/tag/yubihvuzyv`、撤回移除加载器。
+- **Deploy（2026-10-08 11:52 Asia/Shanghai）：** commit `c7ae38c` → master；Worker `82593479-4115-4098-9afa-a5a95feb9ef7`，100% 流量。typecheck、全部测试、生产构建通过。线上允许统计后加载官方 SDK，并观察到 `h.clarity.ms/collect`；未同意零 Clarity 请求，撤回后停止且两项 Cookie 清空。验证收据：工作区 `research/clarity-release-qa.json`。
 
 ### 改进 — 首页标题区右侧配图（2026-10-08）
 - 在“Today's puzzle is ready below; mark words right here”所在标题／介绍行右侧铺设咖啡、字谜和窗边植物插画；底层画面柔化至纸色，仅覆盖介绍区域，整宽可玩题保持在下方。
