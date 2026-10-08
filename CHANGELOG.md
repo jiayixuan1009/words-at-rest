@@ -14,6 +14,8 @@
 - 桌面复用现有响应式图片；手机／平板隐藏装饰图并选择1px占位源，保留首屏文字和游戏顺序。装饰图不拦截点击，对读屏隐藏。
 - typecheck／生产构建通过；浏览器验证1440／1024／768／390／320px无横向溢出、唯一H1、引用文案一致、游戏仍在介绍区域下方；1024px以下装饰源确为1px data URI。正确版本截图位于工作区 `research/home-intro-right-art-1440.png`（及其他四种屏宽）。
 
+- **Deploy（2026-10-08 11:38 Asia/Shanghai）：** commit `2a081ee` → master；Worker version `f73457e3-012a-4a13-a93d-e1a0779cc657`，100% 流量。线上1440/390px验证配图桌面加载、移动端隐藏、无横向溢出、唯一H1、canonical正确、游戏位于介绍下方，Larger切换可用；保留最新每日谜题。
+
 ### Daily puzzles
 - 2026-10-15 — Daily Word Search: Airplanes (Medium) (airplanes / medium).
 
