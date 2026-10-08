@@ -1,0 +1,173 @@
+{
+  "id": "christmas-large-03",
+  "slug": "christmas-large-03",
+  "themeId": "christmas",
+  "title": "Large Print Christmas: Soft Ribbon",
+  "primaryKeyword": "large print christmas word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BOW",
+    "CARD",
+    "GIFT",
+    "HOME",
+    "LIGHT",
+    "RIBBON",
+    "WARM",
+    "WRAP"
+  ],
+  "grid": [
+    [
+      "R",
+      "R",
+      "I",
+      "B",
+      "B",
+      "O",
+      "N",
+      "Y",
+      "L"
+    ],
+    [
+      "T",
+      "V",
+      "H",
+      "O",
+      "M",
+      "E",
+      "C",
+      "H",
+      "E"
+    ],
+    [
+      "G",
+      "Q",
+      "D",
+      "B",
+      "X",
+      "L",
+      "N",
+      "W",
+      "F"
+    ],
+    [
+      "I",
+      "L",
+      "R",
+      "O",
+      "G",
+      "H",
+      "T",
+      "A",
+      "Q"
+    ],
+    [
+      "F",
+      "I",
+      "F",
+      "W",
+      "S",
+      "P",
+      "I",
+      "R",
+      "K"
+    ],
+    [
+      "T",
+      "G",
+      "H",
+      "R",
+      "V",
+      "D",
+      "Z",
+      "M",
+      "U"
+    ],
+    [
+      "V",
+      "H",
+      "S",
+      "A",
+      "Y",
+      "A",
+      "J",
+      "E",
+      "U"
+    ],
+    [
+      "V",
+      "T",
+      "O",
+      "P",
+      "V",
+      "L",
+      "X",
+      "A",
+      "Y"
+    ],
+    [
+      "F",
+      "C",
+      "A",
+      "R",
+      "D",
+      "N",
+      "M",
+      "M",
+      "B"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "RIBBON",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "LIGHT",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "WRAP",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "CARD",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "GIFT",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "WARM",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "HOME",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BOW",
+      "row": 2,
+      "col": 3,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 1245
+}

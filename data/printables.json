@@ -2,7 +2,7 @@
   {
     "slug": "large-print",
     "name": "Everyday Large Print",
-    "description": "Six gentle everyday large print word searches for adults and seniors — familiar home, garden, harbor and quiet-room words, big letters, no diagonals.",
+    "description": "Six gentle everyday large print word searches for adults and seniors \u2014 familiar home, garden, harbor and quiet-room words, big letters, no diagonals.",
     "theme": "large-print-pack",
     "ids": [
       "large-print-pack-large-01",
@@ -36,11 +36,15 @@
   {
     "slug": "christmas",
     "name": "Christmas Large Print",
-    "description": "Two Christmas puzzles with short, familiar words about gifts, winter and quiet celebrations.",
+    "description": "Six gentle Christmas large print word searches for adults and seniors \u2014 gifts, winter, quiet celebrations and soft home words, big letters, no diagonals.",
     "theme": "christmas",
     "ids": [
       "christmas-large-01",
-      "christmas-large-02"
+      "christmas-large-02",
+      "christmas-large-03",
+      "christmas-large-04",
+      "christmas-large-05",
+      "christmas-large-06"
     ]
   }
 ]

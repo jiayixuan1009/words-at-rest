@@ -1,0 +1,173 @@
+{
+  "id": "christmas-large-04",
+  "slug": "christmas-large-04",
+  "themeId": "christmas",
+  "title": "Large Print Christmas: Soft Holly",
+  "primaryKeyword": "large print christmas word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BLANKET",
+    "FIRE",
+    "FROST",
+    "HOLLY",
+    "IVY",
+    "PINE",
+    "STAR",
+    "WARM"
+  ],
+  "grid": [
+    [
+      "H",
+      "J",
+      "C",
+      "I",
+      "B",
+      "X",
+      "Q",
+      "S",
+      "Z"
+    ],
+    [
+      "Y",
+      "H",
+      "Z",
+      "P",
+      "L",
+      "Y",
+      "X",
+      "Y",
+      "F"
+    ],
+    [
+      "P",
+      "R",
+      "L",
+      "I",
+      "A",
+      "V",
+      "H",
+      "S",
+      "I"
+    ],
+    [
+      "O",
+      "V",
+      "N",
+      "N",
+      "N",
+      "I",
+      "O",
+      "T",
+      "R"
+    ],
+    [
+      "Q",
+      "Y",
+      "H",
+      "E",
+      "K",
+      "V",
+      "L",
+      "A",
+      "E"
+    ],
+    [
+      "Q",
+      "E",
+      "T",
+      "S",
+      "E",
+      "Y",
+      "L",
+      "R",
+      "V"
+    ],
+    [
+      "U",
+      "O",
+      "L",
+      "M",
+      "T",
+      "O",
+      "Y",
+      "M",
+      "E"
+    ],
+    [
+      "N",
+      "B",
+      "F",
+      "R",
+      "O",
+      "S",
+      "T",
+      "N",
+      "V"
+    ],
+    [
+      "K",
+      "U",
+      "H",
+      "W",
+      "W",
+      "A",
+      "R",
+      "M",
+      "Q"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BLANKET",
+      "row": 0,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "HOLLY",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "FROST",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PINE",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "STAR",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "FIRE",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "WARM",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "IVY",
+      "row": 3,
+      "col": 5,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 1246
+}

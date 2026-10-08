@@ -9,6 +9,16 @@
 
 ## [未发布 Unreleased]
 
+### 改进 — 加深 Christmas Large Print 打印包（2026-10-08）
+- `/printables/christmas` 从 2 题扩至 **6** 题（christmas-large-01…06），Letter/A4 PDF 与预览图重生成；每文件 12 页（谜题奇页、答案偶页）。
+- 落地页补充规格表、活动室用法、FAQ（字号/语气/许可/纸张/互链）；链到 `/themes/christmas`、`/holidays`、`/printables`、`/large-print`；预览区仍无 AdSlot。
+- `/printables` 索引卡片改为六题文案；新增 Activity Director Kit 入口。
+
+### 改进 — Activity Director Kit 落地页（2026-10-08）
+- 新增 `/printables/activity-directors`：Letter vs A4、谜题页与答案页、小组活动提示、许可/署名、FAQ；无邮件门。
+- 包入口卡片链 Everyday Large Print（6）、Thanksgiving、Christmas（6）、Halloween（evergreen 秋日选项）；互链 `/printables`、`/large-print`、`/daily`。
+- Schema/meta 与其它 printable 页一致。
+
 ### 改进 — 继续主题 hub 加厚 Loop（2026-10-08）
 - 加厚下一批 8 个仍偏薄主题 hub：Sewing、Hiking、Pottery、Photography、Forests、Swimming、Gratitude、Mindfulness（排除 Wave #1 P0/P1 已做 15 个）。
 - 各主题 `description` 扩至约 124–136 词；`THEME_EXTRA`（vocabulary / goodFor / tip）与 description 合计约 333–375 有用英文词，并点名相关主题与 large print / how to play。

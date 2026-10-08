@@ -1,0 +1,173 @@
+{
+  "id": "christmas-large-06",
+  "slug": "christmas-large-06",
+  "themeId": "christmas",
+  "title": "Large Print Christmas: Soft Parcel",
+  "primaryKeyword": "large print christmas word search",
+  "difficulty": "easy",
+  "gridSize": 9,
+  "largePrint": true,
+  "words": [
+    "BOX",
+    "CARD",
+    "GIFT",
+    "LIST",
+    "PARCEL",
+    "TAG",
+    "TAPE",
+    "WRAP"
+  ],
+  "grid": [
+    [
+      "W",
+      "J",
+      "S",
+      "H",
+      "R",
+      "O",
+      "S",
+      "W",
+      "I"
+    ],
+    [
+      "P",
+      "N",
+      "G",
+      "M",
+      "G",
+      "I",
+      "F",
+      "T",
+      "B"
+    ],
+    [
+      "C",
+      "Q",
+      "A",
+      "P",
+      "A",
+      "R",
+      "C",
+      "E",
+      "L"
+    ],
+    [
+      "S",
+      "A",
+      "M",
+      "H",
+      "W",
+      "R",
+      "A",
+      "P",
+      "M"
+    ],
+    [
+      "M",
+      "I",
+      "I",
+      "B",
+      "T",
+      "T",
+      "A",
+      "P",
+      "E"
+    ],
+    [
+      "J",
+      "S",
+      "G",
+      "O",
+      "W",
+      "C",
+      "A",
+      "R",
+      "D"
+    ],
+    [
+      "A",
+      "N",
+      "P",
+      "X",
+      "J",
+      "F",
+      "K",
+      "U",
+      "Y"
+    ],
+    [
+      "R",
+      "C",
+      "L",
+      "I",
+      "S",
+      "T",
+      "A",
+      "V",
+      "G"
+    ],
+    [
+      "F",
+      "J",
+      "W",
+      "P",
+      "Q",
+      "T",
+      "A",
+      "G",
+      "A"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PARCEL",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "TAPE",
+      "row": 4,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "WRAP",
+      "row": 3,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "LIST",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CARD",
+      "row": 5,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "GIFT",
+      "row": 1,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "TAG",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "BOX",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-06",
+  "seed": 1248
+}

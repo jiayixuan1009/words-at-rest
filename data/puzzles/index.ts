@@ -199,6 +199,10 @@ import p_christmas_hard_02 from "./christmas-hard-02.json";
 import p_christmas_hard_03 from "./christmas-hard-03.json";
 import p_christmas_large_01 from "./christmas-large-01.json";
 import p_christmas_large_02 from "./christmas-large-02.json";
+import p_christmas_large_03 from "./christmas-large-03.json";
+import p_christmas_large_04 from "./christmas-large-04.json";
+import p_christmas_large_05 from "./christmas-large-05.json";
+import p_christmas_large_06 from "./christmas-large-06.json";
 import p_christmas_medium_01 from "./christmas-medium-01.json";
 import p_christmas_medium_02 from "./christmas-medium-02.json";
 import p_christmas_medium_03 from "./christmas-medium-03.json";
@@ -1044,6 +1048,7 @@ import p_yoga_medium_01 from "./yoga-medium-01.json";
 import p_yoga_medium_02 from "./yoga-medium-02.json";
 import p_yoga_medium_03 from "./yoga-medium-03.json";
 
+
 export const puzzles = [
   p_airplanes_easy_01,
   p_airplanes_easy_02,
@@ -1244,6 +1249,10 @@ export const puzzles = [
   p_christmas_hard_03,
   p_christmas_large_01,
   p_christmas_large_02,
+  p_christmas_large_03,
+  p_christmas_large_04,
+  p_christmas_large_05,
+  p_christmas_large_06,
   p_christmas_medium_01,
   p_christmas_medium_02,
   p_christmas_medium_03,
