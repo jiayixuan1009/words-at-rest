@@ -1,0 +1,284 @@
+{
+  "id": "breakfast-medium-09",
+  "slug": "breakfast-medium-09",
+  "themeId": "breakfast",
+  "title": "Breakfast Word Search (Medium) #09",
+  "primaryKeyword": "breakfast word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BACON",
+    "BAGEL",
+    "BANANA",
+    "CEREAL",
+    "GRANOLA",
+    "KNIFE",
+    "MARMALADE",
+    "MILK",
+    "OATS",
+    "OMELET",
+    "ORANGE",
+    "PEPPER",
+    "TEA",
+    "TRAY"
+  ],
+  "grid": [
+    [
+      "Y",
+      "H",
+      "U",
+      "B",
+      "A",
+      "N",
+      "A",
+      "N",
+      "A",
+      "O",
+      "A",
+      "N"
+    ],
+    [
+      "F",
+      "D",
+      "T",
+      "R",
+      "P",
+      "L",
+      "P",
+      "N",
+      "G",
+      "L",
+      "O",
+      "W"
+    ],
+    [
+      "F",
+      "M",
+      "R",
+      "K",
+      "B",
+      "E",
+      "R",
+      "R",
+      "O",
+      "C",
+      "B",
+      "E"
+    ],
+    [
+      "X",
+      "I",
+      "A",
+      "P",
+      "S",
+      "E",
+      "X",
+      "N",
+      "A",
+      "C",
+      "G",
+      "I"
+    ],
+    [
+      "O",
+      "L",
+      "Y",
+      "T",
+      "P",
+      "I",
+      "A",
+      "B",
+      "T",
+      "Q",
+      "L",
+      "D"
+    ],
+    [
+      "M",
+      "K",
+      "A",
+      "P",
+      "M",
+      "R",
+      "I",
+      "S",
+      "E",
+      "E",
+      "D",
+      "O"
+    ],
+    [
+      "E",
+      "O",
+      "E",
+      "E",
+      "G",
+      "Y",
+      "L",
+      "D",
+      "G",
+      "D",
+      "A",
+      "R"
+    ],
+    [
+      "L",
+      "P",
+      "V",
+      "X",
+      "E",
+      "A",
+      "Q",
+      "A",
+      "J",
+      "Y",
+      "F",
+      "A"
+    ],
+    [
+      "E",
+      "F",
+      "A",
+      "F",
+      "E",
+      "N",
+      "B",
+      "V",
+      "C",
+      "U",
+      "I",
+      "N"
+    ],
+    [
+      "T",
+      "G",
+      "I",
+      "R",
+      "U",
+      "S",
+      "Q",
+      "F",
+      "J",
+      "X",
+      "X",
+      "G"
+    ],
+    [
+      "B",
+      "N",
+      "E",
+      "M",
+      "A",
+      "R",
+      "M",
+      "A",
+      "L",
+      "A",
+      "D",
+      "E"
+    ],
+    [
+      "K",
+      "C",
+      "I",
+      "Z",
+      "B",
+      "L",
+      "J",
+      "R",
+      "Z",
+      "Y",
+      "N",
+      "W"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "MARMALADE",
+      "row": 10,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "GRANOLA",
+      "row": 6,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "OMELET",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CEREAL",
+      "row": 11,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "ORANGE",
+      "row": 5,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "PEPPER",
+      "row": 7,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "BANANA",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "KNIFE",
+      "row": 11,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "BACON",
+      "row": 4,
+      "col": 7,
+      "direction": "NE"
+    },
+    {
+      "word": "BAGEL",
+      "row": 8,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "OATS",
+      "row": 6,
+      "col": 1,
+      "direction": "NE"
+    },
+    {
+      "word": "TRAY",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "MILK",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "TEA",
+      "row": 4,
+      "col": 8,
+      "direction": "SE"
+    }
+  ],
+  "createdAt": "2026-10-09",
+  "seed": 3994570724
+}

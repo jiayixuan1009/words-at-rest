@@ -1,0 +1,208 @@
+{
+  "id": "birds-easy-09",
+  "slug": "birds-easy-09",
+  "themeId": "birds",
+  "title": "Birds Word Search (Easy) #09",
+  "primaryKeyword": "birds word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CARDINAL",
+    "CHICK",
+    "DAWN",
+    "FALCON",
+    "FEEDER",
+    "GLIDE",
+    "HAWK",
+    "HOVER",
+    "SOAR",
+    "SWAN"
+  ],
+  "grid": [
+    [
+      "T",
+      "B",
+      "W",
+      "N",
+      "L",
+      "W",
+      "S",
+      "W",
+      "A",
+      "N"
+    ],
+    [
+      "M",
+      "H",
+      "A",
+      "W",
+      "K",
+      "F",
+      "Z",
+      "F",
+      "B",
+      "Y"
+    ],
+    [
+      "Q",
+      "P",
+      "Y",
+      "K",
+      "V",
+      "E",
+      "C",
+      "A",
+      "N",
+      "L"
+    ],
+    [
+      "G",
+      "D",
+      "X",
+      "H",
+      "B",
+      "E",
+      "A",
+      "L",
+      "H",
+      "I"
+    ],
+    [
+      "L",
+      "A",
+      "Q",
+      "U",
+      "U",
+      "D",
+      "R",
+      "C",
+      "B",
+      "C"
+    ],
+    [
+      "I",
+      "W",
+      "L",
+      "G",
+      "D",
+      "E",
+      "D",
+      "O",
+      "E",
+      "H"
+    ],
+    [
+      "D",
+      "N",
+      "L",
+      "A",
+      "Z",
+      "R",
+      "I",
+      "N",
+      "V",
+      "I"
+    ],
+    [
+      "E",
+      "H",
+      "O",
+      "V",
+      "E",
+      "R",
+      "N",
+      "F",
+      "A",
+      "C"
+    ],
+    [
+      "P",
+      "F",
+      "L",
+      "J",
+      "Y",
+      "I",
+      "A",
+      "H",
+      "F",
+      "K"
+    ],
+    [
+      "S",
+      "O",
+      "A",
+      "R",
+      "I",
+      "X",
+      "L",
+      "B",
+      "V",
+      "A"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CARDINAL",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "FALCON",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "FEEDER",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "HOVER",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "GLIDE",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CHICK",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "DAWN",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "SOAR",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "HAWK",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "SWAN",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-09",
+  "seed": 3927460248
+}

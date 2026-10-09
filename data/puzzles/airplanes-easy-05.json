@@ -1,0 +1,208 @@
+{
+  "id": "airplanes-easy-05",
+  "slug": "airplanes-easy-05",
+  "themeId": "airplanes",
+  "title": "Airplanes Word Search (Easy) #05",
+  "primaryKeyword": "airplanes word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ALTITUDE",
+    "ATTENDANT",
+    "FUEL",
+    "JET",
+    "MAP",
+    "NOSE",
+    "PLANE",
+    "RUNWAY",
+    "TICKET",
+    "TURBULENCE"
+  ],
+  "grid": [
+    [
+      "I",
+      "H",
+      "T",
+      "A",
+      "T",
+      "U",
+      "J",
+      "E",
+      "T",
+      "W"
+    ],
+    [
+      "M",
+      "H",
+      "U",
+      "T",
+      "Z",
+      "U",
+      "A",
+      "T",
+      "S",
+      "E"
+    ],
+    [
+      "A",
+      "Q",
+      "R",
+      "T",
+      "H",
+      "R",
+      "L",
+      "I",
+      "M",
+      "Z"
+    ],
+    [
+      "F",
+      "L",
+      "B",
+      "E",
+      "O",
+      "U",
+      "T",
+      "C",
+      "D",
+      "U"
+    ],
+    [
+      "U",
+      "G",
+      "U",
+      "N",
+      "O",
+      "N",
+      "I",
+      "K",
+      "Z",
+      "P"
+    ],
+    [
+      "E",
+      "I",
+      "L",
+      "D",
+      "Y",
+      "W",
+      "T",
+      "E",
+      "A",
+      "L"
+    ],
+    [
+      "L",
+      "N",
+      "E",
+      "A",
+      "F",
+      "A",
+      "U",
+      "T",
+      "K",
+      "A"
+    ],
+    [
+      "W",
+      "O",
+      "N",
+      "N",
+      "B",
+      "Y",
+      "D",
+      "G",
+      "X",
+      "N"
+    ],
+    [
+      "G",
+      "S",
+      "C",
+      "T",
+      "J",
+      "B",
+      "E",
+      "G",
+      "X",
+      "E"
+    ],
+    [
+      "E",
+      "E",
+      "E",
+      "R",
+      "F",
+      "O",
+      "M",
+      "A",
+      "P",
+      "D"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TURBULENCE",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "ATTENDANT",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "ALTITUDE",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "TICKET",
+      "row": 1,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "RUNWAY",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "PLANE",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "FUEL",
+      "row": 3,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "NOSE",
+      "row": 6,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "JET",
+      "row": 0,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "MAP",
+      "row": 9,
+      "col": 6,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-09",
+  "seed": 3977793105
+}

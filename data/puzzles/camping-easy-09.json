@@ -1,0 +1,208 @@
+{
+  "id": "camping-easy-09",
+  "slug": "camping-easy-09",
+  "themeId": "camping",
+  "title": "Camping Word Search (Easy) #09",
+  "primaryKeyword": "camping word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "FIRE",
+    "FLY",
+    "LIGHT",
+    "LOG",
+    "PACK",
+    "PATH",
+    "POLE",
+    "SITE",
+    "TORCH",
+    "TRAILMIX"
+  ],
+  "grid": [
+    [
+      "L",
+      "T",
+      "T",
+      "B",
+      "K",
+      "O",
+      "N",
+      "P",
+      "W",
+      "E"
+    ],
+    [
+      "F",
+      "O",
+      "L",
+      "T",
+      "C",
+      "C",
+      "C",
+      "A",
+      "D",
+      "T"
+    ],
+    [
+      "A",
+      "R",
+      "P",
+      "O",
+      "L",
+      "E",
+      "L",
+      "C",
+      "Z",
+      "R"
+    ],
+    [
+      "N",
+      "C",
+      "F",
+      "L",
+      "Y",
+      "D",
+      "F",
+      "K",
+      "S",
+      "A"
+    ],
+    [
+      "V",
+      "H",
+      "J",
+      "L",
+      "P",
+      "V",
+      "V",
+      "G",
+      "I",
+      "I"
+    ],
+    [
+      "M",
+      "J",
+      "A",
+      "I",
+      "Z",
+      "H",
+      "R",
+      "S",
+      "T",
+      "L"
+    ],
+    [
+      "N",
+      "U",
+      "E",
+      "G",
+      "R",
+      "F",
+      "P",
+      "F",
+      "E",
+      "M"
+    ],
+    [
+      "B",
+      "D",
+      "P",
+      "H",
+      "P",
+      "J",
+      "A",
+      "I",
+      "Q",
+      "I"
+    ],
+    [
+      "X",
+      "E",
+      "W",
+      "T",
+      "G",
+      "R",
+      "T",
+      "R",
+      "O",
+      "X"
+    ],
+    [
+      "L",
+      "F",
+      "T",
+      "L",
+      "O",
+      "G",
+      "H",
+      "E",
+      "L",
+      "Q"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "TRAILMIX",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "TORCH",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "LIGHT",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "POLE",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PACK",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "PATH",
+      "row": 6,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "FIRE",
+      "row": 6,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "SITE",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "FLY",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "LOG",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-09",
+  "seed": 3826794534
+}

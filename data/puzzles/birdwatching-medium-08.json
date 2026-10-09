@@ -1,0 +1,284 @@
+{
+  "id": "birdwatching-medium-08",
+  "slug": "birdwatching-medium-08",
+  "themeId": "birdwatching",
+  "title": "Birdwatching Word Search (Medium) #08",
+  "primaryKeyword": "birdwatching word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BEAK",
+    "BIRD",
+    "CANOPY",
+    "FLOCK",
+    "GLIDE",
+    "MAP",
+    "MARSH",
+    "NOTE",
+    "PLUMAGE",
+    "SHORE",
+    "SOAR",
+    "SPOT",
+    "WATCH",
+    "WATER"
+  ],
+  "grid": [
+    [
+      "I",
+      "K",
+      "H",
+      "R",
+      "X",
+      "P",
+      "J",
+      "P",
+      "L",
+      "K",
+      "B",
+      "N"
+    ],
+    [
+      "S",
+      "O",
+      "A",
+      "R",
+      "H",
+      "V",
+      "M",
+      "C",
+      "C",
+      "P",
+      "I",
+      "G"
+    ],
+    [
+      "W",
+      "H",
+      "D",
+      "S",
+      "P",
+      "O",
+      "T",
+      "O",
+      "M",
+      "L",
+      "R",
+      "N"
+    ],
+    [
+      "P",
+      "A",
+      "O",
+      "Y",
+      "K",
+      "V",
+      "L",
+      "F",
+      "A",
+      "U",
+      "D",
+      "O"
+    ],
+    [
+      "D",
+      "W",
+      "T",
+      "R",
+      "L",
+      "F",
+      "E",
+      "V",
+      "R",
+      "M",
+      "A",
+      "T"
+    ],
+    [
+      "U",
+      "C",
+      "E",
+      "C",
+      "E",
+      "P",
+      "D",
+      "F",
+      "S",
+      "A",
+      "B",
+      "E"
+    ],
+    [
+      "J",
+      "A",
+      "U",
+      "V",
+      "H",
+      "O",
+      "F",
+      "I",
+      "H",
+      "G",
+      "R",
+      "F"
+    ],
+    [
+      "N",
+      "N",
+      "M",
+      "B",
+      "G",
+      "K",
+      "N",
+      "F",
+      "R",
+      "E",
+      "C",
+      "E"
+    ],
+    [
+      "E",
+      "O",
+      "A",
+      "E",
+      "N",
+      "Y",
+      "B",
+      "E",
+      "E",
+      "B",
+      "K",
+      "I"
+    ],
+    [
+      "K",
+      "P",
+      "P",
+      "A",
+      "A",
+      "A",
+      "T",
+      "A",
+      "T",
+      "C",
+      "Q",
+      "Y"
+    ],
+    [
+      "M",
+      "Y",
+      "I",
+      "K",
+      "J",
+      "A",
+      "M",
+      "N",
+      "R",
+      "Q",
+      "M",
+      "X"
+    ],
+    [
+      "G",
+      "W",
+      "L",
+      "D",
+      "W",
+      "P",
+      "O",
+      "G",
+      "L",
+      "I",
+      "D",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PLUMAGE",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "CANOPY",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "MARSH",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "WATCH",
+      "row": 2,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "FLOCK",
+      "row": 4,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "WATER",
+      "row": 11,
+      "col": 4,
+      "direction": "NE"
+    },
+    {
+      "word": "GLIDE",
+      "row": 11,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "SHORE",
+      "row": 1,
+      "col": 0,
+      "direction": "SE"
+    },
+    {
+      "word": "SPOT",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BIRD",
+      "row": 0,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "BEAK",
+      "row": 7,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "NOTE",
+      "row": 2,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "SOAR",
+      "row": 1,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "MAP",
+      "row": 7,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-09",
+  "seed": 3944237867
+}

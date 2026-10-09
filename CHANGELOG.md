@@ -143,6 +143,7 @@
 - 校验包含发现/筛选/资源数据与既有玩法、分页、Daily。广告账户、认证CMP、GSC/GA4后台验证仍需账户访问。
 
 ### Daily puzzles — 新增排期
+- 2026-11-08 — 10 puzzles (featured: Airplanes / easy; +9 catalog siblings).
 - 2026-11-07 — Daily Word Search: Fall (Hard) (fall / hard).
 - 2026-10-15 — Daily Word Search: Airplanes (Medium) (airplanes / medium).
 - 2026-10-16 — Daily Word Search: American History (Medium) (american-history / medium).

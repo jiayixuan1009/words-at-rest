@@ -1,0 +1,208 @@
+{
+  "id": "board-games-easy-09",
+  "slug": "board-games-easy-09",
+  "themeId": "board-games",
+  "title": "Board Games Word Search (Easy) #09",
+  "primaryKeyword": "board games word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "CHANCE",
+    "CLOCK",
+    "DIE",
+    "DRAW",
+    "LUCK",
+    "PASS",
+    "PAWN",
+    "PLAY",
+    "TIE",
+    "TIMER"
+  ],
+  "grid": [
+    [
+      "D",
+      "I",
+      "E",
+      "P",
+      "L",
+      "A",
+      "Y",
+      "T",
+      "C",
+      "Z"
+    ],
+    [
+      "C",
+      "C",
+      "H",
+      "A",
+      "N",
+      "C",
+      "E",
+      "I",
+      "L",
+      "I"
+    ],
+    [
+      "O",
+      "C",
+      "L",
+      "O",
+      "C",
+      "K",
+      "I",
+      "F",
+      "B",
+      "S"
+    ],
+    [
+      "H",
+      "A",
+      "Z",
+      "O",
+      "N",
+      "T",
+      "H",
+      "G",
+      "F",
+      "K"
+    ],
+    [
+      "O",
+      "L",
+      "K",
+      "T",
+      "V",
+      "J",
+      "O",
+      "G",
+      "J",
+      "L"
+    ],
+    [
+      "P",
+      "A",
+      "S",
+      "S",
+      "Q",
+      "H",
+      "R",
+      "T",
+      "L",
+      "B"
+    ],
+    [
+      "I",
+      "K",
+      "F",
+      "D",
+      "R",
+      "A",
+      "W",
+      "I",
+      "T",
+      "P"
+    ],
+    [
+      "L",
+      "L",
+      "U",
+      "C",
+      "K",
+      "O",
+      "Y",
+      "M",
+      "O",
+      "W"
+    ],
+    [
+      "Y",
+      "X",
+      "Q",
+      "D",
+      "H",
+      "N",
+      "J",
+      "E",
+      "R",
+      "B"
+    ],
+    [
+      "T",
+      "I",
+      "E",
+      "P",
+      "A",
+      "W",
+      "N",
+      "R",
+      "N",
+      "J"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CHANCE",
+      "row": 1,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "TIMER",
+      "row": 5,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "CLOCK",
+      "row": 2,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PASS",
+      "row": 5,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "DRAW",
+      "row": 6,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "LUCK",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PLAY",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "PAWN",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "TIE",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "DIE",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-09",
+  "seed": 4044903581
+}

@@ -1,0 +1,284 @@
+{
+  "id": "cars-medium-09",
+  "slug": "cars-medium-09",
+  "themeId": "cars",
+  "title": "Cars Word Search (Medium) #09",
+  "primaryKeyword": "cars word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BEAM",
+    "BELT",
+    "BRAKE",
+    "DASH",
+    "DRIVE",
+    "FILTER",
+    "GEAR",
+    "ODOMETER",
+    "OIL",
+    "PEDAL",
+    "RADIO",
+    "TIRE",
+    "TRUNK",
+    "TURN"
+  ],
+  "grid": [
+    [
+      "V",
+      "B",
+      "M",
+      "B",
+      "G",
+      "U",
+      "X",
+      "T",
+      "U",
+      "R",
+      "N",
+      "H"
+    ],
+    [
+      "T",
+      "E",
+      "V",
+      "X",
+      "T",
+      "B",
+      "E",
+      "L",
+      "T",
+      "I",
+      "W",
+      "Z"
+    ],
+    [
+      "R",
+      "A",
+      "V",
+      "P",
+      "R",
+      "A",
+      "D",
+      "I",
+      "O",
+      "C",
+      "D",
+      "P"
+    ],
+    [
+      "U",
+      "M",
+      "Q",
+      "H",
+      "E",
+      "I",
+      "W",
+      "I",
+      "G",
+      "N",
+      "Z",
+      "V"
+    ],
+    [
+      "N",
+      "M",
+      "M",
+      "F",
+      "O",
+      "D",
+      "O",
+      "M",
+      "E",
+      "T",
+      "E",
+      "R"
+    ],
+    [
+      "K",
+      "V",
+      "B",
+      "Y",
+      "X",
+      "I",
+      "A",
+      "A",
+      "A",
+      "J",
+      "R",
+      "F"
+    ],
+    [
+      "G",
+      "U",
+      "T",
+      "R",
+      "L",
+      "G",
+      "L",
+      "L",
+      "R",
+      "V",
+      "A",
+      "P"
+    ],
+    [
+      "I",
+      "W",
+      "D",
+      "G",
+      "A",
+      "V",
+      "F",
+      "I",
+      "L",
+      "T",
+      "E",
+      "R"
+    ],
+    [
+      "X",
+      "B",
+      "L",
+      "N",
+      "W",
+      "K",
+      "T",
+      "I",
+      "Z",
+      "V",
+      "N",
+      "L"
+    ],
+    [
+      "T",
+      "I",
+      "R",
+      "E",
+      "R",
+      "F",
+      "E",
+      "J",
+      "I",
+      "D",
+      "I",
+      "T"
+    ],
+    [
+      "L",
+      "M",
+      "O",
+      "D",
+      "A",
+      "S",
+      "H",
+      "R",
+      "D",
+      "R",
+      "S",
+      "V"
+    ],
+    [
+      "O",
+      "M",
+      "K",
+      "S",
+      "O",
+      "J",
+      "D",
+      "E",
+      "Y",
+      "Z",
+      "F",
+      "Q"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ODOMETER",
+      "row": 4,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "FILTER",
+      "row": 7,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "DRIVE",
+      "row": 11,
+      "col": 6,
+      "direction": "NE"
+    },
+    {
+      "word": "BRAKE",
+      "row": 5,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "PEDAL",
+      "row": 2,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "TRUNK",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "RADIO",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "TIRE",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "BELT",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "TURN",
+      "row": 0,
+      "col": 7,
+      "direction": "E"
+    },
+    {
+      "word": "GEAR",
+      "row": 3,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "BEAM",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "DASH",
+      "row": 10,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "OIL",
+      "row": 4,
+      "col": 4,
+      "direction": "SE"
+    }
+  ],
+  "createdAt": "2026-10-09",
+  "seed": 3843572153
+}
