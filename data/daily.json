@@ -95383,6 +95383,2917 @@
       ],
       "seed": 2655216307,
       "createdAt": "2026-10-09T03:00:38.231Z"
+    },
+    {
+      "date": "2026-11-09",
+      "slot": 1,
+      "featured": true,
+      "id": "american-history-easy-04",
+      "slug": "american-history-easy-04",
+      "themeId": "american-history",
+      "difficulty": "easy",
+      "title": "Daily Word Search: American History (Easy)",
+      "primaryKeyword": "daily american history word search",
+      "gridSize": 10,
+      "largePrint": false,
+      "words": [
+        "ARMISTICE",
+        "CENSUS",
+        "DEPRESSION",
+        "FREEDOM",
+        "HOUSE",
+        "MEMORIAL",
+        "SETTLER",
+        "SUFFRAGE",
+        "TRAIL",
+        "TREATY"
+      ],
+      "grid": [
+        [
+          "H",
+          "O",
+          "U",
+          "S",
+          "E",
+          "P",
+          "D",
+          "O",
+          "L",
+          "M"
+        ],
+        [
+          "J",
+          "N",
+          "M",
+          "E",
+          "A",
+          "F",
+          "E",
+          "R",
+          "M",
+          "Z"
+        ],
+        [
+          "V",
+          "T",
+          "E",
+          "T",
+          "R",
+          "R",
+          "P",
+          "S",
+          "S",
+          "X"
+        ],
+        [
+          "V",
+          "R",
+          "M",
+          "T",
+          "M",
+          "E",
+          "R",
+          "C",
+          "U",
+          "J"
+        ],
+        [
+          "G",
+          "E",
+          "O",
+          "L",
+          "I",
+          "E",
+          "E",
+          "E",
+          "F",
+          "T"
+        ],
+        [
+          "W",
+          "A",
+          "R",
+          "E",
+          "S",
+          "D",
+          "S",
+          "N",
+          "F",
+          "R"
+        ],
+        [
+          "V",
+          "T",
+          "I",
+          "R",
+          "T",
+          "O",
+          "S",
+          "S",
+          "R",
+          "A"
+        ],
+        [
+          "U",
+          "Y",
+          "A",
+          "U",
+          "I",
+          "M",
+          "I",
+          "U",
+          "A",
+          "I"
+        ],
+        [
+          "B",
+          "Y",
+          "L",
+          "A",
+          "C",
+          "U",
+          "O",
+          "S",
+          "G",
+          "L"
+        ],
+        [
+          "V",
+          "N",
+          "D",
+          "T",
+          "E",
+          "B",
+          "N",
+          "W",
+          "E",
+          "A"
+        ]
+      ],
+      "placements": [
+        {
+          "word": "DEPRESSION",
+          "row": 0,
+          "col": 6,
+          "direction": "S"
+        },
+        {
+          "word": "ARMISTICE",
+          "row": 1,
+          "col": 4,
+          "direction": "S"
+        },
+        {
+          "word": "SUFFRAGE",
+          "row": 2,
+          "col": 8,
+          "direction": "S"
+        },
+        {
+          "word": "MEMORIAL",
+          "row": 1,
+          "col": 2,
+          "direction": "S"
+        },
+        {
+          "word": "FREEDOM",
+          "row": 1,
+          "col": 5,
+          "direction": "S"
+        },
+        {
+          "word": "SETTLER",
+          "row": 0,
+          "col": 3,
+          "direction": "S"
+        },
+        {
+          "word": "TREATY",
+          "row": 2,
+          "col": 1,
+          "direction": "S"
+        },
+        {
+          "word": "CENSUS",
+          "row": 3,
+          "col": 7,
+          "direction": "S"
+        },
+        {
+          "word": "HOUSE",
+          "row": 0,
+          "col": 0,
+          "direction": "E"
+        },
+        {
+          "word": "TRAIL",
+          "row": 4,
+          "col": 9,
+          "direction": "S"
+        }
+      ],
+      "seed": 449084920,
+      "createdAt": "2026-10-10T02:52:23.079Z"
+    },
+    {
+      "date": "2026-11-09",
+      "slot": 2,
+      "featured": false,
+      "id": "bible-easy-10",
+      "slug": "bible-easy-10",
+      "themeId": "bible",
+      "difficulty": "easy",
+      "title": "Bible Word Search (Easy) #10",
+      "primaryKeyword": "bible word search",
+      "gridSize": 10,
+      "largePrint": false,
+      "words": [
+        "LORD",
+        "MARK",
+        "MARY",
+        "MOSES",
+        "PAUL",
+        "PEACE",
+        "PRAYER",
+        "PSALM",
+        "STAR",
+        "TRUTH"
+      ],
+      "grid": [
+        [
+          "L",
+          "F",
+          "T",
+          "P",
+          "S",
+          "T",
+          "A",
+          "R",
+          "J",
+          "U"
+        ],
+        [
+          "Z",
+          "D",
+          "A",
+          "R",
+          "J",
+          "F",
+          "F",
+          "C",
+          "T",
+          "H"
+        ],
+        [
+          "K",
+          "D",
+          "F",
+          "A",
+          "T",
+          "R",
+          "U",
+          "T",
+          "H",
+          "U"
+        ],
+        [
+          "Z",
+          "P",
+          "D",
+          "Y",
+          "S",
+          "M",
+          "A",
+          "R",
+          "Y",
+          "M"
+        ],
+        [
+          "M",
+          "S",
+          "X",
+          "E",
+          "R",
+          "R",
+          "M",
+          "T",
+          "L",
+          "G"
+        ],
+        [
+          "N",
+          "A",
+          "P",
+          "R",
+          "P",
+          "A",
+          "U",
+          "L",
+          "E",
+          "T"
+        ],
+        [
+          "G",
+          "L",
+          "P",
+          "E",
+          "A",
+          "C",
+          "E",
+          "H",
+          "G",
+          "M"
+        ],
+        [
+          "J",
+          "M",
+          "D",
+          "H",
+          "B",
+          "K",
+          "D",
+          "X",
+          "G",
+          "A"
+        ],
+        [
+          "M",
+          "O",
+          "S",
+          "E",
+          "S",
+          "Y",
+          "H",
+          "A",
+          "F",
+          "R"
+        ],
+        [
+          "L",
+          "O",
+          "R",
+          "D",
+          "N",
+          "H",
+          "A",
+          "F",
+          "E",
+          "K"
+        ]
+      ],
+      "placements": [
+        {
+          "word": "PRAYER",
+          "row": 0,
+          "col": 3,
+          "direction": "S"
+        },
+        {
+          "word": "PSALM",
+          "row": 3,
+          "col": 1,
+          "direction": "S"
+        },
+        {
+          "word": "PEACE",
+          "row": 6,
+          "col": 2,
+          "direction": "E"
+        },
+        {
+          "word": "TRUTH",
+          "row": 2,
+          "col": 4,
+          "direction": "E"
+        },
+        {
+          "word": "MOSES",
+          "row": 8,
+          "col": 0,
+          "direction": "E"
+        },
+        {
+          "word": "MARY",
+          "row": 3,
+          "col": 5,
+          "direction": "E"
+        },
+        {
+          "word": "LORD",
+          "row": 9,
+          "col": 0,
+          "direction": "E"
+        },
+        {
+          "word": "PAUL",
+          "row": 5,
+          "col": 4,
+          "direction": "E"
+        },
+        {
+          "word": "MARK",
+          "row": 6,
+          "col": 9,
+          "direction": "S"
+        },
+        {
+          "word": "STAR",
+          "row": 0,
+          "col": 4,
+          "direction": "E"
+        }
+      ],
+      "seed": 499417777,
+      "createdAt": "2026-10-10T02:52:23.091Z"
+    },
+    {
+      "date": "2026-11-09",
+      "slot": 3,
+      "featured": false,
+      "id": "chess-medium-08",
+      "slug": "chess-medium-08",
+      "themeId": "chess",
+      "difficulty": "medium",
+      "title": "Chess Word Search (Medium) #08",
+      "primaryKeyword": "chess word search",
+      "gridSize": 12,
+      "largePrint": false,
+      "words": [
+        "ATTACK",
+        "BOARD",
+        "BOOK",
+        "CASTLING",
+        "DEFENSE",
+        "MIDDLEGAME",
+        "PROMOTE",
+        "QUEEN",
+        "ROOK",
+        "STALEMATE",
+        "STRATEGY",
+        "STUDY",
+        "TEMPO",
+        "TIMER"
+      ],
+      "grid": [
+        [
+          "Y",
+          "Z",
+          "P",
+          "S",
+          "S",
+          "T",
+          "R",
+          "A",
+          "T",
+          "E",
+          "G",
+          "Y"
+        ],
+        [
+          "S",
+          "A",
+          "Y",
+          "R",
+          "T",
+          "S",
+          "T",
+          "U",
+          "D",
+          "Y",
+          "U",
+          "J"
+        ],
+        [
+          "V",
+          "C",
+          "U",
+          "B",
+          "O",
+          "A",
+          "T",
+          "I",
+          "L",
+          "S",
+          "N",
+          "Z"
+        ],
+        [
+          "W",
+          "A",
+          "J",
+          "W",
+          "O",
+          "M",
+          "L",
+          "J",
+          "M",
+          "J",
+          "S",
+          "B"
+        ],
+        [
+          "Q",
+          "H",
+          "G",
+          "C",
+          "M",
+          "O",
+          "O",
+          "E",
+          "U",
+          "E",
+          "F",
+          "O"
+        ],
+        [
+          "U",
+          "T",
+          "E",
+          "M",
+          "P",
+          "O",
+          "K",
+          "T",
+          "M",
+          "S",
+          "R",
+          "A"
+        ],
+        [
+          "E",
+          "X",
+          "E",
+          "S",
+          "F",
+          "I",
+          "U",
+          "B",
+          "E",
+          "A",
+          "I",
+          "R"
+        ],
+        [
+          "E",
+          "C",
+          "A",
+          "S",
+          "T",
+          "L",
+          "I",
+          "N",
+          "G",
+          "F",
+          "T",
+          "D"
+        ],
+        [
+          "N",
+          "U",
+          "M",
+          "D",
+          "B",
+          "A",
+          "T",
+          "T",
+          "A",
+          "C",
+          "K",
+          "E"
+        ],
+        [
+          "D",
+          "E",
+          "F",
+          "E",
+          "N",
+          "S",
+          "E",
+          "Q",
+          "R",
+          "O",
+          "O",
+          "K"
+        ],
+        [
+          "G",
+          "C",
+          "M",
+          "I",
+          "D",
+          "D",
+          "L",
+          "E",
+          "G",
+          "A",
+          "M",
+          "E"
+        ],
+        [
+          "L",
+          "C",
+          "U",
+          "J",
+          "D",
+          "J",
+          "Q",
+          "A",
+          "J",
+          "M",
+          "C",
+          "P"
+        ]
+      ],
+      "placements": [
+        {
+          "word": "MIDDLEGAME",
+          "row": 10,
+          "col": 2,
+          "direction": "E"
+        },
+        {
+          "word": "STALEMATE",
+          "row": 0,
+          "col": 3,
+          "direction": "SE"
+        },
+        {
+          "word": "CASTLING",
+          "row": 7,
+          "col": 1,
+          "direction": "E"
+        },
+        {
+          "word": "STRATEGY",
+          "row": 0,
+          "col": 4,
+          "direction": "E"
+        },
+        {
+          "word": "DEFENSE",
+          "row": 9,
+          "col": 0,
+          "direction": "E"
+        },
+        {
+          "word": "PROMOTE",
+          "row": 0,
+          "col": 2,
+          "direction": "SE"
+        },
+        {
+          "word": "ATTACK",
+          "row": 8,
+          "col": 5,
+          "direction": "E"
+        },
+        {
+          "word": "BOARD",
+          "row": 3,
+          "col": 11,
+          "direction": "S"
+        },
+        {
+          "word": "TIMER",
+          "row": 1,
+          "col": 6,
+          "direction": "SE"
+        },
+        {
+          "word": "STUDY",
+          "row": 1,
+          "col": 5,
+          "direction": "E"
+        },
+        {
+          "word": "TEMPO",
+          "row": 5,
+          "col": 1,
+          "direction": "E"
+        },
+        {
+          "word": "QUEEN",
+          "row": 4,
+          "col": 0,
+          "direction": "S"
+        },
+        {
+          "word": "BOOK",
+          "row": 2,
+          "col": 3,
+          "direction": "SE"
+        },
+        {
+          "word": "ROOK",
+          "row": 9,
+          "col": 8,
+          "direction": "E"
+        }
+      ],
+      "seed": 482640158,
+      "createdAt": "2026-10-10T02:52:23.100Z"
+    },
+    {
+      "date": "2026-11-09",
+      "slot": 4,
+      "featured": false,
+      "id": "cities-hard-06",
+      "slug": "cities-hard-06",
+      "themeId": "cities",
+      "difficulty": "hard",
+      "title": "Cities Word Search (Hard) #06",
+      "primaryKeyword": "cities word search",
+      "gridSize": 15,
+      "largePrint": false,
+      "words": [
+        "ATHENS",
+        "BANGKOK",
+        "CAIRO",
+        "DELHI",
+        "DUBLIN",
+        "HARBOR",
+        "LIMA",
+        "MADRID",
+        "METRO",
+        "MIAMI",
+        "MOSCOW",
+        "NAIROBI",
+        "PARIS",
+        "PLAZA",
+        "PRAGUE",
+        "ROME",
+        "SYDNEY",
+        "WARSAW"
+      ],
+      "grid": [
+        [
+          "Y",
+          "O",
+          "R",
+          "U",
+          "V",
+          "Y",
+          "F",
+          "B",
+          "I",
+          "X",
+          "N",
+          "I",
+          "I",
+          "T",
+          "B"
+        ],
+        [
+          "S",
+          "C",
+          "P",
+          "S",
+          "Y",
+          "D",
+          "N",
+          "E",
+          "Y",
+          "A",
+          "K",
+          "W",
+          "B",
+          "U",
+          "I"
+        ],
+        [
+          "U",
+          "B",
+          "A",
+          "N",
+          "G",
+          "K",
+          "O",
+          "K",
+          "I",
+          "R",
+          "Q",
+          "M",
+          "D",
+          "H",
+          "S"
+        ],
+        [
+          "C",
+          "I",
+          "T",
+          "H",
+          "J",
+          "F",
+          "V",
+          "R",
+          "U",
+          "K",
+          "E",
+          "U",
+          "L",
+          "C",
+          "H"
+        ],
+        [
+          "Y",
+          "K",
+          "H",
+          "V",
+          "K",
+          "J",
+          "O",
+          "O",
+          "O",
+          "T",
+          "B",
+          "E",
+          "S",
+          "P",
+          "A"
+        ],
+        [
+          "I",
+          "Z",
+          "E",
+          "F",
+          "D",
+          "B",
+          "W",
+          "V",
+          "R",
+          "L",
+          "D",
+          "M",
+          "B",
+          "J",
+          "R"
+        ],
+        [
+          "T",
+          "P",
+          "N",
+          "F",
+          "I",
+          "I",
+          "G",
+          "O",
+          "I",
+          "M",
+          "L",
+          "E",
+          "V",
+          "S",
+          "B"
+        ],
+        [
+          "V",
+          "O",
+          "S",
+          "O",
+          "D",
+          "D",
+          "R",
+          "N",
+          "C",
+          "G",
+          "I",
+          "E",
+          "L",
+          "L",
+          "O"
+        ],
+        [
+          "L",
+          "I",
+          "M",
+          "A",
+          "V",
+          "V",
+          "C",
+          "D",
+          "L",
+          "S",
+          "U",
+          "A",
+          "E",
+          "V",
+          "R"
+        ],
+        [
+          "P",
+          "J",
+          "W",
+          "A",
+          "S",
+          "R",
+          "A",
+          "W",
+          "A",
+          "G",
+          "O",
+          "W",
+          "M",
+          "Q",
+          "X"
+        ],
+        [
+          "H",
+          "T",
+          "G",
+          "Y",
+          "Q",
+          "P",
+          "E",
+          "T",
+          "A",
+          "M",
+          "A",
+          "M",
+          "M",
+          "I",
+          "J"
+        ],
+        [
+          "R",
+          "M",
+          "N",
+          "Y",
+          "K",
+          "D",
+          "I",
+          "R",
+          "F",
+          "R",
+          "Z",
+          "W",
+          "W",
+          "V",
+          "K"
+        ],
+        [
+          "K",
+          "H",
+          "C",
+          "L",
+          "H",
+          "P",
+          "P",
+          "O",
+          "S",
+          "O",
+          "A",
+          "Y",
+          "G",
+          "U",
+          "U"
+        ],
+        [
+          "V",
+          "J",
+          "P",
+          "A",
+          "R",
+          "I",
+          "S",
+          "Q",
+          "W",
+          "M",
+          "L",
+          "G",
+          "U",
+          "F",
+          "R"
+        ],
+        [
+          "R",
+          "O",
+          "R",
+          "I",
+          "A",
+          "C",
+          "U",
+          "C",
+          "F",
+          "E",
+          "P",
+          "O",
+          "H",
+          "X",
+          "D"
+        ]
+      ],
+      "placements": [
+        {
+          "word": "BANGKOK",
+          "row": 2,
+          "col": 1,
+          "direction": "E"
+        },
+        {
+          "word": "NAIROBI",
+          "row": 0,
+          "col": 10,
+          "direction": "SW"
+        },
+        {
+          "word": "PRAGUE",
+          "row": 12,
+          "col": 6,
+          "direction": "NE"
+        },
+        {
+          "word": "WARSAW",
+          "row": 9,
+          "col": 7,
+          "direction": "W"
+        },
+        {
+          "word": "DUBLIN",
+          "row": 2,
+          "col": 12,
+          "direction": "SW"
+        },
+        {
+          "word": "MADRID",
+          "row": 10,
+          "col": 9,
+          "direction": "NW"
+        },
+        {
+          "word": "HARBOR",
+          "row": 3,
+          "col": 14,
+          "direction": "S"
+        },
+        {
+          "word": "ATHENS",
+          "row": 2,
+          "col": 2,
+          "direction": "S"
+        },
+        {
+          "word": "SYDNEY",
+          "row": 1,
+          "col": 3,
+          "direction": "E"
+        },
+        {
+          "word": "MOSCOW",
+          "row": 10,
+          "col": 11,
+          "direction": "NW"
+        },
+        {
+          "word": "DELHI",
+          "row": 5,
+          "col": 10,
+          "direction": "NE"
+        },
+        {
+          "word": "MIAMI",
+          "row": 6,
+          "col": 9,
+          "direction": "SE"
+        },
+        {
+          "word": "CAIRO",
+          "row": 14,
+          "col": 5,
+          "direction": "W"
+        },
+        {
+          "word": "PARIS",
+          "row": 13,
+          "col": 2,
+          "direction": "E"
+        },
+        {
+          "word": "PLAZA",
+          "row": 14,
+          "col": 10,
+          "direction": "N"
+        },
+        {
+          "word": "METRO",
+          "row": 2,
+          "col": 11,
+          "direction": "SW"
+        },
+        {
+          "word": "ROME",
+          "row": 11,
+          "col": 9,
+          "direction": "S"
+        },
+        {
+          "word": "LIMA",
+          "row": 8,
+          "col": 0,
+          "direction": "E"
+        }
+      ],
+      "seed": 532973015,
+      "createdAt": "2026-10-10T02:52:23.109Z"
+    },
+    {
+      "date": "2026-11-09",
+      "slot": 5,
+      "featured": false,
+      "id": "classical-easy-08",
+      "slug": "classical-easy-08",
+      "themeId": "classical",
+      "difficulty": "easy",
+      "title": "Classical Word Search (Easy) #08",
+      "primaryKeyword": "classical music word search",
+      "gridSize": 10,
+      "largePrint": false,
+      "words": [
+        "ADAGIO",
+        "ALLEGRO",
+        "CONCERTO",
+        "CRESCENDO",
+        "LEGATO",
+        "MOTIF",
+        "PRELUDE",
+        "PRESTO",
+        "QUARTET",
+        "STACCATO"
+      ],
+      "grid": [
+        [
+          "G",
+          "V",
+          "Q",
+          "C",
+          "X",
+          "W",
+          "H",
+          "A",
+          "A",
+          "G"
+        ],
+        [
+          "P",
+          "J",
+          "U",
+          "R",
+          "S",
+          "L",
+          "L",
+          "S",
+          "L",
+          "L"
+        ],
+        [
+          "R",
+          "P",
+          "A",
+          "E",
+          "T",
+          "E",
+          "C",
+          "U",
+          "L",
+          "A"
+        ],
+        [
+          "E",
+          "R",
+          "R",
+          "S",
+          "A",
+          "G",
+          "O",
+          "O",
+          "E",
+          "D"
+        ],
+        [
+          "L",
+          "E",
+          "T",
+          "C",
+          "C",
+          "A",
+          "N",
+          "Z",
+          "G",
+          "A"
+        ],
+        [
+          "U",
+          "S",
+          "E",
+          "E",
+          "C",
+          "T",
+          "C",
+          "E",
+          "R",
+          "G"
+        ],
+        [
+          "D",
+          "T",
+          "T",
+          "N",
+          "A",
+          "O",
+          "E",
+          "V",
+          "O",
+          "I"
+        ],
+        [
+          "E",
+          "O",
+          "K",
+          "D",
+          "T",
+          "Y",
+          "R",
+          "T",
+          "X",
+          "O"
+        ],
+        [
+          "E",
+          "K",
+          "I",
+          "O",
+          "O",
+          "W",
+          "T",
+          "H",
+          "V",
+          "I"
+        ],
+        [
+          "N",
+          "H",
+          "Z",
+          "Z",
+          "U",
+          "M",
+          "O",
+          "T",
+          "I",
+          "F"
+        ]
+      ],
+      "placements": [
+        {
+          "word": "CRESCENDO",
+          "row": 0,
+          "col": 3,
+          "direction": "S"
+        },
+        {
+          "word": "CONCERTO",
+          "row": 2,
+          "col": 6,
+          "direction": "S"
+        },
+        {
+          "word": "STACCATO",
+          "row": 1,
+          "col": 4,
+          "direction": "S"
+        },
+        {
+          "word": "PRELUDE",
+          "row": 1,
+          "col": 0,
+          "direction": "S"
+        },
+        {
+          "word": "QUARTET",
+          "row": 0,
+          "col": 2,
+          "direction": "S"
+        },
+        {
+          "word": "ALLEGRO",
+          "row": 0,
+          "col": 8,
+          "direction": "S"
+        },
+        {
+          "word": "ADAGIO",
+          "row": 2,
+          "col": 9,
+          "direction": "S"
+        },
+        {
+          "word": "PRESTO",
+          "row": 2,
+          "col": 1,
+          "direction": "S"
+        },
+        {
+          "word": "LEGATO",
+          "row": 1,
+          "col": 5,
+          "direction": "S"
+        },
+        {
+          "word": "MOTIF",
+          "row": 9,
+          "col": 5,
+          "direction": "E"
+        }
+      ],
+      "seed": 516195396,
+      "createdAt": "2026-10-10T02:52:23.116Z"
+    },
+    {
+      "date": "2026-11-09",
+      "slot": 6,
+      "featured": false,
+      "id": "coffee-tea-medium-08",
+      "slug": "coffee-tea-medium-08",
+      "themeId": "coffee-tea",
+      "difficulty": "medium",
+      "title": "Coffee & Tea Word Search (Medium) #08",
+      "primaryKeyword": "coffee and tea word search",
+      "gridSize": 12,
+      "largePrint": false,
+      "words": [
+        "AROMA",
+        "BEAN",
+        "BISCUIT",
+        "COCOA",
+        "COFFEE",
+        "EARL",
+        "ESPRESSO",
+        "FOAM",
+        "JASMINE",
+        "KETTLE",
+        "LATTE",
+        "MORNING",
+        "MUG",
+        "WARM"
+      ],
+      "grid": [
+        [
+          "V",
+          "B",
+          "W",
+          "F",
+          "F",
+          "F",
+          "X",
+          "U",
+          "X",
+          "G",
+          "X",
+          "N"
+        ],
+        [
+          "C",
+          "I",
+          "A",
+          "E",
+          "O",
+          "B",
+          "J",
+          "P",
+          "V",
+          "C",
+          "G",
+          "V"
+        ],
+        [
+          "W",
+          "S",
+          "R",
+          "L",
+          "E",
+          "E",
+          "A",
+          "W",
+          "F",
+          "O",
+          "T",
+          "Q"
+        ],
+        [
+          "A",
+          "C",
+          "O",
+          "M",
+          "S",
+          "A",
+          "S",
+          "O",
+          "Q",
+          "F",
+          "M",
+          "X"
+        ],
+        [
+          "R",
+          "U",
+          "M",
+          "U",
+          "P",
+          "N",
+          "M",
+          "K",
+          "D",
+          "F",
+          "O",
+          "Q"
+        ],
+        [
+          "M",
+          "I",
+          "A",
+          "G",
+          "R",
+          "O",
+          "I",
+          "B",
+          "E",
+          "E",
+          "R",
+          "L"
+        ],
+        [
+          "Y",
+          "T",
+          "P",
+          "J",
+          "E",
+          "F",
+          "N",
+          "O",
+          "A",
+          "E",
+          "N",
+          "A"
+        ],
+        [
+          "N",
+          "M",
+          "C",
+          "W",
+          "S",
+          "K",
+          "E",
+          "W",
+          "R",
+          "I",
+          "I",
+          "T"
+        ],
+        [
+          "O",
+          "V",
+          "I",
+          "C",
+          "S",
+          "L",
+          "K",
+          "U",
+          "L",
+          "N",
+          "N",
+          "T"
+        ],
+        [
+          "U",
+          "V",
+          "H",
+          "F",
+          "O",
+          "A",
+          "M",
+          "X",
+          "D",
+          "I",
+          "G",
+          "E"
+        ],
+        [
+          "C",
+          "O",
+          "C",
+          "O",
+          "A",
+          "O",
+          "Q",
+          "J",
+          "Y",
+          "E",
+          "Z",
+          "C"
+        ],
+        [
+          "P",
+          "V",
+          "Y",
+          "I",
+          "Q",
+          "K",
+          "E",
+          "T",
+          "T",
+          "L",
+          "E",
+          "O"
+        ]
+      ],
+      "placements": [
+        {
+          "word": "ESPRESSO",
+          "row": 2,
+          "col": 4,
+          "direction": "S"
+        },
+        {
+          "word": "MORNING",
+          "row": 3,
+          "col": 10,
+          "direction": "S"
+        },
+        {
+          "word": "BISCUIT",
+          "row": 0,
+          "col": 1,
+          "direction": "S"
+        },
+        {
+          "word": "JASMINE",
+          "row": 1,
+          "col": 6,
+          "direction": "S"
+        },
+        {
+          "word": "COFFEE",
+          "row": 1,
+          "col": 9,
+          "direction": "S"
+        },
+        {
+          "word": "KETTLE",
+          "row": 11,
+          "col": 5,
+          "direction": "E"
+        },
+        {
+          "word": "COCOA",
+          "row": 10,
+          "col": 0,
+          "direction": "E"
+        },
+        {
+          "word": "LATTE",
+          "row": 5,
+          "col": 11,
+          "direction": "S"
+        },
+        {
+          "word": "AROMA",
+          "row": 1,
+          "col": 2,
+          "direction": "S"
+        },
+        {
+          "word": "FOAM",
+          "row": 9,
+          "col": 3,
+          "direction": "E"
+        },
+        {
+          "word": "BEAN",
+          "row": 1,
+          "col": 5,
+          "direction": "S"
+        },
+        {
+          "word": "EARL",
+          "row": 5,
+          "col": 8,
+          "direction": "S"
+        },
+        {
+          "word": "WARM",
+          "row": 2,
+          "col": 0,
+          "direction": "S"
+        },
+        {
+          "word": "MUG",
+          "row": 3,
+          "col": 3,
+          "direction": "S"
+        }
+      ],
+      "seed": 566528253,
+      "createdAt": "2026-10-10T02:52:23.123Z"
+    },
+    {
+      "date": "2026-11-09",
+      "slot": 7,
+      "featured": false,
+      "id": "colors-hard-06",
+      "slug": "colors-hard-06",
+      "themeId": "colors",
+      "difficulty": "hard",
+      "title": "Colors Word Search (Hard) #06",
+      "primaryKeyword": "colors word search",
+      "gridSize": 15,
+      "largePrint": false,
+      "words": [
+        "AQUA",
+        "BEIGE",
+        "BLACK",
+        "CYAN",
+        "GREEN",
+        "LEAF",
+        "LIME",
+        "MAROON",
+        "PLUM",
+        "RED",
+        "RUST",
+        "SAGE",
+        "SAND",
+        "SCARLET",
+        "SEA",
+        "SILVER",
+        "TAN",
+        "TURQUOISE"
+      ],
+      "grid": [
+        [
+          "S",
+          "W",
+          "E",
+          "M",
+          "Q",
+          "V",
+          "N",
+          "Y",
+          "D",
+          "G",
+          "P",
+          "G",
+          "N",
+          "S",
+          "N"
+        ],
+        [
+          "Q",
+          "I",
+          "F",
+          "S",
+          "A",
+          "X",
+          "A",
+          "S",
+          "A",
+          "F",
+          "L",
+          "E",
+          "A",
+          "F",
+          "K"
+        ],
+        [
+          "W",
+          "M",
+          "V",
+          "L",
+          "V",
+          "R",
+          "T",
+          "C",
+          "E",
+          "O",
+          "U",
+          "R",
+          "U",
+          "C",
+          "B"
+        ],
+        [
+          "A",
+          "Q",
+          "U",
+          "A",
+          "R",
+          "U",
+          "O",
+          "O",
+          "H",
+          "S",
+          "M",
+          "M",
+          "Y",
+          "R",
+          "I"
+        ],
+        [
+          "B",
+          "E",
+          "I",
+          "G",
+          "E",
+          "X",
+          "N",
+          "O",
+          "O",
+          "A",
+          "N",
+          "C",
+          "W",
+          "V",
+          "G"
+        ],
+        [
+          "M",
+          "Y",
+          "V",
+          "N",
+          "K",
+          "A",
+          "H",
+          "E",
+          "N",
+          "N",
+          "R",
+          "V",
+          "S",
+          "E",
+          "R"
+        ],
+        [
+          "E",
+          "E",
+          "J",
+          "K",
+          "O",
+          "O",
+          "H",
+          "Q",
+          "E",
+          "D",
+          "P",
+          "R",
+          "C",
+          "M",
+          "F"
+        ],
+        [
+          "Z",
+          "J",
+          "R",
+          "E",
+          "S",
+          "I",
+          "O",
+          "U",
+          "Q",
+          "R",
+          "U",
+          "T",
+          "A",
+          "I",
+          "K"
+        ],
+        [
+          "S",
+          "W",
+          "A",
+          "E",
+          "S",
+          "K",
+          "Q",
+          "A",
+          "N",
+          "J",
+          "G",
+          "X",
+          "R",
+          "L",
+          "K"
+        ],
+        [
+          "M",
+          "H",
+          "F",
+          "R",
+          "S",
+          "K",
+          "S",
+          "L",
+          "P",
+          "C",
+          "M",
+          "Z",
+          "L",
+          "K",
+          "K"
+        ],
+        [
+          "G",
+          "F",
+          "B",
+          "L",
+          "A",
+          "C",
+          "K",
+          "Z",
+          "Z",
+          "G",
+          "M",
+          "Z",
+          "E",
+          "G",
+          "R"
+        ],
+        [
+          "T",
+          "S",
+          "S",
+          "I",
+          "L",
+          "V",
+          "E",
+          "R",
+          "R",
+          "D",
+          "F",
+          "S",
+          "T",
+          "W",
+          "F"
+        ],
+        [
+          "O",
+          "N",
+          "D",
+          "H",
+          "A",
+          "F",
+          "A",
+          "T",
+          "I",
+          "J",
+          "A",
+          "P",
+          "I",
+          "N",
+          "G"
+        ],
+        [
+          "R",
+          "U",
+          "P",
+          "E",
+          "T",
+          "S",
+          "U",
+          "R",
+          "S",
+          "G",
+          "N",
+          "A",
+          "Y",
+          "C",
+          "C"
+        ],
+        [
+          "W",
+          "S",
+          "B",
+          "Z",
+          "R",
+          "L",
+          "Y",
+          "L",
+          "E",
+          "M",
+          "O",
+          "Q",
+          "H",
+          "T",
+          "B"
+        ]
+      ],
+      "placements": [
+        {
+          "word": "TURQUOISE",
+          "row": 7,
+          "col": 11,
+          "direction": "W"
+        },
+        {
+          "word": "SCARLET",
+          "row": 5,
+          "col": 12,
+          "direction": "S"
+        },
+        {
+          "word": "SILVER",
+          "row": 11,
+          "col": 2,
+          "direction": "E"
+        },
+        {
+          "word": "MAROON",
+          "row": 0,
+          "col": 3,
+          "direction": "SE"
+        },
+        {
+          "word": "GREEN",
+          "row": 8,
+          "col": 10,
+          "direction": "NW"
+        },
+        {
+          "word": "BEIGE",
+          "row": 4,
+          "col": 0,
+          "direction": "E"
+        },
+        {
+          "word": "BLACK",
+          "row": 10,
+          "col": 2,
+          "direction": "E"
+        },
+        {
+          "word": "CYAN",
+          "row": 13,
+          "col": 13,
+          "direction": "W"
+        },
+        {
+          "word": "PLUM",
+          "row": 0,
+          "col": 10,
+          "direction": "S"
+        },
+        {
+          "word": "LEAF",
+          "row": 1,
+          "col": 10,
+          "direction": "E"
+        },
+        {
+          "word": "SAND",
+          "row": 3,
+          "col": 9,
+          "direction": "S"
+        },
+        {
+          "word": "SAGE",
+          "row": 11,
+          "col": 11,
+          "direction": "SW"
+        },
+        {
+          "word": "RUST",
+          "row": 13,
+          "col": 7,
+          "direction": "W"
+        },
+        {
+          "word": "LIME",
+          "row": 8,
+          "col": 13,
+          "direction": "N"
+        },
+        {
+          "word": "AQUA",
+          "row": 3,
+          "col": 0,
+          "direction": "E"
+        },
+        {
+          "word": "SEA",
+          "row": 8,
+          "col": 4,
+          "direction": "W"
+        },
+        {
+          "word": "RED",
+          "row": 14,
+          "col": 4,
+          "direction": "NW"
+        },
+        {
+          "word": "TAN",
+          "row": 2,
+          "col": 6,
+          "direction": "N"
+        }
+      ],
+      "seed": 549750634,
+      "createdAt": "2026-10-10T02:52:23.133Z"
+    },
+    {
+      "date": "2026-11-09",
+      "slot": 8,
+      "featured": false,
+      "id": "continents-easy-08",
+      "slug": "continents-easy-08",
+      "themeId": "continents",
+      "difficulty": "easy",
+      "title": "Continents Word Search (Easy) #08",
+      "primaryKeyword": "continents word search",
+      "gridSize": 10,
+      "largePrint": false,
+      "words": [
+        "AMERICA",
+        "ATLAS",
+        "AUSTRALIA",
+        "EQUATOR",
+        "EUROPE",
+        "OCEANIA",
+        "PENINSULA",
+        "PLAIN",
+        "POLE",
+        "TROPIC"
+      ],
+      "grid": [
+        [
+          "H",
+          "P",
+          "E",
+          "N",
+          "I",
+          "N",
+          "S",
+          "U",
+          "L",
+          "A"
+        ],
+        [
+          "M",
+          "O",
+          "J",
+          "T",
+          "J",
+          "T",
+          "Q",
+          "W",
+          "A",
+          "A"
+        ],
+        [
+          "E",
+          "C",
+          "P",
+          "L",
+          "A",
+          "I",
+          "N",
+          "P",
+          "F",
+          "U"
+        ],
+        [
+          "Q",
+          "E",
+          "A",
+          "T",
+          "L",
+          "A",
+          "S",
+          "T",
+          "P",
+          "S"
+        ],
+        [
+          "U",
+          "A",
+          "P",
+          "C",
+          "S",
+          "R",
+          "G",
+          "Q",
+          "O",
+          "T"
+        ],
+        [
+          "A",
+          "N",
+          "E",
+          "U",
+          "R",
+          "O",
+          "P",
+          "E",
+          "D",
+          "R"
+        ],
+        [
+          "T",
+          "I",
+          "P",
+          "J",
+          "G",
+          "X",
+          "R",
+          "J",
+          "O",
+          "A"
+        ],
+        [
+          "O",
+          "A",
+          "A",
+          "M",
+          "E",
+          "R",
+          "I",
+          "C",
+          "A",
+          "L"
+        ],
+        [
+          "R",
+          "T",
+          "R",
+          "O",
+          "P",
+          "I",
+          "C",
+          "D",
+          "L",
+          "I"
+        ],
+        [
+          "P",
+          "O",
+          "L",
+          "E",
+          "W",
+          "Z",
+          "A",
+          "C",
+          "C",
+          "A"
+        ]
+      ],
+      "placements": [
+        {
+          "word": "AUSTRALIA",
+          "row": 1,
+          "col": 9,
+          "direction": "S"
+        },
+        {
+          "word": "PENINSULA",
+          "row": 0,
+          "col": 1,
+          "direction": "E"
+        },
+        {
+          "word": "EQUATOR",
+          "row": 2,
+          "col": 0,
+          "direction": "S"
+        },
+        {
+          "word": "AMERICA",
+          "row": 7,
+          "col": 2,
+          "direction": "E"
+        },
+        {
+          "word": "OCEANIA",
+          "row": 1,
+          "col": 1,
+          "direction": "S"
+        },
+        {
+          "word": "TROPIC",
+          "row": 8,
+          "col": 1,
+          "direction": "E"
+        },
+        {
+          "word": "EUROPE",
+          "row": 5,
+          "col": 2,
+          "direction": "E"
+        },
+        {
+          "word": "ATLAS",
+          "row": 3,
+          "col": 2,
+          "direction": "E"
+        },
+        {
+          "word": "PLAIN",
+          "row": 2,
+          "col": 2,
+          "direction": "E"
+        },
+        {
+          "word": "POLE",
+          "row": 9,
+          "col": 0,
+          "direction": "E"
+        }
+      ],
+      "seed": 331641587,
+      "createdAt": "2026-10-10T02:52:23.140Z"
+    },
+    {
+      "date": "2026-11-09",
+      "slot": 9,
+      "featured": false,
+      "id": "cooking-medium-08",
+      "slug": "cooking-medium-08",
+      "themeId": "cooking",
+      "difficulty": "medium",
+      "title": "Cooking Word Search (Medium) #08",
+      "primaryKeyword": "cooking word search",
+      "gridSize": 12,
+      "largePrint": false,
+      "words": [
+        "BAKE",
+        "BATTER",
+        "BLEND",
+        "BRAISE",
+        "DICE",
+        "GRAVY",
+        "GRILL",
+        "KNEAD",
+        "LADLE",
+        "OIL",
+        "PAN",
+        "POT",
+        "ROAST",
+        "STEAM"
+      ],
+      "grid": [
+        [
+          "R",
+          "C",
+          "O",
+          "R",
+          "B",
+          "B",
+          "Z",
+          "F",
+          "X",
+          "V",
+          "S",
+          "H"
+        ],
+        [
+          "U",
+          "R",
+          "Q",
+          "L",
+          "V",
+          "A",
+          "T",
+          "W",
+          "P",
+          "K",
+          "L",
+          "K"
+        ],
+        [
+          "S",
+          "Z",
+          "W",
+          "N",
+          "L",
+          "T",
+          "I",
+          "D",
+          "A",
+          "N",
+          "A",
+          "I"
+        ],
+        [
+          "T",
+          "R",
+          "F",
+          "I",
+          "P",
+          "T",
+          "X",
+          "Y",
+          "N",
+          "E",
+          "D",
+          "E"
+        ],
+        [
+          "E",
+          "O",
+          "O",
+          "B",
+          "L",
+          "E",
+          "N",
+          "D",
+          "F",
+          "A",
+          "L",
+          "B"
+        ],
+        [
+          "A",
+          "A",
+          "F",
+          "U",
+          "O",
+          "R",
+          "O",
+          "T",
+          "B",
+          "D",
+          "E",
+          "J"
+        ],
+        [
+          "M",
+          "S",
+          "I",
+          "F",
+          "Y",
+          "G",
+          "B",
+          "R",
+          "A",
+          "I",
+          "S",
+          "E"
+        ],
+        [
+          "R",
+          "T",
+          "X",
+          "V",
+          "V",
+          "N",
+          "B",
+          "Q",
+          "F",
+          "R",
+          "N",
+          "E"
+        ],
+        [
+          "X",
+          "U",
+          "A",
+          "D",
+          "P",
+          "O",
+          "T",
+          "A",
+          "S",
+          "P",
+          "C",
+          "C"
+        ],
+        [
+          "N",
+          "R",
+          "Y",
+          "P",
+          "F",
+          "P",
+          "X",
+          "R",
+          "K",
+          "I",
+          "U",
+          "W"
+        ],
+        [
+          "G",
+          "R",
+          "I",
+          "L",
+          "L",
+          "Q",
+          "X",
+          "S",
+          "D",
+          "E",
+          "R",
+          "P"
+        ],
+        [
+          "N",
+          "A",
+          "W",
+          "E",
+          "T",
+          "Y",
+          "D",
+          "H",
+          "B",
+          "U",
+          "U",
+          "B"
+        ]
+      ],
+      "placements": [
+        {
+          "word": "BRAISE",
+          "row": 6,
+          "col": 6,
+          "direction": "E"
+        },
+        {
+          "word": "BATTER",
+          "row": 0,
+          "col": 5,
+          "direction": "S"
+        },
+        {
+          "word": "BLEND",
+          "row": 4,
+          "col": 3,
+          "direction": "E"
+        },
+        {
+          "word": "ROAST",
+          "row": 3,
+          "col": 1,
+          "direction": "S"
+        },
+        {
+          "word": "GRAVY",
+          "row": 10,
+          "col": 0,
+          "direction": "NE"
+        },
+        {
+          "word": "GRILL",
+          "row": 10,
+          "col": 0,
+          "direction": "E"
+        },
+        {
+          "word": "STEAM",
+          "row": 2,
+          "col": 0,
+          "direction": "S"
+        },
+        {
+          "word": "LADLE",
+          "row": 1,
+          "col": 10,
+          "direction": "S"
+        },
+        {
+          "word": "KNEAD",
+          "row": 1,
+          "col": 9,
+          "direction": "S"
+        },
+        {
+          "word": "BAKE",
+          "row": 7,
+          "col": 6,
+          "direction": "SE"
+        },
+        {
+          "word": "DICE",
+          "row": 10,
+          "col": 8,
+          "direction": "NE"
+        },
+        {
+          "word": "POT",
+          "row": 8,
+          "col": 4,
+          "direction": "E"
+        },
+        {
+          "word": "OIL",
+          "row": 4,
+          "col": 2,
+          "direction": "NE"
+        },
+        {
+          "word": "PAN",
+          "row": 1,
+          "col": 8,
+          "direction": "S"
+        }
+      ],
+      "seed": 314863968,
+      "createdAt": "2026-10-10T02:52:23.147Z"
+    },
+    {
+      "date": "2026-11-09",
+      "slot": 10,
+      "featured": false,
+      "id": "countries-hard-06",
+      "slug": "countries-hard-06",
+      "themeId": "countries",
+      "difficulty": "hard",
+      "title": "Countries Word Search (Hard) #06",
+      "primaryKeyword": "countries word search",
+      "gridSize": 15,
+      "largePrint": false,
+      "words": [
+        "AUSTRALIA",
+        "CANADA",
+        "COAST",
+        "CUBA",
+        "ENGLAND",
+        "GREECE",
+        "HAITI",
+        "INDIA",
+        "IRAN",
+        "ISRAEL",
+        "KENYA",
+        "KOREA",
+        "NATION",
+        "PERU",
+        "PORTUGAL",
+        "SCOTLAND",
+        "SWISS",
+        "UKRAINE"
+      ],
+      "grid": [
+        [
+          "Y",
+          "X",
+          "O",
+          "W",
+          "S",
+          "N",
+          "J",
+          "A",
+          "X",
+          "O",
+          "P",
+          "C",
+          "F",
+          "E",
+          "O"
+        ],
+        [
+          "W",
+          "R",
+          "J",
+          "S",
+          "A",
+          "I",
+          "U",
+          "P",
+          "W",
+          "K",
+          "O",
+          "R",
+          "E",
+          "A",
+          "M"
+        ],
+        [
+          "C",
+          "A",
+          "I",
+          "R",
+          "Z",
+          "E",
+          "Z",
+          "O",
+          "S",
+          "Z",
+          "B",
+          "V",
+          "D",
+          "A",
+          "L"
+        ],
+        [
+          "Q",
+          "W",
+          "I",
+          "X",
+          "S",
+          "C",
+          "O",
+          "T",
+          "L",
+          "A",
+          "N",
+          "D",
+          "Q",
+          "V",
+          "V"
+        ],
+        [
+          "S",
+          "G",
+          "L",
+          "A",
+          "N",
+          "U",
+          "E",
+          "C",
+          "E",
+          "E",
+          "R",
+          "G",
+          "P",
+          "M",
+          "M"
+        ],
+        [
+          "I",
+          "J",
+          "O",
+          "S",
+          "Z",
+          "W",
+          "R",
+          "C",
+          "U",
+          "B",
+          "A",
+          "Z",
+          "Z",
+          "F",
+          "Z"
+        ],
+        [
+          "Q",
+          "P",
+          "L",
+          "M",
+          "P",
+          "T",
+          "U",
+          "E",
+          "L",
+          "S",
+          "U",
+          "C",
+          "X",
+          "W",
+          "G"
+        ],
+        [
+          "G",
+          "I",
+          "S",
+          "R",
+          "A",
+          "E",
+          "L",
+          "A",
+          "P",
+          "Z",
+          "E",
+          "M",
+          "L",
+          "A",
+          "C"
+        ],
+        [
+          "P",
+          "O",
+          "R",
+          "T",
+          "U",
+          "G",
+          "A",
+          "L",
+          "H",
+          "H",
+          "A",
+          "I",
+          "T",
+          "I",
+          "Z"
+        ],
+        [
+          "U",
+          "U",
+          "K",
+          "R",
+          "A",
+          "I",
+          "N",
+          "E",
+          "T",
+          "S",
+          "A",
+          "O",
+          "C",
+          "Z",
+          "H"
+        ],
+        [
+          "C",
+          "P",
+          "A",
+          "Q",
+          "M",
+          "N",
+          "A",
+          "T",
+          "I",
+          "O",
+          "N",
+          "T",
+          "J",
+          "X",
+          "P"
+        ],
+        [
+          "M",
+          "Q",
+          "I",
+          "D",
+          "N",
+          "A",
+          "L",
+          "G",
+          "N",
+          "E",
+          "J",
+          "G",
+          "J",
+          "Z",
+          "V"
+        ],
+        [
+          "H",
+          "V",
+          "Z",
+          "I",
+          "A",
+          "F",
+          "A",
+          "I",
+          "L",
+          "A",
+          "R",
+          "T",
+          "S",
+          "U",
+          "A"
+        ],
+        [
+          "T",
+          "Z",
+          "K",
+          "E",
+          "N",
+          "Y",
+          "A",
+          "K",
+          "Q",
+          "C",
+          "A",
+          "N",
+          "A",
+          "D",
+          "A"
+        ],
+        [
+          "V",
+          "A",
+          "I",
+          "D",
+          "N",
+          "I",
+          "V",
+          "M",
+          "G",
+          "Z",
+          "S",
+          "V",
+          "J",
+          "N",
+          "S"
+        ]
+      ],
+      "placements": [
+        {
+          "word": "AUSTRALIA",
+          "row": 12,
+          "col": 14,
+          "direction": "W"
+        },
+        {
+          "word": "PORTUGAL",
+          "row": 8,
+          "col": 0,
+          "direction": "E"
+        },
+        {
+          "word": "SCOTLAND",
+          "row": 3,
+          "col": 4,
+          "direction": "E"
+        },
+        {
+          "word": "ENGLAND",
+          "row": 11,
+          "col": 9,
+          "direction": "W"
+        },
+        {
+          "word": "UKRAINE",
+          "row": 9,
+          "col": 1,
+          "direction": "E"
+        },
+        {
+          "word": "GREECE",
+          "row": 4,
+          "col": 11,
+          "direction": "W"
+        },
+        {
+          "word": "ISRAEL",
+          "row": 7,
+          "col": 1,
+          "direction": "E"
+        },
+        {
+          "word": "NATION",
+          "row": 10,
+          "col": 5,
+          "direction": "E"
+        },
+        {
+          "word": "CANADA",
+          "row": 13,
+          "col": 9,
+          "direction": "E"
+        },
+        {
+          "word": "HAITI",
+          "row": 8,
+          "col": 9,
+          "direction": "E"
+        },
+        {
+          "word": "KOREA",
+          "row": 1,
+          "col": 9,
+          "direction": "E"
+        },
+        {
+          "word": "SWISS",
+          "row": 4,
+          "col": 0,
+          "direction": "NE"
+        },
+        {
+          "word": "INDIA",
+          "row": 14,
+          "col": 5,
+          "direction": "W"
+        },
+        {
+          "word": "KENYA",
+          "row": 13,
+          "col": 2,
+          "direction": "E"
+        },
+        {
+          "word": "COAST",
+          "row": 9,
+          "col": 12,
+          "direction": "W"
+        },
+        {
+          "word": "IRAN",
+          "row": 3,
+          "col": 2,
+          "direction": "NE"
+        },
+        {
+          "word": "PERU",
+          "row": 7,
+          "col": 8,
+          "direction": "NW"
+        },
+        {
+          "word": "CUBA",
+          "row": 5,
+          "col": 7,
+          "direction": "E"
+        }
+      ],
+      "seed": 3948020184,
+      "createdAt": "2026-10-10T02:52:23.157Z"
     }
   ]
 }

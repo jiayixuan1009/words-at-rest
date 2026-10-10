@@ -1,0 +1,284 @@
+{
+  "id": "chess-medium-08",
+  "slug": "chess-medium-08",
+  "themeId": "chess",
+  "title": "Chess Word Search (Medium) #08",
+  "primaryKeyword": "chess word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "ATTACK",
+    "BOARD",
+    "BOOK",
+    "CASTLING",
+    "DEFENSE",
+    "MIDDLEGAME",
+    "PROMOTE",
+    "QUEEN",
+    "ROOK",
+    "STALEMATE",
+    "STRATEGY",
+    "STUDY",
+    "TEMPO",
+    "TIMER"
+  ],
+  "grid": [
+    [
+      "Y",
+      "Z",
+      "P",
+      "S",
+      "S",
+      "T",
+      "R",
+      "A",
+      "T",
+      "E",
+      "G",
+      "Y"
+    ],
+    [
+      "S",
+      "A",
+      "Y",
+      "R",
+      "T",
+      "S",
+      "T",
+      "U",
+      "D",
+      "Y",
+      "U",
+      "J"
+    ],
+    [
+      "V",
+      "C",
+      "U",
+      "B",
+      "O",
+      "A",
+      "T",
+      "I",
+      "L",
+      "S",
+      "N",
+      "Z"
+    ],
+    [
+      "W",
+      "A",
+      "J",
+      "W",
+      "O",
+      "M",
+      "L",
+      "J",
+      "M",
+      "J",
+      "S",
+      "B"
+    ],
+    [
+      "Q",
+      "H",
+      "G",
+      "C",
+      "M",
+      "O",
+      "O",
+      "E",
+      "U",
+      "E",
+      "F",
+      "O"
+    ],
+    [
+      "U",
+      "T",
+      "E",
+      "M",
+      "P",
+      "O",
+      "K",
+      "T",
+      "M",
+      "S",
+      "R",
+      "A"
+    ],
+    [
+      "E",
+      "X",
+      "E",
+      "S",
+      "F",
+      "I",
+      "U",
+      "B",
+      "E",
+      "A",
+      "I",
+      "R"
+    ],
+    [
+      "E",
+      "C",
+      "A",
+      "S",
+      "T",
+      "L",
+      "I",
+      "N",
+      "G",
+      "F",
+      "T",
+      "D"
+    ],
+    [
+      "N",
+      "U",
+      "M",
+      "D",
+      "B",
+      "A",
+      "T",
+      "T",
+      "A",
+      "C",
+      "K",
+      "E"
+    ],
+    [
+      "D",
+      "E",
+      "F",
+      "E",
+      "N",
+      "S",
+      "E",
+      "Q",
+      "R",
+      "O",
+      "O",
+      "K"
+    ],
+    [
+      "G",
+      "C",
+      "M",
+      "I",
+      "D",
+      "D",
+      "L",
+      "E",
+      "G",
+      "A",
+      "M",
+      "E"
+    ],
+    [
+      "L",
+      "C",
+      "U",
+      "J",
+      "D",
+      "J",
+      "Q",
+      "A",
+      "J",
+      "M",
+      "C",
+      "P"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "MIDDLEGAME",
+      "row": 10,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "STALEMATE",
+      "row": 0,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "CASTLING",
+      "row": 7,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "STRATEGY",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "DEFENSE",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "PROMOTE",
+      "row": 0,
+      "col": 2,
+      "direction": "SE"
+    },
+    {
+      "word": "ATTACK",
+      "row": 8,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "BOARD",
+      "row": 3,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "TIMER",
+      "row": 1,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "STUDY",
+      "row": 1,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "TEMPO",
+      "row": 5,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "QUEEN",
+      "row": 4,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "BOOK",
+      "row": 2,
+      "col": 3,
+      "direction": "SE"
+    },
+    {
+      "word": "ROOK",
+      "row": 9,
+      "col": 8,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-10",
+  "seed": 482640158
+}

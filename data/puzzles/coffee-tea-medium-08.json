@@ -1,0 +1,284 @@
+{
+  "id": "coffee-tea-medium-08",
+  "slug": "coffee-tea-medium-08",
+  "themeId": "coffee-tea",
+  "title": "Coffee & Tea Word Search (Medium) #08",
+  "primaryKeyword": "coffee and tea word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "AROMA",
+    "BEAN",
+    "BISCUIT",
+    "COCOA",
+    "COFFEE",
+    "EARL",
+    "ESPRESSO",
+    "FOAM",
+    "JASMINE",
+    "KETTLE",
+    "LATTE",
+    "MORNING",
+    "MUG",
+    "WARM"
+  ],
+  "grid": [
+    [
+      "V",
+      "B",
+      "W",
+      "F",
+      "F",
+      "F",
+      "X",
+      "U",
+      "X",
+      "G",
+      "X",
+      "N"
+    ],
+    [
+      "C",
+      "I",
+      "A",
+      "E",
+      "O",
+      "B",
+      "J",
+      "P",
+      "V",
+      "C",
+      "G",
+      "V"
+    ],
+    [
+      "W",
+      "S",
+      "R",
+      "L",
+      "E",
+      "E",
+      "A",
+      "W",
+      "F",
+      "O",
+      "T",
+      "Q"
+    ],
+    [
+      "A",
+      "C",
+      "O",
+      "M",
+      "S",
+      "A",
+      "S",
+      "O",
+      "Q",
+      "F",
+      "M",
+      "X"
+    ],
+    [
+      "R",
+      "U",
+      "M",
+      "U",
+      "P",
+      "N",
+      "M",
+      "K",
+      "D",
+      "F",
+      "O",
+      "Q"
+    ],
+    [
+      "M",
+      "I",
+      "A",
+      "G",
+      "R",
+      "O",
+      "I",
+      "B",
+      "E",
+      "E",
+      "R",
+      "L"
+    ],
+    [
+      "Y",
+      "T",
+      "P",
+      "J",
+      "E",
+      "F",
+      "N",
+      "O",
+      "A",
+      "E",
+      "N",
+      "A"
+    ],
+    [
+      "N",
+      "M",
+      "C",
+      "W",
+      "S",
+      "K",
+      "E",
+      "W",
+      "R",
+      "I",
+      "I",
+      "T"
+    ],
+    [
+      "O",
+      "V",
+      "I",
+      "C",
+      "S",
+      "L",
+      "K",
+      "U",
+      "L",
+      "N",
+      "N",
+      "T"
+    ],
+    [
+      "U",
+      "V",
+      "H",
+      "F",
+      "O",
+      "A",
+      "M",
+      "X",
+      "D",
+      "I",
+      "G",
+      "E"
+    ],
+    [
+      "C",
+      "O",
+      "C",
+      "O",
+      "A",
+      "O",
+      "Q",
+      "J",
+      "Y",
+      "E",
+      "Z",
+      "C"
+    ],
+    [
+      "P",
+      "V",
+      "Y",
+      "I",
+      "Q",
+      "K",
+      "E",
+      "T",
+      "T",
+      "L",
+      "E",
+      "O"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ESPRESSO",
+      "row": 2,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "MORNING",
+      "row": 3,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "BISCUIT",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "JASMINE",
+      "row": 1,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "COFFEE",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "KETTLE",
+      "row": 11,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "COCOA",
+      "row": 10,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "LATTE",
+      "row": 5,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "AROMA",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "FOAM",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BEAN",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "EARL",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "WARM",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "MUG",
+      "row": 3,
+      "col": 3,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-10",
+  "seed": 566528253
+}

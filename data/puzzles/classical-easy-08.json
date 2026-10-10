@@ -1,0 +1,208 @@
+{
+  "id": "classical-easy-08",
+  "slug": "classical-easy-08",
+  "themeId": "classical",
+  "title": "Classical Word Search (Easy) #08",
+  "primaryKeyword": "classical music word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ADAGIO",
+    "ALLEGRO",
+    "CONCERTO",
+    "CRESCENDO",
+    "LEGATO",
+    "MOTIF",
+    "PRELUDE",
+    "PRESTO",
+    "QUARTET",
+    "STACCATO"
+  ],
+  "grid": [
+    [
+      "G",
+      "V",
+      "Q",
+      "C",
+      "X",
+      "W",
+      "H",
+      "A",
+      "A",
+      "G"
+    ],
+    [
+      "P",
+      "J",
+      "U",
+      "R",
+      "S",
+      "L",
+      "L",
+      "S",
+      "L",
+      "L"
+    ],
+    [
+      "R",
+      "P",
+      "A",
+      "E",
+      "T",
+      "E",
+      "C",
+      "U",
+      "L",
+      "A"
+    ],
+    [
+      "E",
+      "R",
+      "R",
+      "S",
+      "A",
+      "G",
+      "O",
+      "O",
+      "E",
+      "D"
+    ],
+    [
+      "L",
+      "E",
+      "T",
+      "C",
+      "C",
+      "A",
+      "N",
+      "Z",
+      "G",
+      "A"
+    ],
+    [
+      "U",
+      "S",
+      "E",
+      "E",
+      "C",
+      "T",
+      "C",
+      "E",
+      "R",
+      "G"
+    ],
+    [
+      "D",
+      "T",
+      "T",
+      "N",
+      "A",
+      "O",
+      "E",
+      "V",
+      "O",
+      "I"
+    ],
+    [
+      "E",
+      "O",
+      "K",
+      "D",
+      "T",
+      "Y",
+      "R",
+      "T",
+      "X",
+      "O"
+    ],
+    [
+      "E",
+      "K",
+      "I",
+      "O",
+      "O",
+      "W",
+      "T",
+      "H",
+      "V",
+      "I"
+    ],
+    [
+      "N",
+      "H",
+      "Z",
+      "Z",
+      "U",
+      "M",
+      "O",
+      "T",
+      "I",
+      "F"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CRESCENDO",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "CONCERTO",
+      "row": 2,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "STACCATO",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "PRELUDE",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "QUARTET",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "ALLEGRO",
+      "row": 0,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "ADAGIO",
+      "row": 2,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "PRESTO",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "LEGATO",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "MOTIF",
+      "row": 9,
+      "col": 5,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-10",
+  "seed": 516195396
+}

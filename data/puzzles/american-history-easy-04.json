@@ -1,0 +1,208 @@
+{
+  "id": "american-history-easy-04",
+  "slug": "american-history-easy-04",
+  "themeId": "american-history",
+  "title": "American History Word Search (Easy) #04",
+  "primaryKeyword": "american history word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "ARMISTICE",
+    "CENSUS",
+    "DEPRESSION",
+    "FREEDOM",
+    "HOUSE",
+    "MEMORIAL",
+    "SETTLER",
+    "SUFFRAGE",
+    "TRAIL",
+    "TREATY"
+  ],
+  "grid": [
+    [
+      "H",
+      "O",
+      "U",
+      "S",
+      "E",
+      "P",
+      "D",
+      "O",
+      "L",
+      "M"
+    ],
+    [
+      "J",
+      "N",
+      "M",
+      "E",
+      "A",
+      "F",
+      "E",
+      "R",
+      "M",
+      "Z"
+    ],
+    [
+      "V",
+      "T",
+      "E",
+      "T",
+      "R",
+      "R",
+      "P",
+      "S",
+      "S",
+      "X"
+    ],
+    [
+      "V",
+      "R",
+      "M",
+      "T",
+      "M",
+      "E",
+      "R",
+      "C",
+      "U",
+      "J"
+    ],
+    [
+      "G",
+      "E",
+      "O",
+      "L",
+      "I",
+      "E",
+      "E",
+      "E",
+      "F",
+      "T"
+    ],
+    [
+      "W",
+      "A",
+      "R",
+      "E",
+      "S",
+      "D",
+      "S",
+      "N",
+      "F",
+      "R"
+    ],
+    [
+      "V",
+      "T",
+      "I",
+      "R",
+      "T",
+      "O",
+      "S",
+      "S",
+      "R",
+      "A"
+    ],
+    [
+      "U",
+      "Y",
+      "A",
+      "U",
+      "I",
+      "M",
+      "I",
+      "U",
+      "A",
+      "I"
+    ],
+    [
+      "B",
+      "Y",
+      "L",
+      "A",
+      "C",
+      "U",
+      "O",
+      "S",
+      "G",
+      "L"
+    ],
+    [
+      "V",
+      "N",
+      "D",
+      "T",
+      "E",
+      "B",
+      "N",
+      "W",
+      "E",
+      "A"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "DEPRESSION",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "ARMISTICE",
+      "row": 1,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "SUFFRAGE",
+      "row": 2,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "MEMORIAL",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "FREEDOM",
+      "row": 1,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "SETTLER",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "TREATY",
+      "row": 2,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "CENSUS",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "HOUSE",
+      "row": 0,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "TRAIL",
+      "row": 4,
+      "col": 9,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-10",
+  "seed": 449084920
+}

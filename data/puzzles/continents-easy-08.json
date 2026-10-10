@@ -1,0 +1,208 @@
+{
+  "id": "continents-easy-08",
+  "slug": "continents-easy-08",
+  "themeId": "continents",
+  "title": "Continents Word Search (Easy) #08",
+  "primaryKeyword": "continents word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "AMERICA",
+    "ATLAS",
+    "AUSTRALIA",
+    "EQUATOR",
+    "EUROPE",
+    "OCEANIA",
+    "PENINSULA",
+    "PLAIN",
+    "POLE",
+    "TROPIC"
+  ],
+  "grid": [
+    [
+      "H",
+      "P",
+      "E",
+      "N",
+      "I",
+      "N",
+      "S",
+      "U",
+      "L",
+      "A"
+    ],
+    [
+      "M",
+      "O",
+      "J",
+      "T",
+      "J",
+      "T",
+      "Q",
+      "W",
+      "A",
+      "A"
+    ],
+    [
+      "E",
+      "C",
+      "P",
+      "L",
+      "A",
+      "I",
+      "N",
+      "P",
+      "F",
+      "U"
+    ],
+    [
+      "Q",
+      "E",
+      "A",
+      "T",
+      "L",
+      "A",
+      "S",
+      "T",
+      "P",
+      "S"
+    ],
+    [
+      "U",
+      "A",
+      "P",
+      "C",
+      "S",
+      "R",
+      "G",
+      "Q",
+      "O",
+      "T"
+    ],
+    [
+      "A",
+      "N",
+      "E",
+      "U",
+      "R",
+      "O",
+      "P",
+      "E",
+      "D",
+      "R"
+    ],
+    [
+      "T",
+      "I",
+      "P",
+      "J",
+      "G",
+      "X",
+      "R",
+      "J",
+      "O",
+      "A"
+    ],
+    [
+      "O",
+      "A",
+      "A",
+      "M",
+      "E",
+      "R",
+      "I",
+      "C",
+      "A",
+      "L"
+    ],
+    [
+      "R",
+      "T",
+      "R",
+      "O",
+      "P",
+      "I",
+      "C",
+      "D",
+      "L",
+      "I"
+    ],
+    [
+      "P",
+      "O",
+      "L",
+      "E",
+      "W",
+      "Z",
+      "A",
+      "C",
+      "C",
+      "A"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "AUSTRALIA",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "PENINSULA",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "EQUATOR",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "AMERICA",
+      "row": 7,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "OCEANIA",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "TROPIC",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "EUROPE",
+      "row": 5,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "ATLAS",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "PLAIN",
+      "row": 2,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "POLE",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-10",
+  "seed": 331641587
+}

@@ -1,0 +1,284 @@
+{
+  "id": "cooking-medium-08",
+  "slug": "cooking-medium-08",
+  "themeId": "cooking",
+  "title": "Cooking Word Search (Medium) #08",
+  "primaryKeyword": "cooking word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BAKE",
+    "BATTER",
+    "BLEND",
+    "BRAISE",
+    "DICE",
+    "GRAVY",
+    "GRILL",
+    "KNEAD",
+    "LADLE",
+    "OIL",
+    "PAN",
+    "POT",
+    "ROAST",
+    "STEAM"
+  ],
+  "grid": [
+    [
+      "R",
+      "C",
+      "O",
+      "R",
+      "B",
+      "B",
+      "Z",
+      "F",
+      "X",
+      "V",
+      "S",
+      "H"
+    ],
+    [
+      "U",
+      "R",
+      "Q",
+      "L",
+      "V",
+      "A",
+      "T",
+      "W",
+      "P",
+      "K",
+      "L",
+      "K"
+    ],
+    [
+      "S",
+      "Z",
+      "W",
+      "N",
+      "L",
+      "T",
+      "I",
+      "D",
+      "A",
+      "N",
+      "A",
+      "I"
+    ],
+    [
+      "T",
+      "R",
+      "F",
+      "I",
+      "P",
+      "T",
+      "X",
+      "Y",
+      "N",
+      "E",
+      "D",
+      "E"
+    ],
+    [
+      "E",
+      "O",
+      "O",
+      "B",
+      "L",
+      "E",
+      "N",
+      "D",
+      "F",
+      "A",
+      "L",
+      "B"
+    ],
+    [
+      "A",
+      "A",
+      "F",
+      "U",
+      "O",
+      "R",
+      "O",
+      "T",
+      "B",
+      "D",
+      "E",
+      "J"
+    ],
+    [
+      "M",
+      "S",
+      "I",
+      "F",
+      "Y",
+      "G",
+      "B",
+      "R",
+      "A",
+      "I",
+      "S",
+      "E"
+    ],
+    [
+      "R",
+      "T",
+      "X",
+      "V",
+      "V",
+      "N",
+      "B",
+      "Q",
+      "F",
+      "R",
+      "N",
+      "E"
+    ],
+    [
+      "X",
+      "U",
+      "A",
+      "D",
+      "P",
+      "O",
+      "T",
+      "A",
+      "S",
+      "P",
+      "C",
+      "C"
+    ],
+    [
+      "N",
+      "R",
+      "Y",
+      "P",
+      "F",
+      "P",
+      "X",
+      "R",
+      "K",
+      "I",
+      "U",
+      "W"
+    ],
+    [
+      "G",
+      "R",
+      "I",
+      "L",
+      "L",
+      "Q",
+      "X",
+      "S",
+      "D",
+      "E",
+      "R",
+      "P"
+    ],
+    [
+      "N",
+      "A",
+      "W",
+      "E",
+      "T",
+      "Y",
+      "D",
+      "H",
+      "B",
+      "U",
+      "U",
+      "B"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "BRAISE",
+      "row": 6,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "BATTER",
+      "row": 0,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "BLEND",
+      "row": 4,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "ROAST",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "GRAVY",
+      "row": 10,
+      "col": 0,
+      "direction": "NE"
+    },
+    {
+      "word": "GRILL",
+      "row": 10,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "STEAM",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "LADLE",
+      "row": 1,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "KNEAD",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "BAKE",
+      "row": 7,
+      "col": 6,
+      "direction": "SE"
+    },
+    {
+      "word": "DICE",
+      "row": 10,
+      "col": 8,
+      "direction": "NE"
+    },
+    {
+      "word": "POT",
+      "row": 8,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "OIL",
+      "row": 4,
+      "col": 2,
+      "direction": "NE"
+    },
+    {
+      "word": "PAN",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-10",
+  "seed": 314863968
+}

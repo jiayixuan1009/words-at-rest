@@ -1,0 +1,208 @@
+{
+  "id": "bible-easy-10",
+  "slug": "bible-easy-10",
+  "themeId": "bible",
+  "title": "Bible Word Search (Easy) #10",
+  "primaryKeyword": "bible word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "LORD",
+    "MARK",
+    "MARY",
+    "MOSES",
+    "PAUL",
+    "PEACE",
+    "PRAYER",
+    "PSALM",
+    "STAR",
+    "TRUTH"
+  ],
+  "grid": [
+    [
+      "L",
+      "F",
+      "T",
+      "P",
+      "S",
+      "T",
+      "A",
+      "R",
+      "J",
+      "U"
+    ],
+    [
+      "Z",
+      "D",
+      "A",
+      "R",
+      "J",
+      "F",
+      "F",
+      "C",
+      "T",
+      "H"
+    ],
+    [
+      "K",
+      "D",
+      "F",
+      "A",
+      "T",
+      "R",
+      "U",
+      "T",
+      "H",
+      "U"
+    ],
+    [
+      "Z",
+      "P",
+      "D",
+      "Y",
+      "S",
+      "M",
+      "A",
+      "R",
+      "Y",
+      "M"
+    ],
+    [
+      "M",
+      "S",
+      "X",
+      "E",
+      "R",
+      "R",
+      "M",
+      "T",
+      "L",
+      "G"
+    ],
+    [
+      "N",
+      "A",
+      "P",
+      "R",
+      "P",
+      "A",
+      "U",
+      "L",
+      "E",
+      "T"
+    ],
+    [
+      "G",
+      "L",
+      "P",
+      "E",
+      "A",
+      "C",
+      "E",
+      "H",
+      "G",
+      "M"
+    ],
+    [
+      "J",
+      "M",
+      "D",
+      "H",
+      "B",
+      "K",
+      "D",
+      "X",
+      "G",
+      "A"
+    ],
+    [
+      "M",
+      "O",
+      "S",
+      "E",
+      "S",
+      "Y",
+      "H",
+      "A",
+      "F",
+      "R"
+    ],
+    [
+      "L",
+      "O",
+      "R",
+      "D",
+      "N",
+      "H",
+      "A",
+      "F",
+      "E",
+      "K"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PRAYER",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "PSALM",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "PEACE",
+      "row": 6,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "TRUTH",
+      "row": 2,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "MOSES",
+      "row": 8,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "MARY",
+      "row": 3,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "LORD",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "PAUL",
+      "row": 5,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "MARK",
+      "row": 6,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "STAR",
+      "row": 0,
+      "col": 4,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-10",
+  "seed": 499417777
+}
