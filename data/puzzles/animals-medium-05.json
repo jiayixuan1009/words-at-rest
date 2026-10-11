@@ -1,0 +1,284 @@
+{
+  "id": "animals-medium-05",
+  "slug": "animals-medium-05",
+  "themeId": "animals",
+  "title": "Animals Word Search (Medium) #05",
+  "primaryKeyword": "animals word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BISON",
+    "CHEETAH",
+    "CRAB",
+    "CURRENT",
+    "FOX",
+    "GIRAFFE",
+    "HEDGEHOG",
+    "KANGAROO",
+    "LLAMA",
+    "MOOSE",
+    "POND",
+    "RACCOON",
+    "RIPPLE",
+    "WALRUS"
+  ],
+  "grid": [
+    [
+      "I",
+      "R",
+      "N",
+      "C",
+      "U",
+      "R",
+      "R",
+      "E",
+      "N",
+      "T",
+      "T",
+      "U"
+    ],
+    [
+      "F",
+      "Z",
+      "U",
+      "R",
+      "C",
+      "N",
+      "N",
+      "B",
+      "H",
+      "Y",
+      "E",
+      "S"
+    ],
+    [
+      "O",
+      "H",
+      "D",
+      "A",
+      "C",
+      "G",
+      "V",
+      "P",
+      "E",
+      "O",
+      "X",
+      "S"
+    ],
+    [
+      "X",
+      "T",
+      "J",
+      "C",
+      "K",
+      "I",
+      "C",
+      "O",
+      "D",
+      "Q",
+      "M",
+      "B"
+    ],
+    [
+      "O",
+      "P",
+      "V",
+      "C",
+      "A",
+      "R",
+      "R",
+      "N",
+      "G",
+      "C",
+      "O",
+      "L"
+    ],
+    [
+      "V",
+      "R",
+      "X",
+      "O",
+      "N",
+      "A",
+      "A",
+      "D",
+      "E",
+      "W",
+      "O",
+      "C"
+    ],
+    [
+      "W",
+      "I",
+      "U",
+      "O",
+      "G",
+      "F",
+      "B",
+      "K",
+      "H",
+      "R",
+      "S",
+      "H"
+    ],
+    [
+      "A",
+      "P",
+      "L",
+      "N",
+      "A",
+      "F",
+      "L",
+      "I",
+      "O",
+      "L",
+      "E",
+      "E"
+    ],
+    [
+      "L",
+      "P",
+      "L",
+      "W",
+      "R",
+      "E",
+      "I",
+      "Q",
+      "G",
+      "L",
+      "K",
+      "E"
+    ],
+    [
+      "R",
+      "L",
+      "M",
+      "R",
+      "O",
+      "S",
+      "Q",
+      "Q",
+      "F",
+      "A",
+      "G",
+      "T"
+    ],
+    [
+      "U",
+      "E",
+      "W",
+      "T",
+      "O",
+      "T",
+      "Z",
+      "T",
+      "U",
+      "M",
+      "V",
+      "A"
+    ],
+    [
+      "S",
+      "Z",
+      "V",
+      "B",
+      "I",
+      "S",
+      "O",
+      "N",
+      "S",
+      "A",
+      "J",
+      "H"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "KANGAROO",
+      "row": 3,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "HEDGEHOG",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "RACCOON",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "GIRAFFE",
+      "row": 2,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "CURRENT",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "CHEETAH",
+      "row": 5,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "WALRUS",
+      "row": 6,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "RIPPLE",
+      "row": 5,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "MOOSE",
+      "row": 3,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "BISON",
+      "row": 11,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "LLAMA",
+      "row": 7,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "CRAB",
+      "row": 3,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "POND",
+      "row": 2,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "FOX",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-11",
+  "seed": 562650578
+}

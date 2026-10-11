@@ -1,0 +1,208 @@
+{
+  "id": "cats-easy-08",
+  "slug": "cats-easy-08",
+  "themeId": "cats",
+  "title": "Cats Word Search (Easy) #08",
+  "primaryKeyword": "cats word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BIRD",
+    "CAT",
+    "CURTAIN",
+    "EYE",
+    "MOUSE",
+    "PAW",
+    "PURR",
+    "SOFT",
+    "STRIPE",
+    "WINDOW"
+  ],
+  "grid": [
+    [
+      "B",
+      "W",
+      "I",
+      "N",
+      "D",
+      "O",
+      "W",
+      "W",
+      "X",
+      "Z"
+    ],
+    [
+      "Q",
+      "H",
+      "S",
+      "O",
+      "F",
+      "T",
+      "J",
+      "P",
+      "L",
+      "S"
+    ],
+    [
+      "C",
+      "H",
+      "O",
+      "A",
+      "X",
+      "D",
+      "V",
+      "M",
+      "O",
+      "S"
+    ],
+    [
+      "U",
+      "H",
+      "B",
+      "I",
+      "R",
+      "D",
+      "C",
+      "A",
+      "T",
+      "U"
+    ],
+    [
+      "R",
+      "N",
+      "B",
+      "G",
+      "V",
+      "A",
+      "S",
+      "T",
+      "S",
+      "R"
+    ],
+    [
+      "T",
+      "A",
+      "W",
+      "P",
+      "E",
+      "Y",
+      "E",
+      "D",
+      "T",
+      "F"
+    ],
+    [
+      "A",
+      "P",
+      "A",
+      "W",
+      "N",
+      "E",
+      "L",
+      "M",
+      "R",
+      "R"
+    ],
+    [
+      "I",
+      "G",
+      "B",
+      "V",
+      "U",
+      "A",
+      "L",
+      "L",
+      "I",
+      "A"
+    ],
+    [
+      "N",
+      "M",
+      "O",
+      "U",
+      "S",
+      "E",
+      "R",
+      "S",
+      "P",
+      "Y"
+    ],
+    [
+      "Y",
+      "N",
+      "X",
+      "P",
+      "U",
+      "R",
+      "R",
+      "C",
+      "E",
+      "E"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "CURTAIN",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "WINDOW",
+      "row": 0,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "STRIPE",
+      "row": 4,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "MOUSE",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "PURR",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "SOFT",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BIRD",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "CAT",
+      "row": 3,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "EYE",
+      "row": 5,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "PAW",
+      "row": 6,
+      "col": 1,
+      "direction": "E"
+    }
+  ],
+  "createdAt": "2026-10-11",
+  "seed": 545872959
+}

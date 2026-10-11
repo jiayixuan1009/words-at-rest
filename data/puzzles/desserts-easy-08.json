@@ -1,0 +1,208 @@
+{
+  "id": "desserts-easy-08",
+  "slug": "desserts-easy-08",
+  "themeId": "desserts",
+  "title": "Desserts Word Search (Easy) #08",
+  "primaryKeyword": "desserts word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "BERRY",
+    "BROWNIE",
+    "CHILL",
+    "COOKIE",
+    "FROSTING",
+    "FUDGE",
+    "GELATO",
+    "LAYER",
+    "PIE",
+    "SORBET"
+  ],
+  "grid": [
+    [
+      "Z",
+      "F",
+      "S",
+      "C",
+      "O",
+      "O",
+      "K",
+      "I",
+      "E",
+      "H"
+    ],
+    [
+      "X",
+      "R",
+      "O",
+      "Y",
+      "F",
+      "F",
+      "Q",
+      "W",
+      "M",
+      "B"
+    ],
+    [
+      "B",
+      "O",
+      "R",
+      "C",
+      "H",
+      "I",
+      "L",
+      "L",
+      "E",
+      "R"
+    ],
+    [
+      "E",
+      "S",
+      "B",
+      "R",
+      "V",
+      "Q",
+      "Q",
+      "E",
+      "S",
+      "O"
+    ],
+    [
+      "R",
+      "T",
+      "E",
+      "G",
+      "E",
+      "L",
+      "A",
+      "T",
+      "O",
+      "W"
+    ],
+    [
+      "R",
+      "I",
+      "T",
+      "K",
+      "X",
+      "Q",
+      "F",
+      "H",
+      "L",
+      "N"
+    ],
+    [
+      "Y",
+      "N",
+      "F",
+      "V",
+      "E",
+      "G",
+      "U",
+      "U",
+      "X",
+      "I"
+    ],
+    [
+      "B",
+      "G",
+      "T",
+      "G",
+      "H",
+      "P",
+      "D",
+      "G",
+      "M",
+      "E"
+    ],
+    [
+      "V",
+      "S",
+      "G",
+      "M",
+      "U",
+      "I",
+      "G",
+      "F",
+      "B",
+      "W"
+    ],
+    [
+      "L",
+      "A",
+      "Y",
+      "E",
+      "R",
+      "E",
+      "E",
+      "P",
+      "P",
+      "R"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "FROSTING",
+      "row": 0,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "BROWNIE",
+      "row": 1,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "SORBET",
+      "row": 0,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "COOKIE",
+      "row": 0,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "GELATO",
+      "row": 4,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "BERRY",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "LAYER",
+      "row": 9,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "FUDGE",
+      "row": 5,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "CHILL",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "PIE",
+      "row": 7,
+      "col": 5,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-11",
+  "seed": 495540102
+}

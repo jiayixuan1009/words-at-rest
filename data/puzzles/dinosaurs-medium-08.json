@@ -1,0 +1,284 @@
+{
+  "id": "dinosaurs-medium-08",
+  "slug": "dinosaurs-medium-08",
+  "themeId": "dinosaurs",
+  "title": "Dinosaurs Word Search (Medium) #08",
+  "primaryKeyword": "dinosaurs word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "AGE",
+    "ALLOSAUR",
+    "AMBER",
+    "BONE",
+    "EGG",
+    "EXTINCT",
+    "IGUANODON",
+    "NEST",
+    "PALEONTOLOGY",
+    "PLESIOSAUR",
+    "PREDATOR",
+    "PTEROSAUR",
+    "TEETH",
+    "TRACK"
+  ],
+  "grid": [
+    [
+      "F",
+      "Y",
+      "Z",
+      "H",
+      "X",
+      "G",
+      "P",
+      "A",
+      "G",
+      "P",
+      "I",
+      "H"
+    ],
+    [
+      "L",
+      "A",
+      "E",
+      "E",
+      "S",
+      "M",
+      "A",
+      "L",
+      "P",
+      "T",
+      "B",
+      "K"
+    ],
+    [
+      "T",
+      "M",
+      "A",
+      "X",
+      "B",
+      "P",
+      "L",
+      "L",
+      "R",
+      "E",
+      "O",
+      "I"
+    ],
+    [
+      "R",
+      "B",
+      "G",
+      "T",
+      "R",
+      "P",
+      "E",
+      "O",
+      "E",
+      "R",
+      "N",
+      "G"
+    ],
+    [
+      "A",
+      "E",
+      "E",
+      "I",
+      "N",
+      "T",
+      "O",
+      "S",
+      "D",
+      "O",
+      "E",
+      "U"
+    ],
+    [
+      "C",
+      "R",
+      "B",
+      "N",
+      "E",
+      "E",
+      "N",
+      "A",
+      "A",
+      "S",
+      "P",
+      "A"
+    ],
+    [
+      "K",
+      "E",
+      "E",
+      "C",
+      "S",
+      "E",
+      "T",
+      "U",
+      "T",
+      "A",
+      "X",
+      "N"
+    ],
+    [
+      "A",
+      "G",
+      "F",
+      "T",
+      "T",
+      "T",
+      "O",
+      "R",
+      "O",
+      "U",
+      "R",
+      "O"
+    ],
+    [
+      "N",
+      "B",
+      "A",
+      "B",
+      "M",
+      "H",
+      "L",
+      "L",
+      "R",
+      "R",
+      "A",
+      "D"
+    ],
+    [
+      "Z",
+      "P",
+      "L",
+      "E",
+      "S",
+      "I",
+      "O",
+      "S",
+      "A",
+      "U",
+      "R",
+      "O"
+    ],
+    [
+      "E",
+      "G",
+      "G",
+      "R",
+      "H",
+      "M",
+      "G",
+      "I",
+      "E",
+      "B",
+      "G",
+      "N"
+    ],
+    [
+      "V",
+      "K",
+      "T",
+      "V",
+      "V",
+      "P",
+      "Y",
+      "F",
+      "L",
+      "B",
+      "U",
+      "C"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PALEONTOLOGY",
+      "row": 0,
+      "col": 6,
+      "direction": "S"
+    },
+    {
+      "word": "PLESIOSAUR",
+      "row": 9,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "IGUANODON",
+      "row": 2,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "PTEROSAUR",
+      "row": 0,
+      "col": 9,
+      "direction": "S"
+    },
+    {
+      "word": "ALLOSAUR",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "PREDATOR",
+      "row": 1,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "EXTINCT",
+      "row": 1,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "AMBER",
+      "row": 1,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "TRACK",
+      "row": 2,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "TEETH",
+      "row": 4,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "BONE",
+      "row": 1,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "NEST",
+      "row": 4,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "EGG",
+      "row": 10,
+      "col": 0,
+      "direction": "E"
+    },
+    {
+      "word": "AGE",
+      "row": 2,
+      "col": 2,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-11",
+  "seed": 478762483
+}

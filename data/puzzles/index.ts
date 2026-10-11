@@ -33,6 +33,7 @@ import p_animals_medium_01 from "./animals-medium-01.json";
 import p_animals_medium_02 from "./animals-medium-02.json";
 import p_animals_medium_03 from "./animals-medium-03.json";
 import p_animals_medium_04 from "./animals-medium-04.json";
+import p_animals_medium_05 from "./animals-medium-05.json";
 import p_apothecary_easy_01 from "./apothecary-easy-01.json";
 import p_apothecary_easy_02 from "./apothecary-easy-02.json";
 import p_apothecary_hard_01 from "./apothecary-hard-01.json";
@@ -263,6 +264,7 @@ import p_cats_easy_04 from "./cats-easy-04.json";
 import p_cats_easy_05 from "./cats-easy-05.json";
 import p_cats_easy_06 from "./cats-easy-06.json";
 import p_cats_easy_07 from "./cats-easy-07.json";
+import p_cats_easy_08 from "./cats-easy-08.json";
 import p_cats_hard_01 from "./cats-hard-01.json";
 import p_cats_hard_02 from "./cats-hard-02.json";
 import p_cats_large_01 from "./cats-large-01.json";
@@ -426,6 +428,7 @@ import p_cycling_medium_04 from "./cycling-medium-04.json";
 import p_cycling_medium_05 from "./cycling-medium-05.json";
 import p_cycling_medium_06 from "./cycling-medium-06.json";
 import p_cycling_medium_07 from "./cycling-medium-07.json";
+import p_cycling_medium_08 from "./cycling-medium-08.json";
 import p_deserts_easy_01 from "./deserts-easy-01.json";
 import p_deserts_easy_02 from "./deserts-easy-02.json";
 import p_deserts_easy_03 from "./deserts-easy-03.json";
@@ -435,6 +438,7 @@ import p_deserts_hard_02 from "./deserts-hard-02.json";
 import p_deserts_hard_03 from "./deserts-hard-03.json";
 import p_deserts_hard_04 from "./deserts-hard-04.json";
 import p_deserts_hard_05 from "./deserts-hard-05.json";
+import p_deserts_hard_06 from "./deserts-hard-06.json";
 import p_deserts_large_01 from "./deserts-large-01.json";
 import p_deserts_medium_01 from "./deserts-medium-01.json";
 import p_deserts_medium_02 from "./deserts-medium-02.json";
@@ -446,6 +450,7 @@ import p_desserts_easy_04 from "./desserts-easy-04.json";
 import p_desserts_easy_05 from "./desserts-easy-05.json";
 import p_desserts_easy_06 from "./desserts-easy-06.json";
 import p_desserts_easy_07 from "./desserts-easy-07.json";
+import p_desserts_easy_08 from "./desserts-easy-08.json";
 import p_desserts_hard_01 from "./desserts-hard-01.json";
 import p_desserts_large_01 from "./desserts-large-01.json";
 import p_desserts_medium_01 from "./desserts-medium-01.json";
@@ -465,6 +470,7 @@ import p_dinosaurs_medium_04 from "./dinosaurs-medium-04.json";
 import p_dinosaurs_medium_05 from "./dinosaurs-medium-05.json";
 import p_dinosaurs_medium_06 from "./dinosaurs-medium-06.json";
 import p_dinosaurs_medium_07 from "./dinosaurs-medium-07.json";
+import p_dinosaurs_medium_08 from "./dinosaurs-medium-08.json";
 import p_dogs_easy_01 from "./dogs-easy-01.json";
 import p_dogs_easy_02 from "./dogs-easy-02.json";
 import p_dogs_easy_03 from "./dogs-easy-03.json";
@@ -488,6 +494,7 @@ import p_easter_hard_02 from "./easter-hard-02.json";
 import p_easter_hard_03 from "./easter-hard-03.json";
 import p_easter_hard_04 from "./easter-hard-04.json";
 import p_easter_hard_05 from "./easter-hard-05.json";
+import p_easter_hard_06 from "./easter-hard-06.json";
 import p_easter_large_01 from "./easter-large-01.json";
 import p_easter_medium_01 from "./easter-medium-01.json";
 import p_easter_medium_02 from "./easter-medium-02.json";
@@ -499,6 +506,7 @@ import p_emotions_easy_04 from "./emotions-easy-04.json";
 import p_emotions_easy_05 from "./emotions-easy-05.json";
 import p_emotions_easy_06 from "./emotions-easy-06.json";
 import p_emotions_easy_07 from "./emotions-easy-07.json";
+import p_emotions_easy_08 from "./emotions-easy-08.json";
 import p_emotions_hard_01 from "./emotions-hard-01.json";
 import p_emotions_large_01 from "./emotions-large-01.json";
 import p_emotions_medium_01 from "./emotions-medium-01.json";
@@ -531,6 +539,7 @@ import p_farm_animals_medium_04 from "./farm-animals-medium-04.json";
 import p_farm_animals_medium_05 from "./farm-animals-medium-05.json";
 import p_farm_animals_medium_06 from "./farm-animals-medium-06.json";
 import p_farm_animals_medium_07 from "./farm-animals-medium-07.json";
+import p_farm_animals_medium_08 from "./farm-animals-medium-08.json";
 import p_farming_easy_01 from "./farming-easy-01.json";
 import p_farming_easy_02 from "./farming-easy-02.json";
 import p_farming_easy_03 from "./farming-easy-03.json";
@@ -540,6 +549,7 @@ import p_farming_hard_02 from "./farming-hard-02.json";
 import p_farming_hard_03 from "./farming-hard-03.json";
 import p_farming_hard_04 from "./farming-hard-04.json";
 import p_farming_hard_05 from "./farming-hard-05.json";
+import p_farming_hard_06 from "./farming-hard-06.json";
 import p_farming_large_01 from "./farming-large-01.json";
 import p_farming_medium_01 from "./farming-medium-01.json";
 import p_farming_medium_02 from "./farming-medium-02.json";
@@ -1385,6 +1395,7 @@ export const puzzles = [
   p_animals_medium_02,
   p_animals_medium_03,
   p_animals_medium_04,
+  p_animals_medium_05,
   p_apothecary_easy_01,
   p_apothecary_easy_02,
   p_apothecary_hard_01,
@@ -1615,6 +1626,7 @@ export const puzzles = [
   p_cats_easy_05,
   p_cats_easy_06,
   p_cats_easy_07,
+  p_cats_easy_08,
   p_cats_hard_01,
   p_cats_hard_02,
   p_cats_large_01,
@@ -1778,6 +1790,7 @@ export const puzzles = [
   p_cycling_medium_05,
   p_cycling_medium_06,
   p_cycling_medium_07,
+  p_cycling_medium_08,
   p_deserts_easy_01,
   p_deserts_easy_02,
   p_deserts_easy_03,
@@ -1787,6 +1800,7 @@ export const puzzles = [
   p_deserts_hard_03,
   p_deserts_hard_04,
   p_deserts_hard_05,
+  p_deserts_hard_06,
   p_deserts_large_01,
   p_deserts_medium_01,
   p_deserts_medium_02,
@@ -1798,6 +1812,7 @@ export const puzzles = [
   p_desserts_easy_05,
   p_desserts_easy_06,
   p_desserts_easy_07,
+  p_desserts_easy_08,
   p_desserts_hard_01,
   p_desserts_large_01,
   p_desserts_medium_01,
@@ -1817,6 +1832,7 @@ export const puzzles = [
   p_dinosaurs_medium_05,
   p_dinosaurs_medium_06,
   p_dinosaurs_medium_07,
+  p_dinosaurs_medium_08,
   p_dogs_easy_01,
   p_dogs_easy_02,
   p_dogs_easy_03,
@@ -1840,6 +1856,7 @@ export const puzzles = [
   p_easter_hard_03,
   p_easter_hard_04,
   p_easter_hard_05,
+  p_easter_hard_06,
   p_easter_large_01,
   p_easter_medium_01,
   p_easter_medium_02,
@@ -1851,6 +1868,7 @@ export const puzzles = [
   p_emotions_easy_05,
   p_emotions_easy_06,
   p_emotions_easy_07,
+  p_emotions_easy_08,
   p_emotions_hard_01,
   p_emotions_large_01,
   p_emotions_medium_01,
@@ -1883,6 +1901,7 @@ export const puzzles = [
   p_farm_animals_medium_05,
   p_farm_animals_medium_06,
   p_farm_animals_medium_07,
+  p_farm_animals_medium_08,
   p_farming_easy_01,
   p_farming_easy_02,
   p_farming_easy_03,
@@ -1892,6 +1911,7 @@ export const puzzles = [
   p_farming_hard_03,
   p_farming_hard_04,
   p_farming_hard_05,
+  p_farming_hard_06,
   p_farming_large_01,
   p_farming_medium_01,
   p_farming_medium_02,

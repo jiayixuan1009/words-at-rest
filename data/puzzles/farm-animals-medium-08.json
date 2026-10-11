@@ -1,0 +1,284 @@
+{
+  "id": "farm-animals-medium-08",
+  "slug": "farm-animals-medium-08",
+  "themeId": "farm-animals",
+  "title": "Farm Animals Word Search (Medium) #08",
+  "primaryKeyword": "farm animals word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "COW",
+    "DOG",
+    "FEED",
+    "FOAL",
+    "KID",
+    "LAMB",
+    "MEADOW",
+    "MULE",
+    "PASTURE",
+    "PONY",
+    "ROOSTER",
+    "STABLE",
+    "TROUGH",
+    "TURKEY"
+  ],
+  "grid": [
+    [
+      "T",
+      "E",
+      "P",
+      "A",
+      "S",
+      "T",
+      "U",
+      "R",
+      "E",
+      "T",
+      "F",
+      "Y"
+    ],
+    [
+      "R",
+      "X",
+      "P",
+      "O",
+      "N",
+      "Y",
+      "S",
+      "T",
+      "A",
+      "B",
+      "L",
+      "E"
+    ],
+    [
+      "O",
+      "G",
+      "U",
+      "M",
+      "N",
+      "U",
+      "F",
+      "G",
+      "L",
+      "K",
+      "W",
+      "X"
+    ],
+    [
+      "U",
+      "R",
+      "C",
+      "N",
+      "X",
+      "J",
+      "K",
+      "M",
+      "O",
+      "O",
+      "C",
+      "N"
+    ],
+    [
+      "G",
+      "O",
+      "O",
+      "L",
+      "M",
+      "F",
+      "P",
+      "E",
+      "C",
+      "X",
+      "E",
+      "Z"
+    ],
+    [
+      "H",
+      "O",
+      "G",
+      "A",
+      "U",
+      "W",
+      "W",
+      "A",
+      "T",
+      "J",
+      "F",
+      "A"
+    ],
+    [
+      "O",
+      "S",
+      "P",
+      "M",
+      "L",
+      "U",
+      "P",
+      "D",
+      "U",
+      "Y",
+      "F",
+      "A"
+    ],
+    [
+      "H",
+      "T",
+      "F",
+      "B",
+      "E",
+      "K",
+      "O",
+      "O",
+      "R",
+      "P",
+      "O",
+      "P"
+    ],
+    [
+      "B",
+      "E",
+      "S",
+      "Q",
+      "W",
+      "I",
+      "J",
+      "W",
+      "K",
+      "N",
+      "A",
+      "F"
+    ],
+    [
+      "S",
+      "R",
+      "R",
+      "W",
+      "I",
+      "D",
+      "K",
+      "J",
+      "E",
+      "V",
+      "L",
+      "T"
+    ],
+    [
+      "J",
+      "D",
+      "G",
+      "R",
+      "B",
+      "B",
+      "O",
+      "Y",
+      "Y",
+      "F",
+      "V",
+      "H"
+    ],
+    [
+      "M",
+      "P",
+      "L",
+      "I",
+      "R",
+      "L",
+      "B",
+      "G",
+      "F",
+      "E",
+      "E",
+      "D"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "ROOSTER",
+      "row": 3,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "PASTURE",
+      "row": 0,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "TROUGH",
+      "row": 0,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "STABLE",
+      "row": 1,
+      "col": 6,
+      "direction": "E"
+    },
+    {
+      "word": "MEADOW",
+      "row": 3,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "TURKEY",
+      "row": 5,
+      "col": 8,
+      "direction": "S"
+    },
+    {
+      "word": "PONY",
+      "row": 1,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "MULE",
+      "row": 4,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "FEED",
+      "row": 11,
+      "col": 8,
+      "direction": "E"
+    },
+    {
+      "word": "LAMB",
+      "row": 4,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "FOAL",
+      "row": 6,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "KID",
+      "row": 7,
+      "col": 5,
+      "direction": "S"
+    },
+    {
+      "word": "DOG",
+      "row": 9,
+      "col": 5,
+      "direction": "SE"
+    },
+    {
+      "word": "COW",
+      "row": 4,
+      "col": 8,
+      "direction": "NE"
+    }
+  ],
+  "createdAt": "2026-10-11",
+  "seed": 696871530
+}

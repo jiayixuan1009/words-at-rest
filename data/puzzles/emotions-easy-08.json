@@ -1,0 +1,208 @@
+{
+  "id": "emotions-easy-08",
+  "slug": "emotions-easy-08",
+  "themeId": "emotions",
+  "title": "Emotions Word Search (Easy) #08",
+  "primaryKeyword": "emotions word search",
+  "difficulty": "easy",
+  "gridSize": 10,
+  "largePrint": false,
+  "words": [
+    "AWE",
+    "BALANCE",
+    "CALM",
+    "CARE",
+    "CHEER",
+    "FAITH",
+    "GLAD",
+    "GUILT",
+    "PATIENCE",
+    "WARM"
+  ],
+  "grid": [
+    [
+      "J",
+      "B",
+      "H",
+      "A",
+      "K",
+      "G",
+      "G",
+      "G",
+      "E",
+      "T"
+    ],
+    [
+      "G",
+      "S",
+      "D",
+      "J",
+      "A",
+      "H",
+      "H",
+      "U",
+      "J",
+      "H"
+    ],
+    [
+      "L",
+      "G",
+      "E",
+      "C",
+      "A",
+      "R",
+      "E",
+      "I",
+      "G",
+      "V"
+    ],
+    [
+      "A",
+      "T",
+      "F",
+      "A",
+      "I",
+      "T",
+      "H",
+      "L",
+      "J",
+      "F"
+    ],
+    [
+      "D",
+      "C",
+      "C",
+      "C",
+      "P",
+      "C",
+      "I",
+      "T",
+      "L",
+      "K"
+    ],
+    [
+      "A",
+      "A",
+      "W",
+      "W",
+      "A",
+      "R",
+      "M",
+      "G",
+      "L",
+      "I"
+    ],
+    [
+      "W",
+      "L",
+      "P",
+      "A",
+      "T",
+      "I",
+      "E",
+      "N",
+      "C",
+      "E"
+    ],
+    [
+      "E",
+      "M",
+      "J",
+      "R",
+      "L",
+      "L",
+      "P",
+      "J",
+      "R",
+      "Y"
+    ],
+    [
+      "Y",
+      "B",
+      "A",
+      "L",
+      "A",
+      "N",
+      "C",
+      "E",
+      "F",
+      "W"
+    ],
+    [
+      "G",
+      "D",
+      "S",
+      "C",
+      "H",
+      "E",
+      "E",
+      "R",
+      "R",
+      "Y"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PATIENCE",
+      "row": 6,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "BALANCE",
+      "row": 8,
+      "col": 1,
+      "direction": "E"
+    },
+    {
+      "word": "FAITH",
+      "row": 3,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "GUILT",
+      "row": 0,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "CHEER",
+      "row": 9,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "WARM",
+      "row": 5,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "CARE",
+      "row": 2,
+      "col": 3,
+      "direction": "E"
+    },
+    {
+      "word": "GLAD",
+      "row": 1,
+      "col": 0,
+      "direction": "S"
+    },
+    {
+      "word": "CALM",
+      "row": 4,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "AWE",
+      "row": 5,
+      "col": 0,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-11",
+  "seed": 713649149
+}

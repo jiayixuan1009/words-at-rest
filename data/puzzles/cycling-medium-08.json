@@ -1,0 +1,284 @@
+{
+  "id": "cycling-medium-08",
+  "slug": "cycling-medium-08",
+  "themeId": "cycling",
+  "title": "Cycling Word Search (Medium) #08",
+  "primaryKeyword": "cycling word search",
+  "difficulty": "medium",
+  "gridSize": 12,
+  "largePrint": false,
+  "words": [
+    "BELL",
+    "CHAIN",
+    "CLIMB",
+    "CYCLE",
+    "DESCENT",
+    "DRAFT",
+    "GEARING",
+    "HELMET",
+    "KIT",
+    "LIGHT",
+    "PELOTON",
+    "TIRE",
+    "TOOL",
+    "WHEEL"
+  ],
+  "grid": [
+    [
+      "M",
+      "C",
+      "C",
+      "H",
+      "D",
+      "D",
+      "R",
+      "A",
+      "F",
+      "T",
+      "D",
+      "W"
+    ],
+    [
+      "Z",
+      "F",
+      "P",
+      "E",
+      "F",
+      "E",
+      "F",
+      "C",
+      "X",
+      "F",
+      "T",
+      "Q"
+    ],
+    [
+      "D",
+      "F",
+      "E",
+      "L",
+      "D",
+      "N",
+      "S",
+      "O",
+      "U",
+      "L",
+      "I",
+      "O"
+    ],
+    [
+      "M",
+      "U",
+      "L",
+      "M",
+      "I",
+      "N",
+      "W",
+      "C",
+      "E",
+      "G",
+      "R",
+      "S"
+    ],
+    [
+      "E",
+      "C",
+      "O",
+      "E",
+      "Q",
+      "M",
+      "B",
+      "E",
+      "E",
+      "P",
+      "E",
+      "L"
+    ],
+    [
+      "I",
+      "L",
+      "T",
+      "T",
+      "C",
+      "K",
+      "H",
+      "C",
+      "X",
+      "N",
+      "L",
+      "O"
+    ],
+    [
+      "A",
+      "F",
+      "O",
+      "K",
+      "Y",
+      "W",
+      "B",
+      "H",
+      "J",
+      "E",
+      "T",
+      "G"
+    ],
+    [
+      "Q",
+      "L",
+      "N",
+      "I",
+      "C",
+      "T",
+      "I",
+      "A",
+      "B",
+      "P",
+      "M",
+      "U"
+    ],
+    [
+      "A",
+      "I",
+      "F",
+      "T",
+      "L",
+      "V",
+      "F",
+      "I",
+      "X",
+      "V",
+      "P",
+      "T"
+    ],
+    [
+      "M",
+      "G",
+      "Z",
+      "W",
+      "E",
+      "D",
+      "K",
+      "N",
+      "I",
+      "F",
+      "L",
+      "O"
+    ],
+    [
+      "M",
+      "H",
+      "C",
+      "L",
+      "I",
+      "M",
+      "B",
+      "J",
+      "G",
+      "N",
+      "U",
+      "O"
+    ],
+    [
+      "P",
+      "T",
+      "K",
+      "W",
+      "G",
+      "E",
+      "A",
+      "R",
+      "I",
+      "N",
+      "G",
+      "L"
+    ]
+  ],
+  "placements": [
+    {
+      "word": "PELOTON",
+      "row": 1,
+      "col": 2,
+      "direction": "S"
+    },
+    {
+      "word": "DESCENT",
+      "row": 0,
+      "col": 4,
+      "direction": "SE"
+    },
+    {
+      "word": "GEARING",
+      "row": 11,
+      "col": 4,
+      "direction": "E"
+    },
+    {
+      "word": "HELMET",
+      "row": 0,
+      "col": 3,
+      "direction": "S"
+    },
+    {
+      "word": "CHAIN",
+      "row": 5,
+      "col": 7,
+      "direction": "S"
+    },
+    {
+      "word": "WHEEL",
+      "row": 6,
+      "col": 5,
+      "direction": "NE"
+    },
+    {
+      "word": "CYCLE",
+      "row": 5,
+      "col": 4,
+      "direction": "S"
+    },
+    {
+      "word": "LIGHT",
+      "row": 7,
+      "col": 1,
+      "direction": "S"
+    },
+    {
+      "word": "CLIMB",
+      "row": 10,
+      "col": 2,
+      "direction": "E"
+    },
+    {
+      "word": "DRAFT",
+      "row": 0,
+      "col": 5,
+      "direction": "E"
+    },
+    {
+      "word": "TIRE",
+      "row": 1,
+      "col": 10,
+      "direction": "S"
+    },
+    {
+      "word": "BELL",
+      "row": 7,
+      "col": 8,
+      "direction": "NE"
+    },
+    {
+      "word": "TOOL",
+      "row": 8,
+      "col": 11,
+      "direction": "S"
+    },
+    {
+      "word": "KIT",
+      "row": 6,
+      "col": 3,
+      "direction": "S"
+    }
+  ],
+  "createdAt": "2026-10-11",
+  "seed": 529095340
+}
